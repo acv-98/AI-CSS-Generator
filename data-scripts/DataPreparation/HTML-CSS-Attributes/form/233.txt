@@ -1,0 +1,17 @@
+ border-color: #cfcfcf;  margin-right: -0.4%; 
+ width:95%; float:none;  margin-right: -1.5%;  margin-top:30px; width:104%; padding:0; margin:0; list-style:none;  width: 44.2%; float: left; margin: 0 5% 2% 0;  float:left;  float:right;  clear:both; float: none; width: 95%;  display: block  clear:both; width:auto; float:none;  font-size:13px;  font-family: 'Calibri', 'Droid Sans', Verdana, Arial, sans-serif; font-size: 11px; color: #9C9B9B  margin-top:10px; padding:10px;  font-size: 12px; background-color:#fff; width:97.5%;  padding:10px;   width:97%; height:150px; background-color:#fff;  background-repeat:no-repeat;  background-position:98% center;  background-position: 98% 15px; .content .contact-form li.error input, .content .contact-form li.error textarea, .content .contact-form li.error select,
+ background-image:url('images/icons/error.png'); border:1px solid #cf0606; .content .contact-form li.success input, .content .contact-form li.success textarea, .content .contact-form li.success select,
+ background-image:url('images/icons/success.png');  font-style:normal; font-size:11px; color:#cf0606; height:14px; clear:both; width:auto; float:none; display: block; .content .contact-form li.submit-button input {
+    background: url("images/input_pattern.png") repeat-x scroll 0 0 #F3F0F0;
+    border: 1px solid #CFCFCF;
+    cursor: pointer;
+    display: block;
+    font-size: 9px;
+    height: 30px;
+    letter-spacing: 1px;
+    padding: 0 4px;
+    text-transform: uppercase;
+    margin:0;
+    
+ background: url("images/input_pattern_hover.png") repeat-x scroll 0 0 #fff;  color:#ddd;  color:#4c4c4c; width:auto;  padding:10px 15px 10px 55px; border:1px solid; margin:0 auto 30px; background:no-repeat 15px center; width:400px;  background-color:#effea9; border-color:#d7ee6e; color:#839607; background-image:url('images/icons/tick_contact.png');  background-color:#fedccd; border-color:#fa8c83; color:#c82c1f; background-image:url('images/icons/error.png');  right: 5px;  float:left;  float:right; margin-right: 1%; .sidebar-left .contact-form li.submit-button input.alignright,
+ float:right; margin-right: 0.5%;  margin:0 auto;  border-radius:8px; -moz-border-radius:8px; -webkit-border-radius:8px; 

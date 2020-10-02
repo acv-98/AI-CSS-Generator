@@ -1,0 +1,12 @@
+ content: "\f10b"; 
+ *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ * Genius
+ * Copyright 2018 - HTML.Design
+ * Licensed under  (Creative Commons 3.0)
+@font-face {
+    font-family: "Flaticon";
+    src: url("fonts/Flaticon.eot");
+    font-weight: normal;
+    font-style: normal;
+    content: "\f10b";

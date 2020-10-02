@@ -1,0 +1,4 @@
+float:left;
+width:342px;
+height:274px;
+background: url(../images/tp_image.jpg) no-repeat;

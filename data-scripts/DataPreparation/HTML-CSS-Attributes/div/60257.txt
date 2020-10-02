@@ -1,0 +1,10 @@
+ width: 160px; 	
+	.related-projects{
+		width: 712px; 
+ width: 252px;  width: 436px;  color: #444; 	float: left;
+	margin-bottom: 70px;
+ font-weight: bold; .project-pager{
+	overflow: hidden;
+	padding-bottom: 24px;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	padding-top: 24px;

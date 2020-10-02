@@ -1,0 +1,2 @@
+	background-position:center 0;
+	color:#1c1b18;

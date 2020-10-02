@@ -1,0 +1,8 @@
+	float: right;
+	margin-left:0;
+	padding: 0;
+	width:320px;
+	height:auto;
+	overflow:visible
+	vertical-align:top
+	border: none

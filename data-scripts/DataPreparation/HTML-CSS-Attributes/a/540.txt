@@ -1,0 +1,7 @@
+	background:url(../images/search-button.png) 0 0 no-repeat;
+	display:inline-block;
+	vertical-align:top;
+	float:left;
+	width:26px;
+	height:29px;
+	margin:0 0 0 0

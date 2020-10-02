@@ -1,0 +1,14 @@
+  border-color: #ffd500;
+  background-color: #ffd500;
+  color: #ffd500;
+		left: 0;
+		-webkit-transform: translate3d(0, 0, 0);
+		        transform: translate3d(0, 0, 0);
+	    left: 0;
+	    -webkit-transform: translate3d(0, 0, 0);
+	            transform: translate3d(0, 0, 0);
+    border-color: #ffd500;
+    content: "\f106";
+    background-color: #ffd500;
+  text-decoration: underline;
+  pointer-events: none;

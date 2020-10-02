@@ -1,0 +1,4 @@
+	display: inline;
+	float: left;
+	text-align: center;
+	width: 100%;

@@ -1,0 +1,1 @@
+ float:none; margin:0 auto; width:32px; height:32px; background:url(../images/social.png) no-repeat; float:left; margin-right:10px; transition: all 0.5s ease;

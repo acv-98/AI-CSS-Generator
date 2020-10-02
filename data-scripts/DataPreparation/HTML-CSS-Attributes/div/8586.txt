@@ -1,0 +1,11 @@
+ padding-top: 50%; 
+	.contact-page .main-navigation,
+	.gallery-page .main-navigation,
+	.main-navigation {
+		float: none;
+		position: static;
+		overflow: auto;
+    	margin: 0 auto 80px;   
+    	padding-right: 0;
+    	width: 310px;
+    	max-width: 100%;

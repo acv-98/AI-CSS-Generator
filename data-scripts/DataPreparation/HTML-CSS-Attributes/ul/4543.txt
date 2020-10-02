@@ -1,0 +1,3 @@
+	float:left;
+	list-style-type:none;
+	width:450px;

@@ -1,0 +1,8 @@
+  padding: 8px 15px;
+  margin-bottom: 20px;
+  list-style: none;
+  background-color:transparent;
+  border-radius: 4px;
+  display: inline-block;
+  color: #ccc;
+  content: "/\00a0";

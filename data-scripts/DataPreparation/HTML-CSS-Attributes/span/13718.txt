@@ -1,0 +1,2 @@
+    border: 2px solid #8c8a8a;
+    color: #8c8a8a;

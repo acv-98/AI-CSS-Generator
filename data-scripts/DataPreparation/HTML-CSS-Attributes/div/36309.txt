@@ -1,0 +1,16 @@
+	margin:0;
+	padding:0;
+	width:980px;
+	background:url(images/content_bg1.gif) repeat-y left;
+	border:none;
+	float:left;
+	font:bold 14px/1.5em Arial, Helvetica, sans-serif;
+	color:#80a6ba;
+	background-color:#fff;
+	list-style:none;
+	padding-bottom:6px;
+	text-decoration:none;
+	padding-left:15px;
+	font-size:14px;
+	line-height:2em;
+	height:36px;

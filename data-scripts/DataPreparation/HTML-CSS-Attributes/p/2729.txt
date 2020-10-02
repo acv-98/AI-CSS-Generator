@@ -1,0 +1,1 @@
+	font:bold 14px/1.5em Arial, Helvetica, sans-serif;

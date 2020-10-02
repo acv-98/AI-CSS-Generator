@@ -1,0 +1,1 @@
+color:#FFF; background:url("../images/shout_bg.png") top center no-repeat #7F077F;

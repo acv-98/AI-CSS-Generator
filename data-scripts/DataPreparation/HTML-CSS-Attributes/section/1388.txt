@@ -1,0 +1,9 @@
+    font-size: 20px;
+    color: #061e37;
+    font-weight: bold;
+    margin-bottom: 0;
+    font-style: italic;
+    font-family: Roboto-Light;
+    max-width: 730px;
+    margin-right: auto;
+    margin-left: auto;

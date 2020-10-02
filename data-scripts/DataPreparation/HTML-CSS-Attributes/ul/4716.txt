@@ -1,0 +1,8 @@
+	cursor: default !important;
+	font-size: 14px;
+	line-height: 18px;
+	text-align: center;
+	font-weight: bolder;
+	float: left;
+	margin: 0 10px;
+	margin-bottom: 22px;

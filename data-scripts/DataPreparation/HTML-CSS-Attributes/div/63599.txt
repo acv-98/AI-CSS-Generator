@@ -1,0 +1,4 @@
+	width: 975px;
+	height: 134px;
+	background-image: url(images/header-bg.jpg);
+	background-position: center;

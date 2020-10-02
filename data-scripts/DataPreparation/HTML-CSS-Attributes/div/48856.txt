@@ -1,0 +1,10 @@
+	float:left;
+	width:176px;
+	margin-right:20px;
+	font-size:11px;
+	list-style-position:inside;
+	list-style-image:url(../images/trokut.png);
+	line-height:22px;
+	color:#FC6;
+	padding-bottom:2px;
+	text-decoration:none;

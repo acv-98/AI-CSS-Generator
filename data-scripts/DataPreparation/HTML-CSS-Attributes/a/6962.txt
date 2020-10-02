@@ -1,0 +1,10 @@
+    width: 230px;
+    height: 52px;
+    text-transform: uppercase;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.31);
+    border: 0;
+    padding: 1rem;
+    letter-spacing: 5px;
+	transition:.5s;
+	color:#70c92f;

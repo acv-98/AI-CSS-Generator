@@ -1,0 +1,1 @@
+background-image:url(../images/icons/sm_icons/icon-facebook2.png);background-image:url(../images/icons/sm_icons/round/icon-facebook.png);float:left;margin-left:5px;width:55px;overflow:hiddencolor:#000position:relativebackground:#fff

@@ -1,0 +1,10 @@
+	float:right;
+	margin:-38px -12px 0 0;
+	width:94px;
+	padding:4px 0;
+	font-size:46px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#fff;
+	border:1px solid #dedede;

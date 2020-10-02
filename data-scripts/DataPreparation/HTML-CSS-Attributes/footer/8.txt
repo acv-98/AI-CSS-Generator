@@ -1,0 +1,12 @@
+    padding-bottom: 80px;
+	background:url(../images/footerbg.jpg) center top no-repeat scroll;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	overflow: hidden;
+	color:#fff;
+	margin-top:90px;
+	padding:5px;
+	font-size:25px;

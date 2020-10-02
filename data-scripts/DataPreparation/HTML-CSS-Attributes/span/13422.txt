@@ -1,0 +1,4 @@
+	position: relative;
+	display: block;
+	color: #FFF;
+	text-transform: uppercase;

@@ -1,0 +1,22 @@
+  
+ width:48% !important; margin-right:4% !important; height:auto;  margin-right:0 !important;  width:48% !important; margin-right:4% !important;  margin-right:0 !important;  margin-bottom:15px;                          
+ width:30% !important; margin-right:4% !important; height:auto;  margin-right:0 !important; 	height: 200px;
+	float: left;
+	margin-right: 28px;
+	margin-bottom: 50px;
+	width: 22.75%;
+	margin-top: 10px;
+	background: url('../images/icons/project.png') 20% center no-repeat
+	min-height: 150px;
+	position: relative
+	display: none;
+	left: 0px;
+	overflow: hidden;
+	top: 0px;
+	opacity: .7;
+	text-align: center;
+	line-height: 9999px;
+	bottom: 20%;
+	color: white;
+	font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif;
+	font-size: 16px;

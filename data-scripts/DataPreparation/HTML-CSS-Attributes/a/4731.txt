@@ -1,0 +1,9 @@
+	display:inline-block;
+	color:#fff;
+	font-size:15px;
+	line-height:1.2em;
+	text-decoration:none;
+	background:url(../images/link2-bgd.gif) left top repeat-x;
+	letter-spacing:-1px;
+	text-transform:uppercase;
+	padding:10px 22px;

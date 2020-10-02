@@ -1,0 +1,6 @@
+    position: absolute
+    width: 120px;
+    height: 120px;
+    max-width: none;
+    top: -1px;
+    left: -13px;

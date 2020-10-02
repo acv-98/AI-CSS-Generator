@@ -1,0 +1,5 @@
+    color:#D2D3D5;
+    font-size:17px;
+    line-height: 25px;
+    padding:40px;
+    max-width: 100%;

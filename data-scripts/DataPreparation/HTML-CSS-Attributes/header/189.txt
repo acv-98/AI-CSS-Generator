@@ -1,0 +1,6 @@
+ background-color: rgba(0, 0, 0, 0.7); 
+.site-title-text {
+	font-size: 3.8em;
+	padding-top: 20px;
+	padding-bottom: 25px;
+	text-align: center;

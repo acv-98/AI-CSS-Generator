@@ -1,0 +1,8 @@
+	list-style-type:disc;
+	margin-left:10px;
+	width:auto;
+	pading:0;
+	text-decoration:none;
+	font-family:Georgia;
+	font-size:14px;
+	color:#5B2F01;

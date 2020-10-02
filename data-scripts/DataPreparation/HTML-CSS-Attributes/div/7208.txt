@@ -1,0 +1,1 @@
+width:290px; float:right;padding-bottom:20px; padding-bottom:20px;  color:#66a7c5; text-decoration:underline;text-decoration:underline; color:#ee3233;color:#66a7c5;

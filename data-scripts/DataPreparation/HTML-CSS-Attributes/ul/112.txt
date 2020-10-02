@@ -1,0 +1,13 @@
+  list-style: none;
+  margin: 0;
+  margin-top: 30px;
+  display: block;
+  float: left;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  background: #34495e;
+  color: #fff;
+  font-size: 24px;
+  margin-left: 70px;

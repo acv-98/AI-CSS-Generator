@@ -1,0 +1,8 @@
+    margin-top: 20px;
+    display: block;
+    font-size: 14px;
+    color: #fff;
+    float: right;
+    padding: 8px 23px;
+    text-decoration: none;
+    background-color: #404852;

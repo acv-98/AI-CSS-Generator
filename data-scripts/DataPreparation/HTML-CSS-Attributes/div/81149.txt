@@ -1,0 +1,7 @@
+ color: #333333 button.btn.btn-default {
+    padding: 11px 15px;
+    color: #ffffff;
+    background: #FFCC33;
+    border: 1px solid #DDD;
+ margin-top: 40px  margin-top: -30px .comment input,
+ margin-bottom: 15px 

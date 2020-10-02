@@ -1,0 +1,12 @@
+	padding-top: 200px;
+	padding-bottom: 200px;
+	font-size: 24px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-weight: bold;
+	max-width: 70%;
+    text-transform: uppercase;
+    width: 90%;
+    font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;

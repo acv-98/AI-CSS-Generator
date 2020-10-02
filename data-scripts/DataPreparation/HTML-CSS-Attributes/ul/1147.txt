@@ -1,0 +1,16 @@
+	text-decoration:none;
+	width:100%;
+	padding:1px 0 5px;
+	background:url(../images/menu-row-tail.png) center top repeat-x;
+	margin-bottom:22px;
+	overflow:hidden;
+	float:left;
+	position:relative;
+	display:inline-block;
+	height:60px;
+	font-family: 'PT Sans', sans-serif;
+	font-size:17px;
+	font-weight:400;
+	line-height:59px;
+	color:#fff;
+	text-transform:uppercase;

@@ -1,0 +1,4 @@
+	overflow:hidden;
+	line-height:1.571em;
+	display:block;
+	padding-bottom:14px;

@@ -1,0 +1,6 @@
+	float: left;
+	width: 613px;
+	position: relative;
+	background:white;
+	padding:15px;
+	margin-top:-28px;

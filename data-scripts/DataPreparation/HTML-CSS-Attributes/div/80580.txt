@@ -1,0 +1,14 @@
+color:#f1f1f1;	.body .blog p {
+		margin-bottom:9px;
+		font-size:12px;
+		font-family:Arial, Helvetica, sans-serif;
+		color:#494949;
+		line-height:17px;
+		width:501px;
+		float:right;
+float:left;	.body .blog.style-2 .description  h5 {
+		margin-top:5px;
+		padding-bottom:0;
+margin-top:6px;margin-top:3px;margin-top:3px;float:left;width:381px;margin:0 0 0 20px;margin-top:6px;margin-bottom:15px;	.body .blog.post h6 {
+margin:0;float:right;width:376px;		* Style 3
+margin-top:3px;float:left;width:285px;margin:0 0 0 20px;width:100%;margin:0 0 0 6px;float:none;width:100%;display:block;margin:0;float:none;

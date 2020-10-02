@@ -1,0 +1,6 @@
+	margin:75px 0 0 80px;
+	height:338px;
+	text-align:center;
+	color:#cecece;
+	font-size:1em;
+	line-height:1.2;

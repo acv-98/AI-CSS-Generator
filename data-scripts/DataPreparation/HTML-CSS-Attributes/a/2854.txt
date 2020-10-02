@@ -1,0 +1,16 @@
+	font-size:18px;
+	line-height:18px;
+	vertical-align:middle;
+	position:absolute;
+	top:50%;
+	margin-top:-29px;
+	color:#FFF;
+	text-decoration:none;
+	left:0;
+	right:0;
+	padding:20px 0;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	-webkit-transition:all .3s cubic-bezier(.785,.135,.15,.86);
+	-moz-transition:all .3s cubic-bezier(.785,.135,.15,.86);
+	transition:all .3s cubic-bezier(.785,.135,.15,.86);

@@ -1,0 +1,7 @@
+		width:39px;
+		height:39px;
+		float:left;
+		margin-right:15px;
+		background-color:#f4f3f3;
+		background-repeat:no-repeat;	
+		transition: all 0.3s ease 0s;		

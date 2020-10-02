@@ -1,0 +1,10 @@
+ margin: 50px 5vw auto auto; 	.flexbox_item_menu ul {
+		display: inline;
+		list-style-type:none;
+		font-family: 'Bitter', serif;
+		font-size: 130%;
+		padding: 10px;
+background-color: #dcd06f;font-size: 18px;width: 100%; height: auto; border-top: 2px solid #AAAAAA; border-bottom: 2px solid #5e7a96;text-align: center; padding: 10px 10px 10px 10px; padding-top: 10px!important;			display: inline-block;
+			padding-top: 0;
+			margin: 0;
+text-align: center; margin-top: 20px;

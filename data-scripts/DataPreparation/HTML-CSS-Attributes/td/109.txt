@@ -1,0 +1,2 @@
+  color: #FE980F;
+  font-size: 24px;

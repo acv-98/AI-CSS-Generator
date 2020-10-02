@@ -1,0 +1,16 @@
+	margin:0;
+	padding:0;
+	float:left;
+	width:630px;
+	margin-bottom:0;
+	padding-bottom:0;
+	font-size:35px;
+	line-height:1.2em;
+	color:#161616;
+	border:none;
+	display:block;
+	height:40px;
+	text-decoration:none;
+	text-align:center;
+	background:url(../images/comment.gif) no-repeat left top;
+	font-weight:bold;

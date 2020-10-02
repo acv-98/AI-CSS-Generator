@@ -1,0 +1,5 @@
+ font-size: 48px; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: 400;  font-size: 48px; font-family: 'Oswald', sans-serif; color: #ea7206; font-style: normal; font-weight: 400;     font-size: 48px;
+    line-height: 60px;
+    color: #282627;
+ color: #ea7206; .slider_cycle .slide-content {
+ color: inherit; 

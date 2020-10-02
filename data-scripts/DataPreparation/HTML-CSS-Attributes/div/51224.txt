@@ -1,0 +1,1 @@
+font-size:3em; line-height:0.5em; margin:0.5em 0;list-style:none; font-family:Georgia, "Times New Roman", Times, serif; font-style:oblique;display:inline; margin-right:20px;

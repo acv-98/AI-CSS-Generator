@@ -1,0 +1,3 @@
+	text-decoration:none;
+	background:url(images/menu_hover.gif) repeat-x;
+	color:#fff;

@@ -1,0 +1,14 @@
+        max-width: 100%;
+        margin-left:0;
+        font-size: 1.5rem;
+        line-height: 2.3rem;
+        width: 80%;
+    background: url(../images/video.jpg) no-repeat right center;
+    text-align: center;
+    height: 465px;
+    background-size: cover;
+    padding: 20px 40px;
+    color:#fff;
+    font-family: 'open_sanslight_italic';
+    margin-bottom:15px;
+    margin-top:30px;

@@ -1,0 +1,6 @@
+     background: #b0b435;
+     color: #ffffff;
+     font-size: 18px;
+     width: 120px;
+     vertical-align: middle;
+     white-space: nowrap;

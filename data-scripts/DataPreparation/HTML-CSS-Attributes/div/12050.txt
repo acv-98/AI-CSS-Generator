@@ -1,0 +1,5 @@
+	float:left;
+	width:320px;
+	margin-left:50px;
+	font-size:20px;
+	color:#555;

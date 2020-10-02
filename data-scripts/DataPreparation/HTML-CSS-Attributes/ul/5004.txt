@@ -1,0 +1,15 @@
+          list-style: none;
+          margin: 0;
+          padding: 0;
+          overflow-y: hidden;
+            overflow-y: auto;
+            overflow-x: hidden;
+            padding-bottom: 0.5em;
+            list-style-type: none;
+ display: block; width:85%; float: right; text-align:left;  display: block; font-size:1.2em; padding:0.8em 0em;           .tweet_list .tweet_even {
+            background-color: #91E5E7;
+            padding-right: 1em; float:left;
+              vertical-align: middle;
+              border:5px solid #BBB;
+              margin-top:0.8em;
+ boder:0px;  width:55%;  padding-right:0em;   width:70%;  padding-right:0em;   width:85%;  padding-right:0em;   width:85%;   width:85%; 

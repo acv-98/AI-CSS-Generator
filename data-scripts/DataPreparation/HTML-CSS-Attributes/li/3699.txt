@@ -1,0 +1,10 @@
+    background-color: #FFFFFF;
+    border-bottom: dotted 1px #DDDDDD;
+    color: #333333;
+    font-size: 0.875rem;
+    font-weight: normal;
+    padding: 0.9375rem;
+font-family:"/5.5.3/" * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS and IE text size adjust after device orientation change,
+ *    without disabling user zoom.
+html {

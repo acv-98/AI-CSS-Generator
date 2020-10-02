@@ -1,0 +1,15 @@
+	background-color: #D2691E;
+	color: #D2691E;
+	border: 2px solid #D2691E;
+	text-align: center;
+	margin-bottom: 10px;
+  border-radius: 100%;
+  color: #fff;
+  font-size: 72px;
+  height: 150px;
+  line-height: 120px;
+  padding: 15px 0;
+  width: 150px; 
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

@@ -1,0 +1,18 @@
+			padding: 1em;
+				padding: 1.5em 1.25em 1.5em 1.25em;
+				background-color: rgba(255,255,255,0.9);
+			color: #39454b;
+			position: relative;
+			bottom: 0;
+			
+			-moz-transition: all 1s ease;
+			-webkit-transition: all 1s ease;
+			-o-transition: all 1s ease;
+			-ms-transition: all 1s ease;
+			transition: all 1s ease;
+			-moz-transform: translateZ(0);
+			-webkit-transform: translateZ(0);
+			-o-transform: translateZ(0);
+			-ms-transform: translateZ(0);
+			transform: translateZ(0);
+				bottom: -30em;

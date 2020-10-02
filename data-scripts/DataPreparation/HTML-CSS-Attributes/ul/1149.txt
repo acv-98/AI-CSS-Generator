@@ -1,0 +1,8 @@
+	padding:7px 6px 0 0px;
+	float:right;
+	display:block;
+	width:41px;
+	height:46px;
+	text-indent:-9999em;
+	background:url(../images/social-icons.png) 0 0 no-repeat;
+	background-position:-50px 0;

@@ -1,0 +1,2 @@
+	text-align:right;
+	color:#33dcfb;

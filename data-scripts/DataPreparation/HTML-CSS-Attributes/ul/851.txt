@@ -1,0 +1,6 @@
+    list-style: none;
+    color: #454e51;
+    margin-bottom: 15px;
+    display: block;
+    font-weight: 600;
+    text-decoration: none;

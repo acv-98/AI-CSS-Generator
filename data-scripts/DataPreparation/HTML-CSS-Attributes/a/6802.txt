@@ -1,0 +1,12 @@
+    width: 160px;
+    height: 38px;
+    background: #FF3366;
+    color: #fff;
+    font-size: 18px;
+    display: inline-block;
+    text-align: center;
+    padding: 6px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    margin-top: 25px;
+    text-decoration:none;

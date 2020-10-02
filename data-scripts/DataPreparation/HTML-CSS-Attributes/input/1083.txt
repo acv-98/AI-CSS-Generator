@@ -1,0 +1,17 @@
+  position: relative;
+  height: 3.125rem;
+  font-size: 0.8125rem;
+  font-weight: 400;
+  color: rgba(34, 35, 36, 0.5);
+  border: none;
+  border-bottom: .0625rem solid;
+  background: rgba(34, 35, 36, 0.3);
+  box-shadow: none;
+  border-radius: 0;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  padding: 0 1.25rem .3125rem 1rem;
+  transition-duration: 300ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  border-color: #222324;

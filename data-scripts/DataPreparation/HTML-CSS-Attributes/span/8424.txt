@@ -1,0 +1,6 @@
+  color: #c2c2c2;
+  display: block;
+  padding: 0 0 33px;
+  font-weight: normal;
+    padding: 0 0 24px;
+    font-size: 1.2rem;

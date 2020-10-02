@@ -1,0 +1,58 @@
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	padding-left:100px;
+	padding-right:100px;
+	left:100px;
+ position: relative; width: 960px; margin: 0 auto; padding: 0; 	.grid_1,
+	.grid_2,
+	.grid_3,
+	.grid_4,
+	.grid_5,
+	.grid_6,
+	.grid_7,
+	.grid_8,
+	.grid_9,
+	.grid_10,
+	.grid_11,
+	.grid_12
+ margin-left: 0;  margin-right: 0;  width: 60px;   width: 140px;  width: 220px;  width: 300px;  width: 380px;  width: 460px;  width: 540px;  width: 620px;  width: 700px;  width: 780px;  width: 860px;  width: 940px; padding-left:80px;padding-left:160px;padding-left:240px;padding-left:320px;padding-left:400px;padding-left:480px;padding-left:560px;padding-left:640px;padding-left:720px;padding-left:800px;padding-left:880px;padding-right:80px;padding-right:160px;padding-right:240px;padding-right:320px;padding-right:400px;padding-right:480px;padding-right:560px;padding-right:640px;padding-right:720px;padding-right:800px;padding-right:880px;    @media only screen and (min-width: 768px) and (max-width: 995px) {
+ width: 768px;         .grid_1,
+		.grid_2,
+		.grid_3,
+		.grid_4,
+		.grid_5,
+		.grid_6,
+		.grid_7,
+		.grid_8,
+		.grid_9,
+		.grid_10,
+		.grid_11,
+		.grid_12
+ margin-left: 0; margin-right: 0; width: 44px;  width: 108px;  width: 172px;  width: 236px;  width: 300px;  width: 364px;  width: 428px;  width: 492px;  width: 556px;  width: 620px;  width: 684px;  width: 748px; padding-left:64px;padding-left:128px;padding-left:192px;padding-left:256px;padding-left:320px;padding-left:384px;padding-left:448px;padding-left:512px;padding-left:576px;padding-left:640px;padding-left:768px;padding-right:64px;padding-right:128px;padding-right:192px;padding-right:256px;padding-right:320px;padding-right:384px;padding-right:448px;padding-right:512px;padding-right:576px;padding-right:640px;padding-right:768px;width: 300px;width: 300px;		.container_12 .prefix_1,
+		.container_12 .prefix_2,
+		.container_12 .prefix_3,
+		.container_12 .prefix_4,
+		.container_12 .prefix_5,
+		.container_12 .prefix_6,
+		.container_12 .prefix_7,
+		.container_12 .prefix_8,
+		.container_12 .prefix_9,
+		.container_12 .prefix_10,
+padding-left:0;		.container_12 .suffix_1,
+		.container_12 .suffix_2,
+		.container_12 .suffix_3,
+		.container_12 .suffix_4,
+		.container_12 .suffix_5,
+		.container_12 .suffix_6,
+		.container_12 .suffix_7,
+		.container_12 .suffix_8,
+		.container_12 .suffix_9,
+		.container_12 .suffix_10,
+padding-right:0; width: 420px; width: 420px;padding-left:0;padding-right:0; content: "\0020"; display: block; height: 0; clear: both; visibility: hidden;     .clearfix:before,
+    .row:before,
+      content: '\0020';
+      display: block;
+      overflow: hidden;
+      visibility: hidden;
+      width: 0;

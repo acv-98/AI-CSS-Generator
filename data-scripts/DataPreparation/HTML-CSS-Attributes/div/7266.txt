@@ -1,0 +1,1 @@
+width:5px; height:5px; background:url(../images/search-cor-left.gif) no-repeat left top; position:absolute; left:0px; top:0px;

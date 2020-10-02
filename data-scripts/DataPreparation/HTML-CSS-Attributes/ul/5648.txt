@@ -1,0 +1,10 @@
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 16px;
+    list-style: none;
+    cursor: pointer;
+    float: left;
+    width: 30%;
+        display: none;

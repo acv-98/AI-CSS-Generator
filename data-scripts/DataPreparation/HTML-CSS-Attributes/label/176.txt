@@ -1,0 +1,4 @@
+    margin-bottom: 0;
+    vertical-align: middle;
+    padding-top: 7px;
+    text-align: right;

@@ -1,0 +1,9 @@
+    color: #888;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px dotted #ccc;
+    float: left;
+    margin-right: 12px;
+    line-height: 18px;
+    font-size: 0.8em;

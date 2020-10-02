@@ -1,0 +1,12 @@
+	max-width: 920px;
+	width: 92%;
+	margin: 0 auto;
+	overflow: auto;
+	border-bottom: 1px solid #E7E7E7;
+	padding:40px 0;
+	font-size: 1.20em !important;
+	margin-top: 20px;
+	line-height: 0;
+ width:86%;
+ margin:0 auto 0;
+ font-size: 1.5em;

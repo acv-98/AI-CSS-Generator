@@ -1,0 +1,7 @@
+  margin-top: -1px;
+  background-image: url(../img/fourth-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  overflow: hidden;
+  background-attachment: fixed;

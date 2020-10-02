@@ -1,0 +1,7 @@
+  padding: 0;
+  margin: 0 0 1.5em 0;
+  position: relative;
+  padding-left: 50px;
+  list-style: none;
+  top: .4em;
+  left: 0;

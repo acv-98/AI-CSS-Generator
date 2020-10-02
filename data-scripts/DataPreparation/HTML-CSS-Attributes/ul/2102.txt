@@ -1,0 +1,17 @@
+	margin-bottom:80px;
+	padding:0;
+	list-style:none;
+	position:relative;
+	content: ' ';
+	top:0;
+	left:0;
+	height:100%;
+	width:1px;
+	background:#D0D0D0;
+	padding-left:40px;
+	border:solid 1px #B6B6B6;
+	border-radius:50%;
+	display:block;
+	color:rgba(0,0,0,.6);
+	margin-right:10px;
+	line-height:1.6em;

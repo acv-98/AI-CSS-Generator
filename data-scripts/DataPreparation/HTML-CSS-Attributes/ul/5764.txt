@@ -1,0 +1,27 @@
+	z-index: 990;
+	text-align: center;
+	position: relative;
+float:left;position:relative; .sf-menu>li {
+	font-size: 22px;
+	line-height: 30px;
+	margin-left: 124px;
+	background: url(../images/menu_marker.png) 0 0 no-repeat;
+	width: 7px;
+	height: 7px;
+	top: 12px;
+	left: -70px;
+	content: '';
+	display: block;
+  float: none;
+  position: static;
+	color: #5f604b;
+	
+	right: -10px;
+	bottom: 5px;
+	pointer-events: none;
+	padding-top: 12px;
+	padding-bottom: 14px;
+	background-color: #4d4d4d;
+	float: none !important;
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 0;

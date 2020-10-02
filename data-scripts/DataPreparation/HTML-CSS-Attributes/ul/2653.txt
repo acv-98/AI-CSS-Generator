@@ -1,0 +1,8 @@
+	background:url(../images/line_hor1.png) 0px 0 no-repeat;
+	padding-top:1px
+	line-height:29px;
+	font-style:normal
+	padding-left:4px;
+	float:left;
+	width:62px
+	color:#fff

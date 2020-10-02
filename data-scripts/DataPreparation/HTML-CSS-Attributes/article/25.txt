@@ -1,0 +1,3 @@
+	display: none;
+	color: #999999;
+	border: none;

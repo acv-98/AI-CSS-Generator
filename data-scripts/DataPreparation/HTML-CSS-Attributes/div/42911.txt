@@ -1,0 +1,8 @@
+position: absolute;
+width: 100%;
+height: 800px;
+padding: 0;
+margin: 0;
+opacity: 0.5;
+filter: alpha(opacity=50);
+height: 1247.19px;height: 1697.19px;height: 828.56px;height: 968.56px;

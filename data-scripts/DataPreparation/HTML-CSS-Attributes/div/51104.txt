@@ -1,0 +1,4 @@
+	overflow: hidden;
+	padding-top: 28px;
+	margin-bottom: 38px;
+	border: 1px solid #d3d3d3;

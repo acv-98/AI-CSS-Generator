@@ -1,0 +1,5 @@
+ background: #fff 
+#page-title {
+   background: #383232 url(../images/header-bg.jpg);
+   padding-top: 42px;
+   padding-bottom: 54px;

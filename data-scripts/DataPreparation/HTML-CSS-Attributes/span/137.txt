@@ -1,0 +1,7 @@
+    color: #aeaeae!important;
+    text-transform: uppercase;
+    font-size: 32px;  
+        display: block!important;
+     margin-top: 10px;
+     border-right: 1px solid white;
+    height: 55px;

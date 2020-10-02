@@ -1,0 +1,9 @@
+ font-size:13px; padding:0 0 0 8px	padding:0;
+	margin:35px 0 55px;
+	display:inline-block;
+	font-family: 'Montserrat',sans-serif;
+	font-size:14px;
+	color: #bcbcbc;
+	text-transform: uppercase;
+	font-weight: 400;
+	background:none;

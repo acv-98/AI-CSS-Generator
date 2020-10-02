@@ -1,0 +1,4 @@
+        margin-bottom: 10px;
+.features_area .single_features .feature_icon i{
+    font-size:1.875rem;
+    color:#fff;

@@ -1,0 +1,5 @@
+	font-size: 3em;
+	color: #FFF;
+	font-weight: 600;
+	margin: 3.4% 0;
+		font-size: 2em;

@@ -1,0 +1,8 @@
+	display:block;
+	width:20px;
+	height:20px;
+	position:absolute;
+	z-index:11
+	bottom:0;
+	left:0;
+	background:url(../images/content_bot_left.gif) bottom left no-repeat

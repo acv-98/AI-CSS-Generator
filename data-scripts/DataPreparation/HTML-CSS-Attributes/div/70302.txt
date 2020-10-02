@@ -1,0 +1,2 @@
+	background:url(images/hbg_img.jpg) no-repeat center top;
+	height:262px;

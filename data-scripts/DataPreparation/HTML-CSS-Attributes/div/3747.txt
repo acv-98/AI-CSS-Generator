@@ -1,0 +1,15 @@
+	padding:0 20px;
+	width:100%;
+	background:url(../images/bg-tail.png) left top repeat;
+	height:100%;
+	position:fixed;
+	z-index:9;
+	display:block;
+	font-family: 'Adamina', serif;
+	font-size:19px;
+	line-height:2em;
+	font-weight:400;
+	color:#fff;
+	float:right;
+	margin-right:4px;
+	padding-top:12px;

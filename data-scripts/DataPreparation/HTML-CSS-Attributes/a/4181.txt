@@ -1,0 +1,9 @@
+	outline: 0;
+	opacity: 0.6;
+	background: #8ec1cd;
+	color: #fff;
+ color: #8ec1cd; .portfolio-box {
+	position: relative;
+	width: 255px;
+	margin: 30px 15px 0 15px;
+	overflow: hidden;

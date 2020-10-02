@@ -1,0 +1,14 @@
+    color: #db00ce !important;
+        font-size: 14px;
+        float: none!important;
+        margin-top: 7.5px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+    background-color: transparent;
+	color: #00aeef;
+    position: relative;
+    right: 2px;
+    top: 13px;

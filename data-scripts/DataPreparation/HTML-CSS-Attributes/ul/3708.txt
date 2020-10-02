@@ -1,0 +1,11 @@
+    margin-top: -3px;
+    position: relative;
+    transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+    content: '';
+    bottom: 2px;
+    left: 0;
+    width: 100%;
+    background-color: #c7c6c6;
+    height: 1px;

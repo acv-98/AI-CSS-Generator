@@ -1,0 +1,16 @@
+  background-color: #f2745f!important;
+  color: #fff!important;
+  text-align: center;
+  padding: 40px 0px;
+  margin: 15px 0px;
+  transition: all 0.5s;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  display: inline-block;
+  line-height: 90px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-size: 17px;
+  font-weight: 700;
+  text-transform: uppercase;

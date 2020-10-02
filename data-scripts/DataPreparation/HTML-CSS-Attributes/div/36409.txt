@@ -1,0 +1,10 @@
+  background-image: url("img/works_counterbg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: inline;
+  float: left;
+  min-height: 350px;
+  padding: 80px 0;
+  position: relative;
+  width: 100%;
+background-size: cover;

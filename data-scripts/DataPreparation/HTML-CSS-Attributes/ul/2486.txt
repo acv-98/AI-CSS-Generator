@@ -1,0 +1,3 @@
+	position: relative;
+	color: #fff;
+	font-size: 18px;

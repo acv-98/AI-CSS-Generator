@@ -1,0 +1,2 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-navigation-active.png', sizingMethod='image');

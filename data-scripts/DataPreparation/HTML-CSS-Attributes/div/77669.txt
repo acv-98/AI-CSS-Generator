@@ -1,0 +1,10 @@
+	display: block;
+	position: absolute;
+	top: 25%;
+	width: 100%;
+	z-index: 999;
+	background: none repeat scroll 0 0 #fff;
+	color: rgb(0, 30, 34);
+	padding: 0.3125em 0.625em;
+	font-size: 2em;
+  	font-size: 1.3em;

@@ -1,0 +1,5 @@
+	position: relative;
+	margin-bottom: 20px;
+ list-style-type: disc;  list-style-type: decimal; .reply {
+	right: 0;
+	top: -5px;

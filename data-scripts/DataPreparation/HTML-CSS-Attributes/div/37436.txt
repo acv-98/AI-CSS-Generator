@@ -1,0 +1,9 @@
+	padding: 30px;
+    background: #fff;
+    padding:30px;    
+    font-family: 'Droid Serif', serif;
+    font-size: 21px;
+    color: #3d3d3d;
+    line-height: 50px;
+    text-transform: uppercase;
+    text-align: center;   

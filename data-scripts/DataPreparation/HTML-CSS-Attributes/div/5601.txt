@@ -1,0 +1,4 @@
+  margin-bottom: 30px;
+  margin-left: 20px;
+  list-style-image: url(../img/bullets/heart.png);
+  line-height: 1.5em;

@@ -1,0 +1,17 @@
+	border-radius: 0 ;
+    background-color: #322e2f;
+    border: none;
+    margin-bottom: 0;
+	padding-left: 0;
+	margin: 0 auto;
+	background: none;
+	    padding-left: 7px;
+		min-height: 15px;
+		margin-top: -40px;
+		float: none;
+		text-align: center;
+		display: block;
+		margin-right: auto;
+		margin-bottom: 1em;
+		padding-right: 0;
+		margin-left: 0;

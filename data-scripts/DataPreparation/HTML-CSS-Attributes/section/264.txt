@@ -1,0 +1,5 @@
+    background: #1a1a1a;
+    color:#fff;
+    background-size: cover;
+    padding: 55px 15px 80px 15px; 
+    overflow: hidden;

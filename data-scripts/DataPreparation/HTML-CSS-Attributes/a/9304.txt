@@ -1,0 +1,7 @@
+	font:bold 12px/24px Tahoma, Arial, Helvetica, sans-serif;
+	color:#252531;
+	display:block;
+	width:90px;
+	text-decoration:none;
+	background:url(../images/bullet1.jpg) 0 +10px no-repeat;
+	float:left;

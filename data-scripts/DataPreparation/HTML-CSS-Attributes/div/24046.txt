@@ -1,0 +1,8 @@
+	width:180px;
+	height:auto;
+	float:right;
+	padding:0px 0px 0px 0px;
+	display:inline-block;
+	line-height:22px;
+	font-size:14px;
+	opacity: 1.0;

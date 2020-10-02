@@ -1,0 +1,5 @@
+float:left;padding:15px 15px;font-size:18px;line-height:20px;.navbar>.container .navbar-brandbackground-color:#f8f8f8;border-color:#e7e7e7;background-color:#222222;border-color:#080808;	color: #333333;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 2em;
+	font-family: 'Roboto Condensed', sans-serif;

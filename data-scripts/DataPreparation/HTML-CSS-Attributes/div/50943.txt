@@ -1,0 +1,10 @@
+	width:924px;
+	margin:0 auto;
+	border-top:3px solid #e0e1e3;
+	font-size:9px;
+	font-family:Verdana, sans-serif;
+	padding:9px 0 13px 0;
+	color:#7f7f7f;
+	text-decoration:none;
+	line-height:normal;
+	float:left;

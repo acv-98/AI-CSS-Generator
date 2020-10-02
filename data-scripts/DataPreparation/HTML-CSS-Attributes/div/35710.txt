@@ -1,0 +1,5 @@
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #ddd;
+    background-color: #eee !important;
+    margin: 15px 0;

@@ -1,0 +1,1 @@
+padding:10px 10px;width:430px;background:#ffffff;border:#dddddd 1px solid; color:#939191;

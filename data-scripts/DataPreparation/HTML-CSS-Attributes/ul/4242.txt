@@ -1,0 +1,7 @@
+  -webkit-animation-name: slideInDown;
+  animation-name: slideInDown;
+	background-image: url(../images/slider/bg-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;

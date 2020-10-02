@@ -1,0 +1,5 @@
+    border-top: 10px solid rgb(224, 227, 230);
+    padding-top:50px;
+    margin-top:30px;
+    float: right;
+        padding-top:20px;

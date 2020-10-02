@@ -1,0 +1,13 @@
+	color: #394346;
+	padding: 0.1em 1em;
+	font-size: 1.2em;
+	font-weight: 500;
+	background: url(../images/active-ico.png) no-repeat 50% 100%;
+	border:2px solid #394346;
+	border-radius:5px;
+	border-color:#FD3B01;
+    content: " ";
+    display: table;
+    clear: both;
+		color: #2C3E50;
+		padding: 0em 0;

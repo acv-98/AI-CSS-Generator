@@ -1,0 +1,3 @@
+	width:438px;
+	overflow:hidden;
+	padding: 20px 0 10px 20px;

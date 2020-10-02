@@ -1,0 +1,7 @@
+    background: #ffffff;
+    border: 1px solid #a7a7a8;
+    border-radius: 0px;
+    color: #a7a7a8;
+    height: inherit;
+    padding: 15px 15px;
+background:#fff;font-family:Lato,Belgrano,sans-serif;font-size:16px;-webkit-font-smoothing:subpixel-antialiased!important;-moz-font-smoothing:subpixel-antialiased!important;-ms-font-smoothing:subpixel-antialiased!important;-0-font-smoothing:subpixel-antialiased!important;text-rendering:optimizeLegibility!important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-overflow-scrolling:touch;-moz-overflow-scrolling:touch;-ms-overflow-scrolling:touch;-o-overflow-scrolling:touch;overflow-scrolling:touch

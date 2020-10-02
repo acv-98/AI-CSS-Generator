@@ -1,0 +1,9 @@
+	display:block;
+	float:left;
+	margin:-12px 12px 0 -50px;
+	padding:6px 0 21px;
+	width:149px;
+	text-align:center;
+	font:bold 18px/1.2em Arial, Helvetica, sans-serif;
+	color:#fff;
+	background:url(images/date_bg.png) no-repeat left top;

@@ -1,0 +1,7 @@
+	position: relative;
+	color: #ffffff;
+	background: url(images/menu_hover_right.png) right no-repeat;
+	top: 0;
+	left: -5px;
+	width: 6px;
+	height: 22px;

@@ -1,0 +1,10 @@
+	padding-top:5px;
+	height:28px;
+	text-decoration:none;
+	display:inline-block;
+	float:right;
+	color:#35b3d8;
+	cursor:pointer;
+	margin-top:-4px;
+	background:url(../images/button-left1.png) no-repeat left top;
+	font-style:normal;

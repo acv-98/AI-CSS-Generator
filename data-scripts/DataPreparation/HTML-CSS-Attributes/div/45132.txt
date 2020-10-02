@@ -1,0 +1,4 @@
+	margin:0 auto;
+	padding:0;
+	width:960px;
+	background:url(../images/content_bg.gif) repeat-y 680px top;

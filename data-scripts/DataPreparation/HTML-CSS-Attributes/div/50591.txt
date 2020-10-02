@@ -1,0 +1,3 @@
+	width:980px;
+	margin:0 auto;
+	background:url(images/sidebar-border.gif) 318px top repeat-y;

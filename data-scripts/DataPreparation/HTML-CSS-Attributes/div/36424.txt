@@ -1,0 +1,17 @@
+	float: left;
+	display: inline;
+	width: 100%;
+  border-radius: 5px 0 0 5px;
+  color: #fff;
+  height: 30px;
+  left: 92%;
+  right: 0;
+  top: -38px;
+  padding: 5px 10px;
+  -webkit-transition: 	all 0.5s;
+  -moz-transition: 	all 0.5s;
+  -ms-transition: 	all 0.5s;
+  -o-transition: 	all 0.5s;
+  transition: 	all 0.5s;
+	opacity: 0.7;
+left: 91%;left: 88.5%;left: 86.5%;left: 81.5%;left: 75.5%;left: 70.5%;

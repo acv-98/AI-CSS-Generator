@@ -1,0 +1,4 @@
+  color: #a5d549;
+	color: #bdbdbd;
+	font-size: 55px;
+	margin-bottom: 10px;

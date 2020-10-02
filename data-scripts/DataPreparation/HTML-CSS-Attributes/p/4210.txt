@@ -1,0 +1,12 @@
+	background:url(images/bg-article.gif) no-repeat top center;
+	overflow:hidden;
+	padding:19px 16px;
+	width:470px;
+	border:0;
+	float:left;
+	color:#2a4f5e;
+	font-size:15px;
+	font-weight:bold;
+	margin:12px 0;
+	text-decoration:none;
+	line-height:22px;

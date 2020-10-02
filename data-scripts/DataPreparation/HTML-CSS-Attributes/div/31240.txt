@@ -1,0 +1,2 @@
+  padding-bottom: 22px;
+  padding-right: 14px;

@@ -1,0 +1,11 @@
+	margin: auto;
+	width: 950px;
+	height: 360px;
+	background: url(../images/iphone-img.png) 360px 21px no-repeat;
+	float: left;
+	margin-left: 0;
+	margin-top: 90px;
+	padding-top: 90px;
+	font-size: 15px;
+	line-height: 30px;
+	text-align: left;

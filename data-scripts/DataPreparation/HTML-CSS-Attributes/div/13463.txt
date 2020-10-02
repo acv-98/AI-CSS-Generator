@@ -1,0 +1,10 @@
+ font-size: 20px; font-family: 'Open Sans', sans-serif; color: #0c243d; font-style: normal; font-weight: 800;  color: #6c6d03;  color: #919303;  width: 300px; padding:5px;  font-size:1.5em; background-color:#fff;border:1px solid #bbb;border-color:#666;margin:0.5em 0; font-size: 14px;  float: none;  margin-bottom: 5px; line-height: 20px; margin-bottom: 20px; 
+.section.square .picture_overlay {
+    display: block;
+    max-width: 175px;
+    max-height: 175px;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 18px;
+ margin-top:5px;  margin-top:5px;  margin-bottom: 20px; .section.blog .description {
+    margin-bottom: 20px;

@@ -1,0 +1,16 @@
+	float: left;	
+	width: 265px;
+	margin-top: 10px;
+	padding-bottom: 15px;	
+	display: inline;	
+	background-color: #150e0b;
+   border: 1px solid #261b15;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #29201c;	
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, Sans-Serif;	
+	font-size: 1.4em;	
+	font-weight: normal;
+	line-height: 125%;
+	color: #6f892c;	
+	margin-left: 5px;
+ width: 100%; 	margin: 5px; 

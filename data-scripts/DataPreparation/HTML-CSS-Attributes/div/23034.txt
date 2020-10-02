@@ -1,0 +1,11 @@
+  color: #78ADC9;
+  float: left;
+  display: inline;
+  padding-left: 15px;
+  width: 75%;
+  font-size: 24px;
+  margin-bottom: 0px;
+  margin-top: -10px;
+  text-align: left;
+  font-style: italic;
+padding-left: 15px;width: 100%;font-size: 12px;

@@ -1,0 +1,5 @@
+.main_team_area .main_team_content .single_team .single_team_overlay .team_socail a i{
+    color:#fff;
+    padding:0px 2px;
+    transition: all 0.3s;
+    border-bottom: 2px solid #000;

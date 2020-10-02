@@ -1,0 +1,5 @@
+	position:absolute;
+	left:360px;
+	top:50px;
+	width:576px;
+	padding:0 2px;

@@ -1,0 +1,4 @@
+	color:#121314;
+	background:url(images/navigation-active.gif) left top;
+	cursor:pointer;
+	background-position:right top;

@@ -1,0 +1,18 @@
+	 top:30%;
+	font-size:90px;
+	color:#fff;
+	margin-top:10px;
+	margin-bottom:10px;
+	letter-spacing:3px;
+	font-family:"Mrs Sheppards";
+	font-weight:300;
+	border-color:#00bfff;
+	-webkit-animation-delay:1s;
+	animation-delay:1s;
+	text-shadow:none;
+	padding:17px 20px;
+	margin-left:5px;
+	margin-right:5px;
+	min-width:150px;
+	text-align:center;
+		font-size:60px;

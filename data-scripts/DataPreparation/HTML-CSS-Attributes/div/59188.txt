@@ -1,0 +1,8 @@
+  width: 20px;
+  height: 20px;
+    -webkit-animation: clockwise 500ms linear infinite;
+  background: none;
+  opacity: 0.75;
+  position: absolute;
+  left: 15px;
+  top: 15px;

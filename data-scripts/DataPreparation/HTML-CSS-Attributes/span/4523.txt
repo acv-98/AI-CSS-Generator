@@ -1,0 +1,7 @@
+	float:left;
+	font-size:36px;
+	line-height:42px;
+	margin:-3px 8px 0 0;
+	width:35px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:bold;

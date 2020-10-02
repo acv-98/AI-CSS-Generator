@@ -1,0 +1,6 @@
+    position: static;
+    left: auto;
+    padding: 20px 30px;
+    right: 0;
+    min-width: 200px;
+    top: 0 !important;

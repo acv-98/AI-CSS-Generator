@@ -1,0 +1,4 @@
+  margin-right: -20px;
+  float: left;
+  padding: 0;
+  width: 33%;

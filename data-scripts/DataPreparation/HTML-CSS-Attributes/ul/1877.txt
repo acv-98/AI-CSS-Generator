@@ -1,0 +1,8 @@
+    margin-bottom: 10px;
+	-webkit-transition: all .5s ease-in 0s;
+	   -moz-transition: all .5s ease-in 0s;
+		 -o-transition: all .5s ease-in 0s;
+			transition: all .5s ease-in 0s;
+    padding-left: 10px;
+    color: #6CB670;
+    border-bottom: 0;

@@ -1,0 +1,10 @@
+	filter:"progid:DXImageTransform.Microsoft.gradient(enabled=false)";
+			left:0;
+	opacity:0;
+	z-index:2;
+	-webkit-transition:ease-in-out top;
+	-moz-transition:ease-in-out top;
+	-ms-transition:ease-in-out top;
+	-o-transition:ease-in-out top;
+	transition:ease-in-out top;
+	top:100%;

@@ -1,0 +1,5 @@
+	padding:0;
+	float:none;
+	width:auto;
+	height:105px;
+	background:url(../images/logo_bg.jpg) no-repeat center top;

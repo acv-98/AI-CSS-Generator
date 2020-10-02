@@ -1,0 +1,9 @@
+	padding: .5em;
+	box-shadow: 0 1px 0px #fff, inset 0px 1px 1px 0 #e6e5e4;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+	-ms-border-radius: 3px;
+	border-radius: 3px;
+	margin-bottom: 1em;
+	width: 100%;

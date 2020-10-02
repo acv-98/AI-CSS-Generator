@@ -1,0 +1,1 @@
+	background:url(../images/bg_slider.gif) bottom repeat-x

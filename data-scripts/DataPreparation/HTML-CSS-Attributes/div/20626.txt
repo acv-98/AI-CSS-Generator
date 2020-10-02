@@ -1,0 +1,2 @@
+    margin-left: 35px;
+    display: inline-block;

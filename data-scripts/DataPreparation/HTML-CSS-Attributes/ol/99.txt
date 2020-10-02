@@ -1,0 +1,2 @@
+-webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5sheight:15px; width:15pxleft:70%; text-align:right; top:20px; padding-right:3%.carousel-indicators
+background-color:#09c

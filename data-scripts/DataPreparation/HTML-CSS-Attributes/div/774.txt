@@ -1,0 +1,11 @@
+	margin:0 0 24px;
+	padding:12px 20px;
+	background:url(../images/article_bg.jpg) repeat left top;
+	display:block;
+	float:right;
+	width:49px;
+	font-size:24px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:right;
+	color:#fff;

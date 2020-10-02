@@ -1,0 +1,13 @@
+    padding: 10px;
+    overflow: hidden;
+    position: relative;
+    background-color: #151515;
+    border: 1px solid #eeeeee;
+    border-radius: 0 !important;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    left: 0;
+    color: #ffffff;
+    margin: 0;
+    border-color: #fff;
+    font-style: italic;

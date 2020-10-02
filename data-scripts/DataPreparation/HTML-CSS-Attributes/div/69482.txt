@@ -1,0 +1,14 @@
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  float: left;
+  font-size: 13px;
+  line-height: 20px;
+  list-style: outside none none;
+  width: 47%;
+  padding-right: 10px;
+  color:#ffa200;
+  margin-top: 50px;
+  overflow: hidden;
+  float: none; width:100%;	
+  text-align: center;  width: 45%;

@@ -1,0 +1,10 @@
+  margin-top: 0;
+  margin-bottom: 30px;
+	position:relative;
+	overflow:hidden;
+	margin-left:12px;
+	border-bottom:1px dotted #d5d5d5;
+	padding-bottom:20px;
+	font-size:14px;
+	font-weight:700;
+	color:#a9a9a9;

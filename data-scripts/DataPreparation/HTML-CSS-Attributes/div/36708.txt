@@ -1,0 +1,5 @@
+padding-top: 102px;.contant-2-header:after{background: #949C9C;
+content: "";
+height: 2px;
+position: absolute;
+padding-top: 40pxcolor:#8C9494; font-size: 35px; font-family: 'Raleway', sans-serif; font-weight: 400; padding-bottom: 25pxcolor:#ABB2B4; font-size: 16px; font-family: 'Raleway', sans-serif; font-weight: 400; margin:0px;

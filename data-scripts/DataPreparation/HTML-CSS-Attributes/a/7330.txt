@@ -1,0 +1,10 @@
+	display: block;
+	width: 33px;
+	background: url(../images/prevnext.png) 0 0 no-repeat;
+	height: 28px;
+	float: right;
+	margin-top: 37px;
+	transition: 0s ease;
+	-o-transition: 0s ease;
+	-webkit-transition: 0s ease;
+	background-position: 0 bottom;

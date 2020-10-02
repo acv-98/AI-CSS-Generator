@@ -1,0 +1,11 @@
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+  color: #658361;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+  border: 1px solid red;

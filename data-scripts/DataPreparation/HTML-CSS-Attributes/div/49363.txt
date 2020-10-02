@@ -1,0 +1,14 @@
+	text-decoration: none;
+	text-align: center;
+	max-width: 100%;
+	overflow: hidden;
+	border: 10px solid #eaf0ff;
+	border-radius: 50%;
+	margin-top: 20px;
+	font-size: 22px;
+	color: #121212;
+	font-family: 'Spectral', serif;
+	font-weight: 600;
+	margin-bottom: 0px;
+		margin-bottom: 30px;
+		margin-top: 30px;

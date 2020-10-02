@@ -1,0 +1,6 @@
+	background:#306a01;
+	width:100%;
+	color:#b2da42;
+	min-height:156px;
+	height:auto!important;
+	padding:35px 0 30px 34px;

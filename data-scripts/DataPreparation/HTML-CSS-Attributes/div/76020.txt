@@ -1,0 +1,9 @@
+	font-size: 2.4em;
+	display:none;
+	background: #2F2F2F;
+	padding:3% 0;
+	margin-right: 12%;
+	float: right;
+		margin-right: 10%;
+		display: block;
+		float: right;

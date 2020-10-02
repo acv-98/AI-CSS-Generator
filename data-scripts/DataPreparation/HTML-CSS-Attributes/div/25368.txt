@@ -1,0 +1,11 @@
+	display: -webkit-flex;
+	overflow: auto;
+	padding: 0; .tm-2-col-img-lg-right .tm-2-col-img {
+	-webkit-order: 2;
+	    -ms-flex-order: 2;
+	        order: 2;
+	margin-right: 0;
+	margin-left: auto;
+ display: block; 	margin: 0 auto;		.tm-2-col-text {
+		padding-top: 5%;
+		padding-bottom: 5%;

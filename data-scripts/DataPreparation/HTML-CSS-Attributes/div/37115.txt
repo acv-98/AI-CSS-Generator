@@ -1,0 +1,3 @@
+	padding-bottom: 35px;
+	text-align: center;
+	display: inline;

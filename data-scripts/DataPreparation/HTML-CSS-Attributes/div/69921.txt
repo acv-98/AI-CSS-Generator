@@ -1,0 +1,2 @@
+  margin-left: 0;
+margin-left: -25px;.single_footer{margin-left: 25px;

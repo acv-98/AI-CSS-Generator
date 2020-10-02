@@ -1,0 +1,10 @@
+	color: #08080B;
+	font-weight: 700;
+	font-size: 0.8125em;
+	padding-bottom: 0.5em;
+	display: block;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+	font-family: 'Open Sans', sans-serif;
+	border: 1px solid #EEE;
+	outline: none;

@@ -1,0 +1,21 @@
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+    width: 750px;
+    margin-right: 0;
+    margin-left: 0;
+  border-radius: 6px;
+  max-width: 100%;
+    padding-right: 60px;
+    padding-left: 60px;
+max-width:1170px * 	Core Owl Carousel CSS File
+ *	v1.3.2
+.owl-carousel .owl-wrapper:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+		width: 960px;

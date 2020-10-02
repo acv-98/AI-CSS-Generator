@@ -1,0 +1,18 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-bg.png', sizingMethod='image');
+	width:838px;
+	height:266px;
+	padding:20px 97px 16px 47px;
+	position:relative;
+	margin:0 0 39px 0;
+	top:64px;
+	left:1px;
+	right:1px;
+	font-size:28px;
+	line-height:28px;
+	font-weight:normal;
+	display:block;
+	bottom:6px;
+	font-family:"Myriad Pro", Arial, sans-serif;
+	color:#fff;
+	letter-spacing:-5px;

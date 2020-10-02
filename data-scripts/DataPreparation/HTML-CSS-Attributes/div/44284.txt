@@ -1,0 +1,10 @@
+		padding-left:40px !important;
+	text-align: center;
+	margin-bottom: -18px;
+	z-index: 10;
+	font-size:28px;
+	color: #2f2f2f;
+	font-family: 'Roboto', 'sans-serif';
+	font-weight: 400; 
+	margin-top: 37px;
+	line-height: 24px;

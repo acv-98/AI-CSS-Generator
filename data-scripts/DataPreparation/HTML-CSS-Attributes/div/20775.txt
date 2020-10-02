@@ -1,0 +1,6 @@
+    margin: 0 auto;
+    padding-bottom: 80px;
+	background: #f8f8f8;
+	color: #fff;
+	border-color: #fff;
+	opacity: 0.8;

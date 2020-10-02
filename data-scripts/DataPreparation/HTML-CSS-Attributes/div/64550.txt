@@ -1,0 +1,9 @@
+	float:left;
+	margin:5px 20px 0 0;
+	width:280px;
+	padding:0 5px;
+	border-radius: 0px 5px 0px 0px !important;
+ width:226px;
+ margin:40px 0 0 10px;
+ float: none;
+ padding:0;

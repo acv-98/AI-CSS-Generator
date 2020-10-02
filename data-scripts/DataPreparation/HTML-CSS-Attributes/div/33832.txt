@@ -1,0 +1,7 @@
+    height: auto !important;
+  display: none;
+  visibility: hidden;
+    display: block !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+    visibility: visible !important;

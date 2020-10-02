@@ -1,0 +1,2 @@
+  -webkit-animation-name: tada;
+          animation-name: tada;

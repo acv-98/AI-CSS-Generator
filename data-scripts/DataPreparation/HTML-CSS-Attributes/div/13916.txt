@@ -1,0 +1,12 @@
+    position: relative;
+    padding-bottom: 33px;
+    border-top: 1px solid #c2c2c2;
+    background: url(../images/bot_bg.png) 0 0 repeat;
+    width: 1px;
+    background-color: #ebecec;
+    content: '';
+    display:  block;
+    left: 50%;
+    margin-left: -2px;
+    top: 0;
+    bottom: 0;

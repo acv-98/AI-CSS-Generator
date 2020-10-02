@@ -1,0 +1,3 @@
+  overflow: hidden;
+  position: relative !important;
+  cursor: pointer;

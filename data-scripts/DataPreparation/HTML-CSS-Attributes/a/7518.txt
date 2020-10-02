@@ -1,0 +1,1 @@
+	background: url(../images/watch_video.png) no-repeat;

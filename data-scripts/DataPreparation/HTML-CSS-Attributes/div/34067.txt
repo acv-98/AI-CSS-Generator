@@ -1,0 +1,15 @@
+	padding-top:15px;
+	clear:both;
+	border-bottom:1px #ccc dotted;
+	margin-bottom:50px;
+	width:280px;
+	height:190px;
+	-webkit-box-shadow:0 0 10px #aaa;
+	-moz-box-shadow:0 0 10px #aaa;
+	box-shadow:0 0 10px #aaa;
+	font-size:26px;
+	line-height:32px;
+	color:#888;
+	display:block;
+	margin-top:10px;
+	float:left;

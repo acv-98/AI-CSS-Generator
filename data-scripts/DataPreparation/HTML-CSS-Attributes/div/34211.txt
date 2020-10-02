@@ -1,0 +1,8 @@
+    width: 100%;
+    height: 272px;
+    padding-top: 117px;
+    background: url(../img/head-bg.jpg) #F7F7F7 center top;
+ padding-top: 50px     img.img-intro {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;

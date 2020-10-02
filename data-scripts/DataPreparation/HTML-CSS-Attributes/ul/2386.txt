@@ -1,0 +1,2 @@
+	border-top:#303030 1px solid;
+	border-bottom:#303030 1px solid;

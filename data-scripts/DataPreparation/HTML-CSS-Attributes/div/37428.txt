@@ -1,0 +1,6 @@
+    text-align: center;
+    background: #1F1E1E;
+    padding: 10px 0;
+    margin-bottom: 0;
+    color: #464646;
+    font-size: 12px;

@@ -1,0 +1,9 @@
+	background-color:white;
+	box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
+	padding: 30px 15px 20px 15px;
+	margin: 0px 0 20px 140px;
+	font-size: 14px;
+	margin-top:-10px;
+	font-weight:bold;
+	margin-bottom:10px;
+	color: #414550;

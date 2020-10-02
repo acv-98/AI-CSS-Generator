@@ -1,0 +1,5 @@
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:18px;
+	color:#454545;
+	text-transform:uppercase;
+	padding:0 0 15px 0;

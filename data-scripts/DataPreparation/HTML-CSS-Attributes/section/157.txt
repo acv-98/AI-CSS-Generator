@@ -1,0 +1,12 @@
+	max-width: 920px;
+	overflow: hidden;
+	margin-bottom: 30px;
+	margin-top:60px;
+	position: relative;
+	top: 50%;
+	margin-left: -45%;
+	width: 90%;
+	height: 53px;
+	background: url(../img/left-arrow.png) no-repeat center center;
+	cursor: pointer;
+	background-position: 0 -13px;

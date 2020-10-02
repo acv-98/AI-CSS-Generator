@@ -1,0 +1,6 @@
+margin-bottom:9px;overflow:hidden;display:inline-block;margin-bottom:5px;vertical-align:middle;text-align:center;vertical-align:middle;display:none;display:inline;-webkit-border-radius:0 3px 3px 0;-moz-border-radius:0 3px 3px 0;border-radius:0 3px 3px 0;border:1px solid #ddd;color:#a47e3c;border-color:#a47e3c;color:#a47e3c;border-color:#a47e3c;color:#b94a48;border-color:#b94a48;color:#b94a48;border-color:#b94a48;color:#468847;border-color:#468847;color:#468847;border-color:#468847;
+ * Social Buttons for Bootstrap
+ *
+ * Copyright 2013-2014 Panayiotis Lipiridis
+ * Licensed under the MIT License
+ * https://github.com/lipis/bootstrap-social

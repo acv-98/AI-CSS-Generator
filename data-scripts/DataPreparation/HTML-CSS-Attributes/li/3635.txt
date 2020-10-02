@@ -1,0 +1,1 @@
+color:#d24c0a; background:url("../img/sprites.png") no-repeat center -51px;

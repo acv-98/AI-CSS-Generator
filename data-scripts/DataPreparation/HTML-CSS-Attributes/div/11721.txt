@@ -1,0 +1,6 @@
+	margin-top: 15px;
+	display: inline;
+	float: left;
+	width: 100%;
+	color: #fff;
+		font-size: 14px;

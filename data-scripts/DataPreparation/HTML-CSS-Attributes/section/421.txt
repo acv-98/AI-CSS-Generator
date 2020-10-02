@@ -1,0 +1,10 @@
+    position: relative;
+    background: #ffffff;
+    margin-bottom:30px;
+    margin-top:20px;
+    display: inline-block;
+    width:100%;
+    float: left;
+    margin-right: 5%;
+    color:#95e1d3;
+    font-size:2rem;

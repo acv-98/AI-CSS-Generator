@@ -1,0 +1,15 @@
+    color: #fff;
+    opacity: 1;
+    margin-bottom: 0;
+    width: 100%;
+    background-color: transparent;
+    box-sizing: border-box;
+    font-size: 16px;
+    outline: 0 none;
+    padding: 5px 20px 20px 14px;
+    height: 55px;
+    resize: none;
+    box-shadow: none !important;
+	border: none;
+	border-radius: 0px;
+	border-bottom: 1px solid #ffffff;

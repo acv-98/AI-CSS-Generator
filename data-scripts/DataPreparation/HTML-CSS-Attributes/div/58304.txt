@@ -1,0 +1,15 @@
+  margin-bottom: 2em;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background: rgba(241, 78, 149, 0.8);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  position: relative;
+  animation: pulse 1s ease infinite;
+  vertical-align: middle;
+  color: white;
+  font-size: 30px;
+  text-transform: uppercase;

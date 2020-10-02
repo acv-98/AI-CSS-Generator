@@ -1,0 +1,6 @@
+	background:url(../images/button.png) 0 0 no-repeat;
+	color:#000;
+	font-size:24px;
+	line-height:30px;
+	display:inline-block;
+	padding: 2px 0 5px 43px;

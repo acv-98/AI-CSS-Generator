@@ -1,0 +1,18 @@
+	border:1px solid #cccccc;
+	float:left;
+	padding:5px 5px 0 5px;
+	width:60px;
+	margin-top:6px;
+	position:relative;
+	height:60px;
+	top:-7px;
+	left:0px;
+	display:block;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+ width:160px;
+ height:120px;
+ margin:7px auto 5px auto;
+ position:relative;
+ float:none;

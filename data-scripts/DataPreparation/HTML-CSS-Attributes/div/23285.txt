@@ -1,0 +1,6 @@
+  margin-right: auto;
+  margin-left: auto;
+  display: table;
+  content: " ";
+  clear: both;
+    max-width: 728px;

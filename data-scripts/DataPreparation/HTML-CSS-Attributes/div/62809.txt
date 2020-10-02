@@ -1,0 +1,15 @@
+padding-top:91px; padding-bottom:91px; position:relative;
+.carousel1 {
+	cursor: default !important;
+	overflow:hidden;
+float: left; width:220px !important; margin-right:20px;.carousel_div {
+	width: 960px;
+	margin: 0 auto;
+	
+color:#000; margin:39px 0 30px 0;a.prev1, a.next1 {
+	height: 29px;
+	top: 43px;
+	position: absolute;
+	display: block;
+	z-index: 999;
+	background:#3b708c;

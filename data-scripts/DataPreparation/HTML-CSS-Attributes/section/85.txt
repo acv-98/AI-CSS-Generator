@@ -1,0 +1,10 @@
+    background: #ececec;
+    padding: 80px 0px;
+    overflow: hidden;
+	opacity:1;
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    width: 90%;
+    height: 90%;
+	transition:.6s;

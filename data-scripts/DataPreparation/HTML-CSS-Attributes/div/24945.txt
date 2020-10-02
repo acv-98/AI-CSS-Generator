@@ -1,0 +1,4 @@
+        margin: 10px 0;
+        color:#000;
+		font-family: 'night_still_comesbold';
+    text-align: center;

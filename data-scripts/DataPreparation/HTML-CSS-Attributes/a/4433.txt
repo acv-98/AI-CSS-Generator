@@ -1,0 +1,7 @@
+	background:#e88800;
+	color:#fff;
+	font-size:12px;
+	line-height:15px;
+	font-weight:bold;
+	padding:7px 19px 7px 19px;
+	display:inline-block;

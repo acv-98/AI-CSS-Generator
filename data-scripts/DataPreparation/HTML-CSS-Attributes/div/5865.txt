@@ -1,0 +1,1 @@
+ margin:0; padding:0; margin:0 auto; padding:0 40px; width:890px; background:#ebebeb url(images/header_bg.gif) repeat-x top; width:auto; float:left; padding:22px 28px 0 0; float:right; margin:0; padding:8px 0 0 0; font:bold 24px/1.5em Arial, Helvetica, sans-serif; color:#fff;

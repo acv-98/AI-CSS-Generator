@@ -1,0 +1,17 @@
+    background-color: #ffffff;
+    padding: 10rem 0;
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border-top: 1px solid #eee;
+    margin-bottom: 42px;
+    font-size: 18px;
+    width: 80px;
+    margin-top: 23px;
+    border-style: dotted;
+    font-weight: 300;
+    line-height: 1;
+    color: #767676;
+    font-family: Trebuchet MS;
+    padding-bottom: 0;
+        font-size: 15px !important;

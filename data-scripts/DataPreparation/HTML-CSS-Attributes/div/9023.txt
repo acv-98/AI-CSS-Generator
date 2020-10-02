@@ -1,0 +1,7 @@
+    width: 100%;
+width:100%  font-family: 'Roboto Slab', serif;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 17px;
+  line-height: 26px;
+  font-weight: 400;

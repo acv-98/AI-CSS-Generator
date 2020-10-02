@@ -1,0 +1,4 @@
+    color: #ffffff;
+    background-color: #6FB048;
+    border-color: #6FB048;
+	font-family: 'montserratregular';

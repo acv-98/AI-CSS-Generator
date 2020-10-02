@@ -1,0 +1,13 @@
+  list-style: none;
+  margin-top: 40px;
+  padding-right: 70px;
+  display: block;
+  text-align: center;
+  text-decoration:none;
+  text-transform:capitalize;
+  letter-spacing: 0.5px;
+  color:#121212;
+  font-size: 15px;
+  font-weight: 500;
+  background-color: #fff;
+		padding: 0px 45px;

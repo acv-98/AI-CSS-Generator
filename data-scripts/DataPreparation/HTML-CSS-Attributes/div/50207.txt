@@ -1,0 +1,11 @@
+	width:980px;
+	height:311px;
+	position:relative;
+	border-bottom:1px solid #c8c8c8;
+	margin:0 0 24px 0;
+	background:url(images/prev-next.gif) no-repeat 0 0;
+	top:141px;
+	z-index:100;
+	left:24px;
+	background-position:0 -27px;
+	right:17px;

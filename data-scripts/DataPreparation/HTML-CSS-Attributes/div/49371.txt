@@ -1,0 +1,18 @@
+	background-color: #fff;
+	width: 50%;
+	float: right;
+	padding: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 8px;
+	font-family: 'Spectral', serif;
+	font-size: 21px;
+	color: #121212;
+	display: inline-block;
+	font-weight: 500;
+	text-decoration: none;
+	text-transform: uppercase;
+		background-color: #fff;
+		width: 100%;
+		float: none;
+		padding: 20px;

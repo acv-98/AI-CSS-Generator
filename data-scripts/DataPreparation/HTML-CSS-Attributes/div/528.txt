@@ -1,0 +1,4 @@
+	margin-bottom:0px;
+	text-align:right;
+	margin-top:7px;
+	display:block;

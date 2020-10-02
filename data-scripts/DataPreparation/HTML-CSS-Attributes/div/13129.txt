@@ -1,0 +1,18 @@
+  cursor: not-allowed;
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  pointer-events: none;
+  background-color: #fff;
+  border-color: #ccc;
+  color: #777777;
+  text-decoration: none;
+  background-image: none;
+    color: #ccc;
+    background-color: transparent;
+margin-top:10px;text-align:center;-webkit-tap-highlight-color:transparent@font-face {
+  font-family: 'icomoon';
+  src: url("../fonts/icomoon/icomoon.eot?srf3rx");
+  font-weight: normal;
+  font-style: normal;

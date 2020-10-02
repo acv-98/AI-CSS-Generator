@@ -1,0 +1,7 @@
+	border-right:5px solid #6b94cb;
+	display:block;
+	color:#a2a2a2;
+	font-family:'Roboto', sans-serif;
+	font-size:14px;
+	line-height:1.6em;
+	padding-right:20px;

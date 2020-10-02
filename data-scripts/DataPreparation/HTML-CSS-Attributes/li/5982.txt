@@ -1,0 +1,4 @@
+-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box
+.lt-ie9 .small-block-grid-2 {
+    list-style: none
+    font-size: 15px;

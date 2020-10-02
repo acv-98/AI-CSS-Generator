@@ -1,0 +1,11 @@
+  color: rgba(255, 255, 255, 0.75);
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #e1d00b;
+  background-image: -moz-linear-gradient(top, #ebd90b, #d3c30a);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffebd90b', endColorstr='#ffd3c30a', GradientType=0);
+  border-color: #d3c30a #d3c30a #8a7f06;
+  *background-color: #d3c30a;
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+color:rgba(255, 255, 255, 0.75);color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background-color:#414141;background-image:-moz-linear-gradient(top, #555555, #222222);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#555555), to(#222222));background-image:-webkit-linear-gradient(top, #555555, #222222);background-image:-o-linear-gradient(top, #555555, #222222);background-image:linear-gradient(to bottom, #555555, #222222);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff555555', endColorstr='#ff222222', GradientType=0);border-color:#222222 #222222 #000000;border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);*background-color:#222222;filter:progid:DXImageTransform.Microsoft.gradient(enabled = false);background-color:#080808 \9;background-color:#222222;border-top-color:#ffffff;border-bottom-color:#ffffff;

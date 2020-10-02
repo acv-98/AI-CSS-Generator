@@ -1,0 +1,4 @@
+font-size: 18px;
+color: #454749;
+line-height: 30px;
+font-style:normal;

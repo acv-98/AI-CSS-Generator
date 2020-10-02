@@ -1,0 +1,8 @@
+	padding: 22px 12px 22px 0px;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+	background: #fff;
+	border-left: 0px;
+	border-radius: 4px;
+	background-color: #1abac8;

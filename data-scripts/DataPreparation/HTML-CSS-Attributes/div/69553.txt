@@ -1,0 +1,7 @@
+  margin: 0 auto;
+  padding: 15px 0;
+  width: 675px;
+  overflow:hidden;
+  border:1px solid rgba(59, 66, 77, 0.6);
+  border-radius:10px;
+  width: 100%;padding: 15px 0 0 15px;

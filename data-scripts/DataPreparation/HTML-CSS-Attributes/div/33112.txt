@@ -1,0 +1,8 @@
+    margin:0 auto;
+    display: inline-block;
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 34px;
+    line-height: 36px;
+    padding-bottom: 30px;
+    font-family: 'open_sanslight';

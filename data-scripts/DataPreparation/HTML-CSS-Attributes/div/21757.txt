@@ -1,0 +1,7 @@
+    font-size: 36px;
+    color: white;
+    font-weight: bold;
+    line-height: 20px;
+    padding-top: 15px;
+        margin-bottom: 30px;
+    width: 75px;

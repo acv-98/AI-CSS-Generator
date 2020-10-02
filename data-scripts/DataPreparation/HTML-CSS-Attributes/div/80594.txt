@@ -1,0 +1,23 @@
+		border:1px solid #dbdbdb;
+		padding:0 0 3px 15px;
+		position:relative;
+		top:10px;
+		z-index:10;	
+ display:none; padding:14px;display:none;border:1px solid #e1e0e0;border-top:none;	a.medium-button, a.button.color,a.big-button {
+		background: url(../images/design/button-cut.png) no-repeat scroll top right #404040;
+		display: block;
+		float: left;
+		text-decoration:none !important;
+		height: 36px;
+		padding-right: 8px; 
+		margin-bottom:5px;
+width:95%;* Custom Input Fields Require Adjustments
+margin:0;padding:0;padding:0;margin:12px 0 15px 0;	.body .sidebar .tabbed-area .tcontent .blogs img {
+		background-color:transparent;
+		margin-top:3px;
+		max-width:47px;
+		max-height:42px;
+		margin-right:3px;
+		line-height:14px;
+		font-size:11px;
+display:block;line-height:14px;margin-top:0;margin-top:10px;padding:10px 20px 10px 20px;padding-bottom:10px;

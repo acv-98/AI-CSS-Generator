@@ -1,0 +1,1 @@
+ display:inline; clear:left; float:left; height:53px; width:942px; background:url(../images/home_bg.gif) repeat-x; margin-left:29px;

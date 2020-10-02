@@ -1,0 +1,2 @@
+    background-position: center top;
+    background-size: 100% auto;

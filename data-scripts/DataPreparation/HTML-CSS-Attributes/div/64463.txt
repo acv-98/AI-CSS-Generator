@@ -1,0 +1,4 @@
+	width:293px;
+	height:51px;
+	padding:10px;
+	background:url(../images/inputbox_back.png) no-repeat;

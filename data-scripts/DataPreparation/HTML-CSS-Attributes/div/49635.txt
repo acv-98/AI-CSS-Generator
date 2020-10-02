@@ -1,0 +1,6 @@
+padding-top:75px;
+display:inline-block;
+width:30px;
+text-align:left;
+color:#333;
+text-decoration:none;

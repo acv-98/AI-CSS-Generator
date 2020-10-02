@@ -1,0 +1,9 @@
+	float:left;
+	padding-left: 10%;
+	padding-top: 5px;
+	color: #fff;
+	border: 0px;
+ text-decoration: none;
+		float: none;
+	text-align: center;
+	margin-bottom: 7px;

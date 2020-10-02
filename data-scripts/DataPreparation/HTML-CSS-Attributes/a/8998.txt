@@ -1,0 +1,9 @@
+    padding: 9px 35px;
+    border-radius: 30px;
+    font-size: 16px;
+    display: inline-block;
+    background-color: #00AAFE;
+    color: #fff;
+    -webkit-box-shadow: 2.5px 4.33px 10px 0px rgba(0, 0, 0, 0.13);
+            box-shadow: 2.5px 4.33px 10px 0px rgba(0, 0, 0, 0.13);
+      color: #fff;

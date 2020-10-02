@@ -1,0 +1,2 @@
+  content: "\f099";
+	color:#55acee;

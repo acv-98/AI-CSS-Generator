@@ -1,0 +1,3 @@
+	width:271px;
+	height:4px;
+	background:url(../images/title_line.png);

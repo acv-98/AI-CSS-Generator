@@ -1,0 +1,2 @@
+  float: right !important;
+    margin-left: 1rem;

@@ -1,0 +1,14 @@
+	padding: 4.5em 3em;
+	position: relative;
+	text-align: center;
+	margin: auto;
+	top: 50%;
+	left: 0%;
+	right: 0%;
+	-webkit-transform: translate(0%,-50%);
+	    -ms-transform: translate(0%,-50%);
+	        transform: translate(0%,-50%);
+	font-size: 1.5em;
+	text-transform: uppercase;
+		padding: 9em 6em;
+    	padding: 6em;

@@ -1,0 +1,2 @@
+background: url(../img/icons/social/linkedin.png) no-repeat;	background: url(../img/icons/social2/linkedin.png) no-repeat 0 0;
+	background-color: #71b2d0;

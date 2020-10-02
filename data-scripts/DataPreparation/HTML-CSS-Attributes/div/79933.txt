@@ -1,0 +1,10 @@
+        width: 100%;
+        padding: 0 15px;
+		margin-top: 0px;
+    max-width: 1080px
+    position: relative;
+    z-index: 1;
+    top: 50%;
+    margin-top: 80px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);

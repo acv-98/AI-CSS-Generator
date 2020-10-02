@@ -1,0 +1,10 @@
+	float:right;
+	padding: 2.4%;
+	text-align: center;
+	color:#fff;
+	font-size: 0.9em;
+	font-style: italic;
+	font-weight: 600;
+	line-height: 1.8em;
+	margin-top:2em;
+		display:none;

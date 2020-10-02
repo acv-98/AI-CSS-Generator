@@ -1,0 +1,5 @@
+  padding: 25px;
+  color: #444;
+  font-size: 60px;
+  font-weight: 400;
+  letter-spacing: -1px;

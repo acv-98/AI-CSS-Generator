@@ -1,0 +1,15 @@
+	margin:0;
+	padding:0;
+	float:left;
+	width:640px;
+	margin-bottom:0;
+	padding-bottom:0;
+	font-size:27px;
+	line-height:1.2em;
+	color:#3f3f3f;
+	background:#fff;
+	border:1px solid #dcdcdc;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+	text-align:center;

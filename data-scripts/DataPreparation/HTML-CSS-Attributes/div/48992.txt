@@ -1,0 +1,6 @@
+        font-size: 30px;
+    margin-bottom: 4rem;
+    text-transform: uppercase;
+    font-family: 'lorabold';
+    color: #3a3f4b;
+    letter-spacing: 1px;

@@ -1,0 +1,12 @@
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    color: #9fd7ef;
+    text-decoration: underline;
+    font-size: 15px;
+    font-family: "Open Sans";
+    font-weight: bold;
+    opacity: 0;
+    transition-timing-function: ease-in-out;
+    margin: 5% auto;
+  

@@ -1,0 +1,2 @@
+    background: #326c73 none repeat scroll 0 0;
+    color: #fff;

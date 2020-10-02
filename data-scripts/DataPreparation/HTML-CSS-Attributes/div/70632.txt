@@ -1,0 +1,6 @@
+  border-top: 1px solid #e6e6e6;
+  padding: 2em 0;
+  float: left;
+  width: 100%;
+    padding: 2em 15px !important;
+    padding-bottom: 2em !important;

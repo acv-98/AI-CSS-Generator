@@ -1,0 +1,1 @@
+font-style:italic; color:#302a24!important;color:#302a24; text-decoration:none;color:#60762f!important;

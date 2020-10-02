@@ -1,0 +1,9 @@
+	width: 80px;
+	height: 80px;
+	text-align: center;
+	line-height: 80px;
+	font-size: 40px;
+	border: 2px dotted #12557f;
+	margin-right: 10px;
+	color: #00cb86;
+	border-radius: 50%;

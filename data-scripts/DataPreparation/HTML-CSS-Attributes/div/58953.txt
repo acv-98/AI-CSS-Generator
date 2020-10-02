@@ -1,0 +1,6 @@
+	position: absolute;
+	top: 40%;
+	width: 100%;
+	z-index: 2;
+	color: #ffffff;
+	font-size: 60px;

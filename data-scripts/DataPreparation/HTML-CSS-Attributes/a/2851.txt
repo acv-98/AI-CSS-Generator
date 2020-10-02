@@ -1,0 +1,14 @@
+	background:#303F9F;
+	margin:6px 0;
+	width:300px;
+	font-size:0;
+	display:block;
+	position:absolute;
+	top:20px;
+	right:20px;
+	padding:25px;
+	z-index:499;
+	height:3px;
+	-webkit-transition:background 2.5s cubic-bezier(.785,.135,.15,.86);
+	-moz-transition:background 2.5s cubic-bezier(.785,.135,.15,.86);
+	transition:background 2.5s cubic-bezier(.785,.135,.15,.86);

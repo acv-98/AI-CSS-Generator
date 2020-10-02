@@ -1,0 +1,11 @@
+  padding-right: 15px;
+  padding-left: 0;
+  border-right: 5px solid #eeeeee;
+  border-left: 0;
+  text-align: right;
+  content: '';
+  right: 0;
+  left: auto;
+  margin-left: 10px;
+  float: right !important;
+  margin-top: .18em;

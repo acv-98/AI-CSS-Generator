@@ -1,0 +1,12 @@
+    color: #f4af0b !important;
+    border-radius: 0;
+    background-color: transparent;
+    height: 40px;
+    font-size: 11px;
+    box-shadow: none !important;
+    border-top: 1px dotted rgba(255, 255, 255, 0.15);
+    border-bottom: 1px dotted rgba(255, 255, 255, 0.15);
+    opacity: 1;
+    min-width: 280px;
+    margin-bottom: 15px;
+    border-color: #c2d82e;

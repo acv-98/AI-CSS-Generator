@@ -1,0 +1,17 @@
+	width: 405px;
+	float: none;
+ border-radius: 0  width:176px;  width:150px;  width:119px;  font-size: 10px !important  line-height: 9px  margin-top: 20px  width: 157px  width: 100%; border: none; background: none; display: block; float: none; height: auto;  border-left: 1px solid #DFDCDC; border-top: 1px solid #DFDCDC; border-bottom: 1px solid #DFDCDC;  border: 1px solid #DFDCDC; width: 82%;  margin-bottom: 20px;  width: 95%;  border:  none; float: none; clear: both;  display: block; padding: 3px 5px 0px; margin: 5px auto 0px;width: auto;  width: 73%;  width: 93%;     border: none;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 0;
+    display:table-cell;
+    vertical-align:middle;
+    float: right;
+    height: 46px;
+    background-color: #ffffff;
+    width: 48px;
+    position: static;
+    border-left: 1px solid #dfdcdc;
+    margin: 1px;
+    background-image: none;
+    line-height: 46px;

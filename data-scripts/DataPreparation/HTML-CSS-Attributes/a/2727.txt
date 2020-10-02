@@ -1,0 +1,1 @@
+ padding-left: 10px; background: url(images/arr.gif) no-repeat 0 center; 

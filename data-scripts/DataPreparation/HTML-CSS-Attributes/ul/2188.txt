@@ -1,0 +1,1 @@
+height:auto !important; margin-top:20pxmargin-bottom:10px; float:left; width:100%

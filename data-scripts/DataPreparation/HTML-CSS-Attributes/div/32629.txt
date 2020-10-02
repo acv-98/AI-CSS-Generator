@@ -1,0 +1,2 @@
+ width: 158px; margin-left: auto; padding-top:18px;   width: 31px; height: 30px; float:left; margin-left: 6px;  background: url(images/socials.png) no-repeat 0 0; font-size: 0; line-height: 0; text-indent: -4000px; 
+ background-position: 0 0;  background-position:0 bottom;  background-position:-37px 0;  background-position:-37px bottom;  background-position:-75px 0;  background-position:-75px bottom;  background-position: -114px 0;  background-position: -114px bottom;  display:none; 

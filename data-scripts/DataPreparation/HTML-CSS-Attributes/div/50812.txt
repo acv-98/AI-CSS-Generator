@@ -1,0 +1,7 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-effect.png', sizingMethod='image');
+	width:611px;
+	height:251px;
+	position:absolute;
+	top:0;
+	left:0;

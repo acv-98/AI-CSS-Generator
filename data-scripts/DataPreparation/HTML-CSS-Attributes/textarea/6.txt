@@ -1,0 +1,1 @@
+padding:10px 10px;width:420px; background:#e5e2d3; border:none;overflow:hidden;height:150px; color:#939191; font-size:14px;

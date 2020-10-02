@@ -1,0 +1,8 @@
+	padding: 0px 15px 40px 15px;
+	background: #ffffff;
+	text-align: left;
+	margin-top: 40px;
+	font-size: 18px;
+	font-weight: 700;
+	display: block;
+	margin-bottom: 15px;

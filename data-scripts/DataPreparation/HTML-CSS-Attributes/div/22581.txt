@@ -1,0 +1,1 @@
+ float: left; display: inline; width: 196px; background: url(images/search-field.gif) no-repeat 0 0; padding: 1px; 

@@ -1,0 +1,4 @@
+    display: block;
+    float: left;
+    background: transparent url(../images/icon-video.png) no-repeat left 6px;
+    padding: 0 0 6px 18px;

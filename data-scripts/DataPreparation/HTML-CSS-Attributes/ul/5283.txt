@@ -1,0 +1,1 @@
+float:left; width:100%; background-color:#fff; padding-bottom:32px; border-left:1px solid #bebebd; border-right:1px solid #bebebd; border-bottom:1px solid #bebebd; margin-bottom:36px

@@ -1,0 +1,2 @@
+	background: url(../img/icons/social2/metacafe.png) no-repeat 0 0;
+	background-color: #ef4035;

@@ -1,0 +1,15 @@
+		padding: 5px 15px;
+	text-transform: uppercase;
+	font-size: 18px;
+	background: #dd666c;
+	color: #ffffff;
+	width: 100%;
+	position: fixed;
+	box-shadow: 0px 3px 6px 3px rgba(0, 0, 0, 0.06);
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+	-webkit-animation-name: fadeInDown;
+	animation-name: fadeInDown;
+	z-index: 20;

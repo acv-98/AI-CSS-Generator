@@ -1,0 +1,5 @@
+
+.by-com h5 {
+	font-size: 13px;
+	color: #333;
+	padding-bottom: 15px;

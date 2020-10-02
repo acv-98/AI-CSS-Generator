@@ -1,0 +1,10 @@
+    padding-left: 25px;
+    padding-right: 22px;
+    border-radius: 11px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #c73430;
+    text-transform: uppercase;
+    display: inline-block;
+    background-color: #e5e5e5;
+    margin-top: 28px;

@@ -1,0 +1,3 @@
+	width:100%;
+	padding:22px 0;
+	background:url(../images/spacer-1.gif) right top repeat-y;

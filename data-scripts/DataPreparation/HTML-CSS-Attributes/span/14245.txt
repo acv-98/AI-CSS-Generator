@@ -1,0 +1,4 @@
+    position: absolute;
+    padding: 0 1rem;
+    background-color: #ffffff;
+    top: -12px;

@@ -1,0 +1,4 @@
+	float:left;
+	display:inline;
+	padding:0 7px 2px 0;
+	border:3px solid #c8cace;

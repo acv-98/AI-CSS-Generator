@@ -1,0 +1,1 @@
+ content: ''; display: table;  clear: both  zoom: 1  width: 100%; margin: 0 auto;  margin-left: -10px  width: 100%; margin-bottom: 20px; margin-left: 0px; margin-right: 0px;  margin-bottom: 0 !important  margin-bottom: 0!important 

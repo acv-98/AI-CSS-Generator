@@ -1,0 +1,7 @@
+    margin: 0 0 25px 0;
+    font-style: italic;
+    font-size: 16px;
+    padding-left: 27px;
+    background: url(../images/quote-open.png) no-repeat left 5px;
+    margin-bottom: 0;
+    text-transform: uppercase;

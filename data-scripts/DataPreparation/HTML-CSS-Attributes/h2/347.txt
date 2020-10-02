@@ -1,0 +1,13 @@
+  color: #a5d549;
+	color: #3a3a3a;
+	font-size: 40px;
+	margin-bottom: 0;
+	padding-bottom: 18px;
+	background-color: #898989;
+	display: inline-block;
+	height: 3px;
+	width: 60px;
+	  padding-bottom: 10px;
+	  font-size: 28px;
+	  margin-bottom: 15px;	 
+	  width: 60px;

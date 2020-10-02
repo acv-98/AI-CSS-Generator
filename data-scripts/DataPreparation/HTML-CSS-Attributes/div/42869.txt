@@ -1,0 +1,16 @@
+	background: #fff;
+	border: none;
+	box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
+	margin: 0 !important;
+	color: #fff;
+	font-weight: bold;
+	font-size: 26px;
+	line-height: 50px;
+	height: 90px;
+	padding: 20px 20px 40px 20px;
+	border-right: 1px solid #f9f9f9;
+	padding-right: 40px;
+	padding-left: 40px;
+	background-color: transparent;
+	padding-top: 30px;
+	border-color: transparent;

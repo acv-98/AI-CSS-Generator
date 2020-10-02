@@ -1,0 +1,8 @@
+  *zoom: 1;
+  display: table;
+  line-height: 0;
+  content: "";
+  clear: both;
+	height:0;
+	clear:both;
+	font-size:0;

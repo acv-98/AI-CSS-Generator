@@ -1,0 +1,7 @@
+        right: -10% !important;
+		width: 500px;
+		display: none;
+    width: 700px;
+    position: absolute;
+    bottom: -46%;
+    z-index: 1;

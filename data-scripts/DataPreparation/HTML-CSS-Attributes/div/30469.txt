@@ -1,0 +1,2 @@
+ width:433px; height:257px; background:url(images/twitter-bg.gif); margin:48px 0 0 0; position:relative;  padding:25px; list-style-type: none; margin-bottom:10px; line-height:17px;  color:#caa45c; 
+ color:#fda73b; font-size:12px; font-weight: bold; text-transform: uppercase; background:url(images/twitter.gif) no-repeat 0 0; padding-left:45px; height:30px; line-height:30px; position:absolute; top:203px; right:30px; text-decoration: none;

@@ -1,0 +1,1 @@
+  background: transparent url(images/comment-bg-right.png) no-repeat right bottom;

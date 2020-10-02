@@ -1,0 +1,3 @@
+ float:right; display:inline; 
+ padding-top:5px; line-height:13px;.box-head .right label,
+ float:left;  padding:4px 0 0 0; margin-left:5px;

@@ -1,0 +1,6 @@
+  position: absolute;
+  top: 8%;
+  max-width: 150px;
+    position: relative;
+    top: 8%;
+    max-width: 140px;

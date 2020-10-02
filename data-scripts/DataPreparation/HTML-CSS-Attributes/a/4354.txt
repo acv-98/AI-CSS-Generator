@@ -1,0 +1,1 @@
+ background: url(../images/socialpack/google.png) 50% 50% no-repeat  float: left; font-size: 12px; width: 32px; height: 32px; background: #f54a35; 

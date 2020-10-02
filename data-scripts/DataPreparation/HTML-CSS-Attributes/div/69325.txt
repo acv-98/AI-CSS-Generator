@@ -1,0 +1,15 @@
+	font-size: 13px;
+	display: inline-block;
+	float: left;
+	width: 28%;
+	margin-left: 0px;
+	font-weight: 700;
+	padding-top: 10px;
+	padding-bottom: 8px;
+	color: #979797;
+	margin-right: 10px;
+	background: #1f95ff;
+	border-radius: 2px;
+	margin-bottom: 19px;
+	text-align: center;
+	clear: both;

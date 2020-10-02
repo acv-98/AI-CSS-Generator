@@ -1,0 +1,12 @@
+  margin-top: 40px;
+  border: 2px solid #58ca7e;
+  background: #58ca7e;
+  padding: 2px 15px !important;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  border-radius: 30px;
+  color: #fff;

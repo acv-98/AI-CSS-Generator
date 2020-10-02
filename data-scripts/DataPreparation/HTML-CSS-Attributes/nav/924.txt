@@ -1,0 +1,16 @@
+    background-color: #383E4C;
+    border-color: #383E4C;
+    color: #fff ;
+    font-size: 20px;
+    padding: 15px 25px;
+    text-decoration: none;
+    text-transform: capitalize;
+    -webkit-transition: all 0.3s ease;
+            transition: all 0.3s ease;
+        background: #49505F;
+ background-color: #333;   .navbar-inverse .navbar-collapse, 
+  .navbar-inverse .navbar-form {
+    width: 100%;
+ font-size: 16px;   .container {
+    margin-left: 0;
+    margin-right: 0;

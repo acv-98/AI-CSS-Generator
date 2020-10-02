@@ -1,0 +1,2 @@
+margin:0; padding:0; list-style:none;position:relative; min-height:3.5rem; margin-bottom:25px; padding-left:4.5rem;margin-bottom:30px;position:absolute; top:0; left:0; width:auto; font-size:3rem; line-height:1; text-align:center;
+margin:0; padding:0; list-style:none;display:inline-block; float:left; margin:0 10px 0 0; padding:0; line-height:normal;margin-right:0;display:block; font-size:14px; text-align:center;color:inherit; background-color:transparent;color:#EA4C89;color:#3B5998;color:#DB4A39;color:#0E76A8;color:#C8232C;color:#EE802F;color:#00ACEE;float:none;

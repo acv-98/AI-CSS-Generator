@@ -1,0 +1,18 @@
+  position: relative;
+  padding: 30px;
+  padding-top: 90px;
+  margin-top: 60px;
+  background: white;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  float: left;
+  width: 100%;
+    margin-bottom: 60px;
+  display: block;
+  top: -30px;
+  left: 0;
+  font-size: 60px;
+  color: #FA7E0A;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;

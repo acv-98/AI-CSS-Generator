@@ -1,0 +1,5 @@
+	display:block;
+	border-top:1px #6e9299 solid;
+	text-indent:0;
+	text-align:right;
+	color:#497f89;

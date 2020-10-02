@@ -1,0 +1,5 @@
+	display: block;
+	font-size: 26px;
+	line-height: 1.5em;
+	color: #665d4e;
+	padding-right: 70px;

@@ -1,0 +1,12 @@
+    -webkit-box-shadow: none;
+    box-shadow:none;
+	margin:0;
+	padding:0;
+    color: #fff;
+    background-color: transparent; 
+    border-color: transparent; 
+	transition:.6s;
+	color:#bd9e6f;
+    margin-bottom:0px;
+    min-height: 80px;
+    text-transform: uppercase;

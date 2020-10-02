@@ -1,0 +1,1 @@
+background:url(images/tail-right.gif) right top repeat-x;position:absolute;height:550px;right:0;top:0;width:50%background:url(images/tail-right-bottom.gif) right bottom repeat-x;position:absolute;height:459px;right:0;bottom:0;width:50%background:#0ab7e0;height:100%;position:absolute;right:0;top:0;width:50%

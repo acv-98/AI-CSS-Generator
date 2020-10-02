@@ -1,0 +1,6 @@
+	position:absolute;
+	left:0;
+	background-color:#000;
+	font-family:"Trebuchet MS";
+	font-size:14px;
+	line-height:normal;

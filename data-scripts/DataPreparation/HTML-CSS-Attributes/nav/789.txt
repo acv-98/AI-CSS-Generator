@@ -1,0 +1,10 @@
+	color: #fff;
+background: #C90000;
+width: 260px;
+text-align: center;
+height: 60px;
+font-size: 30px;
+font-weight: 700;
+	background:#4D4D4D;
+	border-bottom:none;
+	

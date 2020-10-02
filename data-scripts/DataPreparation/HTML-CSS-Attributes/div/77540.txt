@@ -1,0 +1,4 @@
+		float: left;
+		width: 740px;
+		text-transform: uppercase;
+		font-weight: 400;

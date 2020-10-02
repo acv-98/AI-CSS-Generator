@@ -1,0 +1,1 @@
+background-color:transparent;background-image:none;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;border-color:transparent;cursor:pointer;color:#0088cc;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;color:#005580;text-decoration:underline;background-color:transparent;color:#333333;text-decoration:none;*zoom:1

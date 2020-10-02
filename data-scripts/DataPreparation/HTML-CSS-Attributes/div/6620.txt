@@ -1,0 +1,16 @@
+        text-align: center;
+        float: none;
+        margin: 0 auto;
+    font-size: 18px;
+    font-weight: 400;
+    color: #999 !important;
+    padding: 0 !important;
+    line-height: 1 !important:
+    box-shadow: 0 0 0 2px #fff;
+    border-radius: 0px;
+    display: block;
+    bottom: 0px !important;
+    margin-top: 1em;
+    position: relative;
+    z-index: 10;
+    margin-right: 30px;

@@ -1,0 +1,2 @@
+  list-style: none; 
+  font-weight: 700;

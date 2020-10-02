@@ -1,0 +1,5 @@
+    color: #fff;
+    background-color: #4466c9;
+    border:1px solid;
+    border-color: #4466c9;
+    padding: 1rem 2rem;

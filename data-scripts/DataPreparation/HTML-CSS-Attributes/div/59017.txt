@@ -1,0 +1,1 @@
+font-size:10px; padding:2px 5pxwidth:70%; float:rightfont-size:5px; padding:0padding:1px 8pxmargin:0; padding:0; list-style:none; text-align:rightdisplay:inlinedisplay:inline-block; padding:10px 15px; color:#ffftext-decoration:underline; color:#FF1769

@@ -1,0 +1,6 @@
+  background: #74c9be;
+  position: absolute;
+  bottom: 20px;
+  right: 0px;
+  width: 170px;
+  padding: 10px 10px 30px 10px;

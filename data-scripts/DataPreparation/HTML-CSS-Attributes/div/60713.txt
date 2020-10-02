@@ -1,0 +1,7 @@
+		margin-left: 20px;
+		position: relative;
+		color: #424242;
+		font-size: 14px;
+		font-weight: 600;
+		display: inline-block;
+		padding: 15px 0;

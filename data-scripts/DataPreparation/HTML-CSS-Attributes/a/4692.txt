@@ -1,0 +1,7 @@
+	-webkit-transform: translateX(-50%) rotate(135deg);
+	transform: translateX(-50%) rotate(135deg);
+	-webkit-transform-origin: 50% 0%;
+	transform-origin: 50% 0%;
+	right: 100%;
+	text-align: right;
+  right: 0;

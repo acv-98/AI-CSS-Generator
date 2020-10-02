@@ -1,0 +1,4 @@
+	margin-top: 2px;
+	display: inline-block;
+	float: right;
+	margin-right: 85px;

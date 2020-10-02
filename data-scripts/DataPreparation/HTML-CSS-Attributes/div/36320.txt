@@ -1,0 +1,9 @@
+	padding:0;
+	margin:0 auto;
+	background:#f2e6c8 url(images/footer_bg.jpg) top center repeat-x;
+	width:900px;
+	height:56px;
+	line-height:normal;
+	color:#66625a;
+	text-decoration:underline;
+	float:left;

@@ -1,0 +1,22 @@
+	margin: 1em 1em 0em 0em;
+	padding: 0.6em 1.1em;
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	float:left;
+	display: block;
+	cursor: pointer;
+	background-color:#F6FAFB;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	
+	color:#BEBEBE;
+	font-size: 1.3em;
+	vertical-align: middle;
+		margin: 1em 0.1em 0em 0em;
+		padding: 2em 2em;
+		display:none;

@@ -1,0 +1,11 @@
+	width:834px;
+	margin:0 auto;
+	padding:10px 0;
+	font-size:10px;
+	clear:both;
+	color:#b5babe;
+	text-decoration:none;
+	line-height:normal;
+	margin-left:15px;
+	float:left;
+	margin-right:15px;

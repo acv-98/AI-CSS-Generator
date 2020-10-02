@@ -1,0 +1,9 @@
+	overflow:hidden;
+	padding-bottom:10px
+	display:inline-block;
+	width:50px;
+	font-size:14px;
+	line-height:25px;
+	color:#44a7bb;
+	font-weight:bold;
+	float:left

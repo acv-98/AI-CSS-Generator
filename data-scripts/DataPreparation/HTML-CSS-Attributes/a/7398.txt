@@ -1,0 +1,16 @@
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=63);
+	opacity: 0.63;
+	position: relative;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+	display: block;
+	left: 7px;
+	right: 7px;
+	top: 7px;
+	bottom: 7px;
+	border: 2px solid transparent;
+	border-color: #d7d9d9;
+	background-color: #000;
+	float: right;
+	margin-left: 9px;

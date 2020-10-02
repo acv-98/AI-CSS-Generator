@@ -1,0 +1,9 @@
+    font-style: normal;
+    font-size: 18px;
+    display: block;
+    padding-bottom: 0;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font-weight: 600;
+    letter-spacing: -0.6px;

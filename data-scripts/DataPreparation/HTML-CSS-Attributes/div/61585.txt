@@ -1,0 +1,6 @@
+    font-size: 23px;
+	margin-bottom:60px;
+	color:#414042;
+	font-weight: 700;
+	font-size:36px;
+	font-family: 'latoregular';

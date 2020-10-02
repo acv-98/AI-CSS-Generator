@@ -1,0 +1,9 @@
+	background:#fafafa;
+	border-right:1px solid #ededed;
+	border-bottom:1px solid #ededed;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	padding-bottom:15px;

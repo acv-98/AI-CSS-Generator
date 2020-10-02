@@ -1,0 +1,15 @@
+	position: fixed;
+	display: block;
+	width: 45px;
+	height: 45px;
+	top: 21px;
+	left: 50%;
+	margin-left: -23px;
+	font: 0/0 a;
+	text-shadow: none;
+	color: transparent;
+	content: '';
+	background-color: #333333;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);

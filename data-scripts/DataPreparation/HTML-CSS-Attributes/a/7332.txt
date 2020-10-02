@@ -1,0 +1,8 @@
+  float: left;
+  padding: 20px 20px;
+  font-size: 18px;
+  line-height: 20px;
+  color: #5e5e5e;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-family: "Montserrat", arial, sans-serif;

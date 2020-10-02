@@ -1,0 +1,3 @@
+	color: #0066cb;
+	font-size: 1.6rem;
+	margin-bottom: 25px;

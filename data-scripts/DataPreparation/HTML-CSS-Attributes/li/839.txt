@@ -1,0 +1,2 @@
+	background:url(images/menuhover.png) center 1px no-repeat;
+	color:#443023;

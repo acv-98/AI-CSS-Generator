@@ -1,0 +1,6 @@
+    color: #fff;
+    background-color: #B91919;
+    float: left;
+    height: 4px;
+    margin: 2px 0;
+    border-radius: 10px;

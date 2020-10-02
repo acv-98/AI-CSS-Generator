@@ -1,0 +1,14 @@
+	height:171px;
+		padding:29px 0 0 59px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		font-size:30px;
+		line-height:1em;
+		text-transform:uppercase;
+		color:#848d97;
+			display:block;
+			letter-spacing:-1px;
+			color:#bababa;
+			font-size:50px;
+			line-height:.91em;
+			padding-left:30px;
+	background:url(images/header-bg-bottom.jpg) no-repeat 20px bottom;

@@ -1,0 +1,4 @@
+
+.main_special{
+    padding-bottom: 100px;
+    overflow: hidden;	

@@ -1,0 +1,17 @@
+		background: url(../images/design/button-cut.png) no-repeat scroll top right #404040;
+		display: block;
+		float: left;
+		text-decoration:none !important;
+		height: 36px;
+		padding-right: 8px; 
+		margin-bottom:5px;
+		line-height: 26px;
+		font-weight:bold;
+		font-size:12px;
+		color:#ffffff;
+		font-family:Helvetica,arial,freesans,clean,sans-serif;
+ background: transparent url(../images/design/buttons/cbutton-denim-blue-cut.png) no-repeat scroll top right;padding-right: 4px;height:22px; 	a.button.color span { 
+		font-style:normal;
+		text-shadow: 0px 1px 1px #333333;
+        filter: dropshadow(color=#333333, offx=0, offy=1);
+background-position:bottom right;background-position:bottom left;

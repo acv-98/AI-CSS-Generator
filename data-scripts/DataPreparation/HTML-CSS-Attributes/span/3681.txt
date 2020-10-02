@@ -1,0 +1,1 @@
+display:inline-block; margin-right:8px; color:#aaa; font-size:12pxcontent:" "; font-family:FontAwesome; font-style:normal; font-weight:normal; padding-right:4px; text-decoration:inheritcolor:#ffa500

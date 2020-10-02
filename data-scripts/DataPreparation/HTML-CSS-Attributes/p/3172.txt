@@ -1,0 +1,3 @@
+  color: #a94442;
+	color: #ff6600;
+	text-align: left;

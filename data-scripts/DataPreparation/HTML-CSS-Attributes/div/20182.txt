@@ -1,0 +1,9 @@
+    font-size: 21px;
+  font-family: 'Lato';
+  line-height: 1.3em;
+  font-weight: 700;
+  text-shadow: 0px 1px 0 rgba(255, 255, 255, 0.5);
+  text-align: center;
+  margin-bottom: 40px;
+  margin-right: 30px;
+  margin-left: 30px;

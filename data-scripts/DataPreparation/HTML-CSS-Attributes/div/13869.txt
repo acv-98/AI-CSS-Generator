@@ -1,0 +1,1 @@
+    font: 300  22px/20px 'Open Sans', sans-serif;

@@ -1,0 +1,5 @@
+	margin-bottom:20px;
+	font-family: 'lobsterregular';
+	font-size:18px;
+	color:#000;
+	padding-left:10px;

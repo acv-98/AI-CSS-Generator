@@ -1,0 +1,1 @@
+width:195pxfloat:none; margin:0 autofloat:none; margin:0 autowidth:250px

@@ -1,0 +1,7 @@
+  background: url(../images/icons/icon-close-map.png) left no-repeat;
+  padding: 10px 20px 10px 0px;
+  display: block;
+  text-align: right;
+  color: #000000;
+  float: right;
+  width: 80px;

@@ -1,0 +1,5 @@
+	text-transform: uppercase;
+	margin-bottom: 30px;
+	padding: 0;
+	text-align: center;
+	color: #606060;

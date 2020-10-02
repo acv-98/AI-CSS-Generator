@@ -1,0 +1,10 @@
+	position: relative;
+	left: auto;
+	bottom: auto;
+	margin: 0;
+	overflow: visible;
+	-webkit-transform: translateX(0);
+	transform: translateX(0);
+	display: none;
+	-webkit-animation: scaleUp 350ms ease-in-out both;
+	animation: scaleUp 350ms ease-in-out both;

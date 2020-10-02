@@ -1,0 +1,2 @@
+	clear: both;
+	width: 900px;

@@ -1,0 +1,8 @@
+	background-color: #076599;
+	color: white;	
+	padding: 50px 30px;
+ flex-flow: column;  padding: 0 0 30px 0;  color: white; .tm-white-bordered-btn {
+    border: 1px solid white;
+    padding: 10px 25px;
+    display: inline-block;
+ padding: 40px;  flex-flow: row;  padding: 20px 50px 0 0;  padding: 50px 100px; 

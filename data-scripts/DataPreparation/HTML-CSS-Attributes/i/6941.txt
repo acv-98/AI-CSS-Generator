@@ -1,0 +1,45 @@
+  opacity: 0;
+  -webkit-transition: opacity 0.15s linear;
+  transition: opacity 0.15s linear;
+  -webkit-transform: translate(0, -25%);
+  -ms-transform: translate(0, -25%);
+  transform: translate(0, -25%);
+  -moz-transition: -moz-transform 0.3s ease-out;
+  -o-transition: -o-transform 0.3s ease-out;
+  filter: alpha(opacity=0);
+opacity:0;-webkit-transition:opacity 0.15s linear;transition:opacity 0.15s linear;display:none;overflow:auto;overflow-y:scroll;position:fixed;top:0;right:0;bottom:0;left:0;z-index:1040;position:fixed;top:0;right:0;bottom:0;left:0;z-index:1030;background-color:#000000;	    color: #3b5998;
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.3333333333333333em;
+  vertical-align: -15%;
+  width: 1.2857142857142858em;
+  text-align: center;
+  padding-left: 0;
+  margin-left: 2.142857142857143em;
+  list-style-type: none;
+  position: relative;
+  left: -2.142857142857143em;
+  top: 0.14285714285714285em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
+  margin-right: .3em;
+  -webkit-animation: spin 2s infinite linear;
+  -moz-animation: spin 2s infinite linear;
+  -o-animation: spin 2s infinite linear;
+  animation: spin 2s infinite linear;
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  height: 2em;
+  content: "\f000";
+font-size:9em   forms.css
+   * Sets up some default styling for forms
+   * Gives you classes to enhance your forms
+   
+   Usage:
+   * For text fields, use class .title or .text
+   * For inline forms, use .inline (even when using columns)

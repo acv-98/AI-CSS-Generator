@@ -1,0 +1,8 @@
+  display: -webkit-box;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 0%;
+          flex: 1 1 0%;

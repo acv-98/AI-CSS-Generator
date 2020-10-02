@@ -1,0 +1,16 @@
+  vertical-align: middle;
+  float: left;
+  line-height: 0;
+  padding: 35px 0;
+  margin-right: 30px;
+  color: #ccc;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 13px;
+  font-weight: 400;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+  outline: none;
+  text-decoration: none;
+  width: 100%;

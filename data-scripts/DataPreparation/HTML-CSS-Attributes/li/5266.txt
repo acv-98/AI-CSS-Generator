@@ -1,0 +1,5 @@
+    color: #ffbf00;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 17px;
+    margin: 2.4em 0 .8em;

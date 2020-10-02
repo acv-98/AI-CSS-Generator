@@ -1,0 +1,2 @@
+	color:#8bbe43;
+	background:url(images/r_menu.gif) no-repeat right;

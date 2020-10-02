@@ -1,0 +1,3 @@
+background-image:url("img/black/icon-delicious.png");
+*  OTHER STYLES                                                                                                    
+background-image:url("img/blue/icon-delicious.png");background-image:url("img/green/icon-delicious.png");background-image:url("img/pink/icon-delicious.png");background-image:url("img/purple/icon-delicious.png");background-image:url("img/red/icon-delicious.png");

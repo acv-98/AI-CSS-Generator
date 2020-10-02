@@ -1,0 +1,16 @@
+	max-width: 270px;
+	text-align: center;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin: auto;
+	margin-top: 20px;
+	font-weight: 400;
+	color: #00aeda;
+	font-size: 13px;
+	margin-bottom: 20px;
+ margin: 0 auto 50px;
+ text-align: center;
+ display: inline-block;
+ float: none;
+ margin-bottom: 5px;

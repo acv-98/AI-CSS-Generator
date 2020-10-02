@@ -1,0 +1,6 @@
+  margin-bottom: 30px;
+  font-size: 13px;
+  color: #ccc;
+  padding: 0;
+  text-transform: uppercase;
+  letter-spacing: 3px;

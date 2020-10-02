@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	height:67px;
+	list-style:none;
+	border-left:1px solid #fff;
+	float:left;
+	border-right:1px solid #fff;
+	display:block;
+	width:107px;
+	color:#888;
+	text-decoration:none;
+	font-size:13px;
+	text-align:center;
+	background:#f00 url(images/menu_a.gif) no-repeat center top;

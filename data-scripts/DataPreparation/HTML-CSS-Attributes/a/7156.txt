@@ -1,0 +1,25 @@
+  border-width: 0;
+  border-bottom-width: 3px;
+  border-radius: 3px;
+  background: #ff641b;
+  border-color: #ff641b; border-radius:25px;
+  margin-top: 20px; background:transparent; border:3px solid #f26522; border-radius:30px;
+ padding:10px 46px; font-size:22px; background:#f26522;#main-slider .owl-prev,
+#main-slider .owl-next {
+  position: absolute;
+  top: 50%;
+  background-color: rgba(0, 0, 0, 0.2);
+  color: #fff;
+  font-size: 30px;
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  line-height: 70px;
+  text-align: center;
+  z-index: 5;
+  -webkit-transition: background-color 400ms;
+  transition: background-color 400ms;
+ background:#ff641b; border-radius:30px; margin-top:25px; padding:15px 25px 10px; font-size:18px; font-family:'Roboto-medium';font-family: 'Roboto-medium'; font-size:22px; padding:8px 40px;#blog {
+  padding: 87px 0 87px 0; background:#f6f6f6; overflow:hidden;
+ font-family: 'Roboto-regular'; font-size:15px; margin-top:20px; padding:10px 30px;#contact {
+  overflow: hidden;

@@ -1,0 +1,8 @@
+  padding: 0px;
+  height: inherit;
+  font-family: 'Lato', sans-serif;
+  color: #fff;
+  font-size: 34px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;

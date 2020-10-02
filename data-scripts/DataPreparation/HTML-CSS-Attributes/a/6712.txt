@@ -1,0 +1,15 @@
+display: block;
+width: 120px;
+height: 120px;
+margin: 0 auto 30px;
+background-repeat: no-repeat;
+background-position: 0 0;
+background-size: 120px;
+overflow: hidden;
+text-indent: -9999em;
+line-height: 200px;
+-webkit-transition: all .3s ease;
+-moz-transition: all .3s ease;
+background-image: url('../img/icon-share_2x.png');
+-webkit-transform: scale(1.1);
+-moz-transform: scale(1.1);

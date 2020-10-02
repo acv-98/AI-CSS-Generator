@@ -1,0 +1,7 @@
+  position: relative;
+  width: 340px;
+  padding: 20px 0px 20px 15px;
+  border-radius: 0;
+  background: white;
+  box-shadow: none;
+    width: 100%;

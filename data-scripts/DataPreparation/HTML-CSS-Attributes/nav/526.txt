@@ -1,0 +1,3 @@
+ display: none     .main-nav {
+        padding-top: 20px;
+        padding-bottom: 20px;

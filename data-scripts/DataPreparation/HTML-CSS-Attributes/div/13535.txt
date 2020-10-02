@@ -1,0 +1,1 @@
+ font-size: 12px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;     margin-left: 0px;

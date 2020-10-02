@@ -1,0 +1,8 @@
+    background: url(../images/hire-us.png) no-repeat center top scroll;
+    background-size
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    overflow: hidden;
+    max-height: 500px;

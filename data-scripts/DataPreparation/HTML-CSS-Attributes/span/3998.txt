@@ -1,0 +1,7 @@
+	-ms-transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+	-ms-transform-origin:8px 2px;
+	-webkit-transform-origin: 8px 2px;
+	transform-origin: 8px 2px;
+	width: 31px;

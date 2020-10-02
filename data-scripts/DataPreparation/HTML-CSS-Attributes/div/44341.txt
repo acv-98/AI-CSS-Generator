@@ -1,0 +1,14 @@
+	padding: 15px;
+	border-color: #2387D9;
+	border-style: solid;
+	border-width: 1px;
+	-moz-box-shadow: 4px 4px 0 -2px #D4D4D4;
+	-webkit-box-shadow: 4px 4px 0 -2px #D4D4D4;
+	box-shadow: 4px 4px 0 -2px #D4D4D4;
+	-o-box-shadow: 4px 4px 0 -2px #D4D4D4;
+	color: #2387D9;
+	display: inline-block;
+	font-size: 12px;
+	margin: 0 7px 8px 0;
+	text-transform: capitalize;
+	white-space: nowrap;

@@ -1,0 +1,13 @@
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #6aaf08;
+	padding: 14px 20px;
+	letter-spacing: 1px;
+	margin: 0;
+	font-size: 17px;
+	font-weight: 400;
+	border-radius: 6px;
+	margin-top: 20px;
+	transition: all 0.3s;
+	border-top: 1px solid rgba(255,255,255,0.4);
+	border-bottom: 1px solid rgba(255,255,255,0.4);

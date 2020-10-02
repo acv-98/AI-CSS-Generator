@@ -1,0 +1,1 @@
+margin-bottom:30px;max-width:32%; float:left; background:url("img/cite.png") no-repeat;padding-left:45px;margin:0 2%;width:48%; position:relative; margin-bottom:20px;padding-left:60px;position:absolute; top:0; left:0; padding:0;max-width:30%;margin:0 5%;width:100%; max-width:100%; float:none; margin:0 0 30px !important;max-width:100%;margin:0;

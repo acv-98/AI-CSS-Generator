@@ -1,0 +1,14 @@
+  overflow: auto;
+  padding:0 0 0 20px;
+	-moz-border-radius: 0 0 2px 2px;
+	-moz-box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.04);
+	-webkit-border-radius: 0 0 2px 2px;
+	-webkit-box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.04);
+	background-color: #FFF;
+	border: 1px solid #EEE;
+	border-radius: 0 0 2px 2px;
+	border-top: 0;
+	box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.04);
+	padding: 15px;
+	border-left: 0;
+	margin: 0;

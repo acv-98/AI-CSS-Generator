@@ -1,0 +1,7 @@
+	padding:9px 16px 0 16px;
+	height:164px;
+	float:left;
+	margin-top:3px;
+	margin-right:7px;
+	border:2px solid #a9a9a9;
+	color:#555;

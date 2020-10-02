@@ -1,0 +1,2 @@
+ width:620px; float:left; padding-top:50px; overflow:hidden;border-bottom:#262626 solid 1px; padding-bottom:40px; overflow:hidden; color:#c3c3c3; font-size:28px; font-weight:normal; color:#e00b15; font-size:20px; font-weight:normal;padding-top:30px; width:100%;line-height:20px; padding-bottom:20px; margin-top:40px; border-bottom:none; padding-bottom:1px; padding-bottom:1px;
+PORTFOLIO CLASSES

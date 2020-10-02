@@ -1,0 +1,5 @@
+ font-size:20px; color:#768297; padding-top:30px; color:#54657b;margin:0 auto; padding:30px 30px 0px 30px;LEFT-PANEL CLASSES
+ float:left; margin-right:30px;RIGHT-PANEL CLASSES
+padding-left:0px; list-style: url(../images/arrow-small.jpg) inside; border-bottom:#25314c solid 1px;line-height:35px;text-decoration:none; font-family: 'Open Sans', sans-serif; font-size:13px; color:#54657b;color:#9cff00;color:#91a3c2; color:#91a3c2;PORTFOLIO CLASSES
+ padding:10px; padding-bottom:20px; padding-bottom:20px; padding-bottom:10px; border-bottom: 1px solid #24314c;  color:#9cff00; display:block; color:#1c263c; background:#9cff00; padding:7px; text-decoration:none; font-family: 'Open Sans', sans-serif; font-weight:normal; font-size:13px; background:#91a3c2; padding-bottom:10px;FOOTER CLASSES
+padding-top:30px; color:#54657b;line-height:22px; padding-bottom:0px; color:#54657b;text-decoration:none; color:#ffffff; color:#ffffff;font-size:25px; color:#ffffff;

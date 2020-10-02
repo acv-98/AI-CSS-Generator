@@ -1,0 +1,18 @@
+overflow:hidden;margin-left:-25px;padding-top:25pxfloat:left;width:190px;margin-left:25px.list-dropcap a{
+color:#343434;
+font-size:20px;
+color:#d53827;.dropcap{float:left;width:54px;
+background:#d53827;
+border-radius:26px;
+-moz-border-radius:26px;
+-webkit-border-radius:26px;
+line-height:48px;
+text-transform:uppercase;
+text-align:center;
+padding-top:10pxbackground:#000;margin-bottom:8pxpadding-bottom:32pxcolor:#343434;line-height:24px.side-bar{
+    border-radius:18px;
+	-moz-border-radius:18px;
+	-webkit-border-radius:18px;
+	 box-shadow:0 0 3px #c5c2a9;
+	-moz-box-shadow: 0 0 3px #c5c2a9;
+	-webkit-box-shadow:0 0 3px #c5c2a9;

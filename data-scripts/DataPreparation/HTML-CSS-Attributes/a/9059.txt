@@ -1,0 +1,2 @@
+	background-image: url(style/images/button-lime.png);
+	float: left;

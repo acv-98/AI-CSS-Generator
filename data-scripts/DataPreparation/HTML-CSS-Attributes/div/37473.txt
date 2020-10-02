@@ -1,0 +1,11 @@
+    width: 100%;
+    margin: 0 0 24px 0;
+    padding: 0;
+    clear: both;
+    position: relative;
+    min-height: 50px;
+    float: left;
+    overflow: hidden;
+    margin-bottom: 20px;
+    display: block;
+    height: 100%;

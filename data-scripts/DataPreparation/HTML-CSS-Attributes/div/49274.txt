@@ -1,0 +1,9 @@
+	background:url(../images/ie6/divider.jpg) no-repeat 2px 1px;
+	clear: both;
+	float: none;
+	height: 147px;
+	margin: 0;
+	padding: 0;
+	width: auto;
+	padding-top:70px;
+	border: 0;

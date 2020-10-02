@@ -1,0 +1,10 @@
+	behavior: url("../js/PIE.htc");
+	position:relative;
+	width:100%;
+	min-height:101px;
+	background:url(../images/row-top-tail.gif) left top repeat-x #f6a20e;
+	border-radius:9px 9px 0 0;
+	-moz-border-radius:9px 9px 0 0;
+	-webkit-border-radius:9px 9px 0 0;
+	overflow:hidden;
+	z-index:1;

@@ -1,0 +1,10 @@
+        background-color: #ffffff;
+        border:none;
+        border-color:none;
+        margin-top: 20px;
+    min-height: 50px;
+    margin-bottom: 20px;
+    padding: 15px 0;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'open_sanssemibold';

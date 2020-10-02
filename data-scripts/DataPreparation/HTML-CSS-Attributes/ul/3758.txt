@@ -1,0 +1,6 @@
+	margin: 0 0 10px 0;
+	padding: 0px;
+	list-style: none;
+	display: inline;
+	border-right: 1px solid #aea68c;
+	color: #135b9b;

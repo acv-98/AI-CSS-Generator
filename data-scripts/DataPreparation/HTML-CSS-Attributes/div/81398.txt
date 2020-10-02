@@ -1,0 +1,4 @@
+  width: 1224px;
+  margin: 0 auto;
+    width: auto;
+    margin: 0;

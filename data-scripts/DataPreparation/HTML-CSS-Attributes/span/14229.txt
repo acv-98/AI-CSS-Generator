@@ -1,0 +1,8 @@
+    display: block;
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    top: -5px;
+    left: 0;
+    -webkit-animation: 2s loading2 linear infinite;
+    animation: 2s loading2 linear infinite;

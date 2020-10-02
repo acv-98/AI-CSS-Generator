@@ -1,0 +1,5 @@
+	margin:0;
+	padding:0;
+	float:right;
+	width:300px;
+	background:#fff repeat-x bottom;

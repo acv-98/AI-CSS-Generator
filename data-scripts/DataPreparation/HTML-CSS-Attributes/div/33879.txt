@@ -1,0 +1,5 @@
+  margin: 0 10px 15px;
+  border: 1px solid #1f76bd;
+  border-radius: 3px;
+  background: #1f76bd;
+  box-shadow: none;

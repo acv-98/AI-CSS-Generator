@@ -1,0 +1,9 @@
+	background:url(images/footer.gif) 0 0 repeat-x;
+	font-size:10px;
+	font-family:Verdana, Geneva, sans-serif;
+	padding:22px 0;
+	color:#b3adad;
+	text-decoration:none;
+	margin:0;
+	line-height:normal;
+	float:left;

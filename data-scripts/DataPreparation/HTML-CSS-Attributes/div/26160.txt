@@ -1,0 +1,2 @@
+ float:right; display:inline; 
+ white-space:nowrap; font-size:14px; text-align: right; padding:0 1px; text-decoration: none; color:#939393; color:#f6cb44;

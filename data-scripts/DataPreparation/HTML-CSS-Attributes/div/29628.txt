@@ -1,0 +1,10 @@
+	_width:610px;
+	font-family:arial;
+	color:#FFFFFF;
+	font-size:20px;
+	font-weight:bold;
+	margin:0;
+	padding:20px 0 0;
+	text-transform:uppercase;
+	line-height:20px;
+	text-align:justify;

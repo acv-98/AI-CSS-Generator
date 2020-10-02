@@ -1,0 +1,7 @@
+	display: block;
+	text-decoration: none;
+	line-height: 26px;
+	height: 26px;
+	width: 150px;
+	float: left;
+	margin: 0 0 35px 0;

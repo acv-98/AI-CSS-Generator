@@ -1,0 +1,3 @@
+	text-decoration:none;
+	color:#7ba7db;
+	background:url(../images/menu_a.png) no-repeat center top;

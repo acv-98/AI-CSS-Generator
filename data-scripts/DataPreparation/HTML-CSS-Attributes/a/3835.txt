@@ -1,0 +1,7 @@
+  display: inline-block;
+  font: 400 30px/30px 'Marvel', sans-serif;
+  padding: 15px 51px 16px;
+  letter-spacing: 1.5px;
+  color: #000000;
+  background: #f1f045;
+  text-decoration: none;

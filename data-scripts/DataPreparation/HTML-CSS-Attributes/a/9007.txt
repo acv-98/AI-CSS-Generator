@@ -1,0 +1,8 @@
+  display: block;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=30);
+  opacity: 0.3;
+  cursor: not-allowed;
+    top: 34px;
+    position: absolute;
+    text-align: center;
+    width: 100%;

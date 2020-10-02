@@ -1,0 +1,9 @@
+	display:block;
+	width: 100%;
+	padding: 0.7em;
+	cursor: pointer;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFF;
+	font-size: 1em;
+	outline: none;
+	margin-bottom: 0.6em;

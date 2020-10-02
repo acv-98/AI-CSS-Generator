@@ -1,0 +1,1 @@
+width:190px; float:left;line-height:16px; font:12px Verdana, Geneva, sans-serif; color: #D2E1C6; margin-bottom:16px;

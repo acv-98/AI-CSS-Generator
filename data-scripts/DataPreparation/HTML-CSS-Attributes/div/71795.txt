@@ -1,0 +1,5 @@
+            bottom: -80px;
+            height: 365px;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;

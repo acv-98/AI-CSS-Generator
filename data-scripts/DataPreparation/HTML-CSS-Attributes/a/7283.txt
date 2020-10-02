@@ -1,0 +1,7 @@
+	padding:9px 12px;
+	background:url(images/a_spec.gif) repeat-x top;
+	text-decoration:none;
+	color:#fff;
+	margin:0;
+	border:1px solid #dedede;
+	float:left;

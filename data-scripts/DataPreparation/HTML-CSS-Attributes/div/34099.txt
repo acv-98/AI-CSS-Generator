@@ -1,0 +1,6 @@
+	clear:both;
+	width:430px;
+	margin:0;
+	height:90px;
+	float:left;
+	font-size:14px;

@@ -1,0 +1,14 @@
+	background:url(images/bg-body.gif) repeat-x bottom center;
+	margin:0 0 30px 0;
+	height:472px;
+	padding:0;
+	width:960px;
+	color:#2a4f5e;
+	font-size:20px;
+	line-height:30px;
+	text-shadow:1px 1px 1px #fff;
+	display:block;
+	text-decoration:none;
+	overflow:hidden;
+	float:left;
+	list-style:none;

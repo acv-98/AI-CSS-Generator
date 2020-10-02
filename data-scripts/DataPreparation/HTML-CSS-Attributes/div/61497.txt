@@ -1,0 +1,6 @@
+	margin-top: 30px;
+	margin-left: 40px;
+	padding-bottom: 150px;
+	font-weight: 900;
+	color: white;
+	letter-spacing: 1px;

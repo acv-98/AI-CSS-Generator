@@ -1,0 +1,2 @@
+	content: "\f040";
+  content: "\e05f";

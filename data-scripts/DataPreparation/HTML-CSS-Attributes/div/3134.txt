@@ -1,0 +1,18 @@
+    padding: 0 15px;
+    position: relative;
+    margin: 0;
+    background-color: transparent !important;
+    border: 0;
+    top: -1px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 12px;
+    right: 0;
+    color: #f4af0b !important;
+    border-radius: 0;
+    height: 40px;
+    box-shadow: none !important;
+    border-top: 1px dotted rgba(255, 255, 255, 0.15);
+    border-bottom: 1px dotted rgba(255, 255, 255, 0.15);
+    opacity: 1;
+    border-color: #c2d82e;

@@ -1,0 +1,4 @@
+	padding: 10px 0px;
+	font-size: 13px;
+	line-height: 1.5em;
+	color: #969696;

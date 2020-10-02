@@ -1,0 +1,8 @@
+	display:inline-block;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	padding-left:30px;
+	background:url(../images/marker_3.png) 1px 0 no-repeat;
+	margin-top:5px;
+	color:#000;

@@ -1,0 +1,7 @@
+	padding:3%;
+	list-style:none;
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	color: #72D0F4;
+	font-size: 1.5em;
+	font-weight: 600;

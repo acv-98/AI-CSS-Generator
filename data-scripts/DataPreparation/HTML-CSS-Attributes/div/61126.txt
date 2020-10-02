@@ -1,0 +1,2 @@
+ margin-top:0
+ margin-bottom:0; width:100% font-size:18px; margin-top:46px margin-bottom:50px

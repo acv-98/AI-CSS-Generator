@@ -1,0 +1,2 @@
+ width: 14%;   width: 14.8%;  width: 14%; height: 90px;  font-size: 24px;  width: 100%; float: none;  width: 100%; float: none;  padding: 22px 0px 21px 0px; width: 205px; float: left; background: #2d2d2d; transition: all ease 0.3s; font-size: 34px; color: #ff9408; font-family: 'Oswald', sans-serif; font-weight: 400; letter-spacing: 1px; 
+ background: #ff9408; color: #fff;  color: #fff; 

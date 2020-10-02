@@ -1,0 +1,5 @@
+	background:url(../img/black/slide_bkg.png);
+	width:1040px;
+	height:340px;
+	margin: -4px auto 0;
+	float:right;

@@ -1,0 +1,10 @@
+  margin:0 auto;
+  max-width:60em;
+  padding:0 0.625em;
+margin-left:0;  clear:both;
+  content:".";
+  display:block;
+  height:0;
+  line-height:0;
+  visibility:hidden;
+clear:left;padding:0;

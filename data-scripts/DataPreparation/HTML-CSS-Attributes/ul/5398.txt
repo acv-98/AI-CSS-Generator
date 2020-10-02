@@ -1,0 +1,4 @@
+	margin: 10px 0 0;
+	padding: 0px;
+	list-style: none;
+	background: url(images/list_icon.png) left center no-repeat;

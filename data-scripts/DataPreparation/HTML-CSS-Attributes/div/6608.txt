@@ -1,0 +1,4 @@
+    display: inline-block;
+    margin-right: 15px;
+    padding-left: 5px;
+    text-align: left;

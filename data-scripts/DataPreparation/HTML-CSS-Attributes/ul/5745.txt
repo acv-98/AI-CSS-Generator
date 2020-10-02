@@ -1,0 +1,9 @@
+	text-decoration:none;
+	font-size:14px;
+	line-height:19px;
+	font-style:italic;
+	padding:8px 0;
+	background:url(../images/pic-1.gif) 0 bottom repeat-x;
+	display:inline-block;
+	color:#fff;
+	padding-left:11px;

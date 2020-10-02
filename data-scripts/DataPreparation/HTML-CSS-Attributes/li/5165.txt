@@ -1,0 +1,4 @@
+ padding-right: 15px; 			.pagination .prev a {
+				background: url("../images/posts/prev.png") 0 1px no-repeat;
+				padding-left: 30px;
+ background-position: 0 -17px; 

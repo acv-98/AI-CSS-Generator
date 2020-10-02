@@ -1,0 +1,11 @@
+  color: #a5d549;
+  display: inline;
+  float: left;
+  width: 100%;
+  font-size: 14px;
+  margin: 0;
+  text-decoration: none;
+  outline: none;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 12px;

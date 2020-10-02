@@ -1,0 +1,8 @@
+  background: transparent;
+  color: #F85A16;
+  border: 1px solid #F85A16;
+  font-size: 16px;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  box-shadow: none;

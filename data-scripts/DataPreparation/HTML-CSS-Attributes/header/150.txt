@@ -1,0 +1,10 @@
+ margin-bottom: -20px  text-decoration: none .group.top-nav nav a:hover { 
+	color: #FF6C40; -webkit-transition: all .25s ease-in-out;
+   -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+     -o-transition: all .2s ease-in-out;
+        transition: all .2s ease-in-out; 
+  content: "";
+  display: table;
+  clear: both;
+-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box

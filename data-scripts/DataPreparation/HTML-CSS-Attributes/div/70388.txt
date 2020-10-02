@@ -1,0 +1,5 @@
+    width:100%;
+    font-size:3rem;
+    margin-bottom: 1rem;
+    letter-spacing: 1px;
+    line-height: 3rem;

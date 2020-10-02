@@ -1,0 +1,14 @@
+    	margin-top: 20px;
+    	position: inherit;
+		display: block;
+    border-left: 2px solid #DE5E60;
+    overflow: hidden;
+    padding: 20px;
+    position: relative;
+    font-size: 24px;
+	line-height: 1em;
+	text-transform: uppercase;
+	margin-bottom: 0;	
+    margin-top: -20px;
+    right: 0;
+    top: 50%;

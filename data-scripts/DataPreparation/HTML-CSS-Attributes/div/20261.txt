@@ -1,0 +1,1 @@
+display:inline; float:left; width:100%; padding:30px 0pxfloat:left; display:inline; width:217pxfloat:right; display:inline; width:728px.header_bottom_left.header_bottom_left.header_top_left

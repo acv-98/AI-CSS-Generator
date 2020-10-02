@@ -1,0 +1,5 @@
+	font-size: 22px;
+    line-height: 36px;
+	color: #fff;
+ color: #fff;  font-style: italic;  margin-top: 30px; .testimonials p {
+	padding: 0;

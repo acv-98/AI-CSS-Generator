@@ -1,0 +1,11 @@
+	border-bottom:2px solid #ededed;
+	width:80%;
+	margin:0 auto;
+	margin-bottom:40px;
+    opacity:1;
+    color:#fff;
+    font-size: 40px;
+    font-family: 'lobsterregular';
+	margin-top:10px;
+	font-family: 'pt_sansitalic';
+	font-size:13px;

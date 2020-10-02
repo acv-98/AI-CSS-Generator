@@ -1,0 +1,14 @@
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+  display: inline-block;
+  padding-right: 5px;
+    font-style: italic;
+    color: #999;
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 14px;
+    padding-right: 5px;
+    font-weight: 500;
+    padding-left: 0;
+    margin-right: 10px;

@@ -1,0 +1,84 @@
+  position: relative;
+  height: 360px;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100%;
+  -webkit-transform: translateX(100%);
+  -moz-transform: translateX(100%);
+  -ms-transform: translateX(100%);
+  -o-transform: translateX(100%);
+  transform: translateX(100%);
+  -webkit-transition: -webkit-transform 0.5s;
+  -moz-transition: -moz-transform 0.5s;
+  transition: transform 0.5s;
+    height: 500px;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #2c343b;  
+  z-index: 1;
+  padding-top: 100px;
+  text-align: center;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  display: none;
+  bottom: auto;
+  right: auto;
+  min-width: 100%;
+  max-width: none;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  line-height: 1.2;
+  margin: 0 auto 14px;
+  color: #ffffff;
+  font-size: 2.4rem;
+  margin-top: .8em;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+  margin-left: 1em;
+    background-image: none;
+  .cd-hero-slider .cd-full-width,
+  .cd-hero-slider .cd-half-width {
+    padding-top: 150px;
+    display: block;
+    width: 45%;
+    left: 5%;
+    right: 5%;
+    max-width: 520px;
+    font-size: 2.4em;
+    font-weight: 300;
+    margin-bottom: 20px;
+    opacity: 0;
+    -webkit-transform: translateX(40px);
+    -moz-transform: translateX(40px);
+    -ms-transform: translateX(40px);
+    -o-transform: translateX(40px);
+    transform: translateX(40px);
+    -webkit-transition: opacity 0s 0.5s, -webkit-transform 0s 0.5s;
+    -moz-transition: opacity 0s 0.5s, -moz-transform 0s 0.5s;
+    transition: opacity 0s 0.5s, transform 0s 0.5s;
+ padding-top: 0; .cd-slider-nav {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	z-index: 1002;
+	background-color: rgba(42, 59, 85, 0.8);
+	height: 50px;
+ height: 100vh;  list-style: none; 	max-width: none;
+	width: 100%;
+ color: white; .cd-hero-slider .tm-bg-white p,
+ color: black; .cd-hero-slider .tm-text { 
+	font-size: 1em;
+	line-height: 1.8; 
+ margin-bottom: 0; .tm-gallery-title-container { 
+	padding-left: 10px;
+	padding-right: 10px;
+ margin-bottom: 0; .tm-contact-page {
+	margin: 0 auto;
+ height: 100%; .tm-navbar {
+    top: 44px;
+ text-align: left;  font-size: 2.2em;  font-size: 1.6em;  padding-top: 0;  margin-bottom: 0;  margin-bottom: 20px;  margin-bottom: 30px;  margin-bottom: 0;  padding-top: 0;  font-size: 1.1em; 

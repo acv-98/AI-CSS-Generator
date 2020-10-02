@@ -1,0 +1,2 @@
+	background:#2B425B;
+	height:8px;

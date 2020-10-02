@@ -1,0 +1,3 @@
+	background: url(../images/contact.png);
+	padding:8em 0;
+	text-align:center;

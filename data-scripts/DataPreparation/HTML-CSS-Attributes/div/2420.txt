@@ -1,0 +1,12 @@
+    font-size:11px;
+	color:#282828;
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size:24px;
+	text-transform:uppercase;
+	padding-bottom:60px;
+	margin:10px 0px 0px 0px;
+	list-style:none;
+	float:left;
+	width:50%;
+	height: 30px;
+	margin-top:20px;

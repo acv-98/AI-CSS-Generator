@@ -1,0 +1,12 @@
+	margin-top: 10px;
+	padding-top: 0vh;
+	padding-bottom: 0vh;
+	text-align: center;
+	background-image: url(../img/services-bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	padding-left: 0px;
+	padding-right: 0px;
+		margin-left: 10px;
+		margin-right: 10px;

@@ -1,0 +1,16 @@
+  background-color: #78ADC9;
+      background-color: #26a69a;
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+        -ms-transform: translateY(0);
+        -o-transform: translateY(0);
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+    margin: 16px 0;
+    font-size: 0.8rem;
+      color: #fff;
+      margin-left: -1px;
+      margin-top: 8px;
+    font-weight: 500;
+    padding-left: 18px;
+    -webkit-animation: container-rotate 1568ms linear infinite;
+  opacity: 1;

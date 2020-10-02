@@ -1,0 +1,7 @@
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  color: #555;
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: bold;
+    margin-top: 0;

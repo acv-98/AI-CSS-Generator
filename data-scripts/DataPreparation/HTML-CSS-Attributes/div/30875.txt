@@ -1,0 +1,2 @@
+  content: '%';
+  font: bold 48px/117px 'Arial', sans-serif;

@@ -1,0 +1,4 @@
+    display: none;
+    font-weight: 600;
+    letter-spacing: 0.075em;
+    font-size: 1em;

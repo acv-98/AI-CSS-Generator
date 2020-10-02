@@ -1,0 +1,7 @@
+    display: block;
+    margin-top: 1rem;
+    color: #ffffff !important;
+    font-size: 13px;
+    padding: 0 0.7rem;
+    border-radius: 3px;
+    background-color: #FF6347 !important;

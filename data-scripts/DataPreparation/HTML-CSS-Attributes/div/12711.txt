@@ -1,0 +1,12 @@
+	overflow: hidden;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 95px;
+	width: 320px;
+	height: 450px;
+	background: url('../img/iphone-front.png') no-repeat;
+	background-size: 100%;
+	padding-left: 4px;
+		width: 280px;
+		padding-top: 85px;
+		margin-top: -12px;

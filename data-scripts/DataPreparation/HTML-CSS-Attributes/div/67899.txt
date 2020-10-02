@@ -1,0 +1,2 @@
+	background:url(../images/box1-bottom.jpg) no-repeat 0 100%;
+	width:100%;

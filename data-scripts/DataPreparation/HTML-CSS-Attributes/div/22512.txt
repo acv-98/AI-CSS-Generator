@@ -1,0 +1,9 @@
+    width:80%;
+    float:right;
+    font-size:1.5rem;
+    line-height: 2rem;
+    color:#999;
+    height: 2px;
+    margin: 5px 10px;
+    background: #f38181;
+    display: inline-block;

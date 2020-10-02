@@ -1,0 +1,17 @@
+	padding: 15%;
+	-webkit-transition: background-color 0.35s;
+	position: absolute;
+	top: 30px;
+	right: 30px;
+	bottom: 30px;
+	left: 30px;
+	border: 1px solid #fff;
+	content: '';
+	margin: 0;
+	line-height: 1em;
+	transition: transform 0.35s;
+	-webkit-transform: translate3d(0,100%,0);
+	transform: translate3d(0,100%,0);
+	opacity: 0;
+	background-color: rgba(0,0,0,0.8);
+padding: 12%;top: 20px;right: 20px;bottom: 20px;left: 20px;padding: 20%;

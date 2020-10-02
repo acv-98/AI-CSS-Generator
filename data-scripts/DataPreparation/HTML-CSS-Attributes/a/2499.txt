@@ -1,0 +1,15 @@
+	background: #9b59b6;
+    position:fixed;
+	width:32px;
+	height:32px;
+    bottom:0px;
+    right:20px;
+-webkit-border-radius: 2px 2px 0 0;	
+	-moz-border-radius: 2px 2px 0 0;	
+	border-radius:  2px 2px 0 0;	
+	outline:0;
+	text-align: center;
+	opacity:1;
+	text-decoration:none;
+	margin-top: 10px;
+	color: #fff;

@@ -1,0 +1,8 @@
+  margin-bottom: 3em;
+  padding: 0;
+  display: inline-block;
+  list-style: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: .1em;
+  color: #7b7b7b;

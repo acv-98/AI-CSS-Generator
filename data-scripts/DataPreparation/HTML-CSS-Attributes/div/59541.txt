@@ -1,0 +1,9 @@
+    width: 93%;
+    padding: 25px 0 10px;
+    background: #d0a772;
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    opacity: 0;
+    transform: translateX(-50%);
+    transition: all 0.3s cubic-bezier(0.5, 0.2,0.1,0.9);

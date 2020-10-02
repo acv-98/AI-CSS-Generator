@@ -1,0 +1,5 @@
+  color: #304352;
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin: 0;

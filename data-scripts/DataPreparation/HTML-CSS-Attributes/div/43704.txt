@@ -1,0 +1,3 @@
+ border-color: #cfcfcf;  max-width: 100%; 	border: 1px solid #CFCFCF;
+	padding: 3px;
+	display: block;

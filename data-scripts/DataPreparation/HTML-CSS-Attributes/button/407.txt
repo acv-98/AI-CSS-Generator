@@ -1,0 +1,4 @@
+  background-color: #00c0ef;
+  border-color: #00acd6;
+  color: #fff;
+  background-image: none;

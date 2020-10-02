@@ -1,0 +1,6 @@
+        height: auto;
+    background: #fff;
+    border:2px solid #222;
+    width:100%;
+    color: #222;
+    min-width:90%;

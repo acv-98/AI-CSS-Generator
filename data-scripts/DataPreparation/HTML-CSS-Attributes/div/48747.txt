@@ -1,0 +1,16 @@
+  color: #c1a35f;
+  display: inline;
+  float: left;
+  margin-bottom: 15px;
+  width: 100%;
+  margin-top: 5px;
+  letter-spacing: 0.5px;
+  margin-right: 10px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  padding: 0 15px;
+    letter-spacing: 0;
+    margin-right: 5px;

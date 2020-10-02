@@ -1,0 +1,10 @@
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  margin-left: -20px;
+  display: block;
+  color: #ffffff;
+  font-size: 40px;
+  z-index: 99;
+  text-decoration: none;
+  outline: none;

@@ -1,0 +1,7 @@
+color:#c8c5a2.devices
+{
+	width:204px;
+	height:95px;
+	background:url(../images/devices.jpg);
+	padding:0px 0px 0px 0px;
+	float:right;

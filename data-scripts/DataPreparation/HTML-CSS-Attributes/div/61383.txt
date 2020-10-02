@@ -1,0 +1,2 @@
+    background: url(../images/coolautumnover.png) repeat-y 100% 100%;
+	background-size: contain;

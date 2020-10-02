@@ -1,0 +1,8 @@
+ border-color: #cfcfcf; 	background: none repeat scroll 0 0 #FFFFFF;
+	border: 1px solid #CFCFCF !important;
+	clear: both;
+	left: 0;
+	position: relative;
+	top: -1px;
+	z-index: 0;
+	border-bottom-right-radius: 5px;

@@ -1,0 +1,15 @@
+margin-bottom: 30px !important;padding-bottom: 30px !important;  .featured-items {
+  padding-top: 30px !important;
+  padding-bottom: 0 !important;
+  overflow: hidden !important;
+padding-top: 30px !important; padding-bottom: 0px !important;  .navbar-nav .open .dropdown-menu {
+    position: static;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+padding-bottom: 0 !important;	overflow: hidden;
+	padding: 60px 0;
+	width:100%;

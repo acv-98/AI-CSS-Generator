@@ -1,0 +1,2 @@
+	padding-left:53px;
+	background:url('images/quotes.gif') no-repeat left 0;

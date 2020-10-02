@@ -1,0 +1,17 @@
+  display: inline-block;
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: #fff;
+  opacity: .85;
+  padding: .3125rem;
+  transition-duration: 300ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  position: relative;
+  top: 50%;
+  right: -2.5rem;
+  width: 2.1875rem;
+  height: 0.0625rem;
+  background: rgba(255, 255, 255, 0);
+  content: " ";
+  padding-right: 2.5rem;

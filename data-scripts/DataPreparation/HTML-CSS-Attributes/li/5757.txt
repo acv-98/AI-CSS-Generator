@@ -1,0 +1,4 @@
+	background: url(images/img01.jpg) repeat;
+	border-bottom: 5px solid #437BA7;
+	text-shadow: -1px -1px 0px #2C7485;
+	color: #FFFFFF;

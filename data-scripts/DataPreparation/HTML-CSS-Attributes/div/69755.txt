@@ -1,0 +1,12 @@
+	top: 45px;
+	left: 12px !important;
+	padding-top: 24px;
+	margin-bottom: 26px;
+	font: 24px/20px 'Open Sans', sans-serif;
+	background-color: #f6f7ea;
+filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+	position: absolute;
+	z-index: 1;
+	bottom: 0;
+	display: block;
+	color: #85846d;

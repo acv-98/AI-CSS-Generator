@@ -1,0 +1,12 @@
+  color: #25c9da;   
+  background-color: #25c9da;
+  border: 1px solid #25c9da;
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 5px;
+	padding: 5px 8px;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;

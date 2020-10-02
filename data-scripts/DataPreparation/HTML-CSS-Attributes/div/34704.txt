@@ -1,0 +1,4 @@
+    border-radius: 0;
+    font-size: 18px;
+    padding: 20px 20px;
+    width: 100%;

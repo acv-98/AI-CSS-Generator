@@ -1,0 +1,6 @@
+	width:100%;
+	height:auto;
+	background:#ffffff;
+	clear:both;
+	margin:0 auto;
+	overflow:hidden;

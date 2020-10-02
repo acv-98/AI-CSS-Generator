@@ -1,0 +1,9 @@
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	list-style: none;
+	border-top: 1px solid #DCDCDC;
+	font-weight: bold;
+	font-style: italic;
+	color: #2C2C2C;
+	text-decoration: none;
+	padding-top: 0em;

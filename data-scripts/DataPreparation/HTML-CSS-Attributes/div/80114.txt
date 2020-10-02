@@ -1,0 +1,5 @@
+    background-color: #FF5800;
+    padding: 20px 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 30px;

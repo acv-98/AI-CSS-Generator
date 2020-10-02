@@ -1,0 +1,2 @@
+	background:url(images/nav-a.gif) no-repeat center 0;
+	text-decoration:none;

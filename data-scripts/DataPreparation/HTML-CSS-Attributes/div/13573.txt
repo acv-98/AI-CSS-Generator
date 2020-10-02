@@ -1,0 +1,15 @@
+	position: absolute; 
+	color: #a39d03; 
+	text-shadow: none; 
+	font-weight: 800; 
+	font-size: 25px; 
+	line-height: 25px; 
+	font-family: 'Open Sans',sans-serif; 
+	padding: 0px 4px; 
+	padding-top: 1px;
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;			
+        white-space: nowrap;								

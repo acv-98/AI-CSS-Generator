@@ -1,0 +1,6 @@
+	padding-top: 90px;
+	padding-bottom: 56px;
+	text-align: center;
+	color: #585858;
+	font: bold 30px/20px 'Open Sans Condensed', sans-serif;
+	margin-top: 42px;

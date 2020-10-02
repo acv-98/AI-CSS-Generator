@@ -1,0 +1,7 @@
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  font-size: 30px;
+  color: #b3b3b3 !important;
+  outline: none;
+  text-decoration: none !important;

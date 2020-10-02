@@ -1,0 +1,13 @@
+  font-size: 40px;
+  margin-bottom: 0;
+  text-align: center;
+  position: relative;
+  line-height: 1.7;
+  font-weight: 700;
+  display: block;
+  height: 4px;
+  width: 100px;
+  background: #87b6c4;
+  bottom: 0;
+  left: 50%;
+  margin-left: -50px;

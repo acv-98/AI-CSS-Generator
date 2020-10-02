@@ -1,0 +1,2 @@
+ background: #2ba6cb; color: #fff; border-color: #2284a1; -webkit-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.5); -moz-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.5); box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.5);  color: #fff;  background: white; border: none; color: #2ba6cb; text-shadow: none;  background: rgba(255, 255, 255, 0.8); float:left
+background: #FAE6E1; border: 1px solid white; border-radius: 10pxcolor: #FFF

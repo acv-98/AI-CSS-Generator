@@ -1,0 +1,14 @@
+  background-repeat: no-repeat;
+  background-size: cover;
+    width: 100%;
+    min-height: 500px;
+  background-position: center center;
+    height: 200px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 0;
+    position: relative;
+    right: inherit;
+    top: inherit;
+    bottom: inherit;

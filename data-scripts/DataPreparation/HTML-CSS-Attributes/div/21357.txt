@@ -1,0 +1,11 @@
+  display: table-cell;
+  vertical-align: middle;
+    display: block;
+  width: 11.250rem;
+    width: auto;
+    float: left;
+    right: auto;
+    left: 10rem;
+    padding: 0 .9375rem !important;
+    max-height: 35rem;
+    overflow-y: auto !important;

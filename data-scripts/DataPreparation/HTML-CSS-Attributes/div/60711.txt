@@ -1,0 +1,8 @@
+		font-size: 20px;
+		text-transform: uppercase;
+		font-weight: 600;
+		color: #3C3B3B;
+		margin: 0;
+		text-align: center;
+		border-color: #F7C221;
+		width: 30%;

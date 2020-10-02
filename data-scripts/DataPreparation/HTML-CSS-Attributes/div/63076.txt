@@ -1,0 +1,14 @@
+	font-size: 12px;
+	background: #fff url('../images/mail.png') no-repeat 4px 5px;
+	color: #888;
+	padding: 6px 6px 6px 25px;
+	width: 280px;
+	border: 1px solid #ebeae5;
+	font-family:'Anaheim';
+	border-radius: 0;
+	position: relative;
+	margin: 10px 0;
+	bottom: -20px;
+	left: 120px;
+	content: '';
+	border-color: #ebeae5 transparent transparent transparent;

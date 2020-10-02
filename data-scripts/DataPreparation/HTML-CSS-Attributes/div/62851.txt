@@ -1,0 +1,1 @@
+background: url('../img/macbook.jpg') no-repeat;width: 294px;height: 165px;float: leftposition: absolute;top: 11px;left:46px

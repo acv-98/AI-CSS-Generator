@@ -1,0 +1,32 @@
+ height: 1%; 
+	Template Name : Jungleland
+	Template Code : S-0030
+	Version : 1.0   
+	Author : Erwin Aligam
+	Author URI : http://www.styleshout.com/       
+	Last Date Modified : August 31, 2009
+   HTML ELEMENTS
+body {
+	font: 12px/170% 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, Sans-Serif;
+	color: #91807F; 
+	margin: 0; padding: 0; 
+	background: #1d140f url(../images/bg.gif) repeat-x;
+	text-align: center;
+	padding: 0;
+	background-color: #130d0a;	
+	border-style: solid;	
+	border-color: #2C1F18;	
+	border-width: 1px 1px 0 1px;		
+	list-style: none;
+	border-bottom: 1px solid #251a14;	
+	width: 99%;
+	overflow: auto; 	
+	float: right;
+	display: inline;
+	font-style: normal; 
+	font-weight: bold;		
+	font-size: .8em;
+	clear: both;
+ margin:0; padding: 0; .commentlist li ul.children li.depth-2,
+.commentlist li ul.children li.depth-3 {
+	margin-left: 40px;	

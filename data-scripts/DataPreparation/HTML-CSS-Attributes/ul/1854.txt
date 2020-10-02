@@ -1,0 +1,3 @@
+  position: absolute;
+  right: 1.875rem;
+  bottom: 1.875rem;

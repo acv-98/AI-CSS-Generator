@@ -1,0 +1,10 @@
+	overflow: hidden;
+	margin-top: 12px;
+	background:url("../images/sprite.png") no-repeat scroll -5px -203px transparent;
+	float:left;
+	height:27px;
+	margin-left:20px;
+	padding: 6px 0 0 10px;
+	width:158px;
+	border: none;
+	cursor:pointer;

@@ -1,0 +1,1 @@
+	background:url(../images/bg_content.gif) center 0 repeat-y;

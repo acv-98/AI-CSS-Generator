@@ -1,0 +1,25 @@
+		border: 1px solid #DDDDDD;
+		margin-bottom: 10px;
+			font-size: 0.9em;
+			text-transform: uppercase;
+			color: #003366;
+			background-color: #EEEEEE;
+			padding: 10px;
+			border-bottom: 1px solid #dddddd;
+			list-style-type: square;
+			list-style-position: inside;
+				line-height: 1.4em;
+				color: #888888;
+				padding: 2px 0;
+				text-decoration: none;
+				font-weight: bold;
+			text-align: center;
+				margin: 6px;
+				padding-top: 5px;
+				font-family: Arial;
+				border-bottom: 1px dotted #CCCCCB;
+				background-position: 0 6px;
+				background-repeat: no-repeat;
+ background-image: url(images/rss.gif);  background-image: url(images/twitter.gif);  background-image: url(images/facebook.gif);  background-image: url(images/linkedin.gif); 	#sidebar .l {
+		float: left;
+		width: 155px;

@@ -1,0 +1,15 @@
+    margin-top: 40px;
+    margin-right:5px;
+	margin-top:120px;
+	font-size:1.875rem;
+	margin-bottom:30px;
+    font-size: 5rem;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 5rem;
+	color:#fff;
+	display:block;
+	
+    margin-left:-10px;
+	margin-left:10px;
+	max-width:90%;

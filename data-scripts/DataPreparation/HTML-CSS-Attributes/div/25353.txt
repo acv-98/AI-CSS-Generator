@@ -1,0 +1,6 @@
+    margin-bottom: 20px;
+    list-style: none;
+    margin-top: 8px;
+    padding-top: 8px;
+    background: transparent url(../images/line.png) repeat-x left top;
+    padding-right: 5px

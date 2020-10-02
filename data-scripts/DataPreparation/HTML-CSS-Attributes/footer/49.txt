@@ -1,0 +1,13 @@
+ margin-bottom: 40px; 
+.tm-social-link {
+	background-color: #0066cb;
+    color: white;
+    display: inline-block;
+    font-size: 1.2em;
+    width: 45px;
+    height: 45px;
+    text-align: center;    
+    margin-right: 5px;
+    padding-top: 5px;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;

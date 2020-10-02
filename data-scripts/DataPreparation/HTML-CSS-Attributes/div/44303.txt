@@ -1,0 +1,3 @@
+	width: 516px;
+	float: left;
+	text-align: right;

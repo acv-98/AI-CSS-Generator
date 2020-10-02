@@ -1,0 +1,5 @@
+color: #6b6b6b;
+font-size: 18px;
+font-weight: bold;
+line-height: 22px;
+padding-bottom:15px;

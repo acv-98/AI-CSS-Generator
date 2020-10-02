@@ -1,0 +1,12 @@
+width:280px;
+float:left;
+margin:20px 20px 0 -30px;
+padding:0 10px 7px 40px;
+background:#fff;
+    border-radius:18px;
+	-moz-border-radius:18px;
+	-webkit-border-radius:18px;
+	 box-shadow:0 0 3px #c5c2a9;
+	-moz-box-shadow: 0 0 3px #c5c2a9;
+	-webkit-box-shadow:0 0 3px #c5c2a9;
+padding:18px 10px 0 40pxpadding:0px 20px 27px 30px

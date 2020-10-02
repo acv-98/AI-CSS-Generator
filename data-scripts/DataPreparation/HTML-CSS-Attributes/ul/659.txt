@@ -1,0 +1,12 @@
+	display: block;
+	font-size: .87em;
+	padding-bottom: 5px;
+	position: relative;
+	margin-left: 10px;
+	content: '(';
+		position: absolute;
+		left: 0px;
+		top: 0px;	
+		content: ')';
+right: 0px;
+	color: #3498db;

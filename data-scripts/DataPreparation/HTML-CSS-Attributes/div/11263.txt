@@ -1,0 +1,18 @@
+	height: 1%; 	margin: 10px 8px 8px 8px; padding: 0;
+	border-top: 1px solid #29201c; 
+	text-align: left;
+	list-style: none;
+	border-bottom: 1px solid #29201c;
+	font-size: 11px;
+	line-height: 20px;	
+	text-transform: uppercase;	
+	background: url(../images/bullet.gif) no-repeat 0 14px;
+	padding-left: 0;	
+	font-weight: bold;		
+	color: #F1E3D8;
+	display: block;	
+	margin-left: -16px;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, Sans-Serif;
+ color: #fff;	border: none;  margin: 0 0 0 5px; padding: 0; border: none;  border: none; #footer {
+	float: left;
+	width: 100%;

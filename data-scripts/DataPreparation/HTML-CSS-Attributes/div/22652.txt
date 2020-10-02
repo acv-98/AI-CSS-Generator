@@ -1,0 +1,5 @@
+	width: 300px;
+	height: 1px;
+	background: url(../images/dotted_line_Short.png);
+	margin-top: -5px;
+	margin-bottom: -5px;

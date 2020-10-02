@@ -1,0 +1,18 @@
+ color:#2B2828;  font-size:22px;  font-family: 'Droid Sans', sans-serif !important;  color:#2B2828;  font-size:22px;  font-family: 'Droid Sans', sans-serif !important;  color:#2B2828;  font-size:22px;  font-family: 'Droid Sans', sans-serif !important;  color:#2B2828;  font-size:22px;  font-family: 'Droid Sans', sans-serif !important;  color:#2B2828;  font-size:22px;  font-family: 'Droid Sans', sans-serif !important;  color:#2B2828;  font-size:22px;  font-family: 'Droid Sans', sans-serif !important;  color:#2B2828;  font-size:22px;  font-family: 'Droid Sans', sans-serif !important;     float: none !important;
+    width: 100% !important;
+  margin-right: 1.5625%;
+  padding: 3px;
+  border: 1px solid #b7bdbd;
+  display: block;
+  margin-bottom: 12px;
+  background: 0;
+  color: #000;
+  font-size: 18px;
+  padding-right: 5px;
+  vertical-align: middle;
+  margin-top: 7px;
+  font-weight: bold;
+  line-height: 21px;
+  min-height: 21px;
+  font-family: 'Droid Sans', Arial, Helvetica, sans-serif;
+ line-height:18px; margin-bottom: 10px; 

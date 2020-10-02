@@ -1,0 +1,7 @@
+	width: 920px;
+	margin: 20px auto;
+	height: 250px;
+	float: left;
+	margin-bottom: 40px;
+	padding: 0px 30px;
+	position: absolute;

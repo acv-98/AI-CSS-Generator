@@ -1,0 +1,4 @@
+    position: relative;
+    width:100%;
+    font-size:2.714rem;
+    color:#fff;

@@ -1,0 +1,15 @@
+	position: relative;
+	z-index:1;
+	width:620px;
+	margin-right:48px;
+	float:left;
+	display: block;
+	height: 620px;
+	left:0;
+	top:0;
+	padding:0;
+	font-size:0;
+	line-height:0;
+	text-decoration:none;
+	background:#fff;
+	border:1px solid #e5e5e5;

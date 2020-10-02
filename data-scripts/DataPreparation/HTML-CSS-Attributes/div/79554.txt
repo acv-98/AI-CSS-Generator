@@ -1,0 +1,9 @@
+    font-style: italic;
+    color: #999;
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 14px;
+    padding-right: 5px;
+    margin: 10px 0;
+    font-weight: 700;
+        font-size: 20px;

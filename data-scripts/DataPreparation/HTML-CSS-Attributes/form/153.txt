@@ -1,0 +1,15 @@
+	font:14px/25px Arial, Helvetica, sans-serif;
+	color:#939393;
+	padding-bottom:5px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	background:#131313;
+	outline: medium none;
+	width: 245px;
+	height:17px;
+	float:left;
+	margin-bottom:12px;
+	margin-right:14px;
+	margin-top:30px;
+	padding-left:36px;
+	padding-right:37px;

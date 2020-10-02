@@ -1,0 +1,1 @@
+	background:url(images/wrapper-bg.jpg) center top no-repeat;

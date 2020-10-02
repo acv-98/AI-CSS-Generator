@@ -1,0 +1,6 @@
+	margin:0;
+	padding:6px 0;
+	text-transform:uppercase;
+	text-decoration:none;
+	font-weight:normal;
+	color:#3d7fc2;

@@ -1,0 +1,9 @@
+	padding-bottom: 30px;
+	font-size: 37px;
+	color: #FFF;
+	font-weight: 600;
+	line-height: 1.4;
+	text-transform:uppercase;
+	letter-spacing: 1px;
+	margin-top: 10px;
+	margin-bottom: 50px;

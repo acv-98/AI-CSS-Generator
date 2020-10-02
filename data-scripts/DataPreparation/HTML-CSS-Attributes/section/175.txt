@@ -1,0 +1,8 @@
+        top: -80px;
+        position: relative;
+        left: 0; 
+        transform: rotate(0deg);
+        margin-top:0px;
+    line-height: 2rem;
+    font-size:18px;
+    font-family: 'gotham_boldregular';

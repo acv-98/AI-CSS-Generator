@@ -1,0 +1,4 @@
+	background:#000 url(images/h2-bubble.gif) left center no-repeat;
+	padding-left:44px;
+	margin-left:-34px;
+	float:left;

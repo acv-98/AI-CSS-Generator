@@ -1,0 +1,13 @@
+	font-size:12px;
+	line-height:20px;
+	font-style:italic;
+	position:relative;
+	padding:0 0 15px 0;
+	font-weight:normal;
+	color:#b09609;
+	display:inline-block;
+	background:url(../images/quote-before.png) no-repeat 0 0;
+	content:"";
+	width:14px;
+	height:13px;
+	margin:0 5px 0 0;

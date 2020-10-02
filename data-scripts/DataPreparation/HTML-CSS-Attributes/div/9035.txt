@@ -1,0 +1,4 @@
+  border-right: 1px solid #ACB0BD;
+  text-align: right;
+    border-right: none;
+    text-align: left;

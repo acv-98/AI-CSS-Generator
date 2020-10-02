@@ -1,0 +1,9 @@
+	width: 100px;
+	height: 100px;
+	background: url(../images/img-sprite.png)no-repeat #00afec 10px -241px;
+	display: block;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-o-border-radius: 100px;
+	margin: 0 auto;

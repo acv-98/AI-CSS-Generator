@@ -1,0 +1,11 @@
+  background: #ffffff;
+	background: #C62828;
+	border: none;
+	padding: 10px 6px;
+	outline: none !important;
+	display: block;
+	width: 22px;
+	height: 2px;
+	border-radius: 1px;
+	margin-top: 4px;
+	margin-left: 4px;

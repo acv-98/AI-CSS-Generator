@@ -1,0 +1,42 @@
+  background-image: -webkit-linear-gradient(top, #dbdbdb 0%, #e2e2e2 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffdbdbdb', endColorstr='#ffe2e2e2', GradientType=0);
+  background-repeat: repeat-x;
+  -webkit-box-shadow: inset 0 3px 9px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 3px 9px rgba(0, 0, 0, .075);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
+    color: #fff;
+    background-image: -webkit-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff2e6da4', GradientType=0);
+    background-repeat: repeat-x;
+  margin: 7.5px -15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 20px;
+    position: static;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    padding: 5px 15px 5px 25px;
+    line-height: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+    border-color: #080808;
+ padding-left: 15px; padding-right: 15px; 	
+ padding: 15px 20px; text-align: left;  display: none;  padding-right: 7px;  padding: 15px 20px; 	font-size: 14px;
+	color: #888;
+	text-transform: uppercase;
+ padding: 23px 20px; background: #fff; border-top: 5px solid #fff; color: #5d5d5d;  background: #f8f8f8; border-color: #9d426b; color: #5d5d5d;  background: #9d426b; border-color: #9d426b; color: #fff; outline: 0;  line-height: 35px; color: #aaa;  color: #fff; .dropdown-menu {
+	border: 0;
+	-moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0;
+	-moz-box-shadow: 0 6px 10px rgba(0, 0, 0, .15); -webkit-box-shadow: 0 6px 10px rgba(0, 0, 0, .15); box-shadow: 0 6px 10px rgba(0, 0, 0, .15);
+ padding-top: 15px; padding-bottom: 15px;  background: #fff; color: #5d5d5d; border: 0; ul.navbar-nav li.active .dropdown-menu a:hover, 
+ background: #9d426b; color: #fff; border: 0;  background: #f8f8f8; color: #9d426b; border: 0; ul.navbar-nav li.active .dropdown-menu > .active > a:hover, 
+ background: #9d426b; color: #fff; border: 0; 

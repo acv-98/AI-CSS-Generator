@@ -1,0 +1,11 @@
+  -webkit-transition: width 1s ease-in-out;
+  -moz-transition: width 1s ease-in-out;
+  -ms-transition: width 1s ease-in-out;
+  -o-transition: width 1s ease-in-out;
+  transition:  width 1s ease-in-out;
+  height: 30px;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  line-height: 30px;
+  background: #dab074;
+  border-radius: 10px;

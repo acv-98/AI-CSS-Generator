@@ -1,0 +1,15 @@
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+    font-size: 24px;
+    margin-left: 4px;
+    vertical-align: middle;
+    color: #9068be;
+    opacity: 0.3;
+    left: 20px;
+    position: absolute;
+    top: -37px;
+    background: #cfcfcf none repeat scroll 0 0;
+    height: 25px;
+    padding-top: 5px;
+    text-align: center;
+    width: 25px;

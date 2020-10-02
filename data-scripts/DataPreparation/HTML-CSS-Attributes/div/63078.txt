@@ -1,0 +1,12 @@
+    margin-left: 40px;
+    margin-top: 45px;
+    text-decoration: none;
+	padding: 2px;
+	float: left;
+	width: 200px;
+	border-right: 1px solid #eee;
+	padding-right: 15px;
+	background:url('../images/arrow.png') no-repeat;
+	padding-left: 15px;
+	text-decoration: none;
+	color: #888;

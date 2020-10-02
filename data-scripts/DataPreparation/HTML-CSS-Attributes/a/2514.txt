@@ -1,0 +1,7 @@
+  position: relative;
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.4);
+  text-transform: uppercase;
+  padding: .3125rem;
+  padding-left: 0;
+  padding-right: 0;

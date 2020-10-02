@@ -1,0 +1,7 @@
+ padding-right: 16.66667%;       padding: 0 30px;
+      margin-bottom: 6px;
+      right: 0;
+      text-align: center;
+      z-index: 3;
+      font-size: 28px;
+      line-height: 36px;

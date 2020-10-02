@@ -1,0 +1,6 @@
+	font-size:16px;
+	line-height:27px
+	color:#62a80a;
+	padding-left:23px;
+	background:url(../images/marker_1.png) 0 4px no-repeat;
+	text-decoration:none

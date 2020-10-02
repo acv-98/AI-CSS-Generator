@@ -1,0 +1,4 @@
+	width: 960px;
+	height: 345px;
+	overflow: hidden;
+	border: 2px solid white;

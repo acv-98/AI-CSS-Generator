@@ -1,0 +1,5 @@
+    float: none;
+    width: auto;
+    padding-top: 0;
+    text-align: left;
+text-align: left;font-size:18pxtext-align:left;

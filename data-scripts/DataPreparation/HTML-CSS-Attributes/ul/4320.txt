@@ -1,0 +1,16 @@
+		font-size: 12px;
+		padding: 0px 7px 10px 0px;
+		border-color: #ddd;
+		margin-top: 20px;
+		background-color: rgba(255, 255, 255, 0.88);
+    width: 70%;
+    margin-top: -12px;	
+	color:#666;
+    padding: 30px 13px 25px 13px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #fff;
+    border-bottom: 3px solid transparent;
+	text-transform:uppercase;
+    background-color: transparent;
+    margin-bottom: 0px;

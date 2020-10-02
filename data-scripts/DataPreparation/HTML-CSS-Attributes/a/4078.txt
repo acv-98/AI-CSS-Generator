@@ -1,0 +1,6 @@
+	border:1px solid #e0be00;
+    background: #d4c416;
+    filter: progid:DXImageTransform.Microsoft.Gradient(StartColorStr='#fff600', EndColorStr='#d4c416', GradientType=0);
+	color:#333;
+	text-shadow:none !important;
+	background: #fdf874;

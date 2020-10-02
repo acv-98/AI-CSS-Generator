@@ -1,0 +1,13 @@
+            padding-top: 108px;
+    background: rgba(24, 234, 199, 0.95) none repeat scroll 0 0;
+    height: 100%;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 80px;
+    content: "";
+    left: -10px;

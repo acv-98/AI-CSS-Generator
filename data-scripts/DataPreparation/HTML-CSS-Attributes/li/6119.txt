@@ -1,0 +1,2 @@
+	background:url(../images/menu_bg3.gif) top repeat-x #0f696b;
+	color:#9e1916;

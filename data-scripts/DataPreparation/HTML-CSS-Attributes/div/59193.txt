@@ -1,0 +1,11 @@
+  color: #25c9da !important;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+    font-size: 11px;
+  text-align: left;
+  max-width: 420px;
+  margin: 0 auto;
+  padding: 10px;
+  line-height: 20px;

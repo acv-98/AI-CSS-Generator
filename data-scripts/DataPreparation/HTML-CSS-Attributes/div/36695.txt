@@ -1,0 +1,4 @@
+padding-top: 80px.contant-1-head:after{background: #949C9C;
+content: "";
+height: 2px;
+position: absolute;

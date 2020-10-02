@@ -1,0 +1,10 @@
+color:#a47e3c;border-color:#a47e3c;color:#a47e3c;border-color:#a47e3c;  background-color: #fcf8e3;
+  border-color: #fbeed5;
+  color: #fff;
+    background-repeat: repeat-x;
+    border-bottom: 1px solid #f0ad4e;
+    background-image: linear-gradient(to bottom, #f0ad4e 0%, #ec971f 100%);
+  border-right: 1px solid #c77c11;
+  -webkit-box-shadow: 1px 0px 0px #f4c37d;
+          box-shadow: 1px 0px 0px #f4c37d;
+margin:0 auto    background-color: #f0ad4e !important;

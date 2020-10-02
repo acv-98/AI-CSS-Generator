@@ -1,0 +1,1 @@
+margin: 25px auto 25px; border-radius: 3px; background: #FFF

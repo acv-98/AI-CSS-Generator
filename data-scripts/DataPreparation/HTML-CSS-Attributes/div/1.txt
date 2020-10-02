@@ -1,0 +1,26 @@
+	margin-left:auto;
+	margin-right:auto;
+	width:960px
+	padding-left:240px
+	padding-right:240px
+	left:240px
+	background: url(../images/featured_bg.png) no-repeat top center;
+	height: 454px;
+	overflow: hidden;
+	font-family: Georgia;
+	font-size: 30px;
+	font-weight: normal;
+	line-height: 24px;
+	color: #1d1d1d;
+	float: left;
+	text-align: center;
+	border: 5px solid #a3a4a4;
+	-moz-border-radius: 14px;
+	border-radius: 14px;
+	text-shadow: 1px 1px 0px #ffffff;
+	filter: dropshadow(color=#ffffff, offx=0, offy=1);
+	font-style: italic;
+	list-style-type: none;
+	border-bottom: 1px solid #47535d;
+	display: block;
+	clear: both;

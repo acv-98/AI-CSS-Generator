@@ -1,0 +1,1 @@
+ float: left; font-size: 12px; width: 32px; height: 32px; background: #007fc5; 

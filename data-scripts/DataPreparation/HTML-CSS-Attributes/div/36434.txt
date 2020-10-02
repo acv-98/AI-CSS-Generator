@@ -1,0 +1,10 @@
+	float: left;
+	display: inline;
+	width: 100%;
+  border-radius: 5px 0 0 5px;
+  color: #fff;
+  height: 40px;
+  left: 46.5%;
+  top: 160%;
+  right: 46.5%;
+left: 45%;right: 45%;left: 43%;right: 43%;left: 40%;right: 40%;

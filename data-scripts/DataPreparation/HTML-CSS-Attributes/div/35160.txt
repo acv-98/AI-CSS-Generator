@@ -1,0 +1,7 @@
+  height: 1px;
+  clear: both;
+  display: block;
+ clear: both;height:1px;  .clearfix:after{
+  content: ".";
+  visibility: hidden;
+ clear: both;height:1px;  

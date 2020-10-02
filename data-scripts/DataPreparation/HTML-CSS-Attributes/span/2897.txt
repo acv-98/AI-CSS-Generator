@@ -1,0 +1,2 @@
+	border-left: none;
+	border-right: #555555 2px solid;

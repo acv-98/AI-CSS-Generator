@@ -1,0 +1,17 @@
+	padding-top: 36px;
+	background: none;
+	float: left;
+	margin-left: 0;
+	width: 286px;
+	position: relative;
+	padding-bottom: 20px;
+	overflow: hidden;
+	color: #73541B;
+	font-family: 'CarterOneRegular';
+	font-size: 18px;
+	line-height: 20px;
+	text-shadow: 1px 1px 0 #C8B57D;
+	display: block;
+	margin-top: 25px;
+	text-align: center;
+	text-decoration: none;

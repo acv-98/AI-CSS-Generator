@@ -1,0 +1,4 @@
+	float:right;
+	width:590px;
+	border-left:1px solid #ddd;
+	padding:0 0 0 22px;

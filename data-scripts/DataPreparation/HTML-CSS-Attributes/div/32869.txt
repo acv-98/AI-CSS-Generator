@@ -1,0 +1,21 @@
+ width: 205px; 	
+ padding-left: 40px; padding-right: 40px;  width: 210px;  padding-left: 15px; padding-right: 15px;  padding: 0;  width: 100%; margin: 30px 0 0 0; padding: 0 30px;  -o-transform: none; -moz-transform: none; -webkit-transform: none; -ms-transform: none; transform: none;  width: auto; left: 30px; right: 30px;  max-width: 540px; margin: 0 auto;     padding-bottom: 80px;
+	margin-bottom: 20px;
+	padding: 20px 0;
+	font-size: 18px;
+	color: #aaa;
+    line-height: 22px;
+ color: #aaa;  color: #8ec1cd; .portfolio-box {
+	position: relative;
+	width: 255px;
+	overflow: hidden;
+ -o-transition: all .8s; -moz-transition: all .8s; -webkit-transition: all .8s; -ms-transition: all .8s; transition: all .8s; 	opacity: 0.6;
+	-o-transform: scale(1.25); -moz-transform: scale(1.25); -webkit-transform: scale(1.25); -ms-transform: scale(1.25); transform: scale(1.25);
+	bottom: -200px;
+	left: 0;
+	right: 0;
+	-o-transition: all .6s; -moz-transition: all .6s; -webkit-transition: all .6s; -ms-transition: all .6s; transition: all .6s;
+	background: #8ec1cd;
+ bottom: 0; .portfolio-box-text p {
+ color: #fff;  color: #eee; .clients-container {
+	padding-bottom: 0;

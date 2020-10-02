@@ -1,0 +1,4 @@
+	padding-top: 23px;
+	padding-bottom: 3px;
+	text-align: right;
+	padding-right: 34px;

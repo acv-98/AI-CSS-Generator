@@ -1,0 +1,16 @@
+ width: 205px; 	
+ width: 210px;  width: auto; left: 30px; right: 30px;  max-width: 540px; margin: 0 auto; 	position: absolute;
+	bottom: -200px;
+	left: 0;
+	right: 0;
+	width: 255px;
+	-o-transition: all .6s; -moz-transition: all .6s; -webkit-transition: all .6s; -ms-transition: all .6s; transition: all .6s;
+	background: #8ec1cd;
+	color: #fff;
+ bottom: 0; .portfolio-box-text p {
+	margin: 0;
+	padding: 15px 20px;
+	font-size: 18px;
+    line-height: 32px;
+ color: #fff;  color: #eee; .clients-container {
+	padding-bottom: 0;

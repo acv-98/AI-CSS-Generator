@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	background:#352920;
+	border-top:1px solid #fff;
+	border-bottom:1px solid #fff;
+	width:920px;
+	color:#a47f62;
+	padding-bottom:24px;
+	float:left;
+	list-style:none;
+	display:block;
+	text-decoration:none;
+	line-height:1.8em;
+	font-weight:bold;

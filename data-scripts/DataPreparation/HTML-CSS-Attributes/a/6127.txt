@@ -1,0 +1,8 @@
+  position: absolute;
+  bottom: 30px;
+  display: block;
+  padding: 0 30px;
+  margin-left: 10px;
+    margin-left: 0px;
+  float: left;
+  color: rgba(255, 255, 255, 0.3);

@@ -1,0 +1,8 @@
+  margin-bottom: 30px;
+  border: 1px solid #dbdbdb;
+  padding: 20px;
+  border-radius: 0;
+  height: 58px;
+  box-shadow: none;
+  color: #1f2021;
+  font-size: 13px;

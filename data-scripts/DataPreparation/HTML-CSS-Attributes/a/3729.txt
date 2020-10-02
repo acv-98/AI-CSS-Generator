@@ -1,0 +1,11 @@
+	display:block;
+	width:134px;
+	height:38px;
+	background:url(images/ordernow.gif) no-repeat 0 0;
+	font-size:16px;
+	color:#fff;
+	line-height:37px;
+	text-align:center;
+	margin:41px 0 0 69px;
+	background-position:0 bottom;
+	text-decoration:none;

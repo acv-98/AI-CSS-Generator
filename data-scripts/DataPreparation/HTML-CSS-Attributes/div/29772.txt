@@ -1,0 +1,18 @@
+		margin: 110px auto;
+		margin-bottom: 0px;
+		left: 19%;
+		width: 55%;
+		background: none;
+		text-align:center;
+    background: url(../images/separetor3.png) no-repeat center center;
+    width: 65%;
+    margin: 0 auto;
+    position: relative;
+    display: inline-block;
+    height: 15px;
+    padding-top: 385px;
+    left: 33%;
+    top: 136px;
+    border: 2px solid #000;
+    border-radius: 15px 15px 15px 15px;
+    margin-top: 60px;

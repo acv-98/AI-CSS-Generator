@@ -1,0 +1,2 @@
+	background: rgba(91,194,206,.8);
+	color: #fff;

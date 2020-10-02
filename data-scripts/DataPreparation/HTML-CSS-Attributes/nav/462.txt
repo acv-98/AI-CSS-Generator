@@ -1,0 +1,7 @@
+  background-color: #fff;
+  border: none;
+  color: #7a7a7a;
+  border-color: #f2745f;
+  right: 15px;
+    border-color: transparent;
+    background-color: #f2745f;

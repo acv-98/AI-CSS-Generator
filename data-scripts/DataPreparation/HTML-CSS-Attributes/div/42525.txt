@@ -1,0 +1,5 @@
+	zoom:1;
+	overflow:hidden;
+	float:left;
+	width:385px;
+	height:268px;

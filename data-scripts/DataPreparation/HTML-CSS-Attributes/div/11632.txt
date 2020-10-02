@@ -1,0 +1,4 @@
+    font-weight: normal;
+    padding-top: 6px;
+    color: #aaa;
+    font-size: 13px;

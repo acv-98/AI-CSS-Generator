@@ -1,0 +1,7 @@
+	float:left;
+	background:url('images/nav-active.gif') no-repeat center 0;
+	color:#fff;
+	text-decoration:none;
+	padding-bottom:3px;
+	background-image:none;
+	background-color:#505050;

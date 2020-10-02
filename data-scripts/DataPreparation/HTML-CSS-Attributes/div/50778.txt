@@ -1,0 +1,6 @@
+	width:964px;
+	margin:0 auto;
+	position:relative;
+	padding:34px 0 0 0;
+	background:#3366cc url(images/shell.jpg) center -7px no-repeat;
+	z-index:10;

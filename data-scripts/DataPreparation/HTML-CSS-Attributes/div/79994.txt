@@ -1,0 +1,4 @@
+    margin: 5px 0;
+    text-align: center;
+    margin-right: 15px;
+        text-align: right

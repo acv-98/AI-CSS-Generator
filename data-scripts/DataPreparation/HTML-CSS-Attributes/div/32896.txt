@@ -1,0 +1,18 @@
+	font-family: Arial;
+	font-size: 50px;
+	font-weight: bold;
+	line-height: 35px;
+	width: 90%;
+	background: url(../images/bg-transparent1.png) repeat;
+	margin: 0;
+	padding: 0;
+	max-width: 960px;
+	color: #FFFFFF;
+	text-align: center;
+	text-transform: uppercase;
+	display: block;
+	letter-spacing: 0.05em;
+	text-decoration: underline;
+	border: 5px solid #FFFFFF;
+	height: 47px;
+	background-color: #ffffff;

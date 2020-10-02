@@ -1,0 +1,12 @@
+	color:#808080;
+	float:left;
+	width:133px;
+	padding:26px 0 0 30px;
+	margin-bottom:20px;
+	background:url(../images/bg_box1.gif) top repeat-x #050505;
+	border:1px solid #2a2a2a;
+	behavior:url("../js/PIE.htc");
+	position:relative;
+	border-radius:14px;
+	-moz-border-radius:14px;
+	-webkit-border-radius:14px;

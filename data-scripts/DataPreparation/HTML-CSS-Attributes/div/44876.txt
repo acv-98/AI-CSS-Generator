@@ -1,0 +1,4 @@
+	float: left;
+	width: 430px;
+	height: 170px;
+	position: absolute;

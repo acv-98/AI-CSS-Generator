@@ -1,0 +1,5 @@
+	margin-bottom: 20px;
+	font-size: 21px;
+	font-weight: 200;
+	line-height: 30px;
+	color: #5a5a5a;

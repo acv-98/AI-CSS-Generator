@@ -1,0 +1,7 @@
+     float: left;
+     width: 100%;
+     background: #111;
+     color: #fff;
+     margin: 0;
+     padding: 10px 0;
+     text-transform: uppercase;

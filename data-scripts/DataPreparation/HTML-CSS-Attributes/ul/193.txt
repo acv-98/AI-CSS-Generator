@@ -1,0 +1,7 @@
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	display: inline;
+	position: absolute;
+	overflow: hidden;
+	text-indent: -9999px;

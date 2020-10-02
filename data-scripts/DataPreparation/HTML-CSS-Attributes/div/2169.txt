@@ -1,0 +1,15 @@
+    opacity: 1;
+    bottom: 0px;
+    left: 0px;
+    z-index: 199;
+  position: absolute;
+  padding: 0px 0px;
+  right: 0px;
+  display: block;
+  width: 30px;
+  height: 30px;
+  color: #FFF;
+  cursor: pointer;
+  float: left;
+  text-indent: -999px;
+  background: url(../img/arrow-right-dark.png) center center no-repeat #cb5432;

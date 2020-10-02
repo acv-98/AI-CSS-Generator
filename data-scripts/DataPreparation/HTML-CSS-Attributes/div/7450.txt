@@ -1,0 +1,1 @@
+width:958px; margin:0 auto; background:url(../images/banner-bg.jpg) repeat-x #ffffff; border:1px solid #e5e5e5; margin-top:44px; overflow:hidden;

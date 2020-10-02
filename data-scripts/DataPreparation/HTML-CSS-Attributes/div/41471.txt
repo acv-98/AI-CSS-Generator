@@ -1,0 +1,11 @@
+	zoom:1;
+	overflow:hidden;
+	font-weight:normal;
+	width:12px;
+	height:12px;
+	padding:0;
+	float:left;
+	margin-top:2px;
+	position:absolute;
+	left:0;
+	top:142px;

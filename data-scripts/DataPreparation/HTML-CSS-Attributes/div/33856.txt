@@ -1,0 +1,11 @@
+  margin-bottom: 5px;
+  background: #115c9b;
+  color: #fff;
+  border: 0;
+  border-radius: 0;
+  resize: none;
+  text-transform: uppercase;
+  -moz-transition: all, 0.5s;
+  -o-transition: all, 0.5s;
+  -webkit-transition: all, 0.5s;
+  transition: all, 0.5s;

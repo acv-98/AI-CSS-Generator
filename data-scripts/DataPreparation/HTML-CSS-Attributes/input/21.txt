@@ -1,0 +1,1 @@
+width:144px;background:url(images/input-bg.gif) left top repeat-x #fff;border:1px solid #c85504;text-transform:none;padding:1px 0 1px 3px

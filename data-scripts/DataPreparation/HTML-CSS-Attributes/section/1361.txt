@@ -1,0 +1,2 @@
+ padding-top: 20px; padding-bottom: 20px;  text-align: center; background: transparent;  font-size: 28px; font-family: georgia ,arial, helvetica, serif; position: relative; top: 10px; left: -6px;  padding-bottom: 12px;  padding-bottom: 6px;  text-align: right; 
+ background: transparent;  font-size: 21px;  text-align: center; 

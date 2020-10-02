@@ -1,0 +1,11 @@
+    overflow:hidden;
+    background:url(../images/devider.png) 0 100% repeat-x;
+    ]padding:0 0 25px 0;
+    float:left;
+    width:295px;
+    margin:0 4px 35px 10px;
+    font-size:15px;
+    color:#444;
+    font-weight:normal;
+    line-height:17px;
+    padding:12px 0 11px 65px;

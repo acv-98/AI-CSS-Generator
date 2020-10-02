@@ -1,0 +1,1 @@
+height:61px; background:#bc0e15 url(../images/header-bg.jpg) repeat-y center; padding-top:107px; padding-bottom:42px;

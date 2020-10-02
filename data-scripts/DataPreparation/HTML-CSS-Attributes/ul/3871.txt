@@ -1,0 +1,9 @@
+  margin: 0 0 60px 0;
+  padding: 0;
+  font-size: 16px;
+  list-style: none;
+  position: relative;
+  padding-left: 40px;
+  top: 0;
+  left: 0;
+  color: #1fb5f6;

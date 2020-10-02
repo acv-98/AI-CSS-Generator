@@ -1,0 +1,8 @@
+	width: 757px;
+	height: 237px;
+	background: url(../images/work-map.png) no-repeat 0px 0px;
+	display: inline-block;
+	position: absolute;
+	top: 0px;
+	left:10%;
+	background-size: 100%;

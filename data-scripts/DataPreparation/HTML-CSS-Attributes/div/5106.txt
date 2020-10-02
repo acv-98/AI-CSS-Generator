@@ -1,0 +1,5 @@
+    margin:35px 0px;
+    overflow: hidden;
+    float:left;
+    color:#ab987a;
+    padding-right: 20px;

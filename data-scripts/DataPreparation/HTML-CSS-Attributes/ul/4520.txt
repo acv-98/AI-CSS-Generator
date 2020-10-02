@@ -1,0 +1,6 @@
+	width:100%;
+	overflow:hidden;
+	background:url(../images/bg_price.gif) 0 -5px repeat-x
+	float:right;
+	color:#a09d99;
+	text-decoration:none;

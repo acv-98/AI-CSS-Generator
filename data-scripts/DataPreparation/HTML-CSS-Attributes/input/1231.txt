@@ -1,0 +1,1 @@
+ margin:12px 100px 0 0; float:left; background:url(../images/sbm.gif) no-repeat; width:60px; height:20px; border:0; 

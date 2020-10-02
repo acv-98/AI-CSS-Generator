@@ -1,0 +1,7 @@
+  color: #a5d549;
+  display: inline;
+  float: left;
+  width: 100%;
+  margin-bottom: 0;
+  padding-top: 5px;
+    text-align: center;

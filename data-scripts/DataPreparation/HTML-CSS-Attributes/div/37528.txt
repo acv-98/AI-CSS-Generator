@@ -1,0 +1,5 @@
+    overflow: hidden;
+    margin-top: -2px;
+    margin-left: -4px;
+    margin-bottom: 4px;
+    float: left;

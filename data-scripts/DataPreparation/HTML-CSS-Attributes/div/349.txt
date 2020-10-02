@@ -1,0 +1,11 @@
+	padding:0px 0px 2px 0px;
+	
+	margin:0px;
+	display:block; float:left; width:104px;
+	background:url(../images/menubg.jpg) left top repeat-x;
+	list-style:none; text-align:center;
+width:109px;.mainmenu li a{
+	font-size:12px;
+	color:#ffffff;
+	font-weight:bold;
+	text-decoration:none;

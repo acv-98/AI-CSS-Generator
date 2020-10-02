@@ -1,0 +1,12 @@
+ padding: 0 70px; 
+.cs_article h2 {
+	color: #ba0808;
+	font-size: 22px;
+	line-height: 30px;
+	float: left;
+	width: 380px;
+	height: 180px;
+	padding: 14px;
+	margin-right: 40px;
+	background: url(../images/banner_img_frame.png) no-repeat;
+	border: none;

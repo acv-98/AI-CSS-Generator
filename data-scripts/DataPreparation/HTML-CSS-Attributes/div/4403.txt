@@ -1,0 +1,5 @@
+	width: calc(100% - 40px);
+	float: left;
+	padding-left: 15px;
+	margin-bottom: 0px;
+	color: #414141;

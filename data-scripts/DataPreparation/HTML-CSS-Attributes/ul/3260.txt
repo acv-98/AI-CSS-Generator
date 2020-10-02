@@ -1,0 +1,3 @@
+margin-right: 30px; margin-top: 12pxbackground: none; border: none; color:#8B9090;font-family: 'Raleway', sans-serif; font-weight: 400px; font-size: 14px;background: none; color:#3C3D42
+	header close
+	3) slider Start

@@ -1,0 +1,8 @@
+    position: relative;
+    color: #7c2dfe
+    background: #7c2dfe none repeat scroll 0 0;
+    bottom: 3px;
+    content: "";
+    height: 3px;
+    left: 25%;
+    width: 50%;

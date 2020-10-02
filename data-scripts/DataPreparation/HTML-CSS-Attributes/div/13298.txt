@@ -1,0 +1,2 @@
+	border:0;
+	border-top:0;

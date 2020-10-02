@@ -1,0 +1,6 @@
+	list-style:none;
+	padding:0;
+	border:none;
+	float:none;
+	display:inline;
+	text-decoration:none;

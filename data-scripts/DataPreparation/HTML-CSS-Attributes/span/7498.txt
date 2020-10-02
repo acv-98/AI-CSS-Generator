@@ -1,0 +1,8 @@
+    font-weight: 700;
+    font-size: 1.3rem;
+    color: #8dc8e4;
+    text-transform: uppercase;
+    content: '/';
+    margin-right: 2px;
+        color:#000;
+        font-size: 1rem;

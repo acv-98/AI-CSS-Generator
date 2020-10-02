@@ -1,0 +1,2 @@
+	background:url(../images/testimonialbg.jpg) no-repeat top center;
+	background-size:cover;

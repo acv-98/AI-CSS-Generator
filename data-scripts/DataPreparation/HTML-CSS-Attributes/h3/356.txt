@@ -1,0 +1,12 @@
+  margin-bottom: 10px;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #2e2e2e;
+  position: relative;
+  padding-top: 7px;
+  width: 30px;
+  height: 3px;
+  top: 0;
+  left: 0;
+  background: #ebebeb;

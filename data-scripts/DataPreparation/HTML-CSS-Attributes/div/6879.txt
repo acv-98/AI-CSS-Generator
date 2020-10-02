@@ -1,0 +1,1 @@
+ float:right; margin-bottom:15px;font-family: 'Economica', sans-serif; font-size:18px; color:#533c47; display:block; text-align:center; padding:8px 24px 8px 24px; text-transform:uppercase;background:#d1869b; border:#fff solid 1px;  padding:7px 23px 7px 23px; color:#fff;background:#d1869b; border:#fff solid 1px; padding:7px 23px 7px 23px; color:#fff;BANNER CLASSES

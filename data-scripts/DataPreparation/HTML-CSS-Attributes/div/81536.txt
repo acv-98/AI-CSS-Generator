@@ -1,0 +1,6 @@
+    display: none;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+    padding: 20px;
+    font-weight: 700;
+    color:#231f20;

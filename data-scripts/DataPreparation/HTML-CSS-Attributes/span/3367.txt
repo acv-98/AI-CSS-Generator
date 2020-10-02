@@ -1,0 +1,16 @@
+	display:block;
+	margin:20px auto 0;
+	overflow:hidden;
+	padding:0;
+	width:180px;
+	color:#797979;
+	float:left;
+	font-size:14px;
+	height:23px;
+	line-height:23px;
+	text-decoration:none;
+	text-transform:capitalize;
+	text-shadow:1px 1px 0 #fff;
+	background:url(../images/icons.gif) no-repeat left -279px;
+	border-left:2px solid #bec2c6;
+	font-family:Arial Black, Gadget, sans-serif;

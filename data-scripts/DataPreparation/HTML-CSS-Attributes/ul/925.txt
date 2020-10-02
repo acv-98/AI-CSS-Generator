@@ -1,0 +1,18 @@
+  float: right;
+  list-style: none outside none;
+  border: none;
+  background-color: transparent;
+  background-image: url(../img/social-sprite-min.png);
+  background-repeat: no-repeat;
+  background-size: auto 96px;
+  color: white;
+  direction: ltr;
+  display: block;
+  height: 32px;
+  overflow: hidden;
+  text-align: left;
+  text-decoration: none;
+  text-indent: -999em;
+  transition: all 0.2s ease 0s;
+  width: 32px;
+  background-position: 0 0;

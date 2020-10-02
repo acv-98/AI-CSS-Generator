@@ -1,0 +1,1 @@
+float:left; padding:20px 15px; width:100%display:block; width:100%; margin-bottom:10pxdisplay:block; font-size:15px; text-decoration:none; font-family:arialcolor:#7dc34d

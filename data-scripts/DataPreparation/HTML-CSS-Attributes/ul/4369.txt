@@ -1,0 +1,7 @@
+	margin-top: 0;
+	display: inline-block;
+	float: none;
+	border: none;
+	font-size: 13px;
+	color: #000;
+	letter-spacing: 15px;

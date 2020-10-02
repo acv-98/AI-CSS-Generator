@@ -1,0 +1,3 @@
+	min-height:323px
+	background:url(../images/banner1_bg.jpg) 0 0 no-repeat #9833a3
+	color:#a63eb0

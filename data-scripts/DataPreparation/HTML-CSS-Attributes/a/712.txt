@@ -1,0 +1,1 @@
+border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;-khtml-border-radius:5px;background-color:#f98740; color:#fff; font-size:14px; padding:8px 12px; margin:20px 0 0 0; display:inline-block;

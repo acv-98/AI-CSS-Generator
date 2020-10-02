@@ -1,0 +1,1 @@
+    background: url("../images/icons/socials-fade-small/shareit.png") no-repeat scroll left bottom transparent;

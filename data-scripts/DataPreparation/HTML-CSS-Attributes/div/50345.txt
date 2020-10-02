@@ -1,0 +1,3 @@
+	height:119px;
+	line-height:17px;
+	text-decoration:underline;

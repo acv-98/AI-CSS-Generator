@@ -1,0 +1,9 @@
+	list-style:none;
+	overflow:hidden;
+	margin:0 -7px;
+	width:70px;
+	height:70px;
+	float:left;
+	padding:4px;
+	background:#fff;
+	border:solid 1px #d2d2d2;

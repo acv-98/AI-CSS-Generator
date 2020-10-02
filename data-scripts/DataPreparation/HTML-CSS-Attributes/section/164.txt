@@ -1,0 +1,14 @@
+	border:5px solid #fff;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	float:left;
+	box-shadow:0 0 5px rgba(0, 0, 0, .1);
+	-moz-box-shadow:0 0 5px rgba(0, 0, 0, .1);
+	-webkit-box-shadow:0 0 5px rgba(0, 0, 0, .1);
+	margin:5px 0 0 16px;
+	margin-left:0;
+	opacity:.7;
+	-moz-transition:all 0.2s ease-out;
+	-o-transition:all 0.2s ease-out;
+	-webkit-transition:all 0.2s ease-out;

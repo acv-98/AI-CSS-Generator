@@ -1,0 +1,7 @@
+ text-align:center;
+ margin:0 0 20px;
+	text-align:center;
+	padding:30px 0;
+	font-weight:normal;
+	color: #39D084;
+	margin:60px 0;

@@ -1,0 +1,13 @@
+	float:right;
+	width:160px;
+	padding-top:11px;
+	display:inline;
+	font-size:10px;
+	color:#9f9f9f;
+	line-height:16px;
+	padding-right:5px;
+	list-style:none;
+	height:16px;
+	background:url('images/social.gif') no-repeat 0 0;
+	text-indent:-4000px;
+	background-position:-18px 0;

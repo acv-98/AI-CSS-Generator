@@ -1,0 +1,3 @@
+  min-height: 700px;
+  display: table;
+  vertical-align: middle;

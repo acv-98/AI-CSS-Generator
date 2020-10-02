@@ -1,0 +1,7 @@
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+  font-size: 18px;
+  margin: 0 0 20px 0;
+  padding: 0;

@@ -1,0 +1,3 @@
+	background:url(../images/left-bot-corner.png) no-repeat left bottom;
+	height:15px;
+	padding-left:15px;

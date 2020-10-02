@@ -1,0 +1,16 @@
+	width: 65%;
+    width: 65%;
+	display: none;
+	padding: 8px 15px;
+	margin: 0px;
+	border: none;
+	background: none;
+	box-shadow: none;
+	background-image: url("../images/search-icon.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left: 30px;
+	color: #474747;
+	font-weight: 400;
+	color #474747;
+	opacity: 1;

@@ -1,0 +1,1 @@
+	background:url(../images/h2-bg.png) 1px 10px repeat-x;

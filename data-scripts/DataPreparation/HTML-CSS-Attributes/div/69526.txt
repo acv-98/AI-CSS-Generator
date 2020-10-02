@@ -1,0 +1,13 @@
+  background: hsl(357, 73%, 49%) none repeat scroll 0 0;
+  border: 0 none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.2);
+  color: hsl(0, 0%, 100%);
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 64px;
+  margin: 40px 5px 0;
+  padding: 5px 35px;
+  text-shadow: 1px 1px 1px hsl(0, 0%, 0%);
+  font-family: roboto slab;
+  margin: 20px 0 30px;  margin: 20px 5px 0;  margin: 20px 0 30px;  margin: 20px 5px 0;  margin: 30px 5px 0;

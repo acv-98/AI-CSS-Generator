@@ -1,0 +1,4 @@
+	width: 1005px;
+	margin: auto auto;
+	text-align: left;
+		margin-left: -10px;

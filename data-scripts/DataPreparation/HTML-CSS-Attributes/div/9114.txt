@@ -1,0 +1,5 @@
+border: 5px solid #49CD7D;
+overflow: hidden;
+border-radius: 50%;
+display: inline-block;
+margin-left:20px;

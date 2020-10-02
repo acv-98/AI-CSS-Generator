@@ -1,0 +1,6 @@
+	position: relative;
+	padding-bottom: 40px;
+	margin-bottom: 40px;
+	background: transparent url(../images/line.png) repeat-x left bottom;
+	font-size: 18px;
+	display: none;

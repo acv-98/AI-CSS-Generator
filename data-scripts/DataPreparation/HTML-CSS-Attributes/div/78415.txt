@@ -1,0 +1,1 @@
+background-color:#C0BEBE;border:1px solid #FFFFFF;border-radius:6px 6px 6px 6px;display:block;float:left;height:50px;margin:0 12px 12px 0;padding:3px;width:50pbackground:#eee;

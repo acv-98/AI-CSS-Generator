@@ -1,0 +1,8 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-frame.png', sizingMethod='image');
+	width:960px;
+	height:350px;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:3;

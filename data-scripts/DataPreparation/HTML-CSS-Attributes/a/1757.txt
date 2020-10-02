@@ -1,0 +1,1 @@
+ background-position: bottom right;   padding-right: 60%;  text-align: center;     text-align: left;

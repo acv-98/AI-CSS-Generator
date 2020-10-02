@@ -1,0 +1,14 @@
+	background: #eb5424;
+	color: #ffffff;
+	padding: 0 0 60px 0;
+	background-color: #f6f6f6;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border-bottom: 1px solid #ffffff;
+	display: block;
+	font-family: "Proxima";
+	font-size: 16px;
+	border-radius: 0;
+	font-weight: bold;
+	transition: all 0.4s ease-in-out;
+	margin-top: 20px;

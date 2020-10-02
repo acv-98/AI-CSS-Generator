@@ -1,0 +1,12 @@
+	color:#757B85;
+	margin-right: 0.6em;
+	font-size: 0.85em;
+	line-height: 1.8em;
+	font-weight:600;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	display: block;
+	padding: 0.6em 0em;
+	background:#21B7C6;
+		display:none;

@@ -1,0 +1,11 @@
+  position: absolute;
+  bottom: 0;
+  width: 10px;
+  height: 50%;
+  background: #fff;
+  -webkit-transform-origin: center bottom;
+          transform-origin: center bottom;
+  box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
+  left: 0px;
+  -webkit-animation: barUp1 4s infinite;
+          animation: barUp1 4s infinite;

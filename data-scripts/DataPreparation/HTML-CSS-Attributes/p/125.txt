@@ -1,0 +1,5 @@
+    float: right;
+    color: #fff;
+    padding: 55px 60px 0px 0px;
+    width: 50%;
+    text-align: right;   

@@ -1,0 +1,6 @@
+	font-family: 'Passion One', cursive;
+	font-weight:300;
+	font-size:30px;
+	line-height:36px;
+	color:#94adb7;
+	display:inline-block;

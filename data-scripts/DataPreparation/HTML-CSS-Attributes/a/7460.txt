@@ -1,0 +1,4 @@
+    background-color: rgba(66, 168, 255, 0.8);
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;

@@ -1,0 +1,15 @@
+  margin-bottom: 50px;
+  font-size: 36px;
+  color: #454545;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 20px;
+  content: "";
+  width: 140px;
+  bottom: 0;
+  left: 50%;
+  margin-left: -70px;
+  height: 1px;
+  background: #ff641b;
+  border: 5px solid #fff;
+  border-radius: 20px;

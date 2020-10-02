@@ -1,0 +1,15 @@
+	padding:22px 0px 10px 0px;
+	display: inline;
+	background-color:white;
+	border:#efefef solid 1px;
+	color: #414550;
+	font-weight:bold;
+	width:80px;
+	height:80px;
+	margin-right:5px;
+	transition: background-color 0.5s ease-in-out;
+	-moz-transition: background-color 0.5s ease-in-out;
+	-webkit-transition: background-color 0.5s ease-in-out;
+	cursor:pointer;
+	text-decoration: none;
+ padding:5px 8px;

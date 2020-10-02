@@ -1,0 +1,8 @@
+	background-image: none;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/best-deal.png', sizingMethod='image');
+	width:65px;
+	height:65px;
+	float:left;
+	position:absolute;
+	top:-9px;
+	right:-10px;

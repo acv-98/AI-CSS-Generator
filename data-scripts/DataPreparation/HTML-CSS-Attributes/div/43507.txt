@@ -1,0 +1,1 @@
+background:url("images/body_bg.png") repeat; margin-top:30px; margin-bottom:30px

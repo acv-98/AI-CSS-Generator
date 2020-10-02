@@ -1,0 +1,9 @@
+	width:900px;
+	padding:0;
+	margin:0 auto;
+	background:top no-repeat;
+	height:291px;
+	float:left;
+	font:normal 40px Arial, Helvetica, sans-serif;
+	color:#0ab3b9;
+	line-height:1.6em;

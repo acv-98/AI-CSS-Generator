@@ -1,0 +1,5 @@
+	font-size:31px;
+	color:#0055a2;
+	line-height:1.2em;
+	display:inline-block;
+	letter-spacing:-1px

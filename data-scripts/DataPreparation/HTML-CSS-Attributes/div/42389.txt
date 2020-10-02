@@ -1,0 +1,2 @@
+  padding: 22px 32px 22px 32px;
+  min-height: 75vh;

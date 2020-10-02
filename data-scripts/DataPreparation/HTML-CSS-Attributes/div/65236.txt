@@ -1,0 +1,4 @@
+	line-height:1.83em;
+	float:left;
+	width:90px;
+	color:#000;

@@ -1,0 +1,1 @@
+display:inline; float:left; padding-bottom:40px; width:98%.slider_tittle

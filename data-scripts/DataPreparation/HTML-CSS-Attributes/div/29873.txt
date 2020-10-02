@@ -1,0 +1,2 @@
+	background:url(images/main-top.gif) center top repeat-x;
+	width:100%;

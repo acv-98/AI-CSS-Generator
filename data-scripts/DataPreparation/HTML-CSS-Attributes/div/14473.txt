@@ -1,0 +1,8 @@
+	min-height:245px
+	border:1px solid #fff;
+	background:url(../images/box_bg.gif) top repeat-x #fff;
+	padding:21px 27px;
+	border-radius:15px;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	position:relative

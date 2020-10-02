@@ -1,0 +1,14 @@
+	width:302px;
+	height:262px;
+	background:url('images/box-bg.gif') no-repeat 0 0;
+	float:left;
+	padding-right:27px;
+	border-top:1px dotted #dcdcdc;
+	margin:6px 17px 0 17px;
+	padding-top:9px;
+	overflow:hidden;
+	display:inline;
+	line-height:19px;
+	text-decoration:underline;
+	text-align:justify;
+	margin-right:0;

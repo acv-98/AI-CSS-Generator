@@ -1,0 +1,6 @@
+    margin-bottom:30px;
+    height: 150px;
+    line-height: 150px;
+.quote{
+    background: url(../images/quotebg.jpg) no-repeat top center;
+    background-size: cover;

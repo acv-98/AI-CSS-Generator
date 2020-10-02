@@ -1,0 +1,3 @@
+	float:left;
+	width:536px;
+	padding-left:29px;

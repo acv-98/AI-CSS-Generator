@@ -1,0 +1,21 @@
+   margin: 24px 0;
+   padding: 30px 0 0 0;
+   border-top: 1px solid #E0E0E0;
+   font: 16px/30px notosans-regular, sans-serif;
+   display: inline-block;
+   width: 49%;
+   line-height: 30px;
+ color: #9FA5AD;   color: #313131; .post-nav li strong {
+   text-transform: uppercase;
+   color: #11ABB0;
+   letter-spacing: 0.5px;
+   float: right;
+   text-align: right;
+   margin-left: 18px;
+   margin-right: 18px;
+ margin-top: 18px;    .post-nav li {
+      display: block;
+      margin: 0 0 18px 0;
+      width: 100%;
+      float: none;
+      text-align: center;

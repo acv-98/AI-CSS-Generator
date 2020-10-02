@@ -1,0 +1,5 @@
+  margin: 20px 0;
+  color: #2a80b9;
+  font-size: 18px;
+  font-weight: 600;
+  margin-right: 30px;

@@ -1,0 +1,4 @@
+ background:#66a7c5; padding:10px;
+BANNER CLASSES
+color:#ee3233;PORTFOLIO CLASSES
+color:#ee3233;

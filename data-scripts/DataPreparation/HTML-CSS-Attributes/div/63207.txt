@@ -1,0 +1,9 @@
+	padding:14px 0 5px 0;
+	width:100%;
+	overflow:hidden
+	float:left;
+	font-size:12px
+	padding-right:0
+	height:18px;
+	border:1px solid #e5e5e5
+	background:#1d77e9;

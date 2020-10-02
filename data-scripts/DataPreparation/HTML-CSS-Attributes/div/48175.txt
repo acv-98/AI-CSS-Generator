@@ -1,0 +1,15 @@
+  padding: 20px;
+  position: relative;
+  cursor: pointer;
+  margin: 0;
+  font-size: 18px;
+  color: #brand-primary;
+  top: 15px;
+  right: 20px;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);

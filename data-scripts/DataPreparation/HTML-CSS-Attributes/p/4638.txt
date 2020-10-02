@@ -1,0 +1,6 @@
+	width:300px;
+	height:24px;
+	float:left;
+	color:#004356;
+	font:bold 24px/24px Lucida sans, Arial, Helvetica, sans-serif;
+	margin:16px 0 5px 0;

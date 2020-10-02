@@ -1,0 +1,14 @@
+	margin-top: 0.5em;
+	display:inline-block;
+	margin-right: 1em;
+	color: #FFF;
+	font-size: 0.72em;
+	text-transform: uppercase;
+	border:solid 2px #FFF;
+	border-radius: 5px;
+	padding: 0.8em 1.2em;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	background:#1DD2AF;

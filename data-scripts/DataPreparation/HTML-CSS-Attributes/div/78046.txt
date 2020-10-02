@@ -1,0 +1,6 @@
+	-webkit-animation-name: rotateInDownRight;
+	-moz-animation-name: rotateInDownRight;
+	-o-animation-name: rotateInDownRight;
+	animation-name: rotateInDownRight;
+  -webkit-animation-name: rotateInDownRight;
+  animation-name: rotateInDownRight;

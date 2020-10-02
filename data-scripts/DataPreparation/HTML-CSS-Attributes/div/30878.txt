@@ -1,0 +1,2 @@
+  content: '\f0ad';
+  font: 700 48px/117px 'FontAwesome';

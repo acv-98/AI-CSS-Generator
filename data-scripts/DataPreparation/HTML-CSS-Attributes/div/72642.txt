@@ -1,0 +1,1 @@
+	background:#BA3018 url(../images/left1.jpg) right top repeat-y;

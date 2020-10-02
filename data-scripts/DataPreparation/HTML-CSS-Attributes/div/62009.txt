@@ -1,0 +1,10 @@
+  position: absolute;
+  display: block;
+  width: 65%;
+  bottom: 5%;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+    width: 40%;
+    bottom: 20% !important;

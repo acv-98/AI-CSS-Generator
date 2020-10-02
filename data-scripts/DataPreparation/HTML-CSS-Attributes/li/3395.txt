@@ -1,0 +1,8 @@
+		background-image: linear-gradient(bottom, rgb(71,83,101) 0%, rgb(123,145,177) 100%);
+			linear,
+			left bottom,
+			left top,
+			color-stop(0, rgb(71,83,101)),
+			color-stop(1, rgb(123,145,177))
+		)
+background-position: 0 -26px; cursor: default;

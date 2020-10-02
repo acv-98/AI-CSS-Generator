@@ -1,0 +1,8 @@
+	position: relative;
+	z-index: 2;
+	background: url(../images/essentials/header/navigation/ie6/left-current.png) no-repeat 3px 0;
+	height: 31px;
+	background-image: url(../images/essentials/header/navigation/ie6/right-current.png);
+	background-position: 0 0;
+	color: #fff;
+	padding-top: 6px;

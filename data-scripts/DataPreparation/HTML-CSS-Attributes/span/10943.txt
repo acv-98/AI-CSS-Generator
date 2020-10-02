@@ -1,0 +1,5 @@
+	background: url(../images/slider-icons.png) no-repeat -20px 0px;
+	background-position: top right;
+	right:20%;
+		right: 15%;
+		display: none;

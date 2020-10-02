@@ -1,0 +1,10 @@
+    display: none
+    padding: 10px;
+    background: #a6b982;
+    font-family: 'oswaldlight', sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    border:5px solid #fff;
+    margin-bottom: 0;
+        display: block;
+        padding: 5px;

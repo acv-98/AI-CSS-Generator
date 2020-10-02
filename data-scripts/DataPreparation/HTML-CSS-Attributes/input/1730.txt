@@ -1,0 +1,6 @@
+	background:url(../images/submit-button-orange.jpg) no-repeat;
+	width:109px;
+	height:38px;
+	border:none;
+	cursor:pointer;
+	margin:0 0 0 -6px;

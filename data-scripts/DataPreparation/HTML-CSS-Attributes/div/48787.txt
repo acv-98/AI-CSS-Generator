@@ -1,0 +1,12 @@
+  background-color: #01bafd;
+  color: #fff;
+  display: inline;
+  float: left;
+  padding: 35px 25px;
+  text-align: center;
+  width: 33.33%;
+  font-size: 30px;
+  font-weight: lighter;
+    font-size: 20px;
+    padding: 20px 5px;
+    width: 100%;

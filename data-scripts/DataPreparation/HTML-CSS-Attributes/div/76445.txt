@@ -1,0 +1,1 @@
+float:left; display:inline; width:100%font-size:20px; text-transform:uppercasecontent:"-"; display:inline-block; padding-right:5pxmargin-top:20pxcontent:"-"; display:inline-block; padding-right:5pxmargin-bottom:5pxmargin-bottom:50pxcolor:#12a3dfcolor:#12a3df

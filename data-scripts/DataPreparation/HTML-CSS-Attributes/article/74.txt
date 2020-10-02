@@ -1,0 +1,7 @@
+  background-color: #fff;
+  display: inline;
+  float: left;
+  width: 100%;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+    margin-bottom: 30px;    

@@ -1,0 +1,4 @@
+	width:255px;
+	float:left;
+	background:url(../images/login_bg.jpg) 0 0 no-repeat;
+	height:295px;

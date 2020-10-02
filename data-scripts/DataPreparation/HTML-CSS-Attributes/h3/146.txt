@@ -1,0 +1,7 @@
+  position: relative;
+  padding-bottom: 10px;
+  bottom: 0;
+  left: 0;
+  width: 30px;
+  height: 2px;
+  background: #7ee383;

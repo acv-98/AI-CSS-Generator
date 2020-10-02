@@ -1,0 +1,8 @@
+	margin:0 auto;
+	padding:0;
+	width:930px;
+	background:url(images/header_bg.jpg) right no-repeat;
+	height:228px;
+	float:left;
+	font:normal 45px Arial, Helvetica, sans-serif;
+	color:#878787;

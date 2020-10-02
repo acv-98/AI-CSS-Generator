@@ -1,0 +1,8 @@
+ margin-bottom: 0; 
+.tm-blog-post-link {
+	display: block;	
+	font-size: 1.5rem;
+	margin-right: -15px;
+	margin-top: 15px;
+	text-align: right;
+	text-decoration: underline;	

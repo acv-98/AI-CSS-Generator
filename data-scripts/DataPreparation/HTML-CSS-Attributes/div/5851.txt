@@ -1,0 +1,4 @@
+	clear:both;
+	background:url(images/articlebg.jpg) center bottom no-repeat;
+	height:20px;
+	margin-bottom:10px;

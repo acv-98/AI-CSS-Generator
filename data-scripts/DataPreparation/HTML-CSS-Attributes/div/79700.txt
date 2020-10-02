@@ -1,0 +1,10 @@
+    padding-left: 2px;
+    display: block;
+    float: right;
+    background-color: #f6f4f6;
+    padding-right: 2px;
+    position: relative;
+    top: -3px;
+    line-height: 26px;
+    margin-right: 16px;
+    overflow: hidden;

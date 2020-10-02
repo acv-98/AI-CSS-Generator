@@ -1,0 +1,18 @@
+	background:#cc580c;
+	margin-top:120px;
+	position:relative;
+	padding:60px 0 20px;
+	margin-bottom:30px;
+	text-align:center;
+	list-style-type:none;
+	padding-left:0;
+	display:inline-block;
+	color:#ffffff;
+	line-height:45px;
+	width:45px !important;
+	height:45px !important;
+		-webkit-border-radius:3px;
+	border-radius:3px;
+	font-size:13px;
+	font-weight:300;
+	text-transform:uppercase;

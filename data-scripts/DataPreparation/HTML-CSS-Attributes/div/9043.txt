@@ -1,0 +1,10 @@
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  background-color: #1F2535;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 10%;
+    background-image: url(../img/istria768.jpg);

@@ -1,0 +1,1 @@
+margin-top:2px;color:#2b2f32;width:220px;height:20px;float:right;background:url(../images/search_input_bg.gif) no-repeat;padding:0px;display:inline;padding:0px;display:inline-block;margin:1px 0px 0px 3px;width:180px;color:#2b2f32;background:none;border:none; vertical-align:top;margin:1px 0px 0px 8px;

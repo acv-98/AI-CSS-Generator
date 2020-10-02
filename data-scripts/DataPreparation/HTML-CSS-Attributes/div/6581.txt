@@ -1,0 +1,26 @@
+        font-size: 14px;
+        line-height: 25px;
+		padding: 60px 0px;
+    background: url(images/bg.png) repeat top center #f2f3f5;
+    max-width: 280px;
+    display: block;
+    margin: 10px auto;
+    position: relative;
+    overflow: hidden;
+    padding: 120px 0;
+    background-color: #ffffff;
+	background-color: #2d3032;
+    margin-bottom: 60px;
+    color: #999;
+    font-weight: 400;
+    text-transform: none;
+    border-color: rgba(255, 255, 255, 0.1);
+    letter-spacing: 2px;
+    padding-bottom: 0px;
+    text-decoration: underline !important;
+    border-top: 1px solid #eee;
+    width: 80px;
+    box-shadow: 0 0 0 0 #f47e00;
+    border-radius: 50px !important;
+body.politics_version .message-box h2,
+body.politics_version .section-title h3 {

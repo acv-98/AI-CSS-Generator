@@ -1,0 +1,3 @@
+ padding-bottom: 68px; .slider-section a.buy-btn { padding: 0 18px 0 19px; height: 39px; border: 1px solid #e6e6e6; float: right; line-height: 39px; position: relative; margin-top: -12px; font-size: 17px; color: #65cbf8; 
+	border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; -o-border-radius: 8px;
+ text-decoration: none; color: #066995; .flexslider { margin-top: 24px; width: 950px; height: 377px;  overflow: hidden;

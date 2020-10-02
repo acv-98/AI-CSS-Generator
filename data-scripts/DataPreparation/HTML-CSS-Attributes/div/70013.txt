@@ -1,0 +1,2 @@
+	width:322px;
+	margin-right:40px;

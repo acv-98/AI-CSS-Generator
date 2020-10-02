@@ -1,0 +1,12 @@
+  margin-left: -30px;
+  display: table;
+  content: "";
+  line-height: 0;
+  clear: both;
+    margin-left: -20px;
+    display: table;
+    content: "";
+    line-height: 0;
+    clear: both;
+  padding-top: 31px;
+  margin-top: 46px;

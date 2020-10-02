@@ -1,0 +1,12 @@
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  padding: 1.25rem;
+  color: #fff;
+  margin-bottom: 0;
+  border-left: 0;
+        padding: 1rem 0.5rem;
+    -moz-box-flex: 1;
+    background: #202020 none repeat scroll 0 0;
+    border-radius: 0 !important;

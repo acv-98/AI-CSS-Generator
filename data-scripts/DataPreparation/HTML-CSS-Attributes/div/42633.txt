@@ -1,0 +1,14 @@
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #b3b4b7;
+	padding-left: 30px;
+	float: right;
+	width: 200px;
+	margin: 30px 0 0 40px;
+	color: #585858;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	text-decoration: none;
+	padding-top: 10px;
+	margin-top: 10px;

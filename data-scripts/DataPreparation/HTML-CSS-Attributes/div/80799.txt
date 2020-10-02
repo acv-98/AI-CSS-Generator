@@ -1,0 +1,6 @@
+		padding: 1em 6em;
+		font-size: 0.95em;
+		line-height: 1.5em;
+		display:none;
+	color:#6F6F6F;
+	text-align: center;

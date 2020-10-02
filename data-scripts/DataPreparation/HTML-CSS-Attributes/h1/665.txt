@@ -1,0 +1,5 @@
+    font-size: 80px;
+    color: #fff;
+    font-weight: 800;
+      font-family: Roboto-Light;
+      font-weight: 100;

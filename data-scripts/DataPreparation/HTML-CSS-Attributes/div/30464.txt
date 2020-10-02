@@ -1,0 +1,2 @@
+ background:url(images/line.gif) no-repeat center bottom; padding-bottom:140px; margin-bottom:10px;
+#content p,

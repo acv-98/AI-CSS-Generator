@@ -1,0 +1,9 @@
+    max-width: 345px;
+    border: 2px dashed #ddd;
+    padding: 30px;
+    margin: 0 auto;
+    margin-bottom:50px;
+    color:#0f5f5c;
+    padding-right:10px;
+    display: block;
+    margin-left: 25px;

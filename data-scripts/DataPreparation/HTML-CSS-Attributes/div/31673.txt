@@ -1,0 +1,6 @@
+ padding-top: 3rem; 
+	.tm-plan-table-header, 
+	.tm-plan-table-cell {
+	    padding: 1rem 1.5rem;
+	padding-top: 7rem;
+	padding-bottom: 0;

@@ -1,0 +1,1 @@
+margin: 30px 0; border-top: solid 1px #efefef; width: 940px;

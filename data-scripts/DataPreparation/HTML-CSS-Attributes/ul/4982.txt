@@ -1,0 +1,7 @@
+	float:left;
+	width:50px;
+	margin:0;
+	font-size:12px;
+	list-style:none;
+	padding:0 0 10px;
+	text-transform:uppercase;

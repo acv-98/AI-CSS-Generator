@@ -1,0 +1,6 @@
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px dashed #8a9ba8;	
+	color: #ffffff;
+	font-size: 11px;
+	font-weight: normal;

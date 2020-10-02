@@ -1,0 +1,15 @@
+	margin-bottom:30px;
+	display: block;
+	border-bottom:1px dashed #c7b3a9;
+	background:#f9efe3 url(../images/rausch.png) repeat;
+	border-top:4px solid #f0dec8;
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	text-align: center;
+	padding:0 0 10px 0;
+	font-size: 24px;
+	text-transform: uppercase;

@@ -1,0 +1,4 @@
+	font-size: 1.18rem;
+    margin-bottom: 0;
+    font-weight: 300;
+	color: #fff;

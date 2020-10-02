@@ -1,0 +1,5 @@
+  margin: 0;
+  line-height: 1.42857143;
+  color: #a5d549;
+  font-size: 20px;
+  margin-right: 5px;

@@ -1,0 +1,17 @@
+	display: inline;
+	float: left;
+	text-align: center;
+	padding: 0 120px;
+	width: 100%;
+	color: #1c1b1b;
+	margin-bottom: 15px;
+	z-index: 10;
+	text-transform: capitalize;
+	border-radius: 50%;
+	height: 8px;
+	position: relative;
+	content: '';
+	left: 15px;
+	top: 2px;
+	right: 15px;
+		padding: 0 50px;

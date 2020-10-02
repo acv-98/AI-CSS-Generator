@@ -1,0 +1,15 @@
+-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box
+.lt-ie9 .small-block-grid-2 {
+    list-style: none
+    position: relative;
+    padding: 10px 30px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background:#fff;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+    padding-right: 0;
+    padding-left: 0;
+ padding: 0;  float: left; min-height: 1px; padding: 0 15px; position: relative;  float: none; margin: 0 auto;     float: right;
+        padding-left: 10px;
+        float: left;
+        width: 100%;

@@ -1,0 +1,7 @@
+	float:left;
+	width:280px;
+	padding-top:34px;
+	padding-left:29px;
+	color:#fff;
+	height:114px;
+	overflow:hidden;

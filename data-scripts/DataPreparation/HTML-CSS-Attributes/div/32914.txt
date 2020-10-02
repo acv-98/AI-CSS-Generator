@@ -1,0 +1,8 @@
+	margin-right:0px;
+	width:260px;
+	float:left;
+	display:block;
+	clear:both;
+	color:#838383;
+	background:url(../images/blog-icn.png) no-repeat;
+	background-position:right top;

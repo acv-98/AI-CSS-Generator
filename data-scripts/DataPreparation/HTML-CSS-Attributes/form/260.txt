@@ -1,0 +1,15 @@
+	padding: 50px;
+    background-color: #ffffff;
+    box-shadow: -2px 40px 34px -24px rgba(0, 0, 0, 0.2);
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border-left-color: #f7639a;
+    border-right-color: #f7639a;
+    position: absolute;
+    left: 83%;
+    top: -4%;
+    padding: 10px 20px;
+    font-weight: 600;
+	background-color: #f7639a;
+	color: #ffffff;
+        left: 39%;
+          left: 30%;

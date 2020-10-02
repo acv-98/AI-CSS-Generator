@@ -1,0 +1,6 @@
+	text-align:justify;
+	background-color:#E6E6E6;
+	
+	width:444px;
+	float:left;
+	margin-left:1px;

@@ -1,0 +1,3 @@
+	background: url('../img/sidebarPointDark.png') 92% center no-repeat !important;
+	font-weight: bold;
+	color: #62656b;

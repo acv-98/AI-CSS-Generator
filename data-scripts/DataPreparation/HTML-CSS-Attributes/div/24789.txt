@@ -1,0 +1,18 @@
+	float: left;
+	font-size:1.6em;
+	width: 70px;
+        height:70px;
+        background:#000;
+        border-radius:50%;
+        color:#fff; 
+        text-align: center;
+        padding-top:25px;
+        transition:all 200ms ease-in;
+        -webkit-transition:all 200ms ease-in;
+        -moz-transition:all 200ms ease-in;
+        -ms-transition:all 200ms ease-in;
+	margin-left:90px;
+font-family: 'Roboto Slab', serif;
+	color: #9aa7af;
+        margin-top:10px;
+        font-size:0.83em;

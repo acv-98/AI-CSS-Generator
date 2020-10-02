@@ -1,0 +1,13 @@
+	margin-top: 20px;
+	width: 440px;
+	float: left;
+	margin-left: 5px;
+	font-size: 12px;
+	color: #35acc8;
+	font-style: italic;
+	 padding: 0px;
+	font-family: serif;
+    left: 15px;
+    opacity: 0.1;
+    position: absolute;
+    top: 15px;

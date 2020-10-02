@@ -1,0 +1,9 @@
+	width:960px;
+	height:100px;
+	margin:0 auto;
+	text-align:center;
+	font-size:48px;
+	color:#aa1416;
+	clear:both;
+	line-height:150px;
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 1);

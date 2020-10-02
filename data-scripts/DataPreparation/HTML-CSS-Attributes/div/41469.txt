@@ -1,0 +1,9 @@
+	height:276px;
+	overflow:hidden;
+	background:url(../images/header-tail.gif) repeat-x left top;
+	padding:35px 0 0 50px;
+	width:350px;
+	position:relative;
+	z-index:2;
+	color:#fff;
+	line-height:1.5em;

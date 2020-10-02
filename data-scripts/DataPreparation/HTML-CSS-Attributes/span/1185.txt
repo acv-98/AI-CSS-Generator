@@ -1,0 +1,9 @@
+	position: relative;
+	padding: 0 5px;
+	margin-left: 10px;
+	content: '(';
+		position: absolute;
+		left: 0px;
+		top: 0px;	
+		content: ')';
+right: 0px;

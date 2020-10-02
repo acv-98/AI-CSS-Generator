@@ -1,0 +1,15 @@
+	width:94%;
+	float:left;
+	padding:3%;
+	font-family: 'HelveticaLTStdRoman',Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#7e7e7e;
+	text-align:center;
+	position: relative;
+	border-top: 1px solid #d5d5d5;
+	background-image: url(../images/arrow-up.png);
+	background-repeat: no-repeat;
+	right: 10%;
+	top: -17px;
+	display:block;
+	height:18px;

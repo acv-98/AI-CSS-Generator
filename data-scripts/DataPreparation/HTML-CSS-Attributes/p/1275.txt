@@ -1,0 +1,8 @@
+	margin-top: 0; 
+	text-transform: uppercase; 
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;	
+ color: #6f892c; border: none; font-weight: bold .post .tags {
+	padding: 7px 15px; margin: 20px 20px 15px 20px;	
+	border-top: 1px solid #34251C;
+	border-bottom: 1px solid #30221A;

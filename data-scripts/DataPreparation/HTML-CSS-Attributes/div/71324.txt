@@ -1,0 +1,3 @@
+display:block; margin:0 auto; padding:0; text-align:left; word-wrap:break-word;The "hoc" class is a generic class used to centre a containing element horizontally
+It should be used in conjunction with a second class or ID
+max-width:1024px;max-width:90%;

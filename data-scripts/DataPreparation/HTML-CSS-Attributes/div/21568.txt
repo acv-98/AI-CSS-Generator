@@ -1,0 +1,6 @@
+ width: 96% !important; margin: 0 auto !important;  width: 96% !important; margin: 0 auto !important;   width: 314px;
+  margin-right: 0px;
+  padding: 3px 10px;
+    margin-right: 0px;
+    width: 334px;
+    float: left;

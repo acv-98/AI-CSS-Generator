@@ -1,0 +1,8 @@
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    padding: 22px 0 14px;
+    background-color: #04bacf;
+    font:  22px/20px 'Open Sans', sans-serif;
+    font-size: 18px;
+    margin-bottom: 19px;

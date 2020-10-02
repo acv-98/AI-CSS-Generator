@@ -1,0 +1,5 @@
+    padding-bottom: 2.143rem;
+    overflow: hidden;
+    font-weight: 100;
+    font-size:2.250rem;
+    color:#333;

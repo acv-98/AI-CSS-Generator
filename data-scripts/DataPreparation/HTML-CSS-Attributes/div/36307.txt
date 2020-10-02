@@ -1,0 +1,10 @@
+	margin:0;
+	padding:71px 0 8px 0;
+	width:auto;
+	float:left;
+	list-style:none;
+	background:url(images/menu_bg.gif) no-repeat left center;
+	color:#5a554d;
+	font:bold 12px Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	text-transform:uppercase;

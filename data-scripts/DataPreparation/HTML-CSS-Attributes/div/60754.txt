@@ -1,0 +1,15 @@
+	padding:0 10px;
+		color: #F7C221;
+		width:100%;
+		margin:20px 0;
+		overflow:hidden;
+		padding:20px;
+		background:#fff;
+		border:1px solid #efefef;
+		font-size:12px;
+		padding-right:5px;
+		padding-bottom:0;
+		margin-bottom:5px;
+		text-transform:uppercase;
+		position:relative;
+		display:block;

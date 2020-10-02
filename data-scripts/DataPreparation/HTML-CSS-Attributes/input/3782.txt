@@ -1,0 +1,17 @@
+  background-color: transparent;
+  border: none;
+  border-bottom: 3px solid #eee;
+  border-radius: 0px;
+  box-shadow: none;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  height: 50px;
+  transition: all 0.4s ease-in-out;
+  margin-bottom: 20px;
+  border-color: #ffffff;
+  opacity: 1;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-left-color: transparent;
+  border-bottom-color: #ffffff;

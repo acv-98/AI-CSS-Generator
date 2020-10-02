@@ -1,0 +1,2 @@
+    color: #f65aa7!important;
+    margin: 1px auto

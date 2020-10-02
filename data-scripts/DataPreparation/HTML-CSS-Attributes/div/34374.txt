@@ -1,0 +1,3 @@
+ opacity:0.9; width:46%; margin-left:0;bottom:0; position:absolute;padding:2%; z-index:99;.flex-caption p{ font-size: 14px !important; line-height: 22px; 
+	color:#fff;
+	background:#009cea;

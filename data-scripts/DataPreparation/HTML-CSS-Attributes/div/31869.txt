@@ -1,0 +1,10 @@
+	float: right;
+	width: 125px;
+	background: url(../images/listingbuttons.jpg) no-repeat;
+	display: block;
+	height: 18px;
+	padding-top: 4px;
+	text-align: center;
+	margin-bottom: 5px;
+	color: #F3F0DF;
+	text-decoration: none;

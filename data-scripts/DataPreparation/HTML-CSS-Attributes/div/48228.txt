@@ -1,0 +1,5 @@
+	background: url('../images/slider.jpg');
+	background-size: 100% 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;

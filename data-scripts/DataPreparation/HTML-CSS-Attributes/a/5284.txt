@@ -1,0 +1,8 @@
+	color: white;
+	display: block;
+	font-weight: 300;
+	padding: 0.625em 1.43em;
+	transition: all 0.3s ease;
+	background-color: #9a6600;
+	text-decoration: none;
+ padding: 0.4em 0.8em; 

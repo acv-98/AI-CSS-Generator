@@ -1,0 +1,2 @@
+ float:left; width:220px; margin-right:20px !important;  width:201px;  width:260px; 
+ width:18px; 

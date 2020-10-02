@@ -1,0 +1,14 @@
+	position:absolute;
+	top:31px;
+	right:1px;
+	color:#fff;
+	padding:15px;
+	font-size:19px;
+	line-height:23px;
+	text-align:right;
+	background:url(images/bullet.gif) no-repeat 0 7px;
+	text-decoration:underline;
+	overflow:hidden;
+	width:240px;
+	height:230px;
+	float:left;

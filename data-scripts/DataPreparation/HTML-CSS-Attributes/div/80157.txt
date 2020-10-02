@@ -1,0 +1,9 @@
+	text-align:center;
+	padding:8%;
+	color:#222;
+	font-size:1.3em;
+	margin-bottom: 5%;
+	line-height:1.5em;
+		font-size: 0.85em;
+		margin-bottom: 10px;
+		padding: 10px;

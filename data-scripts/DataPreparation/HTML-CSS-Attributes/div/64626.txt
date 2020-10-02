@@ -1,0 +1,7 @@
+	background:#f56a66;
+	height:28px;
+	color:#FFF;
+	font-size:14px;
+	font-weight:normal;
+	font-family:'Lato', sans-serif;
+	padding:3px 0 0 0;

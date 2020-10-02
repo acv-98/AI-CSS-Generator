@@ -1,0 +1,4 @@
+	background-image:url(../images/line-ver1.gif);
+	background-repeat:repeat-y;
+	background-position:457px 0;
+	width:100%;

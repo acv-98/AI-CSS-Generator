@@ -1,0 +1,8 @@
+	background: #1f95ff;
+	color: #fff;
+	border-radius: 2px;
+	font-size: 13px;
+	font-weight: 700;
+	padding: 9px 25px;
+	display: inline-block;
+	margin-left: 20px;

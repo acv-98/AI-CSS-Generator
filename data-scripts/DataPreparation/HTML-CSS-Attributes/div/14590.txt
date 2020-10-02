@@ -1,0 +1,8 @@
+        text-align: center;
+        padding-bottom:30px;
+        overflow: hidden;
+.counter .main_counter_area .single_counter .single_counter_item{
+    color:#fff;
+    font-size:2.8125rem;
+    display: inline-block;
+    margin-top:20px;

@@ -1,0 +1,13 @@
+	background:url(images/nav-bg.gif) repeat-x 0 0;
+	height:56px;
+	width:97px;
+	position:absolute;
+	right:10px;
+	bottom:10px;
+	z-index:100;
+	list-style:none;
+	display:inline;
+	float:left;
+	padding:0 7px 0 0;
+	text-decoration:none;
+	background-position:0 -19px;

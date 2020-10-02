@@ -1,0 +1,3 @@
+	background: #02B3E9 url('../images/icon2.png') no-repeat 10px 12px;
+	background-position: -35px 4px;
+	opacity:0.8;

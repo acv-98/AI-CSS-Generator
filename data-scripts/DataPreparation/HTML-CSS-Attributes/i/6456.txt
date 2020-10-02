@@ -1,0 +1,15 @@
+  color: #ffffff;
+  font-size: 36px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  border: 2px solid #ffffff;
+  border-radius: 100px;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 22px;
+  padding-bottom: 14px;
+  background: #ffffff;

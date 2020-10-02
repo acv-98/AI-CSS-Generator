@@ -1,0 +1,9 @@
+	background-color: #F7F7F7;
+	border-radius:4px;
+	padding: 30px;
+	margin-bottom:30px;
+    background-color: #99DEAB;
+    color: #fff;
+	display:block;
+	text-align:center;
+	margin-top:0;

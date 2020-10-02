@@ -1,0 +1,4 @@
+    margin-bottom: 0;
+    border: 0 !important;
+    border-right: 0 !important;
+    margin-right: 0;

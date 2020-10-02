@@ -1,0 +1,9 @@
+	margin:0 auto;
+	padding:0;
+	width:900px;
+	background:#fff url(images/header_bg.gif) top repeat-x;
+	height:291px;
+	float:left;
+	font:normal 40px Arial, Helvetica, sans-serif;
+	color:#0ab3b9;
+	line-height:1.6em;

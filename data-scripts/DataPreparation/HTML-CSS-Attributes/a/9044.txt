@@ -1,0 +1,9 @@
+        margin: 20px 15px;
+        text-align: center;
+        height: 30px;
+        width: 60px;
+        line-height: 30px;
+        background: #121619;
+        color: #fff;
+        font-size: 12px;
+        float: right;

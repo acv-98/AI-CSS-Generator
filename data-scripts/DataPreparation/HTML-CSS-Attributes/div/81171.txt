@@ -1,0 +1,16 @@
+ margin-top: 80px;text-align: center;	#itemsWorkTwo .box .hover-text i.fa {
+	    top: 0%;
+    	margin-top: 30px;
+ margin-bottom: 20px;  margin-bottom: 80px a.goto-btn {
+    font-size: 18px;
+    font-weight: 700;
+    border-bottom: 2px solid transparent;
+    padding: 10px 0;
+    transition: all 0.5s;
+ padding: 15% 0 #tf-home.app .owl-theme .owl-controls .owl-page span {
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+    background: #ffffff !important;
+    opacity: 1;
+    text-align: center;

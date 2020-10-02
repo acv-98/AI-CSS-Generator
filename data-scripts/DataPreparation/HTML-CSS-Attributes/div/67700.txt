@@ -1,0 +1,1 @@
+background:url(images/left-top-corner1.gif) no-repeat left top;background:url(images/left-top-corner.gif) no-repeat left top;background:url(images/left-top-corner2.gif) no-repeat left top;

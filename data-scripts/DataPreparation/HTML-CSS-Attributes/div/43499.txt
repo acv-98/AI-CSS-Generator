@@ -1,0 +1,7 @@
+	background:url(../images/textarea_bg.gif) top repeat-x;
+	border:1px solid #fff;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	behavior:url(../js/PIE.htc);
+	position:relative;

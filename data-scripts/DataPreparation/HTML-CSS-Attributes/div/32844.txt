@@ -1,0 +1,10 @@
+ width: auto; padding: 0 15px; 	
+	width: 700px;
+	margin: 0 auto;
+	color: #fff;
+ color: #fff; text-decoration: none; .top-content-text p {
+	opacity: 0.9;
+	margin-top: 40px;
+    font-size: 22px;
+    line-height: 36px;
+    font-style: italic;

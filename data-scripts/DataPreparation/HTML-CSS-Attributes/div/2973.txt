@@ -1,0 +1,7 @@
+	display: inline;
+	padding-left: 50%;
+	margin-left: -64px;
+	font-size: 20px;
+	color: #C59E47;
+	padding-right: 20px;
+	margin-bottom: 20px;

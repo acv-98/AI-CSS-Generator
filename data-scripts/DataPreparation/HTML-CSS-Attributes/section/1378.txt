@@ -1,0 +1,8 @@
+    padding: 0;
+    border: 0;
+        color: #00aafe;
+      padding-left: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    padding-bottom: 20px;
+      width: 100%;

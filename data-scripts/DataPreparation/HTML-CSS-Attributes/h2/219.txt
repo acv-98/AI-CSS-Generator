@@ -1,0 +1,5 @@
+  background: -webkit-linear-gradient(top right, #52D681, #1FDEDB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  position: relative;
+  font-weight: 400;

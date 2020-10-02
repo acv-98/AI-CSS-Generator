@@ -1,0 +1,1 @@
+border-bottom:1px solid #ddd; color:#ccc; display:block; padding:6px 6px 6px 0; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5spadding-left:10pxcolor:#d083cf; border-color:#d083cf

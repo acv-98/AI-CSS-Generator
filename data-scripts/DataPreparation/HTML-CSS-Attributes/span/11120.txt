@@ -1,0 +1,5 @@
+	letter-spacing: -4px;
+	font-size: 116px;
+	margin-right: 6px;
+	font-weight: 300;
+	margin-left: -5px;

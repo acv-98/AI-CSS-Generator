@@ -1,0 +1,6 @@
+        width:50%;
+.counter .main_counter_area .single_counter .single_counter_item{
+    padding:80px 20px;
+    height: 100%;
+    color:#fff;
+    font-size:4.5rem;

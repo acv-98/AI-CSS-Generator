@@ -1,0 +1,11 @@
+	float:right;
+	padding:8px 32px 0 0;
+	font-size:11px;
+	color:#feffff;
+	height:38px;
+	line-height:38px;
+	background:url(images/intro-button.gif);
+	background-position:left;
+	padding-left:17px;
+	text-decoration:none;
+	padding-right:18px;

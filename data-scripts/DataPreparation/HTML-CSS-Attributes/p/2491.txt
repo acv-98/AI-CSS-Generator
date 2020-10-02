@@ -1,0 +1,2 @@
+	border-color:#85a5be;
+	background:url(../img/css/icons/info.png) 10px center no-repeat #c4dbec;

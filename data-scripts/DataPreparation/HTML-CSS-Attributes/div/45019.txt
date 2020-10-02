@@ -1,0 +1,11 @@
+  color: #404040;
+  margin-top: 0;
+  border-bottom: 3px solid #ececec;
+  margin-bottom: 6px;
+  padding-bottom: 8px;
+  padding-top: 21px;
+  transition: all 0.3s ease 0s;
+  -webkit-transition: all 0.3s ease 0s;
+  border-left: 2px solid #dab074;
+  padding-left: 5px;
+  font-size: 16px;

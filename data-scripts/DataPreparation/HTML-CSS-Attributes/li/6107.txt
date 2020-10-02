@@ -1,0 +1,2 @@
+	background-position:-108px -54px ;
+	opacity:0.8;

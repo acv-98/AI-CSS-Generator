@@ -1,0 +1,4 @@
+	float: right;
+  float: right;
+  margin-left: .3em;
+	margin: .9rem 0 0 2.4rem;

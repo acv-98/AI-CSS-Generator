@@ -1,0 +1,12 @@
+  font-size: .84em;
+  color: #aaaaaa;
+  margin-bottom: 40px;
+  overflow: hidden;
+  width: 100%;
+  display: block;
+  -webkit-transition: opacity 200ms ease;
+  -moz-transition: opacity 200ms ease;
+  transition: opacity 200ms ease;
+  font-weight: normal;
+  margin-left: 10px;
+  margin-right: 15px;

@@ -1,0 +1,7 @@
+    max-width: 330px;
+    margin-top: 90px;
+    font-size: 24px;
+  color: #585246;
+  font-family: mensch;
+  line-height: 1.1em;
+  display: block;

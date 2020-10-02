@@ -1,0 +1,1 @@
+ background: url(images/slider-b-arr.png) no-repeat 0 0; width: 30px; height: 30px; display: block; position: absolute; top: 10px;

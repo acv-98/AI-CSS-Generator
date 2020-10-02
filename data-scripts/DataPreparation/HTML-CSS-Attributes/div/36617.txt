@@ -1,0 +1,9 @@
+	position: absolute;
+	width: 100%;
+	min-height: 500px;
+	top: 0;
+	left: 0;
+	height: 600px;
+	overflow: hidden;
+		height: 500px;
+	margin: 0 auto;

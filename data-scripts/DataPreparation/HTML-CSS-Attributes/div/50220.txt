@@ -1,0 +1,7 @@
+	float:left;
+	display:inline;
+	width:500px;
+	padding-top:67px;
+	margin-left:53px;
+	line-height:19px;
+	color:#808080;

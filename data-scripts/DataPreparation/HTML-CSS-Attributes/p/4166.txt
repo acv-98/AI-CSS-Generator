@@ -1,0 +1,7 @@
+    margin-top: 10px;
+    font-size: 1.3rem;
+    font-weight: 100;
+    color: #fff;
+    padding-bottom: 25px;
+    font-family: 'latolight';
+	line-height:3rem;

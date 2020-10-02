@@ -1,0 +1,4 @@
+	background: transparent url(../images/line.png) repeat-x;
+	height: 2px;
+	padding: 20px 0 0 0;
+	line-break: 0px;

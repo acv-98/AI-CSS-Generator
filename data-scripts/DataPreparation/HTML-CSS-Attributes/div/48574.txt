@@ -1,0 +1,6 @@
+	overflow:hidden;
+	width:151px;
+	float:left;
+	text-align:center;
+	margin-right:8px;
+	margin-top:11px;

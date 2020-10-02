@@ -1,0 +1,5 @@
+    border-bottom:1px solid #404040;
+    margin-bottom:30px;
+    font-size:13px;
+    color:#929292;
+    transition:.5s;

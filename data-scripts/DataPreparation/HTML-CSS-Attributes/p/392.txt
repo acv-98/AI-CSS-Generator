@@ -1,0 +1,2 @@
+	background:url(images/datebg.jpg) 15px 0 no-repeat;
+	height:20px!important;

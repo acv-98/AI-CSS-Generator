@@ -1,0 +1,1 @@
+	background:url(../images/arrow.png) right 4px no-repeat

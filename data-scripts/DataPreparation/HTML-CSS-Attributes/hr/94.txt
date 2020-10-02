@@ -1,0 +1,5 @@
+ margin-top: 30px; 
+.tm-text-link { 
+	color: #006699; 
+	line-height: 2.8;
+	text-decoration: underline;

@@ -1,0 +1,6 @@
+    padding-bottom: 80px;
+    background:#efefef;
+    color:#000;
+    border-bottom:1px solid #cfcdcd;
+    display:block;
+    float:left;

@@ -1,0 +1,1 @@
+padding:40px 0max-width:140px

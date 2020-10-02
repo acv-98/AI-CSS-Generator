@@ -1,0 +1,10 @@
+	display: inline-block;
+	height: 2.60em;
+	margin-top: 1.25em;
+	padding: 0em 2.25em 0em 1.25em;
+	background: url(images/img03.jpg) repeat right top;
+	border-radius: 5px;
+	line-height: 2.60em;
+	text-decoration: none;
+	font-size: 1em;
+	color: #FFFFFF;

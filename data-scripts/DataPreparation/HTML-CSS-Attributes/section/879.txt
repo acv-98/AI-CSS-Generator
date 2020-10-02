@@ -1,0 +1,4 @@
+ max-width: 900px; 
+.content-text {
+	background-color: white;
+	padding: 40px;

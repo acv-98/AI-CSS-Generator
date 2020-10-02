@@ -1,0 +1,11 @@
+ z-index: 1000; 	padding: 0;  font-size: 1.6rem; 
+@media (min-width: 768px) {
+ height: 88px; 	.tm-navbar-row-absolute { 
+		position: absolute;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		top: 0;
+		font-size: 0.6em;
+		height: 54px;		
+		background-color: rgba(235, 222, 180, 0.86);

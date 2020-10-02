@@ -1,0 +1,11 @@
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-shadow: 1px 1px 0px rgba(0,0,0, .3);
+	border-top: solid 1px #AC6035;
+	display: block;
+	background: url(images/img09.png) no-repeat left 5px;
+	line-height: 160%;
+	text-decoration: none;
+	color: #F3F1EE;
+	padding-top: 0px;

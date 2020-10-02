@@ -1,0 +1,4 @@
+	padding: 30px 0;
+	position: relative;
+	background: url("../design/pattern-01.png") 0 100% repeat-x;
+		position: relative;

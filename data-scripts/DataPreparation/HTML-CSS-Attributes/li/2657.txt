@@ -1,0 +1,1 @@
+	background:url(../images/menu-selected.gif) no-repeat 190px center;

@@ -1,0 +1,2 @@
+ padding:12px; width:128px; float:left; cursor:pointer; border-left:1px solid #e4e4e4; ul.accordion-slider li:first-child .photo-preview, ul.accordion-slider li:first-child .handle,  
+ border-left:0; 

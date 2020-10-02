@@ -1,0 +1,7 @@
+    padding: 250px 0px;
+    text-align: center;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: 160px;
+    color: black;
+    background: transparent;
+    text-decoration: none;

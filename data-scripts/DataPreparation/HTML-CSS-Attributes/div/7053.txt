@@ -1,0 +1,15 @@
+	width:350px;
+	float:right;
+	list-style:none;
+	text-align:left;
+	
+	padding-top:20px;
+	border-bottom:1px solid #868471;
+	display:block;
+	font-size:13px;
+	font-weight:bold;
+	color:#bc0000;
+	text-decoration:underline;
+border-bottom:none;.div2 p {
+	line-height:20px;
+	padding-bottom:20px;

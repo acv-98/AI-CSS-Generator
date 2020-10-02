@@ -1,0 +1,12 @@
+	font-size:21px;
+	margin-bottom: 20px;
+	display:block;
+	font-weight:bold;
+	width: 560px;
+	height:203px;
+	padding: 20px 0 0 40px;
+	position:relative;
+	overflow:hidden;
+	background:url(img/writing_img.png) no-repeat 0 50px;
+	line-height: 15px;
+	float:right;

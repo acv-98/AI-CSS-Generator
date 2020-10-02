@@ -1,0 +1,5 @@
+	background:url(../images/border-top.gif) repeat-x left top #f7f7f7;
+	width:100%;
+	padding:25px 49px 45px 49px;
+	font-size:1.923em;
+	margin-bottom:50px;

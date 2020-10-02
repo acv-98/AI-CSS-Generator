@@ -1,0 +1,7 @@
+  padding: 0 20px;
+  margin-bottom: 40px;
+  margin-top: -5px;
+  color: #696763;
+  font-size: 16px;
+  line-height: 25px;
+  background: none;

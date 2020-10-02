@@ -1,0 +1,7 @@
+	font:bold 11px/20px Tahoma, Arial, Helvetica, sans-serif;
+	color:#e58e11;
+	height:20px;
+	background:url(../images/green_dot.jpg) 0 +8px no-repeat;
+	text-decoration:none;
+	display:block;
+	padding:0 0 0 10px;

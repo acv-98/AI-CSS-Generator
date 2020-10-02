@@ -1,0 +1,9 @@
+	margin-bottom:-20px;
+	width:100%;
+	clear:left;
+	vertical-align:top;
+	line-height:1.538em;
+	padding-bottom:20px;
+	float:left;
+	display:block;
+	position:relative;

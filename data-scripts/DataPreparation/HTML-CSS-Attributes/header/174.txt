@@ -1,0 +1,23 @@
+    font-size: 40px;
+    color: #ffffff;
+    background-color: rgba(41, 41, 41, 0.68);
+    width: 80%;
+    margin: auto;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+    padding:180px 0px;
+    overflow:hidden;
+    font-weight:700;
+    margin-bottom: 30px;
+    margin-top: 90px;
+display: block;.home-content .input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    height: 60px;
+    display:inline-block;
+	border: 0px;
+	background-color: rgba(0, 173, 62, 0.75);

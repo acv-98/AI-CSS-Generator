@@ -1,0 +1,7 @@
+    font-size: 15px;
+    padding-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #43a906;
+        font-size: 12px;
+        padding-bottom: 3px;

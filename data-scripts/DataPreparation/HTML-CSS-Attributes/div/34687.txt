@@ -1,0 +1,14 @@
+    display: block;
+    position: relative;
+    margin-bottom: 42px;
+    font-size: 18px;
+    padding: 0 0 10px;
+    width: 80px;
+    margin-top: 23px;
+    border-style: dotted;
+    font-weight: 300;
+    line-height: 1;
+    color: #767676;
+    font-family: Trebuchet MS;
+    padding-bottom: 0;
+        font-size: 15px !important;

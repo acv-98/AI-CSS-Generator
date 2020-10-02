@@ -1,0 +1,9 @@
+	color:#333;
+	text-decoration:none;
+	display:inline-block;
+	*display:inline;
+	*zoom:1;
+	vertical-align:middle;
+	font-size:1.5em;
+	margin-left:8px;
+	position:relative;

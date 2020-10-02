@@ -1,0 +1,3 @@
+	background: url("../images/icons/message/note.png") no-repeat scroll 15px center #F9EBCA;
+	border: 1px solid #E5B2AC;
+	color: #9F6722;

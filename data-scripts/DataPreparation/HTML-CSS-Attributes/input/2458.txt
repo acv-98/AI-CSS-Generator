@@ -1,0 +1,13 @@
+		border-radius: 4px !important;
+		margin-bottom:10px ;
+	float:left;
+	font-size: 13px;
+	font-family: 'Roboto', 'sans-serif';
+	font-weight: 300;
+	background: #1c1c1c;
+	color: #fff;
+	padding: 11px;
+	width: 350px;
+	padding-left: 20px;
+	//max-width: 350px;
+	max-width: 163px;

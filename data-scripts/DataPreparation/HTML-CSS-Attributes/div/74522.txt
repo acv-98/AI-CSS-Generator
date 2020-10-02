@@ -1,0 +1,15 @@
+	width:604px;
+	float:left;
+	margin:0px;
+	padding:0px 198px 142px 198px;
+	background-image: url(../images/footer_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+font-weight:bold;
+color:#333333;
+ width:100px;
+ float:left;
+ margin:0px;
+ padding:0px;
+	color:#333333;
+	text-decoration:none;

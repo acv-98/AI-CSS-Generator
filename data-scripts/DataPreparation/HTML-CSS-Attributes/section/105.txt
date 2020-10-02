@@ -1,0 +1,15 @@
+    color: #ffffff;
+    background-color: rgba(41, 41, 41, 0.68);
+    width: 80%;
+    margin: auto;
+    background-size: cover;
+    padding-top: 340px;
+    padding-bottom: 25px;
+    font-family: 'latolight';
+    height:125px;
+    display: inline-block;
+    text-align: center;
+    line-height: 150px;
+    font-size:4rem;
+    transform: rotate(45deg);
+    border-radius: 0px;

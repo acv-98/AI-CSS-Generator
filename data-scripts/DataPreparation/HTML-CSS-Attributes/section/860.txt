@@ -1,0 +1,10 @@
+    background-color: rgba(76, 61, 114, 0.8);
+    width: 100%;
+    height: auto;
+    background-size:cover;
+    padding: 200px 0px;
+    overflow: hidden;
+.video .icon h3{
+    color:#fff;
+    margin-top:30px;
+    margin-bottom: 0px;

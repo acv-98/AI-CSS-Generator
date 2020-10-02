@@ -1,0 +1,11 @@
+ margin-bottom:30px; margin-bottom:20px; font-size:15px; font-size:12px; margin-bottom:20px;	padding:0 0 0 0;
+	font-size:14px;
+	margin-bottom:40px;
+	float:left;
+	width:60px;
+	font-style:normal;
+	display:block;
+	color:#222;
+	font-family: 'FontAwesome';
+	line-height:38px;
+	overflow:hidden;	

@@ -1,0 +1,2 @@
+  color: #25c9da;
+  border-color: #25c9da;

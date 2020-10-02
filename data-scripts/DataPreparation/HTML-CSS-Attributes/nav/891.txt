@@ -1,0 +1,9 @@
+ font-size: 1.2rem; 
+.navbar-nav .nav-link {
+	border-radius: 6px;
+	color: black;
+	padding: 10px 40px;
+		position: fixed;
+		right: 0;
+		top: 21px;
+		z-index: 1000;

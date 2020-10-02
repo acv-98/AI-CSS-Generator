@@ -1,0 +1,17 @@
+	position:absolute;
+	left:30px;
+	top:20px;
+	z-index:99;
+	padding-bottom:1px
+	display:block;
+	width:101px;
+	height:70px;
+	text-decoration:none;
+	text-align:center;
+	color:#fff;
+	background:url(../images/pagination-a.png) left bottom no-repeat;
+	cursor:pointer;
+	background-position:left top
+	font-size:30px;
+	line-height:50px;
+	letter-spacing:-2px;

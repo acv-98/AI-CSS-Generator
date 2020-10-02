@@ -1,0 +1,1 @@
+padding-top:12px;  margin-bottom:30pxdisplay: block; padding:1px; border:solid 1px #e4e4e4font-size: 8px; text-transform: uppercase; display: block; color:#b0b0b0

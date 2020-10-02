@@ -1,0 +1,24 @@
+ display: none; 	
+ padding-left: 80px; left: 0px; 	#posts-list .entry-date em,
+	#posts-content .entry-date em,
+ display: none;	#posts-list .post-heading,
+	#posts-content .post-heading{ 
+		min-height: 78px;
+		margin-left: 80px;
+ left: 0px;	 display: none;  padding-left: 80px;	.testimonial-slider{ 
+		margin-bottom: 50px;
+	background: #3b424b;
+	color: #efe271;
+	position: absolute;
+	top: 0px;
+	left: -17px;
+	padding: 17px;
+	font-family: 'Arvo', Arial, sans-serif;
+	line-height: 1em;
+	font-size: 21px;
+	text-align: center;
+	display: block;
+	width: 16px;
+	height: 16px;
+	bottom: -16px;
+	padding-left: 60px;

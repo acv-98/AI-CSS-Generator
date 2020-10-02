@@ -1,0 +1,1 @@
+	background: url("../images/icons/small-socials/delicious.png") no-repeat scroll 0 0 transparent;

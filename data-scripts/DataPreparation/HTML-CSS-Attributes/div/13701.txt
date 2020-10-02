@@ -1,0 +1,9 @@
+ background-color:#1d78cb; -webkit-box-shadow:  0px 3px 0px 0px #0f3e68;        -moz-box-shadow:   0px 3px 0px 0px #0f3e68;        box-shadow:   0px 3px 0px 0px #0f3e68;
+.tp-button.red, .tp-button:hover.red,
+    background-color: #2DAEBF;
+    color: #FFFFFF;
+    border: 1px solid #07558C;
+color:#1f08c9;table {
+	border: solid 1px #dddddd;
+	background:#fff;
+	margin:10px 0;

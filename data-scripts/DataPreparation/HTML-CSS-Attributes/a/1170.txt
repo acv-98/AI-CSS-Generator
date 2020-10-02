@@ -1,0 +1,8 @@
+	width: 214px;
+	height: 95px;
+	display: block;
+	background-image: url(../images/basics/links/appstore.png);
+	text-indent: -9999px;
+	background-color: #363e45;
+	background-position: 0 -95px;
+	cursor: default;

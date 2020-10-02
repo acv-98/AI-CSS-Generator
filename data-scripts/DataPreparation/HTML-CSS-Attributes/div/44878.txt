@@ -1,0 +1,11 @@
+	background-color: #6093e7;
+	color: #FFF;
+	float: right;
+	width: 110px;
+	height: 50px;
+	padding: 60px 30px;
+	-webkit-transition: background-color 0.4s;
+	-moz-transition: background-color 0.4s;
+	-ms-transition: background-color 0.4s;
+	-o-transition: background-color 0.4s;
+	transition: background-color 0.4s;

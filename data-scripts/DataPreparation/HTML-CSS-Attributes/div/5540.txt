@@ -1,0 +1,1 @@
+ background-position: 50px 0;  background-position: 50px 0;  visibility: hidden;  background: url('../img/iphone-bg.png') no-repeat center center; background-position: 200px 10px; height: 100%; 

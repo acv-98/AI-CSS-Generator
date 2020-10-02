@@ -1,0 +1,16 @@
+	display:none;
+	position:absolute;
+	top:-109px;
+	left:0;
+	right:0;
+	height:511px;
+	font-family: 'Passion One', cursive;
+	color:#fff;
+	z-index:99;
+	bottom:0;
+	padding:0;
+	text-align:center;
+	font-size:84px;
+	line-height:100px;
+	text-transform:uppercase;
+	margin:-45px 0 0 0;

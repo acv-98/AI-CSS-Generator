@@ -1,0 +1,4 @@
+	padding: 20px;
+float:left.comment-des{
+	float:right;
+	width:90%;

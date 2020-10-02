@@ -1,0 +1,3 @@
+  width: 80%;
+  font-size: 10px;
+width: 88%;.single_page_title h1{float: left;

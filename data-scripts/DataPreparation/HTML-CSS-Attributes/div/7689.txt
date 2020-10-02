@@ -1,0 +1,16 @@
+	padding: 20px;
+	text-align: center;
+	font-size: 37px;
+	font-weight: 900;
+	letter-spacing: -2px;
+	margin: 0 0 20px 0;
+	line-height: 1.4;
+	color: #A1A1A1;
+	list-style-type: disc;
+	display: inline-block;
+	font-family: Open Sans;
+	margin-bottom: 15px;
+	margin-left: 15px;
+		padding: 120px 350px 50px 10px;
+		text-align: left;
+		font-size: 37px;

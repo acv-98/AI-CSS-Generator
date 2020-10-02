@@ -1,0 +1,6 @@
+	padding-top: 16px;
+	float: left;
+	width: 50%;
+	text-decoration: none;
+	color: #626262;
+	background-position: 0 1px;

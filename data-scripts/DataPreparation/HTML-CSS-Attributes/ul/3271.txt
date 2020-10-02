@@ -1,0 +1,3 @@
+	width:242px;
+	margin-right:6px;
+	float:left;

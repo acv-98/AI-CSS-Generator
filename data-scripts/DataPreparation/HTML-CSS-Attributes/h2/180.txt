@@ -1,0 +1,4 @@
+  color: white;
+  font-weight: 400;
+  margin: 0;
+  letter-spacing: -1px;

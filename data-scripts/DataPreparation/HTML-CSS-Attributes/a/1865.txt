@@ -1,0 +1,8 @@
+	font:14px/35px Arial, Helvetica, sans-serif;
+	color:#74be00;
+	width:113px;
+	text-align:center;
+	display:block;
+	margin:0 auto;
+	background:url(../images/more-sprite.png);
+	text-decoration:none;

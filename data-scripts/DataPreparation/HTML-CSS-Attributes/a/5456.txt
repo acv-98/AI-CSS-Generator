@@ -1,0 +1,1 @@
+	background: url('../images/icons/zoom.png') 90% center no-repeat

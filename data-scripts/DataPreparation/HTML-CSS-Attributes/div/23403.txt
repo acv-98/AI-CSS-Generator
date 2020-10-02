@@ -1,0 +1,5 @@
+	text-align: center;
+	margin-top: 25px;
+	background-color: transparent;
+	color: #7e7e7e;
+	border-color: #01b1d7;

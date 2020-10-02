@@ -1,0 +1,10 @@
+	padding-bottom:37px;
+	font-weight:bold;
+	font-size:.857em;
+	margin-bottom:6px;
+	background:url(../images/divider1.gif) repeat-x left bottom;
+	display:block;
+	padding-left:15px;
+	height:1%;
+	text-decoration:none;
+	color:#008cc4;

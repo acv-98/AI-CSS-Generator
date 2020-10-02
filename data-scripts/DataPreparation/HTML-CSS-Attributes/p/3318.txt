@@ -1,0 +1,3 @@
+	color: #00529B;
+	background-color: #BDE5F8;
+	background-image: url('../img/knobs-icons/knob-info.png');

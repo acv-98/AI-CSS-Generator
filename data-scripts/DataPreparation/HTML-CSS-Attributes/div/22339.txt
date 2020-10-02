@@ -1,0 +1,28 @@
+	width: 100%;
+		width: 344px;
+		margin-left: 24px;
+ padding-bottom: 70px; .featured figure{
+	position: relative;
+	float: left;
+	margin-bottom: 21px;
+	display: block;
+	background: url(../img/plus.png) no-repeat center center;
+	
+	-webkit-box-shadow: 3px 3px 0px rgba(0,0,0,.2); 
+	-moz-box-shadow: 3px 3px 0px rgba(0,0,0,.2); 
+	box-shadow: 3px 3px 0px rgba(0,0,0,.2); 
+	opacity: 0.15;
+	max-width: 100%;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	text-decoration: none;
+	font-style: normal;
+	font-weight: bold;
+	color: #444;
+	font-size: 16px;
+	top: -2px;
+	right: 10px;
+	height: 61px;
+	margin-top: 70px;

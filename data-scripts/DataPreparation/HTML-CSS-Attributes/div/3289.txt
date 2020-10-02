@@ -1,0 +1,14 @@
+	margin-top: -1px;
+	background: #5b6269;
+	color: #fff;
+	position: relative;
+	margin-right: 2px;
+	font-size: 14px;
+	line-height: 33.5px;
+	padding: 34px 0 108px; 
+	text-align: center;
+	text-transform: uppercase;
+	bottom: 35px;
+	left: 50%;
+	margin-left: -53px;
+	margin-bottom: 31px;

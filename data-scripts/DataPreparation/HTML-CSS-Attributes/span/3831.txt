@@ -1,0 +1,5 @@
+			color:#fa9a87;
+			font-size:50px;
+			line-height:.91em;
+			padding-left:30px;
+			letter-spacing:-3px;

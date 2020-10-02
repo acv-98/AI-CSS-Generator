@@ -1,0 +1,6 @@
+        padding: 30px;
+        max-width: 100%;
+    padding-left: 0;
+    padding-top: 5px;
+    background-color: #F9FAFA;
+    text-align: center;

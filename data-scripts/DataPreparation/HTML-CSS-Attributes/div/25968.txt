@@ -1,0 +1,4 @@
+	text-align: center;
+	margin-bottom: 2.25em;
+ text-align: justify;
+ margin-bottom: 0;

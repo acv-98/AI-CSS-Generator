@@ -1,0 +1,5 @@
+		position:absolute;
+		top:100%;
+		margin:-2.143em 0 0;
+		width:100%;
+		text-align:center;

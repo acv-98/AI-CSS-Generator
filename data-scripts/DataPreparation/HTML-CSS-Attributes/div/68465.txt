@@ -1,0 +1,6 @@
+	clear:both;
+	margin-bottom:32px;
+    content:"";
+    display:table;
+    clear:both;
+		margin-bottom:64px;

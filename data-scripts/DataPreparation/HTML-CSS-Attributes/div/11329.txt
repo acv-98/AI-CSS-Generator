@@ -1,0 +1,8 @@
+    font-size: 35px;
+	margin-top:150px;
+	color:#f1f1f1;
+	text-transform:uppercase;
+	margin-bottom:50px;
+	font-size:60px;
+	font-family: 'nexa_lightregular';
+	letter-spacing:1px;

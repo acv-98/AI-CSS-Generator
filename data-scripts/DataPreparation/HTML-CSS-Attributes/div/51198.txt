@@ -1,0 +1,3 @@
+	float:right;
+	width:112px
+	text-align:center

@@ -1,0 +1,13 @@
+	text-decoration:none;
+	height:77px;
+	line-height:77px;
+	float:left;
+	padding:50px 0 50px 0px;
+	margin:0 0 0 30px;
+	position:relative;
+	display:block;
+	width:16px;
+	background-position:center center;
+	background-repeat:no-repeat;
+	outline:none;
+	background-image:url(../images/arrow-left.gif);

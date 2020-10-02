@@ -1,0 +1,14 @@
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+  color: #777;
+    color: #777;
+    background-color: transparent;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  transition: all 0.35s;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 12px;
+    border-color: rgba(255, 255, 255, 0.3);
+    font-size: 14px;

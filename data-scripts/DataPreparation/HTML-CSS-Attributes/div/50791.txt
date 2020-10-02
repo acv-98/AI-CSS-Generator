@@ -1,0 +1,17 @@
+	width:962px;
+	height:352px;
+	list-style-type:none;
+	position:relative;
+	float:left;
+	top:59px;
+	right:43px;
+	padding-bottom:20px;
+	font-size:13px;
+	color:#fff;
+	text-align:right;
+	padding-right:10px;
+	padding-top:11px;
+	font-family:Georgia, Serif;
+	font-weight:bold;
+	background:url('images/button-big.gif') no-repeat 0 center;
+	padding-left:7px;

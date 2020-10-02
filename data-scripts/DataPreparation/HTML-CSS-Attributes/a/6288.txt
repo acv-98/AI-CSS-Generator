@@ -1,0 +1,12 @@
+	height:24px;
+	float:left;
+	background:url(images/button.gif) repeat-x 0 0;
+	padding:7px 20px 0 15px;
+	font-size:17px;
+	color:#fff;
+	font-weight:bold;
+	text-decoration:none;
+	width:4px;
+	margin:6px 6px 0 0;
+	padding-left:12px;
+	padding-right:16px;

@@ -1,0 +1,24 @@
+            margin-top: 75px;
+            width: 265px;
+            height: 281px;
+            padding: 15px;
+            font-size: 32px;
+            line-height: 18px;
+            margin-bottom: 20px;
+            display: none;
+            left: -48px;
+            top: 3px;
+            right: -48px;
+    color: #455a64;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    position: relative
+    border: 1px solid #455a64;
+    bottom: -20px;
+    content: "";
+    border-radius: 5px;
+    overflow: hidden;
+    background: rgba(24, 234, 199, 0.95) none repeat scroll 0 0;
+    opacity: 0;
+    text-align: center;
+    text-decoration: none;

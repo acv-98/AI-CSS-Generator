@@ -1,0 +1,2 @@
+	width: 160px;
+	float: right;

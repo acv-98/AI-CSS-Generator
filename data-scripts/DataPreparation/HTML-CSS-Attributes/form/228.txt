@@ -1,0 +1,1 @@
+color:#fff; font-size:13px; margin-bottom:5pxbackground-color:#222; border-radius:0; color:#eee; border:none; margin-bottom:15pxbackground-color:#222; border-radius:0; color:#eee; border:none; height:100px

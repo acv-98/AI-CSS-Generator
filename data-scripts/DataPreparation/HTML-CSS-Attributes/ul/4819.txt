@@ -1,0 +1,3 @@
+	font-size:12px;
+	list-style-image:url(../images/list-check.png);
+	list-style-position:inside;

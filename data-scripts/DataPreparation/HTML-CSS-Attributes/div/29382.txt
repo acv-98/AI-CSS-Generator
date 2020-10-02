@@ -1,0 +1,11 @@
+	text-align:right;
+	padding:31px 0 20px;
+	display:inline-block;
+	width:235px;
+	font-family: 'Open Sans', sans-serif;
+	font-size:12px;
+	line-height:21px;
+	color:#454545;
+	text-transform:uppercase;
+	text-shadow:1px 1px #fbfbfb;
+	margin:-3px 0 0 0;

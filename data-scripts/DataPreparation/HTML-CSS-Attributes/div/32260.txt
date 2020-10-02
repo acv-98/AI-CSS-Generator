@@ -1,0 +1,11 @@
+	background: #fff;
+	min-height: 230px;
+	margin-bottom: 10px;
+    width: 228px;
+    *width: 31.4385212156383%;
+  float: none;
+  margin-left: 0;
+	-webkit-transition: opacity .5s linear;
+	-moz-transition: opacity .5s linear;
+	transition: opacity .5s linear
+	opacity:0.85;

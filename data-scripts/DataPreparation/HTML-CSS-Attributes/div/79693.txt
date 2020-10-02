@@ -1,0 +1,5 @@
+    color: #81548b;
+    font-size: 22px;
+    margin-bottom: 16px;
+    display: block;
+    padding-top: 11px;

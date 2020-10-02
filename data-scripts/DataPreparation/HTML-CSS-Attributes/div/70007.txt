@@ -1,0 +1,2 @@
+	background:url(../images/header_image.jpg) 0 0 no-repeat;
+	height:356px;

@@ -1,0 +1,6 @@
+  width: 60%;
+  float: right;
+  height: auto;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;

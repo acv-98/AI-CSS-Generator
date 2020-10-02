@@ -1,0 +1,17 @@
+	color: #fff;
+	font-weight: 700;
+	font-size: 20px;
+	text-transform: uppercase;
+	border-bottom: 3px solid transparent;
+	padding: 15px 5px 5px;
+	margin: 0 12px;
+	border-color: #fce38a;
+	background: none;
+	margin-right: 0;
+		padding-right: 80px;
+		border-color: transparent;
+		width: 100%;
+		background: rgba(56,56,56,0.95);
+		position: absolute;
+		z-index: 1;
+		left: 0px;

@@ -1,0 +1,1 @@
+margin:0.5em 0;color:#5c5c5c;border:none;background-color:#d2d0d1;font-weight:bold;font-style:italic;font-family:"georgia","Helvetica Neue",Arial,Helvetica,sans-serif;background-color:#dedddd;width:270px;padding:10px 0 10px 50px;font-size:1.0em;font-size:1.5em;margin:40px 0 0 0;font-size:120%;color:#a61607;font-weight:bold;

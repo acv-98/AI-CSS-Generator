@@ -1,0 +1,6 @@
+	float:left;
+	width:50%;
+	color:#000;
+	font-size:0.85em;
+	text-decoration:none;
+	font-weight:600;

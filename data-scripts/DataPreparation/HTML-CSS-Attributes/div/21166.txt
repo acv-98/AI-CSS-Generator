@@ -1,0 +1,13 @@
+  padding: 20px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-color: #ddd;
+  color: #fff;
+  background-color: #444;
+  box-shadow: none;
+  font-size: 20px;
+  font-weight: 700;
+	font-size: 20px;
+	margin: 0 10px 0 0;
+	color: #ddd;

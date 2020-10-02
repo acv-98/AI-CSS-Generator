@@ -1,0 +1,3 @@
+	color:#59126d;
+	font-family: 'open_sansbold_italic';
+	text-decoration:underline;

@@ -1,0 +1,2 @@
+    color: #585a5c;
+    margin-bottom: 5px;

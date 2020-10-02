@@ -1,0 +1,6 @@
+   font: 14px/24px montserrat-bold, sans-serif;
+   color: #0f9095;
+   position: absolute;
+   top: 6px;
+   left: 80px;
+      position: static;

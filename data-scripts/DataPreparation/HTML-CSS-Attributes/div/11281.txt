@@ -1,0 +1,5 @@
+ margin-left: 40px; 
+#sidebar {
+	float: right;
+	width: 290px;	
+	padding-top: 5px;	

@@ -1,0 +1,13 @@
+    background: #eee;
+    clear: both;
+    padding: 30px 0 0 115px;
+    list-style: none;
+    height: 80px;
+    width: 80px;
+    margin-left: -115px;
+    position: absolute;
+    display: block;
+        clear: both;
+        padding: 0 0 0 10px;
+        display: none;
+        margin: 15px 0;

@@ -1,0 +1,12 @@
+    top: 130px;
+    right: 100px;
+    z-index: 998;
+    display: none;
+    position: fixed;
+    background: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    color: #455a64;
+    text-align: left;
+    font: normal normal 400 18px/30px 'Fira Sans', sans-serif;
+right: 50px;right: 30px;right: 10px;

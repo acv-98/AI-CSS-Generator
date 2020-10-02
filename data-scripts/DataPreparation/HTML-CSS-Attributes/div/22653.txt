@@ -1,0 +1,7 @@
+background: url(../images/prettyPhoto/light_rounded/sprite.png) -88px -53px no-repeat;
+@charset "utf-8";
+body,td,th {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #424242;
+	clear: both;

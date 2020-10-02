@@ -1,0 +1,4 @@
+	padding-right: .5em;
+	float: left;
+	vertical-align: middle;
+	border: 1px solid #7f7e78;

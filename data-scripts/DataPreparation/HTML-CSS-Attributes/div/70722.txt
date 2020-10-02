@@ -1,0 +1,7 @@
+  background: #fff;
+  padding: 14px 0;
+	background:#eee;
+	text-align:center;
+	border-top:2px dashed #ccc;
+	border-bottom:2px dashed #ccc;
+	margin:10px 0;

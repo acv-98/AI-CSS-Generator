@@ -1,0 +1,8 @@
+background: url(../images/prettyPhoto/light_rounded/sprite.png) -88px -53px no-repeat; 
+.pp_gallery a {
+border: none !important;
+display: none !important;
+height: 146px;
+padding: 2px !important;
+width: 235px;
+  opacity: 1;

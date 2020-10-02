@@ -1,0 +1,8 @@
+  font-family: 'Lora', serif;
+  color: #ffffff;
+    color: #a0a0a0;
+    font-family: "Lora";
+    font-size: 0.875rem;
+    font-style: italic;
+    font-weight: 400;
+    display: block;

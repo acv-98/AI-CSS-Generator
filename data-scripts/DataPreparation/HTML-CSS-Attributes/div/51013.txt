@@ -1,0 +1,4 @@
+    font-family: 'Ubuntu', sans-serif;
+    font-size:3.750rem;
+    font-weight: 700;
+    line-height: 4.5rem;

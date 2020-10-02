@@ -1,0 +1,13 @@
+	margin-top: 3px;
+	list-style: none;
+	padding: 0;
+	float: left;
+	background-color: #f5f4f4;
+	font-size: .6em;
+	font-style: normal;
+	color: #757575;
+	font-weight: 400;
+	position: relative;
+	text-transform: uppercase;
+	border: 1px solid #d0d0d0;
+	text-decoration: none;

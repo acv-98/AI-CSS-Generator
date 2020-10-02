@@ -1,0 +1,4 @@
+  font-size: 50px;
+  text-decoration: none;
+  text-align: center;
+  display: block;

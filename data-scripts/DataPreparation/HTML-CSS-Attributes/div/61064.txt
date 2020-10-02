@@ -1,0 +1,2 @@
+ margin:0 auto; padding:0 40px; width:890px; padding:0 40px 24px; border-bottom:1px solid #c5c5c5;
+ border-top:none;

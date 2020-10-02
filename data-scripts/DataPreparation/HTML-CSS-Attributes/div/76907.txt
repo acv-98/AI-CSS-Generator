@@ -1,0 +1,9 @@
+        margin: 80px auto 0;
+        max-width: 630px;
+    border: 1px solid rgb(6, 30, 55);
+    border-radius: 6px;
+    box-shadow: 2px 4px 5px 3px rgba(0, 0, 0, 0.15);
+    height: 322px;
+    margin-left: 105px;
+    margin-top: 150px;
+    width: 100%;

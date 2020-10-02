@@ -1,0 +1,10 @@
+  height: 1px;
+  position: relative;
+  margin-top: 65px;
+  left: 188px;
+  right: 188px;
+  top: 0;
+  background-color: #171616;
+  content: '';
+    left: 30px;
+    right: 30px;

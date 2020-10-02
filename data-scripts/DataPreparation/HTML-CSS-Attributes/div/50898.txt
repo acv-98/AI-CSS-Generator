@@ -1,0 +1,6 @@
+	float:left;
+	width:478px;
+	height:335px;
+	padding:21px 0 0 21px;
+	list-style:none;
+	border:1px solid #938686;

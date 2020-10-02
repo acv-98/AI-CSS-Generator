@@ -1,0 +1,16 @@
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+	line-height: auto;
+    border: 1px solid #799C01;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 0 #9BCB76 inset;
+    color: white;
+    position: relative;
+    text-shadow: 0 1px 0 #424F1C;
+	text-decoration: none;
+	margin: 15px 0;
+	text-align: center;
+	font-weight: bold;
+	padding: 0.3em 0.7em;
+	background-color: #A5C100;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#6D8901), to(#A5C100));

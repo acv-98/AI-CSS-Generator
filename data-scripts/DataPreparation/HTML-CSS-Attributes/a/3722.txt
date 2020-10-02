@@ -1,0 +1,2 @@
+	background:url(images/button-rarr.gif) right center no-repeat;
+	padding-right:11px;

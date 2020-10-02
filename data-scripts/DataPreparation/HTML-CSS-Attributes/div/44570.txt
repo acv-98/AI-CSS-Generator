@@ -1,0 +1,9 @@
+        max-width: 100%;
+        margin-left:0;
+        padding: 30px 10px 0px 30px;
+		
+    background: #fff;
+	min-height: 280px;
+    color:#232323;
+    font-size:1.4375rem;
+    line-height: 2rem;

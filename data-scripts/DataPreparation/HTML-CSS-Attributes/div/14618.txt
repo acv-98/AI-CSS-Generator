@@ -1,0 +1,7 @@
+    color:#fff;
+    margin-bottom:30px;
+    font-size:2rem;
+    padding: 2px;
+    letter-spacing: .03rem;
+    display: inline-block;
+    font-family: 'ralewayregular'; 

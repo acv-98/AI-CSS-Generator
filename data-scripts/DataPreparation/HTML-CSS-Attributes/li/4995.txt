@@ -1,0 +1,12 @@
+	color: #999999;
+	text-decoration: none;
+	cursor: default;
+	background-color: transparent;
+ *background-color: #d9d9d9;
+	background-image: none;
+	opacity: 0.65;
+	filter: alpha(opacity=65);
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+background-position:0 -96px;cursor:defaultbackground-position:-32px -96px;cursor:defaultbackground-position:0 -87px;cursor:defaultbackground-position:-22px -87px;cursor:default

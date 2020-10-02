@@ -1,0 +1,5 @@
+	font-family: 'CharisSILItalic';
+	font-size: 21px;
+	line-height: 31px;
+	text-align: center;
+	margin-bottom: -2px;

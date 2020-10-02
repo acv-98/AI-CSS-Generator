@@ -1,0 +1,14 @@
+.top
+    display: block;
+    position: relative;
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-left: 0;
+    margin-bottom: 0;
+    content: "";
+    clear: both;
+    overflow: hidden;
+    float: left;
+    width: 25%;
+    height: auto;
+    border-radius: 5px;

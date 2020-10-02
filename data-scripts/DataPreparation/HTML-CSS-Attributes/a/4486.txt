@@ -1,0 +1,6 @@
+  display: block;
+  padding: 8px 15px;
+  cursor: pointer;
+	color: #94c045;
+  text-decoration: none;
+  margin-right: 10px;

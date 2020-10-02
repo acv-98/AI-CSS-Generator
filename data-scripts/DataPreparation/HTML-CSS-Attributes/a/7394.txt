@@ -1,0 +1,11 @@
+	display: block;
+	background-color: #5abeb2;
+	color: #fff;
+	font: 60px/60px 'Dorsa', sans-serif;
+	text-align: center;
+	margin-top: 9px;
+	padding-top: 7px;
+	padding-bottom: 2px;
+	line-height: 430px;
+	overflow: hidden;
+	height: 430px;

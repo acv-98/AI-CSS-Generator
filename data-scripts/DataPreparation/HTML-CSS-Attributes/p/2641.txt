@@ -1,0 +1,1 @@
+font:12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#FFF; font-weight:normal; padding-left:21px; background:url(../images/arrow1.gif) 0 2px no-repeat

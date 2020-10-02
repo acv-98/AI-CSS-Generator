@@ -1,0 +1,1 @@
+float:left; display:block; width:100%; margin-bottom:10pxwidth:100px; height:80pxfont-family:"Oswald",sans-serifborder-bottom:none; float:leftwidth:32%; margin-right:10pxmargin-right:0.add_bannercolor:#d083cf

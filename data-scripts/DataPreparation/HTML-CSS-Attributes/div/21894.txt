@@ -1,0 +1,6 @@
+ padding: 25px 30px; 
+.tm-blog-post-title {
+	color: #0066CC; 
+	font-size: 1.7rem; 
+	margin-bottom: 5%;
+ padding: 45px 50px; 

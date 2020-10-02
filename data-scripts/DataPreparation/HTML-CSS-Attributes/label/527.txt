@@ -1,0 +1,6 @@
+  float: left;
+  line-height: 18px;
+  padding-left: 8px;
+  font-size:12px;
+  text-decoration: none;
+  outline:none;

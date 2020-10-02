@@ -1,0 +1,2 @@
+	color: #fff;
+	background: #453D2D url(../img/bg/patterns/obl-1x1-light.png);	

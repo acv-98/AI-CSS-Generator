@@ -1,0 +1,7 @@
+	width: 74x;
+	margin: 0px auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -80px;
+	margin-top: -37px;

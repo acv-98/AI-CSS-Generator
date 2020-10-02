@@ -1,0 +1,4 @@
+	color: #fff;
+	-webkit-box-shadow: 0px 1px 0px #060506;
+	-moz-box-shadow: 0px 1px 0px #060506;
+	box-shadow: 0px 1px 0px #060506;

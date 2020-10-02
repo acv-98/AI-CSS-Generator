@@ -1,0 +1,4 @@
+	background: #fff;
+    outline: 0;
+		background-color: #fff;
+		margin-bottom: 30px;

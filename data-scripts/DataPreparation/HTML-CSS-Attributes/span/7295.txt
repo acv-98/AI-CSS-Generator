@@ -1,0 +1,7 @@
+  font-size: 50px;
+  margin-bottom: 10px;
+  color: #0C9CEE;
+  font-weight: 100;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: .1em;

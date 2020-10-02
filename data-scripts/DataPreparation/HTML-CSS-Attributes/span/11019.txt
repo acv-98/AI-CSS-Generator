@@ -1,0 +1,17 @@
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    display: block;
+    width: 312px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    background: url(../images/capt_bg.png) 0 0 repeat;
+    color: #fff;
+    font-size: bold;
+    line-height: 30px;
+    padding: 7px 30px 8px;
+    transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;

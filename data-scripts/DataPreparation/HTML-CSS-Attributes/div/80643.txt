@@ -1,0 +1,9 @@
+margin:0;padding:0;vertical-align:middle;	.accordion div.parent .accordion-caption {
+		background:url(../images/design/accordion-arrow.png) no-repeat transparent;
+		width:23px;
+		height:23px;
+		float:right;
+		position:relative;
+		top:8px;
+		margin-right:10px;
+min-height:31px;padding:9px 0 0 10px;font-weight:normal;font-family:"Open Sans";font-size:14px;border:1px solid #e1e0e0;margin:0;background:#ecebeb;

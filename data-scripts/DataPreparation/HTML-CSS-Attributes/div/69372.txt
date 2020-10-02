@@ -1,0 +1,16 @@
+text-align:center;-webkit-tap-highlight-color:transparent
+@media (min-width: 992px) and (max-width: 1300px) {
+    .header .header-bottom .menu ul li a {
+        padding-left: 17px;
+        display: none;
+    background: #1cb060 none repeat scroll 0 0;
+    border-radius: 50%;
+    font-size: 25px;
+    height: 50px;
+    line-height: 43px;
+    width: 50px;
+    margin: 50px 0;
+    color: #fff;
+    cursor: pointer;
+    overflow: hidden;
+    margin-top: 10px;

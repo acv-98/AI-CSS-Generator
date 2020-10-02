@@ -1,0 +1,15 @@
+   font: 11px/24px opensans-regular, sans-serif;
+   color: #A1A1A1;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   display: block;
+   margin-right: 8px;
+   text-align: right;
+ content: "Categories";  display: block;  display: none; .post .post-image {
+  width: 100%;
+ display: inline    .post .post-meta .date:before,
+ content: none    .post .post-meta .date {
+      font: 13px/18px opensans-bold, sans-serif;
+      color: #3D4149;
+      display: inline;
+      margin-right: 5px;

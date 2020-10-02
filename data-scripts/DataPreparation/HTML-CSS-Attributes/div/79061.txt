@@ -1,0 +1,12 @@
+  border: 0 none;
+  border-radius: 0;
+  color: #696763;
+  padding:0px;
+	display:inline-block;
+   transition: all 0.9s ease 0s;
+  -moz-transition: all 0.9s ease 0s;
+  -webkit-transition: all 0.9s ease 0s;
+  -o-transition: all 0.9s ease 0s;
+	padding: 8px 10px;
+	float: none !important;
+	text-align: center;

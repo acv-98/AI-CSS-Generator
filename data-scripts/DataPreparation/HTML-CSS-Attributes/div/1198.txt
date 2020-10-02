@@ -1,0 +1,15 @@
+    background: #d83f87 none repeat scroll 0 0;
+    bottom: -30px;
+    left: 30px;
+    padding: 15px;
+    position: absolute;
+    right: 30px;
+    text-align: center
+    font-size: 20px;
+    line-height: 25px;
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+        bottom: -15px;
+        left: 15px;
+        right: 15px;
+        font-size: 18px;

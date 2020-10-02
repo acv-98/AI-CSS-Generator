@@ -1,0 +1,10 @@
+  color: #3a87ad;
+  border-color: #3a87ad;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  background-color: #d9edf7;
+ font-size: 13px; font-family: 'Open Sans', sans-serif; color: #277DCE; font-style: normal; font-weight: 400;     background: url("../images/icons/message/info.png") no-repeat scroll 15px center #E6EBF0;
+    border: 1px solid #89BECD;
+    color: #277DCE;
+ position: relative; font-size: 12px; font-weight: normal; top: 2px; display: block; color: gray;  top: 14px; color: #576e1f; text-shadow:none; 

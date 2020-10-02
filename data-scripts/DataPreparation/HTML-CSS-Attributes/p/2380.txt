@@ -1,0 +1,1 @@
+display:block; margin:0; padding:6px 0 10px 60px; font-size:12px; font-weight:bold; color:#80AA47; background:url("../images/cite.png") top left no-repeat #E8E8E8;color:#515151; background-color:#E8E8E8;

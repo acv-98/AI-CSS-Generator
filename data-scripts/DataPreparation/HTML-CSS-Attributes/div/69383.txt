@@ -1,0 +1,10 @@
+        margin-top: 30px;
+        padding: 0px 0;
+    background-image: url(img/count.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+    font-size: 60px;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    border-left: 1px solid #2be587;

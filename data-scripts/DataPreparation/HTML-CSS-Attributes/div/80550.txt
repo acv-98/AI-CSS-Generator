@@ -1,0 +1,1 @@
+margin-bottom:15px;max-width:168px;margin:0 13px 10px 0;font-size:13px;max-width:129px;max-width:193px;margin-bottom:24px;left:0;background:url(../images/design/shadow-portfolio-three.png) transparent;height:15px;width:299px;width:96%;max-width:96%; width: 280px;  width: 220px; 

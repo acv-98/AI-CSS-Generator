@@ -1,0 +1,11 @@
+  display: none;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.8;
+  margin-bottom: 30px;
+  color: #7b7b7b;
+    padding-left: 15px;
+    padding-right: 15px;

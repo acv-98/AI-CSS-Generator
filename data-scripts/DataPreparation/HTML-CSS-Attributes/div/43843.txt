@@ -1,0 +1,9 @@
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+	text-align:center;	
+	text-transform:none;
+	font-size:14px;
+	margin-top:-5px;
+	font-style:italic;
+	color:#666;

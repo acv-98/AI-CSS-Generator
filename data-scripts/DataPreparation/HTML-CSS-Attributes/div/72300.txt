@@ -1,0 +1,9 @@
+		height: 50vh;
+		width: 90vw;
+		grid-column-start: 1;
+		grid-column-end: 4;
+		margin: 5vw!important;
+		margin-bottom: 0!important;
+margin-bottom: 5vw!important;	.footer_area {
+		background-color: rgba(255,255,255,.5);
+		background-size: cover;

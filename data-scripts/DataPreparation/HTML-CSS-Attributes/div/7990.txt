@@ -1,0 +1,4 @@
+	width: 96%;
+	max-width: 1020px;
+		max-width: 490px;
+		width: 90%;

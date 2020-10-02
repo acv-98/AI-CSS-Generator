@@ -1,0 +1,3 @@
+	background:#fff url(../images/bottombg.jpg) 0 0 repeat-x;
+	width:1000px;
+	float:left;

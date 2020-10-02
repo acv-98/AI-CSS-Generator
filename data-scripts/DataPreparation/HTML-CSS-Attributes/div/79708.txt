@@ -1,0 +1,3 @@
+	background: url(../images/slide.jpg) center 0 no-repeat;
+	text-align: center;
+	position: relative;

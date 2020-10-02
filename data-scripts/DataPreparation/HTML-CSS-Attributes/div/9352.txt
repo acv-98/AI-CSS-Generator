@@ -1,0 +1,1 @@
+width:379px;background: url(../images/gray_tile.gif) #DEDEDE repeat-x;

@@ -1,0 +1,1 @@
+	border-right: 1px dotted #999;

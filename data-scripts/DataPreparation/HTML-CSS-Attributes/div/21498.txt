@@ -1,0 +1,8 @@
+	background-color: #2f383d;
+	padding: 20px;
+	color: #fff;
+	display: inline-block;
+	margin-bottom: 10px;
+	margin-right: 5px;
+    background-color: #6CB670;
+    color: #fff;

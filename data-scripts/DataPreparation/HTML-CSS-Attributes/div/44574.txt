@@ -1,0 +1,1 @@
+    background: #835fa8;

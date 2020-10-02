@@ -1,0 +1,12 @@
+  color: #000;
+  border: 1px solid #e6e6e8;
+  background-image: none;
+  position: relative;
+  display: inline-block;
+  width: 75px;
+  height: 45px;
+  padding: 0;
+  opacity: 1;
+  line-height: 45px;
+  font-size: 24px;
+  text-shadow: none;

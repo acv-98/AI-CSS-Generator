@@ -1,0 +1,2 @@
+	background: url(../img/h1-bg.png) no-repeat -3px 3px;
+	text-indent: 9px;

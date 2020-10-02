@@ -1,0 +1,8 @@
+	margin:0;
+	list-style:none;
+	text-decoration:none;
+	padding-bottom:10px;
+	padding-left:18px;
+	background:url("../design/comment.gif") 0 50% no-repeat;
+	border-bottom:1px dotted #CCC;
+	color:#888;

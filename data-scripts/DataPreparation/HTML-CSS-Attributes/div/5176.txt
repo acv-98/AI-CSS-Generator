@@ -1,0 +1,4 @@
+	float: right;
+	font-weight: 400;
+	color: #555;
+	margin-top: -36px;

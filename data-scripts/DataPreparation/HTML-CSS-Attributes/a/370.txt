@@ -1,0 +1,6 @@
+  font-size: 35px;
+  text-transform: uppercase;
+  color: #000;
+  font-weight: 300;
+  text-decoration: none !important;
+  outline: none;

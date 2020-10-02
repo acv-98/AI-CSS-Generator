@@ -1,0 +1,25 @@
+ behavior:url(../js/PIE.htc); position:relative;
+.portfolio a:hover img{
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=40);
+	background: url(../images/spacer.png) 0 0 repeat;
+	text-align: center;
+float:left;position:relative; .sf-menu>li {
+	float: left;
+	position: relative;
+	margin-left: 0;
+	font-size: 18px;
+	font-family: 'Noto Sans', sans-serif;
+	color: #85423f;
+	text-transform: uppercase;
+	line-height: 20px;
+	z-index: 999;
+	border-radius: 5px;
+	display: block;
+	padding: 5px 14px 8px;
+	top:34px;
+	left: 0;
+	width: 100%;
+	margin-bottom: 1px;
+	padding-top: 0;
+	padding-left: 0 !important;
+	padding-right: 0 !important;

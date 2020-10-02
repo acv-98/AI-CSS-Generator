@@ -1,0 +1,2 @@
+width:308px; margin-left:26px; float:left;.col1-3 p:last-child, 
+margin-left:0;

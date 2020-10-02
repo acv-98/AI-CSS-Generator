@@ -1,0 +1,4 @@
+	height:304px;
+	background:url(images/header_text_bg.gif) top repeat-x;
+	margin:0;
+	padding:0;

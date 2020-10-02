@@ -1,0 +1,12 @@
+  background-image: none;
+  background-color: transparent;
+  color: #fff;
+  text-decoration: none;
+  z-index: 2;
+  display: block;
+  border-color: #0275d8;
+    -webkit-transform: translate3d(100%, 0, 0);
+            transform: translate3d(100%, 0, 0);
+	-webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
+	clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
+color:#f5bc04

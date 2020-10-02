@@ -1,0 +1,5 @@
+	text-align: center;
+	margin-bottom: 18px;
+	font: 24px/33px 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	color: #626262;

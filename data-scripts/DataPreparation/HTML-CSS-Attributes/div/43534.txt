@@ -1,0 +1,1 @@
+padding:10px; background:#E4E4E4font-family:bebasregular; font-size:20px; margin-bottom:5px; word-spacing:2pxborder:1px solid #999; margin-bottom:10px; width:100%border:1px solid #999; margin-bottom:10px; width:100%background:none repeat scroll 0 0 #CF0000; border:medium none; color:#FFF; font-weight:bold; padding:8px 20px; font-size:13pxcolor:#cf0000; margin-top:10px

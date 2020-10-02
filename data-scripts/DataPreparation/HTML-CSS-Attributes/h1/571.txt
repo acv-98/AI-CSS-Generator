@@ -1,0 +1,3 @@
+	float:left;
+	display:inline;
+	margin:8px 1em 0.5em 0;

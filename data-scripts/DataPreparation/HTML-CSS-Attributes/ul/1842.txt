@@ -1,0 +1,11 @@
+    margin-bottom: 0px;
+    border: 0px;
+    border-radius: 0px;
+    background-color: #fff;
+    padding: 20px 0;
+    transition: all 0.3s;
+    padding-top: 2px;
+    width: 120px !important;
+    color: #EA6045;
+		background: rgba(28,74,90, 0.9);
+    text-transform: uppercase;

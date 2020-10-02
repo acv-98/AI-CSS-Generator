@@ -1,0 +1,10 @@
+	behavior: url(js/PIE.htc);
+	position: relative;
+    margin-bottom: 2px;
+    padding-top: 79px;
+    font-size: 18px;
+    padding-left: 21px;
+    background: url(../images/marker.png) 0 6px no-repeat;
+    margin-top: 10px;
+    padding-right: 22px;
+    border-radius: 11px;

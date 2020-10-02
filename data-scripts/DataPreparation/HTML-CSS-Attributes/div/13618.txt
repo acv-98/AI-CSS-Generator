@@ -1,0 +1,2 @@
+ width: 96.5% !important; padding:1.5%;   
+ border: 10px solid rgba(255,255,255,0.07); border-bottom:0px; max-width:100%; height:auto !important;  height: auto !important; 

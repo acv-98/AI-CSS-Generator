@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	width:960px;
+	background:url(../images/content_bg.gif) repeat left top;
+	float:right;
+	margin-bottom:0;
+	border:none;
+	border-bottom:1px solid #2b2b2b;
+	color:#7e7e7e;
+	font-size:11px;
+	line-height:16px;
+	text-align:left;
+	display:block;
+	text-decoration:none;

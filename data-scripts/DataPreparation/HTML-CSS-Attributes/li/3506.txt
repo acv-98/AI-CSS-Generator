@@ -1,0 +1,13 @@
+float:leftbackground: url(../img/icons/social/twitter.png) no-repeat;
+.twitter ul{
+	margin-left:0;
+	list-style:none;
+    float: left;
+    margin-right: 15px;
+    display: block;
+    padding-bottom: 5px;
+    border-bottom: 1px dashed #efefef;
+    margin-bottom: 20px;
+    list-style: none;
+border: none;.subhead {
+  text-align: left;

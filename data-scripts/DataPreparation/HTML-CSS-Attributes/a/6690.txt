@@ -1,0 +1,1 @@
+ padding: 15px 25px; font-size: 10px;  border: solid 1px #bbb; padding: 15px 50px; color: #fff; text-transform: uppercase; letter-spacing: 3px; font-weight: 400;  border: solid 1px #64c29e; 

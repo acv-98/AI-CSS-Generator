@@ -1,0 +1,13 @@
+	padding-left: 0px;
+	font-size: 26px;
+	padding-top: 52px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+	color: #09294c;
+	padding-bottom: 25px;
+	text-transform: uppercase;
+	display: block;
+	margin: 0px;
+	line-height: 32px;
+	background: #06203c;
+	border-radius: 2px;

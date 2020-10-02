@@ -1,0 +1,11 @@
+input.nick, input.e-mail, input.website, textarea.write-comment{
+	width: 340px;
+	height: 30px; 
+	background: #ededed; 
+	border: none; 
+	outline: none; 
+	margin:10px 0; 
+	color: #888; 
+	font-size: 12px; 
+	line-height: 30px; 
+	padding-left: 10px;

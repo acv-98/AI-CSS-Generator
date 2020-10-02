@@ -1,0 +1,9 @@
+  width: 100%;
+  margin-bottom: 30px;
+  text-align: center;
+	list-style: none;
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 22px;
+	color: #fff;
+	padding: 0 10px;

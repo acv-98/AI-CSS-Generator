@@ -1,0 +1,8 @@
+  margin-bottom: 4em;
+  font-size: 45px;
+  line-height: 60px;
+    font-size: 35px;
+    line-height: 50px;
+  font-family: "Playfair Display", times, serif;
+  font-style: italic;
+  font-weight: 400;

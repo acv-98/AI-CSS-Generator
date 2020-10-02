@@ -1,0 +1,2 @@
+    background: url("../assets/img/60.png");
+	padding-bottom: 60px;

@@ -1,0 +1,18 @@
+  background-image: url("../images/sprite.png");
+  background-repeat: no-repeat;
+  display: -moz-inline-box;
+  *display: inline;
+  zoom: 1;
+  vertical-align: middle;
+  div.selector:focus, div.checker:focus, div.button:focus, div.radio:focus, div.uploader:focus {
+  margin: 0;
+    width: 18px;
+    display: -moz-inline-box;
+    *display: inline;
+    zoom: 1;
+    text-align: center;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -moz-opacity: 0;
+    border: none;
+    background: none;

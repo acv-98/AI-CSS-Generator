@@ -1,0 +1,10 @@
+	list-style: none;
+	text-decoration: none;
+	margin : 3px 0 2px 0;
+	padding: 0;
+	padding : 2px 0 0px 5px;
+	border-bottom: 1px dotted #ccc;
+	background: #EBEBEB;
+	text-decoration : none;
+	background-image : none;
+	color: #333;

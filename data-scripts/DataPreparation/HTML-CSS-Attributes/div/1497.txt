@@ -1,0 +1,7 @@
+  margin-right: -15px;
+  margin-left: -15px;
+  content: '\0020';
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;

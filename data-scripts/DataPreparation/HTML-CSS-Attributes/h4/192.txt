@@ -1,0 +1,3 @@
+ border-color: #cfcfcf; 	border-bottom: 1px solid #CFCFCF;
+	color: #525050;
+	margin-bottom: 27px;

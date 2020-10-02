@@ -1,0 +1,1 @@
+display:inline; float:left; position:relative; width:100%; height:448pxwidth:100%; height:100%opacity:1.add_banner.navbar-collapse.top_nav.latest_newsarea span

@@ -1,0 +1,1 @@
+ background: url(images/laquo.png) no-repeat 0 0; width: 11px; height: 8px; display: block; 

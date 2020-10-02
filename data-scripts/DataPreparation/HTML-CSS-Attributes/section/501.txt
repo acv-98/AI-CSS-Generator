@@ -1,0 +1,14 @@
+  display:block;
+  width:540px;
+  position:relative;
+  height:90px;
+  background:#2f363e;
+  z-index:1000;
+  margin:0 auto;
+   color:white;
+   font-weight:700;
+   font-size:30px;
+   width:200px;
+   line-height:90px;
+   float:left;
+   list-style: none;

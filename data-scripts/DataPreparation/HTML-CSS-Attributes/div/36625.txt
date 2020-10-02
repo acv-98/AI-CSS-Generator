@@ -1,0 +1,4 @@
+	background: #5bc2ce;
+	border-color: #379eaa;
+	text-shadow: 0 0 1px #277d87;
+	color: #277d87;

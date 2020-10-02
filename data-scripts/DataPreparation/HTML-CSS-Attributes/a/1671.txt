@@ -1,0 +1,1 @@
+ background: url(../img/social-icons/circular/evernote_32.png);  background: url(../img/social-icons/rounded/evernote_32.png); 

@@ -1,0 +1,20 @@
+background:url(../images/tabRepeatInactive.png) repeat-x #f9f9f9;border: 1px solid #dedede;  *zoom: 1;
+  display: table;
+  content: "";
+  line-height: 0;
+  clear: both;
+  float: left;
+  padding-right: 12px;
+  padding-left: 12px;
+  margin-right: 2px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #ebd90b;
+  border-color: transparent;
+background-image:url("../img/glyphicons-halflings-white.png");*zoom:1;clear:both;float:left;padding-right:12px;padding-left:12px;margin-right:2px;line-height:14px;padding-top:8px;padding-bottom:8px;margin-top:2px;margin-bottom:2px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;color:#ffffff;background-color:#dd4814;margin-bottom:3px;margin-bottom:1px;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;color:#ffffff;background-color:#999999;border-color:#999999;.navbar .nav-collapse .nav li>a

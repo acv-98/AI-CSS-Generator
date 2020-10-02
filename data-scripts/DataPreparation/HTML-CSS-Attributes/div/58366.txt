@@ -1,0 +1,1 @@
+background:url(images/border-side.png) left top repeat-y;padding-left:1px

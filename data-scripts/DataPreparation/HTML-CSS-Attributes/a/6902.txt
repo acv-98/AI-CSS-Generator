@@ -1,0 +1,8 @@
+  width: 350px;
+  height: 100px;
+  background-image: url("../img/footer_image.png");
+  background-size: contain;
+  background-position: center right;
+  background-repeat: no-repeat;
+  float: right;
+  opacity: 0.2;

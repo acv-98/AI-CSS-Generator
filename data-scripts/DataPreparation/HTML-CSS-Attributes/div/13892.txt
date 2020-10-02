@@ -1,0 +1,14 @@
+	color: #fff;
+	overflow: hidden;
+	padding: 0 10px 20px;
+	position: relative;
+	text-align: center;
+	margin-bottom: 15px;
+	box-shadow: 0px 0px 0px transparent;
+    font: 600 20px/20px 'Open Sans', sans-serif;
+	display: block;
+	background-color: #92ce0a;
+	padding-left: 21px;
+	padding-top: 26px;
+	padding-bottom: 25px;
+    width: 100%;

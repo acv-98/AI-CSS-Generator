@@ -1,0 +1,17 @@
+	text-decoration:none;
+	color:#202020;
+	position:relative;
+	padding:14px 25px;
+	line-height:1em;
+	border:solid 1px #C0C0C0;
+	text-transform:uppercase;
+	font-weight:500;
+	letter-spacing:2px;
+	-webkit-transition:all .3s ease;
+	-moz-transition:all .3s ease;
+	transition:all .3s ease;
+	background:transparent;
+	display:inline-block;
+	*display:inline;
+	*zoom:1;
+	border-color:#202020;

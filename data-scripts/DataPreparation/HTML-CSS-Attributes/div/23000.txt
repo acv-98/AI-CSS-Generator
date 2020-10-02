@@ -1,0 +1,12 @@
+  color: #78ADC9;
+  display: inline;
+  float: left;
+  width: 100%;
+  margin-top: 0px;
+  font-size: 24px;
+  font-weight: 600;  
+  text-transform: uppercase;
+  border-bottom: 1px solid #eeeeee;
+  margin-bottom: 12px;
+  padding-bottom: 12px;
+font-size: 20px;font-size: 13px;font-size: 18px;

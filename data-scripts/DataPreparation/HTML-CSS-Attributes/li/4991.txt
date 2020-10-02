@@ -1,0 +1,1 @@
+margin:0; padding:0; margin-bottom:20px; float:left; width:100%;width:100%; clear:both; float:left; padding:0; list-style-type:none; margin:0; position:relative;float:left; width:569px;float:right;text-decoration:none; font-size:10px;clear:both; margin-top:10px;text-align:center; display:block;	

@@ -1,0 +1,6 @@
+
+#features {
+   background: #fff;
+   padding-top: 96px;
+   padding-bottom: 78px;
+   overflow: hidden;

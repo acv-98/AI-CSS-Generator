@@ -1,0 +1,16 @@
+	width: 45px;
+	height: 45px;
+	display: block;
+	position: absolute;
+	right: 0;
+	top: 0;
+	padding: 0;
+	margin: 0;
+	line-height: 45px;
+	text-align: center;
+	cursor: pointer;
+	color: #FFF;
+background: #000 url('../images/img-sprite.png') no-repeat 0px 1px;
+z-index: 90;
+	background: #c0c0c0 url('../images/img-sprite.png') no-repeat 0px 1px;
+	z-index: 11;

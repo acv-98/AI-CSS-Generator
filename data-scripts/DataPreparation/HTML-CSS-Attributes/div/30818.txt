@@ -1,0 +1,5 @@
+	font-size: 18px;
+	color: #515151;
+	margin: 0px;
+	line-height:21px;
+font-size:14px;color:#0485b5;

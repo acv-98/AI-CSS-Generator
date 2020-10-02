@@ -1,0 +1,1 @@
+float: none !important;background-color: #ffd200;margin-right: 0px;

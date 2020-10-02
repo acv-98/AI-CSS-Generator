@@ -1,0 +1,1 @@
+ padding-bottom: 15px; position: relative; margin-right: -22px; padding-left: 14px; width: 948px;  width: 278px; float: left; padding-right: 38px;  width: 295px; float: left; padding-right: 43px; padding-left: 28px; 

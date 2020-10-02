@@ -1,0 +1,7 @@
+	left: 572px;
+	top: 46px;
+	z-index: 3;
+		left: 425px;
+		width: 192px  !important;
+		height: 309px; 
+		top : 140px;

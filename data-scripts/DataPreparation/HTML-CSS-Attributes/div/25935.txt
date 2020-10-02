@@ -1,0 +1,11 @@
+	float: right;
+	padding: 55px 0 0;
+	width: 215px;
+	color: #7C6B4F;
+	font-size: 16px;
+	text-shadow: none;
+	background: none;
+	list-style: disc outside;
+	overflow: visible;
+	line-height: 24px;
+	text-decoration: none;

@@ -1,0 +1,1 @@
+float:left; width:225px; text-align:justify; color:#cc3433; padding:0 0 15px 26px

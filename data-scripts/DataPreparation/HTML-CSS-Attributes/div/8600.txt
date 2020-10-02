@@ -1,0 +1,6 @@
+ border-top: 7px solid #10a5cd; .about_box_title {
+	padding: 0 0 0 5px;
+	border-left: 2px solid #10a5cd;
+	margin: 20px 0px;
+ max-width: 410px; @media screen and (max-width: 1199px) and (min-width: 992px) {
+	

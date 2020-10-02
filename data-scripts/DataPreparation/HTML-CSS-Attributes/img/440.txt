@@ -1,0 +1,6 @@
+	border:1px solid #e5e5e5;
+	width:950px;
+	padding-top:11px;
+	margin:0 auto 37px;
+	background:url(../images/border-top.gif) left 11px repeat-x;
+	padding-bottom:11px;

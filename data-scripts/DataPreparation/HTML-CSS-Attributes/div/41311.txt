@@ -1,0 +1,7 @@
+   font: 16px/30px notosans-bold, sans-serif;
+   color: #454545;
+   font-size: 14px;
+   line-height: 24px;
+   display: block;
+   font-family: notosans-bold, sans-serif;
+   margin: 0 5px;

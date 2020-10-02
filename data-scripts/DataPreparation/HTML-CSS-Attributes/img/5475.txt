@@ -1,0 +1,6 @@
+	float:right;
+	display:block;
+	padding:10px;
+	border:solid 1px #ac9f87;
+	margin:0 15px;
+	width:200px;

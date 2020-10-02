@@ -1,0 +1,13 @@
+	display:block;
+	position:absolute;
+	margin:20px 0 0 -52px;
+	padding:12px 0;
+	width:50px;
+	font:bold 23px/1em Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-decoration:none;
+	text-align:center;
+	background-color:#fcbe03;
+	border:2px solid #ede9df;
+	border-right:none;
+	float:left;

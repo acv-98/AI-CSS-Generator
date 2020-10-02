@@ -1,0 +1,7 @@
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: block;
+	color: #201f1c;
+	background:url(images/list.png) no-repeat center left;
+	text-decoration: none;

@@ -1,0 +1,16 @@
+	height:51px;
+	width:100%;
+	overflow:hidden;
+	float:left;
+	font-size:20px;
+	line-height:2.4em;
+	margin-right:5px;
+	background-color:#000;
+	text-decoration:none;
+	color:#f0f0f0;
+	background-image:url(../images/nav-bg.gif);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	text-align:center;
+	position:relative;
+	z-index:2;

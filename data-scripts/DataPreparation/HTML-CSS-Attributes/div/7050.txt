@@ -1,0 +1,5 @@
+	width:292px;
+	height:132px;
+	padding-left:8px;
+	padding-top:8px;
+	background:#d0d0c5;

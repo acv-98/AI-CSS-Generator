@@ -1,0 +1,8 @@
+  border-left: #555555 2px solid;
+  float: right;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin: 20px 0px 20px 20px;
+  width: 33%;
+  font-style: italic;
+  padding: 0 0 0 20px;

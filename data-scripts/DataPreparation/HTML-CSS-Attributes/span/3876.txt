@@ -1,0 +1,5 @@
+		display: none;
+	color: #717171;
+	font-size: 11px;
+	margin-top: -8px;
+	font-weight: lighter;

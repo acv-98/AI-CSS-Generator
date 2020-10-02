@@ -1,0 +1,12 @@
+	background: url(../images/imagegallink.jpg) no-repeat;
+	height: 53px;
+	width: 240px;
+	margin-top: 6px;
+	padding-left: 70px;
+	padding-top: 10px;
+	margin-left: 15px;
+	display: block;
+	font: bold 18px "Trebuchet MS", Verdana, Arial, sans-serif;
+	text-transform: uppercase;
+	color: #903F00;
+	text-decoration: none;

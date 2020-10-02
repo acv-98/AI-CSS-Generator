@@ -1,0 +1,5 @@
+    position: absolute;
+    top: -1px;
+    left: -13px;
+    width: 153px;
+    height: 125px;

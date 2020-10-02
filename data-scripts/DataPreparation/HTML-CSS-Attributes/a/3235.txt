@@ -1,0 +1,2 @@
+  -webkit-animation-name: fadeInUpBig;
+  animation-name: fadeInUpBig;

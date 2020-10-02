@@ -1,0 +1,2 @@
+	float:left;
+	margin-left:40px;

@@ -1,0 +1,12 @@
+ 	position: relative;
+  	top: 2px;
+  	right: -22px;
+  	line-height: 20px;
+	color: #FFFFFF;	
+	text-shadow: none;
+	-webkit-transition: opacity 0.1s linear 0s;
+	-moz-transition: opacity 0.1s linear 0s;
+	-ms-transition: opacity 0.1s linear 0s;
+	-o-transition: opacity 0.1s linear 0s;
+	transition: opacity 0.1s linear 0s;
+	opacity: 1;	

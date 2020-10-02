@@ -1,0 +1,8 @@
+    content: "";
+    position: absolute;
+    right: -40%;
+    top: 43%;
+    width: 180px;
+    height: 1px;
+    background-color: #ee997b;
+    z-index: 1;

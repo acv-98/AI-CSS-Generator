@@ -1,0 +1,8 @@
+	background:url(images/btn-add.gif) no-repeat 0 0;
+	width:109px;
+	height:19px;
+	display:block;
+	margin:0 auto;
+	position:absolute;
+	left:20px;
+	bottom:13px;

@@ -1,0 +1,8 @@
+	border-collapse:collapse;
+	width:100%;
+	margin:0 0 30px;
+	padding:10px;
+	border-bottom:1px solid #ddd;
+	font-weight:bold;
+	border-top:1px solid #ddd;
+	background:#fff;

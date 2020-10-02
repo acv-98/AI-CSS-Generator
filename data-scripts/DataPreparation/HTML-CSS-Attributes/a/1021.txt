@@ -1,0 +1,17 @@
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 260px;
+  width: 100%;
+  display: table;
+  overflow: hidden;
+  margin-bottom: 30px;
+  vertical-align: middle;
+  opacity: 0;
+  transition: 0.3s;
+  text-align: center;
+  font-size: 16px;
+  transform: translate3d(0, -15px, 0);
+  font-weight: 700;
+  color: #333333;

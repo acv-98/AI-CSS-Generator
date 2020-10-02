@@ -1,0 +1,5 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/br-corner.png', sizingMethod='image');
+	position:absolute;
+	top:255px;
+	left:585px;

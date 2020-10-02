@@ -1,0 +1,10 @@
+	margin:0 auto;
+	padding:0;
+	width:970px;
+	background:#f00 url(images/menu.gif) repeat-x top;
+	border-bottom-left-radius:12px;
+	-moz-border-radius-bottomleft:12px;
+	-webkit-border-bottom-left-radius:12px;
+	border-bottom-right-radius:12px;
+	-moz-border-radius-bottomright:12px;
+	-webkit-border-bottom-right-radius:12px;

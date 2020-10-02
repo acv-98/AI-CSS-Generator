@@ -1,0 +1,3 @@
+	background:url(../images/arrow2.gif) no-repeat 100% 5px;
+	padding-right:17px;
+	font-weight:bold;

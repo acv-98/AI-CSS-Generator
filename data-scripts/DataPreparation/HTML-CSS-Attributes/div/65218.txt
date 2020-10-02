@@ -1,0 +1,15 @@
+	min-height:347px;
+	height:auto!important;
+	padding:0 0 50px 60px;
+	width:505px;
+	color:#000;
+	font-size:1.17em;
+	line-height:1.43em;
+	font-family:Arial, Helvetica, sans-serif;
+	margin-bottom:20px;
+	text-decoration:none;
+	display:inline-block;
+	text-transform:uppercase;
+	background:url(../images/button-left.png) no-repeat left top;
+	font-style:normal;
+	font-weight:normal;

@@ -1,0 +1,6 @@
+	background: #6e9bca;
+	width: 25px;
+	height: 7px;
+	display: block;
+	position: absolute;
+	top: 78px;

@@ -1,0 +1,15 @@
+	background: #333 url('../images/bg4.png') repeat;
+    color: #FFFFFF;
+    display: block;
+    float: right;
+    height: 280px;
+    padding: 20px;
+    position: absolute;
+    right: 0;
+    width: 342px;	
+	color: #fff;
+	margin-top: 10px;
+	font-size: 11px;
+	margin-left: 70px;
+	font-family:'Anaheim';
+	line-height:24px;

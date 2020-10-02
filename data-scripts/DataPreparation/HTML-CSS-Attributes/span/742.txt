@@ -1,0 +1,6 @@
+	display: block;
+	margin-top: 5px;
+	font-size: 12px;
+	color: #ffffff;
+	font-weight: normal;
+	letter-spacing: 3px;

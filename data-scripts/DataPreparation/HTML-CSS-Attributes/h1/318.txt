@@ -1,0 +1,1 @@
+font-size:13px; color: #333; font-size: 15px; padding-bottom: 20px; line-height: 0; padding-top: 20px; background: #eee; padding-left: 20px; padding-right: 20px; margin-bottom: -5px; font-family: OpenSansRegular; border: 1px solid #e7e7e7; font-weight: bold; 

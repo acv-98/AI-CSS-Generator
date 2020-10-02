@@ -1,0 +1,2 @@
+        background: url("../assets/images/testimonial4.png") left center no-repeat;
+        padding: 5px 100px;

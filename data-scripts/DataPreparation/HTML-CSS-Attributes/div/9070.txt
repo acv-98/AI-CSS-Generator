@@ -1,0 +1,1 @@
+ background: #FFF; padding: 6px; border: 1px solid #E9EAED; margin-top: 70px; 

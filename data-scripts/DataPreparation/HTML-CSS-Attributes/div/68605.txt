@@ -1,0 +1,3 @@
+	background:url(../images/textarea-bg.gif) no-repeat left top;
+	height:187px;
+	margin-bottom:14px;

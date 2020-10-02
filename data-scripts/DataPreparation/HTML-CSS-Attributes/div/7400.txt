@@ -1,0 +1,5 @@
+ float:left; border:#fff solid 4px; margin:9px 20px 0px 0px; color:#1491c1; overflow:hidden; width:53px; height:24px; line-height:24px; float:left; margin:15px 0px 20px 0px;border-bottom:#0c4680 solid 1px; margin-bottom:18px; 
+RIGHT CLASSES
+ float:left; margin-right:30px; background:#0d3d78; padding:5px;BOX CLASSES
+ border:none; color:#fff;  color:#1491c1; padding-bottom:10px; color:#fff; font-size:15px;FOOTER CLASSES
+ float:left; width:230px; float:left; list-style:none; color:#062c5b; font-weight:bold; color:#fff; font-size:12px; line-height:inherit; padding-top:20px; clear:both;color:#062c5b; text-decoration:none; color:#fff; color:#062c5b; font-weight:bold; font-size:12px;

@@ -1,0 +1,15 @@
+	height:23px;
+	width:100%;
+	overflow:hidden;
+	border:1px solid #115bbe;
+	padding:1px 3px 1px 3px;
+	float:right;
+	padding-top:5px;
+	text-decoration:none;
+	display:inline-block;
+	color:#35b3d8;
+	cursor:pointer;
+	margin-top:-4px;
+	background:url(../images/button-left1.png) no-repeat left top;
+	font-style:normal;
+	clear:both;

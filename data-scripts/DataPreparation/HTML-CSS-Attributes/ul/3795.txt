@@ -1,0 +1,9 @@
+  margin:0;
+  padding: 0;
+  text-align: left;
+  color: #dab074;
+  margin-right: 8px;
+  background: none;
+  font-weight: 300;
+    display: inline-block;
+    margin-right: 15px;

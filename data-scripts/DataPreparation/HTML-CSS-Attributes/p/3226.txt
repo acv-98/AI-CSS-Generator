@@ -1,0 +1,2 @@
+font:40px/40px 'Droid Sans',Arial,sans-serif; color:#60a56e; font-weight:normal; text-decoration:none;color:#d8892d; font-weight:bold;
+margin-bottom:20px;

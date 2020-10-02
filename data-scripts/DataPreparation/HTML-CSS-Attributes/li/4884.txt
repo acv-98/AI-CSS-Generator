@@ -1,0 +1,4 @@
+	background:#477CC6;
+	border:3px solid #477CC6; 
+	color: #FFF;
+	font-weight:700;

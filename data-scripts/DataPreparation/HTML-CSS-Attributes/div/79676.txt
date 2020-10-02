@@ -1,0 +1,8 @@
+	-moz-box-shadow: 0px 0px 5px #999;
+	-webkit-box-shadow: 0px 0px 5px #999;
+	box-shadow: 0px 0px 5px #999;
+	width: 600px;
+	display: inline;
+	text-align: left;
+	padding: 0px 0px 50px 0px;
+	font-weight: bold;

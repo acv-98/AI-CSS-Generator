@@ -1,0 +1,12 @@
+	display: list-item;
+	list-style: none;
+	padding: 0 0 0 .8rem;
+	position: relative;
+	content: "";
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: #999999;
+	left: -17px;
+	top: 11px;
+	vertical-align: middle;

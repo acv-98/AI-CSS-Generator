@@ -1,0 +1,9 @@
+	padding-bottom:6px;
+	width:445px;
+	height:100%;
+	margin-bottom:13px;
+	position:relative;
+	padding-left:114px;
+	left:1px;
+	top:4px;
+	display:block;

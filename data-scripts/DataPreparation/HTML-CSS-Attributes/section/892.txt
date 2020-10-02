@@ -1,0 +1,3 @@
+        background: #835fa8;
+        height: auto;
+        text-align: center;

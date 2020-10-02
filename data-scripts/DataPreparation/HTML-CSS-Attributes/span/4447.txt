@@ -1,0 +1,5 @@
+  margin-right: 5px;
+  color: #66D37E;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;

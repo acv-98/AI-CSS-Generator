@@ -1,0 +1,5 @@
+	display: inline;
+	float:left;
+	border: 2px solid #FFFFFF ;
+	outline: 1px solid #c5c5c5;
+	margin: 0px 20px 20px 0px;

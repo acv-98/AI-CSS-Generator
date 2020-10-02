@@ -1,0 +1,4 @@
+width:330px; float:left; margin-top:30px;color:#e18868; 
+SIDEBAR CLASSS    
+float:left; width:240px; margin-top:30px;padding-bottom:40px;color:#e18868; RIGHT SECTION CLASSES
+ width:270px; overflow:hidden; float:right; padding-top:30px;background:none; color:#fff; font-size:18px; font-weight:normal; padding:0px;padding-bottom:20px;float:left; padding-right:12px;border-bottom:#6e3942 solid 1px;color:#AC8586;line-height:40px; font-size:13px; background:url(../images/arrow.png) no-repeat left; padding-left:25px;border-bottom:none; text-decoration:none;color:#AC8586; text-decoration:none; color:#e18868;float:left; float:right; width:130px; line-height:18px; text-decoration:none; color:#1da1df; float:left; padding-top:20px; color:#1a202c;color:#e18868;float:right; padding-bottom:15px;SERVICES CLASSS    

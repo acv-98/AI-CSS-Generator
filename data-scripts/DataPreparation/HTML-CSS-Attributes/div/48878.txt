@@ -1,0 +1,4 @@
+	width:950px;
+	background-image:url(../images/sivo_block2.jpg);
+	background-repeat:no-repeat;
+	background-position:top;

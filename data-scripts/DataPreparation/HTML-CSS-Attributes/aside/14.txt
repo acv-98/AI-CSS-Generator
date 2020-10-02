@@ -1,0 +1,14 @@
+	padding: 0px 0px;
+	width: 310px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	float: left;
+	padding-right: 30px;
+		float: none;
+		position: static;
+		overflow: auto;
+    	margin: 0 auto 80px;   
+    	padding-right: 0;
+    	width: 310px;
+    	max-width: 100%;

@@ -1,0 +1,3 @@
+	border:1px solid #d4d5d5;
+	border-bottom:none;
+	background:url(../images/box1_bot.gif) bottom repeat-x

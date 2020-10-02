@@ -1,0 +1,1 @@
+width:105px;background:url(images/m6.png)background:url(images/m6-act.png)

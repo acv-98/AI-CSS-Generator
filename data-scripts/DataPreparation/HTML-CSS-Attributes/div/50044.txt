@@ -1,0 +1,4 @@
+    padding:195px 0;
+    max-width:515px;
+    color:#fff;
+	margin-top:80px;

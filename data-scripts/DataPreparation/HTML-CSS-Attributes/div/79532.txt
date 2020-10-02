@@ -1,0 +1,5 @@
+  text-align: left;
+    margin-top: 3px;
+    padding-right: 3px;
+    color: #01bacf;
+        text-align: center;

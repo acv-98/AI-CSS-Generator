@@ -1,0 +1,13 @@
+	background:#253f52;
+	line-height:40px;
+	padding:8px 20px;
+	border-radius:0;
+	display:inline-block;
+	color:#fff;
+	text-transform:none;
+	font-weight:300;
+	min-width:190px;
+	font-size:20px;
+	text-shadow:none;
+	letter-spacing:1px;
+	text-decoration: none;

@@ -1,0 +1,2 @@
+	clear:both;
+	height:30px;

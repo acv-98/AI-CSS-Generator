@@ -1,0 +1,4 @@
+	padding-bottom:10px;
+	color:#363636;
+	padding-left:26px;
+	background:url(../images/marker_2.gif) 2px 1px no-repeat;

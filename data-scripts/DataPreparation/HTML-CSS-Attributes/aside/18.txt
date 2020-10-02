@@ -1,0 +1,17 @@
+	margin-top:4%;
+	width:48%;
+	float:left;
+	margin-bottom:2%;
+	font-family:Cookie, Arial, Helvetica, sans-serif;
+	font-size:180%;
+	font-weight:normal;
+	text-align:center;
+	color:#f38094;
+	text-shadow: 0 1px 1px #dadada;
+	line-height:140%;
+	text-decoration:none;
+width:auto; margin:0;float:left;		display:block;
+		width:100%;
+		float:none;
+		clear:both;
+		margin-bottom:50px;

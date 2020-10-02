@@ -1,0 +1,10 @@
+  height: 450px;
+  z-index: 10;
+  background-color: #777;
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+color: #000000;background-color: #eb4800;color: #fff;display:inline-block;padding:4px 18px; width: auto;-ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';opacity: 0.8;background: none;color: #057C00;font-size: 3em; width: 6%;height: 450px;background-color: #FFF;bottom: 61px;    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;

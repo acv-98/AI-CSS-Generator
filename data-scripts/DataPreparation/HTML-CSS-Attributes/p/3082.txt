@@ -1,0 +1,7 @@
+   font: 20px/36px raleway-regular, sans-serif;
+   margin-bottom: 18px;
+   color: #9FA5AD;
+ text-align: center;    .slider-text {
+     margin-top: 42px;
+     margin-bottom: 30px;
+     width: 95%;

@@ -1,0 +1,5 @@
+ border-color: #dfdcdc;  max-width: 100%;     background: url("../images/icons/socials/google.png") no-repeat scroll 0 0 transparent;
+    border: 1px solid #CFCFCF;
+    padding: 3px;
+    display: block;
+ background: #fff; 

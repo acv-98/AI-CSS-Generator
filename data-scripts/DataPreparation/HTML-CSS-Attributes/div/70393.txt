@@ -1,0 +1,8 @@
+.main_work1_team_area .owl-theme .owl-dots .owl-dot span{
+    border-radius:50%;
+    background: #000;
+    text-align: center;
+    -webkit-tap-highlight-color: transparent;
+    top: 40px;
+    position: relative;
+    margin-top:30px;

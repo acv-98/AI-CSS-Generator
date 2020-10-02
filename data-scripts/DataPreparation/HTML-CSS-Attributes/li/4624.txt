@@ -1,0 +1,9 @@
+	padding:16px 0;
+	background-attachment:scroll;
+	background-image:url(../images/nav_r.png);
+	background-repeat:no-repeat;
+	background-position:right center;
+.topnav ul li.current_page_item a {
+	color:#093771;
+	text-shadow:1px 1px 0 #fff;
+	text-decoration:none;

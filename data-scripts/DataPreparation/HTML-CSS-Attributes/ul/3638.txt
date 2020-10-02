@@ -1,0 +1,4 @@
+    margin-top: 7px !important;
+    left: 0;
+    right: 0;
+    width: 100%;

@@ -1,0 +1,11 @@
+  float: left;
+  width: 180px;
+  padding-left: 1.5em;
+  margin-left: 1.5em;
+  border-left: 2px dotted #bcbfc4;
+  font-size: 13px;
+  line-height: 1.2;
+  color: #bcbfc4;
+  display: none;
+    display: block;
+  text-align: center;

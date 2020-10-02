@@ -1,0 +1,15 @@
+	border-bottom:1px dashed #c2c2c2;
+	padding-bottom:20px;
+	margin-bottom:20px;
+	position:relative;
+	float:left;
+	display:inline;
+	width:78px;
+	height:63px;
+	background:url(images/news-pointer.gif) no-repeat 0 0;
+	font-size:43px;
+	font-weight:bold;
+	color:#768070;
+	font-family:"Trebuchet MS", Arial, sans-serif;
+	padding-right:13px;
+	font-style:normal;

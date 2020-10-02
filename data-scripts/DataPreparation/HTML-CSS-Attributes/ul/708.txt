@@ -1,0 +1,9 @@
+	line-height:1.429em;
+	min-height:86px;
+	height:auto!important;
+	background:url(../images/icon-marker.gif) no-repeat left top;
+	padding:0 0 26px 98px;
+	padding-bottom:0;
+	display:inline-block;
+	padding-right:17px;
+	text-decoration:none;

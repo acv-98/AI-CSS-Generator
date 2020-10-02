@@ -1,0 +1,12 @@
+  margin-bottom: 0px;
+    margin-bottom: 20px;
+  float: left;
+  font-size: 34px;
+  color: #cccccc;
+  padding-left: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  line-height: 26px;
+  display: table-cell;
+  width: 100%;

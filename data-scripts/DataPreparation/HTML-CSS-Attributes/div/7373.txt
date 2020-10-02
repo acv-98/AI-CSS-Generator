@@ -1,0 +1,2 @@
+width:100%; overflow:hidden; border-bottom:1px solid #364658;width:100px; float:left;width:170px; float:left;border-bottom:none;font-family: 'Open Sans', sans-serif; font-size:15px; color:#96577a; text-decoration:underline;color:#576679;
+RIGHT COLUM CLASSS

@@ -1,0 +1,1 @@
+width:190px; float:leftmargin-bottom:10pxmargin-bottom:5pxmargin-left:5pxfont:10px/14px Tahoma, Geneva, sans-serif; background:url(../images/bullet.gif) 0 2px no-repeat; padding-left:17px; height:18px;color:#848484; text-decoration:none;color:#848484; text-decoration:underline;margin:0 20px 0 0

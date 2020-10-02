@@ -1,0 +1,5 @@
+  color: #c09853;
+  text-align: left;
+	float:left;
+	font-weight:700;
+	margin-bottom:10px;

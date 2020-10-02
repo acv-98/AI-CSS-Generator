@@ -1,0 +1,7 @@
+    margin: 0;
+    padding: 12px 0;
+    font: 14px/36px opensans-bold, sans-serif;
+    display: inline-block;
+    line-height: 24px;
+ margin-left: 5px;  color: #3d4145; .bottom-nav .sep {
+   color: #C0C7CE;

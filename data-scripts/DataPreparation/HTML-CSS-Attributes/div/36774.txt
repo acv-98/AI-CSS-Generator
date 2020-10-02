@@ -1,0 +1,12 @@
+	padding:0; 
+	margin:0; 
+	width:966px; 
+	height:53px; 
+	background: url(images/bg_menu.gif) top repeat-x; 
+	list-style:none; 
+	border:0; 
+	float: left; 
+	border-right:1px solid #303030; 
+	border-left:1px solid #0a0a0a; 
+	font:normal 14px Georgia, "Times New Roman", Times, serif; 
+	text-decoration:none; 

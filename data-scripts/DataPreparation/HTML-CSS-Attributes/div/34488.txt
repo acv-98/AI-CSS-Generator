@@ -1,0 +1,4 @@
+	width:240px;
+	height:151px;
+	margin:25px 0 0 0;
+	border-radius:7px;

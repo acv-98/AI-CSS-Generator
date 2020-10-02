@@ -1,0 +1,6 @@
+	width:175px;
+	background:#565656 url(../images/password-icon.png) left top no-repeat;
+	height:35px;
+	padding-left:35px;
+	margin-top:20px;
+	margin-bottom:20px;

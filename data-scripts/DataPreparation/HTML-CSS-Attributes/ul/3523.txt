@@ -1,0 +1,14 @@
+    color: #333;
+	text-shadow: 1px 1px #fff;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: all 0.4s ease-in-out;
+    background: transparent;
+  background-color: transparent;
+    background-color: transparent;
+    border: none;
+    padding-top: 10px;
+    border-color: transparent;

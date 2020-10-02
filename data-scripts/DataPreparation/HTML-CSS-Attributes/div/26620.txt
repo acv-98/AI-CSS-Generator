@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	width:922px;
+	background:url(images/footer_bg.gif) repeat-x center top;
+	line-height:normal;
+	color:#959595;
+	text-decoration:underline;
+	float:left;

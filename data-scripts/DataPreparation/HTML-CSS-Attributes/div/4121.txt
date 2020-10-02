@@ -1,0 +1,1 @@
+width:645px;margin:15px 0; margin-left:-25px; margin-right:-25px; padding:25px;border-top:1px solid #d0d0d0; border-bottom:1px solid #d0d0d0; background:#f5f5f5;

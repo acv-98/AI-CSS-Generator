@@ -1,0 +1,3 @@
+	padding:26px 1px 0 0;
+	list-style:none;
+	display:inline;

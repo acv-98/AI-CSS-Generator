@@ -1,0 +1,6 @@
+   background-color: #11ABB0;
+   color: #fff;
+ color: #F06000; #about {
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;

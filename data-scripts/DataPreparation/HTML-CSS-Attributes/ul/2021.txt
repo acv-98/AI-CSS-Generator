@@ -1,0 +1,18 @@
+  list-style-type: none;
+  height: 400px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+  -webkit-transition-property: background;
+  -moz-transition-property: background;
+  -o-transition-property: background;
+  -ms-transition-property: background;
+  transition-property: background;
+  background-position: -50px 0;
+  background-image: url(../img/homepage-slider/slider-bg1.jpg);
+  -webkit-transition-duration: 1.5s;
+  -moz-transition-duration: 1.5s;
+  -o-transition-duration: 1.5s;
+  transition-duration: 1.5s;

@@ -1,0 +1,1 @@
+border-bottom:1px solid;color:#FFFFFF; border-color:rgba(255,255,255,.2);

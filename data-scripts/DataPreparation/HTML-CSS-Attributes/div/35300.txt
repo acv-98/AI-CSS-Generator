@@ -1,0 +1,13 @@
+  display: table;
+  height: 350px;
+  width: 100%;
+  opacity: 0;
+  background: rgba(0, 0, 0, 0.3);
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+    opacity: 1;
+    background: transparent;
+  vertical-align: middle;
+  padding: 7px 10px;
+  color: #fff;

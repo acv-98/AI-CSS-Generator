@@ -1,0 +1,7 @@
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+  background-image: none;
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  transition: all 0.35s;

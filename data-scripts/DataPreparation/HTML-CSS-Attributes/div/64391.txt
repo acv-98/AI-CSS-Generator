@@ -1,0 +1,3 @@
+	background:url(../images/right-top-corner.png) no-repeat right top;
+	height:17px;
+	padding-right:151px;

@@ -1,0 +1,11 @@
+  height: 260px;
+  background: #fff;
+  display: table-cell;
+  vertical-align: middle;
+  opacity: 0;
+  transition: 0.3s;
+  text-align: center;
+  font-size: 16px;
+  transform: translate3d(0, -15px, 0);
+  font-weight: 700;
+  color: #333333;

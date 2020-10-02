@@ -1,0 +1,22 @@
+	font-family: 'Simple-Line-Icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	content: "\e028";
+font-family:Simple-Line-Icons;src:url(fonts/Simple-Line-Icons.eot);src:url(fonts/Simple-Line-Icons.eot?#iefix) format('embedded-opentype'),url(fonts/Simple-Line-Icons.woff) format('woff'),url(fonts/Simple-Line-Icons.ttf) format('truetype'),url(fonts/Simple-Line-Icons.svg#Simple-Line-Icons) format('svg');font-weight:400;font-style:normal * Swiper 3.3.1
+ * Most modern mobile touch slider and framework with hardware accelerated transitions
+ * 
+ * http://www.idangero.us/swiper/
+ * Copyright 2016, Vladimir Kharlampidi
+ * The iDangero.us
+ * Licensed under MIT
+ * Released on: February 7, 2016
+.swiper-container {
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;

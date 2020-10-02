@@ -1,0 +1,2 @@
+	background:url(images/bottom-star.gif) left center no-repeat;
+	padding-left:25px;

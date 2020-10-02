@@ -1,0 +1,8 @@
+    padding-left: 16px;
+    padding-top: 4px;
+    margin-bottom: 14px;
+    background: url(../images/quotes.png) 0 1px no-repeat;
+    font-style: italic;
+    margin-top: 46px;
+    color: #626161;
+    font-weight: 300;

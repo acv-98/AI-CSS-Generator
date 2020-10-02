@@ -1,0 +1,10 @@
+	display:block;
+	float:right;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#739fcd;
+	background:no-repeat left top;
+	margin:0;
+	padding:16px 0 0 0;
+	border:1px solid #dedede;

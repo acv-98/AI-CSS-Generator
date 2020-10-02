@@ -1,0 +1,7 @@
+	font:normal 2.2em 'FertigoProRegular', Arial, Helvetica, sans-serif!important;
+	width:475px;
+	float:right;
+	display:block;
+	margin-bottom:15px;
+	padding-bottom:10px;
+	border-bottom:solid 1px #ddd;

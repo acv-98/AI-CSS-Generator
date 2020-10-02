@@ -1,0 +1,1 @@
+border-top:none.slider_tittle.logo_area

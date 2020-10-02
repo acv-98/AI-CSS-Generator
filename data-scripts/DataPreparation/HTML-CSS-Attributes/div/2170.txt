@@ -1,0 +1,7 @@
+    width: 712px;
+  position: relative;
+  z-index: 10;
+  height: 180px;
+  overflow: hidden;
+  color: #fff;
+  float: left;

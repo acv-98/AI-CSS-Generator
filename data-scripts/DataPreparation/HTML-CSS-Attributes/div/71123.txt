@@ -1,0 +1,16 @@
+  background: #F2F2F2;
+  padding-bottom:25px;
+  max-width: 555px;
+  margin: 0 auto;
+    color: #666666;
+    text-transform: capitalize;
+    padding: 27px;
+    text-align: left;
+  margin-left: 225px;
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    margin-bottom: 21px;
+ margin-left: 0;  margin-bottom: 30px;  text-align: center;  margin-left: 0; 

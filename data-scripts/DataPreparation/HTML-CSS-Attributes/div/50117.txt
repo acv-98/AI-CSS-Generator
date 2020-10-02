@@ -1,0 +1,1 @@
+width:612px; background:url(images/box-bottom.gif) no-repeat 0 bottom; padding-top:12px; padding-left:11px; padding-bottom:10px

@@ -1,0 +1,6 @@
+  color: #a5d549;
+  text-align: left;
+  font-size: 15px;
+  text-decoration: none;
+  outline: none;
+    font-size: 14px;

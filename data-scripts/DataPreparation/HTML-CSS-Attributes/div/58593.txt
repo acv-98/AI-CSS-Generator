@@ -1,0 +1,9 @@
+	background: url(../images/services-bg.jpg) no-repeat;
+	background-size: 100% 100%;
+	min-height: 340px;
+	position: absolute;
+	width: 100%;
+	bottom: -19%;
+	z-index: -1;
+		bottom: -14%;
+		min-height: 300px;

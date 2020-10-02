@@ -1,0 +1,8 @@
+    width:130px;
+    height: 130px; 
+    background-color: #9fd7ef;
+    border-radius: 50%;
+    z-index: 999;
+    opacity: 1;
+    transition: 5ms;
+    margin: 5% auto;

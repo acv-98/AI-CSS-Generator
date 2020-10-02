@@ -1,0 +1,3 @@
+        color: #00aafe;
+    font-size: 22px;
+    font-weight: bold;

@@ -1,0 +1,6 @@
+			font-family: Arial;
+			font-size: 0.9em;
+			color: #CCCCCC;
+				color: #cccccc;
+				text-decoration: none;
+			margin-bottom: 5px;

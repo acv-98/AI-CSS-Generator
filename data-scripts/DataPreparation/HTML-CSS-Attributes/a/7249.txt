@@ -1,0 +1,14 @@
+	display:inline-block;
+	font-size:13px;
+	color:#fff;
+	text-decoration:none;
+	line-height:28px;
+	height:30px;
+	padding:0 19px;
+	background:url(../images/button_1.gif) 0 0px repeat-x #1d77e9;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	position:relative;
+	cursor:pointer
+	padding-right:16px;

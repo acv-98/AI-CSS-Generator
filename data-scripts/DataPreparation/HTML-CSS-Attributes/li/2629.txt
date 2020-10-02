@@ -1,0 +1,6 @@
+  background: #869791;
+    background-color:transparent;
+    border-bottom:3px solid #7b6c63;
+    color:#fff;
+    height:13px;
+    width:13px;

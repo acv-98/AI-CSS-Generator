@@ -1,0 +1,6 @@
+        font-size: 1.575rem;
+        margin-bottom: 30px;
+        max-width: 50%;
+    font-family: 'ralewaybold';
+    color:#202242;
+.feature .main_feature_content_area .main_feature_content .single_feature h3{

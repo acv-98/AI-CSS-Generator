@@ -1,0 +1,4 @@
+	background: #FFFFFF;
+    border: 0 none;
+	margin: 19px 15px 19px 0;
+    background-color: #eee;

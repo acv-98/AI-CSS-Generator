@@ -1,0 +1,5 @@
+	margin:23px 0 23px 0;
+	overflow:hidden;
+	float:left;
+	margin-right:40px;
+	width:180px;

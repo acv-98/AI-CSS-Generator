@@ -1,0 +1,2 @@
+    background: url(../images/about_bg.png)no-repeat right;
+        background-position: bottom 100px center;

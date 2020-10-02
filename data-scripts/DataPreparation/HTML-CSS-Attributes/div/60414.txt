@@ -1,0 +1,6 @@
+	width: 350px;	
+	margin: 0 auto;
+		width: 100%;
+		position: static;	
+		text-align: center;	
+ width: 100%; 

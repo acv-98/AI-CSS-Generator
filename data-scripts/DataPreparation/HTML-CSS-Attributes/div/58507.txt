@@ -1,0 +1,18 @@
+	padding:0;
+	margin:0;
+	float:left;
+	width:680px;
+	border-top:19px solid #ff7f00;
+	margin-bottom:0;
+	padding-bottom:6px;
+	font-size:30px;
+	line-height:1.2em;
+	border-bottom:1px solid #bbb;
+	background:#fff;
+	color:#3f3f3f;
+	font-weight:normal;
+	text-decoration:none;
+	padding-left:4px;
+	height:20px;
+	text-transform:none;
+	text-align:center;

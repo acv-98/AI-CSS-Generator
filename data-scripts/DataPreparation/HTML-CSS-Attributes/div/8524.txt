@@ -1,0 +1,1 @@
+font-size:0.875em;width:1000px;margin:0 autowidth:288px;margin-right:50pxwidth:606px padding:42px 0 0 56pxwidth:100%padding:0 0 12px 19px;background:url(images/arrow.gif) no-repeat left 5px

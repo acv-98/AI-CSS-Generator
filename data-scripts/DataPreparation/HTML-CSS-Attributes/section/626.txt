@@ -1,0 +1,25 @@
+.top
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: 900;
+    overflow: hidden;
+    opacity: 1;
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    -ms-transition: all 0.25s ease-out;
+    -o-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    position: relative;
+    background-color: #fff;
+    padding: 30px 25px 0;
+    bottom: 0;
+    border-top: 1px solid #ddd;
+    display: block;
+    margin-top: 5px;
+    visibility: hidden;
+    margin-bottom: 0;
+    width: 200px;
+    height: 200px;

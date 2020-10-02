@@ -1,0 +1,4 @@
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-bottom: solid 2px transparent;
+	background-color: #eee;

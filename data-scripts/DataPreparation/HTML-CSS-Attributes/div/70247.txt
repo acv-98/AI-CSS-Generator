@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	background:url(../images/fbg_bg.gif) repeat left top;
+	width:920px;
+	color:#9b9b9b;
+	padding-bottom:24px;
+	border:none;
+	float:left;
+	list-style:none;
+	display:block;
+	text-decoration:none;
+	line-height:1.8em;
+	font-weight:bold;

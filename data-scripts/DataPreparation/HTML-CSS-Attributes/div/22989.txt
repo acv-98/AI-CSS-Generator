@@ -1,0 +1,5 @@
+  display: inline;
+  float: left;
+  margin: 20px 0 0;
+  padding: 35px 0 35px 20px;
+  width: 100%;

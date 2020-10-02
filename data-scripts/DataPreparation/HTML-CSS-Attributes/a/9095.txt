@@ -1,0 +1,11 @@
+	background:url(../images/signupbg.jpg) 0 0 no-repeat;
+	width:300px;
+	height:190px;
+	float:left;
+	color:#fff;
+	font:bold 22px/22px Lucida sans, Arial, Helvetica, sans-serif;
+	margin:16px 0 2px 0;
+	margin-top:10px;
+	display:block;
+	text-decoration:none;
+	text-align:center;

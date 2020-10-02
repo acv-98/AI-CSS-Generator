@@ -1,0 +1,9 @@
+	float:right;
+	width:386px;
+	height:16px;
+	border:1px solid #373737;
+	background:none;
+	padding:3px 5px;
+	margin-bottom:6px;
+	color:#808081;
+	font:14px Arial, Helvetica, sans-serif;

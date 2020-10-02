@@ -1,0 +1,2 @@
+ float: left; margin-right: 6%; width: 65%; color: #fff; font-size: 28px; text-transform: uppercase; color: #fff; margin: 10px 0; color: #ccc; float: left; font-size: 15px; line-height: 24px; margin: 0; width: 49%; font-family: 'open_sansregular';width:100%;float:left;display:table;padding:0;display:table-cell;float:none;vertical-align:top;word-wrap: break-word;word-break:break-allwidth:30px; 
+ color:#155bdb;word-break:break-all;word-wrap:break-word; color:#fff;margin-right:4%;width:67%;width:100%;margin-right:0; width:100%; margin-bottom:20px;

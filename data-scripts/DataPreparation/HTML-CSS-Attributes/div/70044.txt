@@ -1,0 +1,6 @@
+  position: relative;
+  min-height: 1px;
+  padding-left: 25px;
+  padding-right: 25px;
+    float: left;
+    width: 83.33333%;

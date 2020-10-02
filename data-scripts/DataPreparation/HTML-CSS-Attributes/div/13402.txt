@@ -1,0 +1,17 @@
+	width: 33.33333%;
+	font-size: 15px;
+	line-height: 27px;
+	margin: 0 auto;
+	height: 660px;
+	background-image: url("../images/appdesign.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: contain;
+	-moz-background-size: contain;
+	background-size: contain;
+		height: 600px;
+		width: 30%;
+		position: absolute;
+		bottom: -630px;
+		left: 50%;
+		margin-left: -150px;

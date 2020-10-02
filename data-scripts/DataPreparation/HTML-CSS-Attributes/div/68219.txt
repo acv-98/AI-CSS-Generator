@@ -1,0 +1,1 @@
+	background:url(images/header-bg2.gif) no-repeat center 0;

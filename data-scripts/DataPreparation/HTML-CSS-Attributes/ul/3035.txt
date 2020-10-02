@@ -1,0 +1,15 @@
+		width: 25%;
+		margin: 0 -30px 20px;
+		
+	float: left;
+	background: none;
+	padding: 0;
+	display: block;
+	max-width: 100%;
+	content: '';
+	height: 0;
+	clear: both;
+	visibility: hidden;
+	position: relative;
+	text-decoration: none;
+	z-index: 100;

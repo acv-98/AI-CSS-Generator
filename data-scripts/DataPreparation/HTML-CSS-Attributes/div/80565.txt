@@ -1,0 +1,8 @@
+		background:url(../images/design/bodyTop-960.png) left top no-repeat transparent;
+		width:980px;
+		height:7px;
+		margin:auto;
+			background:url(../images/design/bodyTop-768.png) left top no-repeat transparent;
+			width:790px;
+			height:8px;
+			margin:auto;

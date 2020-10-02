@@ -1,0 +1,8 @@
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	display: inline;
+	float: left;
+	border: 4px solid #e2e1e1;
+	width: 70px;
+	height: 70px;

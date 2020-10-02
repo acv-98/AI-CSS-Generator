@@ -1,0 +1,7 @@
+ padding-right: 90px; 
+footer .footer-logo a {
+   display: block;
+   margin-bottom: 12px;
+   margin-top: 12px;
+   margin-left: 3px;
+ padding-right: 30px;  margin-bottom: 18px; 

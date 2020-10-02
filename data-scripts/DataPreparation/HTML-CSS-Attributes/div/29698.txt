@@ -1,0 +1,11 @@
+	color: #fff;
+	font-size: 40px;
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+	z-index: 999;
+	left: 0;
+	right: 0;
+			left: 20px !important;
+			right: 20px !important;

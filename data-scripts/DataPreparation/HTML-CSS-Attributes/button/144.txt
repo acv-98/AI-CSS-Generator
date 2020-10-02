@@ -1,0 +1,6 @@
+        border-color: #2d3032;
+        color: #fff !important;
+        background-color: #2d3032 !important;
+		background-color: #00aeef !important;
+		border-color: #00aeef;
+        display: block;

@@ -1,0 +1,16 @@
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5em;
+  content: "";
+  display: table;
+  clear: both;
+    margin-bottom: 1em;
+  font-size: 8em;
+  border-top: 2px solid #fff;
+  letter-spacing: -0.05em;
+  margin-top: 1.2em;
+    font-size: 4em;
+    line-height: 1.2em;
+    padding-top: 0.4em;
+    display: block;

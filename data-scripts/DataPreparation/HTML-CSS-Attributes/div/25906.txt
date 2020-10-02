@@ -1,0 +1,11 @@
+	width: 101px;
+	margin-right: 14px;
+	margin-top: 4px;
+	float: left;
+	padding: 4px 5px 6px;
+	text-align: center;
+	font-size: 14px;
+	font-family: 'Glegoo', serif;
+	background-color: #eeeef2;
+	display: block;
+	padding-top: 6px;

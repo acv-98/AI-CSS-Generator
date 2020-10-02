@@ -1,0 +1,28 @@
+ -webkit-animation-name: fadeIn; animation-name: fadeIn; @-webkit-keyframes fadeInDown {
+ -webkit-animation-name: fadeInDown; animation-name: fadeInDown; @-webkit-keyframes fadeInDownBig {
+ -webkit-animation-name: fadeInDownBig; animation-name: fadeInDownBig; @-webkit-keyframes fadeInLeft {
+ -webkit-animation-name: fadeInLeft; animation-name: fadeInLeft; @-webkit-keyframes fadeInLeftBig {
+ -webkit-animation-name: fadeInLeftBig; animation-name: fadeInLeftBig; @-webkit-keyframes fadeInRight {
+ -webkit-animation-name: fadeInRight; animation-name: fadeInRight; @-webkit-keyframes fadeInRightBig {
+ -webkit-animation-name: fadeInRightBig; animation-name: fadeInRightBig; @-webkit-keyframes fadeInUp {
+ -webkit-animation-name: fadeInUp; animation-name: fadeInUp; @-webkit-keyframes fadeInUpBig {
+ -webkit-animation-name: fadeInUpBig; animation-name: fadeInUpBig; @-webkit-keyframes fadeOut {
+ -webkit-animation-name: fadeOut; animation-name: fadeOut; @-webkit-keyframes fadeOutDown {
+ -webkit-animation-name: fadeOutDown; animation-name: fadeOutDown; @-webkit-keyframes fadeOutDownBig {
+ -webkit-animation-name: fadeOutDownBig; animation-name: fadeOutDownBig; @-webkit-keyframes fadeOutLeft {
+ -webkit-animation-name: fadeOutLeft; animation-name: fadeOutLeft; @-webkit-keyframes fadeOutLeftBig {
+ -webkit-animation-name: fadeOutLeftBig; animation-name: fadeOutLeftBig; @-webkit-keyframes fadeOutRight {
+ -webkit-animation-name: fadeOutRight; animation-name: fadeOutRight; @-webkit-keyframes fadeOutRightBig {
+ -webkit-animation-name: fadeOutRightBig; animation-name: fadeOutRightBig; @-webkit-keyframes fadeOutUp {
+ -webkit-animation-name: fadeOutUp; animation-name: fadeOutUp; @-webkit-keyframes fadeOutUpBig {
+ -webkit-animation-name: fadeOutUpBig; animation-name: fadeOutUpBig; @-webkit-keyframes flip {
+  opacity: 0;
+  -webkit-transition: opacity .15s linear;
+          transition: opacity .15s linear;
+     -moz-transition:    -moz-transform .3s ease-out;
+       -o-transition:      -o-transform .3s ease-out;
+  -webkit-transform: translate(0, -25%);
+      -ms-transform: translate(0, -25%);
+          transform: translate(0, -25%);
+  filter: alpha(opacity=0);
+ background: url(../img/facebook-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px;  visibility: visible; 

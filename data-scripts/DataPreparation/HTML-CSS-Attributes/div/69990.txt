@@ -1,0 +1,4 @@
+	background:url(../images/divider.png) no-repeat;
+	width:940px;
+	height:16px;
+	margin:52px 0 52px 0;

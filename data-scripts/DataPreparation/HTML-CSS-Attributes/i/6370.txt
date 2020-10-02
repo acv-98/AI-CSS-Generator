@@ -1,0 +1,1 @@
+color:#c92228	.footer-holder ul a:hover {

@@ -1,0 +1,4 @@
+  width: 26px;
+  height: 26px;
+  line-height: 26px;
+  border-radius: 50%;

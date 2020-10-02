@@ -1,0 +1,7 @@
+	background:url(../images/icons.gif) no-repeat;
+	display:block;
+	height:30px;
+	line-height:30px;
+	background-position:0 0;
+	width:57px;
+	padding-left:35px;

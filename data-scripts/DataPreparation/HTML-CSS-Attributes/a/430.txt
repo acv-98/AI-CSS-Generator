@@ -1,0 +1,14 @@
+	margin-top:35px;
+	display:block;
+	background:url(../images/readmore.png) repeat-x;
+	padding:9px;
+	color:#282828;
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size:12px;
+	text-align:center;
+	border-radius:2px;
+	-webkit-font-smoothing: antialiased; 
+	text-rendering: optimizeLegibility;
+	margin-bottom:20px;
+position:inherit;.sf-menu, .sf-menu * {
+	list-style: none;

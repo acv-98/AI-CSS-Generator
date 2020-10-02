@@ -1,0 +1,20 @@
+      margin-top: -16px;
+        color: #34b1c4;
+        height: 34px;
+        line-height: 33px;
+        padding: 0 2.5rem 0 0.9375rem;
+          content: "";
+          display: block;
+          height: 0;
+          position: absolute;
+          margin-top: -8px;
+          top: 50%;
+          right: 0.9375rem;
+          box-shadow: 0 0 0 1px #34b1c4, 0 7px 0 1px #34b1c4, 0 14px 0 1px #34b1c4;
+  text-indent: 2.1875rem;
+  transform: translate3d(0, 0, 0);
+    left: 0.90625rem;
+font-family:"/5.5.3/" * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS and IE text size adjust after device orientation change,
+ *    without disabling user zoom.
+html {

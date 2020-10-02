@@ -1,0 +1,12 @@
+  margin-left: 35px;
+  overflow: hidden;
+  float: right;
+  padding-top: 33px;
+  display: block;
+  color: #c301a2;
+  font-size: 25px;
+  line-height: 25px;
+    float: none;
+    text-align: center;
+    padding: 10px 0;
+    display: inline-block;

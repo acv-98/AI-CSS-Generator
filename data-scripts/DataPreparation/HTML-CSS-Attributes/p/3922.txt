@@ -1,0 +1,13 @@
+    color: black;
+    background-color: #fff;
+    mix-blend-mode:screen; 
+    width: 101%; 
+    height: 101%;
+    font-weight: 700;
+    font-size: 400px;
+    text-align: center;
+    line-height: 300px;
+    margin-top: -1px;
+    border-radius: 2px;
+		font-size: 225px;
+		line-height: 225px;

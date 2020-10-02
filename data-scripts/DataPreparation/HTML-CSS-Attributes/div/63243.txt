@@ -1,0 +1,6 @@
+	float:left;
+	background:url(images/content-bg.gif) left top repeat-y;
+	padding:21px 22px 20px 22px;
+	height:100%;
+	overflow:hidden;
+	background-image:url(images/sidebar-top.gif);

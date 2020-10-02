@@ -1,0 +1,9 @@
+	background:url(images/boxes-holder-bg.gif) repeat-y 0 0;
+	height:100%;
+	margin-top:36px;
+	float:left;
+	display:inline;
+	width:250px;
+	padding-right:60px;
+	padding-bottom:10px;
+	padding-top:10px;

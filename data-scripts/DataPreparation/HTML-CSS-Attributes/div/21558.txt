@@ -1,0 +1,28 @@
+ background:;         -webkit-border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; border-bottom-left-radius: 10px;
+        -webkit-border-bottom-right-radius: 10px; -moz-border-radius-bottomright: 10px; border-bottom-right-radius: 10px;
+        margin-bottom:15px;
+ font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  width: 92% !important; padding: 4% !important; margin: 0 auto !important;#logo{
+    width: 100%;
+    max-width: none !important;
+    text-align: center;
+ width: 92% !important; padding: 4% !important; margin: 0 auto !important;  width: 96% !important; padding: 0px !important; margin: 0 auto !important; width: 96% !important; margin: 0 auto !important;   margin-top: 30px !important;
+  -webkit-border-top-left-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  border-top-left-radius: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -moz-border-radius-topright: 10px;
+  border-top-right-radius: 10px;
+  background-color: #2b2b2b;
+  color: #fff;
+  font-size: 36px;
+  font-weight: bold;
+padding: 0; max-width:1000px;.header-map #map-wrap {
+  overflow: hidden;
+  height: 0px;
+  -moz-border-radius-bottomleft: 10px;
+  border-bottom-left-radius: 10px;
+  -moz-border-radius-bottomright: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 0px;
+ max-width:960px; width:auto;  margin: 0px;     padding: 20px;
+    float: left;

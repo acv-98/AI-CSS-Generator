@@ -1,0 +1,12 @@
+    position: absolute;
+    left: 48.5%;
+    bottom: 10%;
+    width: 40px;
+    height: 40px;
+    line-height: 37px;
+    background: #f4f5f9;
+    border-radius: 50%;
+    text-align: center;
+    z-index: 3;
+    font-size:0.775rem;
+    color:#e74c3c;

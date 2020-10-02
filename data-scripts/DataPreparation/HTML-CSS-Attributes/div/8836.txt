@@ -1,0 +1,9 @@
+		position: absolute; 
+		top: 33px;
+		right: 179px;
+		width: 194px;
+		height: 380px;
+		background: url("../design/iphone-smaller.png") 0 0 no-repeat;
+		display: block;
+		left: 13px;
+		bottom: -65px;

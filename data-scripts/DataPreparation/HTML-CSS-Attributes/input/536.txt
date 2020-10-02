@@ -1,0 +1,11 @@
+ height: 45px; .form-control {
+    font-size: 0.8rem;
+    padding: .75rem;
+ border-radius: 0; .tm-btn {
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;  
+    background-color: #f5f5f5;
+    border: none;
+    border-color: #69c6ba;
+    box-shadow: 0 0 0 0.1rem #69c6babf;

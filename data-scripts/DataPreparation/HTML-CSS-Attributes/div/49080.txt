@@ -1,0 +1,10 @@
+    height: 450px;
+    background-repeat: repeat;
+    background-position: center center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    opacity: 0.8;
+    background-image: url('../img/base/video-overlay-1.png');
+    background-color: #6DBFEC;

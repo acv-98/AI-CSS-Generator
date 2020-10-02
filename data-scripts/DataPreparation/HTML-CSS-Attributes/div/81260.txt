@@ -1,0 +1,2 @@
+	min-height:400px;
+	background:url("../design/bg-02.png") 50% 0 no-repeat;

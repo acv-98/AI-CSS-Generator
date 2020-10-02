@@ -1,0 +1,4 @@
+  background-color: transparent;
+  color: #333;
+  border: 0 none !important;
+  padding: 5px 15px;

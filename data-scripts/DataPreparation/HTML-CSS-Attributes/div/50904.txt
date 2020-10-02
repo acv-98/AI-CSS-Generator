@@ -1,0 +1,8 @@
+	padding:12px 0 9px 0;
+	background:#187295 url('images/footer-bg.gif') repeat-x 0 0;
+	color:#cbc8c8;
+	text-decoration:none;
+	font-size:10px;
+	line-height:18px;
+	margin:0;
+	float:left;

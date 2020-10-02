@@ -1,0 +1,2 @@
+     width: 180px;
+     padding-top: 10px;

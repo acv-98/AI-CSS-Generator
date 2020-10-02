@@ -1,0 +1,10 @@
+    max-width: 100%;
+	display:block;
+	overflow:hidden;
+	max-width:70%;
+	font-size:14px;
+	padding-left:20px;
+	text-align:left;
+	font-family: 'lobsterregular';
+	color:#000;
+	margin-bottom:-6px;

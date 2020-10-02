@@ -1,0 +1,17 @@
+	display: -webkit-box;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	width: -webkit-calc(33% - 1em);
+	margin-bottom: 30px;
+		-webkit-box-pack: center; 
+		-webkit-justify-content: center; 
+		    -ms-flex-pack: center; 
+		        justify-content: center;
+	width: 100%; 	.desc p {
+		font-size:14px;
+		display:block;

@@ -1,0 +1,9 @@
+	background-position: -216px 0;
+	width: 90px;
+	height: 90px;
+	margin-top: 2px;
+	top: 2px;
+	left: 0;
+	float: left;
+	padding-bottom: 0px;
+	padding-right: 18px;

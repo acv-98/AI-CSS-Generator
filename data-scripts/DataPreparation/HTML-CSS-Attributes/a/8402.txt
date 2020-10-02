@@ -1,0 +1,1 @@
+background:url(images/buttonr.gif) no-repeat right; padding:3px 0px; margin-left:2px; color:#CCCCCC; text-decoration:none; background:url(images/buttonl.gif) no-repeat left; padding:3px 5px;

@@ -1,0 +1,22 @@
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+  color: #777;
+    color: #777;
+    background-color: transparent;
+	background-color: #fff;
+	color:#fff;
+max-width:1170px * Name: 	Infinity
+ * Version: 1.0
+ * Updated: 28/05/2015
+ * Website:	http://audaindesigns.com
+ * Author:	Audain Designs
+ * Type:	Style - Landing - Landing
+	Sections
+section#landing {
+	background-size: cover;
+	background-position: center;
+	border-color: transparent;
+	position:relative;
+	top: 7px;
+	font-weight: 600;
+	letter-spacing: 3px;

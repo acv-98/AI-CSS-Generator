@@ -1,0 +1,8 @@
+	background:#000 url(images/h2-eye.gif) left center no-repeat;
+	margin:0 -34px;
+	float:left;
+	padding-left:34px;
+	padding-right:43px;
+	font-size:10px;
+	color:#ebebeb;
+	text-decoration:none;

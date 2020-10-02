@@ -1,0 +1,2 @@
+	background:url(../images/menu-right-hover.gif) no-repeat top right;
+	color:#facdec;

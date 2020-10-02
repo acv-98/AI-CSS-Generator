@@ -1,0 +1,14 @@
+ right:5px;  display:none; 	position: absolute;
+	bottom: 6px;
+	right: 6px;
+	background: url('../images/ie_overlay_82.png') repeat;
+	padding-top: 15px;
+	padding-left: 24px;
+	padding-bottom: 13px;
+	min-width: 220px;
+	text-align: right;
+	color: #fff;
+	font-size: 14px;
+	margin: 0 10px 0 0;
+	float: none !important;
+	padding-right: 5px;

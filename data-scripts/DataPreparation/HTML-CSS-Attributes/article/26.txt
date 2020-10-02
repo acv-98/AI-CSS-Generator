@@ -1,0 +1,17 @@
+	position: relative;
+	cursor: pointer;
+	bottom: 2.1rem;
+	right: 2rem;
+	margin-left: 0;
+	z-index: 500;
+	float: left;
+	font: 0/0 a;
+	text-shadow: none;
+	color: transparent;
+	background-color: #ffffff;
+	border-radius: 50%;
+	display: block;
+	height: 10px;
+	width: 10px;
+	opacity: .6;
+	box-shadow: 0 1 3px rgba(0, 0, 0, 0.5);

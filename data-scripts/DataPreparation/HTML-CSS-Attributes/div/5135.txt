@@ -1,0 +1,9 @@
+    overflow: hidden;
+    width:100%;
+  float:right;
+  display: inline-block;
+  
+a.news_icon{
+    text-transform: uppercase;
+    color:#AB987A;
+    font-family: 'robotoregular';

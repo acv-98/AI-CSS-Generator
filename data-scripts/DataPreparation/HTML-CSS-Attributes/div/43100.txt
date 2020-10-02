@@ -1,0 +1,9 @@
+	position:relative;
+		padding-left:40px;
+	margin:0;
+	list-style:none;
+	color:#777;
+	text-decoration:none;
+	display:block;
+	line-height:1.6em;
+	font-size:0;

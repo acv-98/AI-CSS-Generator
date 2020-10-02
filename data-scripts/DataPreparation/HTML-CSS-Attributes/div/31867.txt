@@ -1,0 +1,13 @@
+background:url(../images/hotbg.jpg); height:301px;
+	display: block;
+	height: 66px;
+	width: 66px;
+	border: 5px solid #C6BBAA;
+	float: left;
+	margin-left: 86px;
+	color: #009933;
+	padding-top: 12px;
+	padding-right: 8px;
+	padding-bottom: 5px;
+	background: url(../images/hotdiv.jpg) repeat-x center bottom;
+	margin-right: 8px;

@@ -1,0 +1,3 @@
+	font-size:11px;
+	color:#3a3e46;
+	text-decoration: none;

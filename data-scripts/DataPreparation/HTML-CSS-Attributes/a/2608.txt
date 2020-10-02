@@ -1,0 +1,16 @@
+	background-color: #0066cb;
+    color: white;
+    display: inline-block;
+    font-size: 1.2em;
+    width: 45px;
+    height: 45px;
+    text-align: center;    
+    margin-right: 5px;
+    padding-top: 5px;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+	color: white;
+ margin-right: 0; 		font-size: 1.5em;
+		width: 50px;
+		height: 50px;
+		margin-right: 25px;

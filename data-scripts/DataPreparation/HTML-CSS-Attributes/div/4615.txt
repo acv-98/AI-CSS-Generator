@@ -1,0 +1,11 @@
+	margin:0 auto;
+	padding:0;
+	width:910px;
+	background:#f3f3f3;
+	float:left;
+	border:1px solid #d3d3d3;
+	color:#585858;
+	font:normal 30px "Times New Roman", Times, serif;
+	line-height:1.5em;
+	text-decoration:none;
+	list-style:none;

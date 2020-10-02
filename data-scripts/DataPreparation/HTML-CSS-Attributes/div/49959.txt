@@ -1,0 +1,7 @@
+  text-align: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: 4em;
+  font-family: "Montserrat", Arial, sans-serif;
+  font-size: 24px;
+  margin-bottom: 0;
+  color: #fb4f59;

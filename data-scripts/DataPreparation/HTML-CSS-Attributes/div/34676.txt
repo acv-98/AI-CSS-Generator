@@ -1,0 +1,16 @@
+  margin-bottom: 0;
+  padding: 0;
+  height: 100%;
+  font-size: inherit;
+  line-height: inherit;
+  border-radius: inherit;
+  min-height: 32px;
+  width: 46px;
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+  margin-right: -15px;
+  margin-left: -15px;
+    padding-top: 11px;
+    font-size: 18px;
+    position: relative;

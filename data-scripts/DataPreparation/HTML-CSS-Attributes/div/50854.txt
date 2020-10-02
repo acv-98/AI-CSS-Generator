@@ -1,0 +1,9 @@
+  padding: .4em 1em .6em 1em;
+  min-height:92px;
+  height:auto !important;
+  min-width: 64px;
+  margin: 0 1em;
+  line-height: 125%;
+  background: none;
+  width: auto;
+  border: 0;

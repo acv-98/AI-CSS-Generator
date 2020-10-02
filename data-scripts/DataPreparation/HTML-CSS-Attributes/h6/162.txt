@@ -1,0 +1,10 @@
+margin:0px 0 0 0
+.plazmabottombg {
+	background:url(../images/plazmaboxbottom.jpg) left bottom no-repeat;
+	padding:7px 10px 5px 10px;
+	margin:0px;
+ margin-bottom:20px.plazmaText
+	width:355px;
+	text-align:justify;
+	float:left;
+font:20px tahoma, Arial; color:#fff; font-weight:100; margin:0px; padding:8px 0px 10px 10px; text-decoration:nonefont:24px tahoma, Arial; color:#fff; font-weight:100; margin:0px; padding:25px 0px 10px 0px; background:nonefont:17px Myriad Pro, Arial, Helvetica, sans-serif; color:#555555; font-weight:100; padding:0px 0px 5px 0px;	margin:0px 0px 0px 0px; background:none 

@@ -1,0 +1,8 @@
+	font-size: 80px;
+	color: #F0394C;
+	margin-bottom: 30px;
+	line-height: 100%;
+	-webkit-transform: translate(-50%, -50%) scale(0);
+	transform: translate(-50%, -50%), scale(0);
+	-webkit-transition: all .3s;
+	transition: all .3s;	

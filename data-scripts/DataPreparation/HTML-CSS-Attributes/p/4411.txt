@@ -1,0 +1,6 @@
+	font-size:11px;
+	text-align:right;
+	padding:5px 10px;
+	color:#fff;
+	background-color:#49b6e9;
+	text-decoration:none;

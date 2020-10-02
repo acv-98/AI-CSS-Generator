@@ -1,0 +1,8 @@
+	display:block;
+	position:absolute;
+	background:url(../images/button2_shadow.gif) no-repeat;
+	height:9px;
+	font-size:0;
+	line-height:0;
+	bottom:-9px;
+	left:0

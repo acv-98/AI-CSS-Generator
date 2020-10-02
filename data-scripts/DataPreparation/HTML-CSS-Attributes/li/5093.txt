@@ -1,0 +1,8 @@
+  clear: both;
+  content: "";
+  display: table;
+  margin: 3rem 0;
+  padding: 0;
+  width: 100%;
+  -webkit-transition: all 0.3s ease-in-out;
+          transition: all 0.3s ease-in-out;

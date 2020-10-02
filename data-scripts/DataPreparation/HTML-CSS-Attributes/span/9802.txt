@@ -1,0 +1,11 @@
+    font-weight: bold;
+     font-weight: normal;
+     clear: both;
+     margin-top: 20px;
+     display: inline-block;
+     width: 100%;
+     border: none;
+     color: #ffffff;
+     float: right;
+     margin-bottom: 30px;
+     padding: 10px 20px;

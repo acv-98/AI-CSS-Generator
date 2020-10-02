@@ -1,0 +1,5 @@
+	font-size:11px;
+	text-transform:uppercase;
+	color:#bfbfbf;
+	margin-bottom:30px;
+	font-family:Palatino Linotype, Georgia, serif;

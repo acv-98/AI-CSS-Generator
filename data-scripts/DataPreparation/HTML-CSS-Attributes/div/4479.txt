@@ -1,0 +1,1 @@
+ padding-top:32px; float:right; width:496px; color:#fff; padding-bottom:0; margin-bottom:0; font-weight:bold; line-height:1.5em;

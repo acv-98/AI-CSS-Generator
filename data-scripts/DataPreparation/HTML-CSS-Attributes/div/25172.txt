@@ -1,0 +1,2 @@
+    background-color: #F9FAFA;
+    text-align: center;

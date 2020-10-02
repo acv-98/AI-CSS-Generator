@@ -1,0 +1,10 @@
+  padding: 12px 0;
+  width: 100%;
+  float: left;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: '';
+  background: #fbf2eb;

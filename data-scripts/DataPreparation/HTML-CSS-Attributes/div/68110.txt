@@ -1,0 +1,4 @@
+						 												 	 background:#a89907 url(../images/readmore-normal.jpg) repeat-x;
+																			 font-weight:bold;
+																			 font-size:11px;
+background:#ffc75e url(../images/readmore-hover.jpg) repeat-x;.commentlist li ul.children {margin:0;

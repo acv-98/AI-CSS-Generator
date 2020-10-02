@@ -1,0 +1,1 @@
+ padding-top:20px; color:#578ba7; text-shadow: 0 1px 0 #000000;

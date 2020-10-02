@@ -1,0 +1,1 @@
+    max-width: 23px;

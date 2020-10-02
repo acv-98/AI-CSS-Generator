@@ -1,0 +1,3 @@
+	background:url(images/arrow.gif) no-repeat 0 5px;
+	padding-left:10px;
+	color:#FF9900;

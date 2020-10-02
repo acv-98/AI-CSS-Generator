@@ -1,0 +1,8 @@
+	display: inline;
+	float: left;
+	overflow: hidden;
+	width: 100%;
+	-webkit-transform: scale(1);
+	        transform: scale(1);
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;

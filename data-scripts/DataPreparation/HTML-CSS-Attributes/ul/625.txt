@@ -1,0 +1,11 @@
+  display:block;
+  margin-left:20px;
+  margin-right:20px;
+  margin-bottom:20px;
+  padding-bottom:7px;
+  border-bottom:1px dashed #ccc;
+  float:left;
+  font-size:12px;
+  line-height:1.5em;
+  color:#888888;
+  font-weight:bold;

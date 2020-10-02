@@ -1,0 +1,27 @@
+        height: auto;
+    width:100%;
+    box-shadow:inset 0 1px #e2e2e2;
+    background: #032f3e;
+    position:relative
+    top:15px;
+    left:-100%;
+    -webkit-transition:all .3s;
+    -moz-transition:all .3s;
+    transition:all .3s
+    font-size:20px
+    list-style-type:none;
+    background-color:transparent;
+    vertical-align:top;
+    border-left:1px solid #0d3948;
+        
+    border-right:1px solid #0d3948;
+    border-top:2px solid #000;
+    line-height:80px;
+    padding:0;
+    color:#fff;
+    margin:0;
+    text-transform: uppercase;
+    border-color:#55acee
+section.stretch {
+        padding:0
+        border-bottom:1px solid #ccc

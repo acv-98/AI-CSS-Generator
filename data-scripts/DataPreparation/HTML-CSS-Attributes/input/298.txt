@@ -1,0 +1,1 @@
+padding:10px 10px;width:318px;background:#07366b; border:none; color:#fff; outline:none;

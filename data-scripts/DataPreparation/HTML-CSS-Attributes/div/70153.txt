@@ -1,0 +1,17 @@
+  width: 232px;
+-moz-border-left-colors: none;
+-moz-border-right-colors: none;
+-moz-border-top-colors: none;
+background: none repeat scroll 0 0 #E9F5FF;
+border-color: -moz-use-text-color #DDDDDD #35A1FB;
+border-image: none;
+border-style: none solid solid;
+border-width: medium 1px 5px;
+padding: 10px;
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+line-height: 20px;
+margin-left: -11px;
+margin-top: -10px;
+width: 300px;background: url("images/32x32.png") no-repeat scroll 252px -1px #FFFFFF;float: none;text-align: left;font-size: 16px;margin-bottom: 5px;text-align:left;font-size:13px;font-weight:bold;

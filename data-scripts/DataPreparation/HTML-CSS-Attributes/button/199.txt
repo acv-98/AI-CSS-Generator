@@ -1,0 +1,4 @@
+		border-color: #fff;
+		background-color: transparent;
+		padding: 7px 8px;
+		width: 18px;

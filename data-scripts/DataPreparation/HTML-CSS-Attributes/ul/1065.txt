@@ -1,0 +1,15 @@
+	border: 1px solid #a5d549;    
+	list-style: none;
+	text-align: center;
+	color: #fff;
+	padding: 0 10%;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	margin-top: 25px;
+	display: inline-block;
+    bottom: -50px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	opacity: 1;

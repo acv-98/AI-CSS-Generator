@@ -1,0 +1,4 @@
+    padding-top:20px;
+    text-align:center;
+    font-size:40px;
+    font-weight:800;

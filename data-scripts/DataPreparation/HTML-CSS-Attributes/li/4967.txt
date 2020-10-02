@@ -1,0 +1,1 @@
+ background: url(../img/icon-phone.png) no-repeat top left

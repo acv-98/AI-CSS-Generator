@@ -1,0 +1,1 @@
+  background: url('../images/single-post-bg.jpg') no-repeat;

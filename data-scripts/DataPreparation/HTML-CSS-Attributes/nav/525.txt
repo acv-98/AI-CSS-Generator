@@ -1,0 +1,20 @@
+  font-size: 105%;
+  margin-bottom: 1.65em;
+  content: "";
+  display: table;
+  clear: both;
+  float: left;
+  list-style: none;
+  margin-right: 1.65em;
+  margin-left: 1.65em;
+  text-decoration: none;
+  color: #de2c3b;
+  cursor: text;
+  padding: 0.825em 1.65em;
+  background: #eee;
+    float: none;
+    text-align: left;
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box

@@ -1,0 +1,1 @@
+padding:2px 20px 10px;max-width:500px;float:left;left:0;padding-right:0;float:right;right:0;padding-left:0;padding-bottom:0; background: url('../images/bg-video.png') center; height: 263px; width:447px; margin: 5px 0 0 20px; padding-left:33px !important; padding-right:33px !important; margin:0 auto; width:100% !important; height:338px !important; 

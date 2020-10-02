@@ -1,0 +1,6 @@
+	background:url(../images/tail-item.gif);
+	   box-shadow:inset 0 1px 3px #c5c2a9;
+	-moz-box-shadow: inset 0 1px 3px #c5c2a9;
+	-webkit-box-shadow: inset 0 1px 3px #c5c2a9;
+	
+	color:#d53827;

@@ -1,0 +1,12 @@
+  margin-bottom: 20px;
+  float: left;
+  color: #000000;
+  font-weight: 600;
+  margin-right: 2px;
+  line-height: 1.42857143;
+  border: none;
+  border-radius: 0px;
+  background-color: transparent;
+  cursor: default;
+  border-bottom-color: #999;
+    font-size: 13px;

@@ -1,0 +1,13 @@
+  border-right: 1px solid #cdcecf;
+    border-right: none;
+    border-bottom: 1px solid #cdcecf;
+position:relative;font-family:Hind,sans-serif.mfp-bg {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1042;
+  overflow: hidden;
+  position: fixed;
+  background: #0b0b0b;
+  opacity: 0.8;

@@ -1,0 +1,6 @@
+	text-transform: none;
+	margin-bottom: 21px;
+	margin-top: -4px;
+	color: #000;
+	position: relative;
+	height: 30px;

@@ -1,0 +1,5 @@
+  background-color: #ccc;
+  border-radius: 50%;
+  height: 90px;
+  margin-right: 20px;
+  width: 90px;

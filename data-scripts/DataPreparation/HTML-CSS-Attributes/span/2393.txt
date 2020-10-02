@@ -1,0 +1,4 @@
+	padding:0 37px 0 0;
+	font-size:60px;
+	line-height:1.3em;
+	background:url(../images/pic-3.gif) right 0 no-repeat

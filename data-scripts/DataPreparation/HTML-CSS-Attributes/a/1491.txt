@@ -1,0 +1,1 @@
+ background:url(images/r_menu.gif) right no-repeat;color:#000000 background:url(images/l_menu.gif) left no-repeat;

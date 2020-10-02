@@ -1,0 +1,4 @@
+justify-content: center;.flex_header_item {
+	min-width: 350px;
+	max-width: 600px;
+	z-index: 50;

@@ -1,0 +1,26 @@
+
+  display: inline-block;
+  padding: 12px 55px;
+  font-family: "Geometria-Medium";
+  font-size: 16px;
+  color: #fff;
+  border-radius: 30px;
+  background-color: #1680F8;
+  -webkit-box-shadow: 3px 4px 7px rgba(0, 0, 0, 0.21);
+          box-shadow: 3px 4px 7px rgba(0, 0, 0, 0.21);
+    background-color: #fff;
+    color: #0f81f8;
+    display: inline-block;
+    padding: 12px 70px;
+    border-radius: 30px;
+    font-family: "Geometria-Medium";
+    font-size: 16px;
+    -webkit-box-shadow: 3px 4px 7px rgba(0, 0, 0, 0.21);
+            box-shadow: 3px 4px 7px rgba(0, 0, 0, 0.21);
+    text-align: left;
+    padding-left: 90px;
+    margin-top: 25px;
+      font-size: 20px;
+      color: #08294c;
+      margin-bottom: 5px;
+      background: url("../assets/images/testimonial1.png") left center no-repeat;

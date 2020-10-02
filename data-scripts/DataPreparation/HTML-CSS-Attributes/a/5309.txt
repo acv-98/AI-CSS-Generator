@@ -1,0 +1,4 @@
+	float:left;
+	color:#fff;
+	position:relative;
+	top:3px;

@@ -1,0 +1,5 @@
+  -webkit-animation-name: slideInDown;
+  animation-name: slideInDown;
+  margin-top: 140px;
+  text-align: right;
+  position: absolute;

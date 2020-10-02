@@ -1,0 +1,7 @@
+        padding: 10px;
+    background-color:rgba(34, 61, 97, 0.68);
+    border: 1px solid #f5c239;
+    color:#f5c239;
+    width: 300px;
+    opacity: 1; 
+    margin-right: -30px;

@@ -1,0 +1,1 @@
+float:left; width:600pxfloat:left; width:560px; font:24px/26px "ZapfHumnst BT", Arial, Helvetica, sans-serif; color:#ffffd9; padding:79px 0 17px 40pxfloat:left; width:285px; color:#ffffee; padding:0 0 0 39pxwidth:500px; color:#ffffbe; font-weight:bold; padding:13px 0 0 39pxcolor:#ffffbe; text-decoration:none; padding:0color:#ffffbe; text-decoration:underline;

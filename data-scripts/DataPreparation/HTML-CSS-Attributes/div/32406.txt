@@ -1,0 +1,13 @@
+margin:0!important;width:auto!important;[class^="grid-"],
+.grids [class^="grid-"]{
+	width:auto!important;
+	float:none!important;
+	margin:0!important;
+	max-width:1120px;
+	clear:both;
+ width:3.571%  width:9.821%  width:16.071%  width:22.321%  width:28.571%  width:34.821%  width:41.071%  width:47.321%  width:53.571%  width:59.821%  width:66.071%  width:72.321%  width:78.571%  width:84.821%  width:91.071%  width:97.321%; margin:0; form {
+	overflow: auto;
+	zoom:1;
+	content:"";
+	display:table;
+ float:none;

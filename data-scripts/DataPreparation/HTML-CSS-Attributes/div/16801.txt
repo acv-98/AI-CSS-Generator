@@ -1,0 +1,7 @@
+	background:#e5e9e8;
+	position:relative;
+	font-size:12px;
+	line-height:18px;
+	color:#6a4c31;
+	font-weight:bold;
+	padding:12px 24px 15px 18px;

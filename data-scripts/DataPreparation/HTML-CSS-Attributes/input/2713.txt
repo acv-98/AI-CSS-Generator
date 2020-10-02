@@ -1,0 +1,18 @@
+    background-color:#fff !important;
+    font-size: 13px;
+    height: 40px; 
+    border: 1px solid #e3e3e3;
+    border-radius:2px;
+    box-shadow: none;
+    color: #323436;
+    outline: none !important;
+    border-bottom-color: #F0F0F0;
+    border-top-color: #e0e0e0;
+    -moz-box-shadow: 0 1px 2px rgba(10,10,10,.1)inset;
+    -webkit-box-shadow: 0 1px 2px rgba(10,10,0,.1)inset;
+    -o-box-shadow: 0 1px 2px rgba(10,10,10,.1)inset;
+    -moz-transition: all .2s linear;
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    transition: all .2s linear;
+    margin-top: 1px !important;

@@ -1,0 +1,6 @@
+	position:relative;
+	overflow:hidden;
+	height: 562px;
+	margin: 0 auto;
+	margin-bottom: 45px;
+	

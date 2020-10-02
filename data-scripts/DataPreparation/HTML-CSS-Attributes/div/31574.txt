@@ -1,0 +1,20 @@
+    position: relative;
+    z-index: 1;
+    margin-bottom: 25px;
+    color: #fff;
+    padding: 0;
+    list-style: none;
+    letter-spacing: 1px;
+    text-decoration: none;
+.widget_socail ul li a i{
+    background-color: #434343;
+    width:40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+    transition: all 0.4s;

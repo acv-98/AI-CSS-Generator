@@ -1,0 +1,3 @@
+    position: relative;
+    top: -2px;
+    font-size: 18px;

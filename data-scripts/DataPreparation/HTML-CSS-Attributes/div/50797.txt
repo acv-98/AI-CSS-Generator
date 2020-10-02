@@ -1,0 +1,3 @@
+	width:302px;
+	float:left;
+	background:url('images/box-t.gif') no-repeat 0 top;

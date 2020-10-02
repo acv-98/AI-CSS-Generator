@@ -1,0 +1,10 @@
+	float:left;
+	display:inline;
+	width:99px;
+	height:34px;
+	background:url(images/buy-now.gif) no-repeat 0 0;
+	font-size:14px;
+	color:#fff;
+	text-align:center;
+	line-height:32px;
+	font-family:"Lucida Sans Demibold Roman", Arial, Sans-serif;

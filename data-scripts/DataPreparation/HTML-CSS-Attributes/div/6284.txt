@@ -1,0 +1,9 @@
+	float:right;
+	margin-top:-1px;
+	background:url(../images/bot_icon.gif) 0 15px no-repeat;
+	padding:0 0 0 38px;
+	font-size:35px;
+	line-height:1.2em;
+	color:#dedad1;
+	letter-spacing:-2px;
+	font-weight:300

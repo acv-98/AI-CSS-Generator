@@ -1,0 +1,1 @@
+ border: none; padding: 0 0 0 20px;  border-right: 1px solid rgba(208, 217, 226, 0.4); padding-right: 60px; 

@@ -1,0 +1,47 @@
+position:relative;padding-top:6px
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.33333333em;
+  vertical-align: -15%;
+  width: 1.28571429em;
+  text-align: center;
+  padding-left: 0;
+  margin-left: 2.14285714em;
+  list-style-type: none;
+  position: relative;
+  left: -2.14285714em;
+  top: 0.14285714em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
+  margin-right: .3em;
+  -webkit-animation: spin 2s infinite linear;
+  -moz-animation: spin 2s infinite linear;
+  -o-animation: spin 2s infinite linear;
+  animation: spin 2s infinite linear;
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  height: 2em;
+  color: #ffffff;
+  content: "\f000";
+  -webkit-transition: -webkit-transform .3s ease-out;
+     -moz-transition:    -moz-transform .3s ease-out;
+       -o-transition:      -o-transform .3s ease-out;
+          transition:         transform .3s ease-out;
+      -ms-transform: translate(0, -25%);
+          transform: translate(0, -25%);
+  opacity: 0;
+	font-size:48px;
+	line-height:60px
+	position:absolute;
+	top:-4px;
+	left:0;
+	color:#6d6c6c

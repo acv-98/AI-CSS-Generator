@@ -1,0 +1,12 @@
+ behavior:url(../js/PIE.htc); position:relative;
+.socials a:hover, .socials1 a:hover {
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	background-color: #e6655e;
+	border: 3px solid #f4948b;
+	padding: 23px 0 24px;
+	border-top-width: 4px;
+	border-bottom-width: 4px;
+	border-radius: 500px;
+	margin-bottom: 19px;
+	color: #fff;
+	border-color: #99d6cb;

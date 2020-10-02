@@ -1,0 +1,10 @@
+	margin:0 auto;
+	padding:5px 0 0 0;
+	width:955px;
+	background:#fff top repeat-x;
+	border-top:2px solid #fff;
+	font:normal 26px Arial, Helvetica, sans-serif;
+	color:#777;
+	line-height:1.8em;
+	float:left;
+	text-decoration:none;

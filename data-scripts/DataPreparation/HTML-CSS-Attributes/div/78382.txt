@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	background:#54b1ed url(../images/line.gif) repeat-x left bottom;
+	border-top:3px solid #7cc8f3;
+	width:960px;
+	color:#fff;
+	padding-bottom:24px;
+	float:left;
+	list-style:none;
+	display:block;
+	text-decoration:none;
+	line-height:1.8em;
+	font-weight:bold;

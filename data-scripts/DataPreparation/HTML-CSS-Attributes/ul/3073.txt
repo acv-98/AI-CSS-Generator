@@ -1,0 +1,14 @@
+	float: left;
+	clear: both;
+	width: 520px;
+	border-top:2px dotted #eee;
+	margin: 40px 0 0 0;
+	padding: 20px 0 0 0;
+	border-bottom: 1px dotted #aaa;
+	background: #fefefe;
+	color: #fff;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	cursor: pointer;
+	font-weight: bold;
+	line-height: 40px;

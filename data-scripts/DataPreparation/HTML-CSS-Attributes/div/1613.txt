@@ -1,0 +1,12 @@
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #e6e6e6;
+  float: left;
+  margin: 0 10px 0;
+  color: #b2b2b2;
+  font-family: 'Noto Serif', sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 1.6em;
+  margin-bottom: 30px;
+  font-weight: bold;

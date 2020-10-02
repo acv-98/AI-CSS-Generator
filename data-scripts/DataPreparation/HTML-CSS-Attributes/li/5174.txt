@@ -1,0 +1,1 @@
+	background:#00ACE6 url(images/bg_promo2.png) repeat-x bottom;

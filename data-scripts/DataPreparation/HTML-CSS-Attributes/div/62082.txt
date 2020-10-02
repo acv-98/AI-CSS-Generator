@@ -1,0 +1,11 @@
+	margin-bottom: 20px;
+	padding-left: 1px;
+	padding-right: 1px;
+	float: left;
+	width: 100%;
+ width: 50%;  margin-bottom: 0; .tm-img-gallery {
+	display: inline-block;
+		padding-left: 10px;
+		padding-right: 10px;
+		width: 50%;
+ width: 100%;  width: 33.3333%;  width: 50%;  width: 25%; 

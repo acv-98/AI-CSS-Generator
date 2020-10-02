@@ -1,0 +1,6 @@
+	width:636px;
+	height:271px;
+	background:url(img/bkg_slide.png);
+	margin: 13px 0 0 40px;
+	text-align:center;
+	position:relative;

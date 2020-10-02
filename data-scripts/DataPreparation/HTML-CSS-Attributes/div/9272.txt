@@ -1,0 +1,5 @@
+	width:980px;
+	padding:0;
+	margin:0 auto;
+	font-size:0.8125em;
+	line-height:1.846em;

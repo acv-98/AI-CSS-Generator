@@ -1,0 +1,1 @@
+height:16px; padding:2px; background: url(images/postbottommeta.jpg) repeat-x; border-bottom:solid 1px #c9bfab; margin-bottom:10px;

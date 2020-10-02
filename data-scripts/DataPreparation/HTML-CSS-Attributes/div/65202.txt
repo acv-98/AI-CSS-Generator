@@ -1,0 +1,6 @@
+    margin-bottom: 20px;
+    padding: 30px 15px;
+    background: #fff;
+        content: '';
+        display: table;
+        clear: both;

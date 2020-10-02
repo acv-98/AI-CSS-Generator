@@ -1,0 +1,6 @@
+   width: 86%;
+   margin: 0 auto;
+ width: 82%;  width: 80%;    #testimonials blockquote p { 
+      font-size: 20px; 
+      line-height: 30px;
+ width: 85%; 

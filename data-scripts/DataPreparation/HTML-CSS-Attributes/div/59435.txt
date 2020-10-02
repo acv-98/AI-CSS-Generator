@@ -1,0 +1,8 @@
+    background: none repeat scroll 0 0 #00cfef;
+    color: #00cfef;
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    font-size: 24px;
+    margin-right: 5px;
+    padding: 3px 10px;
+    margin-top: -10px;

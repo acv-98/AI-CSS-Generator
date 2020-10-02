@@ -1,0 +1,6 @@
+	display: inline-block;
+	vertical-align: top;
+	margin-right: -4px;
+	padding: 0 10px;
+	width: 215px;
+	margin-bottom: 40px;

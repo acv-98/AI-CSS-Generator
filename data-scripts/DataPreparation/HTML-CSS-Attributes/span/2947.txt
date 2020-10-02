@@ -1,0 +1,13 @@
+    float: left;
+    background: #157fda;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: normal;
+    padding: 10px 12px;
+    margin-right: 15px;
+    color: #fff;
+    font-size: 18px;
+	transition: ease all 1s;
+	width:100%;
+    border-radius: 100%;

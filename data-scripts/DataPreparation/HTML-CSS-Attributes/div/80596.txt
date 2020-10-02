@@ -1,0 +1,71 @@
+top:-25px;position:absolute;width:16px;height:16px; 	.footer ul.slidecontrols li a.next {
+		right:0;
+		background:url(../images/design/footer-arrows.png) -16px top no-repeat transparent;
+position:absolute;	.footer ul.slidecontrols li a.prev {
+		height:27px;
+		width:100%;
+		position:relative;
+		margin:0;
+		padding:0;
+		margin-top:8px;
+		margin-bottom:11px;
+		-webkit-box-shadow: inset 1px 1px 3px 1px #c3c2c2;
+        box-shadow: inset 1px 1px 3px 1px #c3c2c2;
+		margin-left:10px;
+		border:none;
+		outline:none;
+		color:#888888;
+background-color:#2f86a8;background-color:#2f86a8;background-color:#2280a8; * jQuery FlexSlider v2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * Contributing author: Tyler Smith (@mbmufffin)
+.flex-container a:active,
+.flexslider a:active,
+padding-right:71px;left:10px;left:0;left:0;z-index:-1;position:relative;	.footer .background {
+		top:-14px;
+		border-top:1px solid #b0b0b0;
+		left:230px;
+		padding-top:15px;
+		float:left;
+		padding-right:20px;
+		padding-left:20px;
+		min-height:206px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:11px;
+		line-height:18px;
+		text-shadow: 0px 1px 1px #1c1c1c;
+		font-weight:600;
+		overflow:hidden;
+		z-index:2;
+		cursor:pointer;
+		display:block;
+		padding-bottom:6px;
+display:inline-block;margin:0;padding:0;height:28px;position:relative;padding:0;margin:0 4px 6px 0;float:left;text-indent:-99999px;width:28px;height:28px; position:absolute;width:24px;height:24px;display:none;z-index:1000;display:none;background-image:url(../images/icons/sm_icons/round/icon-aboutme.png);background-image:url(../images/icons/sm_icons/round/icon-behance.png);background-image:url(../images/icons/sm_icons/round/icon-deviantart.png);background-image:url(../images/icons/sm_icons/round/icon-dribbble.png);background-image:url(../images/icons/sm_icons/round/icon-etsy.png);background-image:url(../images/icons/sm_icons/round/icon-facebook.png);background-image:url(../images/icons/sm_icons/round/icon-flavors.png);background-image:url(../images/icons/sm_icons/round/icon-flickr.png);background-image:url(../images/icons/sm_icons/round/icon-forrst.png);background-image:url(../images/icons/sm_icons/round/icon-friendfeed.png);background-image:url(../images/icons/sm_icons/round/icon-googleplus.png);background-image:url(../images/icons/sm_icons/round/icon-instagram.png);background-image:url(../images/icons/sm_icons/round/icon-klout.png);background-image:url(../images/icons/sm_icons/round/icon-lastfm.png);background-image:url(../images/icons/sm_icons/round/icon-linkedin.png);background-image:url(../images/icons/sm_icons/round/icon-pinterest.png);background-image:url(../images/icons/sm_icons/round/icon-rss.png);background-image:url(../images/icons/sm_icons/round/icon-skype.png);background-image:url(../images/icons/sm_icons/round/icon-slideshare.png);background-image:url(../images/icons/sm_icons/round/icon-twitter.png);background-image:url(../images/icons/sm_icons/round/icon-vimeo.png);color:#7b7b7b;font-size:11px;margin-top:2px;color:#d3d3d3;content: "- ";content: "";	.footer .logo-caption, .footer .logo-caption-overlay {
+		margin-right:5px;
+		text-decoration:none;
+position:relative;z-index:10000;z-index:100;background-position:left bottom;position:absolute;	.footer .foot-nav {
+float:none;text-align:center;	.footer .foot-nav .nav {
+		transition: all 0.3s ease 0s;
+color:#ffffff; padding-top:2px;margin:0; 	.footer ul.social li {
+		-moz-opacity:.50; filter:alpha(opacity=50); opacity:.50;
+z-index:100;background-position:left bottom;position:absolute;	.footer.style-2 .background {
+		bottom:0;
+			background:url(../images/design/footer-bg-768.png) top left repeat-y transparent;
+			width:788px;
+			height:11px;
+background:url(../images/design/footer-top-stitch-768.png); width:768px;		.footer .first { 
+			padding-right:10px;
+			padding-left:10px;
+			float:left;
+			font-size:11px;
+			display:none;
+display:none;		.footer .content {
+			margin:0;
+			position:relative;
+			margin-right:12px;
+			margin-bottom:10px;
+display:none;display:none;display:none;text-align:center;float:nonewidth:480px;width:320px;		.one-third.column .border img {
+			max-width:288px;
+display:none;display:none;text-align:center;float:none;font-size:8px;

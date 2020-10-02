@@ -1,0 +1,10 @@
+font-size:30px;font-size:15px;font-weight:400;padding:40px;    margin-right: 10px;
+    color: #323a45;
+    vertical-align: middle;
+    font-size: 50px;
+    -webkit-transition: color 300ms ease-in-out;
+    transition: color 300ms ease-in-out;
+    font-weight: 400;
+    padding: 60px 0;
+    background-color: #f6f7f9;
+    text-decoration: none;

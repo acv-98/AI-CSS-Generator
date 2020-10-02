@@ -1,0 +1,6 @@
+  width: 100%;
+  height: auto;
+  display: table;
+  padding: .75rem 1.875rem;
+  content: " ";
+  clear: both;

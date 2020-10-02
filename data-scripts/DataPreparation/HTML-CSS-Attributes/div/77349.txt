@@ -1,0 +1,8 @@
+  width: 100%;
+  padding: 10% 8%;
+  background: #121619;
+  color: #fff;
+    display: block;
+    font-size: 60px;
+    color: #121619;
+    font-weight: 400;

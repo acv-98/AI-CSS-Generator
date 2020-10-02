@@ -1,0 +1,6 @@
+	margin-bottom:0;
+	background: url(../images/search.png) #fff no-repeat 97% 6px;
+	color:#fff;
+	text-shadow:none;
+	padding-right:25px;	
+	border:1px solid #eee;

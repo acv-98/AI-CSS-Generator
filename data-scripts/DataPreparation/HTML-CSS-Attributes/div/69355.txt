@@ -1,0 +1,15 @@
+    color: #3c354e;
+    font-family: "Roboto", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    margin: 115px auto 50px;
+    position: relative;
+    width: -moz-fit-content;
+    text-transform: uppercase;
+    text-align: center;
+    background: #01d262 none repeat scroll 0 0;
+    bottom: -13px;
+    content: "";
+    height: 2px;
+    left: 48%;
+    line-height: 30px;

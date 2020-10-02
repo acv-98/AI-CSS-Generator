@@ -1,0 +1,2 @@
+list-style:none;padding:2px 0;margin-right:3px; padding-right:17px; background:url("../design/ico-arrow.gif") 100% 50% no-repeat;
+Others

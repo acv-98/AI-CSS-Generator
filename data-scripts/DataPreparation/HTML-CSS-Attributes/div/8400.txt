@@ -1,0 +1,14 @@
+  background-color: #a5d549;
+  display: inline;
+  float: left;
+  width: 100%;
+  color: #333;
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 25px;
+  position: relative;
+  content: "";
+  height: 2px;
+  left: 0;
+  top: 30px;
+  padding-right: 62px;

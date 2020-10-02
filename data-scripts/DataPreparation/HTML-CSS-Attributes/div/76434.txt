@@ -1,0 +1,1 @@
+float:right; position:relativebackground:none repeat scroll 0 0 #fff; display:block; float:right; height:30px; line-height:30px; margin-top:10px; text-align:center; width:30pxdisplay:inline; height:45px; padding:10px; position:absolute; right:0; top:52px; width:250px; display:nonemargin-bottom:10pxwidth:300pxcolor:#12a3dfborder:2px solid #12a3df

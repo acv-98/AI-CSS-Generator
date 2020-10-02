@@ -1,0 +1,7 @@
+	float:left;
+	padding:7px 0 0;
+	display:inline-block;
+	text-decoration:none;
+	color:#000;
+	font:25px/27px 'ProximaNovaRgBoldItalic', Arial, Helvetica, sans-serif;
+text-decoration:underline;.user-details em {

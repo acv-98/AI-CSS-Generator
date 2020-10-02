@@ -1,0 +1,8 @@
+	border-bottom:1px dotted #e8d0d2;
+	padding:0 0 13px 0;
+	margin:0 0 14px 0;
+	font-size:10px;
+	line-height:13px;
+	color:#097ca8;
+	display:block;
+	text-decoration:underline;

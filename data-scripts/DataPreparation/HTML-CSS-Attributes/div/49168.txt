@@ -1,0 +1,13 @@
+	text-align:center;
+	padding:16px 0 24px 0px;
+	background:url(../images/slogan-bg.png) 0 bottom no-repeat;
+	position:relative;
+	font-family: 'Passion One', cursive;
+	font-weight:300;
+	color:#91abb5;
+	font-size:41px;
+	line-height:50px;
+	margin-top:-4px;
+	bottom:-16px;
+	left:431px;
+	z-index:100;

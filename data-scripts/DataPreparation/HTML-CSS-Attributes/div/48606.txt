@@ -1,0 +1,2 @@
+ right: 0; bottom: 0; 
+ -webkit-animation-delay: -0.6s; animation-delay: -0.6s;  -webkit-animation-delay: -0.5s; animation-delay: -0.5s;  -webkit-animation-delay: -0.4s; animation-delay: -0.4s; 

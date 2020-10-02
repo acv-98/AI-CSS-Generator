@@ -1,0 +1,3 @@
+    padding-left: 54px;
+    font: 16px/18px 'Marvel', sans-serif;
+    color: #5f604b;

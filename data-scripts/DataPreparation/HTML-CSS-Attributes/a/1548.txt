@@ -1,0 +1,18 @@
+   font: 15px/30px opensans-bold, sans-serif;
+   margin-left: 3px;
+   font-size: 14px;
+   margin-top: 18px;
+   padding: 6px 18px;
+   background: #838A91;
+   color: #fff;
+   display: inline-block;
+   -webkit-transition: all 200ms ease-in-out;
+	-moz-transition: all 200ms ease-in-out;
+	-o-transition: all 200ms ease-in-out;
+	-ms-transition: all 200ms ease-in-out;
+	transition: all 200ms ease-in-out;
+   -moz-border-radius: 2px;
+   -webkit-border-radius: 2px;
+   -khtml-border-radius: 2px;
+	border-radius: 2px;
+ background: #11ABB0;  margin-left: 10px; 

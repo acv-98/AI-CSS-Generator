@@ -1,0 +1,2 @@
+  -webkit-animation-name: fadeInLeft;
+          animation-name: fadeInLeft;

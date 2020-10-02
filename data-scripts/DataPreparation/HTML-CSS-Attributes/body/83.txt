@@ -1,0 +1,6 @@
+    padding-top: 98px;
+    margin-bottom: 15px;
+    margin-top: 8px;
+    padding-bottom: 45px;
+	border-top: 0;
+	padding-top: 37px;

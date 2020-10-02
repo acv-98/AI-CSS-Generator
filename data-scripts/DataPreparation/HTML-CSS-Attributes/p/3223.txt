@@ -1,0 +1,2 @@
+font:16px/18px 'Droid Sans',Arial,sans-serif; color:#60a56e; font-weight:bold; text-decoration:underline;font:40px/40px 'Droid Sans',Arial,sans-serif; color:#60a56e; font-weight:normal; text-decoration:none;color:#d8892d; font-weight:bold;
+margin-bottom:15px;margin-bottom:22px;margin-bottom:15px;margin-bottom:25px;margin:0 0 17px 5px;margin-left:4px; margin-bottom:25px;margin-left:4px; margin-bottom:25px;margin-left:4px; margin-bottom:25px;margin-bottom:20px;

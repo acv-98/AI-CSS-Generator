@@ -1,0 +1,11 @@
+	display: block;
+	position: absolute;
+	width: 100%;
+	left: 0;
+	bottom: 7.2rem;
+	font-size: 3.3rem;
+	margin: 0;
+	padding: 0;
+	color: #FFFFFF;
+		font-size: 3rem;
+		margin: 0 15px;

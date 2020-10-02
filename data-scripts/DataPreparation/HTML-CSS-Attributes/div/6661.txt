@@ -1,0 +1,12 @@
+    width: 35%;
+    margin: 40px auto;
+    position: relative;
+		
+    left: 44%;
+    top: -6px;
+    height: 40px;
+    background: #fff;
+    line-height: 40px;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'open_sanslight';

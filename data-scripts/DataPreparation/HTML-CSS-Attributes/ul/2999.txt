@@ -1,0 +1,18 @@
+	float:left;
+	height:360px;
+	margin:0 0 0 37px;
+	padding-bottom:0;
+	width:285px;
+	margin-left:0;
+ *margin-bottom:20px;
+	padding-left:0;
+	text-align:center;
+	color:#16466c;
+	font-size:15px;
+	font-weight:bold;
+	padding-top:0;
+	text-transform:uppercase;
+	display:block;
+	font-style:italic;
+	margin-right:0;
+	background:url(../images/frame-gallery-image.jpg) no-repeat top left;

@@ -1,0 +1,1 @@
+display:block; background: transparent url(images/searchfield.jpg) no-repeat; width:185px; height:27px; padding:5px 5px 0 5px; border:none; float:left; color:#fff;

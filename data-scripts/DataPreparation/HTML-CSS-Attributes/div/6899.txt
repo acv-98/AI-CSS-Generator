@@ -1,0 +1,1 @@
+ background:url(../images/shadows2.png) no-repeat; width:252px; height:20px;

@@ -1,0 +1,7 @@
+  background-color: #f4f4f4;
+  color: #000000;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 120px;
+      padding-top: 60px;
+    display: table-cell;

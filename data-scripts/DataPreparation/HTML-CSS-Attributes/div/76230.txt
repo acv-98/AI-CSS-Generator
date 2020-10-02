@@ -1,0 +1,8 @@
+  float: left;
+  width: 100%;
+  padding: 3em 0;
+  background: #f6f6f6;
+  margin-top: 10px;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;

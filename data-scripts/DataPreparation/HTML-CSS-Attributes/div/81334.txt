@@ -1,0 +1,5 @@
+  position: absolute;
+  left: 0;
+  top: 7%;
+    left: -8%
+    display: none;

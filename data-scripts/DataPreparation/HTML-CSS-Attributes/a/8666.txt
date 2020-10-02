@@ -1,0 +1,1 @@
+    background: url('../images/media.png') -40px;

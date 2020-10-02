@@ -1,0 +1,16 @@
+  opacity: 1;
+  transition-duration: 400ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  position: relative;
+  top: 45px;
+  left: 0;
+  width: 9px;
+  height: 2px;
+  background: #17bed2;
+  content: " ";
+    position: absolute;
+    top: 19px;
+position:relative;font-family:Hind,sans-serif.mfp-bg {
+  z-index: 1042;
+  overflow: hidden;

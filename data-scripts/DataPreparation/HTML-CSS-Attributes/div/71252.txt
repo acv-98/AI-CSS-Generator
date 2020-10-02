@@ -1,0 +1,22 @@
+    transition: all 0.4s ease;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    background: rgba(0, 0, 0, 0.6) none repeat scroll 0 0;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    position: absolute;
+    text-align: center;
+    opacity:0;
+opacity: 1;.portfolio_hover_area .fa {
+    border: 2px solid transparent;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    color: #fff;
+    font-size: 30px;
+    margin-top: 215px;
+    padding: 15px;
+  margin-right: 10px;        margin-top: 73px;

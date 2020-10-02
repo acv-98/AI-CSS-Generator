@@ -1,0 +1,3 @@
+	width:100%;
+	height:71px;
+	background:url(../images/row1-top-tail.gif) left top repeat-x

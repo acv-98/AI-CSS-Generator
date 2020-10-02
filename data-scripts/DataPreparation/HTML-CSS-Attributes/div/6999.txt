@@ -1,0 +1,1 @@
+ width:100%; overflow:hidden; background:#00c0ff;

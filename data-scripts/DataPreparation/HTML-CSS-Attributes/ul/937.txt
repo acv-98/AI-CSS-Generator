@@ -1,0 +1,1 @@
+margin-bottom:-20pxpadding:0 0 20px 0;line-height:1.43em;width:100%;overflow:hidden;vertical-align:topfloat:left;margin:5px 21px 0 0display:block;font-size:.86em;padding-bottom:5pxcolor:#4e4e4e;text-decoration:nonetext-decoration:underline

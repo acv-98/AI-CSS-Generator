@@ -1,0 +1,9 @@
+	max-width: 310px;
+	margin: 0 auto;
+ margin-bottom: 50px;  margin-bottom: 50px; 	
+	.tm-2-col-left {
+		padding-right: 0;
+		max-width: 660px;
+		margin-top: 40px;
+		margin-bottom: 0;
+ margin-bottom: 40px; 

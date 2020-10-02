@@ -1,0 +1,3 @@
+width:254px; height:174px; padding:8px;
+PANEL CLASSS
+background:#26313f; margin-bottom:30px;padding:8px;

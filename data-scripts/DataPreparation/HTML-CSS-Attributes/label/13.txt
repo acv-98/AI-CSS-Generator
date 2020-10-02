@@ -1,0 +1,3 @@
+  min-height: 213px;
+  display: block;
+  width: 100%;

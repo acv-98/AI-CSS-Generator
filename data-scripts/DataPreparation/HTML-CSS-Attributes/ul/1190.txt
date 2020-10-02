@@ -1,0 +1,13 @@
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	margin-left: 15px;
+	padding-top: 25px;
+	margin-bottom: 25px;
+	background: url(../img/sidebar-line-divider.png) no-repeat;
+	list-style: none;
+	float: left;
+	-moz-box-shadow: 0 0 4px #444;
+	-webkit-box-shadow: 0 0 2px #000;
+	display:block;
+	border: none;

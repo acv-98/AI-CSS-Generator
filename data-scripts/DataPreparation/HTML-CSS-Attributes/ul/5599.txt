@@ -1,0 +1,6 @@
+	line-height:30px;
+	color:#fff;
+	text-decoration:none;
+	float:left;
+	margin-right:14px;
+	margin-top:7px;

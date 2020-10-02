@@ -1,0 +1,2 @@
+ float: right; display: inline; 
+ background: url(images/slider-right.png) no-repeat 0 0; position: absolute; top: -14px; right: -7px; width: 25px; height: 317px; z-index: 100; 

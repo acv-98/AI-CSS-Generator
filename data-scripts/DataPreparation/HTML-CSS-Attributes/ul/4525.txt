@@ -1,0 +1,10 @@
+    text-align: center;
+    padding: 0 10px 0 6px;
+    display: inline-block;
+    border-right: 1px solid #d7d7d7;
+    line-height: 12px;
+    background: #cfcfcf none repeat scroll 0 0;
+    color: #011e22;
+    height: 25px;
+    padding-top: 5px;
+    width: 25px;

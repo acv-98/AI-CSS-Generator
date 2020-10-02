@@ -1,0 +1,2 @@
+  font-size: 0.812rem;
+  background: #4b4b4b!important;

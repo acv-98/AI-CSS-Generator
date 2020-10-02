@@ -1,0 +1,5 @@
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+  display: block;
+  margin-right: 5px;

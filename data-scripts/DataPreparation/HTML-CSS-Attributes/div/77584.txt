@@ -1,0 +1,4 @@
+	width:660px;
+	color:#ffa604;
+	font:bold 12px/20px Tahoma, Arial, Helvetica, sans-serif;
+	padding:60px 0 0 30px;

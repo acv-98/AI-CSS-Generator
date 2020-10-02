@@ -1,0 +1,12 @@
+	width:934px;
+	background:url(images/menu_resize_bg.gif) top no-repeat;
+	padding:0;
+	margin:0 auto;
+	float:left;
+	list-style:none;
+	border:0;
+	border-left:1px solid #c9c9c9;
+	border-right:1px solid #fff;
+	color:#6f6e6e;
+	font:normal 14px Arial, Helvetica, sans-serif;
+	text-decoration:none;

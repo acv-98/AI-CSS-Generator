@@ -1,0 +1,4 @@
+background:url(../images/border-vert.png) repeat-y 477px 0
+.img-rounded img{
+	  border-radius:13px;
+	-moz-border-radius:13px;

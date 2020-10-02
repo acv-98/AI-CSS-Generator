@@ -1,0 +1,2 @@
+    font-size: 64px;
+    padding: 10px 0 20px;

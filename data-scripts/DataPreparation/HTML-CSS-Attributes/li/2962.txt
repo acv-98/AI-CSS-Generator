@@ -1,0 +1,16 @@
+ color: #c4c4c4;  color: #c4c4c4; 
+		Light Square Theme
+	
+	div.light_square .pp_top .pp_left ,
+	div.light_square .pp_top .pp_middle,
+	div.light_square .pp_top .pp_right,
+	div.light_square .pp_bottom .pp_left,
+	div.light_square .pp_bottom .pp_middle,
+	div.light_square .pp_bottom .pp_right,
+	div.light_square .pp_content,
+	div.light_square div.ppt_left,
+	div.light_square div.ppt_right,
+								font-weight:bold;
+								text-decoration:none;
+								background:url(../images/leftp.gif) no-repeat -20px 0 ;
+								color:#00919f !important;	

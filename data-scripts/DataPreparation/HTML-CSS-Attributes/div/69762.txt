@@ -1,0 +1,10 @@
+	overflow: hidden;
+	margin-top: 4px;
+	font: 18px/20px 'Open Sans', sans-serif;
+	margin-bottom: 7px;
+	position: relative;
+	top: 2px;
+	display: inline-block;
+	background-color: #e9ddb7;
+	width: 1px;
+	height: 15px;

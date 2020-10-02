@@ -1,0 +1,24 @@
+font-family:inherit;font-size:inherit;line-height:inherit
+ *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+	 General styles
+body {
+	background-color: white;
+	background-image: url(../img/bg.jpg);
+	background-position: left top;
+	background-repeat: repeat;
+	-webkit-font-smoothing: antialiased;
+	border-radius: 0px;
+	text-decoration: none;
+	padding: 12px 15px;
+	font-size: 1em;
+	line-height: 1.5em;
+	font-weight: 400;
+	letter-spacing: 0.2em;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	-ms-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+	margin-bottom: 10px;
+	margin-top: 10px;

@@ -1,0 +1,10 @@
+        max-width: 660px;
+        top: 0;
+        left: -12%;
+        position: absolute !important;
+        z-index: 10;
+        text-align: center;
+		margin: 0px;
+		padding: 0px;
+    margin: 0 0 80px;
+    padding-right: 30px;

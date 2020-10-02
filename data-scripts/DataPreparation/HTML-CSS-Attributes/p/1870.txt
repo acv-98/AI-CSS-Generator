@@ -1,0 +1,9 @@
+	color: #333;
+	margin-bottom: 20px;
+	width: 100%;
+ margin-bottom: 0; .tm-about-description-2 {
+	padding-top: 25px;
+	padding-right: 25px;
+ margin-bottom: 50px; 		line-height: 1.8;
+		margin-bottom: 10px; 
+ margin-bottom: 50px; 

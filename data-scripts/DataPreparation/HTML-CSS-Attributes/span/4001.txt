@@ -1,0 +1,8 @@
+  content: "\e080";
+  position: absolute;
+  top: 50%;
+  z-index: 5;
+  display: inline-block;
+  margin-top: -10px;
+  right: 50%;
+  margin-right: -10px;

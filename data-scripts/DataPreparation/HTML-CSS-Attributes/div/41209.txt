@@ -1,0 +1,5 @@
+	overflow:hidden;
+	margin-right:10px;
+	width:300px;
+	margin-top:6px;
+	padding-top:13px;

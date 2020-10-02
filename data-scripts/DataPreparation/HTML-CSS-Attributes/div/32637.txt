@@ -1,0 +1,2 @@
+ margin-right: 15px;  position: relative; float:left; padding: 14px 12px; width: 40px; height: 34px; background: url(images/date-ico.png) no-repeat 0 0; 
+ color:#00acef; font-size: 22px; line-height: 22px; font-family: arial, sans-serif; font-weight: bold; display:block;  font-weight: bold; font-size: 9px; color:#c6c6c6; position:relative; margin-top: 0px; display:block; line-height:9px;  .main .entries .entry .date em { -webkit-transform: rotate(-90deg); line-height: 12px;

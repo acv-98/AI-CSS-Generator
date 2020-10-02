@@ -1,0 +1,12 @@
+	width: 100%;
+	padding-bottom: 20px;
+	clear:both;
+	cursor: pointer;
+	color: #6B6B6B;
+	margin: 0;
+	line-height: 1;
+	background-color: #f4f4f4;
+	font-size: 18px;
+	height: auto;
+	overflow: hidden;
+	

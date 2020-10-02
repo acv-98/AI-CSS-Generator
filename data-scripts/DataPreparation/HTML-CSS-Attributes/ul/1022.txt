@@ -1,0 +1,7 @@
+	padding: 0;
+	margin: 3rem 0;
+	display: inline-block;
+	border-right: 1px solid #ccc;
+	font-size: 2.5rem;
+	font-family: "poppins-bold", sans-serif;
+	color: #252525;

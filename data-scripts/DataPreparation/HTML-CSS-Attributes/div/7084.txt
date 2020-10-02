@@ -1,0 +1,1 @@
+width:1030px; margin:0 auto;background:#1c263c;padding-top:30px; padding-bottom:30px; float:right;padding-right:10px; float:left; list-style:none;width:1030px; margin:0 auto;

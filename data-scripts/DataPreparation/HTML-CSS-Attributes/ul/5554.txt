@@ -1,0 +1,11 @@
+	float:left;
+	width:40px;
+	height:40px;
+	font-size:30px;
+	color:#faf3ed;
+	line-height:34px;
+	text-align:center;
+	background:#a80002;
+	margin-right:20px
+	padding-bottom:15px
+	padding-top:2px

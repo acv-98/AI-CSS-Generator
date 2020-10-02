@@ -1,0 +1,16 @@
+            margin-left: 20px;
+            font-size: 30px;
+    display: table;
+    height: 400px;
+    vertical-align: middle;
+    color: #455a64;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    margin-top: 0;
+    padding-bottom: 25px;
+    position: relative;
+    border: 2px solid #455a64;
+    bottom: 5px;
+    content: "";
+    width: 75px;
+    line-height: 30px;

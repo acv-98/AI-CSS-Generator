@@ -1,0 +1,4 @@
+	text-decoration:none;
+	color:#21a6ff;
+	background:url(images/r_menu.gif) no-repeat right;
+	border:1px solid #ebe8e8;

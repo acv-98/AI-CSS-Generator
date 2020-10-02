@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	border-bottom:1px solid #fff;
+	width:920px;
+	float:left;
+	font-size:27px;
+	line-height:1.2em;
+	color:#fff;
+	text-decoration:underline;
+	background-color:#fff;
+	display:block;
+	font-weight:bold;
+	text-transform:uppercase;
+	text-align:left;

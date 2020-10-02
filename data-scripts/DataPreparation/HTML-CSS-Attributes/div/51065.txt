@@ -1,0 +1,2 @@
+ width:920px; margin:auto; clear:both; background:url(images/slider_top_frame.png) no-repeat center top; padding:18px 0 0 0;
+.flex-container a:active,

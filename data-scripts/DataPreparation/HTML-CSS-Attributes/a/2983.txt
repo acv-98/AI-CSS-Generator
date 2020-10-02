@@ -1,0 +1,1 @@
+ background:url(../images/til_ab.gif) repeat-x; float:left; padding:20px 74px; margin-right:1px; font: bold 15px Trebuchet MS; color:#fff; text-decoration:none; 

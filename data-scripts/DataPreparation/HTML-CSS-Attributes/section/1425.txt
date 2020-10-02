@@ -1,0 +1,11 @@
+  color: #00c6d7;
+  font-weight: 600;
+  font-size: 24px;
+    background: #00c6d7;
+    padding: 4px 6px;
+    font-size: 16px;
+    color: #fff;
+        border: none;
+        padding-top: 10px;
+        background: #00c6d7;
+        border-color: transparent;

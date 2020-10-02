@@ -1,0 +1,4 @@
+  float: none;
+  padding: 10px;
+  width: 252px;
+padding: 10px;width: 320px;width: 300px;background: url("images/32x32.png") no-repeat scroll 252px -1px #FFFFFF;float: none;text-align: left;font-size: 16px;margin-bottom: 5px;text-align:left;font-size:13px;font-weight:bold;

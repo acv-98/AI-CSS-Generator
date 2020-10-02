@@ -1,0 +1,8 @@
+	list-style: none;
+	float: left;
+	margin: 0 0 0 10px;
+	color: #fff;
+	font-size: 16px;
+	padding-left: 9px;
+	line-height: 1.1em;
+	border-left: none;

@@ -1,0 +1,6 @@
+    color: #ff5800;
+    position: relative;
+    line-height: 0px;
+    font-size: 36px;
+    top: 0;
+    left: 0;

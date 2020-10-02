@@ -1,0 +1,13 @@
+    margin: 0;
+    padding: 12px 0 0 0;
+    text-align: center;
+    font-size: 15px;
+    display: inline-block;
+    line-height: 24px;
+    content: "|";
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #B4BBBB;
+ content: none;  margin-right: 10px;    footer .copyright, footer .social-links {
+      text-align: center;
+      float: none;

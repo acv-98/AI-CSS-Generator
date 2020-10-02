@@ -1,0 +1,2 @@
+	padding:100px 0px;
+	background:rgba(221, 80, 65, 0.70);

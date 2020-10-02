@@ -1,0 +1,11 @@
+		width:100%;
+		padding:0;
+		left:0;
+		top:0;
+		height:5px;
+		background:url(../images/design/diag-hr.png) repeat-x transparent;
+		display:block;
+		margin:0 0 40px 0;
+background:none;margin-bottom:0;	.body .callout a.medium-button {
+		float:right;
+		margin-top:10px;

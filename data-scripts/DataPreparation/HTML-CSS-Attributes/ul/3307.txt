@@ -1,0 +1,6 @@
+	margin-bottom: 3%;
+	list-style: none;
+	padding: 0;
+	vertical-align: middle;
+	color: #000;
+	font-size: 0.85em;

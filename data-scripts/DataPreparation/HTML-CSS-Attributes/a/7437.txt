@@ -1,0 +1,4 @@
+	background-image: url(../images/button_navy.png);
+	border: 1px solid #a2afb8;
+	color: #515f6a;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);

@@ -1,0 +1,1 @@
+    background: transparent url(../images/icon-album.png) no-repeat right 5px

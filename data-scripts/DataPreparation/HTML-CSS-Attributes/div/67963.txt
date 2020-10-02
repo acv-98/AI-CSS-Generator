@@ -1,0 +1,15 @@
+	margin:0 auto;
+	overflow:hidden;
+	padding:0 0 15px 0;
+	width:960px;
+	float:left;
+	list-style:none;
+	color:#2a4f5e;
+	font-size:14px;
+	line-height:26px;
+	text-align:justify;
+	text-transform:uppercase;
+	text-decoration:none;
+	background:url(images/border-dashed.gif) repeat-x bottom left;
+	display:block;
+	border:1px solid #dbddde;

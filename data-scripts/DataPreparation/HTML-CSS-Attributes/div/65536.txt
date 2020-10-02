@@ -1,0 +1,3 @@
+    color:#503392;   
+    width:85%;
+    float: right;

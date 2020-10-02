@@ -1,0 +1,8 @@
+	font-size:9px;
+	font-family:verdana, arial, sans-serif;
+	color:#6a6a6a;
+	padding:15px 10px;
+	text-decoration:none;
+	margin:0;
+	line-height:normal;
+	float:left;

@@ -1,0 +1,1 @@
+width:504px; float:left; margin-top:52px;font-family: 'Tienne', serif; font-size:40px; color:#333333; text-transform:uppercase; font-weight:normal;color:#e5703d;font-size:40px; padding-bottom:1px;

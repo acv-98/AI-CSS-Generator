@@ -1,0 +1,5 @@
+	display:none;	
+   background: url(../img/line-divider.png) top left repeat-x; 
+    display: none;
+    min-height: 200px;
+    padding: 21px 10px;

@@ -1,0 +1,11 @@
+ margin: 5px 10px 10px 0px; 
+code {
+  	margin: 3px 0;
+  	padding: 20px;
+  	text-align: left;
+  	display: block;
+  	overflow: auto;  
+  	font: 500 1em/1.5em 'Lucida Console', 'Courier New', Monospace;
+  	border: 1px solid #251a14;
+	background-color: #130d0a; 
+ float: left; 

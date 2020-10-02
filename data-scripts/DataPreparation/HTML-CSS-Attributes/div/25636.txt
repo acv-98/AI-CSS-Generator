@@ -1,0 +1,11 @@
+	margin: 30px 15px;;
+	position: relative;
+	overflow: hidden;
+	border-radius: 100px 100px 0px 100px;
+	-webkit-box-shadow: 0 0 10px #ccc;
+	box-shadow: 0 0 10px #ccc;
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+	opacity: 1;
+	top: 50%;

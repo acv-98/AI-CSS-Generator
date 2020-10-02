@@ -1,0 +1,5 @@
+    padding-top: 47px;
+    margin-bottom: 29px;
+    border-bottom: 1px solid #414141;
+    position: relative;
+    top: 1px;

@@ -1,0 +1,1 @@
+ margin:5px 0 5px 0; padding:3px 0 3px 380px; margin:0; border:0; color:#FFF; float:left;

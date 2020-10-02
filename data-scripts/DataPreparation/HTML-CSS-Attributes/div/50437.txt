@@ -1,0 +1,6 @@
+	float:left;
+	display:inline;
+	width:415px;
+	padding-top:52px;
+	font-size:11px;
+	color:#585f63;

@@ -1,0 +1,4 @@
+font-size: .8em; line-height: normal; padding: 0
+.pane-list {
+	margin-bottom: 30px;
+	list-style: none;

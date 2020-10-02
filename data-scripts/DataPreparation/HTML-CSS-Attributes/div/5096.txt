@@ -1,0 +1,8 @@
+.lesson_title h1{
+    text-transform: uppercase;
+    line-height: 4.5rem;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    font-size:4.375rem;
+    color:#fff;
+    font-family: 'latolight';

@@ -1,0 +1,5 @@
+ border: none; .tm-button-gray { 
+	background-color: #666666;
+	color: white;
+	border: none;
+	padding: 12px 40px;

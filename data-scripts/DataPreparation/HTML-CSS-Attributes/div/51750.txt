@@ -1,0 +1,9 @@
+	width:653px;
+	float:left;
+	border-bottom:1px solid #535354;
+	color:#328952;
+	font-size:18px;
+	padding:0px 0px 4px 0px;
+	background-image: url(../images/our_services_heading.jpg);
+	background-repeat: no-repeat;
+	background-position: left;

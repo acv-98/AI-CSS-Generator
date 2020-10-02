@@ -1,0 +1,12 @@
+	float:left;
+	display:inline;
+	width:290px;
+	margin-right:52px;
+	font-size:20px;
+	font-weight:normal;
+	border-bottom:1px solid #ddd;
+	padding-bottom:4px;
+	margin-bottom:10px;
+	font-family:"Lucida Sans", Arial, sans-serif;
+	color:#00b4ea;
+	text-decoration:underline;

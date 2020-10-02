@@ -1,0 +1,6 @@
+  font-size: 3rem;
+  font-weight: 600;
+  letter-spacing: -1px;
+  margin-bottom: 1.5625rem;
+  font-family: 'Montserrat', sans-serif;
+  word-break: break-word;

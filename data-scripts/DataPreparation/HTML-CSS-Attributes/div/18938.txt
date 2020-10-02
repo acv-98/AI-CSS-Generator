@@ -1,0 +1,17 @@
+	height:1%;
+	float:none;
+	margin:0 auto;
+	overflow:hidden;
+	padding:80px 10px 50px;
+	width:940px;
+	font-size:14px;
+	line-height:24px;
+	text-align:justify;
+	display:block;
+	background:url(../images/border-dashed2.gif) no-repeat right bottom;
+	list-style:none;
+	min-height:214px;
+	color:#fff;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #204d4d;
+	border:1px solid #fff;

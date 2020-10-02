@@ -1,0 +1,4 @@
+	width:100%;
+	overflow:hidden;
+	height:auto !important;
+	min-height:100%;

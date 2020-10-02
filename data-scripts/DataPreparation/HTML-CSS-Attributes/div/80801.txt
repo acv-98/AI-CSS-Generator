@@ -1,0 +1,7 @@
+	margin: 4% 0;
+	text-align:center;
+	background: #ffffff;
+	width: 60%;
+	font-size: 1.1em;
+	color: #292929;
+	line-height: 1.5em;

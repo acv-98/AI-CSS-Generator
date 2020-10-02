@@ -1,0 +1,1 @@
+right:0right:0; text-align:right; -webkit-transform:translateX(100%); transform:translateX(100%)

@@ -1,0 +1,6 @@
+				background: transparent none;
+				border: none;
+				font-size: 15px;
+				width: 54px;
+				float: right;
+				cursor: pointer;

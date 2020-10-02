@@ -1,0 +1,6 @@
+	width:103px;
+	height: 33px;
+	border: 0;
+	float: right;
+	margin: 5px 10px 0 0;
+	background: transparent url(img/read_more.png);

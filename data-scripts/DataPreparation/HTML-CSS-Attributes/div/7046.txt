@@ -1,0 +1,7 @@
+	width:950px;
+	height:340px;
+	padding-left:10px;
+	padding-top:10px;
+	background:#d0d0c5;
+	margin-top:60px;
+	margin-bottom:60px;

@@ -1,0 +1,14 @@
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    background: #2e3537 none repeat scroll 0 0;
+    border: 1px solid #2e3537;
+    box-shadow: 0 0 0 7px transparent;
+    color: #aaa;
+    font-size: 14px;
+    height: 40px;
+    line-height: 21px;
+    -webkit-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+    width: 40px;

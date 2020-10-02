@@ -1,0 +1,5 @@
+	padding:8px 0 18px 55px;
+	background:url(images/left-quote.png) no-repeat 0 0;
+	margin-left:15px;
+	margin-right:15px;
+	padding-bottom:0 !important;

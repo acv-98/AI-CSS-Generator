@@ -1,0 +1,10 @@
+	display: block;
+	width: 70px;
+	height: 19px;
+	padding: 3px 5px;
+	color: #96e135;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+	background: url(images/button_01.png) no-repeat;

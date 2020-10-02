@@ -1,0 +1,5 @@
+	margin-bottom: 10px;
+	width: 50%; 
+ width: 25%; 		margin-bottom: 10px;
+		width: 33.3333%;
+ width: 25%; 

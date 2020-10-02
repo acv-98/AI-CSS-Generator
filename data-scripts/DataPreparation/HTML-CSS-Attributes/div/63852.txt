@@ -1,0 +1,2 @@
+	border-color: #527dca;
+	background-color: #527dca;

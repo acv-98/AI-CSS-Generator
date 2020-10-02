@@ -1,0 +1,9 @@
+    background: white;
+    width: 470px;
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    padding: 20px;
+    z-index: 1000;
+        position: static;
+        width: 100%;

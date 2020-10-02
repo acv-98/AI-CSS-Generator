@@ -1,0 +1,1 @@
+ font-size: 28px; font-family: georgia ,arial, helvetica, serif; position: relative; top: 10px; left: -6px; 

@@ -1,0 +1,18 @@
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  display: table;
+  content: " ";
+  clear: both;
+    width: 750px;
+    margin-right: 0;
+    margin-left: 0;
+  border-radius: 6px;
+  max-width: 100%;
+    padding-right: 60px;
+    padding-left: 60px;
+	-webkit-transform: translate3d(0, -100%, 0) translate3d(0, 250px, 0);
+	transform: translate3d(0, -100%, 0) translate3d(0, 250px, 0);
+	opacity: 0;
+width: 100%;max-width: 1600px;

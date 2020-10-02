@@ -1,0 +1,18 @@
+        font-size: 14px;
+        line-height: 25px;
+    max-width: 280px;
+    display: block;
+    margin: 10px auto;
+    position: relative;
+    margin-bottom: 60px;
+    color: #999;
+    font-weight: 400;
+    padding: 0;
+    text-transform: none;
+    letter-spacing: 2px;
+    padding-bottom: 0px;
+    text-decoration: underline !important;
+    width: 80px;
+    background-color: #111;
+body.politics_version .message-box h2,
+body.politics_version .section-title h3 {

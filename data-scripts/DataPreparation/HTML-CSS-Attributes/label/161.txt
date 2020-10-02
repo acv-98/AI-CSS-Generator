@@ -1,0 +1,9 @@
+	height: 23px;
+	width: 26px;
+	display: block;
+	background: url(../images/arrow-icon1.png) no-repeat 0px 0px;
+	position: absolute;
+	right: -20px;
+	z-index: 999;
+	top: 45%;
+	left: -20px;

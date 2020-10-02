@@ -1,0 +1,14 @@
+ text-align: center;  max-width: 540px; margin: 0 auto;  margin-top: 30px; 	
+	margin-top: 30px;
+	text-align: left;
+	overflow: hidden;
+	-o-transition: all .8s; -moz-transition: all .8s; -webkit-transition: all .8s; -ms-transition: all .8s; transition: all .8s;
+	-o-transform: scale(1.25); -moz-transform: scale(1.25); -webkit-transform: scale(1.25); -ms-transform: scale(1.25); transform: scale(1.25);
+ color: #555;  color: #ff8a38; .blog-box h3 i {
+	padding-left: 10px;
+	color: #ccc;
+ padding-left: 15px; .blog-box-date {
+	padding-bottom: 10px;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding-right: 5px;

@@ -1,0 +1,5 @@
+		border-right: none; 
+		float: none;
+		padding-right: 0px;
+		width: 100%;
+		display: none;

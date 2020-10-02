@@ -1,0 +1,11 @@
+	float:left;
+	display:inline;
+	width:220px;
+	height:24px;
+	background:url(images/search.gif) no-repeat 0 0;
+	border:0;
+	font-family:"Lucida Sans", Arial, Sans-serif;
+	color:#7f7f7f;
+	font-size:11px;
+	text-transform:uppercase;
+	margin:5px 10px 0;

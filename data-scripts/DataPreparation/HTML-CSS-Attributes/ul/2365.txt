@@ -1,0 +1,15 @@
+    margin: 25px 0 25px 0;
+    padding: 0;
+    list-style: none;
+    float: left;
+    width: 290px;
+    height: 150px;
+    color: #3B3B3B;
+    position: relative;
+    background: url(../images/thumb-bg.png) no-repeat;
+    margin-right: 12px;
+    top: 19px;
+    left: 18px;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: "MerriweatherBold", Serif;

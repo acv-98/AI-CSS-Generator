@@ -1,0 +1,5 @@
+	width:580px;
+	padding:40px 0;
+	border:5px solid #bbb;
+	margin:0 5px;
+	font-size:1.2em;

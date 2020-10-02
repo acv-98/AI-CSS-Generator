@@ -1,0 +1,4 @@
+		display: block;
+		padding: 50px 0;
+		position: relative;
+		background-color: #FFF;

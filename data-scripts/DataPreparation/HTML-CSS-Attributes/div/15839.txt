@@ -1,0 +1,11 @@
+floaT:left; width:386px.detail_content .box_1 h2{
+	float:left;
+	width:341px;
+	font:26px/28px "ZapfHumnst BT", Arial, Helvetica, sans-serif;
+	color:#ffdac4;
+	padding:34px 0 18px 44px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+float:left; width:341px; color:#e3d3bf; padding:0 0 11px 44px

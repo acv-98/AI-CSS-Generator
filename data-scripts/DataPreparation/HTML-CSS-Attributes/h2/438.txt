@@ -1,0 +1,16 @@
+	background: url("../images/bg/tab-price-gradient.png") repeat-x scroll 0 0 #FFFFFF;
+	border: 1px solid #D2D0D0;
+	margin: 0 0 20px;
+	max-width: 280px;
+	border-bottom: 1px solid #D2D0D0;
+	height: 100px;
+	text-align: center;
+	font-size: 13px;
+	line-height: 4em;
+	padding: 0 !important;
+	list-style: none outside none;
+	color: #999999;
+	display: inline-block;
+	text-transform: uppercase;
+	width: auto;
+	text-decoration: none;

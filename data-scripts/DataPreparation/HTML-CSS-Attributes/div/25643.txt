@@ -1,0 +1,8 @@
+    border-top: none;
+    border-bottom: 5px solid #28a9e2;
+    border-radius: 50% 50% 0 50%;
+    overflow: hidden;
+    transition: all 0.5s ease 0s;
+    border-bottom-color: #1c142b;
+    width: 100%;
+    height: auto;

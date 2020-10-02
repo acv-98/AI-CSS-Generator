@@ -1,0 +1,10 @@
+	display: none;
+	position: absolute;
+	width: 100%;
+	color:#39596e;
+	 border: 1px solid #3c7f9f;
+	background-color: #c2e8f4;
+	text-align: center;
+	padding: 20px 10px;
+	z-index: 999;
+	box-sizing: border-box;

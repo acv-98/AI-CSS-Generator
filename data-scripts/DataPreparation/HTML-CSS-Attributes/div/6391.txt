@@ -1,0 +1,2 @@
+	text-align: center;
+color:#f5bc04

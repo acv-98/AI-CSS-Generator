@@ -1,0 +1,1 @@
+ background:#FFF;padding-top:30px; float:left; width:100%;

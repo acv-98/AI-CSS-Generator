@@ -1,0 +1,7 @@
+	position:relative;
+	padding-left:114px;
+	width:331px;
+	left:1px;
+	top:4px;
+	display:block;
+	padding-bottom:18px;

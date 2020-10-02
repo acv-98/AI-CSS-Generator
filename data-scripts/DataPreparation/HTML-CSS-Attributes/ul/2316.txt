@@ -1,0 +1,9 @@
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	background: rgba(255, 255, 255, 0.71);
+	color: #666;
+	padding: 1em;
+	margin: 0 0 .75em .75em;
+	padding-right: 8px;
+	padding-bottom: .5em;

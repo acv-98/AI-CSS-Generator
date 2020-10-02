@@ -1,0 +1,8 @@
+	background:url(../images/morebg1.jpg) 0 0 no-repeat;
+	width:120px;
+	height:39px;
+	text-decoration:none;
+	text-align:center;
+	font:bold 14px/34px Lucida Sans, Arial, Helvetica, sans-serif;
+	display:block;
+	color:#ffea04;

@@ -1,0 +1,14 @@
+	background:#373737 url(images/dark_gradient.jpg) repeat-x;
+	padding:30px 10px 5px;
+	text-align:right;
+	font-size:1.8em;
+	font-weight:normal;
+	letter-spacing:.25em;
+	color:#fff;
+	margin-bottom:15px;
+	-moz-border-radius-topleft:8px;
+	-khtml-border-radius-topleft:8px;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	-khtml-border-radius-bottomright:8px;
+	-webkit-border-bottom-right-radius:8px;

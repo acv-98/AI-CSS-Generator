@@ -1,0 +1,1 @@
+ position: absolute; width: 8px; height: 7px; background: url(images/quote.png) no-repeat 0 0;  background-position: 0 0; top: -7px; left: 0;  background-position: 0 bottom; right: 0; bottom: -7px; 

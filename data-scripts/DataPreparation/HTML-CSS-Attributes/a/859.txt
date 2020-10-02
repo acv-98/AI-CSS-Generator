@@ -1,0 +1,7 @@
+	display:block;
+	float:left;
+	background:url(../images/link1-right.png) no-repeat right top;
+	color:#fff;
+	text-decoration:none;
+	cursor:pointer;
+	padding:0 12px;

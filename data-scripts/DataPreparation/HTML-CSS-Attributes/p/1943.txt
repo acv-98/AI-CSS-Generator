@@ -1,0 +1,9 @@
+	margin-bottom:12px;
+	padding:10px 0 10px 16px;
+	color:#929292;
+	background:url(../images/infopost.gif) repeat left top;
+	text-decoration:underline;
+	display:block;
+	float:right;
+	font-weight:normal;
+	padding-left:4px;

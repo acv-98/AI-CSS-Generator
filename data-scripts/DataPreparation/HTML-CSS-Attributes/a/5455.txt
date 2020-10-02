@@ -1,0 +1,4 @@
+	color: #9e5106;
+	margin: 0;
+	border-color: #fff
+ background-position:0 -58px; color:#ffffff; 

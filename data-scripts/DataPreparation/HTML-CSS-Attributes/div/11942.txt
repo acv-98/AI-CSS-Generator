@@ -1,0 +1,2 @@
+	background:rgba(0,0,0,.5) url(../images/pattern.png);
+	padding-top:100px;

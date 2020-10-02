@@ -1,0 +1,1 @@
+background: url(../images/bg.jpg) center 0 repeat-y; width:100%; min-height:100%;

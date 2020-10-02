@@ -1,0 +1,4 @@
+		font-size: 24px;
+	font-family: 'Marck Script', cursive;
+	color: #dd666c;
+	text-decoration: underline;

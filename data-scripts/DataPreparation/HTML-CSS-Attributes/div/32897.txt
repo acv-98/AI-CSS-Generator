@@ -1,0 +1,4 @@
+	width: 90%;
+	padding: 10% 0 10%;
+	display: block;
+	margin: 68px auto 73px;

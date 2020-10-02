@@ -1,0 +1,9 @@
+.dropdown-content	@media screen and (max-width: 719px) {
+		.dropdown-content {
+		    display: none;
+		    position: absolute;
+		    background-color: white;
+		    padding: 5px;
+		    z-index: 1;
+		    left: 0;
+			    display: block;

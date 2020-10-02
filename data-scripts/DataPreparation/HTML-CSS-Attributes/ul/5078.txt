@@ -1,0 +1,6 @@
+	text-decoration:none;
+	line-height:18px;
+	padding:6px 0 6px 20px;
+	background:url(../images/marker-1.png) 0 12px no-repeat;
+	display:inline-block;
+	color:#7f7f7f;

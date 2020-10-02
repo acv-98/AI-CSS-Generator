@@ -1,0 +1,10 @@
+	behavior:url("../js/PIE.htc");
+	position:relative;
+	background:url(../images/button-3.jpg) 0 0 repeat-x #b21903;
+	border-radius:5px;
+	color:#fff;
+	font-size:14px;
+	line-height:18px;
+	padding:11px 29px 11px 29px;
+	display:inline-block;
+	margin-top:23px;

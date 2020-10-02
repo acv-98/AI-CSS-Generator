@@ -1,0 +1,1 @@
+margin-bottom: 40px !important;background: url(../img/hh-divider.png) repeat-x 50%; margin-bottom: 50px; margin-top: 20px; height: 7px;	

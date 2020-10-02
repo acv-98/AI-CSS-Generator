@@ -1,0 +1,12 @@
+    width: auto;
+    margin-left: -30px;
+  list-style: none;
+  *zoom: 1;
+  display: table;
+  content: "";
+  clear: both;
+  float: left;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 12px;
+  color: #888888;

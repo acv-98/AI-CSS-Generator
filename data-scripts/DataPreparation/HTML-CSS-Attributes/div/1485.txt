@@ -1,0 +1,6 @@
+    font-size: 14px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    padding-bottom: 1rem;
+    margin-bottom: 0;
+    color: #ffffff;

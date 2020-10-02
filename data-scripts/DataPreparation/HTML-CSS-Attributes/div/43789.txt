@@ -1,0 +1,6 @@
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 25px;
+	height: 83px;
+	background: url(images/site_title_right.png);

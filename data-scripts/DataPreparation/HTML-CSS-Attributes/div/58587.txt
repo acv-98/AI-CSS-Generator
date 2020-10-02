@@ -1,0 +1,12 @@
+	float: left;
+	width: 29.33%;
+	margin-right: 5%;
+	text-align: center;
+	color: #3D3E41;
+	font-size: 1.8em;
+	padding: 0.5em 0;
+	font-weight: 100;
+	line-height: 1.7em;
+		width: 31.33%;
+		margin-right: 2%;
+		font-size: 1.5em;

@@ -1,0 +1,5 @@
+	margin-left:280px;
+	font:bold 16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-shadow:#fff 1px 1px 1px;
+	color:#49481b;
+	margin-bottom:8px;

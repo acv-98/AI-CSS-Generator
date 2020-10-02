@@ -1,0 +1,14 @@
+	padding: 30px 0;
+	font-size: 16px;
+	color: white;
+	text-transform: uppercase;
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+ font-weight: 600; .tm-yellow-btn {
+	width: 130px;
+	height: 40px;
+	background-color: #F5D338;
+	border: medium none;
+	margin: 24px auto;
+	box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.3);

@@ -1,0 +1,5 @@
+width:280px;
+height:250px;
+	width:320px;
+	height:300px;
+	overflow:hidden;

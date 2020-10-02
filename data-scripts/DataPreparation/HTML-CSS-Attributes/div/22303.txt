@@ -1,0 +1,13 @@
+  float: left;
+  width: 100%;
+  margin-bottom: 40px;
+  position: relative;
+  text-align: center;
+    width: 10%;
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 40px;
+  color: #37a000;
+  line-height: 1.8;
+    margin-bottom: 30px;
+  font-weight: 700;

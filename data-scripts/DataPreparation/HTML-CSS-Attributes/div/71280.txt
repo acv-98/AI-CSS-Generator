@@ -1,0 +1,9 @@
+	text-align:right;
+	padding:5px 0px 0px 0px;
+	border-bottom:1px solid #C4C4C4;
+	margin:0px 0px 2px 0px;
+	font:10px Tahoma, Arial, Helvetica, sans-serif;
+	color:#707070;
+	text-transform:uppercase;
+	text-decoration:none;
+	background:url(../images/disc.jpg) 0px 3px no-repeat;

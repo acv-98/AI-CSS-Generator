@@ -1,0 +1,13 @@
+  margin-top: 100px;
+  margin-bottom: 100px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    position: relative;
+    font-size: 30px;
+    color: #061e37;
+    font-weight: bold;
+      color: #fff;
+    max-width: 520px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Roboto-Light;

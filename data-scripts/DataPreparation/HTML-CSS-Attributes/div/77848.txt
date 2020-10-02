@@ -1,0 +1,4 @@
+    position: fixed;
+    width: 20.8%;
+       position: inherit;
+       width: auto;

@@ -1,0 +1,4 @@
+  width: 45%;
+  float: left;
+  margin-right: 5%;
+ float: left; margin: 0 2.0833% 2.0833% 0; display: inline;  width: 220px  width: 460px  width: 700px  width: 300px  width: 620px  width: 460px width:306px;

@@ -1,0 +1,4 @@
+	width:444px;
+	height:763px;
+	background:url(../images/banner.jpg) left top no-repeat;
+	margin-top:1px;

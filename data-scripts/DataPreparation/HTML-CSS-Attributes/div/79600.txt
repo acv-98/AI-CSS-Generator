@@ -1,0 +1,6 @@
+    font-size: 28px;
+    font-weight: bold;
+    margin: 20px 0 30px;
+    padding: 0;
+    line-height: 1;
+    color: #ffffff;

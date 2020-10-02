@@ -1,0 +1,14 @@
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-size: 13px;
+  display: inline-block;
+  background: #ebebeb;
+  padding: 7px 20px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  -moz-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  color: #fff;

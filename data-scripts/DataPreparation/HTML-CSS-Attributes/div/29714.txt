@@ -1,0 +1,16 @@
+	background-image:none;
+ 	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/image-box.png', sizingMethod='image');
+	position:relative;
+	top:0;
+	left:0;
+	float:left;
+	display:inline;
+	width:204px;
+	height:210px;
+	padding:0 4px;
+	margin:0 10px 20px 0;
+	border-top:1px dashed #000;
+	margin-top:15px;
+	color:#231f19;
+	text-align:center;
+	padding-top:8px;

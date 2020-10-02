@@ -1,0 +1,13 @@
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  text-align: center;
+  content: " ";
+  display: table;
+  clear: both;
+  color: #ffffff;
+  border: 0 none;
+  font-size: 50px;
+  transition: all 0.3s ease-in-out;
+	color: #4c9cef;
+         font-size: 22px;

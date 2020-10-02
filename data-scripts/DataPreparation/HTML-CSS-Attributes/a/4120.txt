@@ -1,0 +1,14 @@
+    float:left;
+    padding:15px 15px;
+    font-size:18px;
+    line-height:20px;
+    height:50px
+    text-decoration:none
+    display:block
+        margin-left:-15px
+    color:#777
+    background-color:transparent
+		max-width: 180px;
+	height:inherit;
+	padding: 10px 0 10px;
+    max-width: 150px;

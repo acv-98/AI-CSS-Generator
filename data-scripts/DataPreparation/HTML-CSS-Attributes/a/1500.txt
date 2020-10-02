@@ -1,0 +1,14 @@
+	background-color: transparent;
+	border-radius: 4px;
+	color: #fff;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 1.5px;
+	padding: 12px 35px;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+		font-size: 14px;
+		padding: 12px 22px;
+		margin-top: 15px;
+		display: none;

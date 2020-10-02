@@ -1,0 +1,7 @@
+	color: white;
+    background-color: rgba(0,0,0,0.3);
+    border: none;
+    padding: 1rem 2.1rem;
+    font-size: 1.3rem;
+    transition: all 0.3s ease;
+	background-color: rgba(0,0,0,0.5);

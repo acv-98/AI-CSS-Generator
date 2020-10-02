@@ -1,0 +1,2 @@
+	background:#FF9900 url(images/arrow2.png) no-repeat 8px 2px;
+	color:#140900;

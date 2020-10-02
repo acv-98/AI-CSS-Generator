@@ -1,0 +1,8 @@
+.new_two_area .singel_two_left_vedio{
+    background: url(../images/video.jpg) no-repeat right center;
+    max-width: 80%;
+    margin-left: 20%;
+    text-align: center;
+    height: 465px;
+    line-height: 465px;
+    background-size: cover;

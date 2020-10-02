@@ -1,0 +1,7 @@
+	float:left;
+	display:block;
+	font-size:13px;
+	line-height:32px;
+	width:103px;
+	color:#808080;
+	font-family:Arial, Helvetica, sans-serif;

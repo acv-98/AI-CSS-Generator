@@ -1,0 +1,5 @@
+transition-delay:0.3s !important;
+-moz-transition-delay:0.3s !important;
+-ms-transition-delay:0.3s !important;
+-o-transition-delay:0.3s !important;
+-webkit-transition-delay:0.3s !important;

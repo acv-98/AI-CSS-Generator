@@ -1,0 +1,18 @@
+	float:left;
+	width:945px;
+	height:86px;
+	position:absolute;
+	bottom:-79px;
+	left:0;
+	list-style:none;
+	display:inline;
+	padding-left:2px;
+	background:url('images/slider-nav.gif') no-repeat 0 0;
+	color:#fff;
+	font-size:10px;
+	padding-top:20px;
+	text-decoration:none;
+	font-family:"Trebuchet MS", Arial, Helvetica, Sans-Serif;
+	font-style:normal;
+	background-image:none;
+	background-color:#505050;

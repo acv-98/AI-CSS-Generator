@@ -1,0 +1,9 @@
+	background:url(images/search-bg.gif) no-repeat 0 0;
+	width:202px;
+	height:30px;
+	margin:12px 0 0 0;
+	border:0;
+	font-size:11px;
+	line-height:14px;
+	color:#7a9cc0;
+	padding:8px 18px;

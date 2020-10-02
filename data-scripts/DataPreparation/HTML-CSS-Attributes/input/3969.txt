@@ -1,0 +1,22 @@
+    background-color: transparent;
+    border: none;
+    -moz-box-shadow: 0px 0px 0px;
+    -webkit-box-shadow: 0px 0px 0px;
+    -o-box-shadow: 0px 0px 0px;
+    box-shadow: 0px 0px 0px;
+    color: #fff;
+    height: 40px;
+    padding: 0 15px;
+    transition: all 0.4s ease;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    border-radius: 10px;
+    font-size: 15px;
+    margin: 8px;
+    width: 250px;
+    resize:none;
+color:#adadad;color:#adadad;color:#adadad;#contact_form .btn.submit_btn:hover {
+        width: 202px;
+        margin: 0;

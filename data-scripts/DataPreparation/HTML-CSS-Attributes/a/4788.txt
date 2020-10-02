@@ -1,0 +1,8 @@
+    border-radius: 0px;
+    background: #82ca9c;
+    color: #ededed;
+    padding: 12px 15px;
+    max-width:160px;
+    margin-top: 20px;
+    background-color: rgba(0, 173, 62, 0.75);
+    border-color:transparent;

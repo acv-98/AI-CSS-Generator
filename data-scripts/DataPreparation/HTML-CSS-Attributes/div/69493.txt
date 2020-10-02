@@ -1,0 +1,9 @@
+  padding: 15px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  border-top-color: #ddd;
+  border-bottom-color: #ddd;
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(0, 1%, 33%);
+  margin-bottom: 20px;
+  padding: 10px 0;  text-align: center;  padding: 10px 0;  text-align: center;

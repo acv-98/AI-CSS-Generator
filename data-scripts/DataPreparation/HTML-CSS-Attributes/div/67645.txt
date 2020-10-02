@@ -1,0 +1,3 @@
+	background:url(../images/left-bot-corner.gif) no-repeat left bottom;
+	min-height:315px;
+	height:auto!important;

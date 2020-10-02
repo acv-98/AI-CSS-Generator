@@ -1,0 +1,2 @@
+color:#ddd; font-size:12px; margin-right:10px; background-color:rgba(0,0,0,0.4); padding:3px 5pxtext-decoration:none; outline:nonemargin-right:5pxbackground:none.carousel-indicators
+color:#09ccolor:#09ccolor:#444color:#252525

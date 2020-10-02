@@ -1,0 +1,15 @@
+    background-attachment: fixed;
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    height: 100%;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: block;
+    min-height: 100%;
+    overflow: hidden;
+    vertical-align: sub;
+    width: 100%;
+    z-index: 2;

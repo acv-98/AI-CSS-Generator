@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	float:right;
+	list-style:none;
+	display:block;
+	color:#fff;
+	text-decoration:none;
+	background:#f00 url(images/menu_l.gif) no-repeat left top;

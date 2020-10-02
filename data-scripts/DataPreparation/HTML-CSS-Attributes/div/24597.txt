@@ -1,0 +1,1 @@
+float:left; display:inline; width:100%; background-color:#000; position:relative color:#fff; font-family:Oswald,sans-serif; font-size:15px; left:0; line-height:1.8em; margin-right:20px; overflow:hidden; padding:2px 18px 1px 19px; position:absolute; z-index:15.latest_newsarea spanbackground:none repeat scroll 0 0 #d083cf

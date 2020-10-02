@@ -1,0 +1,8 @@
+	float: left;
+	margin-top: 1px;
+	background: url('../images/phone.png') no-repeat;
+	width: 24px;
+	height: 24px;
+	display: block;
+	padding: 2px;
+	opacity: 0.6;

@@ -1,0 +1,6 @@
+	color: #383737;
+	margin-bottom: 5px;
+	border-bottom: 1px dashed #666;
+	padding: 2px 0;
+	font-size: 12px;
+	font-weight: bold;

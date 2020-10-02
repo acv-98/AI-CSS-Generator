@@ -1,0 +1,12 @@
+	margin:0;
+	padding:0;
+	height:50px;
+	background:url(images/menu.gif) repeat-x center top;
+	list-style:none;
+	float:left;
+	border-left:1px solid #eb7c3f;
+	border-right:1px solid #eb7c3f;
+	display:block;
+	color:#fff;
+	text-decoration:none;
+	font-size:13px;

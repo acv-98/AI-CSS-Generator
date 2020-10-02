@@ -1,0 +1,4 @@
+	display: none;
+	float: none;
+	text-align: center;
+	padding-right: 10px;

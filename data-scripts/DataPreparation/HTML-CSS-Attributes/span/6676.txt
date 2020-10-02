@@ -1,0 +1,1 @@
+ width: 956px; height: 11px; background: url(images/box-shadow-b.png) no-repeat 0 0; position: absolute; bottom: -4px; left: 0; display: block;

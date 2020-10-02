@@ -1,0 +1,33 @@
+	position: absolute; 
+	color: #454545; 
+	text-shadow: none; 
+	font-weight: 400; 
+	font-size: 35px; 
+	line-height: 42px; 
+	font-family: 'Open Sans',sans-serif; 
+	padding: 0px 4px; 
+	padding-top: 1px;
+	margin: 0px; 
+	border-width: 0px; 
+	border-style: none; 
+	background-color:none;	
+	letter-spacing: 0;		
+        white-space: nowrap;								
+        text-align: right;									
+    background:#fff;
+ z-index:1;.tp_inner_padding	{	box-sizing:border-box;
+						-webkit-box-sizing:border-box;
+						-moz-box-sizing:border-box;
+	visibility:hidden !important; display:none !important;	-	WRAPPER STYLES END	-
+	-	IE8 HACKS	-
+.noFilterClass {
+	filter:none !important;
+	left:0px; top:0px; position:absolute;width:100%;height:100%; width:100% !important; height:100% !important;	-	FULLSCREEN VIDEO ENDS	-
+.fullwidthbanner-container{
+	width:100% !important;
+	overflow:hidden;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";		-moz-opacity: 0;	-khtml-opacity: 0;	opacity: 0; position:absolute;
+	width:10000px; height:10000px;  background:url(../assets/coloredbg.png) repeat;.tp-loader 	{	background:url(../assets/loader.gif) no-repeat 10px 10px; background-color:#fff;  margin:-22px -22px; top:50%; left:50%; z-index:10000; position:absolute;width:44px;height:44px;
+				border-radius: 3px;
+				-moz-border-radius: 3px;
+				-webkit-border-radius: 3px;

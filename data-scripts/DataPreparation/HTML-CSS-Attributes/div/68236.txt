@@ -1,0 +1,4 @@
+	width:960px;
+	height:242px;
+	margin:0 auto;
+	background:url(images/footer-bg.gif) no-repeat center 0;

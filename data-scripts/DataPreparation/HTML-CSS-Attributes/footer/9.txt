@@ -1,0 +1,15 @@
+    border-color: #3197d6;
+    color: rgba(255, 255, 255, 1) !important;
+	background-image: none;
+	background-color: #000000 !important;
+        margin: 1.5rem 0;
+    display: table;
+    font-size: 18px;
+    line-height: 1;
+    padding: 0 0 0.5rem;
+    background: url(images/footer.png) repeat-x center bottom #edeff2;
+    background-color: #ffffff;
+    opacity: 0.1;
+    list-style: none;
+    margin-bottom: 0.3rem;
+    max-width: 290px;

@@ -1,0 +1,13 @@
+		list-style:none;
+		overflow:hidden;
+		padding:0;
+		width:100%;
+		position:relative;
+		background:url(../img/sep-vert.gif) no-repeat 50% 50%;
+		display:inline;
+		zoom:1;
+		margin:0;
+		float:right;
+float:left;	#map{
+		border:1px solid #535d6b;
+max-width: 100%; display: block;content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;height: 1%;display: block;zoom: 1;position: relative;

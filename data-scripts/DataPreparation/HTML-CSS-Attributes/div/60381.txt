@@ -1,0 +1,10 @@
+	border:1px solid #FF3366;
+	position:relative;
+	content:"Popular";
+	right:0;
+	top:40px;
+	background:#FF3366;
+	color:#fff;
+	padding:3px 10px;
+	border-radius:5px 0px 0px 5px;
+	

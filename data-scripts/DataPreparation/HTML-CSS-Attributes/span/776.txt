@@ -1,0 +1,4 @@
+    text-align: right;
+    display: inline-block;
+    width:15%;
+    color:#f9d423;

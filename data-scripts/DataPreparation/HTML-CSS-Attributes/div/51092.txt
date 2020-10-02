@@ -1,0 +1,11 @@
+	float: left;
+	width: 60px;
+	margin-top: 5px;
+	height: 52px;
+	text-align: center;
+	margin-right: 20px;
+	line-height: 48px;
+	color: #fff;
+	font-size: 30px;
+	background-color: #fd9220;
+	font-family: 'Open Sans', sans-serif;

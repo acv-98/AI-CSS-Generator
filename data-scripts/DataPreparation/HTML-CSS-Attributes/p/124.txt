@@ -1,0 +1,4 @@
+    float: left;
+    color: #fff;
+    padding: 55px 0px 0px 60px;
+    width:50%;

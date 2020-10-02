@@ -1,0 +1,9 @@
+	margin-bottom: 9px;
+	position: relative;
+	top: -5px;
+	font-size: 16px;
+	line-height: 19px;
+	color: #263555;
+	text-align: center;
+	padding-top: 49px;
+	padding-left: 14px;

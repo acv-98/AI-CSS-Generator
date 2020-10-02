@@ -1,0 +1,6 @@
+ background: url(images/latest-news-top.gif) no-repeat 0 top; padding: 7px; 
+.latest-news h2 { 
+	font: 22px/22px "Trebuchet MS", Arial, sans-serif;
+	color: #404040; 
+	margin-bottom: 10px; 
+	padding-left: 10px; 

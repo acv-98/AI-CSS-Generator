@@ -1,0 +1,5 @@
+	border-right: 1px solid #DDD; .tm-home-box-2-icon {
+	padding: 20px;
+	width: 60px;
+	height: 60px;
+	font-size: 1.4em;

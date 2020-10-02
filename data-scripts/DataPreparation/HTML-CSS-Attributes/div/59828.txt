@@ -1,0 +1,11 @@
+  font-size: 18px;
+  background: #ffffff;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  float: right;
+  text-transform: uppercase;
+  letter-spacing: 3px;

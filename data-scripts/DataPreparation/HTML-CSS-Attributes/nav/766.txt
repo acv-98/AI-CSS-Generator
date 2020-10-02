@@ -1,0 +1,8 @@
+  margin-top: 15px;
+  font-size: 24px;
+  margin-left: 15px;
+  color: #fff;
+  margin-bottom: 45px;
+  opacity: .75;
+    margin-bottom: 15px;
+    padding: 0;

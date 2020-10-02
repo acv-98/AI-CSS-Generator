@@ -1,0 +1,13 @@
+	height:293px;
+	width:960px;
+	display:block;
+	background:url(images/slider-bg.gif) no-repeat 0 0;
+	padding:7px 7px 84px 7px;
+	position:relative;
+	overflow:hidden;
+	border:1px solid #e3d0d0;
+	list-style:none;
+	float:left;
+	top:222px;
+	left:521px;
+	margin-right:0;

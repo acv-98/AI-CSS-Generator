@@ -1,0 +1,16 @@
+     position: absolute;
+     bottom: 100%;
+     left: 0;
+     background: #d8302f;
+     z-index: 1;
+     padding: 3px 20px 2px;
+     text-transform: capitalize;
+     color: #FFF;
+     font-size: 14px;
+     font-weight: 400;
+    content: "";
+    top: 1px;
+    width: 0;
+    height: 0;
+    border-bottom: 30px solid #d8302f;
+    border-right: 20px solid transparent;

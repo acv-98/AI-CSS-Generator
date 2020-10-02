@@ -1,0 +1,22 @@
+	border:1px solid #f0f0f0;
+	background: #fff;
+	border-radius:2px;
+	-webkit-transition:all 0.3s ease;
+	-moz-transition:all 0.3s ease;
+	-o-transition:all 0.3s ease;
+	transition:all 0.3s ease;
+	color:#fff!important;
+	font-size: 18px;
+	line-height: 30px;
+	margin: 0;
+	padding: 40px 0 10px;
+	text-transform:uppercase!important;
+	font-weight:400;
+	font-family: 'Open Sans', sans-serif;
+	
+	letter-spacing:-1px;
+	vertical-align:middle;
+	padding-left:5px;
+	list-style: none;
+  background: #2ec574; .feature-item{
+	text-align:center;

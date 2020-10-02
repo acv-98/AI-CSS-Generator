@@ -1,0 +1,5 @@
+    width: 25px;
+    height: 7px;
+    margin: 0;
+    background-color: #fff;
+	margin-bottom: 1px;

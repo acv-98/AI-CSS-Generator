@@ -1,0 +1,11 @@
+    position: relative;
+    text-align: center;
+    width: 180px;
+    height: 180px;
+    margin: 2em auto;
+    left: 0;
+    top: 0;
+	display: inline-block;
+    line-height: 180px;
+    font-size: 3em;
+    font-weight: 300;

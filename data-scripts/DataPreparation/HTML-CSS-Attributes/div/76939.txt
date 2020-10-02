@@ -1,0 +1,5 @@
+    width: 190px;
+    float: left;
+    padding-top: 112px;
+    padding-bottom: 60px;
+    text-align: right;

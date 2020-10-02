@@ -1,0 +1,5 @@
+	font-size:16px;
+	color:#888;
+	margin:0;
+	width:75px;
+	float:left;

@@ -1,0 +1,7 @@
+	margin:0 0 8px;
+	padding:6px 20px;
+	background:url(../images/article_bg.jpg) no-repeat left top;
+	border-bottom:1px solid #dfc988;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;

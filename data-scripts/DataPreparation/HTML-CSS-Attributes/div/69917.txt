@@ -1,0 +1,4 @@
+margin-bottom:15px;margin-right: 8px;.single_popular h2{color: #898989;
+font-size: 14px;
+color: #717171;font-size: 11px;.search{height: 30px;
+color:#000;

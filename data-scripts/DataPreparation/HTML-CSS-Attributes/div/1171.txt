@@ -1,0 +1,11 @@
+	position:absolute;
+	bottom:20px;
+	left:294px;
+	z-index:98;
+	margin:0px 0px 0 0;
+	float:left;
+	height:13px;
+	width:13px;
+	display:block;
+	background:url(../images/pagination.png) right 0 no-repeat;
+	background-position:left 0;

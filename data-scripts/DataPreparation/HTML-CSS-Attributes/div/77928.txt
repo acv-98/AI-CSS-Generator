@@ -1,0 +1,13 @@
+	background: transparent url(../img/black/btn_2.png);
+	width: 637px;
+	height: 328px;
+	margin: 21px 0 0;
+	padding: 20px 0 0 160px;
+	font-size: 28px;
+	color: #fff;
+	font-style:italic;
+	text-shadow: 1px 1px 10px #000;
+	display: block;
+	line-height:24px;
+	border: 0;
+	float: right;

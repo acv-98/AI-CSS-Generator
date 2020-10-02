@@ -1,0 +1,2 @@
+		background: rgba(64, 75, 97, 0.9);
+    border-top: 0;

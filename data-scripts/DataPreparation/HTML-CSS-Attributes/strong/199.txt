@@ -1,0 +1,13 @@
+	width:70px;
+	height:55px;
+	text-align:center;
+	font-family: 'Passion One', cursive;
+	font-weight:300;
+	color:#fff;
+	font-size:36px;
+	line-height:42px;
+	display:inline-block;
+	padding-top:15px;
+	background:url(../images/number-1.png) 0 0 no-repeat;
+	float:left;
+	margin-right:7px;

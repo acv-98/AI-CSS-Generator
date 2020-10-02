@@ -1,0 +1,11 @@
+	float:right;
+	width:250px;
+	height:30px;
+	background:url(../images/search-bg.png);
+	margin-top:40px;
+	list-style:none;
+	display:block;
+	border: 0 solid green;
+	color: #8B8B8B;
+	padding-left: 10px;
+	line-height:30px;

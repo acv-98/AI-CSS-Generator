@@ -1,0 +1,12 @@
+	display: block;
+	width:13px;
+	height: 13px;
+	float: left;
+	background: url(../img/autumn/pager.png) no-repeat;
+	background-position: -18px 0px;
+	margin-left: 5px;
+	text-indent: -9000px;
+	overflow: hidden;
+	position: absolute;
+	right: 0px;
+	margin-bottom: 230px;

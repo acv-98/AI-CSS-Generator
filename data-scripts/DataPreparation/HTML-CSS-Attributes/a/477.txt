@@ -1,0 +1,6 @@
+	position: relative;
+	background: url(images/menu_hoer_bg_right.png) right no-repeat;
+	top: 0;
+	left: 0;
+	width: 27px;
+	height: 26px;

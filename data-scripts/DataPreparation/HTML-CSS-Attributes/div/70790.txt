@@ -1,0 +1,1 @@
+float:left; display:inline; width:100%font-size:24px; line-height:1.5em; margin:0; padding:5px 0 0color:#444line-height:1.5em; padding:10px 0font-size:20pxline-height:1emfont-size:16px

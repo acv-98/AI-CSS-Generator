@@ -1,0 +1,4 @@
+	float:left;
+	width:80px;
+	padding-top:3px;
+	display:block;

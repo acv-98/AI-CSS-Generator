@@ -1,0 +1,5 @@
+  position: absolute;
+  top: 20%;
+  font-size: 24px;
+  left: -10px;
+  right: -10px;

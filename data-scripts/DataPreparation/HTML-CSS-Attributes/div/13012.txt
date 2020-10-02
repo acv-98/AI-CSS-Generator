@@ -1,0 +1,6 @@
+	color:#fff;
+	font-size:1.500em;
+	line-height:1em;
+	padding-top:15px;
+	background:#333;
+	background-color: #f05f40;

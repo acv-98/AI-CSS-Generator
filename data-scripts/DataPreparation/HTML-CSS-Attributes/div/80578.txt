@@ -1,0 +1,36 @@
+		display:block;
+		position:relative;
+		padding:5px 5px 5px 5px;
+		background-color:#e5e5e5;
+		border:1px solid #e1e0e0;
+		margin:0;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+background:#217b9d;		padding-bottom:13px;
+margin:0;		max-width:287px;
+margin-bottom:20px;background:url(../images/design/shadow-full-body-blog.png) center 274px no-repeat transparent;padding-bottom:25px;margin-bottom:-10px;border:1px solid #e0e0e0;background-color:#e5e5e5;position:relative;	.body .blog .border .meta {
+		min-width:61px;
+		min-height:46px;
+		z-index:100;
+		line-height:15px;
+		text-align:center;margin:auto;
+		font-family:"Open Sans"; font-size:20px;font-weight:600; color:#ffffff;
+font-size:10px;display:block;padding-bottom:1px;	* Style 2
+background-position:center 267px;	* Style 4
+position:relative;float:left;position:absolute;top:12px;left:6px;z-index:1000;background:none;padding:6px;background:#3aa9d2;color:#dedede;line-height:11px;font-size:11px;width:272px;height:161px;overflow:hidden;float:left;margin:0;padding:0;	.body .sidebar ul.blogs li img, .body .sidebar ul.img-list li img {
+		max-height:55px;
+		overflow:hidden;
+margin:4px;	.body .sidebar ul.blogs li p {
+		float:left;
+		font-size:11px;
+		margin-left:7px;
+margin:0;margin-top:-18px;margin-left:-18px;margin-bottom:10px;	.body .team {
+		margin-bottom:40px;
+			background:url(../images/design/img-thirds-shadow-small.png) center 110px no-repeat;
+			max-width:224px;
+margin-bottom:11px;max-width:489pxbackground:none;margin-bottom:11px;padding:0;		* Style 2
+left:461px;width:204px;height:121px;overflow:hidden;left:380px;position:relative;width:100%;float:none;margin-bottom:11px;max-width:408pxbackground:none;margin-bottom:11px;padding:0;		.body .body-wrapper {
+			width:460px;
+max-width:288pxbackground:none;margin-bottom:11px;padding:0;display:none;

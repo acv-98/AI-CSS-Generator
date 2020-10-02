@@ -1,0 +1,11 @@
+		padding-left: 0px;
+		padding-top: 15px;
+	font-size: .875em;
+	line-height: 23px;
+	background-color: #3498db;
+	border: 1px solid transparent;
+	border-radius: 2px;
+	color: #ffffff;
+	font-weight: 700;
+	padding-right: 5px;
+	border-color: #3498db;

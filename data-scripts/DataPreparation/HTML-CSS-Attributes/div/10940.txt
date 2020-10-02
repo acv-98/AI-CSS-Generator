@@ -1,0 +1,5 @@
+	text-align:center;
+	color:#313131;
+	font-weight:800;
+	margin:10px 0 10px 0;
+	text-transform:uppercase;

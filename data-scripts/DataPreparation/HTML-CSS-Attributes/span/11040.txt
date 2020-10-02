@@ -1,0 +1,2 @@
+	background: transparent url(../images/icon-category.png) no-repeat left center;
+	padding-left: 22px;

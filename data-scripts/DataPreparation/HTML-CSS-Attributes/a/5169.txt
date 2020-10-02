@@ -1,0 +1,10 @@
+	float:right;
+	margin:-20px 0;
+	padding:0;
+	width:52px;
+	font-size:26px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#fff;
+	border:1px solid #dedede;

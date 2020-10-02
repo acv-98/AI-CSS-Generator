@@ -1,0 +1,2 @@
+behavior:url(../js/PIE.htc);position:relative	  border-radius:13px;
+	-moz-border-radius:13px;

@@ -1,0 +1,26 @@
+ behavior:url(../js/PIE.htc); position:relative;
+.portfolio a:hover img{
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=40);
+	text-align: center;
+float:left;position:relative; .sf-menu>li {
+	float: left;
+	position: relative;
+	margin-left: 49px;
+	background: url(../images/menu_separator.png) 0 0 no-repeat;
+	content: '';
+	display: block;
+	top: 0;
+	width: 1px;
+	height: 33px;
+	left: -25px;
+	border-color: #a92c11;
+	font-size: 20px;
+	font-family: 'Noto Sans', sans-serif;
+	color: #c5c3c3;
+	line-height: 20px;
+	z-index: 999;
+	padding-top: 21px;
+	padding-bottom: 18px;
+	margin-bottom: 2px;
+	padding-left: 14px;
+	padding-right: 0 !important;

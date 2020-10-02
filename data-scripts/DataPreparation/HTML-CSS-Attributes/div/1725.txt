@@ -1,0 +1,8 @@
+	background: #bac63e;
+	box-shadow: none;
+    background-color: #f2f3f5;
+    border-radius: 0;
+    box-shadow: none;
+    height: 5px;
+    margin-bottom: 20px;
+    overflow: hidden;

@@ -1,0 +1,1 @@
+ background:url(images/header-bg-small.jpg) no-repeat left top; width:950px; height:252px;  padding:195px 0 0 2px;

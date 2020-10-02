@@ -1,0 +1,15 @@
+	margin:0;
+	padding:0;
+	width:960px;
+	float:right;
+	margin-bottom:0;
+	padding-bottom:8px;
+	font-size:24px;
+	line-height:1.2em;
+	color:#6e6e6e;
+	text-align:left;
+	display:block;
+	text-decoration:none;
+	background:url(../images/page_p.png) no-repeat left top;
+	background-image:url(../images/page_a.png);
+	border:none;

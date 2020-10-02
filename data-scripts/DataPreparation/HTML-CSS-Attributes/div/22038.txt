@@ -1,0 +1,11 @@
+   border: 1px solid #e9edf5;
+    border-radius: 5px;
+    padding: 0;
+    position: relative;
+    font-size: 18px;
+    margin:0 0 1rem;
+    margin-bottom: 0.6rem;
+    vertical-align: middle;
+    padding-right: 10px;
+    height: auto;
+    max-width: 100%;

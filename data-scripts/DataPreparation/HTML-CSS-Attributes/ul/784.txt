@@ -1,0 +1,15 @@
+	text-align: center;
+	margin: 13px 0 0;
+	display: inline-block;
+	width: 8px;
+	height: 8px;
+	cursor: pointer;
+	-webkit-transition: background-position 200ms;
+	-moz-transition: 	background-position 200ms;
+	-o-transition: 		background-position 200ms;
+	-ms-transition: 	background-position 200ms;
+	transition: 		background-position 200ms;
+		zoom:1;
+ *display: inline;
+	_height: 8px;
+ display:none;

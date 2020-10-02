@@ -1,0 +1,13 @@
+  background-color: #a5d549;  
+  border-color: #a5d549;  
+  border-radius: 0;
+  font-size: 18px;
+  height: 45px;
+  text-transform: uppercase;
+  width: 100%;
+  color: #fff;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

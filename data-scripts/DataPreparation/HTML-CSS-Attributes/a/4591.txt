@@ -1,0 +1,4 @@
+	margin: 10px;
+	padding: 16px 40px;
+	min-width: 200px;
+	font-size: 22px;

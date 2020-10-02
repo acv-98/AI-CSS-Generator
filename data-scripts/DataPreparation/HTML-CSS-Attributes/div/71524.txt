@@ -1,0 +1,2 @@
+  display:inherit;
+    clear: both;

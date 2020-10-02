@@ -1,0 +1,24 @@
+	font-size: 16px;
+	margin-right: 0;
+    float: right;
+    color: #000;
+    list-style:none;
+    margin-right:10px;
+    width:28px;
+    height:28px;
+    border-radius:20px;
+    background:#393939;
+    position:relative;
+    cursor:pointer;
+    padding-left:10px;
+    font-weight:bolder;
+ 
+    background-color: #a6b982;
+     -webkit-transition: background-color 1000ms linear;
+     -moz-transition: background-color 1000ms linear;
+     -o-transition: background-color 1000ms linear;
+     -ms-transition: background-color 1000ms linear;
+     transition: color 1000ms linear;
+      -webkit-transition: color 100ms linear;
+        float: none;
+        margin-top:20px;

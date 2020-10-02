@@ -1,0 +1,11 @@
+  float: left;
+  -webkit-transition: 0.3s all ease;
+  transition: 0.3s all ease;
+  opacity: 0.5;
+  margin-left: 26px;
+    width: 120px;
+    margin-left: 12px;
+    text-align: center;
+    float: none;
+    margin-bottom: 9px;
+    display: inline-block;

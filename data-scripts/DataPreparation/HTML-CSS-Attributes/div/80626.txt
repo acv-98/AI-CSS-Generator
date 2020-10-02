@@ -1,0 +1,15 @@
+		display:none;
+display:none;.flex-crop {
+	background:url(../images/flex/assets/crop.png) left top no-repeat transparent;
+	width:100%;
+	top:0px;
+	min-height:4px;
+	z-index:40;
+	position:absolute;
+	margin:0;
+	padding:0;
+display:none;.oneByOne1{
+	height: 400px;    
+	overflow: hidden;
+display:none;.nivoWrapper {
+	padding-bottom:7px;

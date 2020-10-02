@@ -1,0 +1,11 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-cnt-bg.png', sizingMethod='scale');
+	position:absolute;
+	left:0;
+	bottom:0;
+	height:44px;
+	width:947px;
+	padding:16px 0 0 33px;
+	font-size:21px;
+	line-height:25px;
+	color:#fff;

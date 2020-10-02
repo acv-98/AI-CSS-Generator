@@ -1,0 +1,5 @@
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-radius: 0;
+  border-bottom: 1px solid #f4f4f4;
+  border-bottom-width: 0;

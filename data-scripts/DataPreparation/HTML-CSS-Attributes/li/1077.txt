@@ -1,0 +1,2 @@
+	color: #dd6d8c;
+	border-top-color: #dd6d8d;

@@ -1,0 +1,10 @@
+ display: none !important;   min-height: 25px;
+  float: right;
+  padding: 0 0 0 15px;
+  text-align: right;
+  width: 310px;
+  margin-top: 8px;
+  position: absolute;
+  right: 20px;
+  bottom: 0;
+  color: #6f6f6f;

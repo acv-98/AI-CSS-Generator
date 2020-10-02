@@ -1,0 +1,9 @@
+	color: #222222;
+    font-family: DosisBold;
+    font-size: 34px;
+    font-weight: normal;
+    letter-spacing: -1px;
+    margin: 0 0 15px;
+    text-align: center;
+    text-transform: uppercase;
+	display:block;

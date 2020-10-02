@@ -1,0 +1,25 @@
+margin-top:20px;margin-top:49px;* Things Hidden in IE7
+		position:relative;
+		z-index:99999;
+		max-width:960px;
+		border-top:2px solid #3aa9d2;
+		margin-top:19px;
+		display:none;
+		list-style:none;
+		clear:both;
+		left: 50%;
+		width:151px;
+		opacity:0.97;
+		background:url(../images/design/submenu-pattern.jpg) top left repeat-y transparent;
+		top:0;
+		height:auto;
+		padding:0;
+		text-align:center;
+		font-weight:400;
+		border-bottom:1px solid #252628;
+		font-size:12px;
+		color:#bebebe;
+		line-height:19px;
+		transition: all 0.5s ease 0s;
+		margin-bottom:-2px;
+		background-position:left -30px;

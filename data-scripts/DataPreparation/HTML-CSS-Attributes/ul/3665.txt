@@ -1,0 +1,15 @@
+	margin: 20px 0;
+	position: relative;
+	list-style: none outside none !important;
+	width: 80% !important;
+	color: #030303;
+	line-height: 24px;
+	cursor: pointer;
+	height: 30px;
+	overflow: hidden;
+	top: 30px;
+	background: url("../images/icons/prev_button.png") no-repeat scroll 0 0 transparent;
+	left: 0;
+	text-indent: -100px;
+	right: 0;
+	background-position: left bottom;

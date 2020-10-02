@@ -1,0 +1,16 @@
+  width: 192px;
+border: 1px solid #595957;
+outline: 0;
+color: #999;
+-moz-border-left-colors: none;
+-moz-border-right-colors: none;
+-moz-border-top-colors: none;
+background: url("images/search.png") no-repeat scroll 5px 0px rgba(0, 0, 0, 0);
+border-color: -moz-use-text-color -moz-use-text-color -moz-use-text-color #595957;
+border-image: none;
+border-style: none none none solid;
+border-width: medium medium medium 1px;
+cursor: pointer;
+height: 22px;
+padding-left: 5px;
+text-indent: -99999px;

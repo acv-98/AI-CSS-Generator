@@ -1,0 +1,7 @@
+	padding-right: 2px;
+	background-image:url(../images/nav_button_sep.jpg);
+	background-repeat:no-repeat;
+	background-position:right;
+	border-bottom: 1px dotted #acacac;
+	padding-bottom: 20px;
+	margin-bottom: 20px;

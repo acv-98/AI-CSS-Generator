@@ -1,0 +1,8 @@
+    background: url(../images/bg.png) no-repeat top center fixed;
+    background-size:cover;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -ms-background-size:cover;
+    width: 100%;
+    overflow: hidden;
+    margin-top:25px;

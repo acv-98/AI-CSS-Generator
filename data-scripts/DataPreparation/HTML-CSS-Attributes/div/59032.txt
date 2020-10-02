@@ -1,0 +1,1 @@
+display:nonewidth:27%; margin-top:18pxfloat:left; margin-top:25px; width:20%background:url("images/star_active.png") no-repeat scroll 0 0 rgba(0,0,0,0); display:block; float:left; margin-right:2px; padding:0 10px; text-indent:-99999px

@@ -1,0 +1,14 @@
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;	
+	width: 380px;
+	height: 50px;	
+	cursor: pointer;
+	display: inline-block;
+	-webkit-backface-visibility: hidden;
+	border-top: none;	
+	background: #FFF;
+	color: #FFFFFF;	
+	text-shadow: none;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+	opacity:0.7;

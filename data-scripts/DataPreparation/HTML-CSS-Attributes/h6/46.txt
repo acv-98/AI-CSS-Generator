@@ -1,0 +1,4 @@
+	text-transform:uppercase;
+	font-weight:bold;
+	color:#ec8f23;
+	padding:0 0 10px 0;

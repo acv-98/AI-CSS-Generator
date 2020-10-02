@@ -1,0 +1,10 @@
+        width: 100%;
+    position: relative;
+    display: block;
+    margin-bottom: 30px;
+    color: #999;
+    padding: 0 58px;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 1 !important;

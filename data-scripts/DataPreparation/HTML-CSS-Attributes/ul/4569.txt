@@ -1,0 +1,7 @@
+	padding-left: 10px;
+	margin-top: 21px;
+	font-size: 18px;
+	color: #8cb2aa;
+	font-weight: 600;
+	float: left;
+	width: 68px;

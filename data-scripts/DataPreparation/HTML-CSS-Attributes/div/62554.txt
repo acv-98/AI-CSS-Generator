@@ -1,0 +1,5 @@
+  font-size: 12px;font-family: 'Roboto-regular';
+  display: block;
+  margin-bottom: 5px; text-align:center;
+  text-transform: uppercase;
+  color: #45aed6;

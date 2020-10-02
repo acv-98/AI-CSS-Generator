@@ -1,0 +1,21 @@
+        font-size: 1.125rem;
+        font-family: 'latobold';
+        color: #fff;
+        text-align: center;
+        margin-bottom: 20px;
+        padding-left: 10px;
+    .main_webhost_service_area .single_webhost_left_content p {
+        max-width: 60%;
+    margin-top: 10px;
+    width:100%;
+    overflow: hidden;
+    border: 1px solid #fff;
+    display: inline-block;
+    min-width: 125px;
+    height: 40px;
+    font-style: normal;
+    letter-spacing: 1px;
+    border-radius: 0;
+    background:##ffe13e;
+    border-left: 1px solid #ddd;
+    line-height: 40px;

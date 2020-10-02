@@ -1,0 +1,6 @@
+	width: 28px;
+	border-radius: 50%;
+	color: #c5c6ce;
+	text-align: center;
+	height: 26px;
+	line-height: 26px;

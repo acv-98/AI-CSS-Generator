@@ -1,0 +1,9 @@
+	margin-top:1em;
+	font-size: 0.875em;
+	color: #3D3E41;
+	line-height: 1.7em;
+	margin-bottom: 0.5em;
+	width:10px;
+	height:10px;
+	display:inline-block;
+	margin-right:0.5em;

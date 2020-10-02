@@ -1,0 +1,28 @@
+	background: #4F4F57;
+	padding: 5em 0;
+	color:#FFF;
+	width:140px;
+	height:140px;
+	display:inline-block;
+	border:6px solid #494951;
+	border-radius:30em;
+	-webkit-border-radius:30em;
+	-moz-border-radius:30em;
+	-o-border-radius:30em;
+	-ms-border-radius:30em;
+	z-index: 999;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+	font-weight: 600;
+	font-size: 1.6em
+	margin-top:4em;
+	position:relative;
+	top: 0px;
+	left:10%;
+	border-color:#EBEBEB;
+	background-size: 100%;
+	text-align: center;
+   padding: 3em 0;

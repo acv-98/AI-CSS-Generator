@@ -1,0 +1,5 @@
+float:left;
+width:148px;
+background:#FDD8EF;
+margin-left:331px;
+display:inline;	

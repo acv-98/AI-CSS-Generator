@@ -1,0 +1,10 @@
+	display: block;
+	width: 200px;
+	padding: 20px 0 0 40px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #37362f;	
+	margin-bottom: 20px;
+	text-decoration: none;	
+	margin-top: 5px;
+	letter-spacing: 5px;

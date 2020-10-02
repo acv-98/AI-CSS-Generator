@@ -1,0 +1,10 @@
+	border: 2px solid #a5d549;
+	color: #a5d549;
+	right: -60px;
+	left: -60px;
+	background-color: transparent;
+		left: -25px;
+		right: -25px;
+		width: 40px;
+		height: 40px;
+		font-size: 18px;

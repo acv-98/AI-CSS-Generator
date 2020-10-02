@@ -1,0 +1,7 @@
+	position:absolute;
+	bottom:1px;
+	left:2px;
+	width:62px;
+	text-align:center;
+	padding:1px;
+	color:#fff;

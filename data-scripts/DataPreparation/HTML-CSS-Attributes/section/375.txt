@@ -1,0 +1,11 @@
+	content: ' ';
+	position:absolute;
+	left:0;
+	height:25px;
+	width:100%;
+	background:#E7E7E7;
+	z-index:9;
+	top:0;
+	bottom:0;
+	overflow:hidden;
+		height:auto !important;

@@ -1,0 +1,11 @@
+  margin-top: -2px;
+  background-color: #00b1ba;
+  color: #ffffff;
+  width: 68px;
+  height: 68px;
+  text-align: center;
+  float: left;
+  margin-right: 32px;
+  font: 300 36px/68px 'Roboto Condensed', sans-serif;
+  border-radius: 500px;
+    margin-bottom: 30px;

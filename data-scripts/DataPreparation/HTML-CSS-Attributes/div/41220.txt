@@ -1,0 +1,8 @@
+	color:#b7273a;
+	font-size:48px;
+	line-height:60px;
+	font-style:italic;
+	text-align:center;
+	font-weight:normal;
+	display:block;
+	margin-top:-20px;

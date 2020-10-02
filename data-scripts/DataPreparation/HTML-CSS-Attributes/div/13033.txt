@@ -1,0 +1,4 @@
+clear:both;
+.commentlist img {float:left;
+								 position:relative;
+								 bottom:12px;

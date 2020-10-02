@@ -1,0 +1,8 @@
+	padding:10px 0;
+	font-size:10px;
+	line-height:10px;
+	text-transform:uppercase;
+	color:#6b7981;
+	text-decoration:none;
+	margin:0;
+	float:left;

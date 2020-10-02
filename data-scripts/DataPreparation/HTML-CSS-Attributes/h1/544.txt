@@ -1,0 +1,7 @@
+	background:url(images/entry-shadow.png) no-repeat 0 bottom;
+	height:44px;
+	padding:14px 0 0 8px;
+	font-size:20px;
+	text-transform:uppercase;
+	line-height:20px;
+	margin-bottom:20px;

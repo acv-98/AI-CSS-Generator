@@ -1,0 +1,4 @@
+	color:#2aabfc;
+	background:top repeat-x;
+	text-decoration:underline;
+	border:1px solid #ebe8e8;

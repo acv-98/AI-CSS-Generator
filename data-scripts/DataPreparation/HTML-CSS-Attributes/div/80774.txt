@@ -1,0 +1,4 @@
+	width: 87.1%;
+	float: right;
+		width: 85.1%;
+		font-size: 1.2em;

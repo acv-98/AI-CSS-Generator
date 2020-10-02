@@ -1,0 +1,22 @@
+	position:relative;
+	padding-top:40px;
+	
+	height:503px;
+	z-index:2;
+	overflow: visible !important;
+	left: 50%;
+	margin-left: -512px;
+	width: 1025px;
+	box-shadow:0 2px 2px #c5c3c3;	
+	top:387px;
+	text-align: center;
+	right:0;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:48px;
+	line-height:1em;
+	color: #fcfcfd;	
+	background: url(../images/banner.png) 0 0 repeat;
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+	font-style: normal;

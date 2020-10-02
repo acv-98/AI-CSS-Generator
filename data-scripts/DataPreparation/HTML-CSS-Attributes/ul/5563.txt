@@ -1,0 +1,10 @@
+    list-style: none;
+    padding: 0;
+    margin: 100px 0 30px;
+    font-size: 16px;
+    color: #000;
+    line-height: 40px;
+    position: relative;
+    content: "\f00c";
+    font-family: 'FontAwesome';
+    margin-right: 10px;

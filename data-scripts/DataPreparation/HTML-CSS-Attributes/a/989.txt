@@ -1,0 +1,10 @@
+  font-size: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  float: right;
+  margin-top: 16px;
+  font-family: "Montserrat", arial, sans-serif;
+  color: #444;
+  margin-left: 10px;
+  outline: none;
+  text-decoration: none;

@@ -1,0 +1,3 @@
+	clear:both;
+	border-bottom:2px solid #eee;
+	margin-bottom:45px;

@@ -1,0 +1,16 @@
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  margin-bottom: 40px;
+  border: 0;
+  margin-top: 20px;
+  padding: 0 !important;
+  list-style: none !important;
+  background: transparent;
+  box-shadow: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  background-clip: padding-box;
+  margin-left: 7px;
+  display: inline-block;
+  color: #e84c3d;
+  background-color: #e84c3d;

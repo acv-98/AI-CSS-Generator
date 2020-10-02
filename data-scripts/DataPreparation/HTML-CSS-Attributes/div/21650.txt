@@ -1,0 +1,2 @@
+ width: auto; height: 285px;  padding-bottom:24px; background:url('../images/shadows/960.png') no-repeat center bottom; text-align: center;  overflow: visible !important; 
+ width: auto; height: 100%; 

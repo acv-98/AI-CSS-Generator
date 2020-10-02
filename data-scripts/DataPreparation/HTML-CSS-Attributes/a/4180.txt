@@ -1,0 +1,10 @@
+	display: inline-block;
+	padding: 15px 20px;
+	background: #8ec1cd;
+	font-size: 22px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #fff;
+    -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px;
+ outline: 0; opacity: 0.6; color: #fff;  background: none; border: 1px solid #fff; .what-we-do-box {
+	margin-top: 30px;

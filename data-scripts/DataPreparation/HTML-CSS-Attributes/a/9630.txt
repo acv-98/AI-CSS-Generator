@@ -1,0 +1,2 @@
+  display: inline-block;
+  font: 600 22px/34px 'Dosis', sans-serif;

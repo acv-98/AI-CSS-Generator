@@ -1,0 +1,8 @@
+	width: 100%;
+	margin-bottom: 30px;
+	overflow: hidden;
+	margin-left: 90px;
+	float: left;
+	font-size: 30px;
+	color: #1f1f1f;
+	line-height: 1.5em;

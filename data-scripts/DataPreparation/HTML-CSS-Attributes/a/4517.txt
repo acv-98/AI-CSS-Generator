@@ -1,0 +1,1 @@
+ color:#fff; background:url(images/cart-link.gif) no-repeat 0 0; padding:0 0 0 32px; text-decoration: none; text-decoration: underline;

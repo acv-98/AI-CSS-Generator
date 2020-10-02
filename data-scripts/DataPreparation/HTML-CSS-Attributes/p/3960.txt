@@ -1,0 +1,6 @@
+  color: #666666;
+  display: block;
+  margin-top: 20px;
+  font-size: 12px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;

@@ -1,0 +1,4 @@
+  background: none;
+  color:#fff !important;
+		background:#fff;
+		background-color:#11141c;

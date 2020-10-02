@@ -1,0 +1,6 @@
+	border-color: transparent;
+	background-color: transparent;
+	padding: 0px;
+	box-shadow: none;
+	margin: 0px;
+	margin-bottom: 15px;

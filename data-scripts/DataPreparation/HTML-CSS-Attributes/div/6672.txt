@@ -1,0 +1,5 @@
+	width:510px;
+	height:225px;
+	overflow:hidden;
+	position:relative;
+	cursor:pointer;

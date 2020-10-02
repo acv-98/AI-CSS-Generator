@@ -1,0 +1,5 @@
+ background-color: #eaeaff; 
+.tm-bg-purple-1,
+.tm-bg-purple-2,
+.tm-bg-purple-3 {
+	color: #993399;

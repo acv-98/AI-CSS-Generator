@@ -1,0 +1,10 @@
+box-sizing:border-box;display:inline-block;margin:0;position:relative;vertical-align:middle
+	border: 1px solid #dde1e0;
+	height: auto;
+	min-height: 30px;
+	top: 4px;
+	right: 5px;
+	width: 12px;
+	border-width: 4px 3px 0 3px;
+	margin-left: -3px;
+	line-height: 32px;

@@ -1,0 +1,1 @@
+	background: url(../images/blog.jpg) no-repeat;

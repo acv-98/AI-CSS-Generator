@@ -1,0 +1,2 @@
+padding-top: 30px !important;  
+padding-top: 35px; text-align: center; color: #87b2c1; font-size: 16px; line-height: 24px; font-family: 'source_sans_proregular';color: #f9b701; font-size: 16px;  font-family: 'source_sans_probold';color: #fff; text-decoration: none;color: #87b2c1;color: #fff; text-decoration: none;   Modal styles starts here

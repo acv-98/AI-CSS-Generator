@@ -1,0 +1,15 @@
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	opacity: 0;
+	height: 100%;
+	width: 100%;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    transition: all .5s ease;	
+	filter: alpha(opacity=70);
+	color: #fff;
+	font-size: 26px;
+	text-transform: uppercase;

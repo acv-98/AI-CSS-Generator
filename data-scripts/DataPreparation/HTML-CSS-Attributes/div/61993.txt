@@ -1,0 +1,4 @@
+	background: url(../images/slider.png) no-repeat bottom center;
+	width: 470px;
+	height: 286px;
+	margin: 0 0 34px 0;

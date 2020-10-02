@@ -1,0 +1,7 @@
+	background:#355267;
+	margin:20px 0;
+	color:#fff;
+	text-decoration:none;
+	position: fixed;
+	width: 100%;
+	bottom:0;

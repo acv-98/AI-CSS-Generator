@@ -1,0 +1,1 @@
+color: #1fb4dd; cursor: pointer;color: #ff7378;

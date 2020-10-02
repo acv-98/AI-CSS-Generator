@@ -1,0 +1,7 @@
+	width: 829px;
+	height: 84px;
+	float: right;
+	background: url(../img/bkg_wait.png) no-repeat;
+	border:0;
+	margin: 25px 0 0;
+	line-height: 25px;

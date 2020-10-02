@@ -1,0 +1,9 @@
+  padding-right: 15px;
+  padding-left: 0;
+  text-align: right;
+  border-right: 5px solid #eee;
+  border-left: 0;
+  content: '';
+  right: 0;
+  left: auto;
+  float: right !important;

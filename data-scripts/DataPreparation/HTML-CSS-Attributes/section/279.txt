@@ -1,0 +1,6 @@
+  color: #fff;
+  font-family: Lora;
+  font-size: 1.5rem;
+  font-style: italic;
+    font-size: 0.75rem !important;
+    line-height: 1.5;

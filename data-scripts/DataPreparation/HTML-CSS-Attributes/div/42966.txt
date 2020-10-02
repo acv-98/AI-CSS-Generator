@@ -1,0 +1,10 @@
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border: 2px solid #890025;
+    background: #ffffff;
+    font-size: 60px;
+    color: #890025;
+    margin-bottom: 20px;
+    position: relative;

@@ -1,0 +1,11 @@
+		clear: both;
+		padding: 10px 20px;
+			float: left;
+			width: 200px;
+			font-size: 0.9em;
+			color: #292929;
+			padding-top: 10px;
+				width: 200px; height: 200px;
+				margin-bottom: 15px;
+				text-decoration: none;
+			font-weight: bold;

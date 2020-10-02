@@ -1,0 +1,12 @@
+	behavior: url("../js/PIE.htc");
+	position:relative;
+	display:block;
+	width:29px;
+	height:29px;
+	text-indent:-5000px;
+	background:url(../images/search-button-tail.gif) 0 0 repeat-x #000;
+	border-radius:6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	right:0;
+	top:0

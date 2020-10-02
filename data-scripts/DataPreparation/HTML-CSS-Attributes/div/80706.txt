@@ -1,0 +1,5 @@
+  margin-bottom: 2em;
+  padding-right: 1em;
+    padding-right: 0em;
+  line-height: 1.5;
+    font-size: 20px;

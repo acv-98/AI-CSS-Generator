@@ -1,0 +1,18 @@
+	color: #fff;
+	font-size: 35px;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: -5px;
+	min-height: auto;
+	border-bottom: 2px solid transparent;
+	font-weight: 400;
+	padding: 0 0 5px;
+	transition: all 0.5s;
+	background-color: transparent;
+		margin-top: -7px;
+		width: 145px;
+		font-size: 14px;
+		border-color: #fff;
+		background-color: transparent;
+		text-align: center;
+		display: inline-block;
+		padding: 7px 8px;

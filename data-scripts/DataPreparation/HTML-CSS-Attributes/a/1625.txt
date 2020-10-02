@@ -1,0 +1,2 @@
+	border-radius:300px;
+	font-weight:700;

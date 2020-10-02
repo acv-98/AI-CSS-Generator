@@ -1,0 +1,13 @@
+	font-weight:700;
+	display:inline-block;
+	width:36px;
+	color:#fff;
+	text-align:center;
+	background:url(../images/bg_title1.gif) 0 4px repeat-x;
+	margin-right:3px
+	border-top:5px solid #cdc8bc;
+	padding:15px 30px 29px
+	box-shadow:0 0 3px #a4a19a;
+	-moz-box-shadow:0 0 3px #a4a19a;
+	-webkit-box-shadow:0 0 3px #a4a19a;
+	position:relative

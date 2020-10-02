@@ -1,0 +1,8 @@
+	color: #858585;
+	font-size: 0.96em;
+	line-height: 1.5em;
+	text-align: center;
+	width: 60%;
+	margin: 0 auto;
+	padding: 0.8em 0 1em;
+		width: 90%;

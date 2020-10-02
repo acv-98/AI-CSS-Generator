@@ -1,0 +1,2 @@
+    height: 330px;
+    text-align: center;

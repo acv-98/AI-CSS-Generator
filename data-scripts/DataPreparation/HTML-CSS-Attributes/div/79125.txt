@@ -1,0 +1,9 @@
+  color: #696763;
+  font-size: 20px;
+  font-weight: 300
+  height: 335px;
+  margin-bottom: 20px;
+  padding: 15px 20px;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 10px;
+	display: inline-block;

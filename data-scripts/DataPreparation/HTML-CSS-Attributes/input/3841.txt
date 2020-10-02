@@ -1,0 +1,9 @@
+	float:left;
+	display:inline;
+	background:none;
+	border:0;
+	cursor:pointer;
+	text-decoration:underline;
+	text-transform:uppercase;
+	color:#939393;
+	font-family:"Times New Roman", Arial, sans-serif;

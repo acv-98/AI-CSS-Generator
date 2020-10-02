@@ -1,0 +1,9 @@
+	color:#5C9CC7;
+  color: #c09853;
+  text-align: left;
+  font-family: 'Noto Serif', sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 1.6em;
+  margin-bottom: 30px;
+  margin-left: 140px;

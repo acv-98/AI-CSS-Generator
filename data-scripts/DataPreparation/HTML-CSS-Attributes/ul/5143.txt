@@ -1,0 +1,2 @@
+margin:0; padding:0; list-style:none;display:inline-block; float:left; margin:0 5px 0 0; padding:0; line-height:normal;margin-right:0;
+display:block; width:30px; height:30px; line-height:30px; font-size:14px; text-align:center; border-radius:50%;color:inherit; background-color:#DADADA;color:#FFFFFF;background-color:#EA4C89;background-color:#3B5998;background-color:#DB4A39;background-color:#0E76A8;background-color:#C8232C;background-color:#EE802F;background-color:#00ACEE;float:none;

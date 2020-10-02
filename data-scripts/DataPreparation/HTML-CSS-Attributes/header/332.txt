@@ -1,0 +1,28 @@
+  background-size: 150% auto;
+        width: 550px;
+        text-align: center;
+        margin-top: 100px;
+        display: none;
+        height: auto;
+        margin-bottom: 60px
+        border-radius: 50%;
+        font-size: 25px;
+        line-height: 45px;
+        top: 40%;
+        bottom: 0;
+        left: 0;
+        position: absolute;
+        right: 0;
+        font-weight: 600;
+        padding: 10px 20px;
+        padding-bottom: 50px;
+	  background-size: 150% auto;
+	
+  background-image: url("img/header-bg.jpg");
+  background-repeat: no-repeat;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+    color: #fff;
+    float: right;
+    margin-right: 10px;
+    background: transparent;

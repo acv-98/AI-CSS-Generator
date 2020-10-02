@@ -1,0 +1,12 @@
+	background: #000000;
+	padding: 24px 30px 42px;
+	margin: 0;
+	width: 100%;
+	height: auto;
+	clear: both;
+	display: none;
+	text-align: left;
+	color: #FFFFFF;
+	line-height: 16px;
+	border: none;
+	padding-left: 1rem;

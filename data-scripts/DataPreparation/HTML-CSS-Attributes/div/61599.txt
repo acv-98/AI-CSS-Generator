@@ -1,0 +1,5 @@
+	color:#4bcaff;
+	
+	text-align:left;
+	font-family: 'latolight_italic';
+	font-size:14px;

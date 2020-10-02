@@ -1,0 +1,4 @@
+  background: #ffffff;
+  border-radius: 0px;
+  box-shadow: none;
+  height: 2px;

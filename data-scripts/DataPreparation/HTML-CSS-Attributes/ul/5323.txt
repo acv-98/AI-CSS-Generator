@@ -1,0 +1,2 @@
+border:none; background:none;border-radius:0;float:none; margin:0 auto;color:#ffffff;color:#ececec;box-shadow:none;
+background:#ca482a; opacity:0.9; border:none;font-size:14px; padding:10px 10px; border-bottom:1px solid #e46142;background-color:#ffffff;width:600px;position:relative; top:-35px;color:#ffffff; font-size:14px; padding:5px 25px;position:relative; top:-45px;color:#ffffff; font-size:14px; padding:10px 25px;position:relative; top:-55px;color:#ffffff; font-size:16px; padding:15px 25px;

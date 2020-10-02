@@ -1,0 +1,30 @@
+
+.portfolio-inner .mix {
+    display: none;
+	padding: 0px;
+    padding: 30px 10px;
+    list-style: none;
+    margin-top: 30px;
+    margin-left: 8px;
+    text-align: center;
+    background-color: #4c9cef;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    box-shadow: 0px 1px 2px 0px rgba(90, 91, 95, 0.15);
+    position: relative;
+    width: 100%;
+  top: 40%;
+  -webkit-transition: all 400ms ease-in-out;
+          transition: all 400ms ease-in-out;
+  content: "\f00e";
+  font-family: "FontAwesome";
+  opacity: 0;
+  left: 0%;
+  right: 0%;
+  height: 70px;
+  line-height: 70px;

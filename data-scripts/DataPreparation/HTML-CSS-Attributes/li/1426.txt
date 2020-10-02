@@ -1,0 +1,4 @@
+	background:url(../images/bg-menu-selected.jpg) no-repeat center top;
+	color:#492606;
+	text-shadow: 0 1px 0 #fff;
+	height:44px;

@@ -1,0 +1,1 @@
+background:url(../images/topic2.gif) 0 0 no-repeat;

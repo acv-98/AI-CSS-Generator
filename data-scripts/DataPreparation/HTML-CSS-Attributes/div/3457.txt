@@ -1,0 +1,2 @@
+	background:url(../images/line_ver1.gif) 220px 0 repeat-y;
+	padding:10px 0;

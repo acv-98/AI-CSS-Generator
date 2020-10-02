@@ -1,0 +1,6 @@
+    font: normal normal 200 50px/150px 'Fira Sans', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    color: #fff;
+    position: relative; 
+    top: -15px;

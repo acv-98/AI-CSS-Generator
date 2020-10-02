@@ -1,0 +1,9 @@
+	padding: 0;
+	float: left;
+	display: block;
+	position: relative;
+	height: 100%;
+	text-align: center;
+	text-decoration: none;
+	width: 100%;
+	z-index: 100;

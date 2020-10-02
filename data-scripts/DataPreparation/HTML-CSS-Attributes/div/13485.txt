@@ -1,0 +1,18 @@
+	clear:both;  *zoom: 1;
+  display: table;
+  line-height: 0;
+  content: "";
+  clear: both;
+  height: 0; 
+  visibility: hidden;
+  overflow:hidden; 
+display: block; clear:both;    
+   ie.css
+   Contains every hack for Internet Explorer,
+   so that our core files stay sweet and nimble.
+display: inline-block;* html .clearfix,
+    clear: both;
+    float: none;
+clear:both;.usquare_module_wrapper {
+	width:960px; 
+	margin:0 auto;

@@ -1,0 +1,12 @@
+    border-left:#FFF 2px solid;
+    padding:0 0 0 15px;
+    margin:0 0 0 15px;
+    float:right;
+    width:281px;
+    list-style:none;
+    overflow:hidden;
+    background:#949494;
+    font-size:14px;
+    color:#f1f1f1;
+    cursor:pointer;
+    height:30px;

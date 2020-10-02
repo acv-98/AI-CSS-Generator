@@ -1,0 +1,12 @@
+  position: relative;
+  top: 3px;
+  background-color: #f2f5f6;
+  padding: 31px 57px 40px 58px;
+  color: #626161;
+  font-style: italic;
+  margin-bottom: 11px;
+  display: block;
+  float: right;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 56px;

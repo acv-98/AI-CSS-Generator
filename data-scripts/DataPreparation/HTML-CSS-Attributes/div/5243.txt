@@ -1,0 +1,8 @@
+	text-align: center;
+	line-height: 20px;
+	color:#00BFF0;
+	font-size: 1em;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+	font-style: italic;

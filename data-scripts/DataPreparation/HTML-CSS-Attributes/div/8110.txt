@@ -1,0 +1,15 @@
+  display: none;
+  margin: 1.2rem auto 3rem;
+  width: 70px;
+  text-align: center;
+  -webkit-transform: translateX(0.45rem);
+  -ms-transform: translateX(0.45rem);
+  transform: translateX(0.45rem);
+  height: 9px;
+  background-color: #FFFFFF;
+  border-radius: 100%;
+  margin-right: .9rem;
+  -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+  animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;

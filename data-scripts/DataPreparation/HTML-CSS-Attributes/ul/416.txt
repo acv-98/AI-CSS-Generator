@@ -1,0 +1,9 @@
+padding-top:10pxbackground:#000;margin-bottom:8pxpadding-bottom:32pxcolor:#343434;line-height:24px.side-bar{
+width:280px;
+float:left;
+    border-radius:18px;
+	-moz-border-radius:18px;
+	-webkit-border-radius:18px;
+	 box-shadow:0 0 3px #c5c2a9;
+	-moz-box-shadow: 0 0 3px #c5c2a9;
+	-webkit-box-shadow:0 0 3px #c5c2a9;

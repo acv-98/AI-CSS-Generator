@@ -1,0 +1,19 @@
+	box-shadow: 0px 0px 14px #ededed;
+	display: inline;
+	float: left;
+	width: 100%;
+	padding: 25px 25px;
+	color: #323232;
+	font-size: 16px;
+	line-height: 1.5;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+.mu-blg-readmore-btn {
+	border-bottom: 1px solid #e5e5e5;
+	margin-bottom: 50px;
+	padding-bottom: 20px;
+	
+		padding: 15px 15px;
+		margin-top: 15px;
+		margin-bottom: 15px;

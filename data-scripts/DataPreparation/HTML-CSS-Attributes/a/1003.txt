@@ -1,0 +1,3 @@
+	background-repeat:no-repeat;
+	background-position:top left;
+	background-image:url(images/cart-left.png);

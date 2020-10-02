@@ -1,0 +1,7 @@
+		padding: 60px 0;
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		left: 0;
+		top: 0;
+		background-color: rgba(0, 30, 35, 0.8);

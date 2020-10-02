@@ -1,0 +1,16 @@
+            display: none;
+    margin-bottom: 75px;
+    color: #455a64;
+    font-family: "Raleway", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    position: relative;
+    width: -moz-fit-content;
+    padding-bottom: 25px;
+    background: #455a64 none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 65px;
+    line-height: 30px;
+    padding-top: 10px;

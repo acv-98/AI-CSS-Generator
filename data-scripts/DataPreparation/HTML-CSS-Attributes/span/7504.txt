@@ -1,0 +1,1 @@
+ clear:left; float:left; width:230px; height:41px; background: url(../images/memb_bg.gif) repeat-x;

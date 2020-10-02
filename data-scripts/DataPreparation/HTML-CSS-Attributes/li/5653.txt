@@ -1,0 +1,17 @@
+	top: 6.5px;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	background-color: transparent;
+	right: 100%;
+	width: 100%;
+	transition: all .5s ease-out 0s;
+	-webkit-transition: all .5s ease-out 0s;
+	-moz-transition: all .5s ease-out 0s;
+	-ms-transition: all .5s ease-out 0s;
+	-o-transition: all .5s ease-out 0s;
+	color: #09294c;
+	border: none;
+	border-bottom: 2px solid #c6c6c6;
+	font-weight: 700;

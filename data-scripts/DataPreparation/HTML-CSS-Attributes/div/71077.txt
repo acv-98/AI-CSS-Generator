@@ -1,0 +1,1 @@
+top:0; width:100%; left:0;display:none;float:left; font-size:28px; color:#ffffff; line-height:50px; margin-left:20px;display:none;

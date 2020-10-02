@@ -1,0 +1,9 @@
+    left: 200px;
+    width: 45px;
+    
+    bottom: -70px;
+    display: inline-block;
+    height: 7px;
+    background-color:none;
+    border:0;
+    border-radius:0;

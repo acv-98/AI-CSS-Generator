@@ -1,0 +1,5 @@
+    width:62.5em;
+    margin: auto;
+    max-width: 62.5em;
+    margin-top: 45px;
+    margin-bottom: 40px;

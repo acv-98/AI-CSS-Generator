@@ -1,0 +1,5 @@
+    font-size: 28px;
+    position: absolute;
+    top: 15px;
+	left: -30px;
+	font-weight: 700;

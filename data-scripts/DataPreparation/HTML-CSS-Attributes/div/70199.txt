@@ -1,0 +1,1 @@
+ width:350px; float:right; padding:0; margin:0; text-align:right; font: normal 12px Arial, Helvetica, sans-serif; color:#959595; padding:0; margin:0;

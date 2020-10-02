@@ -1,0 +1,4 @@
+    cursor: pointer;
+    height: 250px;
+    margin-bottom: 80px;
+        cursor: pointer;

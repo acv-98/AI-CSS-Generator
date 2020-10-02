@@ -1,0 +1,5 @@
+		border: none;
+		font-size: 2em;
+		padding-top: 10px;
+		margin: 0px;
+	outline: 0;

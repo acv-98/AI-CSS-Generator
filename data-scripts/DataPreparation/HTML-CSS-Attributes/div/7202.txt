@@ -1,0 +1,2 @@
+ float:left; width:630px; border-bottom:#f2f2f2 solid 1px; margin-bottom:60px; padding-bottom:20px; padding-bottom:30px;
+BLOCK CLASSES

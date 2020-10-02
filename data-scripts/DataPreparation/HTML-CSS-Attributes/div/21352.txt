@@ -1,0 +1,1 @@
+  border-bottom: 0.0625rem solid #717171;

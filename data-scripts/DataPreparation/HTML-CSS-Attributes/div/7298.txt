@@ -1,0 +1,2 @@
+background:url(../images/btn-more-n.gif) no-repeat; width:90px; height:40px; line-height:40px; text-align:center; color:#633039; font-size:17px; font-weight:bold; display:block; padding-bottom:30px;background:url(../images/btn-more-h.gif) no-repeat; color:#e18868;
+PRIMARY CONTENT CLASSS

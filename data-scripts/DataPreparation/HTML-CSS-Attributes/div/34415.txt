@@ -1,0 +1,5 @@
+	float:left;
+	width:515px;
+	padding-right:45px;
+	padding-left:50px;
+	color:#008cdd;

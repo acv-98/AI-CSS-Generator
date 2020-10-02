@@ -1,0 +1,9 @@
+  background: #00bcd4 none repeat scroll 0 0;
+  border-radius: 0;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  height: 45px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;

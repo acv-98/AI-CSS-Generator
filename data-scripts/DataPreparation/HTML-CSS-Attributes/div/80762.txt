@@ -1,0 +1,4 @@
+	float: left;
+	color:#F3A189;
+	font-size: 0.95em;
+	text-transform: uppercase;

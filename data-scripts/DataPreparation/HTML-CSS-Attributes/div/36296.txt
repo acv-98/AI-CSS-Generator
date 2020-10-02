@@ -1,0 +1,7 @@
+			clear: both;
+			font-size: 0.9em;
+			color: #888888;
+			margin-bottom: 0;
+				text-decoration: none;
+			padding: 10px;
+				color: #888888;

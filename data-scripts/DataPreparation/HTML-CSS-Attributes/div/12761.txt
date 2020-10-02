@@ -1,0 +1,10 @@
+.funding-meta h1 {
+	background: #99DEAB;
+	color: #fff;
+	border-radius: 4px;
+	display: table;
+	padding: 10px;
+	font-size: 25px;
+	font-weight:700;
+	margin: 30px 0px 10px 0px;
+	text-align:right;

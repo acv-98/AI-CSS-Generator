@@ -1,0 +1,12 @@
+  background-color: #FFF;
+  display: inline;
+  float: left;
+  padding: 50px 100px;
+  text-align: center;
+  width: 100%;
+  color: #555;
+  padding-bottom: 0px;
+    padding: 20px;
+    font-size: 18px;
+    line-height: 22px;
+    padding-bottom: 10px;

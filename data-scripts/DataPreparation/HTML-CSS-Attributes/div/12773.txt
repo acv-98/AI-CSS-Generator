@@ -1,0 +1,7 @@
+	padding: 20px;
+	background-color: #FFF;
+	border-radius: 4px;
+	margin-bottom: 10px;
+	display: block;
+	text-decoration:underline;
+	padding-right:10px;

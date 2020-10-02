@@ -1,0 +1,5 @@
+    margin-bottom: 46px;
+    padding-top: 82px;
+    margin-top: 5px;
+    margin-right: 16px;
+    padding-bottom: 82px;

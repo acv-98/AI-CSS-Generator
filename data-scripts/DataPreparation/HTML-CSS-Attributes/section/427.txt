@@ -1,0 +1,13 @@
+        padding-top: 15%;
+        display: none;
+    overflow: hidden;
+    width:100%;
+    position: relative;
+    opacity: 1;
+    left: 0;
+    top: 0;
+    height: 100%;
+    color: #fff;
+    transition: all 0.6s;
+    margin-bottom:5px;
+    font-size:2rem;

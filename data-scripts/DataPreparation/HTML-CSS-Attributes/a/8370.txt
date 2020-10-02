@@ -1,0 +1,1 @@
+ width: 154px; height: 58px; text-align: center; line-height: 50px; margin-top: 6px;  position: relative; left: -5px; color: #fff; text-shadow: rgba(0,0,0,0.5) 0px 1px 1px; font-size: 18px; display:block; background: url(images/red-btn.png) no-repeat 0 0; text-decoration: none; color: #f6c387;  

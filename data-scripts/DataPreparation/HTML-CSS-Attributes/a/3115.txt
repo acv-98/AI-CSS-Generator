@@ -1,0 +1,5 @@
+	float: right;
+	background: url(../images/arrow.png) right no-repeat;
+	padding-right: 26px;
+	text-decoration: none;
+	margin-bottom: 10px;

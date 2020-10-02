@@ -1,0 +1,11 @@
+	display:block;
+	width:105px;
+	height:36px;
+	background:url('images/button-big.gif') no-repeat 0 0;
+	line-height:36px;
+	color:#fff;
+	text-align:center;
+	text-decoration:none;
+	font-weight:bold;
+	margin-left:27px;
+	margin-top:7px;

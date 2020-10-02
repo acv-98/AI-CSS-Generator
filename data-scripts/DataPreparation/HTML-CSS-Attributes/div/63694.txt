@@ -1,0 +1,63 @@
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  font-size: 90%;
+  text-transform: uppercase;
+  background-color: #d9edf7;
+    line-height: 30px;
+  padding-right: 0;
+  padding-left: 0;
+  height: 30px;
+  border-radius: 3px;
+  color: #3c763d;
+  border-color: #3c763d;
+    display: inline-table;
+    vertical-align: middle;
+    width: auto;
+  opacity: 1;
+  float: left;
+  margin-left: 5px;
+  position: relative;
+  border-collapse: separate;
+  z-index: 2;
+  margin-bottom: 0;
+  white-space: nowrap;
+  font-weight: normal;
+  text-align: center;
+  margin-top: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-right: 0;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left: 0;
+  margin-right: -1px;
+  overflow-y: auto;
+    overflow-y: visible;
+  -webkit-transform: translate(0, 0);
+      -ms-transform: translate(0, 0);
+       -o-transform: translate(0, 0);
+          transform: translate(0, 0);
+  filter: alpha(opacity=50);
+  visibility: hidden;
+line-height:1.4	MASTER STYLESHEET
+	Project:        Metronic "Aitonepage" Frontend Freebie - Responsive HTML Template Based On Twitter Bootstrap 3.3.4
+	Version:        1.0
+	Author:         KeenThemes
+	Primary use:    Corporate, Business Themes.
+	Email:			support@keenthemes.com
+	Follow: 		http://www.twitter.com/keenthemes
+	Like: 			http://www.facebook.com/keenthemes
+	Website:		http://www.keenthemes.com
+	Premium:		Premium Metronic Admin Theme: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
+  	[The "base.scss" contains basic default element styles
+  		(colors, typography, margins & padding).]
+html {
+  overflow-x: hidden;
+position:relative;font-family:Hind,sans-serif@font-face {
+	font-family: 'Simple-Line-Icons';
+	src:url('fonts/Simple-Line-Icons.eot');
+		url('fonts/Simple-Line-Icons.woff') format('woff'),
+		url('fonts/Simple-Line-Icons.ttf') format('truetype'),
+		url('fonts/Simple-Line-Icons.svg#Simple-Line-Icons') format('svg');
+	font-weight: normal;
+	font-style: normal;

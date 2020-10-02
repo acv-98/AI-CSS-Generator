@@ -1,0 +1,2 @@
+	font:normal 40px/70px Trebuchet MS, Arial, Helvetica, sans-serif;
+	color:#fff;

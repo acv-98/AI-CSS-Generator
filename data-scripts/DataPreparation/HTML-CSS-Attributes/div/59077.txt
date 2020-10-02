@@ -1,0 +1,15 @@
+  color: #a5d549;
+  float: left;
+  display: inline;
+  width: 100%;
+  padding: 0px 15px;
+  font-size: 15px;
+  font-weight: normal;
+  margin-right: 5px;
+  border-right: 2px solid #ccc;
+  padding-right: 5px;
+  -webkit-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  padding-left: 0px;

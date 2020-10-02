@@ -1,0 +1,17 @@
+  position: relative;
+  float: right;
+  width: 48px;
+  height: 34px;
+  padding: 6px 12px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  background-color: transparent;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  display: block;
+  border-color: #333333;
+    position: relative;
+    top: auto;
+    left: auto;
+    display: none;
+		margin-right: 10px;

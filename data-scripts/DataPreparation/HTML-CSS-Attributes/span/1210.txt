@@ -1,0 +1,7 @@
+  background-color: #a5d549;
+  color: #fff;
+  padding: 5px 8px;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  top: 15px;

@@ -1,0 +1,6 @@
+  margin-left: 190px;
+  display: block;
+    margin-left: 0;
+  font-weight: 300;
+  font-size: 25px;
+    text-align: center;

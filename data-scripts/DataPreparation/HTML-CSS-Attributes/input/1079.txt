@@ -1,0 +1,2 @@
+  border-top-left-radius: 3.125rem !important;
+  border-bottom-left-radius: 3.125rem !important;

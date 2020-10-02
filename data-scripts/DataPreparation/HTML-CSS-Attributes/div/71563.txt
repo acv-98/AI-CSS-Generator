@@ -1,0 +1,7 @@
+  margin-bottom: 25px;
+  color:#4e4e4e;
+  font-size: 30px;
+  font-weight: 600;
+  display: block;
+  margin-top: 25px;
+  overflow: hidden;

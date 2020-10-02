@@ -1,0 +1,7 @@
+	color:#666;
+    margin-top: 20px;
+    border-left: 1px solid #ddd;
+    overflow: hidden;
+    padding-left: 15px;
+    line-height: 15px;
+    font-size: 13px;

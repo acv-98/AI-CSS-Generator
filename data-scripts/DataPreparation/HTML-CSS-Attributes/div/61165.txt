@@ -1,0 +1,14 @@
+	display: inline;
+	float: left;
+	color: #fff;
+	font-size: 14px;
+	width: 100%;
+	text-transform: uppercase;
+	margin-bottom: 35px;
+	border-bottom: 1px solid #1c85c4;
+	list-style: none;
+	padding-bottom: 12px;
+	line-height: 1;
+	margin-right: 10px;
+	margin-top: -5px;
+		margin: 15px 0;

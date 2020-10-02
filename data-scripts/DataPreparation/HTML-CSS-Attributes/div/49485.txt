@@ -1,0 +1,8 @@
+  width: 309px;
+height:120px;
+  max-height: 330px;
+  min-height: 330px;
+padding: 5px;
+margin-top: 15px;color: #000;font-size: 12px;color: #e47600;.single_content_feature span{margin-bottom: 15px;
+display: block;
+color: #aaaaaa;color: #000;.single_content_feature p{color: #555555;

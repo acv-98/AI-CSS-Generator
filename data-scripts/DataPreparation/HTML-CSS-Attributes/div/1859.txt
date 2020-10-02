@@ -1,0 +1,9 @@
+  border-color: #00a8cc;
+  padding: 30px;
+  font-size: 62px;
+  text-align: center;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  margin-bottom: 10px;
+  display: block;

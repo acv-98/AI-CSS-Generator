@@ -1,0 +1,12 @@
+    width: 100%;
+    margin-bottom: 15px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    border: 1px solid #dddddd;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    -webkit-overflow-scrolling: touch;
+    background-color: #fff;
+    white-space: nowrap;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;

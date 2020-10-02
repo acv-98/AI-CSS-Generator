@@ -1,0 +1,2 @@
+  -webkit-animation: vertical 2s ease infinite;
+  animation: vertical 2s ease infinite;

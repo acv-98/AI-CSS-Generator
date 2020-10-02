@@ -1,0 +1,13 @@
+	height: 45px;
+	width: 28px;
+	display: block;
+	background: url(../images/map-pin.png) no-repeat 0px 0px;
+	left: 50%;
+	position: absolute;
+	top: 250px;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+	cursor:pointer;

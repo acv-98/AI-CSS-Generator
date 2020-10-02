@@ -1,0 +1,16 @@
+	float:right;
+	width:221px;
+	padding-top:15px;
+	padding-right:24px;
+	position:relative;
+	background:url('images/search-field-bg.gif') no-repeat right;
+	border:0;
+	color:#fff;
+	font-size:11px;
+	font-family:Arial, Sans-Serif;
+	height:18px;
+	line-height:0;
+	text-indent:-4000px;
+	cursor:pointer;
+	top:-22px;
+	left:175px;

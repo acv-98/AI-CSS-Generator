@@ -1,0 +1,7 @@
+	background:url("../images/slideshow-frame.png") no-repeat scroll 0 0 transparent;
+	height:442px;
+	position:absolute;
+	top:0;
+	left: 0;
+	width:719px;
+	z-index: 10;

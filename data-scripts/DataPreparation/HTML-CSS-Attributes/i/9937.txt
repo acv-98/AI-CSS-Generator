@@ -1,0 +1,11 @@
+       margin-top:0px;
+  font-size: 24px;
+  height: 40px;
+  width: 40px;
+  line-height: 45px;
+  color: #fff;
+  margin-right: 10px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 100%;
+  margin-bottom: 10px;

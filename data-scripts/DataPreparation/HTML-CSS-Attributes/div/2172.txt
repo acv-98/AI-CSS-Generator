@@ -1,0 +1,5 @@
+  float: left;
+  text-indent: -999px;
+  right: 30px;
+  background: url(../img/arrow-left-dark.png) center center no-repeat #cb5432;
+  opacity: 1;

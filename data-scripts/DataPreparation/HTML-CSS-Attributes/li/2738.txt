@@ -1,0 +1,9 @@
+ background: url(../img/social/email_32.png);  background: url(../img/icon-email.png) no-repeat top left 
+footer{
+	background: 
+		url(../img/footer-line.png) repeat-x top left,
+		url(../img/noise.png);
+	background-color: #e6e5e1;
+	min-height: 100px;
+	
+	text-shadow: 0 1px rgba(255, 255, 255, .9);	

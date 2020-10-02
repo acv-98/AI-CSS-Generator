@@ -1,0 +1,2 @@
+	padding-right:0;
+	background-image:none;

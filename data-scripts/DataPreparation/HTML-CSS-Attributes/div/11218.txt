@@ -1,0 +1,5 @@
+	background:url(../images/author-bg.png);
+	width:250px;
+	height:250px;
+	margin:0 0 0 -3px;
+	border:1px #ddd solid;

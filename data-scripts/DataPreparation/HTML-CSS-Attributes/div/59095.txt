@@ -1,0 +1,5 @@
+  float: left;
+  display: inline;
+  width: 100%;
+  background-color: #ffffff;
+  max-height: 350px;

@@ -1,0 +1,9 @@
+  color: #c1a35f;
+  display: inline;
+  float: left;
+  width: 100%;
+  text-align: center;
+  font-size: 22px;
+  line-height: 1.7;
+    font-size: 150px;
+    line-height: 1.5;

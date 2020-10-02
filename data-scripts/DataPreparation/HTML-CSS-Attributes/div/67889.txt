@@ -1,0 +1,4 @@
+	height:231px;
+	background:url(../images/header-bg-small.jpg) no-repeat 50% 0;
+	background-image:url(../images/m1-alt.jpg);
+	left:340px;

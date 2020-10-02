@@ -1,0 +1,6 @@
+  border-bottom: 0;
+  display: block;
+  padding: 0;
+border-radius: 4px 4px 0 0; color: #000 !important;border: 1px solid #eee;border-radius: 0;.featured-accordion .collapse.in {
+height: auto;
+border-top: 0;

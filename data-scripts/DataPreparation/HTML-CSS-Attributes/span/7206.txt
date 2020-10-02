@@ -1,0 +1,1 @@
+background:url("../images/box1.jpg") 0 0 no-repeat; float:left; font:20px "Trebuchet MS",Arial,Helvetica,sans-serif; color:#f2f2f2; font-weight:bold; line-height:41px; width:41px; text-align:center; margin-right:35px;

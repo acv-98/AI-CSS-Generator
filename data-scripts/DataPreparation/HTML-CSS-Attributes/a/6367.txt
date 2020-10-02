@@ -1,0 +1,11 @@
+	width:26px;
+	float:left;
+	padding:40px 4px 0 7px;
+	display:block;
+	height:26px;
+	background:url(images/big-navigation-button-green.gif);
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	background-image:url(images/big-navigation-button-orange.gif);
+	padding-left:14px;

@@ -1,0 +1,9 @@
+	line-height:14px;
+	height:14px;
+	float:left;
+	background:none;
+	border:0;
+	padding:6px 2px;
+	margin:0;
+	font:normal 12px Arial, Helvetica, sans-serif;
+	color:#7f7e7d;

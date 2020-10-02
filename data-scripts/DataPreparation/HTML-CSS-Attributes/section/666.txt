@@ -1,0 +1,4 @@
+background-color:#ededec;
+background-image:url(../images/modern/light2.jpg);
+background-repeat:repeat-x;
+background-position:0 bottom;

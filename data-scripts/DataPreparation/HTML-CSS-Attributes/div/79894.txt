@@ -1,0 +1,2 @@
+	position: relative;
+	max-width: 780px;

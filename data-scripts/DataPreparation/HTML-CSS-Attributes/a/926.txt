@@ -1,0 +1,8 @@
+	background: #00aeef;
+	color: #fff !important;
+	border-color: #00aeef !important;
+    margin: auto;
+    display: block;
+    text-align: center;
+    width: 100%;
+    opacity: 0.3;

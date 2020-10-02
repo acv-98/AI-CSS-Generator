@@ -1,0 +1,24 @@
+font-family:'et-line';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;display:inline-block;content:"\e000";content:"\e001";content:"\e002";content:"\e003";content:"\e004";content:"\e005";content:"\e006";content:"\e007";content:"\e008";content:"\e009";content:"\e00a";content:"\e00b";content:"\e00c";content:"\e00d";content:"\e00e";content:"\e00f";content:"\e010";content:"\e011";content:"\e012";content:"\e013";content:"\e014";content:"\e015";content:"\e016";content:"\e017";content:"\e018";content:"\e019";content:"\e01a";content:"\e01b";content:"\e01c";content:"\e01d";content:"\e01e";content:"\e01f";content:"\e020";content:"\e021";content:"\e022";content:"\e023";content:"\e024";content:"\e025";content:"\e026";content:"\e027";content:"\e028";content:"\e029";content:"\e02a";content:"\e02b";content:"\e02c";content:"\e02d";content:"\e02e";content:"\e02f";content:"\e030";content:"\e031";content:"\e032";content:"\e033";content:"\e034";content:"\e035";content:"\e036";content:"\e037";content:"\e038";content:"\e039";content:"\e03a";content:"\e03b";content:"\e03c";content:"\e03d";content:"\e03e";content:"\e03f";content:"\e040";content:"\e041";content:"\e042";content:"\e043";content:"\e044";content:"\e045";content:"\e046";content:"\e047";content:"\e048";content:"\e049";content:"\e04a";content:"\e04b";content:"\e04c";content:"\e04d";content:"\e04e";content:"\e04f";content:"\e050";content:"\e051";content:"\e052";content:"\e053";content:"\e054";content:"\e055";content:"\e056";content:"\e057";content:"\e058";content:"\e059";content:"\e05a";content:"\e05b";content:"\e05c";content:"\e05d";content:"\e05e";content:"\e05f";content:"\e060";content:"\e061";content:"\e062";content:"\e063";
+ * jQuery FlexSlider v2.5.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 and later license.
+ * Contributing author: Tyler Smith (@mbmufffin)
+ * 
+ * FONT-FACE
+@font-face {
+  font-family: 'fontawesome';
+  src: url('../fonts/fontawesome-webfont.eot');
+  font-weight: normal;
+  font-style: normal;
+  font-size: 40px;
+  color: #FF5274;
+    font-size: 35px;
+    color: #FF5274;
+  speak: none;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;

@@ -1,0 +1,9 @@
+  padding: 15px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  border-top-color: #ddd;
+  border-bottom-color: #ddd;
+  color: #555;
+  font-size: 15px;
+  line-height: 22px;
+    font-size: 14px;

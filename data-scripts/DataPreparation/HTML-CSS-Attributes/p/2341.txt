@@ -1,0 +1,1 @@
+background: url(images/available.gif) no-repeat right 0; height: 25px;

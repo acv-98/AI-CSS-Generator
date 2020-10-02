@@ -1,0 +1,6 @@
+*zoom:1;clear:both;float:left;width:160px;clear:left;text-align:right;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-left:180px;.visible-print
+  Bootstrap's documentation styles
+  Special styles for presenting Bootstrap's documentation and examples
+body {
+  position: relative;
+  padding-top: 40px;

@@ -1,0 +1,9 @@
+	font-family: "lora-regular", serif;
+	font-size: 2rem;
+	line-height: 1.8;
+	color: #888888;
+		font-size: 1.7rem;
+	text-align: left;
+	padding-left: 13rem;
+		padding-left: 11rem;
+		text-align: center;

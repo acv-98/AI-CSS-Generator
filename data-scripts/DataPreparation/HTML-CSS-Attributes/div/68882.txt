@@ -1,0 +1,8 @@
+	background-color: #0ba2db;
+	padding: 25px 0;
+	border-radius: 4px 4px 0 0;
+	color: #fff;
+	box-shadow: 0 0 20px rgba(0,0,0,0.05) inset;
+	border-bottom: 1px solid #eee;
+	font-weight: 300;
+	font-size: 32px;

@@ -1,0 +1,4 @@
+    color: #ffffff !important;
+    padding: 0 0.8rem;
+    border-radius: 3px;
+    background-color: #FF6347 !important;

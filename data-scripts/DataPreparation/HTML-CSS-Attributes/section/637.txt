@@ -1,0 +1,4 @@
+    background:url(../images/background/work-together.jpg) no-repeat center center;
+    background-size: cover;
+    position: relative;
+    padding: 1rem 4rem;

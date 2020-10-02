@@ -1,0 +1,11 @@
+	display: inline;
+	float: left;
+	width: 100%;
+	margin-bottom: 40px;
+	text-align: center;
+	font-size: 25px;
+	height: 70px;
+	line-height: 70px;
+	border-radius: 50%;
+	color: #fff;
+		margin-bottom: 25px;

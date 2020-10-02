@@ -1,0 +1,13 @@
+	background-image:url(../images/warningalert.png);
+	border:1px solid #FE7736;
+	background-color:#FFBD59;
+	padding:15px 15px 15px 45px;
+	background-repeat: no-repeat;
+	background-position: 10px 10px;
+	border-radius:3px;
+	box-shadow:0px 1px 5px #999;
+	margin: 10px 0px;
+	color:white;
+	font-family:sans-serif;
+	font-weight:bold;
+	font-size:11pt;

@@ -1,0 +1,1 @@
+	border:#dddddd 1px solid;

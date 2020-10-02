@@ -1,0 +1,14 @@
+	padding-top: 52px;
+	display: block;
+	border-right: 1px solid #bed0cc;
+	float: left;
+	font-size: 18px;
+	line-height: 24px;
+	color: #585858;
+	padding-right: 15px;
+	margin-right: 17px;
+	height: 10px;
+	margin-bottom: 5px;
+	font-weight: 600;
+	border-bottom: 1px solid #bed0cc;
+	padding-bottom: 15px;

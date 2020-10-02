@@ -1,0 +1,7 @@
+    color: #3a3838;
+    margin-bottom: 11px;
+    font: 30px/30px 'Pathway Gothic One', sans-serif;
+    display: block;
+    font-size: 24px;
+    position: relative;
+    top: -3px;

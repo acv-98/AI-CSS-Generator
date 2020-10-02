@@ -1,0 +1,2 @@
+ height:252px; .product-info .product-desc
+ min-height:252px; display:block; padding-bottom:3px;  display:block; margin-bottom:10px;  display:inline; padding:0;  display:inline; margin:0;  width:206px;  width:212px;  width:50px;  width:70px; background:#8b0000; border:0; color:#fff; height:27px; display:block; line-height:26px; cursor:pointer; margin:12px 0 10px 0;

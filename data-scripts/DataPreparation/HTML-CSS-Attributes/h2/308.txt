@@ -1,0 +1,5 @@
+    font-weight: 300;
+    font-size: 34px;
+    line-height: 1.4;
+    margin-top: 70px;
+    margin-bottom: 70px;

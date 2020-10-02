@@ -1,0 +1,14 @@
+    background: #a099b4;
+    border: 0px solid #ccc;
+    color: #333;
+    padding: 5px 10px;
+    border-radius: 0px;
+    height: 45px;
+    outline: none;
+    width: 25%;
+    transition: all .6s;
+    margin-left:5px;
+    content: "\f1d9";
+    font-family: 'Fontawesome';
+    text-align: center;
+    font-size:1rem;

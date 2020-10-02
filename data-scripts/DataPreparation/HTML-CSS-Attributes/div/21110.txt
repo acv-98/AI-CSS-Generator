@@ -1,0 +1,10 @@
+	background: #8e4fa7;
+	-webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+	width: 100%;
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+		text-align: center;

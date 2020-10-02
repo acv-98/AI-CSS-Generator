@@ -1,0 +1,10 @@
+    margin-bottom: 60px;
+    text-transform: uppercase;
+    color: #3a3f4b;
+    font-family: 'lorabold';
+    background: #f5f6f8;
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+    font-size: 36px;
+    line-height: 80px;

@@ -1,0 +1,6 @@
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+ color: #a5a5a5 footer .social li a:hover {
+	color: #e85f37;
+ text-align: center 

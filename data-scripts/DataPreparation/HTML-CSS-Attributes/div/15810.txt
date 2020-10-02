@@ -1,0 +1,1 @@
+background:url(../images/body_container_bg.gif) repeat-y 0 0; padding:3px;

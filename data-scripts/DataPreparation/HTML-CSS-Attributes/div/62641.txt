@@ -1,0 +1,7 @@
+	margin-bottom: 0px;
+	padding: 16px;
+	transform-style: unset !important;
+	font-size: 18px;
+	-webkit-transform: scale(1);
+	        transform: scale(1);
+		font-size: 14px;

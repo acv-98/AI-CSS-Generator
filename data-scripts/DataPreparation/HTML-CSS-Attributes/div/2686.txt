@@ -1,0 +1,5 @@
+	position: relative;
+	float: left;
+	width: 100%;
+	margin-bottom:8px;
+	background:white;

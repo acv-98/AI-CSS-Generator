@@ -1,0 +1,2 @@
+opacity:1
+background: #222222;height: 2px;width: 15px;position: absolute;right: 33px;top: 43px;z-index:90;opacity:0

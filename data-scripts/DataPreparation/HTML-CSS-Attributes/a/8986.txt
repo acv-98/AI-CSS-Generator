@@ -1,0 +1,1 @@
+	background:url(images/next.png) no-repeat bottom center;

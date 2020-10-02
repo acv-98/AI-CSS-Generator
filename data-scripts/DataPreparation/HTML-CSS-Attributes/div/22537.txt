@@ -1,0 +1,15 @@
+    margin-left:10px;
+    margin-bottom:30px;
+    position: relative;
+    width:100%;
+    height: 100%;
+    left: -10px;
+    bottom: 20px;
+    background: #3bd3ba;
+    color:#fff;
+    text-align: center;
+    padding-top: 10px;
+    line-height:2rem;
+    font-size:1.875rem;
+.blog .main_blog_content .single_blog .single_blog_content .single_blog_bottom_content a{
+    margin-right:15px;

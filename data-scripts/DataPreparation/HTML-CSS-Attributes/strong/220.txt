@@ -1,0 +1,1 @@
+color: #8c959c; display: block;background: url('../img/dot.gif') repeat-x 0 50%;padding: 0 10px;margin:10px 0 25pxpadding: 0 10px;background: #fff    

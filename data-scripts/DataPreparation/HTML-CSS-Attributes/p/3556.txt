@@ -1,0 +1,2 @@
+	font-style:italic;
+	padding-bottom:24px;

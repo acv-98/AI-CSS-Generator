@@ -1,0 +1,12 @@
+	margin-bottom:5px;
+	display:block;
+	color:#fff;
+	font-size:11px;
+	line-height:18px;
+	font-style:normal;
+	width:182px;
+	background:url('images/input-bg.gif') no-repeat 0 0;
+	height:57px;
+	float:left;
+	border:0;
+	padding:1px 0;

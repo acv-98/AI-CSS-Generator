@@ -1,0 +1,31 @@
+    position:relative;
+    top:-2px;
+    right:-21px;
+    color:inherit
+    float:right;
+    font-size:21px;
+    font-weight:bold;
+    line-height:1;
+    text-shadow:0 1px 0 #fff;
+    opacity:.2;
+    filter:alpha(opacity=20)
+    text-decoration:none;
+    cursor:pointer;
+    padding:0;
+    background:transparent;
+    border:0;
+    -webkit-appearance:none
+    margin-top:-2px
+    width: 25px;
+    height: 25px;
+    background-color: #000;
+    z-index: 999;
+    border-radius: 50%;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0,0,0,0.35);
+	box-shadow: 0 0 1px 1px rgba(0,0,0,0.35);
+	outline: none;
+	position: relative;
+	top: -3px;
+	font-weight: lighter;
+	text-shadow:none;
+	right:-180px;

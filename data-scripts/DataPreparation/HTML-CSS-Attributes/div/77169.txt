@@ -1,0 +1,4 @@
+	border-radius: 50%;
+	height: 280px;
+	width: 300px;
+	font-weight: 700;

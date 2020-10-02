@@ -1,0 +1,12 @@
+  font-size: .84em;
+  color: #aaaaaa;
+  padding: 34px 0 34px 60px;
+    padding: 20px 0 20px 20px;
+    text-align: center h1;
+    text-align-display: block;
+    text-align-text-align: center;
+    display: block;
+    margin-left: 0 !important;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: normal;

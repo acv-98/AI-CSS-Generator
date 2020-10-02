@@ -1,0 +1,27 @@
+   position: relative;
+   margin-bottom: 6px;
+ padding-left: 38px;  font: 30px/42px montserrat-regular, sans-serif; #journal .entry-header .author-image img {
+   top: 12px;
+   left: 18px;
+   padding: 0;
+   width: 60px;
+   height: 60px;
+   -moz-border-radius: 100% 100% 100% 100%;
+	-webkit-border-radius: 100% 100% 100% 100%;
+	-khtml-border-radius: 100% 100% 100% 100%;
+	border-radius: 100% 100% 100% 100%;
+   font: 45px/60px montserrat-regular, sans-serif;
+   color: #313131;
+   padding-right: 12%;
+   float: right;
+ color: #313131; #blog-entries .post .entry-header h1 a:hover,
+ color: #11ABB0; #blog-entries .post .post-content p {
+      padding-right: 18px;
+      font-size: 43px;
+      text-align: center;
+      display: none;
+      padding-left: 20px;
+      margin-bottom: 18px;
+      float: none;
+	   width: 100%;
+      line-height: 42px;

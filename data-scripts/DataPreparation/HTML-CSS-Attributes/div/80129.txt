@@ -1,0 +1,16 @@
+	background:#FFA540;
+	padding: 0.8em 1em;
+	text-align: center;
+	display:inline-table;
+	margin-right: 1em;
+	color: #FFF;
+	text-transform: uppercase;
+	font-size: 0.875em;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	text-decoration:underline;
+		font-size: 12px;
+		float:right;
+		padding: 0.8em 1em 3em;

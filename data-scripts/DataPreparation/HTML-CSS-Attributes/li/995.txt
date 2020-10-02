@@ -1,0 +1,18 @@
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  -webkit-transition: 1s;
+  transition: 1s;
+  content: '';
+  width: 0;
+  left: 50%;
+  bottom: 1px;
+  height: 2px;
+  background-color: #000066;
+  cursor: pointer;
+    height: 1px;
+    background-color: #8A9AD2;

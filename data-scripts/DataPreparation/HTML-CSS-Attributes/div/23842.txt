@@ -1,0 +1,18 @@
+	margin-bottom:80px;
+	position:relative;
+	font-size:64px;
+	color:#303F9F;
+	opacity:.6;
+	line-height:1.8em;
+	font-style:italic;
+	margin-top:10px;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	display:inline-block;
+	*display:inline;
+	*zoom:1;
+	padding:15px 0;
+	margin-right:3px;
+	height:6px;
+	width:36px;
+	background:#303F9F;

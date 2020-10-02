@@ -1,0 +1,6 @@
+    padding: 25px 15px 23px;
+    font-size: 1.3rem;
+    line-height: 1.615;
+    margin: 0 0 46px;
+    font-weight: 300;
+    display: block;

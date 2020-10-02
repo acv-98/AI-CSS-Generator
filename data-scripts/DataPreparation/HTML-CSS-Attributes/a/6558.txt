@@ -1,0 +1,14 @@
+    width: 256px;
+    height:256px; 
+    display:block; 
+    position:relative; 
+    overflow:hidden; 
+    background:#fff url(../images/loader.gif) no-repeat center;
+ display:none .zoomOverlay {
+    top:0; left:0;
+    bottom:0; right:0;
+  	background-image:url(../images/zoom.png);
+    background-repeat:no-repeat;
+  	background-position:center;
+		width: 241px;
+		height: 241px;

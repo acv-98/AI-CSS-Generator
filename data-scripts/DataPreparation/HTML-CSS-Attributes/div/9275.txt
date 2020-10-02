@@ -1,0 +1,4 @@
+	width:960px;
+	height:279px;
+	padding:0 10px 42px 10px;
+	background:url(../images/slider-bg-sp.png) 0 0 no-repeat;

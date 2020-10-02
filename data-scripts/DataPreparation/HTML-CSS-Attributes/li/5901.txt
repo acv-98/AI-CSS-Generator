@@ -1,0 +1,1 @@
+	background:url("../images/icon-seo.gif") no-repeat left center;

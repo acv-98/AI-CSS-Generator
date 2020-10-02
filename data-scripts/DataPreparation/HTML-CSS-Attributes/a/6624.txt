@@ -1,0 +1,15 @@
+  background-color: #25c9da;
+  
+	color: #fff;
+	display: inline-block;
+	float: right;
+	font-size: 15px;
+	line-height: 16px;
+	padding: 8px 12px;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+	text-decoration: none;
+	outline: none;
+	opacity: 0.8;

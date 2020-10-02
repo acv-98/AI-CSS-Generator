@@ -1,0 +1,12 @@
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 300;
+    font-family:Raleway;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: transparent;
+    margin: 0px;
+    white-space: nowrap;
+    border-width: 0px;
+    border-color: rgb(255, 255, 255);
+    border-style: none;

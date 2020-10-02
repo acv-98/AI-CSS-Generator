@@ -1,0 +1,10 @@
+	margin-top: 0;
+	display: table-cell;
+	height: 100%;
+	vertical-align: middle;
+	color: #ffffff;
+	font-size: 45px;
+	padding-bottom: 20px;
+	font-weight: 700;
+	margin-bottom: 30px;
+		font-size: 24px;

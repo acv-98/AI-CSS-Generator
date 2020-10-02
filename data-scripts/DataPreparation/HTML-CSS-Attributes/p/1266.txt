@@ -1,0 +1,4 @@
+ color: #787676; 
+.tm-text-highlight {
+    color: #c66995;
+    font-weight: 600;

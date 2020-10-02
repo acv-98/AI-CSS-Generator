@@ -1,0 +1,1 @@
+margin-bottom: 40px;    .testimonial h1{text-align: center; text-transform: uppercase; color: #d80112; font-size: 22px; line-height: 40px;

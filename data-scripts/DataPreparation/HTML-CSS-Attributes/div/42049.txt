@@ -1,0 +1,5 @@
+  font-weight: normal;
+  color: #4b4a4a;
+  position: relative;
+  top: -4px;
+  padding-top: 3px;

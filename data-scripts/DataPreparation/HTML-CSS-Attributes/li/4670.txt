@@ -1,0 +1,7 @@
+  position: absolute;
+  top: 0px;
+  left: -10px;
+  display: block;
+  width: 10px;
+  height: 18px;
+  background: url(../img/social-left-corner.png) no-repeat left top;

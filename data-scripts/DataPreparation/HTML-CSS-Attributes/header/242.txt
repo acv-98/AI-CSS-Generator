@@ -1,0 +1,14 @@
+		top:0;
+		z-index:0;
+		width:100%;
+		position:absolute;
+		padding-top:30px;
+		-webkit-transition: all 0.8s;
+		-moz-transition: all 0.8s;
+		transition: all 0.8s;
+		-webkit-transform: translateY(0%);
+		-moz-transform: translateY(0%);
+		transform: translateY(0%);
+		background:#000;
+		right:0;
+		margin:0;

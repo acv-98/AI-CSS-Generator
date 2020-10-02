@@ -1,0 +1,21 @@
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	max-height:100%;
+	//background:#3f2d28;
+	background: url(../images/line7Bg.jpg) center center no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+	top: 0;
+	display: block;
+	content: "";
+	z-index: 1;
+	pointer-events: none;
+	bottom: 0;
+	left: 0;
+	border-top: 150px solid white;
+	border-right: 3000px solid transparent;
+	//bottom: 489px;

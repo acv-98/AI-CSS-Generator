@@ -1,0 +1,9 @@
+     float: right;
+     margin: 0;
+     padding: 0;
+     list-style: none;
+     font-weight: 500;
+     color: #fff;
+     font-size: 13px;
+     background: #d8302f;
+     border-radius: 50px;

@@ -1,0 +1,8 @@
+	clear:both;
+	display:block;
+	background:url(../images/orange-button-bg.png) no-repeat;
+	width:141px;
+	height:34px;
+	color:#fff;
+	text-align:center;
+	padding:5px 0;

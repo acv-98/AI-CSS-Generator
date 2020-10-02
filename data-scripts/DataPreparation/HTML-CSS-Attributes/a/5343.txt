@@ -1,0 +1,8 @@
+	background: #dc5034;
+	color: #fff;
+	font-weight: bold;
+	font-size: 26px;
+	line-height: 50px;
+	height: 90px;
+	margin: 0;
+	padding: 20px 20px 40px 20px;

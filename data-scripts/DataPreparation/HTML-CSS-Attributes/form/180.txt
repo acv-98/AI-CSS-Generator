@@ -1,0 +1,8 @@
+  margin-bottom: 0;
+  *zoom: 1;
+  display: table;
+  line-height: 0;
+  content: "";
+  clear: both;
+  margin-top: 5px;
+  white-space: nowrap;

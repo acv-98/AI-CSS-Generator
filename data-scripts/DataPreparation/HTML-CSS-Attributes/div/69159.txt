@@ -1,0 +1,18 @@
+	float:left;
+	width:560px;
+	position:relative;
+	margin:0 0 0 -30px;
+	display:inline-block;
+	list-style:none;
+	height:32px;
+	background:url(images/comment.png) no-repeat;
+ position:relative;
+ float:right;
+ margin:-243px 0 0 -25px;
+ width:29px;
+ height:32px;
+ background:url(images/comment.png) no-repeat;
+	color:#000;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:none;

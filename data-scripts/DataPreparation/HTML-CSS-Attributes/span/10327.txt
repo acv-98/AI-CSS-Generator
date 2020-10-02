@@ -1,0 +1,10 @@
+	float:left;
+	width:15px;
+	height:131px;
+	background:url('images/slider-right.gif') no-repeat 0 0;
+	position:absolute;
+	top:-12px;
+	right:-15px;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;

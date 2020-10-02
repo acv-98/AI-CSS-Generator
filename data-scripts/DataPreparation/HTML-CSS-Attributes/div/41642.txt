@@ -1,0 +1,5 @@
+    float: none !important;
+    text-align: center;
+ vertical-align: middle;ul.footer-social li{
+	display: inline-block;
+	margin-right: 10px;

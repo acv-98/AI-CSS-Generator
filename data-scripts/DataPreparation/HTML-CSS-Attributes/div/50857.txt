@@ -1,0 +1,6 @@
+	width:980px;
+	margin:0 auto;
+	position:relative;
+	height:77px;
+	overflow:hidden;
+	padding-left:28px;

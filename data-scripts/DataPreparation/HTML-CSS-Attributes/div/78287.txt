@@ -1,0 +1,8 @@
+  margin-bottom: 20px;
+    display: block;
+  float: left;
+  width: 15%;
+  clear: right;
+    width: 20%;
+  font-size: 30px;
+  color: #28bbf8;

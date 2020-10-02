@@ -1,0 +1,35 @@
+  width: 950px;
+  margin: 0 auto;
+  content: "\0020"; 
+  display: block; 
+  height: 0; 
+  clear: both; 
+  visibility: hidden;
+  overflow:hidden; 
+display: block; text-align: left; * html .column, * html div.span-1, * html div.span-2, 
+* html div.span-3, * html div.span-4, * html div.span-5, 
+* html div.span-6, * html div.span-7, * html div.span-8, 
+* html div.span-9, * html div.span-10, * html div.span-11, 
+* html div.span-12, * html div.span-13, * html div.span-14, 
+* html div.span-15, * html div.span-16, * html div.span-17, 
+* html div.span-18, * html div.span-19, * html div.span-20, 
+* html div.span-21, * html div.span-22, * html div.span-23, 
+display: inline-block;* html .clearfix,
+height: 1%;  background: none;
+ direction: rtl; body .column {
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+  position: relative !important;
+  box-sizing: border-box !important;
+  left: 0 !important;
+  top: 0 !important;
+  border: none !important;
+  padding-left: 1em !important;
+  white-space: pre !important;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+margin-left: 0px; margin-right: 0px;

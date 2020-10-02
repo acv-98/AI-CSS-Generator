@@ -1,0 +1,7 @@
+	display: inline;
+	float: left;
+	padding: 150px 0;
+	width: 100%;
+	position: relative;
+	z-index: 20;
+		padding: 80px 0;

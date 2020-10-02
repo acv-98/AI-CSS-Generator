@@ -1,0 +1,2 @@
+	background: transparent url(../images/bottom.png) no-repeat;
+	height: 17px;

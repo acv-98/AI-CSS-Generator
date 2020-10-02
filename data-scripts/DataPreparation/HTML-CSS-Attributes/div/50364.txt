@@ -1,0 +1,17 @@
+	height:172px;
+	background:url(images/footer-cols.gif) repeat-x 0 0;
+	padding-top:2px;
+	min-width:974px;
+	padding-left:10px;
+	width:964px;
+	float:left;
+	display:inline;
+	padding-right:0;
+	font-size:17px;
+	color:#fff;
+	text-shadow:1px 1px 1px #000;
+	padding-bottom:14px;
+	border-bottom:1px solid #fff;
+	text-decoration:none;
+	margin:0;
+	line-height:normal;

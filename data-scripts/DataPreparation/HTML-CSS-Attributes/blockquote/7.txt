@@ -1,0 +1,6 @@
+	width:100%;
+	position:relative;
+	padding-bottom:5px;
+	padding-right:10px;
+	background:url(../images/quote-bot.jpg) left bottom no-repeat;
+	z-index:1;

@@ -1,0 +1,9 @@
+    margin-top: 75px;
+    color: #fff;
+    font-family: "futura_ltbook",sans-serif;
+    font-size: 25px;
+    margin-bottom: 34px;
+    text-transform: inherit;
+    width: 200px;
+    background: #d7a300 none repeat scroll 0 0;
+ border:2px solid #aaa; .footer_item li a:hover,.footer_item li a:focus{

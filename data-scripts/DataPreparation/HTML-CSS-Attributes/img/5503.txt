@@ -1,0 +1,4 @@
+  display: block;
+  max-width: none;
+  height: 60px;
+  width: 60px;

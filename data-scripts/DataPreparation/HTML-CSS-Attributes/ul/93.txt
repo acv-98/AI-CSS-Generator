@@ -1,0 +1,9 @@
+	list-style: none;
+	margin-left: 0;
+	font-size: 1.4rem;
+	text-transform: uppercase;
+	letter-spacing: 0.1rem;
+	display: inline-block;
+	margin-right: 0.8rem;
+	padding-left: 0;
+	color: #999999;

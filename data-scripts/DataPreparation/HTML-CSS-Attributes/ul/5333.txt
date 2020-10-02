@@ -1,0 +1,6 @@
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    color: #b7b7b7;
+    position: relative;

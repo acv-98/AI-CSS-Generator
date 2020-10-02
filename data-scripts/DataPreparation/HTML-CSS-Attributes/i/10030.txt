@@ -1,0 +1,3 @@
+background-image:url("img/more.png");display:none;
+Original Author: Tomas Lach (www.tomaslach.cz)
+Modified by OS Templates (http://www.os-templates.com)

@@ -1,0 +1,11 @@
+border-left:2px solid #217b9d;		font-family:Arial, Helvetica, sans-serif;
+		font-size:14px;
+		line-height:18px;
+		font-style:normal;
+		font-weight:normal;
+		padding:19px 19px 19px 63px;
+		margin:17px 0 20px 0;
+		border-left:2px solid #3aa9d2;
+		background:url(../images/design/quotes.png) 10px 15px no-repeat #e0e0e0;
+margin:5px 0 41px 0;background-color:#e8e7e7;		display:block;
+		text-decoration:none;

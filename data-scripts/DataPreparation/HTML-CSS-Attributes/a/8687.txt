@@ -1,0 +1,8 @@
+text-decoration:none; color:#ffffff;
+.container1
+{width:852px;
+background:#FEDFA9 url(../images/containerbg.jpg) left top no-repeat;
+margin:0 auto;
+text-decoration:underline.welcome
+{
+	color: #5D2D23;

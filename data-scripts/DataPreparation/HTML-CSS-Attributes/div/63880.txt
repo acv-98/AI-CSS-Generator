@@ -1,0 +1,11 @@
+  float: right;
+  color: #f8f8f8;
+  font-size: 18px;
+  line-height: 32px;
+  background: url(../img/icons/phone.png) no-repeat left;
+  padding-left: 30px;
+    float: none;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-left: 50px;

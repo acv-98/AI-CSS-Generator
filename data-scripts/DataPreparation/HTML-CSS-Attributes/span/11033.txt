@@ -1,0 +1,7 @@
+	color: #fff;
+	display: block;
+	float: left;
+	font-size: 11px;
+	padding-right: 6px;
+	margin-right: 6px;
+	margin-bottom: 4px;

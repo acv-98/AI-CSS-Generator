@@ -1,0 +1,1 @@
+display:block; text-align:center; padding:3px; font: bold 3.00em 'American Typewriter', Georgia, sans-serif;

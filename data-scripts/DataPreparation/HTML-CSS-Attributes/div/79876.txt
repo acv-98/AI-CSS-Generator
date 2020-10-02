@@ -1,0 +1,7 @@
+	width: 50%;
+	height: 100%;
+	position: absolute;
+	left: 50%;
+	top: 0;
+	background: rgba(63, 80, 96, 0.15);
+		display: none;

@@ -1,0 +1,1 @@
+ background-position:297px top; background-image:url(images/line-ver.gif); background-repeat:repeat-y; width:100%;

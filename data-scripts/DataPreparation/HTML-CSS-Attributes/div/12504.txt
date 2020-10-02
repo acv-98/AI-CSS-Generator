@@ -1,0 +1,13 @@
+	display:block;
+	text-align:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;
+	color:#333;
+	text-transform:uppercase;
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+	background:url(images/plus.png) no-repeat right center;
+	cursor:pointer;
+	float:right;
+	font-weight:normal;
+	border-bottom:1px solid #e7e7e7;

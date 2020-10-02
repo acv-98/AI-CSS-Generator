@@ -1,0 +1,13 @@
+     position: relative;
+     margin: 7px 0;
+     padding: 9px 30px;
+     color: #555;
+     font-weight: 400;
+     font-size: 14px;
+     content: "\f105";
+     font-family: fontawesome;
+     left: 15px;
+     top: 50%;
+     float: left;
+     width: 100%;
+     padding-left: 15px;

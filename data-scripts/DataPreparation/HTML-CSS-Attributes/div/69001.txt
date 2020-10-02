@@ -1,0 +1,9 @@
+	width:60px;
+  color: #c09853;
+	background-color: #eff1f2;	
+ top: 187px;  top: 202px;  position: absolute; top: 5px; right: 1%;  right: 15px;  font-size: 13px; font-family: 'Maven Pro', sans-serif; color: #5f5e5e; font-style: normal; font-weight: 400;  color: #b77a2b; 	color:#ACA899;
+ #footer .recent-posts .hentry .text p  
+@media (max-width: 767px) {                                  
+    position: relative;
+    margin-left: 70px;
+    min-height: 70px;

@@ -1,0 +1,6 @@
+  bottom: 57px;
+  left: auto;
+  right: 37px;
+  width: auto;
+  position: absolute;
+  color: #b3b3b3;

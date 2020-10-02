@@ -1,0 +1,4 @@
+	padding-left:40px
+	background:url(../images/bg_top2.jpg) 0 0 no-repeat
+	padding-bottom:10px
+	padding-top:11px

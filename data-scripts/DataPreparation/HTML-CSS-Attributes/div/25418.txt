@@ -1,0 +1,15 @@
+	margin:0;
+	padding:0;
+	width:920px;
+	color:#7e7e7e;
+	background:url(../images/content_bg.gif) repeat left top;
+	margin-bottom:24px;
+	padding-bottom:8px;
+	border:4px solid #7e7e7e;
+	float:left;
+	list-style:none;
+	display:block;
+	text-decoration:none;
+	font-weight:normal;
+	background-image:url(../images/li_a.gif)
+	line-height:1.8em;

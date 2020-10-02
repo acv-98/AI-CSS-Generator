@@ -1,0 +1,9 @@
+  display: block;
+  float: right;
+  margin-right: 20px;
+  margin-top: -3px;
+  font: 18px/24px 'Roboto Condensed', sans-serif;
+  color: #00b1ba;
+  font-size: 30px;
+  line-height: 22px;
+    margin-left: 10px;

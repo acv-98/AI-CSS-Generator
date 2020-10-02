@@ -1,0 +1,1 @@
+ margin:0 auto; background:url(../images/banner-bg.gif) no-repeat; height:381px; text-align:right;

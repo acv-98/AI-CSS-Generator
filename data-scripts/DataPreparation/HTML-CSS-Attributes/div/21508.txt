@@ -1,0 +1,1 @@
+	background-image: url(../img/slides/1.jpg);

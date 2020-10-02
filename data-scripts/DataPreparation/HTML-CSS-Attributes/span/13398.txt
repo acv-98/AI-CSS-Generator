@@ -1,0 +1,4 @@
+    color: #393939;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: none;

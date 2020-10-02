@@ -1,0 +1,9 @@
+	margin:0;
+	padding:0;
+	background:#5597c2 url(images/footer_bg.gif) bottom repeat-x;
+	width:930px;
+	color:#fff;
+	text-decoration:none;
+	border:1px solid #cfd2d4;
+	background-color:#fff;
+	float:left;

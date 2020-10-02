@@ -1,0 +1,4 @@
+  background-color: #ffffff;
+  position: relative;
+  padding: 40px;
+  margin-top: 32px;

@@ -1,0 +1,5 @@
+    overflow: hidden;
+    width:55%;
+    margin: 0 auto;
+    line-height: 3rem;
+    margin-right: 10px;

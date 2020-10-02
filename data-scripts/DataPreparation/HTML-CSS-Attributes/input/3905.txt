@@ -1,0 +1,2 @@
+height: 30px;width: 45%;.wpcf7-email{border: 1px solid #DDDDDD;
+padding-left: 5px;

@@ -1,0 +1,2 @@
+ padding: 0; margin-top: 0px; color: #828080; 
+ margin-bottom:0; padding:8px 0  padding:0;  display:block; line-height:1.5em; height:auto; margin:0; font-size:0.8em; padding-left:20px; background:no-repeat left center;  width:80px; float:left;  background-image:url('images/time-icon.png');  width:100px; float:right; background-image:url('images/user-icon.png'); font-size:inherit; float:right; width:130px; margin:0; 

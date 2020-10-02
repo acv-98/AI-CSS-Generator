@@ -1,0 +1,7 @@
+	float:left;
+	padding:3px;
+	border:1px solid #AAAAAA;
+	margin:0 10px 10px 0;
+	-moz-border-radius:3px;
+	-moz-transform:rotate(-4deg);
+	-webkit-transform:rotate(-4deg);

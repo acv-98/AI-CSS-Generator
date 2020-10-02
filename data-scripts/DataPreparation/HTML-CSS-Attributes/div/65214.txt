@@ -1,0 +1,6 @@
+	background:url(../images/tail-top.gif) repeat-x left top;
+	position:absolute;
+	right:0;
+	top:77px;
+	width:50%;
+	height:646px;

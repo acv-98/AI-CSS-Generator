@@ -1,0 +1,14 @@
+width:100%;	.body .callout.intext .intext-button a {
+		width:100%;
+		top:22px;
+		position:relative;
+		text-align:center;
+		font-size:19px;
+		right:15px;
+width:90%;margin:auto;		.body .callout.intext .intext-button a {
+			top:0;
+			position:relative;
+			text-align:center;
+			font-size:19px;
+			right:0;
+			margin-bottom:20px;

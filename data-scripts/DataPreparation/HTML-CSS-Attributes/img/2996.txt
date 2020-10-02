@@ -1,0 +1,9 @@
+	width:270px;
+	height:180px;
+	position:absolute;
+	z-index:9;
+	bottom:0;
+-webkit-border-top-left-radius: 4px;
+-webkit-border-top-right-radius: 4px;
+-moz-border-radius-topleft: 4px;
+-moz-border-radius-topright: 4px;

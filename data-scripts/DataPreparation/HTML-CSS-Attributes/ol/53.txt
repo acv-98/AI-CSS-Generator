@@ -1,0 +1,8 @@
+	bottom: 0;
+	margin-bottom: 0;
+	background-color: #81b4eb;
+	border-color: rgb(205, 215, 226);	
+	width: 20px;
+    height: 20px;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;

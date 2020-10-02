@@ -1,0 +1,2 @@
+width: 220px;
+width: 180px;padding: 5px;width: 290px;margin-top:20pxpadding: 5px;width: 440px;margin-top:20px

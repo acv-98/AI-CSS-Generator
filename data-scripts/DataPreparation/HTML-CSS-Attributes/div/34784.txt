@@ -1,0 +1,12 @@
+	line-height: 27px;
+		float: none;
+		margin-right: 0;
+		width: auto;
+	position: relative;
+	
+	background-color: #111;
+	font-size: 14px;
+	height: 28px;
+	padding: 3px 10px 5px;
+	border: none;
+	display: block;

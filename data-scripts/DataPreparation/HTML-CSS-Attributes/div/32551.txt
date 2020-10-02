@@ -1,0 +1,14 @@
+	background: #8dc63f;
+	border: 3px solid #8dc63f;
+		padding:0px 15px;
+		margin-bottom:15px;
+	background-size:cover;
+	font-family: 'nautilus_pompiliusregular';
+	padding-bottom:30px;
+	letter-spacing: 0.16px;
+	color: #666;
+	font-size: 18px;
+	text-align:center;
+	font-weight: bold;
+	text-transform: uppercase;
+	border-radius:0px;

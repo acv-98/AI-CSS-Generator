@@ -1,0 +1,5 @@
+    padding: 100px 20px;
+    font-size:3rem;
+    color:#ec4848;
+    width: 75%;
+    margin:20px auto;

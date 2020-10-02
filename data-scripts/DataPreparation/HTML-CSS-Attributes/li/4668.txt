@@ -1,0 +1,4 @@
+	text-decoration:none;
+	background:#8f0041 url(../images/menu_a.gif) repeat-x left top;
+	border-left:1px solid #ba0077;
+	border-right:1px solid #860039;

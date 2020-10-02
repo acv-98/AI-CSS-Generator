@@ -1,0 +1,9 @@
+  background: none repeat scroll 0 0 #dedede;
+  border: 1px solid #d1d1d1;
+  border-radius: 5px;
+  box-shadow: 0 0 3px #EEEEEE;
+  color: #555555;
+  padding: 30px;
+  width: 360px;
+  margin: 0 auto 30px;
+  height: 33px;

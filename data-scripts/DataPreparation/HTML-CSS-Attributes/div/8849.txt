@@ -1,0 +1,4 @@
+	margin: auto;
+	margin-top: 40px;
+	width: 950px;
+	height: 70px;

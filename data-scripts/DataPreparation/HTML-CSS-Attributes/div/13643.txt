@@ -1,0 +1,5 @@
+	position:relative;
+	overflow:hidden;
+	display:none;
+ margin-top: -150px .box-sections h3, .box-sections h3 span, .box-sections h4, .box-sections h4 span {
+    color: #51595D;

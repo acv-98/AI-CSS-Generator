@@ -1,0 +1,5 @@
+	color: #8E999C;
+	font-size: 0.875em;
+	line-height: 1.5em;
+	padding-bottom:5%;
+	display:none;

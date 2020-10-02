@@ -1,0 +1,15 @@
+  padding: 30px;
+  position: absolute;
+  bottom: -100px;
+  left: 0;
+  right: 0;
+  z-index: 9;
+  opacity: 0;
+  -webkit-transition: 0.1s;
+  -o-transition: 0.1s;
+  transition: 0.1s;
+  margin-bottom: 10px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 14px;
+  top: 35px;
+  background: rgba(45, 64, 89, 0.05);

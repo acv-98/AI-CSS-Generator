@@ -1,0 +1,2 @@
+ width: 100% !important;  width: 25%; 
+ margin: 0 -12px;  width: 33.33%; padding: 0 12px 12px;  clear: both;  width: 33.3%;  width: 33.4%;  margin-right: 0;  padding: 0 17px; text-align: center; overflow: hidden;  width: 33.33%; float:left

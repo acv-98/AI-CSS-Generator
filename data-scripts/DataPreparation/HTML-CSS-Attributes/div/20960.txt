@@ -1,0 +1,9 @@
+	background: #1BAC91;
+	padding:20px;
+	overflow:hidden;
+	color:#fcfcfc;
+	float:left;
+	margin-right:20px;
+	margin-top:10px;
+	font-weight:700;
+	font-size:13px;

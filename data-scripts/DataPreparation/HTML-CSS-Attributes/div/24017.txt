@@ -1,0 +1,4 @@
+  display: table-cell;
+  vertical-align: middle;
+  height: inherit;
+  z-index: 1;

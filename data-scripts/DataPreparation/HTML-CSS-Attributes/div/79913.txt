@@ -1,0 +1,8 @@
+ max-width: 500px; 
+.box {
+	background-color: white;
+	list-style: none;
+	width: 33.3333%;
+	height: auto;
+ max-width: 330px;  max-width: 440px; 		max-width: 296px; 
+		width: 50%;

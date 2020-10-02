@@ -1,0 +1,5 @@
+  font-size: 36px;
+  font-family: 'Marvel', sans-serif;
+  color: #312f2f;
+  text-align: center;
+  margin-top: 40px;

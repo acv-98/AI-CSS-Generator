@@ -1,0 +1,5 @@
+  max-width: 1060px;
+  margin: 0 auto;
+  margin-bottom: 1em;
+  background: #fff;
+    width: 100%;

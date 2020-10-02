@@ -1,0 +1,13 @@
+	display: block;
+	width: 174px;
+	height: 50px;
+	margin-top: 30px;
+	background: url(images/img01.png) repeat;
+	line-height: 50px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-size: 14pt;
+	font-weight: 200;
+	color: #FFFFFF;

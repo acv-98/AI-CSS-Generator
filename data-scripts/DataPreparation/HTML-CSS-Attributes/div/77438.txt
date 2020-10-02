@@ -1,0 +1,5 @@
+    color: #FFB03B;
+    font-size: 32px;
+    padding-bottom: 15px;
+    font-family: 'Satisfy', sans-serif;
+        font-size: 23px;

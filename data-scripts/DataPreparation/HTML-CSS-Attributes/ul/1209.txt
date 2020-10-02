@@ -1,0 +1,12 @@
+	margin-top:40px;
+ 
+    background-color:transparent; 
+    border:0;
+    border-radius:0;
+	font-size:18px;
+	font-weight:500;
+	text-transform:uppercase;
+	letter-spacing:5px;
+	
+	background-color:transparent;
+	color:#333;	

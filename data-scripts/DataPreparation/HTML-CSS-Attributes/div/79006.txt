@@ -1,0 +1,2 @@
+  color: #696565;
+  padding-top: 7px;

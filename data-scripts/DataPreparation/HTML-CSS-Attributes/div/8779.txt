@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	width:930px;
+	border:2px solid #e2e3e4;
+	background:#fdfdfd;
+	color:#595959;
+	background-color:#fff;
+	float:left;

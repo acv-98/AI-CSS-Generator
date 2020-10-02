@@ -1,0 +1,10 @@
+	margin:0;
+	padding:0;
+	float:right;
+	width:400px;
+	list-style:none;
+	font:normal 13px Arial, Helvetica, sans-serif;
+	color:#cfd1d0;
+	display:block;
+	text-decoration:none;
+	background:url(images/hover.gif) bottom center no-repeat;

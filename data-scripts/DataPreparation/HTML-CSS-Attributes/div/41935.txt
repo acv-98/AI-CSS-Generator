@@ -1,0 +1,11 @@
+  overflow-y: scroll;
+  text-align: center;
+  padding: 2em 0;
+  position: relative;
+  margin: 0;
+  list-style: none;
+  color: #ccc;
+  display: block;
+  float: left;
+  width: 100%;
+  border-bottom: 1px solid #2e2e2e;

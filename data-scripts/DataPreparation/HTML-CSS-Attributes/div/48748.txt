@@ -1,0 +1,17 @@
+  border-color: #c1a35f;
+  display: inline;
+  float: left;
+  width: 100%;
+  font-size: 15px;
+  letter-spacing: 0.3px;
+  line-height: 1.7;
+  color: #555;
+  margin-top: 15px;
+  padding: 0 15px 20px;
+  padding-left: 20px;
+  position: relative;
+  content: '\f14a';
+  font-family: fontAwesome;
+  left: 0;
+    font-size: 25px;
+    line-height: 30px;

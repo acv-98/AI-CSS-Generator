@@ -1,0 +1,27 @@
+color:#d87a68;background-color:#fffcolor:#205081;background-color:#fffcolor:#1087dd;background-color:#fffcolor:#3b5998;background-color:#fffcolor:#ff0084;background-color:#fffcolor:#f94877;background-color:#fffcolor:#444;background-color:#fffcolor:#dd4b39;background-color:#fffcolor:#3f729b;background-color:#fffcolor:#007bb6;background-color:#fffcolor:#2672ec;background-color:#fffcolor:#f7931e;background-color:#fffcolor:#cb2027;background-color:#fffcolor:#eff7ff;background-color:#000color:#f50;background-color:#fffcolor:#2c4762;background-color:#fffcolor:#55acee;background-color:#fffcolor:#1ab7ea;background-color:#fffcolor:#587ea3;background-color:#fffcolor:#720e9e;background-color:#fff
+ * Bootstrap v3.2.0 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+  color: #fff;
+  background-color: #333;
+  display: inline-block;
+  min-width: 10px;
+  padding: 3px 7px;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 10px;
+  position: relative;
+  top: -1px;
+  text-decoration: none;
+  cursor: pointer;
+  margin-left: 3px;
+  float: right;
+  margin-right: 5px;

@@ -1,0 +1,12 @@
+	background:url(images/text_bg.gif) left no-repeat;
+	margin:20px 0 0 0;
+	padding:0;
+	float:right;
+	width:470px;
+	font:italic 12px Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-decoration:none;
+	line-height:1.6em;
+	list-style:none;
+	border:1px solid #c0c0c0;
+	height:16px;

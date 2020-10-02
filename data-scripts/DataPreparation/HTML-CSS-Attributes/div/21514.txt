@@ -1,0 +1,10 @@
+    border-top: 1px solid #fff;
+    height: 1px;
+    margin: 15px auto 0;
+    position: relative;
+    width: 35%;
+    background-color: #fff;
+    content: "";
+    left: 50%;
+    margin-left: -20px;
+    top: -5px;

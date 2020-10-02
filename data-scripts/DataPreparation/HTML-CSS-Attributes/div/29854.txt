@@ -1,0 +1,15 @@
+ width: 100%;  justify-content: space-between; 
+.tm-gallery {
+	display: -webkit-box;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	margin: 0 -15px -30px;
+ margin: 0 auto; .grid {
+	position: relative;
+	list-style: none;
+	text-align: center;	
+ width: 300px;  overflow: auto;  float: left;  margin-left: 300px; 	.grid figure {
+		width: 31%;
+		height: auto;
+		margin: 1.1666%;

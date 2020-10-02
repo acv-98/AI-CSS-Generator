@@ -1,0 +1,1 @@
+border-color:#ffd62coverflow-x:hiddenpadding-right:0

@@ -1,0 +1,3 @@
+background-image:url("img/mail.png"); margin-top:-8px;
+*  Responsive design                                                                                                    
+@media (max-width: 975px) {

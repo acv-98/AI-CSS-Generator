@@ -1,0 +1,5 @@
+	margin-top: 60px;
+	font-size: 38px;
+	font-weight: 700;
+	padding-bottom: 30px;
+	text-align: center;

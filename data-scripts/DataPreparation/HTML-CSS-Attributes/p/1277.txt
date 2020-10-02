@@ -1,0 +1,9 @@
+	padding: 7px 15px; margin: 20px 20px 15px 20px;	
+	border: 1px solid #251a14;
+	background-color: #130d0a;
+ margin: 0 10px 0 5px;	 margin: 0 10px 0 5px;	 margin: 0 10px 0 5px;	.post .post-info, 
+#featured .post-info { 
+	margin-top: 0; 
+	text-transform: uppercase; 
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;	

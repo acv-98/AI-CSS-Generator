@@ -1,0 +1,7 @@
+-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box
+.lt-ie9 .small-block-grid-2 {
+    list-style: none
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: .25em;
+    text-transform: lowercase;

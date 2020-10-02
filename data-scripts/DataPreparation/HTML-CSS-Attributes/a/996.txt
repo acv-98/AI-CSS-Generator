@@ -1,0 +1,10 @@
+  background: transparent;
+  color: #69c2c8;
+  border: 2px solid #69c2c8;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  box-shadow: none;

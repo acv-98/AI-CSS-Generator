@@ -1,0 +1,4 @@
+	height:7px;
+	left:20px;
+	right:20px;
+	bottom:14px;

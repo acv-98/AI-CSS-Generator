@@ -1,0 +1,1 @@
+width:890px; height:76px; padding:42px 0 0 50px; margin:auto; margin-bottom:0; margin-top:45px; background:url('design/banner1.jpg') no-repeat scroll; background-color:#000; color:#c3ccd5; position:relativefont-weight:200; font-size:20pt; display:block; width:630px; text-shadow:0 1px #000color:#fff; font-weight:300width:100px; position:absolute; right:42px; top:30px

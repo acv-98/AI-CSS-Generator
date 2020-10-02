@@ -1,0 +1,16 @@
+	behavior:url("../js/PIE.htc");
+	position:relative;
+	margin:0 1px 0 0;
+	border-right:#7acad7 1px solid;
+	display:inline-block;
+	float:left
+	line-height:17px;
+	background:url(../images/transp.png) 0 0 repeat;
+	border-left:#82ceda 1px solid
+	font-size:13px;
+	color:#fff;
+	font-weight:bold;
+	padding:23px 28px 24px 28px
+	border-radius:8px 0 0 8px;
+	width:19px;
+	height:19px;

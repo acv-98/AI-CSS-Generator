@@ -1,0 +1,2 @@
+  padding: 40px;
+  background: #222831;

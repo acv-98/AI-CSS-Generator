@@ -1,0 +1,5 @@
+	text-decoration:none
+	line-height:20px;
+	padding:10px 0;
+	background:url(../images/pic-1.gif) 0 bottom repeat-x;
+	color:#808080

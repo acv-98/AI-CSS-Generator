@@ -1,0 +1,3 @@
+	float: center;
+	font-weight:normal;
+	font-size:13px !important;

@@ -1,0 +1,11 @@
+	overflow: hidden;
+	padding: 100px 0px 100px 0px;
+	min-height: 200px;
+	width: 152px;
+	height: 52px;
+	background: url(../img/badge-appstore.png) #3a3a3a no-repeat 0px 5px;
+	color: white;
+		padding-top: 50px;
+        background: url(../img/badge-appstore@2x.png) #3a3a3a no-repeat 0px 5px;
+        background-size: 98%;
+    	color: white;

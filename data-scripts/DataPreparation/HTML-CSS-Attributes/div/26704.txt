@@ -1,0 +1,17 @@
+	display: block;
+	float: left;
+	margin:0 0 0px 0;
+	width: 340px;
+	padding: 20px 0;
+	background: url(../images/tabbed_bg.jpg) no-repeat;
+	  clear:left;
+	  padding:0 0 4px 0;
+	  border-bottom:1px dotted #c7c7c7;
+	  width: 300px;
+	  margin-left: 17px;
+	  text-align:left;
+	  font-size: 1em
+	color: #333;
+	text-decoration: none;
+	border-left: 14px solid #e69292;
+	letter-spacing:normal;

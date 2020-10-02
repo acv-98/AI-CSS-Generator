@@ -1,0 +1,8 @@
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 30px;
+        max-width: 400px;
+        margin: inherit;
+        text-align: left;
+    padding-bottom: 35px;
+    padding-top: 60px;

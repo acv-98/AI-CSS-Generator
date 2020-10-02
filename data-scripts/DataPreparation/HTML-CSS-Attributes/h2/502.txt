@@ -1,0 +1,16 @@
+	color: #4d87ab;
+	width: 550px;
+	clear:both;
+	font-size: 15px;
+	margin:0px;
+	display: block;
+	cursor: pointer;
+	background-color: #FFF;
+	padding: 10px 20px;
+	border: 1px solid #dedede;
+	-webkit-transition:all 200ms ease-in;
+	-o-transition:all 200ms ease-in;
+	-moz-transition:all 200ms ease-in;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;

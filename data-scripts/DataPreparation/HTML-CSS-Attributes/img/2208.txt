@@ -1,0 +1,2 @@
+display:inline;float:left;margin-right:24px;margin-top:4px;margin-bottom:12px;
+ float:left; 

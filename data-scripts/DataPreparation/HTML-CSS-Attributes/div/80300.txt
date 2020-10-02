@@ -1,0 +1,8 @@
+	margin:0 0 31px;
+	
+	height:259px;
+	overflow: hidden;
+	width:100%;
+	     border-radius:20px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;

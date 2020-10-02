@@ -1,0 +1,23 @@
+		padding-top:6px;
+		padding-left:10px;
+		padding-right:10px;
+		position:relative;
+		z-index:10;
+margin:0;padding:10px 15px 0 15px;	.body .callout.intext .content h4 {	
+		font-size:20px;
+		margin:0;
+		line-height:20px;
+		color:#393939;
+		padding-bottom:11px;
+		font-weight:600;
+		font-family:"Open Sans";
+		font-style:normal;
+		text-align:center;
+		height:4px;
+		width:100%;
+		background:url(../images/design/drops/diag-pattern.png) repeat-x transparent;
+		display:block;
+background:url(../images/design/drops/buoy.png) no-repeat;background:url(../images/design/drops/gear.png) no-repeat;background:url(../images/design/drops/cart.png) no-repeat;background:url(../images/design/drops/client.png) no-repeat;background:url(../images/design/drops/globe.png) no-repeat;background:url(../images/design/drops/iphone.png) no-repeat;background:url(../images/design/drops/lab.png) no-repeat;background:url(../images/design/drops/pushpin.png) no-repeat;background:url(../images/design/drops/tags.png) no-repeat;background:url(../images/design/drops/tools.png) no-repeat;background:url(../images/design/drops/trophy.png) no-repeat;background:url(../images/design/drops/truck.png) no-repeat;background:url(../images/design/drops/tv.png) no-repeat;background:url(../images/design/drops/umbrella.png) no-repeat;background:url(../images/design/drops/virus.png) no-repeat;		border:1px solid #d9d9d9;
+			background:url(../images/design/footer-bg-768.png) top left repeat-y transparent;
+			width:788px;
+margin:0;padding:0;vertical-align:middle;position:relative;top:65px;

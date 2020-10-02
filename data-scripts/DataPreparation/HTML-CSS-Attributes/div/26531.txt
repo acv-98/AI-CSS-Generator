@@ -1,0 +1,6 @@
+	clear: both;
+	padding-bottom: 20px;
+	background: url(images/divider.jpg) bottom repeat-x;	
+	margin-bottom: 20px;
+	font-size: 28px;
+	color: #749d07;

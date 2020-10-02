@@ -1,0 +1,13 @@
+  display: inline-block;
+  font-size: 15px;
+  color: #7d7d7d;
+  padding: 8px 35px;
+  border: 2px solid #7d7d7d;
+  border-radius: 30px;
+  font-family: Roboto-Light;
+  font-weight: bold;
+      -webkit-box-shadow: 2.5px 4.33px 10px 0px rgba(0, 0, 0, 0.13);
+              box-shadow: 2.5px 4.33px 10px 0px rgba(0, 0, 0, 0.13); 
+      background-color: #FFFFFF;
+      color: #00aafe;
+      border: 2px solid #fff;

@@ -1,0 +1,5 @@
+	overflow: hidden;
+	position: relative;
+	z-index: 0;
+	width: 940px;
+	height: 376px;

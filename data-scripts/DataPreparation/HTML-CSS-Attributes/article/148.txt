@@ -1,0 +1,13 @@
+	color:#4eb478;
+	padding-bottom:20px;
+	margin-bottom:30px;
+	border-bottom:1px solid #eeeeee;
+	font-weight:700;
+	text-decoration:none;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  filter: alpha(opacity=80);
+  -moz-opacity: 0.7;
+  -khtml-opacity: 0.7;
+  opacity: 0.7;
+	float:left;
+	margin-right:20px;

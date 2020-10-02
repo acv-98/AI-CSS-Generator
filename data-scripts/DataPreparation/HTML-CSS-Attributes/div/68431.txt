@@ -1,0 +1,1 @@
+float:left;padding:50px 0px;width:700px;padding:10px 30px; background:url(images/textbox2bg.gif) repeat-x;

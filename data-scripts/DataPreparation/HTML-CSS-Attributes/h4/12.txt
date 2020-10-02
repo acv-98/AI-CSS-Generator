@@ -1,0 +1,4 @@
+    font-size: 18px;
+    color: #664a3f;
+    font-weight: 500;
+    padding: 0;

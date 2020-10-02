@@ -1,0 +1,6 @@
+    content: '';
+    display: block;
+    clear: both;
+    width: 33.333%;
+    float: left;
+    max-width: 100%;

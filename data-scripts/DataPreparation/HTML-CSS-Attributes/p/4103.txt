@@ -1,0 +1,2 @@
+  color: #dedede;
+  margin-bottom: 0;

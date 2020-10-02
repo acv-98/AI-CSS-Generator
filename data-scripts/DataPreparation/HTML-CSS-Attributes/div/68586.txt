@@ -1,0 +1,16 @@
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+	width: 760px;
+	overflow: hidden;
+	margin-bottom: -35px;
+	
+	content: '';
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+	opacity: 0;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	z-index: 100;

@@ -1,0 +1,17 @@
+background:url(../images/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;display:block;height:33px;width:50pxdisplay:none
+    Theme Name: Vesperr
+    Theme URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
+    Author: BootstrapMade.com
+    Author URL: https://bootstrapmade.com
+@import url('font-awesome.css');
+@import url('overwrite.css');
+1. Basic & general
+  color: #fff;
+  text-shadow: none;
+	background:#010101;
+	border-bottom:1px solid #222;
+	position: fixed;
+	top:0;
+	left: 0;
+	width: 100%;
+	padding-right:20px;

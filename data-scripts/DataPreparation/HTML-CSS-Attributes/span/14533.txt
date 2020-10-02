@@ -1,0 +1,18 @@
+	width: 90px;
+	height: 90px;
+	line-height: 100px;
+	background-color: #ddd;
+	border-radius: 100%;
+	display: inline-block;
+	color: #fff;
+	font-size: 25px;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0 auto 20px;
+	content: "";
+	position: absolute;
+	border-bottom: 2px dashed #ddd;
+	top: 30%;
+	left: 100%;
+	transform: translateX(-50%);
+	border-color: #1abac8;

@@ -1,0 +1,8 @@
+	float:left;
+	width:137px;
+	height:40px;
+	line-height:40px;
+	color:#fff;
+	text-align:center;
+	text-decoration:none;
+	background:url(../images/button.gif) no-repeat 0 0;

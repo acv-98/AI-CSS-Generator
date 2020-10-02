@@ -1,0 +1,2 @@
+	background:url(../images/subcribebottom.jpg) left bottom no-repeat;
+	padding:6px 10px 10px 10px;

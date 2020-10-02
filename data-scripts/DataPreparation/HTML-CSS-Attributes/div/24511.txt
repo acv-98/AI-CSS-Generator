@@ -1,0 +1,3 @@
+  background-color: #dd4b39 !important;
+  position: relative;
+  padding: 15px;

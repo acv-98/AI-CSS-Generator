@@ -1,0 +1,24 @@
+  text-align: left;
+  white-space: nowrap;
+  text-transform: lowercase;
+  color: #777;
+  font: 0/0 a;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+        font-size: 45px;
+        letter-spacing: 0;
+        line-height: 50px;
+        margin: 60px auto 20px;
+        max-width: 630px;
+        padding: 0 20px;
+    margin-right: 105px;
+    margin-top: 150px;
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-bottom: 52px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 20px

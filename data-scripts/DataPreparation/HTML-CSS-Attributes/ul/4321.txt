@@ -1,0 +1,10 @@
+		font-size: 12px;
+		padding: 0px 7px 10px 0px;
+	color:#666;
+    padding: 30px 13px 25px 13px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #fff;
+    border-bottom: 3px solid transparent;
+	text-transform:uppercase;
+    background-color: transparent;

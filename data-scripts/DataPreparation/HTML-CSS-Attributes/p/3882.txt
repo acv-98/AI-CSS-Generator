@@ -1,0 +1,5 @@
+ padding: 50px;  color: black; .tm-fa { 
+	color: white;
+	padding-bottom: 40px;
+    text-align: center;
+    width: 100%;

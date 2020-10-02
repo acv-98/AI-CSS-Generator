@@ -1,0 +1,12 @@
+	color:#585757;
+	display:block;
+	float:left;
+	margin:0 0 16px;
+	padding:6px 20px;
+	font-size:12px;
+	line-height:16px;
+	font-weight:normal;
+	text-transform:none;
+	text-decoration:none;
+	text-align:center;
+	background:#fed63a;

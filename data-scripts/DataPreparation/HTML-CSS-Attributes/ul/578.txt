@@ -1,0 +1,7 @@
+	list-style-image: url(../images/a4.png);
+	margin: 0 15px 10px;
+	color: #888;
+	font-size: 0.85em;
+	vertical-align: top;
+	text-decoration: none;
+	padding:0;

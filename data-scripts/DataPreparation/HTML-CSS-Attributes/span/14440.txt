@@ -1,0 +1,5 @@
+	width:266px;
+	height:57px;
+	float:left;
+	background:url('images/textarea-bg.gif') no-repeat 0 0;
+	border:0;

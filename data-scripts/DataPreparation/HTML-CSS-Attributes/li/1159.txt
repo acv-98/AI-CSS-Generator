@@ -1,0 +1,10 @@
+	background: transparent;
+	border-left: 1px solid #ccc;
+	cursor: pointer;
+	font-size: 0.8rem;
+	font-weight: 300;
+    text-transform: uppercase;
+    padding: 0;
+    transition: all 0.5s ease;
+ border-right: 1px solid #ccc; .nav-link.active,
+	color: white;

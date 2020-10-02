@@ -1,0 +1,1 @@
+width:100%background:none repeat scroll 0 0 #FF1769; color:#FFF; font-size:18px; font-weight:bold; height:40px; width:140px; border:none !importantbackground:#fff; border:2px solid #FF1769 !important; color:#FF1769

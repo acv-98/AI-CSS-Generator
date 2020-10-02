@@ -1,0 +1,14 @@
+  position: absolute;
+  top: 27px;
+  right: 30px;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+    top: 17px;
+  font-size: 20px;
+  color: #4fd2c2;
+  -webkit-transform: rotate(-180deg);
+  -moz-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  -o-transform: rotate(-180deg);
+  transform: rotate(-180deg);

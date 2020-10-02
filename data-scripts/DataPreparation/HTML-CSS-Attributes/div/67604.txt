@@ -1,0 +1,5 @@
+background: url(../img/heading_bg.png) repeat-x 0 30px  
+.heading_bg h1, 
+.heading_bg h2, 
+.heading_bg h3, 
+background: #FCFCFC; padding-right: 10px; display: inline-block

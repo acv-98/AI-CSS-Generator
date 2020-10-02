@@ -1,0 +1,10 @@
+	width: 960px;
+	margin-top: 18px;
+	padding-top: 18px;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: 1px #ccc dashed;
+	padding-bottom: 18px;
+	color: #555555;
+	background: url(../img/twiiter-bird.png) no-repeat 30px 10px;
+	min-height: 60px;

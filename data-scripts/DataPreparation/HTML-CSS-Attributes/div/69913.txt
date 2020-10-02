@@ -1,0 +1,6 @@
+  font-size: 20px;
+background: none repeat scroll 0 0 #FFFFFF;border: 1px solid #999999;padding: 25px;font-size:25px;color:#6b6b6b;margin-top:15px;font-size:21px;.single_page_content h2,.single_page_content h3,.single_page_content h4,
+color:#6b6b6b;font-weight:bold;margin-top:10px;margin-bottom:8px;margin: 10px 0px;.single_page_content ul li,.single_page_content ol li{font-style: italic;
+margin-left: 25px;
+display: inline-block;
+background: none repeat scroll 0 0 #999;.single_post_meta{border-top: 2px dotted #999999;

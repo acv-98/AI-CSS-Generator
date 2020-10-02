@@ -1,0 +1,8 @@
+ width: 100%; display: block;content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;height: 1%;
+display: block;.flexslider {background:none; position: relative; 
+zoom: 1;width: 100%; display: block;content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;height: 1%;zoom: 1;.testimonial_item {
+	display: inline-block;
+	padding: 0;
+	position: relative;
+	margin-bottom: 15px;
+	width: 100%;

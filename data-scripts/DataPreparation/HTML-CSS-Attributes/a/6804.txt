@@ -1,0 +1,6 @@
+    max-width: 250px;
+    max-height: 50px;
+    border-radius: 50px;
+    background: #fff;
+    color: #585b60;
+    text-decoration:none;

@@ -1,0 +1,14 @@
+  padding: 120px 0 125px;
+  margin-bottom: 60px;
+  padding-right: 10px;
+  line-height: 20px;
+  margin-top: 55px;
+  border: 1px solid #000;
+  border-top: none;
+  padding-top: 5px;
+  background: #474747;
+  color: #ffffff;
+  text-align: left;
+  font: 14px/14px 'Open Sans', sans-serif;
+  text-decoration: underline;
+  height: 430px;

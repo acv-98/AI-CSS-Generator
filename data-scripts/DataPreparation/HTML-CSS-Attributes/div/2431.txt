@@ -1,0 +1,6 @@
+	padding-top:30px;
+	padding-bottom: 10px;
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size:18px;
+	font-weight:400px;
+	text-align:center;

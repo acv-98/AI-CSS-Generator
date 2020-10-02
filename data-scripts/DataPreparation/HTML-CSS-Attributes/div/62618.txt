@@ -1,0 +1,8 @@
+	position: relative;
+	content: '';
+	left: -10px;
+	background-color: #b8d6d0;
+	width: 1px;
+	top: -13px;
+	bottom: -10px;
+	display: block;

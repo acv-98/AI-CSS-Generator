@@ -1,0 +1,2 @@
+padding: 30px !important;
+padding: 35px 0; text-align: center; color: #fff;color: #fff;color: #000; text-decoration: none;

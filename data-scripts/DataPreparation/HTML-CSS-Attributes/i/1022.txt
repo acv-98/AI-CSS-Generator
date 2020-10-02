@@ -1,0 +1,1 @@
+	border: 20px solid #fff !important;

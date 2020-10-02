@@ -1,0 +1,1 @@
+    padding-top: 2.66rem;

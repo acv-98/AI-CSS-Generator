@@ -1,0 +1,5 @@
+	padding-bottom: 0;
+	padding-top: 30px;
+	display: inline-block;
+	margin: 10px 20px;
+ outline: 0; opacity: 0.6; .counters-container {

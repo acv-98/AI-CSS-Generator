@@ -1,0 +1,8 @@
+	font-family: "domine-bold", serif;
+	color: #001835;
+	font-size: 6.5rem;
+	line-height: 1;
+	margin-top: 4.2rem;
+	margin-bottom: 0;
+	top: -3rem;
+	margin-right: 3px;

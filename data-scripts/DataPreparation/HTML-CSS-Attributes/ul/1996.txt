@@ -1,0 +1,17 @@
+    min-width: 160px;
+    padding: 0px;
+    margin: 2px 0 0;
+    font-size: 14px;
+    text-align: left;
+    list-style: none;
+    background-color: transparent;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box; 
+    border: 0px solid #ccc; 
+    border-radius: 0px; 
+    -webkit-box-shadow: 0 0px 0px rgba(0,0,0,.175); 
+    box-shadow: 0 0px 0px 
+    color:#f5c239;
+    width: 300px;
+    opacity: 1; 
+    margin-right: -30px;

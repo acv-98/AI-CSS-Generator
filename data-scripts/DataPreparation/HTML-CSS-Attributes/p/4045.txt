@@ -1,0 +1,6 @@
+	line-height:1;
+	letter-spacing:-1px;
+	font-size:35px;
+	font-weight:bold;
+	margin:0;
+	padding:0;

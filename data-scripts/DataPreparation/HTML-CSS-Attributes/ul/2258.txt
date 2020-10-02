@@ -1,0 +1,3 @@
+content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;
+display: block;.flex-caption {background:none; -ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000);
+ list-style: none; list-style-position: outside; 

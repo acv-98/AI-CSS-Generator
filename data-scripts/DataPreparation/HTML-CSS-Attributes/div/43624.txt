@@ -1,0 +1,6 @@
+	display: inline;
+	float: left;
+	margin: 0 2.0833% 2.0833% 0;
+	width: 49.8%;
+	margin-bottom: 50px;
+	font-size: 1em;

@@ -1,0 +1,3 @@
+border : none;
+@media screen and (max-width:620px) { 
+	.widget_search{ position: absolute; top: 160px;

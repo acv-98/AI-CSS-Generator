@@ -1,0 +1,8 @@
+  z-index: 0;
+  width: 63px;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  background: url('../images/bg/slider-shadow.png') no-repeat;
+  left: -63px;
+  background-position: center left;

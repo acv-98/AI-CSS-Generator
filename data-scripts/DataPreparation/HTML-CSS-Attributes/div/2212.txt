@@ -1,0 +1,3 @@
+	height:7px;
+	width:0px;
+	background:#e88988;

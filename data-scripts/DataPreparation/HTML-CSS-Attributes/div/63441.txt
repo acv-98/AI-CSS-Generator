@@ -1,0 +1,22 @@
+  padding: 70px 45px;
+  background: #fff;
+  margin-top: 50px;
+    margin-top: 0;
+  padding-top: 110px;
+  padding-bottom: 110px;
+  display: block;
+  font-size: 30px;
+  color: #999caa;
+  margin-bottom: 30px;
+  position: relative;
+  padding-left: 20px;
+  top: 7px;
+  left: 0;
+  width: 9px;
+  height: 2px;
+  content: " ";
+  margin-right: 10px;
+position:relative;font-family:Hind,sans-serif.mfp-bg {
+  z-index: 1042;
+  overflow: hidden;
+  opacity: 0.8;

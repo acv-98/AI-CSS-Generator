@@ -1,0 +1,10 @@
+  padding-left:0px;
+  width:300px;
+  text-align:center;
+  margin-top:60px;
+  overflow:hidden;
+  height:auto;
+  float:left;
+  color:black;
+  font-size:17px;
+  line-height:1.7;

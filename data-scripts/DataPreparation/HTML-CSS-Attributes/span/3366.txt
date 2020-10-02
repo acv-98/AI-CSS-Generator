@@ -1,0 +1,11 @@
+	display:block;
+	margin:0 auto;
+	padding:0;
+	position:relative;
+	width:60px;
+	background:url(../images/button-collapse.gif) no-repeat top center;
+	cursor:default;
+	height:60px;
+	left:0;
+	text-indent:-99999em;
+	top:-86px;

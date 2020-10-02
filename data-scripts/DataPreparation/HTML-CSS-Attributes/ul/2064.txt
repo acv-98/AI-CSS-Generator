@@ -1,0 +1,15 @@
+	margin-top:30px;
+	transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+	display:inline;
+	font-size: 14px;
+	margin-right:10px;
+	
+	color:#d0d0d0;
+	padding:5px 10px;
+	background:#000;
+	border-radius:50%;
+  color: #39579a;
+  

@@ -1,0 +1,1 @@
+ margin:0 auto; padding:0 40px; width:890px; height:357px; overflow:hidden; background:url(images/hbg_r_bg.jpg) no-repeat center top;

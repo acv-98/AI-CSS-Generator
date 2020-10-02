@@ -1,0 +1,6 @@
+    float: left;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 12px;
+    width: 63%;
+    color: #2387D9;

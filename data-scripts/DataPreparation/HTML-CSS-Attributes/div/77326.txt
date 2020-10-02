@@ -1,0 +1,4 @@
+  -webkit-background: linear-gradient(rgba(18, 22, 25, 0.95), rgba(18, 22, 25, 0.95));
+  -ms-background: linear-gradient(rgba(18, 22, 25, 0.95), rgba(18, 22, 25, 0.95));
+  -moz-background: linear-gradient(rgba(18, 22, 25, 0.95), rgba(18, 22, 25, 0.95));
+  -o-background: linear-gradient(rgba(18, 22, 25, 0.95), rgba(18, 22, 25, 0.95));

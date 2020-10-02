@@ -1,0 +1,13 @@
+        width: 100%;
+		margin-bottom: 30px;
+    margin: 0;
+    padding: 5px 0 0;
+    border: 1px solid #ededed;
+	box-shadow: 0 0 8px 0 rgba(0,0,0,.08);
+    font-size: 21px;
+    line-height: 1 !important;
+    background-color: #ffffff;
+    display: inline-block;
+    position: relative;
+    top: -12px;
+    border-radius: 0;

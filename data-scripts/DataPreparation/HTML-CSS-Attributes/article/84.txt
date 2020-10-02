@@ -1,0 +1,13 @@
+  display: table-cell;
+  padding: 10px 0 50px 30px;
+  border: 1px solid #f0f0f0;
+  width: 100%;
+  border-color: #ccc;
+  background: #3891cf;
+  color: white;
+  text-align: left;
+    display: block;
+    padding: 10px 5%;
+    width: 90%;
+    max-width: 90%;
+  float: left;

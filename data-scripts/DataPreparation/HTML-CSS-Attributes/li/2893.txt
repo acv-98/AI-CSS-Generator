@@ -1,0 +1,5 @@
+ background: #ff9000; border-bottom: none; 		height: 60px;
+		background: #FF9000 none repeat scroll 0% 0%;
+		border-bottom: medium none;
+	opacity: 1;
+ border: solid 1px #ff9408; background: #ff9408; color: #fff;

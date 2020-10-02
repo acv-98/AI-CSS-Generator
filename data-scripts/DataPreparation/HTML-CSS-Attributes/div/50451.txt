@@ -1,0 +1,16 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slide-img.png', sizingMethod='image');
+	width:960px;
+	height:325px;
+	margin:0 0 0 154px;
+	position:relative;
+	padding:52px 77px 0 0;
+	font-size:28px;
+	line-height:31px;
+	color:#fff;
+	font-weight:normal;
+	text-align:center;
+	display:block;
+	right:97px;
+	bottom:0;
+	text-decoration:none;

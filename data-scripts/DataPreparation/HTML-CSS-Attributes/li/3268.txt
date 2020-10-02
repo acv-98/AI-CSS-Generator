@@ -1,0 +1,2 @@
+	color:#fff;
+	background:url(images/activemenu.png) center bottom no-repeat;

@@ -1,0 +1,8 @@
+	display:none;
+	float: left;
+	color: #FFF;
+	background: #373645;
+	padding: 10px;
+	margin-bottom: 0;
+	text-decoration:none;
+	width:48%;

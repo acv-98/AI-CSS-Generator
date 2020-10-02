@@ -1,0 +1,13 @@
+	float:right;
+	clear:both;
+	margin:20px 30px 0 0;
+	width:149px;
+	height:34px;
+	text-align:center;
+	color:#fff;
+	font-size:16px;
+	background:#666666;
+	border:none;
+	font-weight:bold;
+	padding:0;
+	cursor:pointer;

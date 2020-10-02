@@ -1,0 +1,4 @@
+	display: block;
+	float: right;
+	color: #E3F4FB;
+	text-decoration: none;

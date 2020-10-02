@@ -1,0 +1,10 @@
+   right: 0;
+    left: auto;
+    top: auto;
+    bottom: 0;
+    width: 0px;
+height: 0px;
+z-index: 4;
+border-style: solid;
+border-width: 0 0 64px 121px;
+border-color:  transparent transparent #717262 transparent;

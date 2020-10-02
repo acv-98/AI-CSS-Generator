@@ -1,0 +1,10 @@
+	margin: 15px 0;
+	overflow: hidden;
+	position: relative;
+	display: block;
+	content: '';
+	top: 6px;
+	right: 6px;
+	bottom: 6px;
+	left: 6px;
+	border: 1px solid rgba(255, 255, 255, 0.6);

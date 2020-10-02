@@ -1,0 +1,11 @@
+  width:405px;
+  overflow:hidden;
+  height:auto;
+  font-weight:300;
+  float:left;
+  padding-left:40px;
+  color:black;
+  font-size:14px;
+  line-height:26px;
+  text-align:center;
+  margin-top:60px;

@@ -1,0 +1,1 @@
+		background:url(../images/sep-line.gif) top right repeat-y;

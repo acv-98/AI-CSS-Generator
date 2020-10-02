@@ -1,0 +1,2 @@
+	padding:12px 0 0;
+	background:url(../images/gadget_top.gif) no-repeat center top;

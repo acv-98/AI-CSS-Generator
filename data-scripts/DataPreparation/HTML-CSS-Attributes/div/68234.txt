@@ -1,0 +1,7 @@
+	font-style:italic;
+	font-family:"Times New Roman", Arial, sans-serif;
+	font-size:14px;
+	line-height:19px;
+	margin-bottom:10px;
+	color:#ffa200;
+	text-decoration:underline;

@@ -1,0 +1,14 @@
+outline: none;.slides,
+.flex-control-nav,
+margin: 0; padding: 0; list-style: none;position:relative;top:-6px;margin:0 0 -8px 0;display:none;.flex-crop {
+	background:url(../images/flex/assets/crop.png) left top no-repeat transparent;
+	width:100%;
+	top:0px;
+	min-height:4px;
+	z-index:40;
+	display:block;
+	position:absolute;
+	margin:0;
+	padding:0;
+margin: 0; padding: 0;width: 100%; display: block;text-transform: capitalize;margin:0; position: relative; zoom: 1;max-height: 2000px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;zoom: 1;*height: 0;display: block; background: url(../images/flex/assets/direction-nav.png) no-repeat 0 0;position: absolute; top: 50%; z-index: 10; cursor: pointer; text-indent: -9999px; opacity: 0; -webkit-transition: all .3s ease;width:61px;height:46px;right: -35px; background-position:0 bottom;left: -28px;opacity: 1;opacity: 1;opacity: 1;opacity: .3!important; filter:alpha(opacity=30); cursor: default;display:none;@media screen and (max-width: 860px) {
+opacity: 1;opacity: 1;

@@ -1,0 +1,6 @@
+	width:960px;
+	height:auto;
+	overflow:hidden;
+	background:url(../images/main-content-bg.png) repeat-y;
+	margin:0 auto;
+	margin-top:40px;

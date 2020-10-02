@@ -1,0 +1,8 @@
+
+  margin-left: 15px;
+  width: 100%;
+width:98%;margin-left:15px;.work_pagination .newer,.work_pagination .older{background: none repeat scroll 0 0 #454545;
+color: #ffd500;
+display: block;
+font-family: oswald;
+background:#222;

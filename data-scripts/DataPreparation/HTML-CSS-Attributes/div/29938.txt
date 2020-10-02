@@ -1,0 +1,6 @@
+	position:relative;
+	width:656px;
+	height:225px;
+	overflow:hidden;
+	list-style:none outside none;
+	z-index:1;

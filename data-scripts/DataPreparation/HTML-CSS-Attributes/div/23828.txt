@@ -1,0 +1,10 @@
+	position:relative;
+	z-index:5;
+	color:#202020;
+	letter-spacing:2px;
+	text-transform:uppercase;
+	margin:25px 0;
+	line-height:1.6em;
+	padding:20px;
+	font-weight:bold;
+	font-size:20px;

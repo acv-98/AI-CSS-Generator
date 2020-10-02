@@ -1,0 +1,12 @@
+	list-style: none;
+	margin-left: 0;
+	padding: 0 0 1.5rem 0;
+	margin-bottom: .6rem;
+	font-family: "poppins-bold", sans-serif;
+	color: #313131;
+	text-transform: uppercase;
+	letter-spacing: .2rem;
+	font-size: 1.5rem;
+	line-height: 3rem;
+	display: block;
+		margin-bottom: 4.2rem;

@@ -1,0 +1,4 @@
+        text-align: left;
+        max-width: 380px;
+        padding-top: 75px;
+    padding-bottom: 15px;

@@ -1,0 +1,7 @@
+	font:bold 12px/29px Arial, Helvetica, sans-serif;
+	color:#5278b8;
+	background:url(../images/favebook-event.png) left center no-repeat;
+	display:block;
+	text-decoration:none;
+	padding-left:34px;
+	margin-bottom:4px;

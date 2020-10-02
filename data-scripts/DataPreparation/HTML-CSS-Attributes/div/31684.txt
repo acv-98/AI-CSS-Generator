@@ -1,0 +1,17 @@
+	padding-top: 7rem;
+	padding-bottom: 6rem;
+	font-size: 2.25rem;
+	margin-bottom: 1.8rem;
+	max-width: 800px;
+		padding-top: 5%;
+    	padding-bottom: 4%;
+	margin-bottom: 1rem;  margin-bottom: 2rem;  padding-top: 3rem; 	.tm-plan-table-header, 
+	.tm-plan-table-cell {
+	    padding: 1rem 1.5rem;
+	line-height: 1.8;
+    font-size: 1.5rem;
+	background-position: center 100px;
+	background-size: cover;
+ background-position: center 195px; 		background-position: center 300px;
+		background-size: contain; 
+ background-position: center 350px;  background-position: center 450px;  background-position: center bottom;  background-position: center 86%;  background-position: center 80%; 	margin-bottom: 15%; 

@@ -1,0 +1,4 @@
+ content: "\f0d6"; font-family:FontAwesome;font-weight:normal;font-style:normal;text-decoration:inherit;-webkit-font-smoothing:antialiased;display:inline;width:auto;height:auto;line-height:normal;vertical-align:baseline;background-image:none;background-position:0 0;background-repeat:repeat;margin-top:0
+  background: #15c177;
+  color: #fff;
+  text-shadow: none;

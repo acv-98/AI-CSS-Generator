@@ -1,0 +1,7 @@
+	font-size: 14px;
+	padding: 18px 0px;
+	position: relative;
+	display: block;
+	text-decoration: none;
+	background-color: transparent;
+	margin: 0px;

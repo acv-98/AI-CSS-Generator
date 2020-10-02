@@ -1,0 +1,2 @@
+ clear:both 	margin-left:0px !important;	margin-left:30px !important;    border-top: medium none;
+ clear:both 

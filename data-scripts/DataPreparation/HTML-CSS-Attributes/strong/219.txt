@@ -1,0 +1,12 @@
+color:#000;padding-bottom:3px;#form input {
+	background:#fff;
+	color:#6f6f6f;
+	border: 1px solid #e5e5e5;
+	padding: 6px 14px 7px 14px;
+	width: 100%;
+	height: 30px;
+	float:left;
+	font: 12px/15px  Arial, Helvetica, sans-serif;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;

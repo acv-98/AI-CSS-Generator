@@ -1,0 +1,8 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/hole.png', sizingMethod='image');
+	z-index:15;
+	width:844px;
+	height:20px;
+	position:absolute;
+	left:-22px;
+	bottom:0;

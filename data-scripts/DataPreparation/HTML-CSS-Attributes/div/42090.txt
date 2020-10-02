@@ -1,0 +1,12 @@
+  margin-bottom: 60px;
+  margin-top: 0px;
+  font-size: 36px;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 300;
+  text-align: center;
+  letter-spacing: 1px;
+  padding-top: 40%;
+    font-size: 22px;
+    margin-bottom: 30px;
+    padding-top: 10%;

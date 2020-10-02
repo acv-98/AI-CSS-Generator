@@ -1,0 +1,3 @@
+  height: 65vh;
+  background: url('../images/contact-bg.jpg') no-repeat;
+    height: 35vh;

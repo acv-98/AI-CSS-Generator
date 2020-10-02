@@ -1,0 +1,44 @@
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    margin-top: -2px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: #ffab40;
+    transition: color .3s ease;
+    text-transform: uppercase;
+  border: none;
+  border-radius: 2px;
+  display: inline-block;
+  height: 36px;
+  line-height: 36px;
+  outline: 0;
+  padding: 0 2rem;
+  vertical-align: middle;
+  -webkit-tap-highlight-color: transparent;
+.btn.disabled, .disabled.btn-large,
+.btn-floating.disabled,
+.btn-large.disabled,
+    background-color: #DFDFDF !important;
+    cursor: default;
+    pointer-events: none;
+    font-size: 1.3rem;
+    line-height: inherit;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: .5px;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    width: 37px;
+    height: 37px;
+    padding: 0;
+    border-radius: 50%;
+    vertical-align: middle;
+    opacity: 0;
+    float: right;
+        z-index: 2;
+        margin-left: 7px;
+        height: 51px;
+        margin-top: 0px;
+        border-radius: 0px 5px 5px 0px;
+    margin-bottom: 0rem;

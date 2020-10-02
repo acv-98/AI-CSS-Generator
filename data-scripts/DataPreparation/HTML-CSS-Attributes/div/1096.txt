@@ -1,0 +1,10 @@
+        width: 40%;
+        margin-left: 4px;
+        font-size: .875rem;
+.single_bottom_widget .form-group input[type="text"]{
+    height: 50px;
+    border: 0px;
+    background: #a2ca28;
+    color:#fff;
+    padding: 3px 3px;
+    border-radius: 50%;

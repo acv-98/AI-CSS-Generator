@@ -1,0 +1,9 @@
+	list-style: none !important;
+	padding-left: 0 !important;
+	margin: 0 !important;
+	font-weight: 400;
+	position: relative;
+	text-transform: uppercase;
+	float: left;
+	margin-right: 1em;
+	font-size: 0.8em;

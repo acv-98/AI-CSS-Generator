@@ -1,0 +1,6 @@
+	background-color:#f05f40;
+	text-align:center;
+	padding:20px 0 10px 0;
+	color:#fff;
+	font-size:20px;
+	margin:0;

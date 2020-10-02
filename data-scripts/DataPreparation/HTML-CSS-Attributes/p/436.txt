@@ -1,0 +1,1 @@
+font:10px/14px Tahoma, sans-serif; color:#FFF; font-weight:bold

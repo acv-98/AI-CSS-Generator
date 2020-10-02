@@ -1,0 +1,5 @@
+	padding-bottom:45px;
+	line-height:1.538em;
+	color:#f85811;
+	display:block;
+	font-size:1.231em;

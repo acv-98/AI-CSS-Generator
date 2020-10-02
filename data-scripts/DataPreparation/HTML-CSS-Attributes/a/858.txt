@@ -1,0 +1,9 @@
+    background:url(../images/button_bg.png) 0 0 no-repeat;
+    width:139px;
+    display:block;
+    text-align:center;
+    font-size:11px;
+    font-weight:bold;
+    color:#FFF;
+    padding:2px 0 5px 0;
+    margin:15px 0 0 0;

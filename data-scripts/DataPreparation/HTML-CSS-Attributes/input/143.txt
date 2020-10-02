@@ -1,0 +1,1 @@
+  border:none; background:none; width:130px; margin-right:10px; padding:2px 5px 3px 5px; color:#545454; background:url(images/input-bg.gif) no-repeat right top;

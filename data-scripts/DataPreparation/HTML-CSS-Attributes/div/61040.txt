@@ -1,0 +1,2 @@
+ font-size:16px; font-weight:bold; .flexible-hours {
+	background: url('../img/flexible-hours.png') no-repeat left 7px;

@@ -1,0 +1,5 @@
+	float:right;
+	width:760px;
+	margin:0;
+	font:italic 160%/1.2 "georgia", serif;
+	color:#FFF;

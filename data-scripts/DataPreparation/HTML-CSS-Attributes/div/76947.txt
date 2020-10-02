@@ -1,0 +1,4 @@
+      height: 489px;
+      padding: 0;
+      max-height: none;
+      overflow: hidden;

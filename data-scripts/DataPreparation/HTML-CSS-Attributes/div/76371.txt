@@ -1,0 +1,2 @@
+ padding: 46px 24px; background: url(images/footer-lights.png) no-repeat center 0px;  float: left; width: 195px;  padding-left: 54px;   list-style: none; list-style-position: outside;  color: #7dc33a; font-size: 16px;  padding-bottom: 4px; background: url(images/arr-footer-col.png) no-repeat 0 8px; padding-left: 9px;   color: #7dc33a; 
+ padding-left: 40px;  width: 150px;  padding-left: 28px;  font-size: 12px;  padding-left: 10px; padding-right: 0; padding-bottom: 0;  width: 150px; float: none; display: block; padding-bottom: 22px;  padding-left: 0px;  font-size: 12px; 

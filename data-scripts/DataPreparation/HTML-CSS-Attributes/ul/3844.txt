@@ -1,0 +1,4 @@
+	font-style: italic;
+	font-weight: bold;
+	color: #505050;
+	text-decoration: underline;

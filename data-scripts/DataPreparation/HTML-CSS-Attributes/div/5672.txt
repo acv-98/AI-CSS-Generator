@@ -1,0 +1,13 @@
+	padding: 70px 0px;
+	background-color: #f2f3f5;
+	text-align: center;
+	display: inline-block;
+	margin: 0 auto;
+	margin-top: 20px;
+	border: 2px solid #12557f;
+	border-radius: 2px;
+	transition: .2s;
+	letter-spacing: 1px;
+	color: #12557f;
+	line-height: 12px;
+	font-size: 34px;

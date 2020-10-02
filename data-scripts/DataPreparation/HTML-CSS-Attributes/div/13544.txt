@@ -1,0 +1,11 @@
+ font-size: 16px; font-family: 'Open Sans', sans-serif; color: #51595D; font-style: normal; font-weight: 800;  color: #919303;  float:none; width:100%; margin:0; clear:both;  margin-right: 2%;     .newsletter-call3 .newsletter-submit .submit-field,
+    float: left;
+    line-height: 1.81em;
+    margin-top: 20px;
+    display: inline;
+    margin-right: 2.0833%;
+    width: 22.75%;
+    clear: none !important;
+    font-size: 1.4em;
+    margin-bottom: 20px !important;
+    color: #244455;

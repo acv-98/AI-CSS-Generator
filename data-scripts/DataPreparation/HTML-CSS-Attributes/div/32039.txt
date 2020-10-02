@@ -1,0 +1,7 @@
+    width: 570px;
+    *width: 48.664757228587014%;
+  float: none;
+  margin-left: 0;
+	background:#f6f6f6;
+	text-align:center;
+	padding:20px 0 20px;

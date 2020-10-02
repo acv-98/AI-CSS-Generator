@@ -1,0 +1,9 @@
+  text-align: center;
+  font-size: 2.1rem;
+  line-height: 1.524;
+  color: #333333;
+    margin: 0 0 20px;
+    font-size: 5.4rem;
+    line-height: 1.148;
+    text-transform: uppercase;
+      font-size: 2.8rem;

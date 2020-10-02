@@ -1,0 +1,7 @@
+	font-size: 16px;
+	color: #ccc;
+	font-weight: bold;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+ color:#999; .bottom-user i {
+	margin-right: 5px;

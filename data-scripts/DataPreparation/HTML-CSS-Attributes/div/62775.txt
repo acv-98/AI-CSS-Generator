@@ -1,0 +1,2 @@
+	background:url(../images/right-top-corner.gif) no-repeat right top;
+	width:100%;

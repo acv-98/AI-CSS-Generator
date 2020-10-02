@@ -1,0 +1,1 @@
+ display: inline-block; padding: 25px 40px; color: #fff; border: solid 1px #fff; text-transform: uppercase; font-weight: bold; letter-spacing: 1px;  color: #3dc9b3; border: solid 1px #3dc9b3; Team

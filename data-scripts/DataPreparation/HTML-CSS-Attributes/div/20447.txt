@@ -1,0 +1,10 @@
+        font-size: 1.5rem;
+        padding-top: 181px;
+        max-width: 60%;
+        margin: 0 auto;
+    background: #ffe13e;
+    padding-bottom: 110px;
+    font-family: 'ralewaybold';
+    margin-bottom:20px;
+    color: #202242;
+    line-height: 9.3rem;

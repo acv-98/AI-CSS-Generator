@@ -1,0 +1,9 @@
+	width:70px;
+	height:90px;
+	float:left;
+	text-align:center;
+	padding-top:10px;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:48px;
+	margin-top:10px;

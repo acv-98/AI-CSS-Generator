@@ -1,0 +1,5 @@
+  height: 70px;
+  width: 25%;
+  display: inline;
+  float: left;
+height: 45px;width: 30%;height: 70px;width: 25%;

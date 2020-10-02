@@ -1,0 +1,6 @@
+	background:url(../images/box-clip.png) no-repeat left top;
+	position:absolute;
+	bottom:-30px;
+	width:13px;
+	height:52px;
+	right:-139px;

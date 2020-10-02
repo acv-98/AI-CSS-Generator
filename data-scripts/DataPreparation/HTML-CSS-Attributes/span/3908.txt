@@ -1,0 +1,3 @@
+	background:url('images/comments.gif') no-repeat 0 center;
+	padding-left:12px;
+	float:right;

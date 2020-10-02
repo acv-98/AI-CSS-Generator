@@ -1,0 +1,1 @@
+ float: left;  background: url(images/socials.png) no-repeat 0 0; width: 19px; height: 19px; margin-left: 10px; font-size: 0; float: left; line-height: 0; text-indent: -4000px;  opacity: 0.6; -moz-opacity: 0.6; filter:alpha(opacity=60);  background-position: right 0; 

@@ -1,0 +1,13 @@
+ font-size: 1.2rem; 
+.cd-hero-slider .selected .cd-full-width h2.tm-figure-title {
+	margin-bottom: 0;
+    font-weight: 400;
+    margin: 0;
+    padding: 2rem;
+    opacity: 0;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: translate3d(0,20px,0) scale(1.1);
+    transform: translate3d(0,20px,0) scale(1.1);
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);

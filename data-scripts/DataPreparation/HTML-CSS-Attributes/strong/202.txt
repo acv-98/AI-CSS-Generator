@@ -1,0 +1,1 @@
+	background:url(../images/number-3.png) 0 0 no-repeat;

@@ -1,0 +1,9 @@
+  margin-top: 18em;
+    margin-top: 7em;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 10px;
+  line-height: 1.5;
+  border-bottom: none !important;
+  font-size: 24px;
+  text-decoration: none;

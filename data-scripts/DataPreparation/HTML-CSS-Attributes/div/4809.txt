@@ -1,0 +1,7 @@
+	display:inline-block;
+	margin:40px 0;
+	width:640px;
+	float:left;
+	background:#fff;
+	padding:8px;
+	border:1px solid #CCCCCC;

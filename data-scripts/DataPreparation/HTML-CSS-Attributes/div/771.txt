@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	background:url(../images/footer_bg.jpg) repeat-x left bottom;
+	width:960px;
+	float:right;
+	margin-bottom:0;
+	border:1px solid #b4b4b4;
+	color:#7e7e7e;
+	font-size:11px;
+	line-height:16px;
+	text-align:left;
+	display:block;
+	text-decoration:none;

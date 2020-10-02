@@ -1,0 +1,7 @@
+	background: #fff;
+	height: 64px;
+	line-height: 64px;
+	overflow: hidden;
+	position: relative;
+	margin: 0px;
+	color: #000;

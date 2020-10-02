@@ -1,0 +1,1 @@
+width:5px; height:5px; background:url(../images/search-cor-right.gif) no-repeat right top; position:absolute; right:0px; top:0px;

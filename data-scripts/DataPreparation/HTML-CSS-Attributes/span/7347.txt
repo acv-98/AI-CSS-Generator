@@ -1,0 +1,4 @@
+  color: #c09853;
+  text-align: left;
+	background-color:#fff;
+	padding-right:10px;

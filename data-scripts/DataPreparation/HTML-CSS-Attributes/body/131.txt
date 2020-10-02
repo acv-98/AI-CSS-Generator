@@ -1,0 +1,9 @@
+min-height: 230px; max-height: 310px;		text-align: justify;
+    	text-justify: inter-word;
+    	font-size: 120%;
+    	margin-top: 40px;
+overflow: hidden;min-height: 220px;.footer_area {
+	width: 100%;
+	color: #5e7a96;
+	position: fixed;
+	bottom: 0px;

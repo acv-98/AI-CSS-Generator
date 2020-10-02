@@ -1,0 +1,6 @@
+ font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #585555; font-style: normal; font-weight: normal;     margin-left: 0px;
+    margin-bottom: 10px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	background-position: 0 25px;
+	margin-bottom: 0px;

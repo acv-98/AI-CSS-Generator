@@ -1,0 +1,15 @@
+    display: none;
+    margin-bottom: 50px;
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #333333;
+    line-height: 45px;
+    letter-spacing: 0.5px;
+    padding: 10px 0;
+    font-family: "Poppins", sans-serif;
+       font-size: 22px;
+       line-height: 32px;
+       font-weight: 600;

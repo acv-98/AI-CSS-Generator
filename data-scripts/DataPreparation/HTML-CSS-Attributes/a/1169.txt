@@ -1,0 +1,4 @@
+	width: 214px;
+	cursor: pointer;
+	background-image: url(../images/basics/links/link-three.png);
+		cursor: pointer;

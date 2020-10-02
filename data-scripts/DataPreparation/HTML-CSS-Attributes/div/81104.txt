@@ -1,0 +1,9 @@
+	background: #fcfcfc;
+	border: 1px solid #eee;
+	padding: 20px;
+-webkit-box-shadow: 0 2px 4px -2px #ddd;
+   -moz-box-shadow: 0 2px 4px -2px #ddd;
+        box-shadow: 0 2px 4px -2px #ddd;
+	margin-bottom:20px;
+	font-weight: 700;
+	letter-spacing: -1.5px;

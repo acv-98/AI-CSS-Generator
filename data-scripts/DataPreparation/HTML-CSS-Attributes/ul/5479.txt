@@ -1,0 +1,1 @@
+border-bottom-left-radius:0; border-top-left-radius:0border-bottom-right-radius:0; border-top-right-radius:0background-color:#333; border:1px solid #333; color:#fff; margin-right:2pxbackground-color:#12a3df; color:#fff; border-color:#12a3df

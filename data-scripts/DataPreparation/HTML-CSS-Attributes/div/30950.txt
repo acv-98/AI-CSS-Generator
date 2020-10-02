@@ -1,0 +1,10 @@
+	float:left;
+	padding:30px 0 0 0;
+	font-size:40px;
+	text-indent:-1px;
+	color:#5F5241;
+	text-decoration:none;
+	border:none;
+	background:url(images/logo.png) no-repeat left;
+	height:49px;
+	display:block;

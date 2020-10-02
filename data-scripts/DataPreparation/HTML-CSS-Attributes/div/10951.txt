@@ -1,0 +1,7 @@
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 0;
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  margin-left: 5px;

@@ -1,0 +1,12 @@
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=20);
+    overflow: hidden;
+    padding-top: 3px;
+    height: 43px;
+    display: block;
+    background: url(../images/magnify.png) center center no-repeat #009b97; 
+    transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+    width: 100%;
+    box-shadow: 0 0 0 #fff;
+    opacity: 0.2;

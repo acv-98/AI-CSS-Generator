@@ -1,0 +1,10 @@
+  border-bottom-color: #f32e59;
+    border-bottom-color: #ffae19;
+    margin-bottom: 4rem;
+    display: block;
+    position: relative;
+    font-size: 31px;
+    letter-spacing: 0;
+    padding:0;
+    font-weight: 300;
+    text-transform: uppercase;

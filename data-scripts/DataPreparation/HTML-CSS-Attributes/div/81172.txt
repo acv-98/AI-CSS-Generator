@@ -1,0 +1,8 @@
+left: 22%;left: 16%;	#tf-footer .pull-left,
+    #tf-footer .pull-right {
+	    float: none !important;
+	    text-align: center;
+left: 3%;display: none;	a.goto-btn {
+	    margin-right: auto;
+    position: relative;
+    width: 395px;

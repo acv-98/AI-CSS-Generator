@@ -1,0 +1,9 @@
+	height: 42px;
+	line-height: 42px;
+	background: url(../img/divider.png) repeat-x top left;
+ background: none; .skills li span{
+	display: block;
+	width: 100%;
+ background-position: right 12px;  background-position: right -18px;  background-position: right -48px;  background-position: right -78px;  background-position: right -108px;  background-position: right -138px; #commentform,
+#contactForm{
+	margin-bottom: 18px;

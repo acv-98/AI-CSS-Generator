@@ -1,0 +1,8 @@
+  background-color: #46bae2;
+  text-align: center;
+  padding: 80px 0px;
+  margin-top: 0px;
+  font-size: 44px;
+  font-weight: 300;
+  color: #fff;
+  letter-spacing: 1px;

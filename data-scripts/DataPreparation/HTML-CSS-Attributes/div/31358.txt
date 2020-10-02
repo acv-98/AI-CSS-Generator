@@ -1,0 +1,15 @@
+	outline: none;
+	padding: 8px 10px;
+	color: #202020;
+	background: none;
+	border: 1px solid #DBDBDB;
+	width: 78.33%;
+	line-height: 1.5em;
+	font-size:0.85em;
+	cursor: pointer;
+	position: absolute;
+	border-left: none;
+	border-right: 1px solid #DBDBDB;
+	border-top: 1px solid #DBDBDB;
+	border-bottom: 1px solid #DBDBDB;
+	top:0px;

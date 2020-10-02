@@ -1,0 +1,16 @@
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #eaeaea;
+    font-weight: 600;
+    color: #000000;
+    border-radius: 0;
+    border-color: #eaeaea;
+    height: 45px;
+    box-shadow: none;
+    min-width: 260px;
+    float: left;
+    margin-right: 20px;
+    font-size: 16px;
+    margin-top: 0;
+    display: block;
+        margin-top: 30px;

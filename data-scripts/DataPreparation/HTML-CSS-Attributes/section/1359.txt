@@ -1,0 +1,2 @@
+ padding-left: 0; padding-right: 0;  width: 314px; float: left;  content:''; width: 100%; clear: both;  padding-left: 20px;  float: left; width: 129px; height: 108px;   width: 183px; float: right; 
+ margin: 0 0 0 0; padding-left: 30px; padding-right: 22px;    width: 188px;  float: none; display: block; margin: 0 auto;   padding-left: 66px; text-align: center;  margin: 0 0 0 0;  width: 188px; float: none; display: block; padding-bottom: 22px; margin: 0 auto;  float: none; display: block; margin: 0 auto;  padding-left: 0px;  text-align: center; float: none; display: block;  

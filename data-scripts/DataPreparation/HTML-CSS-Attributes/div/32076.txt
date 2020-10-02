@@ -1,0 +1,19 @@
+  border-bottom: 0;
+  float: left;
+  margin-right: 19px;
+  border-right: 1px solid #ddd;
+  -webkit-border-radius: 4px 0 0 4px;
+     -moz-border-radius: 4px 0 0 4px;
+          border-radius: 4px 0 0 4px;
+  border-color: #eeeeee #dddddd #eeeeee #eeeeee;
+  *border-right-color: #ffffff;
+	margin-right:0;
+	border-right:1px solid #ddd;
+	
+  outline:0;
+  font-size:13px;
+font-weight:600;
+  background:#eee;
+    border-right:1px solid #f5f4f2;
+  padding:0 0 0 20px;
+  overflow:hidden;

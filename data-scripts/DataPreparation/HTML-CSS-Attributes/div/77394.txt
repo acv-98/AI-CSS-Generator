@@ -1,0 +1,1 @@
+	background:url(../images/slider_shadow.png) center 508px no-repeat

@@ -1,0 +1,11 @@
+  color: #78ADC9;
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  margin-right: 5px;
+  display: inline;
+  float: left;
+  width: 100%;
+  margin-top: 5px;
+margin-top: 20px;

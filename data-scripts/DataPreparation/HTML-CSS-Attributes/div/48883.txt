@@ -1,0 +1,4 @@
+	width:926px;
+	padding-top:30px;
+	padding-right:40px;
+	padding-left:40px;

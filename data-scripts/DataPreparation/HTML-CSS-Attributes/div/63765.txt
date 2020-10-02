@@ -1,0 +1,8 @@
+  display: table;
+  opacity: 0;
+  min-height: 700px;
+  vertical-align: middle;
+  font-size: 70px;
+  font-weight: 400;
+  color: #fff;
+    font-size: 40px;

@@ -1,0 +1,10 @@
+	margin:0;
+	padding:0;
+	background:url(images/content_bg.gif) repeat-x top;
+	width:970px;
+	float:left;
+	border:1px solid #d2d5d4;
+	background-color:#fff;
+	border-radius:12px;
+	-moz-border-radius:12px;
+	-webkit-border-radius:12px;

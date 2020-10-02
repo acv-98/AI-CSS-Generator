@@ -1,0 +1,8 @@
+    font-size: 35px;
+    transform: rotate(180deg);
+    background-color: #9fd7ef;
+    border-radius: 50%;
+    padding: 10px;
+    text-align: center;
+    width: 45px;
+    height: 45px;

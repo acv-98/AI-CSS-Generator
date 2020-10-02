@@ -1,0 +1,11 @@
+	border: 1px solid rgba(0, 0, 0, 0.75);
+	margin-top: 20px;
+	color: #2a2a2a;
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	border-radius: 0px;
+	padding: 1.5% 3%;
+	display: inline-block;
+	text-transform: uppercase;
+	background-color: #2a2a2a;

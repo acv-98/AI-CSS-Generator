@@ -1,0 +1,12 @@
+	padding: 0;
+	border-radius: 5px;
+	background: #232933;
+	width: 100%;
+	font-family: "raleway-regular", sans-serif;
+	color: #bababa;
+	margin-bottom: 1.8rem;
+	display: none;
+	margin-right: 5px;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		text-align: center;

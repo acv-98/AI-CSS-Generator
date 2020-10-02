@@ -1,0 +1,9 @@
+	background: #EDEDED;
+	margin: 2em 0;
+	color: #FFF;
+	padding: 0.5em 2em;
+	display: inline-block;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;

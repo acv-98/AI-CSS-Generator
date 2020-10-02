@@ -1,0 +1,2 @@
+display:block;display:table; content:"";clear:both;
+border:solid; border-width:0 0 0 1px;border-color:#252B34;

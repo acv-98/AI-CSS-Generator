@@ -1,0 +1,6 @@
+  font-size: 120px;
+  color: #aaaaaa;
+  margin-bottom: 40px;
+  display: block;
+  padding-bottom: 30px;
+    font-size: 60px;

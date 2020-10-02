@@ -1,0 +1,5 @@
+  display: table;
+  content: " ";
+  clear: both;
+  float: left;
+  margin-left: 5px;

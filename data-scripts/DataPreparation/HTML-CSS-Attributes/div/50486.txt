@@ -1,0 +1,3 @@
+	padding-bottom:10px;
+	border-bottom:1px dotted #907167;
+	margin-bottom:10px;

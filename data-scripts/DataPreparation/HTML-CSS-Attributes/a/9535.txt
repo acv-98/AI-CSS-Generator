@@ -1,0 +1,6 @@
+    	background-image: url(../img/social-icons/facebook@2x.png) !important; background-repeat: no-repeat !important; background-size: 48px 48px !important;
+	display: inline-block;
+	width: 48px;
+	height: 48px;
+	margin: 5px;
+ background-image: url(../img/social-icons/facebook.png);  background-image: url(../img/social-icons/twitter.png);  background-image: url(../img/social-icons/dribbble.png);  background-image: url(../img/social-icons/google-plus.png); 

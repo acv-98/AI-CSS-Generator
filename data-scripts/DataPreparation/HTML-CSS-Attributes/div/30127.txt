@@ -1,0 +1,10 @@
+		padding-bottom: 20px;
+		color: #666666;
+			color: #666666;
+			padding: 2px 0 2px 18px;
+			background: url(images/author.gif) no-repeat 0 0;
+			float: left;
+			margin-bottom: 0;
+				padding-left: 17px;
+				background: url(images/comments.gif) no-repeat 0 2px;
+			height: 30px;

@@ -1,0 +1,1 @@
+	background:url(../images/bg_bot.jpg) bottom center no-repeat;

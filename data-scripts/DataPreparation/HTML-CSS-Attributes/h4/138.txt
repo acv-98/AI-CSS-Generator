@@ -1,0 +1,8 @@
+  border-bottom: 2px solid #a5d549;  
+	color: #525252;
+	text-transform: uppercase;
+	font-size: 18px;
+	border-bottom: 1px solid #bbbbbb;
+	margin-top: 32px;
+	padding-bottom: 17px;	
+	  font-size: 15px;	  

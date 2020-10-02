@@ -1,0 +1,5 @@
+    border: 1px solid #ddd !important;
+  border-bottom-width: 2px;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;

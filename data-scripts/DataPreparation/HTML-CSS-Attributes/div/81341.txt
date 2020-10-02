@@ -1,0 +1,11 @@
+  position: absolute;
+  left: 0;
+  top:-42%;
+  color: #00c3ff;
+  font-size: 24px
+  right:0;
+    left: -5%;
+    top: inherit;
+    bottom: -40px;
+    right: 46%;
+    display: none;

@@ -1,0 +1,1 @@
+width:76px; height:19px; display:block; background:url(../images/btn_contacts.gif) 0 0 no-repeat; text-indent:-20000px;width:76px; height:19px; background:url(../images/btn_contacts_over.gif) 0 0 no-repeat;

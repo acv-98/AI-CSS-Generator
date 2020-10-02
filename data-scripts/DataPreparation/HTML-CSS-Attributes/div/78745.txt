@@ -1,0 +1,3 @@
+	padding: 70px 0px;
+	background: #f2f2f2;
+		text-align: center;

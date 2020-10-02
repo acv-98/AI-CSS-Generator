@@ -1,0 +1,16 @@
+    bottom: -15% !important;
+bottom : -20% !important;bottom: -45% !important; right: 38% !important;  position: absolute;
+  
+  right: 15px;
+  z-index: 5;
+  margin: 0;
+  list-style: none;
+  display: block;
+  float: left;
+  width: 10px;
+  height: 10px;
+  margin-left: 5px;
+  text-indent: -999px;
+  background-color: #ccc;
+  border-radius: 5px;
+right: 50%; bottom: -10%;

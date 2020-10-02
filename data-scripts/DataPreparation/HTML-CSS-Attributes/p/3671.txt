@@ -1,0 +1,1 @@
+text-align:right; padding-top:1.5em;

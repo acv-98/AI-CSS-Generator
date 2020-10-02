@@ -1,0 +1,9 @@
+ padding: 35px 30px; 
+.col-xs-12 {
+	padding-left: 10px;
+	padding-right: 10px;
+ padding: 30px 40px;  padding: 30px; 		
+	.grid-item {
+		padding-left: 10px;
+		padding-right: 10px;
+		width: 50%;

@@ -1,0 +1,14 @@
+    display: none;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 100px;
+    height: 100px;
+    z-index: 100;
+    background: rgba(81,141,138,.8) url(../img/pattern-2.png);
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+    line-height: 100px;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.1);
+ width: 90px; height: 90px;  font-size: 38px; line-height: 90px;  width: 90px; height: 90px;  font-size: 38px; line-height: 90px;  width: 90px; height: 90px;  font-size: 38px; line-height: 90px;  width: 90px; height: 90px;  font-size: 38px; line-height: 90px;  width: 90px; height: 90px;  font-size: 38px; line-height: 90px;  width: 90px; height: 90px;  font-size: 38px; line-height: 90px;  width: 90px; height: 90px;  font-size: 38px; line-height: 90px;  width: 70px; height: 70px;  font-size: 34px; line-height: 70px;  width: 90px; height: 90px;  font-size: 38px; line-height: 90px; 

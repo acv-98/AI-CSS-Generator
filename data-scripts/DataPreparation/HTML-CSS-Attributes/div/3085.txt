@@ -1,0 +1,6 @@
+	position: absolute;
+	width: 280px;
+	height: 12px;
+	bottom: 0px;
+	left: 0px;
+	background: url(images/footer_box_bottom.jpg) no-repeat;

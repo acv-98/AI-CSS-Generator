@@ -1,0 +1,1 @@
+display:block; padding:5px 3px 5px 28px; margin-bottom:5px; background:url(images/bullet-post.jpg) 2px 5px no-repeat; border-bottom: dashed 1px #ccc;color:#000; text-decoration:none;color:#000; text-decoration:none;color:#000; text-decoration:none;text-decoration:underline;

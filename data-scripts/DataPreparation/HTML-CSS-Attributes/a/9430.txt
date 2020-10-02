@@ -1,0 +1,15 @@
+	margin-bottom: 1.2;
+	background: #002f68;
+	color: #FFFFFF;
+	width: 100%;
+	margin-right: 0;
+	height: 5.7rem !important;
+	line-height: 5.7rem !important;
+	padding: 0 1.8rem !important;
+	border: 3px solid #313131;
+	display: block;
+		max-width: 320px;
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+		display: block;

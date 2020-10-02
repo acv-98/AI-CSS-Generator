@@ -1,0 +1,2 @@
+    background: url("../assets/images/form-background.png") left center no-repeat;
+    background-size: cover;

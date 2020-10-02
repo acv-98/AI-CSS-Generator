@@ -1,0 +1,6 @@
+  content: ".";
+  display: block;
+  clear: both;
+  height: 0;
+  visibility: hidden;
+ display: inline-block;  height: 1px;  display: block; 	outline: none; 

@@ -1,0 +1,10 @@
+	display:inline-block;
+	background:url(../images/button_top.jpg) 0 0 no-repeat;
+	font-size:16px;
+	text-transform:uppercase;
+	color:#fff;
+	text-decoration:none;
+	line-height:31px;
+	padding-right:40px;
+	text-align:center;
+	width:196px;

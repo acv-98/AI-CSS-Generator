@@ -1,0 +1,14 @@
+  display: inline-block;
+  position: relative;
+  content: '';
+  margin: auto;
+  height: 1px;
+  width: 0;
+  background: 0 0;
+  -webkit-transition: width .8s ease;
+  -moz-transition: width .8s ease;
+  -o-transition: width .8s ease;
+  -ms-transition: width .8s ease;
+  transition: width .8s ease;
+  background-color: red;
+  color: #03C;

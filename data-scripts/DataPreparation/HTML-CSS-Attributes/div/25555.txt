@@ -1,0 +1,3 @@
+  -webkit-animation-name: slideInDown;
+  animation-name: slideInDown;
+	padding-top:50px;

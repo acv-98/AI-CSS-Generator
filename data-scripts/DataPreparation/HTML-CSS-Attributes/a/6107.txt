@@ -1,0 +1,6 @@
+    color: #fff;
+    background-color: #00a5ff;
+    border-color: transparent;
+    transition: .3s ease-in-out;
+    -webkit-transition: .3s ease-in-out;
+    -moz-transition: .3s ease-in-out;

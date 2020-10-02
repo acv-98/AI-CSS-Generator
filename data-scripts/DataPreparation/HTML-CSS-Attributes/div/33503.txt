@@ -1,0 +1,17 @@
+height: auto !important; width: 100%; overflow: hidden; margin-bottom: 20px;
+  .navbar-nav .open .dropdown-menu {
+    position: static;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+height: 147px; width: 100%; overflow: hidden; margin-bottom: 20px;.grow img {
+ 
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+  

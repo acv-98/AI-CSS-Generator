@@ -1,0 +1,22 @@
+    margin-top: 40px;
+    padding: 0 0 10px 0;
+    border-bottom: 1px dotted #aaa;
+    font-size: 36px;
+    font-weight: 400;
+    color: #2d2d2d;
+    line-height: 30px;
+ width: 340px; margin-bottom: 15px;  margin-bottom: 0;  margin-left: 80px;  color: #518d8a; .features_2 .feature-icon {
+    float: left;
+    text-align: center;
+    display: inline-block;
+    width: 55px;
+    -o-transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -ms-transition: all .2s;
+    margin-left: 20px;
+ font-size: 24px; font-weight: 400; line-height: 28px; .about-us_2 {
+ width: 270px;  margin-left: 70px;  width: 38px; font-size: 35px;  width: 217px; margin-left: 15px;  width: 198px;  margin-left: 70px;  width: 30px; font-size: 27px;  width: 158px; margin-left: 10px;  margin-left: 50px; margin-right: 50px;  display: none;  width: 100%; margin-bottom: 0;  margin-left: 0;  width: 30px; font-size: 30px;  float: none; width: auto; margin-left: 50px; margin-right: 50px;  line-height: 36px;  width: 340px; margin-bottom: 15px;  margin-bottom: 0;  margin-left: 80px;  color: #518d8a;  font-size: 24px; font-weight: 400; line-height: 28px;  width: 270px;  margin-left: 70px;  width: 38px; font-size: 35px;  width: 217px; margin-left: 15px;  width: 198px;  margin-left: 70px;  width: 30px; font-size: 27px;  width: 158px; margin-left: 10px;  margin-left: 50px; margin-right: 50px;  display: none;  width: 100%; margin-bottom: 0;  margin-left: 0;  width: 30px; font-size: 30px;  float: none; width: auto; margin-left: 50px; margin-right: 50px;  line-height: 36px;     margin-bottom: 25px;
+    padding-left: 50px;
+    padding-right: 40px;
+ margin-top: 50px;  margin-left: 50px; margin-right: 50px;  padding-left: 50px; padding-right: 50px; 

@@ -1,0 +1,5 @@
+  border-color: #428bca;
+  color: #ffffff;
+  background-color: #428bca;
+  border-top-color: #428bca;
+  border-bottom-color: #428bca;

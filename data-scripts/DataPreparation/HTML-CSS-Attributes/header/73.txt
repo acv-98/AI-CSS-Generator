@@ -1,0 +1,16 @@
+    font-size: 50px;
+    color: #ffffff;
+    background-color: rgba(41, 41, 41, 0.68);
+    width: 80%;
+    margin: auto;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	min-height:700px;
+    overflow: hidden;
+    margin-top:300px;
+    text-transform:uppercase;
+	margin-bottom:30px;
+	font-family: 'santelia_scriptbold_dmo';
+    font-family: 'latoregular';

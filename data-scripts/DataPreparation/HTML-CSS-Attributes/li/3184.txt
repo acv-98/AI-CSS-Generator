@@ -1,0 +1,6 @@
+	display:block;
+	width:20px;
+	height:20px;
+	background:url(../images/slider-pagination.png) no-repeat 0 0;
+	color:#454545;
+	text-decoration:none;

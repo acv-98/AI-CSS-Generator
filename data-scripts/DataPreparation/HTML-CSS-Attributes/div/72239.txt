@@ -1,0 +1,5 @@
+float:left;
+margin:0px;
+padding:0px;
+border-right:1px solid #000;
+border-bottom:1px solid #000;

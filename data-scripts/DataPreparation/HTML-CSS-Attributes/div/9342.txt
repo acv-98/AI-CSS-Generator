@@ -1,0 +1,3 @@
+    font-size:18px;
+    font-family: 'gotham_bookregular';
+    letter-spacing: 2px;

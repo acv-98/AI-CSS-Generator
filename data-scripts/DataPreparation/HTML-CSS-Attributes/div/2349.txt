@@ -1,0 +1,5 @@
+    width: 33.3333%;
+    margin: 0;
+    float: left;
+    border-right: 5px solid #ffffff;
+    border-bottom: 5px solid #ffffff;

@@ -1,0 +1,9 @@
+ float: none; width: 92% !important;  float: none; width: 92% !important;  border-top-right-radius: 5px; border-bottom-right-radius: 5px; -webkit-border-top-right-radius: 5px; -webkit-border-bottom-right-radius: 5px; -moz-border-radius-topright: 5px; -moz-border-radius-bottomright: 5px; width: 374px;  width: 634px;  float: right; padding: 20px;     border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 5px;
+    width: 374px;
+    float: right;
+    padding: 20px;

@@ -1,0 +1,16 @@
+    margin-bottom: 29px;
+    float: right;
+    overflow: hidden;
+    color: #fff;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    line-height: 62px;
+    width: 60px;
+    border-radius: 500px;
+    height: 60px;
+    background-color: #ddd;
+    margin-left: 20px;
+        margin-left: 5px;
+        float: none;
+        margin-bottom: 10px;

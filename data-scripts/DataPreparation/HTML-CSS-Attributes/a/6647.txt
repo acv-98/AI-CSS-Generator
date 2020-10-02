@@ -1,0 +1,10 @@
+    border: 2px solid #00cfef;
+	background: #00cfef;
+	margin-top: 40px;
+    color: #e4e4e4;
+    padding: 13px 20px;
+	font-size: 14px;
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;

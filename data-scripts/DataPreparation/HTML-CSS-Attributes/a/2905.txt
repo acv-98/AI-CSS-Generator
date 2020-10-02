@@ -1,0 +1,6 @@
+  color: #555;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 0;

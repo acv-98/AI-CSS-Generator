@@ -1,0 +1,11 @@
+        min-height: 362px;
+        margin-bottom: 25px;
+        color: #fff;
+        font-size: 1.675rem;
+        max-width: 60%;
+        line-height: 20px;
+.main_summer_area2 .single_summer2 .single_summer_item2 .single_summer_item_img2{
+    min-width: 100%;
+    background: #ffffff;
+    padding: 50px 40px;
+.main_summer_area2 .single_summer2 .single_summer_item2_righ .single_summer_item_img2_right{

@@ -1,0 +1,20 @@
+					width: 100%;
+					left: 0% !important;
+					text-align: center;
+						left: 50%;
+							left: -50%;
+			margin-bottom: 0;
+					opacity: 1.0;
+					-moz-transition: all 1s ease;
+					-webkit-transition: all 1s ease;
+					-o-transition: all 1s ease;
+					-ms-transition: all 1s ease;
+					transition: all 1s ease;
+					
+					-moz-transform: translateZ(0);
+					-webkit-transform: translateZ(0);
+					-o-transform: translateZ(0);
+					-ms-transform: translateZ(0);
+					transform: translateZ(0);
+					position: relative;
+						margin-bottom: 2em;

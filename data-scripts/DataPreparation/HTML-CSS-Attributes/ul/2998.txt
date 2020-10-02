@@ -1,0 +1,15 @@
+	background:url(../images/bottom-border.gif) repeat-x center 8px;
+	padding:5px 0;
+	padding-top:0;
+	font-size:10px;
+	width:auto;
+	float:none;
+	color:#7e6a52;
+	text-decoration:none;
+	text-shadow:1px 1px 0 #FFFFFF;
+ *margin-top:-5px;
+	border-radius:0 0 0 0;
+	margin:0;
+	height:auto;
+	margin-left:0;
+	padding-bottom:0;

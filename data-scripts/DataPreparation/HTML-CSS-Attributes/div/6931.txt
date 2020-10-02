@@ -1,0 +1,8 @@
+	width:920px;
+	margin:0 auto;
+	padding-top:40px;
+	padding-bottom:40px;
+	overflow:visible;
+	font-weight:normal;
+	color:#fff;
+	font-size:22px;

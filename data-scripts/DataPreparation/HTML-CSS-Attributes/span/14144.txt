@@ -1,0 +1,5 @@
+	background: transparent url(../images/cross.png) no-repeat center left;
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	text-align: center;

@@ -1,0 +1,8 @@
+	background: none repeat scroll 0 0 #333;
+    color: #EEEEEE;
+    margin-top: 30px;
+    height: 20px;
+    padding: 20px;
+	float: left;
+	width: 400px;
+	clear: none;

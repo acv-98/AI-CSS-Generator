@@ -1,0 +1,10 @@
+	padding-bottom:15px;
+	text-align:center;
+	max-width:960px;
+	margin:0px auto;
+	padding-top:80px;
+	font-weight:700;
+	font-family:'Playball',cursive;
+	font-size:35px;
+	color:#333;
+	line-height:1.7;

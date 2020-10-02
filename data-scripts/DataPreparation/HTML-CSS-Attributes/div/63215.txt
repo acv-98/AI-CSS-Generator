@@ -1,0 +1,4 @@
+	background:#fff url(images/bg_boxes.png) repeat-x bottom;
+	border:1px solid #c8e9f3;
+	-moz-border-radius:12px;
+	-webkit-border-radius:12px;

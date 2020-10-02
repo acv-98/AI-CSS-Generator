@@ -1,0 +1,15 @@
+ text-align:center;
+ margin-left:0;
+	width:222px;
+	list-style:none;
+	display:inline-block;
+	margin: 8px 10px;
+ background:
+	margin-left:0;
+	background:url(../img/eye.png) 50% 50% no-repeat;
+	background-color: #f04949;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+	opacity:0.1;

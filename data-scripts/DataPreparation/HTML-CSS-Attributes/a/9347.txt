@@ -1,0 +1,9 @@
+  position: absolute;
+  top: 35%;
+  background: #FE980F;
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 5px 10px;
+	background:#ccccc6;
+	font-size: 12px;
+	padding: 5px 6px;

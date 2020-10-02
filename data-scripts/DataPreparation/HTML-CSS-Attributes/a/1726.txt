@@ -1,0 +1,9 @@
+	display: block;
+	height:26px;
+	width:70px;
+	background-color:#40b0ff;
+	padding:8px 15px; 
+	font-size:14px;
+	color:white; 
+	margin-bottom: 15px;
+	text-align: center;

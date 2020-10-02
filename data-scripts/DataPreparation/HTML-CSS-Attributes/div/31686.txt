@@ -1,0 +1,6 @@
+	padding-top: 5rem;
+	background-position: center 100px;
+	background-size: cover;
+ background-position: center 195px; 		background-position: center 300px;
+		background-size: contain; 
+ background-position: center 350px;  background-position: center 450px;  background-position: center bottom;  background-position: center 86%;  background-position: center 80%; 

@@ -1,0 +1,8 @@
+	margin:0 auto;
+	width:1000px;
+	font-size:.875em;
+	height:445px;
+	position:relative;
+	overflow:hidden;
+	background:url(../images/header-bg.jpg) left top no-repeat;
+	background-image:url(../images/1page-header-bg.jpg);

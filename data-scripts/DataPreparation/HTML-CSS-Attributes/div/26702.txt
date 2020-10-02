@@ -1,0 +1,8 @@
+	clear: both;
+	background: url(../images/PostFooterPage.jpg) bottom;
+	height: 40px;
+	width: 497px;
+	margin-bottom: 20px;
+	padding: 15px 50px 0;
+	font-style: italic;
+	background-image: url(../images/post_footer_comment.jpg);

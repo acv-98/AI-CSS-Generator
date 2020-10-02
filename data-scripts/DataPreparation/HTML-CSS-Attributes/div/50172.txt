@@ -1,0 +1,14 @@
+	height:300px;
+	width:980px;
+	position:relative;
+	overflow:hidden;
+	list-style:none;
+	float:left;
+	top:0;
+	left:0;
+	z-index:1;
+	padding:68px 0 0 414px;
+	color:#fff;
+	font-size:14px;
+	line-height:40px;
+	padding-bottom:13px;

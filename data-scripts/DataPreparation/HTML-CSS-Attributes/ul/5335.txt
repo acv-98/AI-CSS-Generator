@@ -1,0 +1,16 @@
+    transition: all 0.4s ease;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    float: left;
+    margin: 0;
+    padding: 0 20px 0 0;
+    color: #222;
+    font-family: 'futura_ltbook', sans-serif;
+    font-size: 20px;
+    vertical-align: text-top;
+        padding: 0 12px 0 0;
+        width: 60%;
+        margin-bottom: 10px;
+        text-align: center;

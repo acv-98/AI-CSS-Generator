@@ -1,0 +1,17 @@
+	background:#f8f8f8;
+	padding:84px 0 0;
+	margin:0 auto;
+	margin-bottom:62px;
+	text-align:center;
+	list-style-type:none;
+	display:inline-block;
+	color:#ffffff;
+	line-height:55px;
+	width:55px !important;
+	height:55px !important;
+	
+	-webkit-border-radius: 50%;
+    border-radius: 50%;
+	font-size:15px;
+	font-weight:300;
+	padding-bottom:0px;

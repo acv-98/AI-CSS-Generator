@@ -1,0 +1,6 @@
+display:none;ul.chevron .submenu > a:after, ul.chevron .sub-submenu > a:after,ul.chevron .aside-submenu > a:after, ul.chevron .aside-sub-submenu > a:after {
+  content:"\f004";
+  display:inline-block;
+  font-family:mfg;
+  font-size:0.7em;
+  margin:0 0.625em;

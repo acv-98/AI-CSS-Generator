@@ -1,0 +1,8 @@
+		 margin-left:0px;
+	margin-top:20%;
+	margin-left:20px;
+	font-family: 'open_sanslight';
+	font-size:1rem;
+	color:#fff;
+	display:block;
+	margin-bottom:10px;

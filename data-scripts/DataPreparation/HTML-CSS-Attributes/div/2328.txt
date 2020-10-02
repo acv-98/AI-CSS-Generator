@@ -1,0 +1,2 @@
+    padding: 0.4rem;
+    background-image: none;

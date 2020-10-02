@@ -1,0 +1,1 @@
+float:left; display:inline; width:100%background:none repeat scroll 0 0 white; border-bottom:1px solid #e3e3e3; border-top:1px solid #e3e3e3; font-size:16px; font-weight:bold; line-height:32px; margin:0 0 25px; padding:5px 25px; width:100%color:#ffd62c; display:inline-block; font-size:25px; margin-left:5px; margin-top:5px

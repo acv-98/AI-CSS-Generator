@@ -1,0 +1,8 @@
+    width:175px;
+    height:125px;
+    background: #032F3E;
+    display: inline-block;
+    text-align: center;
+    line-height: 150px;
+    color:#fff;
+    font-size:4rem;

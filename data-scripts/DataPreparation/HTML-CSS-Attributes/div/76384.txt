@@ -1,0 +1,10 @@
+	float:right;
+	width:245px;
+	margin:0;
+	padding:0;
+	list-style:none;
+	font:bold 12px Arial, Helvetica, sans-serif;
+	color:#0ab3b9;
+	border-bottom:1px dashed #818181;
+	background:url(images/ul_li.gif) left no-repeat;
+	text-decoration:none;

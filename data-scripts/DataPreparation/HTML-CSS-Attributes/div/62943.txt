@@ -1,0 +1,9 @@
+	font-weight:600;
+	color:#f0f0f0;
+	font-size:50px;
+	line-height:60px;
+	width:330px;
+	letter-spacing:-2px;
+	display:block;
+	padding-left:80px;
+	margin-top:-12px;

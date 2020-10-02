@@ -1,0 +1,5 @@
+	display: inline-block;
+	margin-left: 20px;
+	color: #888;
+	border-bottom: 1px solid #b8dea2;
+	padding-bottom: 8px;

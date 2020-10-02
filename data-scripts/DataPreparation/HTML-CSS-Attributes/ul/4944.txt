@@ -1,0 +1,10 @@
+  margin-left: -20px;
+  list-style: none;
+  *zoom: 1;
+  display: table;
+  content: "";
+  line-height: 0;
+  clear: both;
+  float: left;
+  margin-bottom: 21px;
+margin-left:-20px;list-style:none;*zoom:1;clear:both;margin-left:0;float:left;margin-bottom:20px;margin-left:20px;

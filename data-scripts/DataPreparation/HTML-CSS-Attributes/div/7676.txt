@@ -1,0 +1,14 @@
+	padding: 100px 0 100px 0;
+	overflow: hidden;
+	font-size: 34px;
+	font-weight: 400;
+	color: #262626;
+	line-height: 1.2;
+	letter-spacing: -1px;
+	margin: 0 0 20px 0;
+	font-family: Open Sans;
+		padding: 100px 0 100px 0;
+		overflow: hidden;
+		font-size: 54px;
+		text-align: left;
+		margin: 0 0 20px 0;

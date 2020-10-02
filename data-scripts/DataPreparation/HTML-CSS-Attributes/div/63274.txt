@@ -1,0 +1,12 @@
+    background-color: #f8f8f8;
+    color: #727272;
+    padding: 20px 0;
+    -webkit-transition: all 0.7s ease 0s;
+       -moz-transition: all 0.7s ease 0s;
+        -ms-transition: all 0.7s ease 0s;
+         -o-transition: all 0.7s ease 0s;
+            transition: all 0.7s ease 0s;
+    display: inline-block;
+    font-size: 32px;
+    line-height: 32px;
+    margin-bottom: 25px;

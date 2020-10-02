@@ -1,0 +1,8 @@
+	float:left;
+	position:relative;
+	margin:160px 0 0 -234px;
+	width:90px;
+	height:17px;
+	background:url(images/date_back.png) no-repeat;
+	color:#FFFFFF;
+	padding:6px;

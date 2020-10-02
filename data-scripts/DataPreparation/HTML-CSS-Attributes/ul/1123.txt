@@ -1,0 +1,2 @@
+ margin-left: 15px;  border: 0;  margin-top: 16px;  background: #fff;  padding-top: 13px; padding-bottom: 13px; 	
+    	background-image: url(../img/logo@2x.png) !important; background-repeat: no-repeat !important; background-size: 117px 47px !important;

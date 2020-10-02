@@ -1,0 +1,6 @@
+	width:380px;
+	float:left;
+	font-size:40px;
+	color:#fff;
+	font-weight:bold;
+	padding-top:100px;

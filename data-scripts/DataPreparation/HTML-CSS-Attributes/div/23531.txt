@@ -1,0 +1,2 @@
+margin: 250px 0 50px 0;
+margin: 60px 0 10px 0; width: 100%;

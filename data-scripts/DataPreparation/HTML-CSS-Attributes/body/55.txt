@@ -1,0 +1,11 @@
+  padding: 80px 0;
+  text-align: center;
+  height: 428px;
+  display: inline-block;
+  font-size: 26px;
+  width: 172px;
+  line-height: 57px;
+  color: inherit;
+    margin-top: 30px;
+    margin-bottom: 70px;
+    margin-right: 30px !important;

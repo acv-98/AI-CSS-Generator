@@ -1,0 +1,15 @@
+  overflow: hidden;
+  padding-left: 0;
+  margin-bottom: 15px
+  background:#F0F0E9;
+  color: #363432;
+  float: left;
+  font-size: 10px;
+  font-weight: 700;
+  margin-right: 10px;
+  position: relative;
+  text-transform: uppercase;
+  top: 7px;
+  border-width: 6px;
+  left: 27px;
+	margin-bottom: 10px;

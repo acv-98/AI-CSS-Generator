@@ -1,0 +1,8 @@
+	display: inline-block;
+	*display: inline;
+	zoom:1;
+	margin: 0 0 0 10px;
+	width: 312px;
+	height: 3px;
+	background: url('../images/bgdline.png') repeat-x ;
+	margin-bottom: 10px;

@@ -1,0 +1,12 @@
+  clear: left;
+  padding-bottom: .4em;
+  margin: 4px 10px;
+  border: 1px solid #b7a99a;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+ margin-left: 0;  margin-right: 0;  margin: 0 auto; text-align: center; .attachment-entry{
+  text-align: center;
+ margin: 0; .wp-caption {
+  background:#F7F7F7;
+  font-size: 80%;
+  color: #928a85;

@@ -1,0 +1,8 @@
+  display: none;
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+content: '+';
+position: absolute;
+right: 24px;

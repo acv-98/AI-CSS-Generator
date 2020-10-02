@@ -1,0 +1,5 @@
+  color: #3498db;
+  font-family: "Tangerine", cursive;
+  font-size: 100px;
+  font-weight: 400;
+  line-height: 40px;

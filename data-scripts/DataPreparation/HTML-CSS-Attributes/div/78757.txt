@@ -1,0 +1,9 @@
+		font-size: 28px;
+	color: #fff;
+	display: table-cell;
+	vertical-align: middle;
+	position: relative;
+	z-index: 1;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 20px 0px;

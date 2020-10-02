@@ -1,0 +1,10 @@
+	margin-right: 3.8%;
+	float: left;
+	min-height: 1px;
+	width: 4.85%;
+ width: auto;
+ float: none;
+ margin-left: 0px;
+ margin-right: 0px;
+ padding-left: 20px;
+ padding-right: 20px;

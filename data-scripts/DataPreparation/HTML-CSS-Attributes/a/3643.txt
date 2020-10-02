@@ -1,0 +1,7 @@
+	position:absolute;
+	display:block;
+	width:20px;
+	height:23px;
+	background:url(../images/header-search-submit.gif) no-repeat 0 0;
+	right:6px;
+	top:4px;

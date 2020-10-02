@@ -1,0 +1,5 @@
+	font-size:32px;
+	line-height:32px;
+	display:block;
+	margin:15px 0;
+	text-transform:uppercase;

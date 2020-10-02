@@ -1,0 +1,4 @@
+  font-size: .84em;
+  color: #aaaaaa;
+  margin: 20px 0;
+  display: block;

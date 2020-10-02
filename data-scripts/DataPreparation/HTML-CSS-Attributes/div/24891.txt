@@ -1,0 +1,10 @@
+  margin-bottom: 30px;
+  border: none;
+  text-align: center;
+  float: left;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  font-size: 20px;
+  color: #000;
+  text-decoration: none;

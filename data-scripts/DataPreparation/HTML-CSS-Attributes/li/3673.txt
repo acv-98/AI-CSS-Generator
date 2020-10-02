@@ -1,0 +1,3 @@
+ background-image: url(images/linkedin.gif); 	#sidebar .l {
+		float: left;
+		width: 155px;

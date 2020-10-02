@@ -1,0 +1,11 @@
+	font-weight:bold;
+ background-position: -21px 0px; .nivo-directionNav a{
+	display: block;
+	width: 35px;
+	height: 38px;
+	text-indent: -9000px;
+	background: url(../img/nivo-arrows.png) no-repeat;
+ color: #cccccc; #sidebar .cat-list h2{
+	font-size: 14px;
+	font-family: Tahoma, arial;
+	margin-bottom: 20px;

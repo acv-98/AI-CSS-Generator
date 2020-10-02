@@ -1,0 +1,11 @@
+    background: #60608A;
+    color: white;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    padding-top: 9px;
+    display: inline-block;
+    margin-right: 5px;
+ margin-right: 0; .tm-social-icon-link:hover,
+	color: #60608A;
+ margin-bottom: 50px;  margin-right: 15px; 

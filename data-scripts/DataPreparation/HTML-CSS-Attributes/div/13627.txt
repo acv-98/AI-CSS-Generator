@@ -1,0 +1,4 @@
+ position:relative; z-index:10; width:100%;         max-width: 100%;
+        padding: 0;
+ margin:-22px -20px 0;  background: none  background: none  margin-top:30px;  margin:20px auto 0px;  background: none     #header .slider.flexslider .slider-shadow,
+    #header .slider.flexslider-elegant .slider-shadow,

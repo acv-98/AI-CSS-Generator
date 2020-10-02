@@ -1,0 +1,8 @@
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+  margin-top: 90px;
+  font-family: "Lato-Regular";
+  font-size: 18px;
+  color: #999999;
+    margin-top: 20px;

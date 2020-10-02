@@ -1,0 +1,10 @@
+	background: url(../images/racket-icon.png) no-repeat #E74C3C 17px 21px;
+	border: 1px solid #E74C3C;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	font-size: 1.2em;
+	padding: 1em 2em 1em 3.2em;
+	margin: 0 auto;
+	display: inherit;

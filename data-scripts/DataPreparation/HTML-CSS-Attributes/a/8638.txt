@@ -1,0 +1,1 @@
+ color:#fff;  background:url(images/hover.gif) no-repeat top; background:url('images/tabs_1.gif') no-repeat center center; 

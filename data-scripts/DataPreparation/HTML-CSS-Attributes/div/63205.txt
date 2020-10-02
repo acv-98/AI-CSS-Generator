@@ -1,0 +1,4 @@
+	padding-left:186px;
+	width:310px;
+	text-align:center;
+	float:left

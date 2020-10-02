@@ -1,0 +1,4 @@
+	height:120px;
+	background:url(../images/motion-graphics.jpg) no-repeat center center;
+	float:left;
+	width:100px;

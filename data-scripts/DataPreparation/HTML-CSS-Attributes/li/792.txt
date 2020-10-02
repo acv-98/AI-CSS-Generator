@@ -1,0 +1,9 @@
+  color: #b3b3b3;
+  text-decoration: none;
+  background-color: transparent;
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  cursor: not-allowed;
+    color: #cccccc;
+    background-color: transparent;
+  border-color: #dddddd;

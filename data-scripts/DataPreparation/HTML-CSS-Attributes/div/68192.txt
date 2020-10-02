@@ -1,0 +1,9 @@
+	border-top:1px solid #333333;
+	padding:40px 0;
+	display:block;
+	font-size:14px;
+	color:#cccccc;
+	text-align:center;
+	transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;

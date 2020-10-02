@@ -1,0 +1,2 @@
+	background-image: url(../images/banner_icon2.png);
+	background-position: right 39px;

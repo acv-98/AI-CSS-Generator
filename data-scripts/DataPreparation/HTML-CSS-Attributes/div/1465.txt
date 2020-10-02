@@ -1,0 +1,6 @@
+text-align: center;
+font-family: 'Open sans';
+font-size: 14px;
+color: #777777;
+    color: #f65aa7;
+    padding-top: 20px;

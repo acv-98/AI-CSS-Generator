@@ -1,0 +1,15 @@
+	width:960px;
+	height:60px;
+	background:url(../images/white-bg.png);
+	margin:0 auto;
+	list-style:none;
+	padding-left:10px;
+	padding-right:10px;
+	display:block;
+	float:left;
+	text-align:center;
+	line-height:60px;
+	text-decoration:none;
+	color:#545454;
+	font-size:18px;
+	text-transform:uppercase;

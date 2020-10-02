@@ -1,0 +1,6 @@
+    box-shadow: none !important;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    border-bottom: 1px solid #eeeeee;
+    border-radius: 0;
+    color: #000 !important;
+    text-align: left;

@@ -1,0 +1,8 @@
+	margin-bottom: 35px;
+	margin-top: 26px;
+	position: relative;
+	font-size: 26px;
+	color: #263238;
+	padding-bottom: 30px;
+	line-height: 32px;
+	font-family: 'Raleway', sans-serif;

@@ -1,0 +1,4 @@
+margin:0px 0px 11px 0px; padding:0width:auto; margin:0px; padding:7px 0 0 0; text-align:center; width:auto; display:inline; padding:10px 20px 10px 20px; margin:0px; background:url(../images/menu_border.gif) no-repeat 0 3px;background:nonecolor:#646464; text-decoration:none;	font-weight:bold;color:#000color:#000
+.picHeading1
+{ 
+float:left;

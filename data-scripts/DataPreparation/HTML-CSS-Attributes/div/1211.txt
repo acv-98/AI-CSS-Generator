@@ -1,0 +1,7 @@
+    color: #303030;
+    float: right;
+    width: 335px;
+        width: 300px;
+        background: rgba(255, 255, 255, 0.6) none repeat scroll 0 0;
+        height: 290px;
+        padding: 16px;

@@ -1,0 +1,9 @@
+  padding: 20px 0px!important;
+  background-color: #ededed!important	;
+  margin: 0px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 9px;
+  text-transform: uppercase;
+  color: #aaa;
+  float: right;
+    font-size:9px;

@@ -1,0 +1,8 @@
+		clear: left; 
+		width: 436px;
+		margin-right: 0px;
+ margin-right: 0px; footer #to-top{
+	display: none;
+	height: 68px;
+	background: url(../img/to-top.png) no-repeat;
+	cursor: pointer;

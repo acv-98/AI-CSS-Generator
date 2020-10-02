@@ -1,0 +1,10 @@
+	width:162px;
+	line-height:13px;
+	height:13px;
+	float:left;
+	background:none;
+	border:0;
+	padding:5px;
+	margin:0;
+	font:normal 11px Arial, Helvetica, sans-serif;
+	color:#bab9b9;

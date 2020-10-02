@@ -1,0 +1,10 @@
+    font-size: 18px;
+    color: #061e37;
+    font-family: Roboto-Light;
+    font-weight: bold;
+    border: 1px solid #CFD8DC;
+    height: 42px;
+    border-radius: 30px;
+    padding: 6px 22px;
+ color: #b0bec5; font-family: Roboto-Light;  color: #b0bec5; font-family: Roboto-Light;  color: #b0bec5; font-family: Roboto-Light;  color: #b0bec5; font-family: Roboto-Light;  color: #b0bec5; font-family: Roboto-Light; .footer--bg{
+    background-color: #021E2F;

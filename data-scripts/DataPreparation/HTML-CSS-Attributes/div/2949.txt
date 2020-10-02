@@ -1,0 +1,4 @@
+display: block;
+max-width: 683px;
+margin-right: auto;
+margin-left: auto;

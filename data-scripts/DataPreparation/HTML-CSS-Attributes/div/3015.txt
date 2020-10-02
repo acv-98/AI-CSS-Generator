@@ -1,0 +1,4 @@
+	padding-top: 61px;
+	margin-top: 17px;
+	padding-bottom: 8px;	
+	border-width: 2px;

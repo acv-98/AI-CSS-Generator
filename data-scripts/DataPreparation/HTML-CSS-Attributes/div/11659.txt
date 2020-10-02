@@ -1,0 +1,1 @@
+margin:0 auto; padding:0; background:#0067b0; border:0;

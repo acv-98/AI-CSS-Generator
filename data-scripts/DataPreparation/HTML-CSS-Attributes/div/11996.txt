@@ -1,0 +1,8 @@
+	width:60px;
+	float:left;
+	display:block;
+	line-height:38px;
+	font-family: 'FontAwesome';
+	font-size:38px;
+	color:#777777;
+	font-style:normal;

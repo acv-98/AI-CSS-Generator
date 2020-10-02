@@ -1,0 +1,8 @@
+	   color:#fff;
+	   padding:20px 0;
+	   font-weight:400;
+	   display:block;
+	   overflow:hidden;
+	   margin-bottom:0;
+	   font-family: 'Oswald', sans-serif;
+	   font-size:56px;

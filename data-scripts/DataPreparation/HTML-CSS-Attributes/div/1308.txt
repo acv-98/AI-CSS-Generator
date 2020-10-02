@@ -1,0 +1,2 @@
+ overflow:hidden;
+ height:390px; background:url(images/header-bg.png) no-repeat left bottom; height:278px; background:url(images/header-bg1.png) no-repeat left bottom; width:100%; padding:0; margin:0; padding:13px 0 0 13px;

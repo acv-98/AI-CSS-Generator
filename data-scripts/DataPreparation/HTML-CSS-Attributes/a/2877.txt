@@ -1,0 +1,10 @@
+	display: block;
+	width:45px;
+	height:45px;
+	margin: 0 10px 0 0;
+	float: left;
+	background-position:left bottom;
+	background-repeat:no-repeat;
+	text-indent:-9999px
+	margin-right:22px;
+	

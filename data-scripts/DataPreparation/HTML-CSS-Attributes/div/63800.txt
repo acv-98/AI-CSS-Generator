@@ -1,0 +1,5 @@
+  float: right !important;
+  border-right: none !important;
+  border-left: 5px solid #ecf1f5;
+    border-left: none;
+    border-right: none;

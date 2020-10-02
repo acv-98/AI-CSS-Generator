@@ -1,0 +1,5 @@
+	background-color:transparent !important;
+	border:none;
+   border:none;
+   border-bottom:1px solid #D7DBE0;
+   background-color:transparent;

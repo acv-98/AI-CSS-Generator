@@ -1,0 +1,2 @@
+  margin-left: -10px
+  border-color: #424242 transparent transparent;

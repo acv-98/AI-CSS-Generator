@@ -1,0 +1,5 @@
+	color: #fff;
+	padding: 20px 20px 20px 80px;
+	margin: 10px;
+	border-radius: 2px;
+	background: #00bcf2 url('images/note.png') no-repeat 15px ;

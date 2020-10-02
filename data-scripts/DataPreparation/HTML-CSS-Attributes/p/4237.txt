@@ -1,0 +1,2 @@
+ float: right; display: inline; 
+ float: right; font-size: 15px; color: #696969; font-weight: bold; line-height: 30px; margin-right: 28px;  color: #333; 

@@ -1,0 +1,6 @@
+    background-color: #fff;
+    padding-bottom: 64px;
+    padding-top: 70px;
+    position: relative;
+    top: 6px;
+    margin-bottom: 10px;

@@ -1,0 +1,1 @@
+	background:url(../images/icons.gif) no-repeat 0 -30px;

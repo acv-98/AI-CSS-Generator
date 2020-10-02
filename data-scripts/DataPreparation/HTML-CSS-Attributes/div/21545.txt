@@ -1,0 +1,6 @@
+	margin-bottom: 40px;
+	background-color: transparent;
+	border: 1px solid #4e595f;
+	height: 38px;
+    padding: 10px;
+    height: 120px;

@@ -1,0 +1,10 @@
+ border-color: #cccccc;  height: auto; min-height: 150px; margin-bottom: 30px;     text-align: center;
+ margin-right: 3%;     padding-top: 15px;
+    padding-left: 24px;
+ position:relative; display:none; background: none repeat scroll 0 0 #000;height:100%;left:0px;overflow: hidden; position: absolute; top:0px; width:100%; opacity: .7; text-align: center; display: block; float: left; height: 100%; width: 50%; line-height: 9999px; overflow: hidden;  position: absolute; bottom: 20%; color: white; text-align: center; display: block; width: 100%; font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif; font-size: 16px; line-height: 15px;     position: absolute;
+    bottom: 40%;
+    color: white;
+    display: block;
+    width: 100%;
+    line-height: 15px;
+    text-indent: 0;

@@ -1,0 +1,3 @@
+	background:url(../images/right-bot-corner.png) no-repeat right bottom;
+	height:15px;
+	padding-right:15px;

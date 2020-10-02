@@ -1,0 +1,10 @@
+	text-align: center;
+	padding: 20px 10px 10px 10px;
+	margin: 20px auto 10px auto;
+	float: left;
+	font-size: 44px;
+	display: inline-block;
+	-webkit-border-radius: 50em;
+	   -moz-border-radius: 50em;
+			border-radius: 50em;
+	background: #fff;

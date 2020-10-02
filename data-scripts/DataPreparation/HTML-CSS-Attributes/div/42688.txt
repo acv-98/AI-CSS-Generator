@@ -1,0 +1,13 @@
+  border: 0px solid #d7d4cd;
+  border-radius: 0px;
+  background-color: #e8e5df;
+  color: #fff;
+  width: 38px;
+  text-align: center;
+  margin-right: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Lato';
+  margin-top: 2px;
+  display: inline-block;
+  text-transform: uppercase;

@@ -1,0 +1,6 @@
+display: block; margin-bottom: 5px; color: #888 
+margin-bottom: 15pxfooter{
+border-top:1px solid #eee;
+background: #f5f5f5;
+padding: 30px 0;
+margin-top:40px;

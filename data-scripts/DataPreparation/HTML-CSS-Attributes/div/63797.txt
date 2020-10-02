@@ -1,0 +1,13 @@
+  display: table;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.1);
+  position: relative;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  vertical-align: middle;
+  text-align: center;
+  color: white;
+  margin-bottom: 10px;
+  font-size: 24px;

@@ -1,0 +1,3 @@
+     font-size: 18px;
+     color: #111111;
+     font-weight: 700;

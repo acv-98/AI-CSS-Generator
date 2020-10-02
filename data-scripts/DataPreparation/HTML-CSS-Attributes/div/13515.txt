@@ -1,0 +1,50 @@
+ font-size: 17px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #000000; font-style: normal; font-weight: 400;  color: #333333;  font-size: 22px; font-family: 'Open Sans', sans-serif; color: #a5a4a4; font-style: normal; font-weight: 400;  font-size: 48px; font-family: 'Arbutus Slab', sans-serif; color: #a5a4a4; font-style: normal; font-weight: 400;  font-size: 15px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  color: #6c6d03;  border-color: #dfdcdc;  margin-top: 23px 
+ font-size: 11px  padding-left:0;  margin-top: 20px;  max-width: 97%;  margin-top: 0  padding-bottom: 9px     clear: left;
+ margin-top: 20px; float: left; margin-bottom: 30px     border-left: 5px solid #d18f1d !important;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-bottom: 1px solid #CFCFCF;
+    color: #525050;
+    line-height: 18px;
+    margin-top: 2px;
+ font-size: 15px; .section.blog .meta p {
+    float: left;
+    font-size: 11px;
+ content: '\0000a0-\0000a0';  content: ''; .section.blog .post.sticky {
+    border-radius: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    max-width: 100%;
+    position: relative;
+    margin-right: 20px;
+    min-width: 220px;
+    background-color: #000;
+    padding-top: 15px;
+    padding-bottom: 13px;
+    right: 5px;
+    bottom: 5px;
+    text-align: right;
+    width: 46%;
+ margin-right: 7px;  margin-right: 0px;  line-height: 26px; margin-bottom: 0px; margin-top: 0px;  font-size: 14px;  margin-right: 8px; display:inline;  color: #fc9a00;  width: 100%;  margin-top: 0px; 	font-family: 'Maven Pro','Verdana','Arial',sans-serif !important;
+.span9 .section .services-row .span2:nth-child(4n+1) {
+ color: #fc9a00  margin-bottom: 20px; .section.blog .description {
+ width: 270px; .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 470px; .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 570px;  width: 210px; #ie8 .sidebar-no .section.blog .sticky .the-content.span3,
+ width: 220px; #ie8 .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 380px; #ie8 .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 460px; .section.blog .sticky .the-content h4,
+.section.blog .sticky .the-content h4 a {
+    font-weight: 600;
+ color: #6C6D03; .section.blog .post {
+ position: relative; .section.blog .post .date {
+ display: block; .section.blog .post .date .month {
+    font-family: 'Open Sans', Verdana, Arial, sans-serif;
+    letter-spacing: 1px;
+ color: #676768;  color: #797b04; .section.blog .post .meta p,
+.section.blog .post .meta p a {
+ color: #676768;  font-weight: 800;  content: ""; @media (min-width: 1200px) {
+ width: 260px;  width: 210px;     .sidebar-no .section.blog .sticky .the-content.span3,
+ width: 220px;     .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 380px;     .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 460px;  font-size: 42px !important;  width: 156px;  width: 166px;  width: 290px;  width: 352px;  font-size: 15px !important;  font-size: 28px !important;  width: 100%;  margin-bottom: 17px; 

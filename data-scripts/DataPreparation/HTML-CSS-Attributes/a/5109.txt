@@ -1,0 +1,16 @@
+		float: none;
+		margin: 0 auto;
+		z-index: 55;
+	background-color: #000000;
+	color: #a3a3a3;
+	display: block;
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: normal;
+	height: 49px;
+	line-height: 49px;
+	padding: 0;
+	text-align: center;
+	text-transform: uppercase;
+	position: relative;
+	width: 180px;

@@ -1,0 +1,4 @@
+   width:100%;
+   overflow: hidden;
+   display: block;
+   margin-bottom:30px;

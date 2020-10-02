@@ -1,0 +1,8 @@
+	border:1px solid #d4d5d5;
+	border-bottom:none;
+	background:url(../images/box1_bot.gif) bottom repeat-x
+	margin-left:-1px;
+	padding-left:1px
+	padding-bottom:15px;
+	margin-right:-1px;
+	padding-right:1px

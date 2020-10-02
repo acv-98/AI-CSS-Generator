@@ -1,0 +1,14 @@
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 25px;
+  padding-right: 25px;
+  content: " ";
+  display: table;
+  clear: both;
+    width: 770px;
+    margin-right: 0;
+    margin-left: 0;
+  border-radius: 6px;
+  max-width: 100%;
+    padding-left: 60px;
+    padding-right: 60px;

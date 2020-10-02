@@ -1,0 +1,2 @@
+ background:url(../images/mid-bdr.jpg) repeat-y 49.8% #243960; float: left; margin: 30px 0; width: 100%;	padding:2%; box-sizing:border-box;font-size: 28px; text-transform: uppercase; color: #f1f1f1; padding-bottom:15px; font-family: "open_sansregular";color: #a3a3a3;
+	background:#243960;

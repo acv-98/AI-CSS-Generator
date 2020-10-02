@@ -1,0 +1,14 @@
+				background: url(../img/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;
+				display: block;
+				height: 33px;
+				width: 50px;
+ display: none; 			
+			.pp_gallery .pp_arrow_previous,
+			.pp_gallery .pp_arrow_next {
+				margin-top: 7px !important;
+	border-bottom:1px solid transparent;
+	opacity: 0.8;
+	position: fixed;
+	top:0;
+	left: 0;
+		opacity: 1;

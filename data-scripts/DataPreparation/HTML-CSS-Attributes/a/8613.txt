@@ -1,0 +1,11 @@
+	font-family:verdana, tahoma, arial;
+	font-size:14px;
+	color:#fff;
+	text-align:center;
+	line-height:41px;
+	display:block;
+	font-weight:bold;
+	width:115px;
+	height:41px;
+	text-decoration:none;
+	background:url(../images/nav_bg_nor.jpg) 0 0 no-repeat;

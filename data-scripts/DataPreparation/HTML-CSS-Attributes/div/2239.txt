@@ -1,0 +1,4 @@
+	padding:120px 0px;
+	display:inline-block;
+	background:url(../images/ft.png) right center no-repeat;
+	overflow:hidden;

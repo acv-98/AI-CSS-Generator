@@ -1,0 +1,2 @@
+	height: 1.87em;
+	background: url(images/img09.jpg) no-repeat right top;

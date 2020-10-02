@@ -1,0 +1,2 @@
+ margin-top: 20px;  max-width: 97%; 
+ margin-top: 0  padding-bottom: 9px 

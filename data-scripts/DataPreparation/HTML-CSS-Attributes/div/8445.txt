@@ -1,0 +1,8 @@
+  display: inline;
+  float: left;
+  padding: 25px 0 15px;
+  width: 100%;
+  color: #222;
+  font-size: 18px;
+  text-transform: uppercase;
+  margin-bottom: 0;

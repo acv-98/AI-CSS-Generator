@@ -1,0 +1,4 @@
+	color: #d0a772;
+	background-color: transparent;
+	background-image: none;
+	border-color: #cfa671;

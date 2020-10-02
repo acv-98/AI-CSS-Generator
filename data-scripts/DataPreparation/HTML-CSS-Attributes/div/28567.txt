@@ -1,0 +1,24 @@
+  background: none;
+  position: relative;
+ background: transparent url(../images/options/box-title-left-blue.png) no-repeat top left;  background: transparent url(../images/options/box-title-bg-blue.png) no-repeat top right;  background: transparent url(../images/options/box-title-left-gray.png) no-repeat top left;  background: transparent url(../images/options/box-title-bg-gray.png) no-repeat top right;  background: transparent url(../images/options/box-title-left-green.png) no-repeat top left;  background: transparent url(../images/options/box-title-bg-green.png) no-repeat top right;   padding: 8px 12px;
+  margin: 2em 0 1em;
+  padding-left: 10px;
+  color: #fff;
+  text-decoration: none;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans, FreeSans, Jamrul, Garuda, Kalimati;
+  font-weight: normal;
+  letter-spacing: -0.04em;
+  display: block;
+  font-size: 130%;
+  text-transform: uppercase;
+ background: #fff          .box .the-content{
+  min-height:92px;
+  height:auto !important;
+  min-width: 64px;
+  width: auto;
+  border: 0;
+ margin: 0 1em;  display: none;  width: 100%; .widget_calendar .box table td, .widget_calendar .box table th{
+  text-align: center;
+  font-style: italic;
+  padding-right: .4em;
+ background: #fff url(images/box-left-bg.png) repeat-y top left;  background: transparent url(images/box-right-bg.png) repeat-y top right;  background: transparent url(images/box-bl.png) no-repeat bottom left;  background: transparent url(images/box-tl.png) no-repeat top left;  background: transparent url(images/box-br.png) no-repeat bottom right;  background: transparent url(images/box-tr.png) no-repeat top right; 

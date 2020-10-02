@@ -1,0 +1,4 @@
+	padding-left:42px;
+	background:url(../images/quot.gif) 0 4px no-repeat;
+	overflow:hidden
+	display:block

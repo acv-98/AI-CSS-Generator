@@ -1,0 +1,4 @@
+	background-color: #bcbaba;
+	color: #e7e7e7;
+	font-size: 18px;
+	line-height: 30px;

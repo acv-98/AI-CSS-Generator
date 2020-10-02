@@ -1,0 +1,7 @@
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	color: #3F3F67;
+	font-size: 1.8rem;
+	font-weight: 300;
+	background-color: white;
+	padding: 0.9rem;

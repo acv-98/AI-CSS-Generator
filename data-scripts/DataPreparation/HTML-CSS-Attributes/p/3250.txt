@@ -1,0 +1,10 @@
+ border-color: #cfcfcf; 	border-bottom: 1px solid #CFCFCF;
+	margin-bottom: 10px;
+	padding-bottom: 16px;
+	color: #3E3E3E;
+	cursor: pointer;
+	display: block;
+	font-family: 'Rokkitt', Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 22px;
+	text-decoration: none;

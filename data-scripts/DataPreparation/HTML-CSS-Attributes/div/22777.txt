@@ -1,0 +1,6 @@
+	float:left;
+	width:152px;
+	height:214px;
+	position:relative;
+	display:inline;
+	z-index:2;

@@ -1,0 +1,6 @@
+	width:505px;
+	height:18px;
+	background:none;
+	padding:5px;
+	color:#4c4c4c;
+	font:14px Tahoma, Geneva, sans-serif

@@ -1,0 +1,13 @@
+    width: 100%;
+    height: auto;
+    padding: 15px 15px 12px;
+    font-size: 18px;
+    margin-bottom: 18px;
+    color: #7f7f7f;
+    letter-spacing: 0.5px;
+    background: #fafafa;
+    border: 1px solid rgba(119, 81, 81, 0.34);
+	margin-bottom: 15px;
+    border-radius: 0;
+    padding-left: 30px;
+    box-shadow: none;

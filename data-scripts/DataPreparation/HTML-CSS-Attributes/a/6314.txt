@@ -1,0 +1,7 @@
+	display:inline-block;
+	float:left;
+	height:32px;
+	line-height:32px;
+	background:url(images/btn-left.png) no-repeat 0 0;
+	padding-left:9px;
+	padding-right:9px;

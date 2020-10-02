@@ -1,0 +1,9 @@
+  display: inline;
+  float: left;
+  padding: 100px 0;
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding-bottom: 15px;

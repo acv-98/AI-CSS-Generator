@@ -1,0 +1,6 @@
+ font-size: 1.4em; 
+.user-icons i {
+	color: #ccc;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+ background-color:#527ebf;  background-color: #2B538D; 

@@ -1,0 +1,1 @@
+display: none !important;float: none !important;display: none !important;float: none !important;float: right;margin-right: 0;border-right: 1px solid #e7d2b0;color: #584f41; background: #c2a270; box-shadow: none;text-transform: uppercase; color: #584f41; font-size: 12px; line-height: 30px; text-shadow: none; padding: 23px 15px;color: #fff; background: #c2a270;

@@ -1,0 +1,4 @@
+    padding-right: 0px;
+    padding-left: 0px;
+    min-height:284px !important;    
+        min-height: 235px !important;

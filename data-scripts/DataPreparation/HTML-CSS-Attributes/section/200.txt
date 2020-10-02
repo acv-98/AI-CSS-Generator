@@ -1,0 +1,12 @@
+    background:rgba(8, 134, 74, 0.80);
+  
+    padding-top: 10px;
+    padding-bottom: 60px;
+-webkit-background-size: cover;
+ color:#fff;
+ background-attachment:fixed;
+min-height: 300px;
+        color:#fff;
+        padding-top:60px;
+        padding-bottom:30px;
+    line-height:35px;

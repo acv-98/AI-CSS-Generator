@@ -1,0 +1,9 @@
+	float:left;
+	width:176px;
+	margin-right:20px;
+	font-size:11px;
+	list-style-type:disc;
+	color:#858585;
+	list-style-position:inside;
+	line-height:22px;
+	padding-bottom:2px;

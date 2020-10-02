@@ -1,0 +1,6 @@
+    overflow: hidden;
+    padding-top: 19px;
+    color: #2a2929;
+    font-size: 46px;
+    line-height: 48px;
+    margin-bottom: 9px;

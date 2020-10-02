@@ -1,0 +1,1 @@
+float:left; width:257px; text-align:right; color:#926d1b; font-weight:bold; padding:0 17px 0 0color:#926d1b; text-decoration:nonecolor:#926d1b; text-decoration:underline

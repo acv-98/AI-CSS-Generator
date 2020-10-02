@@ -1,0 +1,4 @@
+	width: 1000px;
+	margin: 0 auto;
+	z-index: 1;
+width:1000px; margin:0 auto; position:relative;background:url("../img/bottom-texture.png") no-repeat; width:960px; padding:10px 20px;

@@ -1,0 +1,9 @@
+        margin: 10px 25px;
+        margin-left: 5px;
+        margin-top:30px;
+        font-size:2rem;
+    display: inline-block;
+    line-height: 2rem;
+.main_events_area .single_events span.separator3{
+    font-family: 'montserratbold';
+    color:#8e8e8e;

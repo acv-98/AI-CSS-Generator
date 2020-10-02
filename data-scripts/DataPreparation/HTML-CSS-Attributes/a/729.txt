@@ -1,0 +1,2 @@
+    float:left;
+    color:#ab987a;

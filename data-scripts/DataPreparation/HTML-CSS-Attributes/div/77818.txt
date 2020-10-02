@@ -1,0 +1,3 @@
+	padding-left:33px;
+	padding-bottom:13px;
+	padding-top:25px;

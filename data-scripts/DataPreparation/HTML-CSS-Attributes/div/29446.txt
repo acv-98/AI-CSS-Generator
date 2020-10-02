@@ -1,0 +1,21 @@
+	position:relative;
+	overflow: hidden;
+	margin: 0 auto;
+	border-bottom: 1px solid #dadada;
+	background: url(../images/sl_shadow.png) bottom center no-repeat #fff;
+	height: 583px;
+	margin-bottom: 63px;
+	
+	z-index:2;
+	left: 50%;
+	margin-left: -616.5px;
+	width: 1233px;
+	top: -1px;
+	bottom: 0;
+	padding-left: 42px;
+	padding-right: 56px;
+	font: normal 30px/36px Arial, Helvetica, sans-serif;
+	color: #fff;	
+	padding-top: 193px;
+	font-style: normal;
+	font-size: 24px;

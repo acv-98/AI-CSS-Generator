@@ -1,0 +1,2 @@
+	background:url(../images/twitter-icn.png) no-repeat;
+	background-position:right top;

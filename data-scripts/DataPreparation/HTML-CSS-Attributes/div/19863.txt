@@ -1,0 +1,6 @@
+	background:url(../images/blog-grids-bg.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	position:relative;
+	margin: 3em 0 0 0;
+	padding: 3em 0;
+	text-align: center;

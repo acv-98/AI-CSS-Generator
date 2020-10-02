@@ -1,0 +1,6 @@
+	background:#E8E8E8;
+	border-bottom:3px solid #E8E8E8;
+	border-left:none;
+	border-right:none;
+	border-top:none;
+	color:#3D3E41;

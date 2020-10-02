@@ -1,0 +1,4 @@
+	float:right;
+	width:50%;
+	height:131px;
+	background:url('images/bg-right.gif') repeat-x 0 0;

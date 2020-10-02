@@ -1,0 +1,11 @@
+    border: 0;
+    border-radius: 5px;
+    box-shadow: none;
+    color: rgba(20,20,20,0.5);
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 15px;
+    padding-left: 8px;
+    background: transparent;
+    height: 50px;
+    border-color: #ffffff;

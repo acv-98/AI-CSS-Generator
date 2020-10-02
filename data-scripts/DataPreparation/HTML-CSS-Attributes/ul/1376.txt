@@ -1,0 +1,10 @@
+	color: #1baab9;
+	overflow:hidden;
+	display:inline-block;
+	text-align:left;
+	font-weight:600;
+	text-decoration:none;
+	float:left;
+	font-size:11px;
+	margin-top:10px;
+	margin-left:20px;

@@ -1,0 +1,17 @@
+	border:1px solid #E4E4E4;
+   -webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	padding:5px 10px;
+	position: relative;
+	cursor: pointer;
+	width: 100%;
+	outline: none;
+	background: none;
+	font-size: 0.85em;
+	color:#999;
+	-webkit-apperance: none;
+	font-family: 'Lato', sans-serif;
+		float: none;
+		width: 100%;

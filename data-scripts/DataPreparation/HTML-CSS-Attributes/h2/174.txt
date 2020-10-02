@@ -1,0 +1,6 @@
+ align-self: left; 
+.btn {
+    border-radius: 0;
+    text-transform: uppercase;
+    padding: 12px 47px;
+    font-size: 1.15rem;

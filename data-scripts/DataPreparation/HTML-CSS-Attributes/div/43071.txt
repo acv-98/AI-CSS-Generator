@@ -1,0 +1,11 @@
+	float:left;
+	text-align:right;
+	position:relative;
+	margin-top:0;
+	margin-bottom:7px;
+	letter-spacing:2px;
+	font-size:20px;
+	display:block;
+	color:#BBB;
+	line-height:1.7em;
+		text-align:right;

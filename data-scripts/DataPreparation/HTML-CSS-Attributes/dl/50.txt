@@ -1,0 +1,7 @@
+	color:#48484e;
+	margin:18px 0 6px 0;
+	width:62px;
+	text-align:right;
+	display:block;
+	float:left;
+	margin-right:15px;

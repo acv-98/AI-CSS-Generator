@@ -1,0 +1,7 @@
+	padding:6% 0;
+	text-align:center;
+	font-style:italic;
+	font-size:1em;
+	color:#888;
+	line-height:1.8em;
+	margin-top:5%;

@@ -1,0 +1,5 @@
+  color: #ffa400;
+  font-size: 36px !important;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-right: 10px;

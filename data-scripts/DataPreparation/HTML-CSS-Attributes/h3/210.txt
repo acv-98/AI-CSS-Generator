@@ -1,0 +1,8 @@
+    font-family: 'Qwigley', Helvetica, Sans-serif;	   
+    font-size: 2.2em;
+	font-weight: 600;
+    color: #4f4d47;
+	margin-top: 16px;
+	margin-bottom: 0;
+	text-align: center;
+	line-height: 1.7em;

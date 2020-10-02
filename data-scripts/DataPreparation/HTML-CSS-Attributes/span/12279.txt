@@ -1,0 +1,10 @@
+	color: #FF0000;
+	display: none;
+	font-size: 10px;
+	line-height:12px;
+	width:auto;
+	position: absolute;
+	z-index: 999;
+	right: 5px;
+	bottom: -12px;
+	float:left;

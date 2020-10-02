@@ -1,0 +1,3 @@
+ border-color: #CAD0D1;  border-color: #eeeeee;  border-bottom-color: #cad0d1;  color: #a96605;  color: #8d5504;  color: #8d5504;     background: none repeat scroll 0 0 #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+    color: inherit;

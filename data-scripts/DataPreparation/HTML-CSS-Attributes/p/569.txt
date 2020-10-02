@@ -1,0 +1,7 @@
+	line-height:1.8em;
+	text-decoration:underline;
+	display:block;
+	float:left;
+	width:74px;
+	font-weight:bold;
+	color:#dbdbdb;

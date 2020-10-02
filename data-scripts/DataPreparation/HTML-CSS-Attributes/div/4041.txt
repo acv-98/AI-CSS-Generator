@@ -1,0 +1,6 @@
+  margin-bottom: 60px;
+  padding-left: 0;
+  display: inline-block;
+  margin-right: 10px;
+  color: #000;
+  text-transform: uppercase;

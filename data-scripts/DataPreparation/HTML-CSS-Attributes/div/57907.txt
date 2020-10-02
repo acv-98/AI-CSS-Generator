@@ -1,0 +1,6 @@
+width:107px;
+float:left;
+font-size:15px;
+font-weight:bold;
+color:#D5482C;
+text-decoration:none;

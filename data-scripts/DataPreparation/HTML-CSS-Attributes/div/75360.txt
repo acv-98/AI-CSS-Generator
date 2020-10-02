@@ -1,0 +1,11 @@
+width:176px;
+margin:23px 0px 12px 0px;
+border:2px solid #80868d;
+ width:201px;
+	float:left;
+	margin:86px 0px 0px 0px;
+	padding:0px 0px 30px 0px;
+	background-color:#333;
+	background-image: url(../images/content_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;

@@ -1,0 +1,14 @@
+    padding:12px 0 0 0;
+    overflow:hidden;
+    font-family:Tahoma, Geneva, sans-serif;
+    font-size:22px;
+    color:#333;
+    margin:0;
+    list-style:none;
+    float:left;
+    width:300px;
+    background:#fff4c0;
+    border:#f2e18f 1px solid;
+    height:31px;
+    font-weight:bold;
+    display:block;

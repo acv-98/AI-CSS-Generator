@@ -1,0 +1,11 @@
+	border-top:3px solid #626b71;
+	font-size:9px;
+	font-family:Verdana, serif;
+	width:925px;
+	padding:7px 28px 12px 27px;
+	color:#b5babe;
+	background-color:#6b757c;
+	text-decoration:none;
+	margin:0;
+	line-height:normal;
+	float:left;

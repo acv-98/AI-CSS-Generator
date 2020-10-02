@@ -1,0 +1,5 @@
+	color:#00BFF0;
+	font-size:1.2em;
+	text-transform:uppercase;
+	text-align: center;
+	margin: 0 0 20px;

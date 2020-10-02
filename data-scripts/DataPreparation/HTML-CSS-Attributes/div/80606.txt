@@ -1,0 +1,19 @@
+background-color:#2280a8;
+ * jQuery FlexSlider v2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * Contributing author: Tyler Smith (@mbmufffin)
+.flex-container a:active,
+.flexslider a:active,
+left:10px;		background:url(../images/footer-logo.png) left top no-repeat;
+		width:52px;
+		margin-right:5px;
+		height:72px;
+		float:left;
+		position:relative;
+		z-index:1;
+z-index:100;background-position:left bottom;position:absolute;	.footer .foot-nav {
+		padding-top:13px;
+z-index:100;background-position:left bottom;position:absolute;	.footer.style-2 .background {

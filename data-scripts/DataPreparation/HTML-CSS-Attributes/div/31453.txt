@@ -1,0 +1,18 @@
+		font-size: 28px;
+		padding: 40px 0;
+    background: url(images/bg.png) repeat top center #f2f3f5;
+    max-width: 280px;
+    display: block;
+    margin: 10px auto;
+    position: relative;
+    overflow: hidden;
+    padding: 70px 0;
+    background-color: #ffffff;
+	background-color: #2d3032;
+    margin-bottom: 60px;
+    color: #999;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    text-transform: none;
+    border-color: rgba(255, 255, 255, 0.1);

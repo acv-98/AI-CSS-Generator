@@ -1,0 +1,24 @@
+  color: #b94a48;
+  border-color: #b94a48;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  background-color: #f2dede;
+ border:1px solid #cf0606;  background-image: none !important;  border: none !important; .content .contact-form li textarea,
+    border: 1px solid #e1e1e1;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    -webkit-box-shadow: none;
+    height: 200px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+	resize: none;
+    max-width: 100%;
+	width: 100%;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	
+ border-radius:8px; -moz-border-radius:8px; -webkit-border-radius:8px;  padding:10px 15px 10px 55px; border:1px solid; margin:0 auto 30px; background:no-repeat 15px center; width:400px;  background-color:#fedccd; border-color:#fa8c83; color:#c82c1f;  font-size: 18px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  color: #919303;  color: #6c6d03;  font-size: 13px; font-family: 'Open Sans', sans-serif; color: #883333; font-style: normal; font-weight: 400;  background: #FBE3E4; color: #8a1f11; border-color: #FBC2C4;  color: #8a1f11;  width:60%;     background: url("../images/icons/message/error.png") no-repeat scroll 15px center #FDD2D1;
+    color: #883333;

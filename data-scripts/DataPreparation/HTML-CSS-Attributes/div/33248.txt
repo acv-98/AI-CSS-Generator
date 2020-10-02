@@ -1,0 +1,4 @@
+ padding: 30px 0; border-bottom:1px solid #d7dee0; text-align: center; width: 100%; border-radius: 10px !important;display: inline-block;background: #fff; padding: 0 20px; color: #6f7678; font-size: 34px; font-family: 'open_sansextrabold'; text-transform: uppercase;color: #2bbbdf; font-size: 14px; font-family: 'open_sansregular';  .hiding .carousel-control {top: -30px !important; font-size: 20px !important;
+                            width: 30px !important; height: 30px !important; background: #2bbbdf !important;
+margin-top: 55px !important;right: 40% !important;left: 40% !important;font-size: 28px !important; line-height: 32px !important; padding: 0 10px !important;font-size: 12px !important;  
+display: block !important;font-size: 17px !important; line-height: 22px !important;font-size: 10px !important; line-height: 16px !important;right: 35% !important;left: 35% !important;display: none;

@@ -1,0 +1,9 @@
+  display: table;
+  opacity: 0;
+  min-height: 700px;
+  z-index: 9;
+  color: #fff !important;
+  vertical-align: middle;
+  font-size: 60px;
+  font-weight: 400;
+    font-size: 40px;

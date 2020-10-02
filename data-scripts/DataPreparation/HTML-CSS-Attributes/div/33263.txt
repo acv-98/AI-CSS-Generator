@@ -1,0 +1,11 @@
+margin: 0 -20px !important; padding: 20px !important; margin-bottom: 30px !important;text-align: center !important;display: none!important;display: block !important; margin-top: 20px !important;background: #3f4b51; overflow: hidden; margin-bottom: 60px; padding: 20px 0;.i{
+color: #fff;
+font-size: 21px;
+cursor: pointer;
+width: 20px !important;
+height: 20px !important;
+border-radius: 15%;
+position: relative;
+z-index: 1;
+margin-right: 15px !important;
+float: left;

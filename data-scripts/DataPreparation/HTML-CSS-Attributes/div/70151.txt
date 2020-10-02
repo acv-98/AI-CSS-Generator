@@ -1,0 +1,6 @@
+float: none;
+margin-right: 0;
+padding: 7px;
+width: 300px;
+display: block;
+float:left;margin-right:10px;padding:7px;background:#fff;border:1px solid #ddd;display:block;font-weight:bold;margin-top:10px;color:#35A1FBblockquote{padding: 20px;

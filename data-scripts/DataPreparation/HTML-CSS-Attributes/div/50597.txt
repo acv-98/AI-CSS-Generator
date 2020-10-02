@@ -1,0 +1,13 @@
+	padding:2px 0 0 2px;
+	font-family:Arial, Helvetica, Sans-Serif;
+	font-size:13px;
+	float:left;
+	display:inline;
+	border:1px solid #d7d7d7;
+	color:#565656;
+	width:203px;
+	height:24px;
+	line-height:18px;
+	background:url(images/submit.gif) repeat-x;
+	cursor:pointer;
+	margin-left:5px;

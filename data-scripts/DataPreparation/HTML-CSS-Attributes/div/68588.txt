@@ -1,0 +1,2 @@
+	width: 220px;
+	margin: 0 20px 40px 0;	

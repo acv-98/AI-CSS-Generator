@@ -1,0 +1,5 @@
+  color: #FFD34E;
+  text-transform: uppercase;
+	background-color: transparent;
+  padding: 10px 20px;
+    text-align: center;

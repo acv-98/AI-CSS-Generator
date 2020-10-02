@@ -1,0 +1,1 @@
+display:block; margin-bottom:10px; border:1px solid #dcdcdc; padding:4px;border-color:#d1d1d1;

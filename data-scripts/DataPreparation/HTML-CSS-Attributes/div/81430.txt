@@ -1,0 +1,4 @@
+  font: 33px/36px 'Dosis', sans-serif;
+  display: block;
+  font-size: 24px;
+  padding-top: 3px;

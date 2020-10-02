@@ -1,0 +1,5 @@
+	height:43px;
+	background:url(../images/bg-menu.gif) repeat-x;
+	color:#2a495e;
+	font-weight:bold;
+	text-shadow:1px 1px 0 #a8d32c;

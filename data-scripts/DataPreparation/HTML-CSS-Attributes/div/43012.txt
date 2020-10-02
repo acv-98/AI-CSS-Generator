@@ -1,0 +1,1 @@
+float:left; display:inline; width:100%color:#888; display:inline-block; font-size:11px; font-weight:normal; margin-right:5pxmargin-right:5pxcolor:#888; font-size:11px; font-weight:normalmargin-right:5pxcolor:#09ccolor:#09c

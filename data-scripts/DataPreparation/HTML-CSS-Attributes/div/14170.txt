@@ -1,0 +1,7 @@
+  margin-top: 16px;
+  background-color: #ec9e9e;
+  text-align: center;
+  margin-bottom: 85px;
+  padding: 38px 12px 52px;
+  left: 50%;
+  margin-left: -67px;

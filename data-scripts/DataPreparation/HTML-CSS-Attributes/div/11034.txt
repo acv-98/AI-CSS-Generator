@@ -1,0 +1,7 @@
+	width: 90px;
+	height: 90px;
+	text-align: center;
+	line-height: 90px;
+	font-size: 50px;
+	color: #ffffff;
+	mix-blend-mode: difference;

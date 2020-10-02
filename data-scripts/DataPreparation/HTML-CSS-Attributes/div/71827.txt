@@ -1,0 +1,4 @@
+text-align:center;-webkit-tap-highlight-color:transparent
+    @media (min-width: 1440px) and (max-width: 1745px) {
+        .wrapper header.header .white {
+            bottom: -110px;

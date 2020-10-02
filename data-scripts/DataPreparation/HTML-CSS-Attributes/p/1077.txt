@@ -1,0 +1,1 @@
+background: url(../images/first_tile.gif) repeat-x;width:286px;height:1px;margin:9px 0 0 29px;display:inline;

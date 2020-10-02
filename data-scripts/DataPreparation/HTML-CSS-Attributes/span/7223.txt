@@ -1,0 +1,13 @@
+    width: 40px;
+    display: block;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    text-align: center;
+    border-radius: 4px;
+    height: 40px;
+    line-height: 39px;
+    margin: 17px 0 0;
+    position: absolute;
+    right: 5px;
+    border-color: #fff;
+    color: #ffffff !important;
+    background-color: #fff;

@@ -1,0 +1,10 @@
+    background: transparent;
+	color: #fff;
+    outline: medium none;
+	border-radius: 0;
+	height: 44px;
+    display: inline-block;
+    text-align: left;
+    text-transform: none;
+    width: 274px;
+	margin-right: 10px;

@@ -1,0 +1,3 @@
+	color: #fff;
+	background-color: #b47bc4;
+	background-image: url('../img/knobs-icons/Knob Smart.png');

@@ -1,0 +1,2 @@
+ left: 15px; height: auto; background-position: -50px 132px;   width: 90%; height: auto; 
+ left: 25px;   width: 100%; height: auto;  left: 20px;  background: none; background-size: 100%;  width: 94%; height: auto;  position: absolute; top: 40px; left: 2px; height: 260px; background: url(../img/about-shadow.png) bottom center no-repeat; background-position: 0px 223px;  padding: 5px; border: solid 1px #ececec; background: #fff;  

@@ -1,0 +1,13 @@
+cursor:pointer;position:fixed;z-index:10000;-ms-touch-action:none;touch-action:none;-webkit-box-shadow:0 0 3.125em rgba(0,0,0,.75);box-shadow:0 0 3.125em rgba(0,0,0,.75)
+Template Design By MarkUps  
+Author URI : http://www.markups.io/
+.mu-primary-btn:hover,
+.mu-filter-link:hover,
+.mu-filter-imglink:hover,
+.mu-simplefilter li:hover,
+.mu-simplefilter li.active,
+.mu-copy-right a:hover,
+	color: #37c6f5;
+	background-color: transparent;
+	transform: scale(1);
+    border-color: #fff;

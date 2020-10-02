@@ -1,0 +1,4 @@
+  position: relative;
+  padding: 20px;
+width:auto !important;
+height:auto !important;

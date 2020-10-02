@@ -1,0 +1,14 @@
+   font-family: 'FontAwesome';
+   content: "\f093";
+	padding-right: 18px;
+	padding-top: 6px;
+	font-size: 72px;
+   line-height: 72px;
+   text-align: center;
+   float: right;
+   color: #EBEEEE;  
+      font-size: 66px;
+      line-height: 66px;
+ content: none;    #screenshots-wrapper {
+      width: 80%;
+      margin: 0 auto;

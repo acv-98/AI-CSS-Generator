@@ -1,0 +1,4 @@
+	background: #3b579d;
+	display: block;
+	color: #ffffff !important;
+	padding: 5px 15px;

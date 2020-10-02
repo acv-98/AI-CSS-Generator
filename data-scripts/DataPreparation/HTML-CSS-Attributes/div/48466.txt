@@ -1,0 +1,4 @@
+    min-height:152px;
+    max-width:160px;
+    display:block;
+    overflow:hidden;

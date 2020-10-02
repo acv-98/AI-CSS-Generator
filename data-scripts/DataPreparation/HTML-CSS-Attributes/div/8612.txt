@@ -1,0 +1,5 @@
+ border-top:7px solid #75bd29; .bottom-title {
+	padding: 0 0 0 5px;
+	border-left: 2px solid #75bd29;
+	margin: 25px 0px;
+ margin-bottom: 0; 	

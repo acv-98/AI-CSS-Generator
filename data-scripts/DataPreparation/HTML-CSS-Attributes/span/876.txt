@@ -1,0 +1,3 @@
+	font:bold 30px Trajan Pro, Arial, Helvetica, sans-serif;
+	color:#000;
+	text-transform:uppercase;

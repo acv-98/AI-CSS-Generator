@@ -1,0 +1,12 @@
+float:left; width:971px; background:url(../images/bottom_curve.gif) no-repeat 0 bottomfloaT:left; width:386px.detail_content .box_1 h2{
+	float:left;
+	width:341px;
+	font:26px/28px "ZapfHumnst BT", Arial, Helvetica, sans-serif;
+	color:#ffdac4;
+	padding:34px 0 18px 44px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+float:left; width:341px; color:#e3d3bf; padding:0 0 11px 44pxfloaT:left; width:160pxfloat:left; width:auto; padding:3px 0 0 0;floaT:left; width:425px.detail_content .box_3 h2{
+float:left; width:425px; list-style:none; padding:0 0 35px 0float:left; width:365px; color:#d2d2d2; background:url(../images/bullet.gif) no-repeat 36px 3px; padding:0 0 10px 60px

@@ -1,0 +1,2 @@
+	background: url(../img/icons/social2/yelp.png) no-repeat 0 0;
+	background-color: #c41200;

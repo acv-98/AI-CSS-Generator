@@ -1,0 +1,5 @@
+	margin-bottom: 10px;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 1.6em;
+	color: #111;

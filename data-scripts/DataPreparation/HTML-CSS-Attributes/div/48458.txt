@@ -1,0 +1,15 @@
+    margin: 30px 0;
+    text-align: center;
+	 text-align: center;	
+    background:#fff;
+   margin-top:-10px;
+    border-radius:0;
+    color:#333;
+    font-size:12px;
+    font-weight:500;
+    padding:15px 15px;
+    box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -webkit-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -moz-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -ms-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -o-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);

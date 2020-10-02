@@ -1,0 +1,7 @@
+	display:block;
+	padding:3px;
+	border:solid 1px #ac9f87;
+	background:#f5efe3;
+	width:98%;
+	margin-bottom:8px;
+	margin-right:35px;

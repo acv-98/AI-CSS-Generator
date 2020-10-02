@@ -1,0 +1,1 @@
+list-style: none; border: 0px solid black; width: 960px; margin: 10px auto 0; clear: both

@@ -1,0 +1,1 @@
+ float:right; display:inline-block; color:#979797; text-transform:uppercase  width:45px; font-size:36px; font-family:Arial; font-weight:bold; border-right:1px solid #cacaca; text-align:right; padding-right:10px  position: absolute; left: 0; top: 0; font-size: 48px; 

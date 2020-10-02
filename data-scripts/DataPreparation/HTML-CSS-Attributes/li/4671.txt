@@ -1,0 +1,7 @@
+    display: none;
+  position: absolute;
+  top: 0px;
+  right: -13px;
+  width: 10px;
+  height: 18px;
+  background: url(../img/social-right-corner.png) no-repeat left top;

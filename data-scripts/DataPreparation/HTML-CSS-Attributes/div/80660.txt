@@ -1,0 +1,7 @@
+		background:url(../images/design/pricing-table.png) right top no-repeat transparent;
+		width:100px;
+		height:92px;
+		position:absolute;
+		z-index:1000;
+		right:-3px;
+		top:-3px;

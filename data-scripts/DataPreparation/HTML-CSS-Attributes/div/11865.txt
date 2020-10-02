@@ -1,0 +1,1 @@
+ height:500px; width:100%;  border-top:6px solid rgba(236, 225, 217, 0.4); border-bottom:6px solid rgba(236, 225, 217, 0.4); 

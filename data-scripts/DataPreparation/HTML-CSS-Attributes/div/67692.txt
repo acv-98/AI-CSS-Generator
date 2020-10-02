@@ -1,0 +1,1 @@
+ background:url(images/main-banner-small.jpg) no-repeat left top; width:950px; height:163px; margin-bottom:20px; padding:47px 0 0 52px; font-size:30px; width:350px;

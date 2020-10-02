@@ -1,0 +1,9 @@
+        font-size: 0.65rem;
+        margin-bottom: 0px;
+        max-width: 100%; 
+        line-height: 1rem;
+        margin-top: 0px;
+    overflow:hidden;
+    width:30%;
+    float:left;
+    margin-left:5%;

@@ -1,0 +1,12 @@
+        width:195px;
+        font-size: 95%;
+        margin-bottom:10px;
+    border:0px;
+    border-bottom: 0px solid transparent;
+    border-color:transparent;
+    text-align: center;
+    color: #444444;
+    height: 180px;
+    margin-left:20px;
+    background: url(../images/stabmenubg.png) no-repeat top center;
+    transition: all 0.6s;

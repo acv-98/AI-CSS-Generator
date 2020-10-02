@@ -1,0 +1,37 @@
+ *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf310;&nbsp;'); 	content: '\f310';
+	color: #DB4A37;
+.icon-pinterest:before {
+.icon-pinterest-circled:before {
+.icon-tumblr:before {
+.icon-tumblr-circled:before {
+.icon-linkedin:before {
+.icon-linkedin-circled:before {
+.icon-dribbble:before {
+.icon-dribbble-circled:before {
+.icon-stumbleupon:before {
+.icon-stumbleupon-circled:before {
+.icon-lastfm:before {
+.icon-lastfm-circled:before {
+.icon-skype:before {
+.icon-skype-circled:before {
+.icon-paypal:before {
+.icon-picasa:before {
+.icon-picture:before {
+.icon-target:before {
+.icon-thumbs-up:before {
+.icon-thumbs-down:before {
+.icon-lamp:before {
+.icon-alert:before {
+.icon-monitor:before {
+.icon-chart-line:before {
+.icon-chart-bar:before {
+.icon-clipboard:before {
+.icon-phone:before {
+.icon-megaphone:before {
+.icon-download:before {
+.icon-mobile:before {
+.icon-mobile-2:before {
+.icon-mobile-1:before {
+.icon-camera:before {
+.icon-chart-area:before {
+.icon-rocket:before {

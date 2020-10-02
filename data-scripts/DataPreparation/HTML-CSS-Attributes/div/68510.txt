@@ -1,0 +1,2 @@
+    left: -8px;
+     text-align: left;

@@ -1,0 +1,12 @@
+    white-space: normal;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 0;
+  border: 2px white solid;
+  border-radius: 10px;
+  display: block;
+  font-weight: 600;
+    padding: 1em;
+    width: 70%;
+    margin-top: 1.5em;
+  background-color: #fff;

@@ -1,0 +1,1 @@
+ background: url(images/body_bg.gif) top repeat-y; padding:0; width:960px; margin:0 auto; background:url(images/body_top_bg.gif) top no-repeat; margin:0; width:960px; background:url(images/body_bottom_bg.gif) bottom no-repeat; padding:10px 0px;

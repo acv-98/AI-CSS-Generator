@@ -1,0 +1,5 @@
+  height: 300px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  background-size: cover;
+  background-position: center center;

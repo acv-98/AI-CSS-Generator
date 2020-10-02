@@ -1,0 +1,4 @@
+    display: inline-block;
+    width:75%;
+    font-size:14px;
+    color:#2c82c9;

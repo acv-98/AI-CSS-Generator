@@ -1,0 +1,2 @@
+    color:#ee997b;
+    border-bottom: 1px dotted transparent;

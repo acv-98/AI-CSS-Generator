@@ -1,0 +1,9 @@
+	display:block;
+	margin:0 auto;
+	width:960px;
+	padding:18px 0;
+	line-height:normal;
+	white-space:nowrap;
+	color:#4a4a4a;
+	text-decoration:none;
+	float:left;

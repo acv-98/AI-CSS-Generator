@@ -1,0 +1,7 @@
+	background:#f6f6f6;
+	float: right;
+	font-family: Tahoma;
+	font-size: 10px;
+	height: 28px;
+	text-transform: uppercase;
+	z-index: 4000;

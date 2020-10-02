@@ -1,0 +1,9 @@
+  padding: 36px 15px 42px 62px;
+  border: 1px solid #898888;
+  margin: 63px 77px 57px 0px;
+  padding-top: 13px;
+  margin-top: 41px;
+    padding: 26px 5px 32px 52px;
+    margin: 53px 67px 47px 0;
+    text-align: center;
+    float: none;

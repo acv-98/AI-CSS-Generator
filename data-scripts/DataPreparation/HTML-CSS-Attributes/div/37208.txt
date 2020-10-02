@@ -1,0 +1,6 @@
+    width: 90%;
+    max-width: 1170px;
+    margin: 4em auto;
+        margin: 4em auto;
+        width: 100%;
+        max-width: none;

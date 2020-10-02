@@ -1,0 +1,9 @@
+	background: #5b6269;
+	color: #cacaca;
+	padding-bottom: 26px;
+	text-decoration: underline;
+	margin-bottom: 12.5px;
+	font-size: 18px;
+	line-height: 20px;
+	display: block;
+	padding-top: 2px;

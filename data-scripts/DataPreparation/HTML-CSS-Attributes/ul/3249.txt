@@ -1,0 +1,50 @@
+    text-align: right;
+    float: none !important;
+      left: auto;
+      border-color: #333333 !important;
+      border-right-color: transparent !important;
+      border-bottom-color: transparent !important;
+      border-top-color: transparent !important;
+      right: -20px;
+  height: 2.8125rem;
+  position: absolute;
+  top: 0;
+  width: 2.8125rem;
+  border-left: solid 1px #1a1a1a;
+  -webkit-backface-visibility: hidden;
+  background: #333333;
+  bottom: 0;
+  box-sizing: content-box;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  overflow-x: hidden;
+  overflow-y: auto;
+  transition: transform 500ms ease 0s;
+  z-index: 1001;
+  -webkit-transform: translate3d(100%, 0, 0);
+  -moz-transform: translate3d(100%, 0, 0);
+  -ms-transform: translate(100%, 0);
+  -o-transform: translate3d(100%, 0, 0);
+  transform: translate3d(100%, 0, 0);
+  margin: 0;
+  -webkit-transition: -webkit-transform 500ms ease;
+  -moz-transition: -moz-transform 500ms ease;
+  -ms-transition: -ms-transform 500ms ease;
+  -o-transition: -o-transform 500ms ease;
+    background: #444;
+    color: #999999;
+    font-weight: bold;
+    padding: 0.3rem 0.9375rem;
+    text-transform: uppercase;
+      background: #303030;
+      content: "\BB";
+      margin-left: .5rem;
+    -webkit-transform: translate3d(0%, 0, 0);
+    -moz-transform: translate3d(0%, 0, 0);
+    -ms-transform: translate(0%, 0);
+    -o-transform: translate3d(0%, 0, 0);
+  margin-right: .5rem;
+font-family:"/5.5.3/" * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS and IE text size adjust after device orientation change,
+ *    without disabling user zoom.
+html {

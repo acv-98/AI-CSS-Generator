@@ -1,0 +1,8 @@
+	margin:17px 0 0 18px;
+	background:url(../images/interface.jpg) no-repeat;
+	width:224px;
+	height:64px;
+	text-align:center;
+	display:block;
+	text-indent:-99999px;
+	float:left;

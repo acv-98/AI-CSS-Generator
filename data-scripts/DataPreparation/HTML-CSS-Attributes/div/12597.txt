@@ -1,0 +1,1 @@
+margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px;clear:both;content:" ";display:table;clear:both;.containermargin-right:-15px;margin-left:-15px;.navbar>.container .navbar-brandborder-radius:6px;.jumbotron

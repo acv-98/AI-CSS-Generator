@@ -1,0 +1,5 @@
+ background-position:	0px 0px;		 background-position:	-576px 0px;		
+		.image
+		{
+			display: inline-block;
+			outline: 0;

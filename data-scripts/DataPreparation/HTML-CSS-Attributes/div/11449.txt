@@ -1,0 +1,17 @@
+	height: 4.8rem;
+	width: 4.8rem;
+	line-height: 4.8rem;
+	background: #313131;
+	border-radius: 50%;
+	text-align: center;
+	color: #FFFFFF;
+	position: absolute;
+	left: 35%;
+	top: .9rem;
+	margin-left: -2.4rem;
+		left: 2.4rem;
+		height: 3.6rem;
+		width: 3.6rem;
+		line-height: 3.6rem;
+		margin-left: -1.8rem;
+		font-size: 1.5rem;

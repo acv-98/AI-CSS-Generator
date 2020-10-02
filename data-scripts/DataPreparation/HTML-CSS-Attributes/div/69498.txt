@@ -1,0 +1,9 @@
+  margin: 0;
+  padding: 0;
+  display: inline;
+  font-size: 13px;
+  font-weight: 300;
+  list-style: outside none none;
+  text-transform: uppercase;
+  color: #949393;
+	color:#f6b20e;

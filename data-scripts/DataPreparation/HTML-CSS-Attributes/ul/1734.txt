@@ -1,0 +1,8 @@
+  color: #efefef;
+  display: none !important;
+  font-size: 0.812rem;
+  background: #4b4b4b!important;
+  position: absolute;
+  content: "";
+  right: 0;
+  width: 20px;

@@ -1,0 +1,8 @@
+	padding:30px 35px 35px 35px;
+	background:url("../design/gradient.png") 0 0 repeat-x;
+	margin:0;
+	margin-bottom:15px;
+	float:left;
+	width:270px;
+	list-style-type:square;
+	list-style-position:inside;

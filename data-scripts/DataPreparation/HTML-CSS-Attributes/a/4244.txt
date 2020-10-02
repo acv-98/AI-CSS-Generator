@@ -1,0 +1,22 @@
+top: -64px !important;font-size: 16px !important; line-height: 29px !important; width: 26px !important; height: 26px !important;                            width: 30px !important; height: 30px !important; background: #2bbbdf !important;
+right: 40% !important;left: 40% !important;top: 58% !important; font-size: 13px !important; width: 22px !important; height: 22px !important; line-height: 23px !important;top: -64px !important;right: 35% !important;left: 35% !important;  position: absolute;
+  top: 40%;
+  left: 15px;
+  height: 40px;
+  margin-top: -20px;
+  font-size: 60px;
+  font-weight: 100;
+  line-height: 30px;
+  color: #ffffff;
+  text-align: center;
+  background: #222222;
+  border: 3px solid #ffffff;
+  -webkit-border-radius: 23px;
+     -moz-border-radius: 23px;
+          border-radius: 23px;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  right: 15px;
+  text-decoration: none;
+top:50%; font-size: 20px; color: #2bbbdf; background: #fff; line-height: 40px; opacity: 1.0; border: none;left:15px;background: #2bbbdf; color: #fff;   Generic styles starts here
+left:0;

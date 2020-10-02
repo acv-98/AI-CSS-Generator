@@ -1,0 +1,7 @@
+	opacity:0;
+		opacity:0.9;
+		-webkit-transition: opacity .4s .8s;
+		-moz-transition: opacity .4s .8s;
+		-ms-transition: opacity .4s .8s;
+		-o-transition: opacity .3s .8s;
+		transition: opacity .3s .8s;		

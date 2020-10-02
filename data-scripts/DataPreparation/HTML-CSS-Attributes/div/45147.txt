@@ -1,0 +1,8 @@
+	float:right;
+	width:430px;
+	color:#3f3f3f;
+	display:block;
+	padding:0 0 0 10px;
+	font-weight:bold;
+	text-decoration:underline;
+	background:url(../images/readmore.gif) no-repeat left center;

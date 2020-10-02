@@ -1,0 +1,6 @@
+  color: #a5d549;
+  border-top: 1px solid #ccc;
+  margin-top: 20px;
+  font-size: 14px;
+  padding-top: 10px;
+  margin-left: 5px;

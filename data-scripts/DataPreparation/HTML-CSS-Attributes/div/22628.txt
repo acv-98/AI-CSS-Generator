@@ -1,0 +1,5 @@
+	margin-top: 30px;
+	margin-bottom: 20px;
+	padding: 9px;
+	background: #FFFFFF;
+	border: 1px solid #B8B8B8;

@@ -1,0 +1,2 @@
+width:955px; height:6px; background:url("../design/cols-top.gif") 0 0 no-repeat; font-size:0; line-height:0;width:955px; height:8px; background:url("../design/cols-bottom.gif") 0 0 no-repeat; font-size:0; line-height:0;background:url("../design/cols.gif") 0 0 repeat-y;
+background-color:#fff;

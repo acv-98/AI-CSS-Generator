@@ -1,0 +1,15 @@
+	background:#373645;
+	padding:7% 0 0;
+	text-decoration:none;
+	float: left;
+	margin-right:21%;
+	cursor: pointer;
+	position: absolute;
+	line-height: 1.5em;
+	border: 1px solid #DBDBDB;
+	outline: none;
+	color: #202020;
+	width:88.33%;
+	font-size: 0.85em;
+    margin-right:15%;
+	margin-bottom:20px;

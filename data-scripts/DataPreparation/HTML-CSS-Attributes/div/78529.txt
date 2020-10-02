@@ -1,0 +1,2 @@
+float:none;margin:0 auto;text-align:center;
+ float:left; text-align:left; width: 143px; position: relative;  width: 133px; height: 133px; margin-bottom: 0; padding:3px;border:1px solid #ccc; clear:both; background-color: #fff; padding: 10px 10px 0px; text-align:right;  height:40px; width:110px;  left:0; bottom:auto; top:0; 

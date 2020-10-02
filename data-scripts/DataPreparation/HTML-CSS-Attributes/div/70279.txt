@@ -1,0 +1,8 @@
+	width: 90px;
+	height: 90px;
+	text-align: center;
+	line-height: 90px;
+	margin: 0 auto;
+	background: #e45050;
+	font-size: 50px;
+	color: #ffffff;

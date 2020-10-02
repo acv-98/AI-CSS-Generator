@@ -1,0 +1,1 @@
+ background: #f6f3f3 url(images/top-section.png) repeat-x center 0; 

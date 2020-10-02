@@ -1,0 +1,15 @@
+	background:url(../images/nivo/assets/crop.png) left top no-repeat transparent;
+	width:100%;
+	top:0px;
+	min-height:4px;
+	z-index:40;
+	display:block;
+	position:absolute;
+	bottom:0;
+background:url(../images/nivo/assets/crop-768.png) left top no-repeat transparent;background:url(../images/nivo/assets/crop-bottom-768.png) bottom left no-repeat transparent;	.nivo-caption {
+		left:220px;
+		bottom:5%;
+		height:105px;
+		width: 510px;
+		padding:12px;
+background:url(../images/nivo/assets/crop-480.png) left top no-repeat transparent;background:url(../images/nivo/assets/crop-bottom-480.png) bottom left no-repeat transparent;background:url(../images/nivo/assets/crop-360.png) left top no-repeat transparent;background:url(../images/nivo/assets/crop-bottom-360.png) bottom left no-repeat transparent;

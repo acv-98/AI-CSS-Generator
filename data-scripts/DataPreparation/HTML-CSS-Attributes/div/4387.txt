@@ -1,0 +1,2 @@
+	background: url(uploads/pri-bg-01.jpg) no-repeat center top;
+	background-size: cover;

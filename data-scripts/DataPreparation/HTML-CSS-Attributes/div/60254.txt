@@ -1,0 +1,10 @@
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 60px;
+	margin-top: 40px;
+	position: relative;
+	display: none;
+	left: 0px;
+	right: auto;
+	bottom: -30px;
+	text-align: right;

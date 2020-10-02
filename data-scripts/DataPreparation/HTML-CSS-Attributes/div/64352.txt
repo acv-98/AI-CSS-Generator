@@ -1,0 +1,7 @@
+	text-align: right;
+	padding-top: 14px;
+	clear: both;
+	margin: 0;
+	margin-left: 12px;
+	padding-right: 0;
+		padding-bottom: 0;  

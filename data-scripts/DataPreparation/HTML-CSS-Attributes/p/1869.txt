@@ -1,0 +1,10 @@
+	color: white;
+	font-size: 1.4rem;
+	position: static;	
+	margin-bottom: 0;
+	-ms-flex-item-align: end;
+	    -webkit-align-self: flex-end;
+	        align-self: flex-end;
+		position: absolute;
+		right: 20px;
+		bottom: 20px;	

@@ -1,0 +1,14 @@
+		padding: 0 25px;
+    position: relative;
+    display: block;
+    margin-bottom: 30px;
+    color: #999;
+    padding: 0 58px;
+    text-transform: uppercase;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 90%;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 1 !important;

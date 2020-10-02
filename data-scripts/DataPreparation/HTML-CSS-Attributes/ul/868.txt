@@ -1,0 +1,13 @@
+  background-color: #a5d549;
+  border-color: #a5d549; 
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  color: #555;
+  margin: 0 5px;
+  padding: 5px 13px;  
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  text-decoration: none;
+  outline: none;  

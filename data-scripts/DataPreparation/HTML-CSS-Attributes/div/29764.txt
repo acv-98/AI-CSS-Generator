@@ -1,0 +1,2 @@
+ overflow:hidden
+ margin-bottom:67px font-size:13px; font-weight:400;margin-top:0 font-weight:600; 

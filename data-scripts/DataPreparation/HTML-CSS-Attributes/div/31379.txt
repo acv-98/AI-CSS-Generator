@@ -1,0 +1,11 @@
+	background: #FFF;
+	text-align: center;
+	padding: 13% 0 1%;
+	border-bottom: 1px solid #000;
+	color:#000;
+	font-size:1.8em;
+	text-transform:uppercase;
+	font-weight: 700;
+	margin: 4% 0 10%;
+  padding: 20px 0 4px;
+  margin: 10px 0;

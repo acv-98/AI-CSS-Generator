@@ -1,0 +1,1 @@
+width:713px;height:51px;background:#BB0D09;padding:12px 0 0 20px;font:11px/14px verdana;color:#fff;

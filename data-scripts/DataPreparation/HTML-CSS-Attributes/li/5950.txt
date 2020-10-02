@@ -1,0 +1,2 @@
+width:90%;
+ border:1px solid #cecbcb; margin-top:10px; padding:10px;  font-size: 12px; background-color:#fff; width:97.5%;  background:#fff; border:1px solid #ddd; padding:0 10px; width:180px; color:#3b3c3e; 

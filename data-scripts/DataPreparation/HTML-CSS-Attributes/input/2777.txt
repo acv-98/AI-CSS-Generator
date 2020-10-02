@@ -1,0 +1,8 @@
+	height:32px;
+	width:60px;
+	background:url(images/submit.gif) no-repeat 0 0;
+	cursor:pointer;
+	border:0;
+	font-size:13px;
+	color:#fff;
+	font-weight:bold;

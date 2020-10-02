@@ -1,0 +1,9 @@
+	clear:both;
+	margin:0 auto;
+	padding:0 0 15px 0;
+	width:930px;
+	color:#6e6e6e;
+	font:normal 11px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	text-decoration:none;
+	float:left;

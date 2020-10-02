@@ -1,0 +1,9 @@
+	height:300px;
+	margin:0;
+	background-image:url(../images/bg_top.png);
+	background-repeat:no-repeat;
+	padding-top:6px;
+	padding-right:4px;
+	padding-bottom:0;
+	padding-left:4px;
+	width:980px;

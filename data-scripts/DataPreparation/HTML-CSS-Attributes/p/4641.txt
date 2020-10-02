@@ -1,0 +1,4 @@
+	width:280px;
+	float:left;
+	color:#a2e9fd;
+	font:bold 11px Tahoma, Arial, Helvetica, sans-serif;

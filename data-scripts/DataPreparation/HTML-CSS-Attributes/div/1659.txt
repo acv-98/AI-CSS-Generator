@@ -1,0 +1,8 @@
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+  color: #777777;
+    color: #777777;
+    background-color: transparent;
+	background-color: #3498db;
+	border-color: transparent;
+	color: white;

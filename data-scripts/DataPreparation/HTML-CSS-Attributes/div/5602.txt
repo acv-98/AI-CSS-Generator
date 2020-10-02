@@ -1,0 +1,11 @@
+    margin-bottom: 80px;
+    margin-left: 20px;
+    float: left;
+    width: 210px;
+  margin-top:40px;
+  color:#444444;
+  text-align:center;
+  box-shadow:0 0 3px 0 rgba(0, 0, 0, 0.22);
+  display:block;
+  line-height:0em;
+  max-width:100%;

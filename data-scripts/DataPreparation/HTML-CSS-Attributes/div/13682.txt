@@ -1,0 +1,12 @@
+ font-size: 20px; font-family: 'Open Sans', sans-serif; color: #0C243D; font-style: normal; font-weight: 700;  font-size: 14px; font-family: 'Open Sans', sans-serif; color: #464444; font-style: normal; font-weight: 400;  font-size: 14px; font-family: 'Open Sans', sans-serif; color: #666767; font-style: normal; font-weight: 400;  display:block; vertical-align:baseline; width:100%; text-align:left;  font-size:34px;  margin-right:20px;     float: left;
+    height: 100%;
+    margin-left: 20px;
+    position: relative;
+    z-index: 1;
+    line-height: 38px;
+    padding-top: 0;
+    color: #464444;
+    font-size: 14px;
+    width: 80%;
+    display:table-cell;
+    vertical-align:middle;

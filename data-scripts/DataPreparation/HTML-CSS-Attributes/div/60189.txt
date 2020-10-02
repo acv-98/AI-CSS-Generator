@@ -1,0 +1,5 @@
+	margin-left:110px;
+	background:url(images/dashed-posth2.png) left bottom repeat-x;
+	padding-bottom:8px;
+	line-height:1.45em;
+	margin-bottom:1.35em;

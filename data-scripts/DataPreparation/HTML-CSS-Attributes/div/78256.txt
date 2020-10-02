@@ -1,0 +1,18 @@
+ height: 436px;  
+.slider, #carousel, #carousel > div {
+	width: 980px;
+	height: 436px;
+	margin: 0px 0 0 -495px;
+	overflow: hidden;
+	position: relative;
+	top: 50%;
+	left: 50%;
+ position: relative; overflow: hidden;  background: url(images/slider-b-arr.png) no-repeat 0 0; width: 30px; height: 30px; display: block; position: absolute; top: 10px; left: 32px;  background-position: 0 -31px;  right: 32px; background-position: right 0;  background-position: right -31px; .socials { background: url(images/socials-pattern.png) repeat 0 0; height: 50px; padding: 0 17px;  margin: 0 32px; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px;  
+		width: 708px;
+		height: 436px;
+		margin: 0px 0 0 -354px;
+		overflow: hidden;
+		position: relative;
+		top: 50%;
+		left: 50%;
+ left: 10px;  right: 10px; background-position: right 0; 

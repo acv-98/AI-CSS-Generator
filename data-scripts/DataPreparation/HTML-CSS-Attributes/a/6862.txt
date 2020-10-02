@@ -1,0 +1,4 @@
+ content: '(unicode)'; 	
+ content: '\E002';  content: '\E020';  content: '\E034';  content: '\E048';  content: '\E04c';  content: '\E075';  content: '\E08a';  content: '\E097';  content: '\E112';  content: '\E118';  content: '\E12a';  content: '\E137';  content: '\E03f';  content: '\E047';  content: '\E05a';  content: '\E083';  content: '\E03f';  content: '\E12f'; 		
+	#nav
+	{

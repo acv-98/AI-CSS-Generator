@@ -1,0 +1,15 @@
+  position: absolute;
+  bottom: 40px;
+  font-size: 14px;
+  text-align: center;
+  width: 100%;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.6);
+  padding: 0 20px;
+    position: relative;
+    bottom: 0;
+  display: block;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  outline: none;

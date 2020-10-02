@@ -1,0 +1,3 @@
+border-bottom: 3px solid #35A1FB;
+border-top: 3px solid #35A1FB;
+margin-top: 25px;

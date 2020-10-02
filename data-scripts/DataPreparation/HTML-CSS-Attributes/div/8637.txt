@@ -1,0 +1,7 @@
+	padding-left: 0px;
+	padding-right: 0px;
+ color:#19beb6; .location span {
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 10px;
+ color:#df9801; 

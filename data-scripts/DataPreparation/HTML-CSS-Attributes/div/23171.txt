@@ -1,0 +1,8 @@
+	margin-top:70px;
+	text-align:center;	
+	background:#f9f9f9;
+	text-transform:uppercase;
+	margin-bottom:80px;
+	padding:50px;
+	color:#fff;
+	border-radius:50%;

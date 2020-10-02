@@ -1,0 +1,1 @@
+  display:inline; float:left; background: url(../images/tp_bg2.jpg) no-repeat; width:418px; height:317px;

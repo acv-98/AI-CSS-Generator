@@ -1,0 +1,8 @@
+	width: 1031px;
+	margin:auto;
+	padding: 28px 0 0;
+	font-size: 10px;
+	font-weight: 10;
+	color:#999;
+	display:block;
+	text-decoration: none;

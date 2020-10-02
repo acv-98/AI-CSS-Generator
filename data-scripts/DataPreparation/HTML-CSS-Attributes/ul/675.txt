@@ -1,0 +1,9 @@
+  display: block;
+  padding: 5px 10px;
+  border-bottom: none;
+  width: 24px;
+  top: 2px;
+  position: relative;
+  zoom: 1;
+  *display: inline;
+  margin-right: 10px;

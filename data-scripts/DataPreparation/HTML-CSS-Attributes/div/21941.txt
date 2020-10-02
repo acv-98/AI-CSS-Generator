@@ -1,0 +1,1 @@
+	background:url(images/header-bg-bottom.jpg) no-repeat 20px bottom;

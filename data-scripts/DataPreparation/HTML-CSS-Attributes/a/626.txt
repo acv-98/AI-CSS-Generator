@@ -1,0 +1,2 @@
+padding:5px 0 5px 27px; background:url("../design/footer-rss.gif") 0 0 no-repeat; font-weight:bold;    
+Page: Homepage

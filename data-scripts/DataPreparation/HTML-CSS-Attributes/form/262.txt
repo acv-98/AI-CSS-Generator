@@ -1,0 +1,15 @@
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+    width: auto;
+    margin-top: 0;
+    padding-left: 0;
+    position: relative;
+    margin-left: 0;
+    top: 0;
+  background: rgba(0, 0, 0, 0.05);
+  border: none;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  border-radius: 4px;

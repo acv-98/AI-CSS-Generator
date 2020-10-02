@@ -1,0 +1,2 @@
+ background-image: url(../img/image-04.jpg); 	padding-top: 80px; 
+	padding-bottom: 80px;

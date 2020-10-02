@@ -1,0 +1,15 @@
+	display:block;
+	width:305px;
+	height:45px;
+	color:#fff;
+	background:url(images/slider_tab.png) no-repeat center;
+	line-height:45px;
+	text-decoration:none;
+	font-weight:bold;
+	padding:0 0 0 19px;
+	margin:0 0 7px 0;
+	float:left;
+	position:relative;
+	left:-10px;
+	z-index:999;
+	outline:none;

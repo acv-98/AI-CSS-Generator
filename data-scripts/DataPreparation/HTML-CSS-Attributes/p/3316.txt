@@ -1,0 +1,4 @@
+    margin-bottom:70px;
+    font-size:0.8125rem;
+    font-family: 'open_sanssemibold';
+    color:#f6f7fa;

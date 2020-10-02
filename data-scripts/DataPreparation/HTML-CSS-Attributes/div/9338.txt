@@ -1,0 +1,3 @@
+    width:60%;
+    display: inline-block;
+.list_item_text p{

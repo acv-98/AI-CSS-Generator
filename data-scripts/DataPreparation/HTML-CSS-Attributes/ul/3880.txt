@@ -1,0 +1,11 @@
+	display:inline-block;
+	float:left;
+	border-left:#d3d3d3 1px solid;
+	width:156px !important;
+	color:#b4b4b4;
+	font-size:18px;
+	line-height:24px;
+	padding: 14px 0 19px 0;
+	background:#fff;
+	border-bottom:none !important;
+	text-align:center;

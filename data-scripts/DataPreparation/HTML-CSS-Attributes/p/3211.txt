@@ -1,0 +1,9 @@
+		float: right;
+		margin-top: -25px;
+		font-size: 0.9em;
+		color: #656461;
+		padding-top: 2px;
+		font-family: Arial;
+			color: #ffffff;
+			margin: 0 9px;
+			text-decoration: none;

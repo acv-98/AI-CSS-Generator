@@ -1,0 +1,8 @@
+	float:right;
+	display:block;
+	background:url(../images/link2-right.gif) no-repeat right top;
+	color:#fff;
+	cursor:pointer;
+	text-decoration:none;
+	line-height:1em;
+	padding:0 6px;

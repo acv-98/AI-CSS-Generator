@@ -1,0 +1,6 @@
+	background-color: #0ba2db;
+	padding: 30px 0;
+	border-radius: 0 0 4px 4px;
+	border-color: #fff;
+	color: #fff;
+	text-transform: uppercase;

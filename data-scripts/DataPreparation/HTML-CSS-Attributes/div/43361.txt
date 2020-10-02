@@ -1,0 +1,5 @@
+    margin-bottom: 2rem;
+    padding: 0;
+    line-height: 1;
+    font-size: 18px !important;
+    padding-left: 10px;

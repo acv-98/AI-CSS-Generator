@@ -1,0 +1,7 @@
+    padding: 40px;
+    background-color: #ffffff;
+    height: 45px;
+    margin-bottom: 20px;
+    border-radius: 0;
+    border-color: #ffffff !important;
+    color: #ffffff !important;

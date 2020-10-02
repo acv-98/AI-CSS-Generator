@@ -1,0 +1,3 @@
+width:1000px;
+padding:0px auto;
+margin:0px auto;

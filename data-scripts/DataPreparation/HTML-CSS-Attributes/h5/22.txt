@@ -1,0 +1,2 @@
+    background-color: #fafafa;
+	padding:20px 0;

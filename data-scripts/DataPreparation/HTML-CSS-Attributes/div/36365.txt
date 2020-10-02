@@ -1,0 +1,8 @@
+	float:left;
+	width:300px;
+	margin-right:0;
+	font-size:20px;
+	color:#000;
+	line-height:110%;
+	margin-bottom:20px;
+	font-style:italic;

@@ -1,0 +1,5 @@
+	position:relative;
+	width:985px;
+	height:350px;
+	overflow:hidden;
+	list-style:none outside none;

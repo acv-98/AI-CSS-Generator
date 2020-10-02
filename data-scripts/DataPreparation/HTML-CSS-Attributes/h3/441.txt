@@ -1,0 +1,6 @@
+  font-size: 16px;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  float: left;
+  width: 100%;
+  display: block;

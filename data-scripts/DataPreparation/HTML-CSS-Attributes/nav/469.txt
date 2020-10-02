@@ -1,0 +1,5 @@
+  height: 70px;
+  max-height: 70px;
+  margin: 0;
+  background: #ffffff;
+    background: #ffffff;

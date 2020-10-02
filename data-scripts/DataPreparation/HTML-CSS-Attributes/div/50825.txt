@@ -1,0 +1,9 @@
+	width:316px;
+	height:165px;
+	background:url(images/main-bottom.gif);
+	position:absolute;
+	top:-165px;
+	right:0;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;

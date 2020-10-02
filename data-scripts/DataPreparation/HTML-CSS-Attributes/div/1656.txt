@@ -1,0 +1,7 @@
+	background: #5C9CC7;
+  color: #fff;
+  background: #fcfcfc;
+  text-align: center;
+  padding: 40px 0 1px 0;
+  border-bottom: none;
+  display: block;

@@ -1,0 +1,1 @@
+background-color:#fff; color:#bbb7b7; display:inline-block; float:left; margin-bottom:10px; margin-right:5px; padding:6px 12px; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5sbackground-color:#ffd62c; color:#fff; text-decoration:none

@@ -1,0 +1,8 @@
+    padding: 0px;
+    background-color: #fff;
+    clear: left;
+        border: none;
+        float: none;
+        width: 100%;
+        min-height: initial;
+        clear: none;

@@ -1,0 +1,4 @@
+  background: rgba(255, 255, 255, 0.92) none repeat scroll 0 0;
+  height: 100%; 
+  padding: 100px 0;
+  width: 100%;

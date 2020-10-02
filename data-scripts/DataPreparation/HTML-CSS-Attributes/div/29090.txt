@@ -1,0 +1,16 @@
+	position: relative;
+	width: 292px;
+	margin-right: 7px;
+	float: left;
+	background-color: #bbbbbb;
+	color: #333;
+	padding-left: 20px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	top: 0px;
+	left: 0px;
+	background-image: url(images/main-right-top.gif);
+	background-repeat: no-repeat;
+	height: 13px;
+	bottom: 0px;

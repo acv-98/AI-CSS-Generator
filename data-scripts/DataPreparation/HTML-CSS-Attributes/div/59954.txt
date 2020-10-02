@@ -1,0 +1,18 @@
+	behavior: url(js/PIE.htc);
+	position: relative;
+	margin-right: 9px;
+    padding-top: 33px;
+    float: right;
+    background: url(../images/time_bg.png) 0 center repeat-x;
+    display: block;
+    font-size: 20px;
+    width: 40px;
+    height: 37px;
+    color: #e5e5e5;
+    text-align: center;
+    line-height: 37px;
+    border-radius: 7px;
+    background-position: 0 -100px;
+    background-color: #F0F3F5;
+    margin-left: 10px;
+    overflow: hidden;

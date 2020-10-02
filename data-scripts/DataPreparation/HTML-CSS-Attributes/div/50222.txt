@@ -1,0 +1,8 @@
+	float:left;
+	display:inline;
+	width:285px;
+	height:33px;
+	background:url(images/form-field.gif) no-repeat 0 0;
+	border:0;
+	color:#898989;
+	margin:8px 11px 0;

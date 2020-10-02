@@ -1,0 +1,2 @@
+margin: 0px 0 20px
+background:#fefedc; border: 1px dotted grey; padding: 10px 20px; margin:15px 0

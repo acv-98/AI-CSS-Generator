@@ -1,0 +1,9 @@
+        max-width: 100%;
+        margin-left:0;
+    background: url(../images/video.jpg) no-repeat right center;
+    text-align: center;
+    height: 465px;
+    line-height: 465px;
+    background-size: cover;
+    padding: 20px 40px;
+    color:#fff;

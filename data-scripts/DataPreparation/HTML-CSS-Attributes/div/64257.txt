@@ -1,0 +1,9 @@
+    position: absolute;
+    width: 22px;
+    height: 42px;
+    bottom: 40px;
+    left: 50%;
+    margin-left: -12px;
+    border-radius: 15px;
+    -webkit-animation: intro 1s;
+    animation: intro 1s;

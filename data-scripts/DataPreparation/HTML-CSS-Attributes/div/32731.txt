@@ -1,0 +1,8 @@
+  overflow: hidden;
+  zoom: 1;
+  width: 10000px;
+  display: table-cell;
+  vertical-align: top;
+	color: #7c7c7c;
+	font-size: 13px;
+	  text-align: center;	  

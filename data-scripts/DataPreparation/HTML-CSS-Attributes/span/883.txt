@@ -1,0 +1,6 @@
+    font-size: 11px;
+    color: #664a3f;
+    text-transform: uppercase;
+    position: absolute;
+    top: 60px;
+    left: -17px;

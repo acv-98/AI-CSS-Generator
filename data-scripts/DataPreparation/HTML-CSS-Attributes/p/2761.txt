@@ -1,0 +1,8 @@
+	padding: 0em 0em 1.25em 0em;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.31em;
+	font-weight: 300;
+	color: #FF3002;
+	padding-bottom: 1em;
+	line-height:120%;

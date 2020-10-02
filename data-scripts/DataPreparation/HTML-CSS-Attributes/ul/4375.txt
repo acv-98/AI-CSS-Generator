@@ -1,0 +1,4 @@
+	line-height: 32px;
+	font-size: 12px;
+	border-bottom: 1px solid #232323;
+	background: #1d1d1d;

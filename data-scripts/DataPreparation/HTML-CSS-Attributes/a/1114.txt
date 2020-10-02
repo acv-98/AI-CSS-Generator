@@ -1,0 +1,2 @@
+  color: #a5d549;
+  text-transform: uppercase;

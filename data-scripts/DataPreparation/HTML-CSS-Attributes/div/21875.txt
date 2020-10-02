@@ -1,0 +1,29 @@
+ padding: 0; 
+.navbar-nav .nav-item {
+    max-width: none;
+    width: 50%;
+    text-align: center;
+    background-color: #cccccc;  
+    height: 60px;
+    font-size: 1.4rem;
+    display: -ms-flexbox;
+    -ms-flex-align: center;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+            align-items: center;
+    -ms-flex-pack: center;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+            justify-content: center;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+	background-color: #999999;
+	cursor: default;
+	color: #555555;
+ cursor: default; .nav-item.active .nav-link,
+ margin: 0 1px 1px 0; 	margin: 0 1px 1px 0; .navbar-nav .nav-link {
+	padding: 0;
+	width: 100%;
+		height: 80px;
+		max-width: 249px; 
+ position: relative; 

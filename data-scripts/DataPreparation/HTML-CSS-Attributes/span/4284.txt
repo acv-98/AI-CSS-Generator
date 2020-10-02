@@ -1,0 +1,1 @@
+display:block; clear:both; width:318px; height:20px; background:url('design/quote_bottom.png') no-repeat scroll top; margin-top:-5px

@@ -1,0 +1,8 @@
+	margin:0;
+	padding:24px 520px 24px 60px;
+	height:194px;
+	background:url(images/hbg_img.jpg) no-repeat center center;
+	color:#fff;
+	font:normal 24px/1.5em Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	text-decoration:underline;

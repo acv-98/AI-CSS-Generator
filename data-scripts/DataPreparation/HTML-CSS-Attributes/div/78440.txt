@@ -1,0 +1,2 @@
+clear:both;float:left;padding-top:6px;width:205px;float:right;margin:0;clear:none;padding-top:3px;
+float:left;margin-right:10px;float:left;border-bottom:0;line-height:32px;margin:0 0 10px;clear:both;

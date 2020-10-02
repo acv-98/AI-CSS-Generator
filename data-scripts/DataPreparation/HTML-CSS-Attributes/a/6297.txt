@@ -1,0 +1,12 @@
+	width:230px;
+	height:63px;
+	display:block;
+	position:absolute;
+	bottom:11px;
+	left:260px;
+	z-index:10;
+	background:url(images/download.gif);
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	text-decoration:underline;

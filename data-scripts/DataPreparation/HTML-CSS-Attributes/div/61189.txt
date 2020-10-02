@@ -1,0 +1,15 @@
+	display: inline;
+	float: left;
+	width: 100%;
+	border-top: 1px solid #cccccc;
+	border-bottom: 1px solid #ccc;
+	padding: 20px 0;
+	list-style: none;
+	color: #323232;
+	font-size: 16px;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-right: 10px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;

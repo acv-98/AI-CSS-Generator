@@ -1,0 +1,5 @@
+	height: 10px;
+	background:url(images/templaetmo_one_col_bottom.png) center;
+	margin: 0 0 10px 0;
+	border-top: 1px solid #dcdcdc;
+	border-bottom: 1px solid #f4f4f4;

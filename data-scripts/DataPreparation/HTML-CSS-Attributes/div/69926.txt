@@ -1,0 +1,5 @@
+  text-align: center;
+  display: inline;
+  margin-left: 5px;
+  float: none;
+margin:0;padding:0;list-style:none;float:left.social_area ul li a{display: block;

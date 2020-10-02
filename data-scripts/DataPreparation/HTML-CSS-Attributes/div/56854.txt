@@ -1,0 +1,11 @@
+	width:308px;
+	margin-top:40px;
+	padding:30px 30px 10px 0;
+	margin-bottom:20px;
+	margin-left:10px;
+	display:block;
+	color:#ff8a00;
+	font-size:2.8em;
+	height:40px;
+	background:url(../images/blogsidebar_bg.png) no-repeat;
+	padding-top:115px;

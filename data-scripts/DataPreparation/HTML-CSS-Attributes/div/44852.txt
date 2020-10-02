@@ -1,0 +1,2 @@
+	background-image: url(../img/home_bg.jpg);
+	background-size: cover;

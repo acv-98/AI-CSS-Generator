@@ -1,0 +1,11 @@
+  color: #a5d549;
+  display: inline-block;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  text-transform: uppercase;
+  font-size: 15px;
+  margin-left: 3px;
+    font-size: 14px;

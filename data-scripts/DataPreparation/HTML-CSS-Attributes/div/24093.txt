@@ -1,0 +1,5 @@
+	margin:0 auto;
+	width:960px;
+	padding:16px 0;
+	color:#fff;
+	background:url(../images/line.gif) repeat-x left bottom;

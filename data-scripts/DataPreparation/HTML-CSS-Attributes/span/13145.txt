@@ -1,0 +1,10 @@
+  display: block;
+  width: 35px;
+  height: 35px;
+  background-color: #dc5333;
+  border-radius: 50px;
+  cursor: pointer;
+  background-image: url(../img/hover/link_post_icon.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 10px;

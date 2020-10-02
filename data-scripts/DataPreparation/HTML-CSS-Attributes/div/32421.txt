@@ -1,0 +1,7 @@
+		max-width:960px;
+		width:100%;
+		margin:0 auto;
+		content:"";
+		clear:both;
+		display:block;
+		padding:0 10px;

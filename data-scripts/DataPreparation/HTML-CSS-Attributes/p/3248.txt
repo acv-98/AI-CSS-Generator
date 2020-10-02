@@ -1,0 +1,2 @@
+ border-color: #cfcfcf; 	padding-bottom: 5px;
+	border-bottom: 1px solid #CFCFCF;

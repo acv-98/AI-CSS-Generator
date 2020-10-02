@@ -1,0 +1,2 @@
+padding-bottom:30px;overflow:hidden; border-bottom:#f2f2f2 solid 1px; margin-bottom:40px; width:auto;
+ list-style:url(../images/arrow2.png) inside; border-bottom:#f2f2f2 solid 1px; line-height:40px;border-bottom:none;text-decoration:none; color:#939d9f;color:#ee3233;color:#ee3233;PORTFOLIO CLASSES

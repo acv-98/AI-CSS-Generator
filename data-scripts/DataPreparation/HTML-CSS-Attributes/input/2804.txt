@@ -1,0 +1,10 @@
+	width:47px;
+	height:32px;
+	float:left;
+	display:inline;
+	border:0;
+	background:url('images/search-button.gif') no-repeat 0 0;
+	cursor:pointer;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;

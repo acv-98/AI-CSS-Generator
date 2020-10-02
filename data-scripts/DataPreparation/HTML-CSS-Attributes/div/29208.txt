@@ -1,0 +1,6 @@
+    background-color: #4eabde;
+    border-color: rgba(0, 0, 0, 0);
+    color: #ffffff;
+    font-weight: 400;
+    text-transform: uppercase;
+    box-shadow: 0 0px 0 rgba(0, 0, 0, 0.0) inset;

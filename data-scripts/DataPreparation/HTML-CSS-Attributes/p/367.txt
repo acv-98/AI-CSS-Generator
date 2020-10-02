@@ -1,0 +1,3 @@
+	color:#B4EDFC;
+	font-size:0.8125em;
+	margin:10px;

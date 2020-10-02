@@ -1,0 +1,13 @@
+	margin:15px 0 0 20px !important;
+	_margin:15px 0 0 10px !important;
+	padding:0 !important;
+	text-align:center;
+	width:55px!important;
+	color:#074679;
+	font-family:arial;
+	font-size:14px;
+	text-shadow:0 1px 0 #fff;
+	font-weight:bold;
+	text-transform:uppercase;
+	position:absolute;
+	top:40px;

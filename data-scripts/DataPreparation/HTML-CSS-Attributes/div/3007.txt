@@ -1,0 +1,19 @@
+	position:relative;
+	overflow: hidden;
+	height: 534px;
+	
+	border-top: 1px solid #fff1bd;
+	border-bottom: 1px solid #a8a8a8;
+	z-index:2;
+	left: 50%;
+	margin-left: -800px;
+	width: 1600px;
+	top: 141px;
+	text-align: center;
+	padding: 47px  20px 65px;
+	font: italic bold 48px/36px 'Marvel', sans-serif;
+	color: #fff;	
+	background: url(../images/banner_bg.png) 0 0 repeat;
+	font-style: normal;
+	padding-top: 23px;
+	font-size: 24px;

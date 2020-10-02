@@ -1,0 +1,7 @@
+     box-shadow: 0 15px 25px -30px #000;
+     padding-left: 0;
+     padding-right: 0;
+     margin: 13px 0;
+     float: left;
+     border-right: none;
+     border-left: none;

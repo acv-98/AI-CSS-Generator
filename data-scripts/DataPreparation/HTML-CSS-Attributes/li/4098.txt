@@ -1,0 +1,4 @@
+	width:128px;
+	background:url(../images/sprites-icons.gif) no-repeat 0 -310px;
+	color:#7c0032;
+	text-shadow:1px 1px 0 #fde8f7;

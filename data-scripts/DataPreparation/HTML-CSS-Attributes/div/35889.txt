@@ -1,0 +1,5 @@
+    background: url(../img/counterbg.jpg) no-repeat top center;
+    background-size: cover;
+    overflow: hidden;
+.main_counter_area .main_counter_content .single_counter{
+    font-size:2rem;

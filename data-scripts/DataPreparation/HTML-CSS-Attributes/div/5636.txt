@@ -1,0 +1,6 @@
+	padding:21px 0 20px
+	position:relative;
+	overflow:hidden
+	padding-left:30px
+	padding-right:50px
+	margin-bottom:20px

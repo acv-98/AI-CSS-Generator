@@ -1,0 +1,15 @@
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	text-align: center;
+	width: 460px;
+	position: relative;
+	top: 28px;
+	margin: 0 auto;
+	padding-top: 16px;
+	background-color: #fff;
+	color: #fff;
+	line-height: 0px;
+	font-size: 0;
+	height: 41px;
+	border-radius: 500px;
+	display: inline-block;
+	margin-left: 12px;

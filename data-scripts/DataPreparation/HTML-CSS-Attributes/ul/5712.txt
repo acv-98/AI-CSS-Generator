@@ -1,0 +1,3 @@
+        float: none;
+        padding-left: 30px;
+        overflow: hidden;

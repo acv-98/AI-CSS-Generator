@@ -1,0 +1,15 @@
+    position: relative;
+    list-style: none;
+    margin-bottom: 9px;
+    border-bottom: 1px dotted #eee;
+    padding-bottom: 9px;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 14px;
+    display: inline-block;
+    width: 30px;
+    margin-right: 10px;
+    height: 30px;
+    line-height: 30px;
+    padding-top: 0;
+    margin-top: 0;

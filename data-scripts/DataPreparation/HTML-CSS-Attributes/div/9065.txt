@@ -1,0 +1,14 @@
+  position: absolute;
+  height: 180px;
+  border-top: 2px solid #f4f4f4;
+  padding: 20px 0;
+  top: 0;
+  z-index: 0;
+  opacity: 0;
+  width: 100%;
+  border-bottom: none;
+  pointer-events: auto;
+  content: " ";
+  display: table;
+  clear: both;
+  color: #909;

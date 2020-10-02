@@ -1,0 +1,5 @@
+  float: right;
+  font-style: italic;
+  background: none;
+  box-shadow: none;
+  color: #6b3b25;

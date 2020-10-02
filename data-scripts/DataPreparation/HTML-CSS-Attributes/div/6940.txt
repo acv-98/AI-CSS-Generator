@@ -1,0 +1,14 @@
+	width:960px;
+	height:auto;
+	text-align:center;
+	margin:0 auto;
+	clear:both;
+	font-size:24px;
+	font-weight:normal;
+	color:#401f17;
+	padding-top:30px;
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.6);
+	padding-bottom:10px;
+	background:url(../images/header-button-bg.png) no-repeat;
+	text-decoration:none;
+	line-height:100px;

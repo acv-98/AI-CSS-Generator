@@ -1,0 +1,11 @@
+	width: 100%;
+ padding: 50px; .tm-home-container-bg {
+	background-color: white;
+    width: 100%;
+    max-width: 840px;
+    margin: 0 auto;
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    top: 45px;
+    height: 94%;

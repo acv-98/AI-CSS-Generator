@@ -1,0 +1,14 @@
+    width: 460px;
+    margin-right: 60px;
+    margin-bottom: 55px;
+    background: #f8f5f2;
+    position: relative;
+    padding-left: 40px;
+    padding-top: 12px;
+    padding-bottom: 18px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+    left: 181px;
+    font-size: 28px;
+    line-height: 1.1em;

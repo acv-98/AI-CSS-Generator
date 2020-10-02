@@ -1,0 +1,8 @@
+  text-align: center;
+  color: #efefef;
+  margin-top: 55px;
+  font-weight: 400;
+  font-size: 15px;
+  text-shadow: 1px 1px 2px #262626;
+  line-height: 30px;
+  box-shadow: 0 1px 1px #000, inset 0 1px 0 rgba(255, 255, 255, 0.1);

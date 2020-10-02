@@ -1,0 +1,1 @@
+ padding-bottom:15px; padding:0 0 4px 8px; background:url(images/marker-2.gif) no-repeat left 6px; color:#4c7cbd; padding-top:4px; margin-bottom:-4px; padding-left:8px; background:url(images/marker-3.gif) no-repeat left 6px;

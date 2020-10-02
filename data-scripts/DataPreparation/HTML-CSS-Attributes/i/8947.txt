@@ -1,0 +1,2 @@
+  -webkit-animation: float 2s linear infinite;
+  animation: float 2s linear infinite;

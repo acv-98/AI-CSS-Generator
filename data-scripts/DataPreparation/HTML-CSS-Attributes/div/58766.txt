@@ -1,0 +1,13 @@
+	color: #676e73;
+   width: 83%;
+   text-align: center;
+   margin: 54px auto 24px auto;
+   font: 40px/1.2em 'montserrat-regular', sans-serif; 
+   color: #fff;
+   padding: 0;
+   text-shadow: 0px 1px 4px rgba(0, 0, 0, .2);
+ color: #11ABB0; .hero-text p {
+ width: 82%;  font: 38px/1.2em 'montserrat-regular', sans-serif; 	
+ width: 88%;  font: 35px/1.2em 'montserrat-regular', sans-serif;  font: 15px/30px 'opensans-regular', sans-serif;   
+ width: 92%;  font: 31px/1.2em 'montserrat-regular', sans-serif;  font: 14px/24px 'opensans-regular', sans-serif;  width: 96%;  font: 25px/1.2em 'montserrat-regular', sans-serif;  font: 13px/24px 'opensans-regular', sans-serif;    #testimonials .quote-left,      
+ width: 100%; 

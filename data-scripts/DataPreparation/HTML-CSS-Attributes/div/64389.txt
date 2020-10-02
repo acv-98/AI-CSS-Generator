@@ -1,0 +1,13 @@
+	padding-top:10px;
+	padding-bottom:0;
+	width:100%;
+	background:url(../images/left-top-corner.png) no-repeat left top;
+	height:17px;
+	padding-left:151px;
+	padding-right:151px;
+	font-size:0;
+	line-height:0;
+	position:relative;
+	bottom:-30px;
+	left:-137px;
+	right:-139px;

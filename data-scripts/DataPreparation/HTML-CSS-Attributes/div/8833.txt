@@ -1,0 +1,7 @@
+	width: 980px;
+		width: 560px;
+		padding-top: 60px;
+		padding-right: 420px;
+	margin: 0 auto;
+		position: relative;
+	overflow: hidden;

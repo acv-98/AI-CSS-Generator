@@ -1,0 +1,7 @@
+	width: 350px;	
+	margin: 0 auto;
+	background: #165622;
+	color: #fff !important;
+   background: #FFFFFF;
+   color: #0D0D0D !important;
+ width: 100%; 

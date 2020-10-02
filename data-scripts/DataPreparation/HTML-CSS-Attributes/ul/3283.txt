@@ -1,0 +1,15 @@
+	background: #bb9d52;
+	color: #ffffff;
+    background: #bb9d52;
+    line-height: 45px;
+	margin-bottom: 15px;
+    display: block;
+    text-decoration: none;
+    color: #999999;
+	background-color: transparent;
+	font-weight: 600;
+	padding: 7px 17px 7px;
+	-webkit-border-radius: 10px;
+	-ms-border-radius: 10px;
+	border-radius: 10px;
+	line-height: 21px;

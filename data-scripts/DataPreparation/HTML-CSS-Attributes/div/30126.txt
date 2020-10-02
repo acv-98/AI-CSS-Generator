@@ -1,0 +1,9 @@
+		clear: both;
+		height: 41px;
+		color: #ffffff;
+		width: 1005px;
+		margin: auto auto;
+		text-align: left;
+			color: #ffffff;
+			padding: 15px 15px 0;
+			float: left;

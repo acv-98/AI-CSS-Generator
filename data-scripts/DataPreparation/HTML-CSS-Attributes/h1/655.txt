@@ -1,0 +1,24 @@
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+    background-color: white;
+	font-size: 25vw;
+	background-size: cover;
+	background-image: url(./images/background3.jpg);
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: auto;
+	padding: 0;
+	margin: 0;
+	border-top: 20px solid #dcd06f;
+	border-bottom: 20px solid #5e7a96;
+ background-image: url("./images/background3.jpg"); border: none;visibility: hidden; display: none;	.alt_header_mobile {
+		visibility: visible;
+		display: inline-block;
+		background-image: url("./images/background3.jpg");
+		background-size: cover;
+		height: 50vh;
+		width: 100%;
+		border-top: 20px solid #dcd06f;
+		border-bottom: 20px solid #5e7a96;
+border-top: 10px solid #dcd06f; border-bottom: 10px solid #5e7a96;

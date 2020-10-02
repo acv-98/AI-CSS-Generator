@@ -1,0 +1,9 @@
+  background-size: 100px 100px;
+  background-position: top center;
+  width: 25%;
+  min-height: 100px;
+  height: 100%;
+  float: left;
+  background-image: url("../img/feature/feature_mobile.svg");
+    background-size: 90px 90px;
+    margin-right: 10px;

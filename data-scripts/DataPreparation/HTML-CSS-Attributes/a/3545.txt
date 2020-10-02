@@ -1,0 +1,17 @@
+ display:none;
+	width: 420px;
+	height:40px;
+	position:relative;
+	margin-top:10px;
+	padding:10px;
+	display: inline-block;
+	color:#F4EEDE;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font-family:'cookies';
+	font-size:30px;
+	background-color:#DB778E;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	top: 1px;

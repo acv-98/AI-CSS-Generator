@@ -1,0 +1,4 @@
+
+   Project Details
+.project-details {
+	font-size:14px;

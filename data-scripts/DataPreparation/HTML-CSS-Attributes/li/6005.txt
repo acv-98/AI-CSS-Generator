@@ -1,0 +1,2 @@
+	color: #2e5306;
+	text-shadow: 1px 1px 0 #f2fcd9;

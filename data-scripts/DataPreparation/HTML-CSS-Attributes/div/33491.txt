@@ -1,0 +1,26 @@
+font-size: 28px !important;display: none !important;font-size: 22px !important;line-height: 28px !important;font-size: 16px !important; line-height: 22px !important;  
+ text-align: center; margin-bottom: 20px !important;font-size: 32px; color: #373435;font-family: 'source_sans_probold'; letter-spacing: 3px; padding-bottom: 10px; text-transform: uppercase; text-align: center !important;font-size: 18px; line-height: 24px; color: #676364;font-family: 'source_sans_proregular'; text-align: center !important;width:100%; *  Font Awesome 3.2.1
+ *  the iconic font designed for Bootstrap
+ *  ------------------------------------------------------------------------------
+ *  The full suite of pictographic icons, examples, and documentation can be
+ *  found at http://fontawesome.io.  Stay up to date on Twitter at
+ *  http://twitter.com/fontawesome.
+ *
+ *  License
+ *  - The Font Awesome font is licensed under SIL OFL 1.1 -
+ *    http://scripts.sil.org/OFL
+ *  - Font Awesome CSS, LESS, and SASS files are licensed under MIT License -
+ *  - Font Awesome documentation licensed under CC BY 3.0 -
+ *  - Attribution is no longer required in Font Awesome 3.0, but much appreciated:
+ *    "Font Awesome by Dave Gandy - http://fontawesome.io"
+ *  Author - Dave Gandy
+ *  Email: dave@fontawesome.io
+ *  Twitter: http://twitter.com/byscuits
+ *  Work: Lead Product Designer @ Kyruus - http://kyruus.com
+.icon-large {
+  font-size: 1.3333333333333333em;
+  margin-top: -4px;
+  padding-top: 3px;
+  margin-bottom: -4px;
+  padding-bottom: 3px;
+  vertical-align: middle;

@@ -1,0 +1,14 @@
+  position: absolute;
+  top: -34px;
+  right: 10px;
+  width: 7px;
+  height: 9px;
+  background-image:url(../img/carousel_arrows.png);
+  background-position:0 0;
+  background-repeat:no-repeat; 
+  outline:none;
+	background-position:-10px 0;
+	right:0; 
+  left: 15px;
+  margin-top: -17px;
+	left:auto;

@@ -1,0 +1,5 @@
+
+    padding-top: 250px;
+    color: #fff;
+    line-height: 6rem;
+    padding-bottom: 25px;

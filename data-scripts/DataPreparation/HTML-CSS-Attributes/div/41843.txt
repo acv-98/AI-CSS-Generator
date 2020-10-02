@@ -1,0 +1,14 @@
+     font-size: 58px;
+     font-weight: 700;
+     text-shadow: none;
+     color: #fff;
+     text-align: left;
+     line-height: 52px;
+     letter-spacing: -2px;
+         font-size: 25px;
+         font-weight: 700;
+         text-shadow: none;
+         color: #fff;
+         text-align: left;
+         line-height: 1.1;
+         display: none;

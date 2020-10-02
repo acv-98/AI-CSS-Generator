@@ -1,0 +1,2 @@
+	border-left:#cecece 1px solid;
+	padding-left:38px;

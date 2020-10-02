@@ -1,0 +1,9 @@
+	content: ".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+height: 1%;display: block;body {
+	font-family:Arial, Verdana, sans-serif;
+	color:#fff;
+	background:#474747 url(../images/nav-bg.png) top left repeat-x

@@ -1,0 +1,12 @@
+color: #454749;
+width: 600px;
+float: right;
+font-size: 14px;
+line-height: 18px;
+text-decoration: underline;
+padding-top: 5px;
+margin-top: 25px;
+border: 1px solid #000;
+margin-right: 5px;
+margin-bottom: 20px;
+margin-left: 0px;

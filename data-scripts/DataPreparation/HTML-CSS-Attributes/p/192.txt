@@ -1,0 +1,5 @@
+	font-size:11px;
+	color:#f9efe3;
+	text-align:center;
+	text-shadow:none;
+	padding-top:10px;

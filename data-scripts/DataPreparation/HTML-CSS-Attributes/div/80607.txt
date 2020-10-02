@@ -1,0 +1,11 @@
+		background:url(../images/design/footer-ct.png) left -15px no-repeat;
+		padding-left:39px;
+		width:284px;
+		padding-right:40px;
+		min-height:206px;
+			background:url(../images/design/footer-ct-768.png) left -15px no-repeat;
+			padding-left:34px;
+			width:284px;
+			padding-right:35px;
+			margin:0;
+			float:none;

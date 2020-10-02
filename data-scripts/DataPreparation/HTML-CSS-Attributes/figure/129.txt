@@ -1,0 +1,20 @@
+
+	background: #343434;
+	max-width: none;
+	width: -webkit-calc(100% + 20px);
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: translate3d(-10px,0,0);
+	transform: translate3d(-10px,0,0);
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	opacity: 0.4;
+	text-align: left;
+	position: relative;
+	overflow: hidden;
+	padding: 0.5em 0;
+	bottom: 0;
+	left: 0;
+	height: 3px;
+	content: '';
+	

@@ -1,0 +1,4 @@
+  margin-bottom: 20px;
+  font-weight: 700;
+  color: #353535;
+  text-decoration: none;

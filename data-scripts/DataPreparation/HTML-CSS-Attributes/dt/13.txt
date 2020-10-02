@@ -1,0 +1,1 @@
+	background:url("../images/letter-icon.gif") no-repeat left center;

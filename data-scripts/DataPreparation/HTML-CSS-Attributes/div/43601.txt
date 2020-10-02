@@ -1,0 +1,4 @@
+ border-color: #cfcfcf;  border-color: #cfcfcf; 	background-position: 0 0;
+	padding: 12px 0 0 35px;
+	color: #000000;
+ padding: 0; margin-top: 0; font-size: 12px;  position:relative; height: 12px; border-top:1px solid #CFCFCF; margin-top:15px;  position:absolute; top:-12px; right:0;  background: #fff; padding: 0 0 0 15px; float: right; font-size: 11px  text-transform: uppercase; color: #d38304;  background: none; padding: 0px;   margin: -6px 0 0; background: transparent; color: #000; color: #585555;

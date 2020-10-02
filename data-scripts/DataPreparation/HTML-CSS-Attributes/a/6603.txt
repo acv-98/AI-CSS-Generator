@@ -1,0 +1,1 @@
+width:245pxbackground:none repeat scroll 0 0 #DDD; height:20px; margin-right:0; margin-top:18px; width:95pxmargin-top:10px; width:100%float:none; height:23px; margin:0 auto 10px; width:155pxmargin-top:5px; width:97%background:none repeat scroll 0 0 #DDD; height:20px; margin-right:0; margin-top:28px; width:159pxmargin-right:22px; margin-top:40pxmargin-top:25px; width:350px

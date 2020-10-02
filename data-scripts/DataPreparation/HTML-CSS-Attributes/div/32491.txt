@@ -1,0 +1,13 @@
+        float:left
+    margin-right:-15px;
+    margin-left:-15px
+        margin-right:0;
+        margin-left:0
+    content:" ";
+    display:table
+    clear:both
+		float: right;
+		width: 100%;
+		margin: 0;
+		padding: 0 15px;
+	height:inherit;

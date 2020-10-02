@@ -1,0 +1,4 @@
+	margin:0 auto;
+	width:940px;
+	position:relative;
+	z-index:1;

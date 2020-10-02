@@ -1,0 +1,14 @@
+  color: #a5d549;
+  display: inline;
+  float: left;
+  padding: 150px 0 50px;
+  text-align: center;
+  width: 100%;
+  letter-spacing: 0.5px;
+  margin-top: 65px;
+  text-transform: uppercase;
+  background: none;
+  border: none;
+    padding: 100px 0 50px;
+    margin-top: 20px;
+    font-size: 25px;

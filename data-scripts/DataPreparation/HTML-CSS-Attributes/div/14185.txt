@@ -1,0 +1,4 @@
+	clear: both;
+	margin-bottom: 10px;
+	color: #af0303;
+	font-weight: bold;

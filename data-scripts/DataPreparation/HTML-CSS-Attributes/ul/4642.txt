@@ -1,0 +1,10 @@
+	float:left;
+	padding-right:1px;
+	width:27px;
+	padding-bottom:1px
+	display:block;
+	border:1px solid #e5e5e5;
+	height:18px;
+	color:#000;
+	text-decoration:none
+	background:#1d77e9;

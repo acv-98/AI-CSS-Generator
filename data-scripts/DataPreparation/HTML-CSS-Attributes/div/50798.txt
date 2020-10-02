@@ -1,0 +1,6 @@
+	min-height:142px;
+	height:auto !important;
+	padding:0 16px 16px 16px;
+	float:left;
+	padding-right:9px;
+	line-height:19px;

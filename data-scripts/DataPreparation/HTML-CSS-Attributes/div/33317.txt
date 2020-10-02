@@ -1,0 +1,1 @@
+background:none !important;background: url(../img/v-shadow.png)no-repeat right 0;

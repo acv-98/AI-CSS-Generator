@@ -1,0 +1,9 @@
+	width:100%;
+	margin:0 0 20px 0;
+	padding:0;
+	border-bottom:1px solid #333;
+	padding-bottom:11px;
+	border-width:5px;
+	float:right;
+	margin-bottom:25px;
+	font-size:24px;

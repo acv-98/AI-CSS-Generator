@@ -1,0 +1,8 @@
+    display: block;
+    font-size: 45px;
+    line-height: 55px;
+    content: "";
+    width: 60%;
+    height: 2px;
+    background: #8299cd;
+    margin: 0 auto;

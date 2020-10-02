@@ -1,0 +1,5 @@
+    position: relative;
+    top: -7px;
+    font: 30px/18px 'Roboto Condensed', sans-serif;
+    display: inline-block;
+    font-size: 30px;

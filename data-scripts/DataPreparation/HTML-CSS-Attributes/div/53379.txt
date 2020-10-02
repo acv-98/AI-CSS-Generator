@@ -1,0 +1,10 @@
+width:653px; 
+float:left;
+ width:296px; float:left; padding:0px 0px 0px 0px; margin:0px;.list_first_heading{
+	float:left;
+	width:296px;
+	border:1px solid #363637;
+	background:url(../images/sub_heading.jpg) left top repeat-x;
+	padding:0px 0px 4px 0px;
+	
+ width:296px; float:right; margin:0px; padding:0px;

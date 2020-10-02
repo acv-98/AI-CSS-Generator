@@ -1,0 +1,4 @@
+	background:url(../img/pw_maze_black_2X.png) left top repeat;
+	padding:35px 0 35px;
+	margin:15px auto 35px;
+	width: 76px;

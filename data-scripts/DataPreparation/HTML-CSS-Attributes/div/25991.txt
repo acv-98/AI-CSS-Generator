@@ -1,0 +1,3 @@
+		background: url(../images/bg.jpg) center -250px  no-repeat;	
+		width:100%;
+		height:250px;			

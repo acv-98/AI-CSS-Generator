@@ -1,0 +1,17 @@
+  padding: 12px 0 20px;
+ background:#ffce1b !important;.recommended .btn {
+  height: 52px;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  margin-top: 0;
+  width: 28%;
+  position: relative;
+  z-index: 99; color:#fff;
+  background: #000000;
+    min-height: 176px;
+    line-height: 32px;
+	color:#fff;
+background:#ffce1b;color:#000000; 
+.subscribe {
+  text-align: right;
+      max-width: 370px;

@@ -1,0 +1,5 @@
+	list-style:none;
+	background:url('images/list-style.gif') no-repeat 0 center;
+	padding-left:9px;
+	line-height:26px;
+	text-decoration:none;

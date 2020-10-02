@@ -1,0 +1,23 @@
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	clear: both;
+	display: block;
+	background: #150e0b;
+   border: 1px solid #261b15;
+	border: 1px solid #251a14;
+	background-color: #130d0a;
+ margin: 0 10px 0 5px;	 margin: 0 10px 0 5px;	 margin: 0 10px 0 5px;	.post .post-info, 
+#featured .post-info { 
+	margin-top: 0; 
+	text-transform: uppercase; 
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;	
+ color: #6f892c; border: none; font-weight: bold .post .tags {
+	border-top: 1px solid #34251C;
+	border-bottom: 1px solid #30221A;
+ color: #6f892c; ol.commentlist {
+	border-style: solid;	
+	border-color: #2C1F18;	
+	border-width: 1px 1px 0 1px;		
+	color: #F1E3D8;
+	margin-left: 0;

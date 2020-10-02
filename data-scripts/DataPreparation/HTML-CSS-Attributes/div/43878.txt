@@ -1,0 +1,10 @@
+		background-color:#fff
+		color: #777;
+	background-image:none;
+	box-shadow:none;
+	font-family: "Open Sans","Helvetica","Arial";
+	text-transform:uppercase;
+	letter-spacing:0.8;
+	font-size: 0.875em;
+	text-rendering: optimizeLegibility;
+	margin-top: 35px;

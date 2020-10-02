@@ -1,0 +1,6 @@
+background:#EFEFEF url(../images/bg.jpg) repeat top left;
+border:none;
+padding:20px 20px 0;
+text-align:justify;
+color:#FF5A14;
+padding-top:15px;

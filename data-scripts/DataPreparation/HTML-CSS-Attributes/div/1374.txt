@@ -1,0 +1,4 @@
+    color: #888888;
+    font-size: 13px;
+    font-family: 'Open Sans';
+    padding: 0 5px;

@@ -1,0 +1,1 @@
+float:left; width:274pxfloat:left; width:258px; height:51px; font:bold 18px/20px "Adobe Garamond Pro", Arial, Helvetica, sans-serif; color:#fcd35d; background:url(../images/form_heading_bg.gif) no-repeat 0 0; padding:10px 0 0 16pxfloat:left; width:270px; background:#d4a057; border-bottom:4px solid #c98c44; border-right:4px solid #ca8d46; padding:16px 0 0 0

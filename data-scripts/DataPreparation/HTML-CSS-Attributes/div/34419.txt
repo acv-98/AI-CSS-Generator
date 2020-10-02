@@ -1,0 +1,1 @@
+	background:url(../images/bg_top2.gif) top center repeat-x;

@@ -1,0 +1,17 @@
+  margin-top: 4.2rem;
+  width: 7.4rem;
+  height: 7.4rem;
+  display: block;
+  border-radius: 50%;
+  vertical-align: middle;
+  text-align: center;
+  font-family: "librebaskerville-bold", sans-serif;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  color: #151515;
+  line-height: 1.313;
+  letter-spacing: 0;
+  text-transform: none;
+    width: 6.6rem;
+    height: 6.6rem;
+    font-size: 1.8rem;

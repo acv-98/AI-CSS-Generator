@@ -1,0 +1,22 @@
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  text-decoration: none;
+  display: block;
+    margin-left: -15px;
+  color: #777;
+  background-color: transparent;
+    text-shadow: none;
+	line-height: 80px;
+	padding: 0px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 25px;
+	text-transform: uppercase;
+	color: #fff!important;
+	transition: all 0.5s;
+	 
+	font-style: normal;
+    font-weight: 800;
+        padding-left: 0;

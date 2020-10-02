@@ -1,0 +1,5 @@
+ width: 150px; 
+ width: 150px;     display: inline-block;
+    width: 160px;
+    margin: 0 10px;
+    font-size: 18px;

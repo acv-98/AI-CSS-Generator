@@ -1,0 +1,10 @@
+  color: #b3b3b3;
+  margin-bottom: 3em;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-family: "Montserrat", Arial, sans-serif;
+  display: block;
+  float: left;
+  margin-top: 15px;
+  font-weight: bold;

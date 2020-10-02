@@ -1,0 +1,1 @@
+text-align: center !important;text-align: center !important;font-family: 'open_sansregular'; background: #2bbbdf; overflow: hidden; padding: 15px; margin-top: -25px;

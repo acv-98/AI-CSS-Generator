@@ -1,0 +1,6 @@
+		margin-bottom: 30px;
+	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease-in-out 0s;
+	-webkit-transform: translateY(6px);
+	transform: translateY(6px);

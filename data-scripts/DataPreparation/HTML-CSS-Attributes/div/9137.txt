@@ -1,0 +1,1 @@
+float:leftwidth:290px;padding:94px 0 170px 0padding:0 43px 0 41pxline-height:1.43em;padding-bottom:18pxdisplay:block;font-size:.86em;padding-bottom:5pxtext-decoration:nonecolor:#000

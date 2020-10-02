@@ -1,0 +1,11 @@
+	background-image:url(../images/plus.png);
+	background-repeat:no-repeat;
+	background-position:left 13px;
+	line-height:24px;
+	float:left;
+	height:19px;
+	text-indent:30px;
+	width:300px;
+	border-top-width:1px;
+	border-top-style:dotted;
+	border-top-color:#E1E1E1;

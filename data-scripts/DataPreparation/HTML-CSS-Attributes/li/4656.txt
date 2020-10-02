@@ -1,0 +1,7 @@
+	background:url(../images/left-brace.gif) no-repeat left center;
+	line-height:21px;
+	margin-top:23px;
+	padding-left:2px;
+	color:#00ffeb;
+	font-weight: bold;
+	text-shadow: 0 -1px 1px #000000;

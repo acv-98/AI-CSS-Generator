@@ -1,0 +1,4 @@
+	background: #EDEDED;
+	padding: 1em;
+	border-left: 3px solid #40A6CF;
+	font-style: italic;

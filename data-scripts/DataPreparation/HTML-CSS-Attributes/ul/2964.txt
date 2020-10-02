@@ -1,0 +1,16 @@
+	margin: 0;
+	display: inline;
+	list-style: none;
+	text-indent: -9999px;
+	margin-left: 10px;
+	float: left;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	height: 32px;
+	width: 32px;
+background-position: 0 -32px;

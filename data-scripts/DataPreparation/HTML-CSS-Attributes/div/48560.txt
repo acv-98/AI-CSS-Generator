@@ -1,0 +1,12 @@
+	font-family: 'Great Vibes', cursive;
+	font-size:53px;
+	line-height:65px;
+	color:#131313;
+	overflow:hidden;
+	text-shadow:#a7a7a7 0 0 5px;
+	padding-left:12px;
+	padding-right:10px;
+	display:inline-block;
+	margin-top:-7px;
+	font-weight:normal;
+	text-align:right;

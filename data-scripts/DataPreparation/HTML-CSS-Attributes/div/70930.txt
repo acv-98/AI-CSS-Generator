@@ -1,0 +1,6 @@
+	padding:50px;
+	background:#ddd;
+	margin-bottom:30px;
+	font-weight:800;
+	margin-top:20px;
+	border-radius:6px;

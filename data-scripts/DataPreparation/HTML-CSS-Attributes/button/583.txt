@@ -1,0 +1,26 @@
+    color: #FFF;
+    font-size: 13px;
+    font-family: "Open Sans";
+    font-weight: 700;
+    letter-spacing: 2px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+  padding: 0.3em 1.3em;
+  height: auto;
+  border-radius: 0 2px 2px 0;
+  vertical-align: top;
+  line-height: 1.65em;
+  text-align: center;
+  text-decoration: none;
+  -webkit-appearance: none;
+  outline: none;
+  box-shadow: none;
+  cursor: pointer;
+  background: #e0e3e5;
+  border-color: #b3b6b7;
+  border-width: 2px;
+  content: "";
+  clear: both;
+  float: left;
+-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box

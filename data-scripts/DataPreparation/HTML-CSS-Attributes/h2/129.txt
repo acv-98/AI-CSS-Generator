@@ -1,0 +1,5 @@
+  font-size: 24px;
+  margin-bottom: 50px;
+  padding: 0px 25px 0px 0px;
+  border-right: 5px solid #BE2525;
+    margin-bottom: 15px;

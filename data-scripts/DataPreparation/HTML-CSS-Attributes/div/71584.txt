@@ -1,0 +1,15 @@
+  color:#858586;
+  font-size: 14px;
+  border-right: 1px solid #e7e7e7;
+  padding-right: 15px;
+  position: relative;
+  content: "";
+  width: 9px;
+  height: 9px;
+  top: 50%;
+  margin-top: -5px;
+  background: #FFF;
+  -webkit-transform: rotate(45deg);
+  right: -5px;
+  border-left: 0 none;
+  border-bottom: 0 none;

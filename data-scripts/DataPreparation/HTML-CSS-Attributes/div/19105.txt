@@ -1,0 +1,7 @@
+	background:url(../img/quote_arrow2.png) no-repeat right top;
+	position:absolute;
+	width:23px;
+	height:25px;
+	right:-22px; 
+	top:50%;
+	margin-top:-15.5px;

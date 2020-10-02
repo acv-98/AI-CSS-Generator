@@ -1,0 +1,98 @@
+    color: #CC7833;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+  font-weight: normal;
+  line-height: 1;
+  font-size: 65%;
+  display: block;
+  content: '\2014 \00A0';
+  text-align: right;
+  background-color: #dff0d8;
+  background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.1), rgba(0,0,0,0));
+  padding-bottom: 0;
+  margin-bottom: 9px;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  padding-top:    11px;
+  border-left: 1px solid #f5f5f5;
+  border-right: 1px solid #e5e5e5;
+  padding-left: 13px;
+  border-right-color: #ddd;
+  -webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,.05);
+     -moz-box-shadow: inset 0 3px 5px rgba(0,0,0,.05);
+          box-shadow: inset 0 3px 5px rgba(0,0,0,.05);
+  border-top-color: #777;
+    position: fixed;
+    top: 40px;
+    left: 0;
+    right: 0;
+    border-color: #d5d5d5;
+    -webkit-border-radius: 0;
+       -moz-border-radius: 0;
+            border-radius: 0;
+    -webkit-box-shadow: inset 0 1px 0 #fff, 0 1px 5px rgba(0,0,0,.1);
+       -moz-box-shadow: inset 0 1px 0 #fff, 0 1px 5px rgba(0,0,0,.1);
+            box-shadow: inset 0 1px 0 #fff, 0 1px 5px rgba(0,0,0,.1);
+    width: 938px;
+    margin: 0 auto;
+    padding: 0 1px;
+  float: left;
+  margin-top: 10px;
+  min-height: 30px;
+    z-index: auto;
+    height: auto;
+    float: none;
+    border-top: 1px solid #e5e5e5;
+      -webkit-border-radius: 4px 4px 0 0;
+         -moz-border-radius: 4px 4px 0 0;
+              border-radius: 4px 4px 0 0;
+    margin-bottom: 5px;
+    font-weight: bold;
+     color: #0d43fa;
+     font-weight: normal;
+    font-style: italic;
+	color: #EC7600;
+    background-color: #FFF0F0;
+color:#000margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline * Solarized Dark theme
+ *
+ * Adaptation of Solarized Dark from ethanschoonover.com/solarized
+ * @author Ethan Schoonover
+ * @author David Litmark
+ * @version 1.0.0
+pre {
+    word-wrap: break-word;
+    font-size: 14px;
+	text-transform:uppercase;
+	font-size:30px;
+	letter-spacing:5px;
+	text-align:center;
+	margin-bottom:30px;
+	background-color:#fff;
+	padding:30px;
+	  position: relative;
+	-moz-transition:all .2s;
+	-o-transition:all .2s;
+	-webkit-transition:all .2s;
+	transition:all .2s;
+	width:20px;
+	height:20px;
+	position:relative;
+	border:2px solid #ccc;
+	border-radius:50%;
+	line-height:30px;
+	margin-left:2px;
+	display:inline-block;
+	
+	z-index: 4;
+					margin-bottom:30px;
+					padding-top:30px;
+					padding-bottom:30px;
+    padding-left: 0px;
+	font-weight: bold;

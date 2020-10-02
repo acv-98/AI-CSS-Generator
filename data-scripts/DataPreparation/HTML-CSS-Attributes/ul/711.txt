@@ -1,0 +1,17 @@
+	position:absolute;
+	left:0;
+	top:0;
+	z-index:3
+	width:250px;
+	height:155px
+	display:block;
+	cursor:pointer;
+	padding:29px 0 0 33px;
+	font-size:50px;
+	line-height:1.2em;
+	font-weight:400;
+	color:#fff;
+	text-decoration:none;
+	text-transform:uppercase;
+	letter-spacing:-1px;
+	margin-top:-10px;

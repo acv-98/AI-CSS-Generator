@@ -1,0 +1,3 @@
+	text-decoration:none;
+	color:#00c3ff;
+	font-weight:normal;

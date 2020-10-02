@@ -1,0 +1,14 @@
+	padding: 0 10px;
+	outline: none;
+	text-align: center;
+	-webkit-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+	display: inline;
+	float: left;
+	margin-top: 20px;
+	width: 100%;
+	margin-bottom: 4px;
+	font-size: 22px;
+	margin-right: 5px;
+	-o-transition: all 0.5s;
+		font-size: 18px;

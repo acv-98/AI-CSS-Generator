@@ -1,0 +1,5 @@
+	width:156px;
+	margin-right:44px;
+	margin-left:50px;
+	font-size:14px;
+	float:left;

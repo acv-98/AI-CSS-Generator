@@ -1,0 +1,12 @@
+	display: inline;
+	float: left;
+	width: 100%;
+	font-size: 15px;
+	height: 35px;
+	line-height: 33px;
+	text-align: center;
+	margin: 0 5px;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+	border-radius: 50%;
+	background-color: #fff;

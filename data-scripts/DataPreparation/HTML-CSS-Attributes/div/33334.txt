@@ -1,0 +1,2 @@
+margin: 0;list-style: none; display: inline-block; margin-right: 8px;	.social ul li a [class^="fw-icon-"]{color: #656565;  font-size: 22px; width: 15px; 
+color: #fff; text-decoration: none;

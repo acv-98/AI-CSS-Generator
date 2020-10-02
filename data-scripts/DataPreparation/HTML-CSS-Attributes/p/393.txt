@@ -1,0 +1,7 @@
+	display:block;
+	background:url(images/quote.gif) left top no-repeat;
+	padding:5px 0 0 20px;
+	font:normal 12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	line-height:20px;
+	color:#7a7953;
+	padding-top:10px;

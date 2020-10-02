@@ -1,0 +1,1 @@
+display:inline; float:left; padding:0 15px 25px; width:100%font-size:45px; font-weight:400; text-transform:uppercase; text-align:centertext-align:center

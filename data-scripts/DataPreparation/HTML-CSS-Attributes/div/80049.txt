@@ -1,0 +1,5 @@
+    border-top: 1px solid #DDD;
+    margin: 15px 0 0 0;
+    padding: 20px 0 15px 0;
+    font-weight: 200;
+    margin-right: 7px;

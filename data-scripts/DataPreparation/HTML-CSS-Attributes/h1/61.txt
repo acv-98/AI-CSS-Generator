@@ -1,0 +1,5 @@
+    padding-top:50px;
+    padding-bottom:30px;
+    font-size:30px;
+    text-align:center;
+    line-height:45px

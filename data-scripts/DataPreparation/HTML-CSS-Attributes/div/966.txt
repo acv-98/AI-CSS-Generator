@@ -1,0 +1,5 @@
+	float:right;
+	width:220px;
+	height:38px;
+	padding-left:10px;
+	background:url(../images/search-bg.jpg) 0 0 no-repeat;

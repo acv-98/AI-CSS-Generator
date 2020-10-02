@@ -1,0 +1,5 @@
+  text-align: right;
+  letter-spacing: normal;
+  margin-left: 5px;
+  padding-left: 37px;
+  padding-right: 37px;

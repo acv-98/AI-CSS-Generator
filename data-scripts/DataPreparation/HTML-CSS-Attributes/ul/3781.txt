@@ -1,0 +1,15 @@
+	font-family: "Open Sans", Verdana, Arial, sans-serif;
+	float: right;
+	margin: 0px 40px 0px 0px;
+	text-transform: uppercase;
+	font-weight: 300;
+	cursor: pointer;
+	display: inline-block;
+	padding: 30px 10px 31px 10px;
+	font-size: 12px;
+	color: #838282;
+	-webkit-transition: color 400ms ease;
+	-moz-transition: color 400ms ease;
+	-o-transition: color 400ms ease;
+	-ms-transition: color 400ms ease;
+	transition: color 400ms ease;

@@ -1,0 +1,29 @@
+ float: none !important; width: 26% !important;
+  .hidden-desktop {
+    display: inherit !important;
+float: none !important;width: 5% !important;display: inline-block !important;  width: 12% !important;	list-style: none;
+	padding: 0;
+	
+	display: inline-block !important;  width: 10%; float: left; text-align: center;display: block;	float: left; width: 100%;.grid li {
+	width: 100%;
+	opacity: 1;
+	outline: none;
+	border: none;
+	-webkit-animation: fadeIn 0.65s ease forwards;
+	-moz-animation: fadeIn 0.65s ease forwards;
+	animation: fadeIn 0.65s ease forwards;
+margin: 0; padding: 0; width: 100%;.grid.effect-2 li.animate {
+	-webkit-transform: translateY(200px);
+	-moz-transform: translateY(200px);
+	transform: translateY(200px);
+	-webkit-perspective: 1300px;
+	-moz-perspective: 1300px;
+	perspective: 1300px;
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-transform-origin: 50% 50% -300px;
+	-moz-transform-origin: 50% 50% -300px;
+	transform-origin: 50% 50% -300px;
+		width: 100%;
+display: inline-block;margin-top: 15px !important; float: none !important; ; width: 16% ;text-decoration: none !important;text-align: center;

@@ -1,0 +1,12 @@
+  display: table;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 2em auto;
+  border: 2px solid #eaeaea;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  vertical-align: middle;
+  font-size: 40px;

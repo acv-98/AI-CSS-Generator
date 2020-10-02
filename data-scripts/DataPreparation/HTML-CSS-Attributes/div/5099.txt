@@ -1,0 +1,15 @@
+.mymodalcontentarea .main_modal_body{
+    width:100%;
+    overflow: hidden;
+    height: 550px;
+.mymodalcontentarea .single_right_content .singel_top_modal_content{
+    margin:35px 0px;
+    float:left;
+    color:#ab987a;
+    padding-right: 20px;
+.mymodalcontentarea .single_right_content .single_modal_content p.subtitle{
+    font-size:1.125rem;
+.mymodalcontentarea .single_right_content .modal_socail{
+    margin-top: 70px;
+    text-transform: uppercase;
+    font-weight: bold;

@@ -1,0 +1,11 @@
+  background-color: #d9edf7;
+    color: #FF5800;
+    transition: all 0.3s ease-in;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    margin-bottom: 10px;
+    font-size: 26px;
+    line-height: 20px;

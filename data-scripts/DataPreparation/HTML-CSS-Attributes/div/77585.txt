@@ -1,0 +1,4 @@
+	width:803px;
+	margin:0px auto;
+	padding:0px 0px 0px 200px;
+	

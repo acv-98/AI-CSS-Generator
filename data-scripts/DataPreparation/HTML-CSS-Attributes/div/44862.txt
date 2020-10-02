@@ -1,0 +1,14 @@
+	width: 220px;
+	height: 185px;
+	position: relative;
+	z-index: 10;
+	display: none;
+	background-color: rgba(96, 147, 231, 0.6);
+	border-bottom: 3px solid #6093e7;
+	margin-top: 0px;
+	padding-top: 40px;
+	font-size: 40px;
+	font-weight: 400;
+	color: #FFF;
+	left: -10px;
+	opacity: 1;

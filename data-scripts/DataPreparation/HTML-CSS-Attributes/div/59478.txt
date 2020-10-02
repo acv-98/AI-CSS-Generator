@@ -1,0 +1,2 @@
+    margin-bottom: 7px;
+    color: #2a6496;

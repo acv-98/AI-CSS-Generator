@@ -1,0 +1,8 @@
+	padding:0;
+	margin:0;
+	background:url(../images/header_bg.gif) repeat-x left 78px;
+	float:right;
+	width:680px;
+	margin-bottom:0;
+	border:1px solid #b3cade;
+	color:#fff;

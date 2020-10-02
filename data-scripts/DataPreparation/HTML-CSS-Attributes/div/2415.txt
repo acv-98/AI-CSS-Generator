@@ -1,0 +1,5 @@
+	background-color:#000000;
+	opacity:0.4;
+	filter: alpha(opacity=400);
+	transition:2s;
+	cursor:pointer;

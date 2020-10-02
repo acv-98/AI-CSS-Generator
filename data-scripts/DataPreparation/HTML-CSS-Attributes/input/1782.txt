@@ -1,0 +1,4 @@
+    width: 170px;
+    *width: 14.476723040552828%;
+  float: none;
+  margin-left: 0;

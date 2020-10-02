@@ -1,0 +1,11 @@
+    padding: 60px 65px;
+    background-color: #fff;
+   margin-bottom:20px;
+    list-style: none;
+    font-size: 16px;
+    line-height: 27px;
+        line-height: 22px;        
+        font-size: 13px;
+        margin-bottom: 15px !important;
+        background-color: #fff;        
+        padding: 25px;

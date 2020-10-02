@@ -1,0 +1,5 @@
+  position: relative;
+  margin: 0;
+  background: #fff;
+  border: 1px solid #eee;
+  padding: 10px 10px 0;

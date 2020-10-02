@@ -1,0 +1,6 @@
+    border-color: #c84600;
+    color: #ff5800;
+    background-color: #c84600;
+    outline: none;
+    cursor: pointer;
+    margin-top: -20px;

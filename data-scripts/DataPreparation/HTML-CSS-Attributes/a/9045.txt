@@ -1,0 +1,8 @@
+	display:inline-block;
+	font-size:20px;
+	color:#faf3ed;
+	line-height:34px;
+	padding:0 15px;
+	background:#a80002;
+	letter-spacing:-1px
+	text-decoration:none;

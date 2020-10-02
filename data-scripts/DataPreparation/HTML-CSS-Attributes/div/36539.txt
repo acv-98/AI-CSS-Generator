@@ -1,0 +1,5 @@
+  margin-bottom: 20px !important;
+  float: left;
+  width: 100%;
+  font-size: 17px;
+  color: #ccc;

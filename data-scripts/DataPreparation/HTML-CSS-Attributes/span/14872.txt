@@ -1,0 +1,8 @@
+	display: inline-block;
+	position: relative;
+	-webkit-animation: moveUp 0.4s forwards;
+	animation: moveUp 0.4s forwards;
+	-webkit-animation-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+	animation-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+	-webkit-animation-delay: 0.05s;
+	animation-delay: 0.05s;

@@ -1,0 +1,2 @@
+  margin-left: -10px;
+margin-left: -20px;.single_footer_top{color: #999;

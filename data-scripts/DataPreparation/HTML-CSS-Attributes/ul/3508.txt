@@ -1,0 +1,6 @@
+	margin:28px 10px 0px 0px;
+	display:inline-block;
+	float:left;
+	line-height:30px;
+	font-size:25px;
+	color:#f2f2f2;

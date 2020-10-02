@@ -1,0 +1,8 @@
+    width: 80%;
+    font-size: 17px;
+    line-height: 1.25;
+    font-weight: 700;
+    color: #000;
+    margin: 10px 0px;
+    text-align: left;
+    margin-bottom: 20px;

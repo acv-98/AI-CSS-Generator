@@ -1,0 +1,7 @@
+	background:url(../images/open-close.png) no-repeat center;
+	width:24px;
+	height:24px;
+	margin:0 auto;
+	padding:25px 0;
+	cursor:pointer;
+	overflow:hidden;

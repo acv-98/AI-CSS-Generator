@@ -1,0 +1,5 @@
+	float:left;
+	padding: 30px 20px 20px 20px;
+	font-weight:700;
+	letter-spacing:-2px;
+	font-size:36px;

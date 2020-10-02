@@ -1,0 +1,4 @@
+	background:url(../images/white-left-brace.gif) no-repeat scroll left center;
+	padding-left:13px;
+	color:#fff;
+	font-style:normal;

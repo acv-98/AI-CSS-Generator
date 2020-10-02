@@ -1,0 +1,11 @@
+	border-radius: 0;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 12px;
+	padding: 0 30px;
+	line-height: 50px;
+	background-color: #34495e;
+	color: #FFF;
+.navbar-default {
+	margin-bottom: 0;
+	margin-top: 10px;

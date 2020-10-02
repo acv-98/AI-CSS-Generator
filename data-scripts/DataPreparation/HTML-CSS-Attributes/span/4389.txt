@@ -1,0 +1,4 @@
+	width:65%;
+	-moz-animation: php 15s ease-out;
+	-webkit-animation: php 15s ease-out;
+	background-color: #334d66;	

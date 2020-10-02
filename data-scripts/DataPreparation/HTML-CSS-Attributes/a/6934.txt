@@ -1,0 +1,2 @@
+	color: #0277bd;
+	font-size: 14px;

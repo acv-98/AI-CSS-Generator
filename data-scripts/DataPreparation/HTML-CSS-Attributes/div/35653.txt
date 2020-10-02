@@ -1,0 +1,12 @@
+	margin:0 auto;
+	padding:0;
+	width:930px;
+	background: url(images/fbg_bg.gif);
+	border-top:1px solid #d5d5d5;
+	border-bottom:1px solid #d5d5d5;
+	float:left;
+	color:#464646;
+	font:normal 30px Arial, Helvetica, sans-serif;
+	line-height:1.8em;
+	text-decoration:none;
+	list-style:none;

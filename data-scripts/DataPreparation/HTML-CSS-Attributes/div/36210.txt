@@ -1,0 +1,11 @@
+	margin:0;
+	padding:0;
+	float:right;
+	width:400px;
+	list-style:none;
+	background:url(images/menu_line.gif) no-repeat right center;
+	display:block;
+	color:#7b7a7a;
+	text-decoration:none;
+	font-size:13px;
+	font-weight:bold;

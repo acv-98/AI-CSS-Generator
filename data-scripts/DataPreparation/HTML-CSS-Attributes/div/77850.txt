@@ -1,0 +1,13 @@
+    text-align: center;
+    margin-bottom: 30px;
+    background: #ffffff;
+    box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
+    padding: 23px 0;
+    border-bottom: 1px dashed #cccccc;
+    font-size: 20px;
+    font-weight: 700;
+    color: #c1c1c1;
+    line-height: 30px;
+       font-size: 18px;
+       font-weight: 600;
+       line-height: 29px;

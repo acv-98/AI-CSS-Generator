@@ -1,0 +1,12 @@
+	margin-bottom: 45px;
+	border-radius: 100%;
+	display: inline-block;
+	height: 120px;
+	width: 120px;
+	line-height: 120px;
+	position: relative;
+	font-size: 21px;
+	color: #51c2b9;
+	transition: all 0.3s ease-in-out;
+	top: -1px;
+	left: -1px;

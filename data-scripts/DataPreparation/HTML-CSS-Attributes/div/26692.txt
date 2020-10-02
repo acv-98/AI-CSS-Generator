@@ -1,0 +1,1 @@
+ position: relative; padding-left: 135px; padding-top: 39px; padding-bottom: 51px;  width: 108px; height: 136px; background: url(images/ico.png) no-repeat 0 0; position: absolute; left: 10px; top: 0;  padding-bottom: 16px; 

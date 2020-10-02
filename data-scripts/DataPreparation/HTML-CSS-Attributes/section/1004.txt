@@ -1,0 +1,12 @@
+	padding: 95px 0px;
+    background: url(../images/bg/bg.jpg);
+    background-size: cover;
+	background-attachment: fixed;
+	width: auto !important;
+	font-size: 60px;
+	color: #ffffff;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+		width: 100% !important;
+		font-size: 40px;

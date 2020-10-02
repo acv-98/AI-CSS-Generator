@@ -1,0 +1,7 @@
+    border: 1px solid rgba(0, 0, 0, 0.90);
+    font-size: 16px;
+    height: 45px;
+	background:#fad663;
+	border-radius: 15px 15px 15px 15px;
+	
+    border-color: #000000;

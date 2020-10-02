@@ -1,0 +1,7 @@
+	height:32px;
+	border-top:1px dashed #000;
+	background:url(images/photo-name-bg.gif) no-repeat center 7px;
+	margin-top:15px;
+	color:#231f19;
+	text-align:center;
+	padding-top:8px;

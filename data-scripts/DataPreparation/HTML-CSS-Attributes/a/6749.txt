@@ -1,0 +1,8 @@
+	font-size: 14px;
+	padding: 4px 16px;
+	display: inline-block;
+	margin: 10px;
+	border-radius: 2px;
+  transition: background-color 0.15s ease-out;
+	background-color: #444;
+	color: #fff;

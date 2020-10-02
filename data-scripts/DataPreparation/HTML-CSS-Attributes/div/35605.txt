@@ -1,0 +1,2 @@
+	background-color: #A4A430;
+	color: #FFF;

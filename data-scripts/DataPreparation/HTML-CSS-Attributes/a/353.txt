@@ -1,0 +1,6 @@
+	font-size: 27px;
+	color: #000;
+	letter-spacing: 3px;
+	font-weight: 300;
+	float: left;
+	text-transform: uppercase;

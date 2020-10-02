@@ -1,0 +1,2 @@
+	padding-top: 36px;
+	border-top: 1px dotted rgba(150, 150, 150, 0.1);

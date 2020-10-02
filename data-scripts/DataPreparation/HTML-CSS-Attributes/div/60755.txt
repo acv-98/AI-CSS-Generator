@@ -1,0 +1,4 @@
+		opacity: 1;
+		visibility: visible;
+		display:block;
+		position:relative;	

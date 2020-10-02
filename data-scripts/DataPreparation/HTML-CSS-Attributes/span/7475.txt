@@ -1,0 +1,12 @@
+	font-size: 0.85em;
+	color: #FFF;
+	background:#FFAF02;
+	text-transform: uppercase;
+	padding:9px;
+	text-align: center;
+	display: block;
+	min-width: 70px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 1;

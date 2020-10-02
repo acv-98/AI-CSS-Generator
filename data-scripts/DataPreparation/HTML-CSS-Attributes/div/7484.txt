@@ -1,0 +1,1 @@
+ background:url(../images/bg3.jpg) repeat-x center; height:63px; padding-top:45px;text-align:center; color:#feaf32; color:#feaf32; text-decoration:none; color:#ffffff; color:#ffffff;

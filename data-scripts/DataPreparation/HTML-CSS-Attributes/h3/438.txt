@@ -1,0 +1,7 @@
+  top: 50px;
+  position: relative;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: 0.8s;
+  -o-transition: 0.8s;
+  transition: 0.8s;

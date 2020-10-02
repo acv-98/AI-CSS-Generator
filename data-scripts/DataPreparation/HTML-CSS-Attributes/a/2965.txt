@@ -1,0 +1,25 @@
+  color: #fff;
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  text-decoration: none;
+  display: block;
+    margin-left: -15px;
+  background-color: transparent;
+  border-right: 1px solid #eee;
+-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.05);box-shadow:0 1px 1px rgba(0,0,0,0.05) * Skin: Blue
+ * ----------
+.skin-blue .main-header .navbar {
+background-color:#3c8dbc.icheckbox_square,
+.iradio_square {
+    display: inline-block;
+    *display: inline;
+    vertical-align: middle;
+    padding: 0;
+    width: 22px;
+    height: 22px;
+    background: url(square.png) no-repeat;
+    border: none;
+    cursor: pointer;

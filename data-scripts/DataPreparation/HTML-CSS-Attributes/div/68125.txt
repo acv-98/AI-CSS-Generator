@@ -1,0 +1,1 @@
+ padding-left: 44px  !important;  width: 234px; padding-left: 15px;  padding-bottom: 14px; 

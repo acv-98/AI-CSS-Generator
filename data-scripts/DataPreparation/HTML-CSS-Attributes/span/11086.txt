@@ -1,0 +1,8 @@
+		font-size: 13px;
+		color: #3C3B3B;
+		margin: 25px auto 25px;
+		display: table;
+		width: 100%;
+		position: relative;
+		left: 40.5px;
+		font-weight: 500;

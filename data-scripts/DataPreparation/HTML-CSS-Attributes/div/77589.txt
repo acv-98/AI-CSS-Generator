@@ -1,0 +1,7 @@
+	width:237px;
+	float:left;
+	margin:0px 0px 0px 0px;
+	padding:357px 33px 0px 334px;
+	background-image: url(../images/header_img.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;

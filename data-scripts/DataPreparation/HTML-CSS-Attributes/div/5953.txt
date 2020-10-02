@@ -1,0 +1,12 @@
+  height: 100vh;
+  width: 100vw;
+  content: 'viewport-units-buggyfill; height:100vh; width: 100vw';
+  display: table-cell;
+  vertical-align: middle;
+    height: auto !important;
+    padding: 3em 0;
+    width: 100vw;
+    content: 'viewport-units-buggyfill; height:100vh; width: 100vw';
+  padding-top: 3em;
+  color: black;
+  margin-bottom: 20px;

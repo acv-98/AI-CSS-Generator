@@ -1,0 +1,7 @@
+	margin-bottom:8px;
+	padding:6px 12px;
+	color:#fff;
+	background-color:#00aeff;
+	text-decoration:underline;
+	float:right;
+	font-weight:normal;

@@ -1,0 +1,7 @@
+  -webkit-appearance: none;
+  padding: 0;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  margin-top: -2px;
+  float: right;

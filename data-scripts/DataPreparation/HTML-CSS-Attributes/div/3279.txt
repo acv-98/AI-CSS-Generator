@@ -1,0 +1,10 @@
+	display: none;
+	position: absolute;
+	width: 220px;
+	background: #fff;
+	border: 1px solid #e6e6e6;
+	text-align: center;
+	color: #5e5e5e;
+	padding: 20px 10px;
+	z-index: 999;
+	box-sizing: border-box;

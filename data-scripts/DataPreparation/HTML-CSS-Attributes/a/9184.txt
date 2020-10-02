@@ -1,0 +1,15 @@
+    color:#fff;
+	height:40px;
+	width:40px;
+	font-size:22px;
+	line-height:40px;
+	text-align:center;
+	text-decoration:none;
+	position:fixed;
+	bottom:20px;
+	right:40px;	
+	opacity:0,5;
+	border-radius:50%;
+	z-index:999;
+	background-color:#ED502E;
+	color:#fff;;	

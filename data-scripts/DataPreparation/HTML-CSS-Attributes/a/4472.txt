@@ -1,0 +1,4 @@
+    border-color: #ffffff;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 40px;

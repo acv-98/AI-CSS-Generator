@@ -1,0 +1,11 @@
+  font-family: 'elegant-theme-line';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+	color: #00aeda;
+	font-size: 50px;
+	padding-left: 15px;

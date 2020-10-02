@@ -1,0 +1,14 @@
+	padding-top: 125px;
+	text-align: center;
+	position: relative;
+	display: block;
+	content: '';
+	z-index: 1;
+	width: 0px;
+height: 0px;
+border-style: solid;
+border-width: 37px 50px 0 50px;
+border-color: #334960 transparent transparent transparent;
+	left: 50%;
+	margin-left: -50px;
+	top: 0;

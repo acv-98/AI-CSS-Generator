@@ -1,0 +1,18 @@
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 90%;
+  -webkit-transform: translateY(-50%) translateX(-50%);
+  -ms-transform: translateY(-50%) translateX(-50%);
+  transform: translateY(-50%) translateX(-50%);
+  font-size: 24px;
+  font-weight: 600;
+  color: red;
+  margin-left: 7px;
+  padding-left: 4px;
+  font-family: FontAwesome;
+  font-style: normal;
+  content: "\f071";
+  margin-right: 5px;
+    font-size: 21px;

@@ -1,0 +1,18 @@
+	margin:30px 0px 30px 0px;
+	float:left;
+	width:960px;
+	display:block;
+	clear:both;
+	color:#838383;
+	background:url(../images/footer-content-separator.png) repeat-x top;
+	padding-top:30px;
+	background-position:right top;
+	height:80px;
+	position:relative;
+	padding-right:35px;
+	line-height:30px;
+	font-size:11px;
+	text-indent:-9999em;
+	overflow:hidden;
+	left:444px;
+	top:12px;

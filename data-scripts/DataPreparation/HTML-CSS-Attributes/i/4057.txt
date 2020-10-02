@@ -1,0 +1,5 @@
+	padding-left: .5em;
+	color: #55ACEE;
+	font-size: 3em;
+ -webkit-animation-name: fadeInUp;
+ animation-name: fadeInUp;

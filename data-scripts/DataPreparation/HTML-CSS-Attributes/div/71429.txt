@@ -1,0 +1,4 @@
+ padding-top: 40px; 
+#cta{
+	background: #282f35;
+	padding: 4% 0;

@@ -1,0 +1,2 @@
+	background: url(../images/bg/subscribe-pattern.png);
+	background-repeat: repeat;

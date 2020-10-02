@@ -1,0 +1,12 @@
+	background-image:none;
+	display:none;
+	min-height:680px;
+	height:100%;
+	width:100%;
+	background-size:cover;
+	content:"";
+	background-color:rgba(0,0,0,0.5);
+	position:absolute;
+	left:0;
+	top:0;
+	z-index:1;

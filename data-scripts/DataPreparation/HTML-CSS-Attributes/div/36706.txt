@@ -1,0 +1,4 @@
+padding-top: 102px;.contant-2-header:after{background: #949C9C;
+content: "";
+height: 2px;
+position: absolute;

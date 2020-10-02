@@ -1,0 +1,2 @@
+float:left; width:600px; overflow:hidden; margin-left:30px; width:100%;font-family: 'Open Sans', sans-serif; color:#5b6a7d; line-height:20px; padding-top:30px;padding-top:35px; padding-bottom:40px;
+SIDEBAR CLASSS

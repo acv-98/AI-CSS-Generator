@@ -1,0 +1,1 @@
+	background:url(../images/page1_img3.jpg) 0 0 no-repeat

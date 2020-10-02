@@ -1,0 +1,12 @@
+  margin-top: 57px;
+  position: inherit;
+  height: 100%;
+  width: 100%;
+  opacity: 1;
+  color: #8C8C88;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom:0px;
+  text-transform:uppercase;
+	margin-top: 30px;

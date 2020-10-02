@@ -1,0 +1,10 @@
+  margin-top: 3rem;
+  text-align: center;
+  font-family: "montserrat-regular", sans-serif;
+  font-size: 1.4rem;
+  display: inline-block;
+  content: "|";
+  padding: 0 1rem 0 1.2rem;
+  color: rgba(255, 255, 255, 0.1);
+    padding-bottom: .6rem;
+    display: block;

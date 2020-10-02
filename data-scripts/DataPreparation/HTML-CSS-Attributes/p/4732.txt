@@ -1,0 +1,5 @@
+	font:bold 24px/24px Trebuchet MS, Arial, Helvetica, sans-serif;
+	width:230px;
+	color:#0160ed;
+	float:left;
+	margin-bottom:5px;

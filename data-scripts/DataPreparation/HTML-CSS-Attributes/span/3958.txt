@@ -1,0 +1,1 @@
+ background: url("../images/click.png") no-repeat scroll 11px 10px rgba(0, 0, 0, 0); font-family: 'open_sansregular'; display: block;   float: left; font-size: 14px; padding: 10px 40px; width: auto;

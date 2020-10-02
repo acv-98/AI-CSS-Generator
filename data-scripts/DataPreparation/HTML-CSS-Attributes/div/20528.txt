@@ -1,0 +1,11 @@
+	width: 41%;
+	float: right;
+	position: relative;
+	padding-bottom: 5%;
+	font-family: 'Raleway', sans-serif;
+	color:#7B6C63;
+	font-size: 1em;
+	margin:2% 0;
+	line-height: 1.9em;
+		width: 38%;
+		font-size: 1em;

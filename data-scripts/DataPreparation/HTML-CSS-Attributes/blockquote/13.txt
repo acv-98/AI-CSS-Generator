@@ -1,0 +1,9 @@
+  width: 1080px;
+  border-color: #8faca6;
+  border-left: 1px solid #8faca6;
+  border-right: 10px solid #8faca6;
+width: 100%;.animated {
+    -webkit-animation-duration: 0;
+    animation-duration: 0;
+    -webkit-animation-delay: 0;
+    animation-delay: 0;

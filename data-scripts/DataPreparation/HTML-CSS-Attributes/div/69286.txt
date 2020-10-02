@@ -1,0 +1,14 @@
+	margin-bottom: 100px;
+	background: #f4f9fd;
+	border-radius: 3px;
+	-webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .03);
+	box-shadow: 0 3px 5px rgba(0, 0, 0, .03);
+	position: relative;
+	margin-top: -80px;
+	padding: 35px 40px;
+	color: #333;
+	font-size: 22px;
+	font-weight: 400;
+	font-family: 'Raleway', sans-serif;
+	height: 66px;
+	line-height: 1.5;

@@ -1,0 +1,8 @@
+	background:url(../images/search-btn.png) no-repeat left 2px;
+	width:39px;
+	height:28px;
+	border:none;
+	color:#fff;
+	text-align:center;
+	float:right;
+	cursor:pointer;

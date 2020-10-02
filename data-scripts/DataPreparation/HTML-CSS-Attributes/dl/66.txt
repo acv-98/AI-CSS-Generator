@@ -1,0 +1,1 @@
+margin:10px 10px;margin:0 0 10px 0; zoom:1width:50px; float:left; font-weight:bold;width:250px; float:left; padding:0; margin-bottom:20px;	

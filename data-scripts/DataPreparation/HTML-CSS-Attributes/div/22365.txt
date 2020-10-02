@@ -1,0 +1,5 @@
+	padding: 0 15px 0 0;
+	color: #2C2D31;
+	font-weight: bold;
+	font-style: normal;
+	margin: 0;

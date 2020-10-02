@@ -1,0 +1,10 @@
+	padding: 0px 12px;
+	margin: 10px 0px;
+	border-right: 1px solid #dcdcdc;
+	border-left: 1px solid #dcdcdc;
+	display: inline-block;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	color: #636363;
+	text-decoration: none;
+	font-size: 14px;

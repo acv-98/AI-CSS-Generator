@@ -1,0 +1,1 @@
+font-size:15pxfont-size:12pxcolor:#12a3df

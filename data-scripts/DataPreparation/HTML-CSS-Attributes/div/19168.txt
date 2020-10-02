@@ -1,0 +1,4 @@
+ border-top-color: #1baab9; 
+.priceBox.special .emphasis {
+  background: #1baab9;
+ border-top-color: #3498db;  border-top-color: #15c177;  border-top-color: #8993a0;  border-top-color: #f8ae35;  border-top-color: #9b218e;  border-top-color: #bf383a;  border-top-width: 2px;  border-top-color: #f8ae35; 

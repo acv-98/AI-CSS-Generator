@@ -1,0 +1,1 @@
+height:52px; width:100%height:52px; width:100%height:90px; width:728px; margin:0 auto

@@ -1,0 +1,12 @@
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-decoration: none;
+	color: #525252;
+	display: inline-block;
+	background: url(images/img01.png) repeat;
+	letter-spacing: 1px;
+	line-height: none;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;

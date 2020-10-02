@@ -1,0 +1,32 @@
+    margin: 0px;
+ width: 95%;  width: 99%; @media (min-width: 1200px) {
+	display: none;
+	background-color: #eff1f2;	
+ height: 44px; .content .contact-form li.text-field input.error,
+.content .contact-form li textarea.error
+	border: none;
+	border-left: 5px solid #c25912;
+	text-transform: none;
+	font-family: 'Maven Pro','Verdana','Arial',sans-serif;
+	font-size: 13px;
+    cursor: pointer;
+    display: block;
+    font-size: 13px;
+    height: 35px;
+    padding: 10px;
+    text-transform: none !important;
+    font-family: 'Maven Pro','Verdana','Arial',sans-serif;
+padding:0; margin:0; list-style:none;  position: relative;  display: block; position: absolute; z-index: 10; top: 11px; left: 12px; font-size: 13px;  font-size:13px;  font-size: 11px; color: #9C9B9B .content .contact-form li.error input, .content .contact-form li.error textarea, .content .contact-form li.error select,
+ border:1px solid #cf0606;  font-style:normal; font-size:11px; color:#cf0606; position: absolute; top: 47px;  top: 187px;  top: 202px; clear:both; float:none; display: block;  padding: 11px 5px;  width: 92.3%;  padding: 11px 6px;  margin-bottom: 0px; width: 97.5%; resize: none; .content .contact-form li.submit-button input.sendmail {
+    background: #cad0d1;
+    border: 1px solid #bcc1c2;
+    
+ background: #f2f4f5;  background: url("images/input_pattern_hover.png") repeat-x scroll 0 0 #fff;  color:#ddd;  color:#4c4c4c;  padding:10px 15px 10px 55px; border:1px solid; margin:0 auto 30px; background:no-repeat 15px center; width:400px;  background-color:#effea9; border-color:#d7ee6e; color:#839607; background-image:url('images/icons/tick_contact.png');  background-color:#fedccd; border-color:#fa8c83; color:#c82c1f; background-image:url('images/icons/error.png');  right: 5px; 	margin-right: 5px;
+	float: left;
+	clear: left;
+	vertical-align: middle;
+	position: static;
+ margin-top: 3px  width: 95%;  width: 99%;  width: 97.6%;  width: 95.6%;  width: 96.2%;  border-radius:8px; -moz-border-radius:8px; -webkit-border-radius:8px;  border-color: #eeeeee;  padding:0; background-position: 0 0;     border-left: 1px solid #CFCFCF;
+    margin-top: 0;
+    margin-left: 0px;
+ position: absolute; 

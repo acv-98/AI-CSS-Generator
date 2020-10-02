@@ -1,0 +1,7 @@
+	text-align:center;
+	padding:0px 0 10px 0;
+	font-style:italic;
+	font-weight:bold;
+	margin-bottom:-10px;
+	color:#647884;
+	font-size:11px;

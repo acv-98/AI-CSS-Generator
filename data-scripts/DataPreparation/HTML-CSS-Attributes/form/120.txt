@@ -1,0 +1,1 @@
+border-radius:0; margin-bottom:30pxborder:medium none; color:#fff; height:35px; padding:5px 10px; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5sborder:1px solid #d083cfbackground-color:#d083cfbackground-color:#fff; color:#d083cf

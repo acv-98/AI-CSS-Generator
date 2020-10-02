@@ -1,0 +1,15 @@
+  width: 100%;
+  position: absolute;
+  bottom: 60%;
+  left: 42%;
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin: 0;
+  padding: 0;
+  color: #000;

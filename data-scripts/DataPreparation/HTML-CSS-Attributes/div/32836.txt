@@ -1,0 +1,9 @@
+	position:relative;
+	float:right;
+	display:inline;
+	width:658px;
+	height:350px;
+	background:url(images/slider-rightbg.jpg) no-repeat 0 0;
+	overflow:hidden;
+	padding-left:13px;
+	margin-top:1px;

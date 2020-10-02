@@ -1,0 +1,10 @@
+	background-image:none;
+ 	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/image-hover.png', sizingMethod='image');
+	position:absolute;
+	top:0;
+	left:0;
+	width:152px;
+	height:214px;
+	display:block;
+	z-index:5;
+	cursor:pointer;

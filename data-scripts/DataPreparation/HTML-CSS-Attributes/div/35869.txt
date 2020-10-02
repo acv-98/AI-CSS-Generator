@@ -1,0 +1,8 @@
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    left: 10px;
+    position: absolute;
+    top: 4px;
+    z-index: 99;
+    font-family: "Open Sans","Sans Serif";

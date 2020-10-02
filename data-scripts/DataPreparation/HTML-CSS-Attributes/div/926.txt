@@ -1,0 +1,15 @@
+	padding:0 0 0 10px;
+	left:480px;
+	top:-353px;
+	background:#c30075 url(../images/bg-content.gif) repeat-x bottom left;
+	height:338px;
+	margin:0;
+	width:940px;
+	overflow:hidden;
+	float:left;
+	list-style:none;
+	border:2px solid #e07cb3;
+	position:relative;
+	color:#f085c5;
+	font-size:25px;
+	text-transform:capitalize;

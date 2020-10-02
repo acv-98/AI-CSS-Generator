@@ -1,0 +1,11 @@
+	margin:4px 0;
+	padding:0;
+	float:left;
+	width:136px;
+	color:#61c0ec;
+	font-size:18px;
+	line-height:1.2em;
+	text-align:center;
+	text-transform:uppercase;
+	display:block;
+	background-color:#61c0ec;

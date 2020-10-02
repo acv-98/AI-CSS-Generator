@@ -1,0 +1,15 @@
+	float: left;
+	width: 35%;
+	padding-right: 90px;
+	text-align: right;
+	margin-bottom: 0;
+	font-family: "poppins-regular", sans-serif;
+	font-size: 1.6rem;
+	color: #888888;
+		padding-right: 50px;
+		font-size: 1.8rem;
+		float: none;
+		width: auto;
+		text-align: left;
+		margin-bottom: 1.5rem;
+		padding-left: 7rem;

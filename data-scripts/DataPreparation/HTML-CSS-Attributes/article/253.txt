@@ -1,0 +1,2 @@
+padding-right:10px
+ padding-bottom:30px font-size:18px; padding-right:10px padding-bottom:218px color:#343434; padding-right:34pxcolor:#fb5353; text-decoration:none

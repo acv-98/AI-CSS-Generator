@@ -1,0 +1,4 @@
+  width: 137px;
+font-size: 12px;
+color: #aaaaaa;
+color: #aaaaaa;color: #000;#post_list li{padding: 10px 0px;

@@ -1,0 +1,2 @@
+float:left; width:250px;  overflow:hidden;float:right; font-family: 'Tienne', serif; font-size:14px; color:#e5703d; text-transform:uppercase; font-weight:normal; padding-bottom:5px;width:250px;   float:left; width:248px; border:1px solid #e2e2e2 ; background:#ffffff; width:200px; border:0px solid  ; background:#ffffff; color:#919191; height:36px; line-height:36px; padding-left:10px;  float:right; margin-top:10px; margin-right:10px;
+BANNER CLASSES

@@ -1,0 +1,4 @@
+	display:inline;
+	margin-right:5px;
+	border:none;
+	margin-bottom:20px;

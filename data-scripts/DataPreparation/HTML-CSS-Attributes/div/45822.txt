@@ -1,0 +1,1 @@
+background: url(../images/menuright.jpg) right top no-repeat; height:33px

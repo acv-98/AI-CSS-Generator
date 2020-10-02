@@ -1,0 +1,4 @@
+    background: transparent;
+    padding-top: 37px;
+    border-top: 3px solid #BE1414;
+    padding-bottom: 40px;

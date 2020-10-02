@@ -1,0 +1,3 @@
+	background:url(../images/bg_textarea.gif) bottom repeat-x #fff
+	height:210px;
+	padding-bottom:5px

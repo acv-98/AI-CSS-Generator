@@ -1,0 +1,7 @@
+  font-size: 15px;
+  font-weight: 600;
+  padding: 20px 30px;
+position:relative@font-face {
+  font-family: 'simple-line-icons';
+  src: url('../fonts/Simple-Line-Icons.eot?v=2.3.2');
+  font-style: normal;

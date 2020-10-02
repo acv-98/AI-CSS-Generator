@@ -1,0 +1,6 @@
+ color:#2ec574;
+.progress{
+	height: 12px;
+	background-color:#ebeef1;
+	background-image:none;
+	box-shadow:none;

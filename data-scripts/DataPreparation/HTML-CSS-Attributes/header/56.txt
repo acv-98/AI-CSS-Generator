@@ -1,0 +1,17 @@
+    font-size: 35px;
+    color: #ffffff;
+    background-color: rgba(41, 41, 41, 0.68);
+    width: 80%;
+    margin: auto;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  overflow: hidden;
+	margin-top:150px;
+	color:#f1f1f1;
+	text-transform:uppercase;
+	margin-bottom:50px;
+	font-size:60px;
+	font-family: 'nexa_lightregular';
+	letter-spacing:1px;

@@ -1,0 +1,7 @@
+  margin-top: 18px;
+  font-family: notosans-regular, sans-serif;
+ font-family: notosans-bold, sans-serif; .post .bio {
+   margin-top: 30px;
+   padding-top: 30px;
+   background: #EFF1F0;
+	border-radius: 3px;

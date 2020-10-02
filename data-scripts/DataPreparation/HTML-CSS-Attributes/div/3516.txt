@@ -1,0 +1,1 @@
+	padding:30px 26px 40px 26px

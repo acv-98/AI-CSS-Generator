@@ -1,0 +1,5 @@
+	padding:5px;
+	border:1px solid #CCC;
+	border-right:1px solid #EEE;
+	border-bottom:1px solid #EEE;
+	color:#888;

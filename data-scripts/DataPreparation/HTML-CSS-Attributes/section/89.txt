@@ -1,0 +1,2 @@
+	background:url(../images/subcribecebg.jpg) no-repeat top center;
+	background-size:cover;

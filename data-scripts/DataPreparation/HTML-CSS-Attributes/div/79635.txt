@@ -1,0 +1,6 @@
+	height: 1px;
+	clear: both;
+	border-bottom: 1px;
+	border-style: solid;
+	border-color: #d6d6d6;
+	margin: 20px 5px 20px 5px;

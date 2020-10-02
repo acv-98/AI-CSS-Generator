@@ -1,0 +1,10 @@
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+	width: 100px;
+	height: 100px;
+	z-index: 200;
+	transition: transform .1s;
+	-webkit-transform: scale(1.0) rotate(-90deg);
+	-ms-transform: scale(1.0) rotate(-90deg);
+	transform: scale(1.0) rotate(-90deg);

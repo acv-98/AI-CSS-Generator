@@ -1,0 +1,4 @@
+	position:relative;
+	line-height:23px;
+	background:#1e1e1e;
+	color:#fff;

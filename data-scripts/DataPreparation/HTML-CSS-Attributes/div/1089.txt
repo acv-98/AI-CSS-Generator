@@ -1,0 +1,5 @@
+        max-width: 50%;
+.footer_widget_area .single_widget{
+    margin-top:40px;
+    color:#fff;
+    font-size:0.9375rem;

@@ -1,0 +1,10 @@
+	margin:0 0 16px;
+	padding:8px 20px 30px;
+	background:#ededed url(../images/article_bg.jpg) no-repeat center bottom;
+	display:block;
+	float:right;
+	font-size:24px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#df4b49;

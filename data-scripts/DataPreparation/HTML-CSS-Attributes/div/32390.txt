@@ -1,0 +1,4 @@
+  margin-top: 82px;
+  text-align: center;
+  position: relative;
+  display: block;

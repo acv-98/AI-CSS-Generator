@@ -1,0 +1,8 @@
+	margin-top: 50px;
+	float: right;
+	margin-right: 1px;
+	background: url('../images/check.png') no-repeat;
+    padding-left: 20px;
+	padding-right: 10px;
+	width: 12px;
+	opacity: 0.5;

@@ -1,0 +1,15 @@
+	background: url(../images/buttons_form_bg.png) no-repeat;
+	background-position: 0px -63px;
+	height: 384px;
+	width: 403px;
+	padding: 0 0 0 25px;
+	margin: 0 0 29px -25px;
+	clear: both;
+	float: right;
+	text-indent: -10000px;
+	line-height: 20px;
+	border: 0px none;
+	margin-bottom: 14px;
+	margin-left: 82px;
+	font-family: Georgia;
+	text-align: justify;

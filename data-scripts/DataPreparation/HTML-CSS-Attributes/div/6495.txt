@@ -1,0 +1,6 @@
+    font-weight:normal;
+    font-size:11px;
+    color: #808080;
+    margin-top: 40px;
+    margin-right: 60px;
+    text-align:right;

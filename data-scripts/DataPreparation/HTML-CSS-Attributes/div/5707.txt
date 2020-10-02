@@ -1,0 +1,15 @@
+	float:right;
+	width:320px;
+	height:140px;
+	color:#686868;
+	font-family:arial;
+	font-size:13px;
+	padding:0 0 5px;
+	vertical-align:top;
+	display:block;
+	background-image:url(../images/icons.gif);
+	background-repeat:no-repeat;
+	margin-right:10px;
+	background-position:0 0;
+ *height:170px;
+	_height:170px;

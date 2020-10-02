@@ -1,0 +1,5 @@
+	position: relative;
+	-webkit-box-shadow: 0 1px 1px #c1c1c1;
+	-moz-box-shadow: 0 1px 1px #c1c1c1;
+	box-shadow: 0 1px 1px #c1c1c1;
+	border-radius:15px;

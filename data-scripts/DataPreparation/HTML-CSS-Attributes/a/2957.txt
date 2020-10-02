@@ -1,0 +1,1 @@
+  color: #605ca8 !important;

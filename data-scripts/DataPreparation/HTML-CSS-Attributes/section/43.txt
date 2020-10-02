@@ -1,0 +1,5 @@
+	background:url(../images/bannerbg.jpg) center center no-repeat;
+	background-size:cover;
+	width:100%;
+	top:0;
+	left:0;

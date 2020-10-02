@@ -1,0 +1,6 @@
+  text-align: left;
+  margin: 0 0 20px 0;
+  padding: 35px 0 10px 0
+  color: #fff;
+  display: none;
+  float: right;

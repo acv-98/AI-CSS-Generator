@@ -1,0 +1,12 @@
+	float:left;
+	width:294px;
+	margin-top:25px;
+	margin-right:28px;
+	padding-right:29px;
+	background:url('images/box-separator.gif') no-repeat right bottom;
+	height:88px;
+	padding-left:15px;
+	position:relative;
+	bottom:6px;
+	color:#4a4a4a;
+	line-height:22px;

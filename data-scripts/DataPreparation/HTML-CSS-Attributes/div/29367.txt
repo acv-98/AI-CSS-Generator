@@ -1,0 +1,8 @@
+    color:#ff6a00;
+display: table-cell;
+font-size: 28px;
+font-weight: bold;
+text-transform: uppercase;
+vertical-align: middle;
+    font-size:10px!important;
+    font-weight:normal;

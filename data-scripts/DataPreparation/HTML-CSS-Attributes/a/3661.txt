@@ -1,0 +1,15 @@
+	background:url("../images/top-border-short.gif");
+	background-position: top center;
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:118px;
+	height:35px;
+	line-height:35px;
+	position:relative;
+	left:40px;
+	text-align:center;
+	margin-bottom:50px;
+	margin-top:25px;
+	color:#7F7154;
+	text-decoration:none;
+	font-family:"Myriad pro";

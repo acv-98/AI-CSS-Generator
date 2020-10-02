@@ -1,0 +1,1 @@
+background:url(../images/ico_3.gif) 0 14px no-repeat; margin-right:0

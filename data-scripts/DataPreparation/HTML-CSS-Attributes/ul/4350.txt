@@ -1,0 +1,5 @@
+    right: 0;
+    left: auto;
+    margin-right: -15px;
+    float: right !important;
+		background: rgba(0, 0, 0, 0.55);

@@ -1,0 +1,9 @@
+	padding:80px 0 80px 0;
+	font-weight:300;
+	text-transform:uppercase;
+	text-shadow:none;
+	margin-bottom:50px;
+	font-size:24px;
+	margin-top:20px;
+	color:#ddd;
+	letter-spacing: 1px;

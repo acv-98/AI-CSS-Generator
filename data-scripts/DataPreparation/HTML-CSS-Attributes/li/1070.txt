@@ -1,0 +1,9 @@
+  background-color: #00c7fc;
+  border: 0;
+    background-color: #00C7FC;
+    color: #fff;
+  -webkit-animation: progress-bar-stripes 2s linear infinite;
+     -moz-animation: progress-bar-stripes 2s linear infinite;
+      -ms-animation: progress-bar-stripes 2s linear infinite;
+       -o-animation: progress-bar-stripes 2s linear infinite;
+          animation: progress-bar-stripes 2s linear infinite;

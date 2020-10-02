@@ -1,0 +1,18 @@
+	width: 120px;
+	height: 120px;
+	text-align: center;
+	line-height: 35px;
+	font-size: 14px;
+	border-radius: 100%;
+	position: absolute;
+	left: -60px;
+	color: #fff;
+    background: #4c9cef;
+	padding-top: 25px;
+    box-shadow: -5px 6px 4px 0px rgba(90, 91, 95, 0.3);
+	display: block;
+	margin-top: 5px;
+		font-size: 30px;
+		margin: 0 auto;
+		position: static;
+		margin-bottom: 20px;

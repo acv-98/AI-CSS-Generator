@@ -1,0 +1,12 @@
+  padding-left: 0;
+  margin: 20px 0;
+  list-style: none;
+  text-align: center;
+  display: inline;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 15px;
+  text-decoration: none;
+  float: right;
+  color: #b3b3b3;
+  cursor: not-allowed;

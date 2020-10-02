@@ -1,0 +1,1 @@
+ display: block; position: absolute; z-index: 100; text-align: center; color: #fff; font-weight: 600; font-size: 14px; text-transform: uppercase; line-height: 30px;  left: 0; right: 0; bottom: 47%; margin: 0 auto -30px auto; 

@@ -1,0 +1,8 @@
+	width:100%;
+	overflow:hidden;
+	float:left;
+	line-height:1.538em;
+	margin-right:54px;
+	color:#f85811;
+	display:block;
+	padding:14px 0 6px 0;

@@ -1,0 +1,8 @@
+	color: rgba(255, 255, 255, 1);
+	font-family: "Dosis", sans-serif;
+	font-weight: 700;
+	font-size:22px;
+	letter-spacing:3px;
+	text-transform: uppercase;
+	border:1px solid rgba(255, 255, 255, 0.5);
+	padding:10px 20px;

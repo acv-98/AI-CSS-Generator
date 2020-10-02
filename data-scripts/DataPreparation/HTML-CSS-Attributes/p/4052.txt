@@ -1,0 +1,4 @@
+	background:#013446;
+	color:#fff;
+	padding:3px 15px;
+	clear:both;

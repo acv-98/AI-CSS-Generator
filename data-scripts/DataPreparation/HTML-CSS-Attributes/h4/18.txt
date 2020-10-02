@@ -1,0 +1,6 @@
+	color:#fff;
+	font-size: 1.1em;
+	font-weight:400;
+	margin-bottom:6%;
+	text-transform:uppercase;
+		margin-bottom: 2%;

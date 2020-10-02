@@ -1,0 +1,4 @@
+        background: url("../assets/images/title-shape.png") left center no-repeat;
+        padding: 0px 135px;
+        vertical-align: middle;
+        margin-left: 20px;

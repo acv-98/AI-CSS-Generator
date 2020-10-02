@@ -1,0 +1,5 @@
+	overflow:hidden;
+	font-size:0.875rem;
+	font-family: 'open_sansbold';
+    margin: 40px 10px;
+    display: inline-block;

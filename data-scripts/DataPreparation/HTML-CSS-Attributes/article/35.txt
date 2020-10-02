@@ -1,0 +1,4 @@
+	margin-bottom:40px;
+	font-size:12px;
+	text-transform:uppercase;
+	font-weight:bold;

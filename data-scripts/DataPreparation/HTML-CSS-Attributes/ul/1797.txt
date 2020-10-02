@@ -1,0 +1,11 @@
+	margin:0 auto;
+	text-align:center;
+	padding-left:25px;
+	overflow:hidden;
+	position:absolute;
+	padding-right:0;
+	list-style-position:outside;
+	list-style-type:none;
+	z-index:5;
+	float:left;
+	color:#fff;

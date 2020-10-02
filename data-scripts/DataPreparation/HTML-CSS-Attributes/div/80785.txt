@@ -1,0 +1,16 @@
+	cursor: pointer;
+	color: #FFF;
+	font-size: 0.99em;
+	outline: none;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	border-radius: 5px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+	background: #49CBCD;
+	padding: 10px 50px;
+	margin-top: 20px;
+	-webkit-appearance: none;
+	font-family: 'Lato', sans-serif;

@@ -1,0 +1,12 @@
+    margin-bottom: 25px;
+	color: #fff;
+    margin-top: 0;
+    position: relative;
+	background-color: #2f383d;
+	padding: 20px;
+	display: inline-block;
+	margin-bottom: 10px;
+	margin-right: 5px;
+    background-color: #6CB670;
+    color: #fff;
+        padding: 10px 2px;

@@ -1,0 +1,7 @@
+	width:950px;
+	height:121px;
+	background:url(../images/nav-bg.png) 0 0 no-repeat;
+	position:absolute;
+	left:4px;
+	top:4px;
+	z-index:110;

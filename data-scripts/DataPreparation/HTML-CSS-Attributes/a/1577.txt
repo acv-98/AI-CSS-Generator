@@ -1,0 +1,16 @@
+	float:left;
+	width:100%;
+	margin:10px 0px 0 0;
+	height:45px;
+	border:1px solid #187cc2;
+	text-align:center;
+	font-family: 'open_sanslight';
+	font-size:14px;
+	color:#fff;
+	font-weight:normal;
+	text-transform:uppercase;
+	line-height:45px;
+	border-radius:3px; -webkit-border-radius:3px; 
+	transition:0.5s; -webkit-transition:0.5s;
+	text-decoration:none;
+	background:#187cc2;

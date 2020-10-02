@@ -1,0 +1,6 @@
+ padding-top: 55px;#why_us .fa{
+    border-radius: 100%;
+    box-shadow: 0 0 0 10px #ffcb0f, 0 0 0 20px #fadb64, 0 0 0 30px #f7e59c;
+    padding: 38px;
+    font-size:45px;
+    margin: 60px 0 20px;

@@ -1,0 +1,2 @@
+  color: #ffffff;
+  padding-right: 8px;

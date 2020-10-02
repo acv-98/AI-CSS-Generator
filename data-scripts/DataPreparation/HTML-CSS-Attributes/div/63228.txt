@@ -1,0 +1,2 @@
+ margin:0; padding:0; margin:0 auto; padding:0 40px; width:890px; padding:24px 40px;
+ background-color:#0588c6; color:#fff; color:#fff; color:#fff; padding:5px; border:1px solid #0476ac; background-color:#4ba9d6; margin:0; float:left; padding:0 16px 0 0; width:326px; padding:0 16px; width:296px; padding:0 0 0 16px; width:200px; margin:4px; color:#fff; background:url(images/li_w.gif) no-repeat left center; color:#fff; font-weight:bold;

@@ -1,0 +1,12 @@
+	height:25px;
+	padding-bottom:18px;
+	line-height:25px;
+	background:url(images/button.gif);
+	float:left;
+	cursor:pointer;
+	padding-left:19px;
+	background-position:left top;
+	font-size:11px;
+	text-decoration:none;
+	color:#fff;
+	padding-right:13px;

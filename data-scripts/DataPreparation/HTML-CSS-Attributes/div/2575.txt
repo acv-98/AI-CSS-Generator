@@ -1,0 +1,13 @@
+    font-size: 39px;
+    line-height: 30px;
+	padding-top:220px;
+	color:#314a5b;
+	text-transform:uppercase;
+	font-family: 'montserratbold';
+	font-size:48px;
+	margin-bottom:20px;
+	line-height: 55px;
+	width: 150px;
+    height: 60px;
+	background:#fa5c65;
+	margin-top:30px;

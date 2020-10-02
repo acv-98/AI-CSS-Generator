@@ -1,0 +1,7 @@
+	display: inline-block;
+	font-size: 21px;
+	color: #121d1f;
+	line-height: 152px;
+	z-index: 2;
+	content: '%';
+	margin-left: 0.1em;

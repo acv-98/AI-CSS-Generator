@@ -1,0 +1,9 @@
+  float: left;
+  width: 100%;
+  margin-bottom: 30px;
+  position: relative;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 40px;
+  color: #f54c53;

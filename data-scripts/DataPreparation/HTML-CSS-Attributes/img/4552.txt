@@ -1,0 +1,2 @@
+width:619px; height:150px; padding:5px; border: 1px solid #cccccc; -moz-border-radius:5px; -webkit-border-radius:5px;
+	

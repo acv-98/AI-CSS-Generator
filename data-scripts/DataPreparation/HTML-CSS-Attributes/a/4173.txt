@@ -1,0 +1,9 @@
+	border:1px solid #ddd;
+	border-left:1px solid #fff;
+	display:block;
+	height:25px;
+	width:25px;
+	position:absolute;
+	margin-left:163px;
+	margin-top:22px;
+	cursor:pointer;

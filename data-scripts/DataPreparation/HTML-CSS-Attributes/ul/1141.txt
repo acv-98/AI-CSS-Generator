@@ -1,0 +1,11 @@
+.navbar-collapsemargin:7.5px -15px;.navbar-nav .open .dropdown-menumargin-top:0;border-top-right-radius:0;border-top-left-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;left:auto;right:0;color:#777777;color:#555555;background-color:#e7e7e7;color:#cccccc;background-color:transparent;border-top-color:#333333;border-bottom-color:#333333;background-color:#e7e7e7;color:#555555;border-top-color:#777777;border-bottom-color:#777777;.navbar-default .navbar-nav .open .dropdown-menu>li>acolor:#999999;color:#ffffff;background-color:#080808;color:#444444;background-color:transparent;background-color:#080808;color:#ffffff;border-top-color:#ffffff;border-bottom-color:#ffffff;border-top-color:#999999;border-bottom-color:#999999;border-top-color:#ffffff;border-bottom-color:#ffffff;.navbar-inverse .navbar-nav .open .dropdown-menu>.dropdown-header	float: right;
+	color: #aaa;
+	font-size: 1.2em;
+	cursor: pointer;
+	-webkit-transition: all 300ms ease-in-out;
+	-moz-transition: all 300ms ease-in-out;
+	-ms-transition: all 300ms ease-in-out;
+	-o-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+		float: left;
+		text-align: left;

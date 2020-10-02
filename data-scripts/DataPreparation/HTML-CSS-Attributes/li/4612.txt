@@ -1,0 +1,4 @@
+	color:#690;
+	text-align:center;
+	width:140px;
+	padding:0;

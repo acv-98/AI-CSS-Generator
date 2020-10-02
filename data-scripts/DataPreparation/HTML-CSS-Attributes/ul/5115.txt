@@ -1,0 +1,3 @@
+
+.profile-pro-right .panel-default .panel-body {
+	padding: 15px 6px;

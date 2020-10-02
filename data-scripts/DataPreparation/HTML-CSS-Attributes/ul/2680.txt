@@ -1,0 +1,7 @@
+	list-style:none;
+	padding:0;
+	margin-top: 5%;
+	float: left;
+	width: 15.5%;
+	border-right: 1px solid #CCC;
+	padding-right: 3%;

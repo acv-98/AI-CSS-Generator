@@ -1,0 +1,2 @@
+margin-left:auto;margin-right:auto;width:960px;position:relative;display:inline;float:left;position:relative;margin:0 10px
+	position:relative;

@@ -1,0 +1,6 @@
+	background:url(../images/slideshow-bg.png) no-repeat;
+	position:relative;
+	clear:both;
+	height:390px;
+	width:640px;
+	margin:0;

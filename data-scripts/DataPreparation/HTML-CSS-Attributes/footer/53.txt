@@ -1,0 +1,6 @@
+  margin-top: 20px;
+  border-top: 1px solid #eee;
+  padding-top: 15px;
+  display: inline-block;
+  margin-right: 10px;
+  color: #999;

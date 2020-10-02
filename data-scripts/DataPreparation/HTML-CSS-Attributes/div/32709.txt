@@ -1,0 +1,14 @@
+	display: inline;
+	float: left;
+	margin-top: 70px;
+	text-align: center;
+	width: 100%;
+	color: #4b8181;
+	font-family: "Pacifico",cursive;
+	font-size: 65px;
+	line-height: 65px;
+	margin-bottom: 50px;
+	padding: 0 138px;
+	  font-size: 50px;
+	  line-height: 50px;	 
+	  padding: 0 50px;

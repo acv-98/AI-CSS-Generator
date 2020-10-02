@@ -1,0 +1,16 @@
+	margin:0;
+	padding:0;
+	height:59px;
+	list-style:none;
+	float:left;
+	border-right:1px solid #f1f1ef;
+	display:block;
+	width:191px;
+	font-size:16px;
+	line-height:20px;
+	font-weight:normal;
+	color:#4b5057;
+	text-decoration:none;
+	text-align:center;
+	text-transform:uppercase;
+	background:url(../images/menu_a.gif) repeat-x left top;

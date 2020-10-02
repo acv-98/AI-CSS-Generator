@@ -1,0 +1,7 @@
+  position: relative;
+  min-height: 460px;
+  top: 0;
+  left: 0;
+  font-size: 0;
+  float: left;
+  display: none;

@@ -1,0 +1,1 @@
+display:block; float:left; margin-right:20px; width:48.4%; margin-bottom:5pxmargin-right:0margin-right:0height:300pxwidth:100%width:100%.logo_area.slider_tittle.logo_area

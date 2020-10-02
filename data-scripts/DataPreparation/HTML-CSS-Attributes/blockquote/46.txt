@@ -1,0 +1,3 @@
+  border-color: #6f7c8f;
+  border-left: 1px solid #6f7c8f;
+  border-right: 10px solid #6f7c8f;

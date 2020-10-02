@@ -1,0 +1,3 @@
+  display: table-row;
+  clear: both;
+    display: inherit;

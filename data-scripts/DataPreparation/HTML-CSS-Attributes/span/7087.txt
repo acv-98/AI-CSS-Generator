@@ -1,0 +1,1 @@
+font:12px "Trebuchet MS", Verdana, Helvetica, sans-serif; color:#fff; text-align:center; display:block; padding:2px 0 0 0;

@@ -1,0 +1,3 @@
+	color: #94c045;
+  font-size: 14px;
+  font-weight: 400;

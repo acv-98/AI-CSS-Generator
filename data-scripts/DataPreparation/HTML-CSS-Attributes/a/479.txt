@@ -1,0 +1,1 @@
+	background: url(images/menu_left_first.png) top left no-repeat;

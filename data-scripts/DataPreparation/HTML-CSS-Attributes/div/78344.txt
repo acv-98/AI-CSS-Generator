@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	float:right;
+	height:51px;
+	list-style:none;
+	display:block;
+	font-size:13px;
+	line-height:18px;
+	font-weight:normal;
+	color:#fff;
+	text-decoration:none;
+	text-transform:none;
+	text-align:center;
+	background-color:#fff;

@@ -1,0 +1,6 @@
+	background:url(../images/frame-accesories-image.jpg) no-repeat top left;
+	float:left;
+	height:214px;
+	margin-right:15px;
+	display:block;
+	border:1px solid #FFFFFF;

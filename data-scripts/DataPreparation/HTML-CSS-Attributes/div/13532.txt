@@ -1,0 +1,11 @@
+  *zoom: 1;
+  display: table;
+  line-height: 0;
+  content: "";
+  clear: both;
+  height: 0; 
+  visibility: hidden;
+  overflow:hidden; 
+display: block;display: inline-block;* html .clearfix,
+    float: none;
+    clear: both;

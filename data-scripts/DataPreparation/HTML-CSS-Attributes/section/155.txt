@@ -1,0 +1,10 @@
+	padding-top: 30px;
+	padding-bottom: 40px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	position: relative;
+	top: -4px;
+	right: -5px;
+ padding:0;
+ font-size: 1.45em;
+ margin-top:30px;

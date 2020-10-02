@@ -1,0 +1,3 @@
+    color: #fff;
+    transform: rotate(-45deg);
+    position: relative;

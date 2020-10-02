@@ -1,0 +1,10 @@
+	-webkit-transition: background-image 0.3s ease, background-position 0.3s;
+	transition: background-image 0.3s ease, background-position 0.3s;
+	background-image: url('../img/table-2.jpg');
+	-webkit-transform: translateY(170px);
+	transform: translateY(170px);
+	background-position: 50% 50%;
+	margin: 30px;
+	margin-top: 120px;
+	opacity: 0;
+	-ms-transform: scale(0.6);

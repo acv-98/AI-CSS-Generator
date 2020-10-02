@@ -1,0 +1,7 @@
+  color: #ffffff;
+  text-shadow: none;
+  background: #ef6603;
+  border-color: none;
+  *background-color: #ef6603;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-color: #d15801;

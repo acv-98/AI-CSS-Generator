@@ -1,0 +1,6 @@
+  background-color: #a5d549;
+  display: inline-block;
+  border: 1px solid #ccc;
+  margin-bottom: 5px;
+  color: #666;
+  margin-right: 5px;

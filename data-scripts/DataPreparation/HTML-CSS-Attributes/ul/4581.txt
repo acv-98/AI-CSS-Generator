@@ -1,0 +1,10 @@
+	margin:0;
+	padding:0;
+	list-style:none;
+  list-style: outside none none;
+  margin: 0 0 8px;
+	margin-bottom:20px;
+	color:#353535;
+	font-size:16px;
+	font-weight:600;
+  padding: 0;

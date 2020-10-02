@@ -1,0 +1,6 @@
+	display:inline-block;
+	width:80px;
+	height:80px;
+	color:#fff;
+	border-radius:50%;
+	line-height:90px;

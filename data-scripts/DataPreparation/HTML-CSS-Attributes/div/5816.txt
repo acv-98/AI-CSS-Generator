@@ -1,0 +1,11 @@
+	float: left;
+	margin:0 10px 0 0;
+	background:url(../images/bg-content.png);
+	width:138px;
+	font-family:arial;
+	font-size:14px;
+	padding: 15px 11px;
+	font-weight:bold;
+	text-decoration:none;
+	color:#f6008a;
+	list-style:none;

@@ -1,0 +1,10 @@
+	margin-left: 20px;
+	list-style-type: disc;
+	width: 450px;
+	float: right;
+	font-size: 14px;
+	line-height: 1.5em;
+	margin-bottom: 1.5em;
+	color: #665d4e;
+	font-weight: bold;
+	text-decoration: none;

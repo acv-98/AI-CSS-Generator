@@ -1,0 +1,13 @@
+  color: #efefef;
+  border-color: #efefef;
+  font-size: 1.07rem;
+  font-weight: 300;
+    font-family: "Lora";
+    font-style: italic;
+      color: #c0a375;
+    font-size: 3rem;
+    font-weight: 600;
+    letter-spacing: -1px;
+    padding: 10px 0 10px 20px;
+    border-left: 4px solid #c39f76;
+    background: #f4f4f4;

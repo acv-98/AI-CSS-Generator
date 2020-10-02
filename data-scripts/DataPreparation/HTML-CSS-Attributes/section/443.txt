@@ -1,0 +1,11 @@
+	background-size:cover;
+	background-image:url(../img/bg.jpg);
+	content: ' ';
+	position:absolute;
+	top:0;
+	left:0;
+	height:100%;
+	width:100%;
+	opacity:.8;
+	z-index:-1;
+	padding:0;

@@ -1,0 +1,5 @@
+	background-image: url(../images/PostBodyPage.jpg);
+	background-repeat: repeat-y;
+	width: 547px;
+	padding: 0px 25px;
+	overflow: auto;

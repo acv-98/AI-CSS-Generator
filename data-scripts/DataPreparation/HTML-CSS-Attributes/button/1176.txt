@@ -1,0 +1,6 @@
+  left: 6px;
+  content: '';
+  top: 35px;
+  background-color: #121619;
+  height: 30px;
+  width: 32px;

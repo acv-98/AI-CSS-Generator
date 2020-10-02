@@ -1,0 +1,4 @@
+  float: left;
+  width: 20%;
+  font-size: 40px;
+  color: #2185d5;

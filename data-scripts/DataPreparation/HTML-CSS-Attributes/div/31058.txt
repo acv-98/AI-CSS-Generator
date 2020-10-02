@@ -1,0 +1,6 @@
+display:block; width:450px;color:#515151; background-color:#E8E8E8;color:#7BA344; background-color:#E8E8E8;border:3px solid #3E3E3E; margin:0 0 10px 0;display:block; float:left; margin:0 25px 0 0; padding:0; width:91px;margin-right:0;opacity:.5;opacity:1;margin:10px 0 0 0;width:24px; height:24px; margin:0 8px 0 0;display:block; width:24px; height:24px; background:url("../images/social_sprite.png") top left no-repeat; text-indent:-9999em;background-position:0 0;background-position:0 -24px;background-position:-24px 0;background-position:-24px -24px;background-position:-48px 0;background-position:-48px -24px;
+Template Name: Professional Web2
+Coded By: Design Coder - http://www.design-coder.com/
+Design By: http://psd.tutsplus.com/tutorials/interface-tutorials/create-a-professional-web-2-0-layout/
+Licence: <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported License</a>
+float:right;display:block; height:50px;margin:0; padding:0; list-style:none;display:block; float:left; width:52px; height:52px; margin:0 20px 0 0;display:block; width:52px; height:52px; background:url("../images/socialbookmarks_sprite.png") top left no-repeat; text-indent:-9999em;background-position:0 -1px;background-position:-72px -1px;background-position:-144px -1px;background-position:-216px -1px;

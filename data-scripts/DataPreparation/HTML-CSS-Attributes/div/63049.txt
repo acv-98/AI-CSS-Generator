@@ -1,0 +1,17 @@
+	clear: both;
+	float: right;
+	width: 160px;
+	font-size: 80%;
+		opacity: 0.6;
+	color: #000;
+	margin: 0;
+	padding: 0;
+	height: 24px;
+	display: block;
+	text-indent: -9999;
+	background-position:0 -24px;
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+    -o-transition:all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;    
+	transition: all 0.4s ease-in-out;

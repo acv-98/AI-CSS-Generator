@@ -1,0 +1,7 @@
+	position:absolute;
+	width:31px;
+	height:402px;
+	bottom:0;
+	z-index:3;
+	right:0;
+	background:url(../images/slider-next.png) no-repeat 0 0;

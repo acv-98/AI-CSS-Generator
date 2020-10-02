@@ -1,0 +1,9 @@
+  text-align: center;
+  background-color: #fff;
+  width: 100%;
+  margin-top: 30px;
+  font-size: 38px;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 900;
+  letter-spacing: 1px;

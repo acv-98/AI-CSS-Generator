@@ -1,0 +1,16 @@
+  display: block;
+  margin-bottom: 20px;
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  background: rgba(0, 0, 0, 0.03);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  vertical-align: middle;
+  font-weight: 700;
+  line-height: 24px;

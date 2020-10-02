@@ -1,0 +1,10 @@
+	width:1069px;
+	padding:0;
+	margin:0 auto;
+	float:right;
+	height:249px;
+	background:url(images/header_block_bg.gif) top no-repeat;
+	font:normal 28px Arial, Helvetica, sans-serif;
+	color:#464646;
+	border-bottom:1px dashed #8e8e8e;
+	line-height:1.6em;

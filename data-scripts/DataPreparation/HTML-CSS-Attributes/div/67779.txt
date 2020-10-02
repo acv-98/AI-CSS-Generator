@@ -1,0 +1,15 @@
+  color: #fff;
+	 	font-size: 50px;
+		font-size: 44px;
+		max-width: 100%;
+  display: table-cell;
+  vertical-align: middle;
+  position: relative;
+  max-width: 790px;
+  width: 100%;
+  padding: 0 15px;
+  font-size: 64px;
+  font-weight: 700;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 20px;

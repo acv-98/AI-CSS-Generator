@@ -1,0 +1,12 @@
+        font-size: 3rem;
+        line-height: 3rem;
+        margin: 0;
+        padding-top:10px;
+        display: none;
+    position: absolute;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -webkit-backface-visibility: hidden;
+    border: none;

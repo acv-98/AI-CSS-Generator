@@ -1,0 +1,2 @@
+	font-weight: normal;
+  color: #1e2439;

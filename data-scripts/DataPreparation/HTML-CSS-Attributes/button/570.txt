@@ -1,0 +1,10 @@
+    background-color: #fff;
+    border: 0;
+    text-align: left;
+    display: block;
+    padding-left: 90px;
+    margin-top: 25px;
+      font-size: 20px;
+      color: #08294c;
+      margin-bottom: 5px;
+      background: url("../assets/images/testimonial1.png") left center no-repeat;

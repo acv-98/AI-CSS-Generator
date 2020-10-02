@@ -1,0 +1,6 @@
+  list-style: none outside;
+  margin: 0;
+  float: left;
+    margin-left: -10px;
+    width: 45%;
+    float: left;

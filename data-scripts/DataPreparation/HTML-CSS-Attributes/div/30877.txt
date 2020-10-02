@@ -1,0 +1,2 @@
+  content: '\f007';
+  font: 700 48px/117px 'FontAwesome';

@@ -1,0 +1,20 @@
+	margin-right: 9px;
+	font-family: "OpenSans Regular";
+	font-size: 13pt;
+	color: #fff !important;
+	background-color: none;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	border: 1px solid #fff!important;
+ 	padding-right: 0px;
+ 	margin-right: 0px;
+	margin-left: 30px;
+ 
+	width: 520px;
+	padding-left: 5px;
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-left: 0px;
+		padding-bottom: 20px;
+		padding-right: 0px;
+		font-weight: bold;

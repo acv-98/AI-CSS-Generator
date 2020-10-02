@@ -1,0 +1,10 @@
+    padding-top: 220px;
+    min-height: 500px;
+    padding-bottom: 150px;
+    width: 140px;
+    display: block;
+    margin: 0 auto 30px;
+    color: #fff;
+    font-size: 52px;
+    font-weight: bold;
+        width: 100%;

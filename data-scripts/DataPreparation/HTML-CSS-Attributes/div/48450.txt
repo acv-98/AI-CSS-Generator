@@ -1,0 +1,13 @@
+    margin-bottom:50px;
+    padding:10px 20px;
+    transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    background:#fbc73a;
+    color:#000;
+    font-size: 20px;
+    font-weight: 300;
+    padding-right:7px;
+    margin-left:28px;	

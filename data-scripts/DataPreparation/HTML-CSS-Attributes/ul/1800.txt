@@ -1,0 +1,15 @@
+    overflow: hidden;
+    margin-right: 17px;
+    float: left;
+    width: 42px;
+    height: 43px;
+    text-align: center;
+    line-height: 42px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #86c8b4;
+    margin-top: 5px;
+    padding-top: 1px;
+    margin-bottom: 69px;
+    padding-left: 23px;

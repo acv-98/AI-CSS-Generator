@@ -1,0 +1,10 @@
+                display: block;
+                position: absolute;
+                width: 55px;
+                height: 55px;
+                cursor: pointer;
+                background:url(../images/a21.png) center center no-repeat;
+                overflow: hidden;
+ background-position: -63px -33px;  background-position: -183px -33px;  background-position: -303px -33px;         
+.logo{
+	font-size:2em;

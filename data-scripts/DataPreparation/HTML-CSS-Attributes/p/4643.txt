@@ -1,0 +1,5 @@
+	float:left;
+	color:#b7b7b7;
+	padding-left:12px;
+	font:normal 11px /30px Tahoma, Arial, Helvetica, sans-serif;
+	text-decoration:none;

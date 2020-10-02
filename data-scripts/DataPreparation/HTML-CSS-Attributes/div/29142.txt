@@ -1,0 +1,8 @@
+  background: #66D37E;
+  padding: 40px 20px 20px 20px;
+  margin-bottom: 30px;
+  display: block;
+  width: 100%;
+  font-size: 40px;
+  color: #fff !important;
+  font-weight: 400;

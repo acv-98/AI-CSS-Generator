@@ -1,0 +1,4 @@
+ padding: 12px 0; .portfolio-item .portfolio-item-meta h5 a {
+   font: 13px/24px montserrat-bold, sans-serif;
+   color: #0f9095;
+   margin-left: 7%;

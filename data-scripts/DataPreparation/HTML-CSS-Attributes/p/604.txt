@@ -1,0 +1,2 @@
+float:left;
+background: url(../images/tp_pic.gif) no-repeat;width:245px;height:110px;margin:153px 0 0 130px;

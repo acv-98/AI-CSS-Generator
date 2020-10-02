@@ -1,0 +1,7 @@
+	color:#f58220;
+	font-size:22px;
+	font-weight:normal;
+	border-bottom:2px solid #fff;
+	padding-bottom:14px;
+	padding-top:10px;
+	text-decoration:underline;

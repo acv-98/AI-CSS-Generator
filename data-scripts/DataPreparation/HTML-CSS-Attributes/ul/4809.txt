@@ -1,0 +1,7 @@
+	list-style: none;
+	font-size: 13px;
+	color: #252525;
+	padding: 0;
+	background: url(images/bullet.png) no-repeat;
+	background-position: 0 1px;
+	margin: 0 0 5px 0;

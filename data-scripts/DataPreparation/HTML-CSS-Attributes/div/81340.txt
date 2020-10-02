@@ -1,0 +1,10 @@
+  width: 50%;
+   background-image: url("../images/about-bg.jpg");
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 70px 70px 110px;
+  font-size: 17px;
+  font-family: 'Dosis',sans-serif;
+    width: 100%;    
+    padding: 70px 25px 110px;

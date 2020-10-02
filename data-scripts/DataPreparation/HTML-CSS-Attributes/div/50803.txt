@@ -1,0 +1,6 @@
+	padding:21px 15px 0 33px;
+	height:278px;
+	overflow:hidden;
+	position:relative;
+	padding-top:10px;
+	color:#fff;

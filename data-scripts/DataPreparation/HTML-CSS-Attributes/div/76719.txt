@@ -1,0 +1,13 @@
+  color: #a5d549;
+  background-color: #a5d549;
+  display: inline;
+  float: left;
+  text-align: center;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  margin-left: 0px;

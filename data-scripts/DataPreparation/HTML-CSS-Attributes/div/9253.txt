@@ -1,0 +1,16 @@
+  padding-bottom: 41px;
+  overflow: hidden;
+  position: relative;
+  border-bottom: 1px solid #585858;
+  padding-top: 20px;
+  margin-top: 15px;
+  left: 360px;
+  top: 11px;
+  bottom: 26px;
+  background-color: #585858;
+  width: 1px;
+  content: '';
+  padding-right: 52px;
+  margin-bottom: 34px;
+  display: block;
+  margin-left: 68px;

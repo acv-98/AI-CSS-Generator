@@ -1,0 +1,8 @@
+  width: 16px;
+  background-position: -408px -120px;
+ content: "\f07c";  content: "\f115"; img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;

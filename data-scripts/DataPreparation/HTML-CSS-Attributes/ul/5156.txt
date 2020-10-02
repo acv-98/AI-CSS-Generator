@@ -1,0 +1,6 @@
+	font-size: 0;
+	text-align: center;
+	line-height: 0;
+	margin-bottom: 3px;
+	display: inline-block;
+	color: #d9c381;

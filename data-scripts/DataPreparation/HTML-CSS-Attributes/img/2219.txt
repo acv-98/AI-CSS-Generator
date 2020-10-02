@@ -1,0 +1,7 @@
+	margin-right: 0;
+	margin-bottom: 50px;
+	max-width: 250px;
+	width: 100%;
+	height: auto;
+		margin-right: 50px;
+		margin-bottom: 0;

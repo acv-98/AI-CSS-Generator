@@ -1,0 +1,7 @@
+padding:150px 0;
+position:relative
+margin-top:0;
+font-size:50px
+display:block;
+margin-bottom:25px
+height:60px

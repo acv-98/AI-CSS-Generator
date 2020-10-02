@@ -1,0 +1,1 @@
+float:right; display:inline; width:50%; text-align:rightdisplay:inline-blockbackground-color:#f13b3b; border-radius:50%; color:#fff; display:inline-block; margin-bottom:8px; opacity:0.7; padding:6px 10pxopacity:1background-color:#2AB2E3background-color:#3b5998; padding:6px 12pxbackground-color:#D42E33background-color:#E36F36.logo_area

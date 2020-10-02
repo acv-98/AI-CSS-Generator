@@ -1,0 +1,9 @@
+	margin: auto;
+	padding-top: 8px;
+	width: 950px;
+	height: 40px;
+	background: url(../images/title2-img.jpg) 341px 0px no-repeat;
+	text-align: center;
+	font-size: 20px;
+	color: #666666;
+	font-weight: bold;

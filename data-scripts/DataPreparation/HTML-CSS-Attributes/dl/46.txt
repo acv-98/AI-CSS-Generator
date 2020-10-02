@@ -1,0 +1,12 @@
+    float: none;
+    clear: none;
+    width: auto;
+    text-align: left;
+    margin-left: 0;
+  *zoom: 1;
+  display: table;
+  line-height: 0;
+  content: "";
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;

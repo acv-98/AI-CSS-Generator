@@ -1,0 +1,5 @@
+  color: #fff;
+  font-size: 70px;
+  line-height: 90px;
+    font-size: 55px;
+    line-height: 70px;

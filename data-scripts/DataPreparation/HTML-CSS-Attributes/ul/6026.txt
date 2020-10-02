@@ -1,0 +1,7 @@
+  padding-left: 0;
+  list-style: none;
+  display: inline-block;
+  margin-right: 5px;
+        display: inline-block;
+        padding-right: 3px;
+        padding-left: 3px;

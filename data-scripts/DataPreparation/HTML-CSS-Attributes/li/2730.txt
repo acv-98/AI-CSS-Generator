@@ -1,0 +1,5 @@
+	border-bottom: 1px solid #ccc;	
+	background: url(../img/toggle.png) no-repeat 5px -78px;
+background: #fe8300;.shadow-slider{
+	height: 11px;
+	margin-bottom: 70px;

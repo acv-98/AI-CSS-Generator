@@ -1,0 +1,2 @@
+background:none; background:url(../images/menu_border.gif) no-repeat 0 2px; padding:5px 0 0 7px
+background:none; padding:8px 0 25px 0float:left; width:270px; padding:5px 0 0 0

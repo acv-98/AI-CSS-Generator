@@ -1,0 +1,3 @@
+	margin:0;
+	padding:12px 20px 24px;
+	background:url(../images/gadget.gif) repeat-y center top;

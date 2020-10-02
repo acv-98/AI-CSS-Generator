@@ -1,0 +1,6 @@
+	position: absolute;
+	cursor: pointer;
+	display: block;
+	overflow: hidden;
+	background: url(images/navright.png) no-repeat;
+	background-position: -311px -41px;

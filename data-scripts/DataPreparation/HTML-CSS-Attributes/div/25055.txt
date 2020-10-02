@@ -1,0 +1,6 @@
+width:460px;width:48.93617021276595%;*width:48.88297872340425%;float:none;width:444px;margin-left:0;width:446px;.visible-print
+  Bootstrap's documentation styles
+  Special styles for presenting Bootstrap's documentation and examples
+body {
+  position: relative;
+  padding-top: 40px;

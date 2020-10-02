@@ -1,0 +1,13 @@
+  width: 460px;
+  *width: 48.88297872340425%;
+  float: none;
+  margin-left: 0;
+    width: 570px;
+    *width: 48.664757228587014%;
+ width: auto;  width: 570px;  width: 460px; .section.blog .sticky .the-content h4,
+.section.blog .sticky .the-content h4 a {
+    color: #676768;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 7px;
+ width: 460px;  width: 352px;  width: 100%; 

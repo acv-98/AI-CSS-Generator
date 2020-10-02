@@ -1,0 +1,6 @@
+    	width: 20%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 300px;
+  position: relative;

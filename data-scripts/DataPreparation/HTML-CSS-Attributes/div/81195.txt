@@ -1,0 +1,12 @@
+ padding: 0  position: relative .count-box {
+    -webkit-backface-visibility: hidden;
+    border-left: 1px solid #d3d3d3;
+    padding: 40px 0;
+    margin: 0;
+    overflow: hidden;
+    transition: all 0.5s;
+    transform: translateX(0px) translateY(0%);
+    -webkit-transform: translateX(0px) translateY(0%);
+    -moz-transform: translateX(0px) translateY(0%);
+    -ms-transform: translateX(0px) translateY(0%);
+    -o-transform: translateX(0px) translateY(0%);

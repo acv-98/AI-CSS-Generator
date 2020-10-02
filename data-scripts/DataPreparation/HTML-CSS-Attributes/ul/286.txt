@@ -1,0 +1,19 @@
+	width: 752px;
+	margin-left: auto!important;
+	margin-right: auto!important;
+	border: 0px;
+	float: none!important;
+	padding-left: 216px;
+	color: #6D6D6D;
+	font-family: "OpenSans Regular";
+	font-size: 14.8px;
+	padding-top: 0px;
+ 
+  text-decoration: none;
+  background-color: #fff;
+  outline: none;
+	background: none;
+	background-color: none;
+	 
+	padding-bottom: 0px;
+	height: 186px;

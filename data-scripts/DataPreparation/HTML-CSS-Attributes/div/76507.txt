@@ -1,0 +1,6 @@
+margin:0; padding:0;margin:0px; padding:10px 0 0 0; text-align:center;margin:0px 0px 0px 0px; width:auto; padding:12px 30px 10px 30px; background:url(../images/menudivider.png) no-repeat 0 5px; display:inline; list-style:none;background:none;color:#FFFFFF; font-size:12px; font-weight:bold; text-decoration:none;color:#fffe90color:#fffe90
+.clear
+{
+	margin:0px;
+	padding:0px;
+	clear:both;

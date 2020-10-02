@@ -1,0 +1,5 @@
+	color: #000;
+	font-size: 13px;
+	font-family: 'oswald';
+	padding-top: 10px;
+	text-transform: uppercase;

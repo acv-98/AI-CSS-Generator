@@ -1,0 +1,8 @@
+    height: 660px;
+    margin-left: 50px;
+    position: relative;
+    background: linear-gradient(left ,#8165a6, #d83f87) repeat scroll 0 0;
+        margin-left: 15px;
+        height: 780px;
+        overflow: hidden;
+        padding: 20px 0 40px;

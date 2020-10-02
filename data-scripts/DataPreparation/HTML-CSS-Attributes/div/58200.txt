@@ -1,0 +1,11 @@
+    padding: 0px 100px;
+	margin: 0 auto;
+    max-width: 140px;
+    font-size: 12px;
+    text-transform: uppercase;
+	color: #4c9cef;
+    font-weight: 700;
+    letter-spacing: 4px;
+    margin: 20px 0px;
+    line-height: 25px;
+        padding: 0;

@@ -1,0 +1,10 @@
+	z-index: 999;
+	float: right;
+	padding-top: 1px;
+	position: relative;
+    font-family: 'Open Sans', sans-serif;
+		float: none !important;
+		padding: 12px 0px 12px !important;
+		clear: both;
+		min-height: 0px;
+  	border: none;

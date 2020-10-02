@@ -1,0 +1,16 @@
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	padding-right: 10px;
+	display: none;
+	-webkit-backface-visibility: hidden;
+	max-width: 100%;
+	border:none
+	content: ".";
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+	zoom: 1;
+	position: relative;
+	background:none;

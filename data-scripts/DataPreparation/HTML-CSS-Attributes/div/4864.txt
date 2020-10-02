@@ -1,0 +1,8 @@
+	display:block;
+	float:left;
+	padding:10px 0 5px 12px;
+	font-size:12px;
+	color:#c82127;
+	text-decoration:none;
+	border-bottom:1px #bcbcbc dotted;
+	background:url(images/arrow.gif) no-repeat 0 13px;

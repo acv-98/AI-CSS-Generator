@@ -1,0 +1,5 @@
+	background-color:#00CCFF;
+	padding:15px;
+	color:white;
+	-moz-border-radius: 8px;
+	border-radius: 8px;

@@ -1,0 +1,4 @@
+	border:1px solid transparent;
+	color:#3c3c3c;
+	background-color:transparent;
+	text-transform:uppercase;

@@ -1,0 +1,5 @@
+	width:660px;
+	height:60px;
+	float:left;
+	color:#fff;
+	font:normal 40px/60px Rockwell, Arial, Helvetica, sans-serif;

@@ -1,0 +1,8 @@
+	list-style:none;
+	display:inline;
+	padding:5px 0;
+	font-weight:bold;
+	text-decoration:none;
+	border-top:1px dotted #CCC;
+	border-bottom:1px dotted #CCC;
+	color:#555;

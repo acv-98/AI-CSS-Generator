@@ -1,0 +1,4 @@
+    font-size: 22px;
+    color: #313131;;
+    letter-spacing: 3px;
+    font-weight: bold;

@@ -1,0 +1,5 @@
+	text-decoration:none;
+	color:#FFAD00;
+	width:42px;
+	float:left;
+	text-align:right;

@@ -1,0 +1,13 @@
+  font-size: 36px;
+  position: relative;
+  top: -4px;
+  z-index: 5;
+  color: #ffffff;
+  text-align: center;
+  left: 0;
+  right: 0;
+  margin-top: -43px;
+  padding-top: 22px;
+  font-weight: 600;
+  display: block;
+    font-size: 28px;

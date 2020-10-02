@@ -1,0 +1,1 @@
+width:300px; height:10px; background:#ffffff url(../images/panel-bottom.gif) bottom no-repeat; padding-bottom:20px;

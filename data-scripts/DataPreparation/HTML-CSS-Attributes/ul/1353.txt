@@ -1,0 +1,6 @@
+	float:right;
+	list-style:none;
+	width:260px;
+	margin:0;
+	font-family:'Time New Roman';
+	font-size:15px;

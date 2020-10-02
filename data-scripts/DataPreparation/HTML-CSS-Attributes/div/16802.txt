@@ -1,0 +1,6 @@
+	position:absolute;
+	width:23px;
+	height:24px;
+	right:88px;
+	bottom:-24px;
+	background:url(../images/corner.png) 0 0 no-repeat;

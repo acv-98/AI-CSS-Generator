@@ -1,0 +1,9 @@
+	padding:0;
+	margin:0;
+	background:#f7f7f7 url(images/main_bg.jpg) top center repeat-x;
+	float:left;
+	width:630px;
+	border:1px solid #eaecec;
+	background-color:#fff;
+	color:#9a9a9a;
+	text-decoration:none;

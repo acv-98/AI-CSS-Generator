@@ -1,0 +1,15 @@
+  height: 625px;
+  background-size: cover;
+  margin-bottom: 30px;
+  position: relative;
+    height: 400px;
+  top: 20px;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+  opacity: 0;
+  margin-top: -25px;
+  color: gray;
+  letter-spacing: 2px;
+  font-size: 12px;
+  text-transform: uppercase;

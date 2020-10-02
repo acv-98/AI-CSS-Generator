@@ -1,0 +1,9 @@
+	border-bottom:6px solid #efefef;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+	-webkit-transition: opacity 0.5s linear;
+	-moz-transition: opacity 0.5s linear;
+	-o-transition: opacity 0.5s linear;
+	-ms-transition: opacity 0.5s linear;
+	transition: opacity 0.5s linear;
+	cursor:pointer;

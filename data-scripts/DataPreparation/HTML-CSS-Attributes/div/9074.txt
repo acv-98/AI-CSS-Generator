@@ -1,0 +1,12 @@
+	position: absolute;
+	z-index: 1;
+	-webkit-transition: all ease 1s;
+	-moz-transition: all ease 1s;
+	-o-transition: all ease 1s;
+	-ms-transition: all ease 1s;
+	transition: all ease 1s;
+ border-radius: 25px; background-color: rgba(139, 164, 201, 0.2); width: 175px; height: 175px; top: -10%; left: 33%; -webkit-animation: rotating 10s ease-in infinite; -moz-animation: rotating 10s ease-in infinite; -ms-animation: rotating 10s ease-in infinite; animation: rotating 10s ease-in infinite; .banner .banner:hover .blob-1 {
+	height: 600px;
+	width: 600px;
+	top: -30%;
+	left: 0%;

@@ -1,0 +1,8 @@
+    height: 70px;
+    border: 3px solid #2EB1D0;
+    font-size:30px;
+    color:#2EB1D0;
+    padding-left:40px;
+    border-radius:0px;
+    -webkit-border-radius:0px;
+    -moz-border-radius:0px;

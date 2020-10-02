@@ -1,0 +1,2 @@
+  width: 16px;
+  background-position: -408px -120px;

@@ -1,0 +1,5 @@
+  border-bottom: 1px solid #dbdbdb;
+ margin-bottom:0px;#meet-team .team-member:hover {
+  border-color: #45aed6;
+ text-align:center; text-align:center; display:block;	
+ text-align:center; text-align:center; display:block;

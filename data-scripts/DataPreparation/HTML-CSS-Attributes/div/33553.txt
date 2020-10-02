@@ -1,0 +1,1 @@
+background:url(images/datebox.jpg) no-repeat; width:42px; padding:5px 4px 0 3px; height:56px; float:left;font:bold 28px "Trebuchet MS", Verdana, Helvetica, sans-serif; color:#fff; text-align:center; display:block; height:36px;font:12px "Trebuchet MS", Verdana, Helvetica, sans-serif; color:#fff; text-align:center; display:block; padding:2px 0 0 0;

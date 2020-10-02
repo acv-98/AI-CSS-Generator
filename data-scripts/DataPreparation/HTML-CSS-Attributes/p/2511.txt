@@ -1,0 +1,6 @@
+	margin:5% 10% 12% 10%;
+	color: #636363;
+	font-size:14px;
+	line-height:21px;
+	font-weight: 300;
+	letter-spacing:1px;

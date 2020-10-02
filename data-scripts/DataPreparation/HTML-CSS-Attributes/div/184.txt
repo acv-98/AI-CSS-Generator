@@ -1,0 +1,2 @@
+	height:198px; 	background:url(../images/banner.jpg) left top no-repeat;
+	float:left;

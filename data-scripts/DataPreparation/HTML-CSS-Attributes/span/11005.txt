@@ -1,0 +1,14 @@
+	float: left; 
+	overflow: hidden;
+	margin: 0; 
+	padding: 0;
+	width: 370px; 
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px; 
+	background-color:#000;
+	color: #f2f2f2;
+	font-weight: bold; 
+	line-height: 22px; 
+	margin-top: 15px;
+	text-align: left;
+background:#b5b5b4; padding: 7px; font-size: 13px; color: #fff; font-style: italic;

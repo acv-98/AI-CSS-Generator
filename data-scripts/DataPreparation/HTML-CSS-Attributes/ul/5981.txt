@@ -1,0 +1,4 @@
+ font-style: italic  content: ','  content: ' ' .media.post-author {
+    background: #ffcc33;
+    padding: 20px;
+    margin-top: -1px;

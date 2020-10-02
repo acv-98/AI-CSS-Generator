@@ -1,0 +1,6 @@
+	background: #ffffff;
+	width: 38px;
+	height: 38px;
+	display: inline-block;
+	text-align: center;
+	line-height: 38px;

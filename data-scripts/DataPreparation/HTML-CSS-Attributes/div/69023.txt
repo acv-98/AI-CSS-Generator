@@ -1,0 +1,12 @@
+ font-size: 48px; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: 400;  font-size: 48px; font-family: 'Oswald', sans-serif; color: #ea7206; font-style: normal; font-weight: 400;  font-size: 14px; font-family: 'Droid Sans', sans-serif; font-style: normal; font-weight: 400;     margin: -23px auto 0;
+    position: relative;
+width: 100%;.slider_cycle .slide-title h2, .slider_cycle .slide-title h2 span {
+    font-size: 48px;
+    line-height: 60px;
+    color: #282627;
+ color: #ea7206; .slider_cycle .slide-content {
+ color: inherit !important; font-size: 14px; #yit-widget-area {
+    z-index: 1001;
+    top: -90px;
+    overflow: hidden
+ margin-left:-20px; margin-right:-20px; width: auto !important;  color: inherit; 

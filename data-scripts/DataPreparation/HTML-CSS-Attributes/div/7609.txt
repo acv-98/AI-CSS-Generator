@@ -1,0 +1,10 @@
+  width: 50%;
+    width: 100%;
+  padding: 5em 0;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+    padding: 2em 0 3em 0;
+  float: right;
+    float: none;

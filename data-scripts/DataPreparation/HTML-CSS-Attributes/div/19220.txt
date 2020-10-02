@@ -1,0 +1,5 @@
+ padding-right: 0; 
+.tm-subtitle { 
+	font-size: 25px; 
+	margin-bottom: 30px;
+ padding-left: 0; 

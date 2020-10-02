@@ -1,0 +1,3 @@
+	background:url(images/nav-btn-h.gif) repeat-x 0 0;
+	color:#fff;
+	text-decoration:none;

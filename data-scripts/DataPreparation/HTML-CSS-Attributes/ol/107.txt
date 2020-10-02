@@ -1,0 +1,14 @@
+	display: block;
+	margin-left: 90px;
+	margin-bottom: 0px;
+	padding: 10px 10px;
+	line-height: 1.5em;
+	overflow: visible;
+	position: relative;
+	color: #1f1f1f;
+	text-decoration: none;
+	min-height: 80px;
+	padding-left: 20px;
+	float: left;
+	font-style: italic;
+	font-size: 14px;

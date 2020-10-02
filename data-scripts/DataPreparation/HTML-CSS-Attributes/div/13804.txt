@@ -1,0 +1,15 @@
+    text-align: center;
+    float: left;
+    width: 100%;
+    margin: 0 0 50px 0;
+    font-size: 35px;
+    text-transform: none;
+    font-weight: 400;
+    letter-spacing: -1px;
+    color: #333;
+    padding: 0;
+    position: relative;
+    height: 4px;
+    background: #39b49b;
+    content: "";
+    display: block;

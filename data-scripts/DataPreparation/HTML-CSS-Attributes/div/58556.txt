@@ -1,0 +1,17 @@
+	display:inline-block;
+	color: #535353;
+	background: #EDEDED;
+	padding: 0.2em 0.7em;
+	font-weight: 600;
+	font-size: 1.2em;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	text-align: center;
+	margin: 4em 0 4em;
+	height: 20px;
+	width: 15px;
+	vertical-align: sub;
+	margin-right: 1em;
+	cursor:pointer;
+		padding: 0.2em 0.5em;

@@ -1,0 +1,4 @@
+	border-top:4px solid #35353f;
+	background:#35353f;
+	text-align: center;
+	padding:3em 0;

@@ -1,0 +1,9 @@
+	behavior:url("../js/PIE.htc");
+	position:relative;
+	background:url(../images/nav-shadow.png) 0 0 no-repeat;
+	padding-top:10px;
+	margin:24px 0px 0px 0px;
+	z-index:100;
+	border-radius: 7px;
+	padding-bottom:4px;
+	box-shadow:0 3px 2px #201a1a;

@@ -1,0 +1,5 @@
+	line-height:12px;
+	text-align:right;
+	padding:1px 9px 0 0;
+	font-size:11px;
+	display:block;

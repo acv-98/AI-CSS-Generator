@@ -1,0 +1,1 @@
+   border:14px solid rgb(236, 236, 236);

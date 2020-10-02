@@ -1,0 +1,3 @@
+	height: auto;
+	background-attachment: fixed;
+	padding: 10% 0;

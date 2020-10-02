@@ -1,0 +1,17 @@
+	width:950px;
+	margin-right:auto;
+	margin-left:auto;
+	padding-top:15px;
+	padding-bottom:15px;
+	background-color:#DCDCDC;
+	padding-right:20px;
+	padding-left:20px;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	border-top-style:solid;
+	border-bottom-style:solid;
+	border-top-color:#FFF;
+	border-bottom-color:#FFF;
+	background-image:url(../images/sivo_block1.jpg);
+	background-repeat:repeat-y;
+	background-position:top;

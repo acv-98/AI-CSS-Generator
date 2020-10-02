@@ -1,0 +1,10 @@
+	position:absolute;
+	bottom:31px;
+	right:50%;
+	margin-right:-58px;
+	width:57px;
+	height:58px;
+	background:url(../images/next.png) 0 bottom no-repeat;
+	display:block;
+	z-index:999;
+	background-position:0 0;

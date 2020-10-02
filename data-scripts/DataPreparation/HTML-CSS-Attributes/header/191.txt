@@ -1,0 +1,2 @@
+	height: 140px;
+	text-align:left

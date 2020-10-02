@@ -1,0 +1,14 @@
+ padding-top: 20px; clear: both; 	
+	.related-projects{
+		width: 252px; 
+	color: #ea4c88;
+ color: #888; 	margin: 44px 24px 44px 0px;
+	float: left;
+	margin-right: 20px;
+	display: block;
+	text-decoration: none;
+	padding-top: 5px;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;

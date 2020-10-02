@@ -1,0 +1,6 @@
+	background:url(../images/nav-bg.gif) 0 0 repeat-x;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	background-color:#1d1d1d;
+	color:#fff;

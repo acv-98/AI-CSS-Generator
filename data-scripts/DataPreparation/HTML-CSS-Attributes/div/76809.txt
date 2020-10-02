@@ -1,0 +1,1 @@
+color:#ffffff;font-style:italic;line-height:17px;color:#ee9803;font-weight:bold;text-align:right;margin-top:7px;

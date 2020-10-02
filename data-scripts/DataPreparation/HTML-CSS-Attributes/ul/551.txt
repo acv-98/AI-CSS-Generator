@@ -1,0 +1,10 @@
+	color: #00BFF0;
+	font-size: 1.1em;
+	text-transform: uppercase;
+	margin-bottom:4%;
+	background:#e6e6e6;
+	padding: 6%;
+	margin-top: 8%;
+	list-style-image: url(../images/a3.png);
+	vertical-align: top;
+	text-decoration: none;

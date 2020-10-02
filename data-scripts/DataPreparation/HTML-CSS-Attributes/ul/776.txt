@@ -1,0 +1,5 @@
+    margin: 0;
+    padding: 0;
+    display: block;
+    list-style: none;
+    color: #d9d9d9;

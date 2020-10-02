@@ -1,0 +1,11 @@
+  padding: 0 5px;
+  margin-left: -3px;
+  top: 50%;
+  right: 0;
+  margin-top: -5px;
+  border-left-color: #000000;
+  border-width: 5px 0 5px 5px;
+  border-right-width: 0;
+  bottom: -10px;
+  left: -100%;
+left:0; left: -15600px;left: 8px;right: 38px; left: auto;

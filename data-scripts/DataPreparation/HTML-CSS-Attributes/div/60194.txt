@@ -1,0 +1,5 @@
+	padding:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:0.87em;
+	background:#ffc;
+	border:solid 1px #000;

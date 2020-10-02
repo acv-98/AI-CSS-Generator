@@ -1,0 +1,8 @@
+  background: none;
+  padding: .5em 1em;
+  margin: 0;
+  .box .the-content{
+  min-height:92px;
+  height:auto !important;
+  min-width: 64px;
+ background: transparent url(images/box-tr.png) no-repeat top right; 

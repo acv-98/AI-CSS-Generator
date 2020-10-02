@@ -1,0 +1,1 @@
+width:95px; height:102px; float:right; position:absolute; right:-50px; top:42px; background:url(../images/tweet.png) no-repeat

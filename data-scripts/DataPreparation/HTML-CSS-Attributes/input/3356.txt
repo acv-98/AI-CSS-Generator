@@ -1,0 +1,2 @@
+width: 108px;height: 31px;background: url('../img/submit-subscribe.png') no-repeat;border: 0;font-size: 1.0em;font-weight: bold;color: #660100;text-shadow: 1px 1px 1px #fb3752;font-family: Arial;cursor: pointercolor: #000
+*  OTHER STYLES                                                                                                    

@@ -1,0 +1,14 @@
+	text-decoration: none;
+	color: #414550;
+	font-weight: bold;
+	padding: 10px 10px 10px 25px;
+	cursor: pointer;
+	border: 1px solid #b7c7d1;
+	background: #dae4ea url(../images/about/toggle.png) no-repeat 5px 10px;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	border-bottom:1px solid #b7c7d1;
+	background-color:#bfd6e4;

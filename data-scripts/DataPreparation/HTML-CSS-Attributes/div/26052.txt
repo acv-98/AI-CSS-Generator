@@ -1,0 +1,11 @@
+  display: inline;
+  float: left;
+  width: 100%;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Tangerine", cursive;
+  line-height: 30px;
+  color: #000;
+    margin-bottom: 0;
+    font-size: 28px;

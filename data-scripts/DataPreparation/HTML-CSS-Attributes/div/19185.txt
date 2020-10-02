@@ -1,0 +1,6 @@
+	border-bottom: 2px solid #1baab9;
+  -webkit-border-radius: 2px;
+     -moz-border-radius: 2px;
+          border-radius: 2px;
+	background:#fcfcfc;
+	padding:20px;

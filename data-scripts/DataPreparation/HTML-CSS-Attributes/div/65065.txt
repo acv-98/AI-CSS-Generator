@@ -1,0 +1,8 @@
+	width: 100%;
+	height: 46px;
+	display: block;
+	background: url(../images/footer_bg.jpg) repeat-x;
+	overflow: hidden;
+	color: #bebebe;
+	margin-top: 14px;
+	text-align: left;

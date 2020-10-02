@@ -1,0 +1,1 @@
+color:#FFFFFF; background:linear-gradient(to top right,#99396F,#C96D9F);color:inherit; background-color:transparent; border-color:inherit;color:#C96D9F; background-color:#FFFFFF;

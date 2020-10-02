@@ -1,0 +1,1 @@
+ clear:left; float:left; width:230px; background:#980F0F url(../images/rp_cont_bg.gif) repeat-x; margin-top:2px; padding-bottom:11px;

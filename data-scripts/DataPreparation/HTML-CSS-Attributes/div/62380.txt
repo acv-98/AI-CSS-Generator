@@ -1,0 +1,16 @@
+    padding: 100px 0px 40px 0px;
+    margin-bottom: 0px;
+    margin-right: 12%;
+    border-right: 6px solid #e74c3c;
+    color:#fff;
+    padding-right: 5%;
+    position: relative;
+    height: 676px;
+    width: 100%;
+    background: #202020;
+    line-height: 70px;
+    text-align: center;
+    z-index: 9;
+    border-radius: 50%;
+    font-size: 1.875rem;
+    font-family: 'source_sans_proregular';

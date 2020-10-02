@@ -1,0 +1,5 @@
+	margin: auto;
+	margin-top: 45px;
+	width: 1000px;
+	text-align: center;
+	display: inline;

@@ -1,0 +1,13 @@
+ margin-top: 20px; 
+.tm-social-icon-link-brown {
+	background-color: transparent;
+	color: #655623;
+    padding: 8px;
+    border: 1px solid #917D33;
+    border-radius: 50%;
+    margin-right: 2%;
+    width: 52px;
+    height: 52px;
+    display: inline-block;
+    text-align: center;
+	margin-right: 0;

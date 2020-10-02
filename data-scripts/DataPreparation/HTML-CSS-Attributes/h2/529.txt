@@ -1,0 +1,6 @@
+	background-color: #f6f6f6;
+	border-top: 2px solid #0091ea;
+	color: #323232;
+	font-size: 24px;
+	padding: 16px 20px;
+		font-size: 22px;

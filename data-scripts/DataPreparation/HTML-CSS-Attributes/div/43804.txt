@@ -1,0 +1,7 @@
+	background-color: white;
+	padding: 40px;
+ padding-top: 10px; .content-text-gallery {
+	position: relative;
+	height: auto;
+	min-height: 200px;
+ padding: 30px 25px;  padding: 5px; 

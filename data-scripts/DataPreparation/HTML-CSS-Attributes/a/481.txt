@@ -1,0 +1,11 @@
+color:#19529d
+#logo
+{width:263px;
+ height:76px;
+ margin:25px 0 0 10px;
+color:#000.redBold
+{
+	font-size: 18px;
+	font-weight: bold;
+	color: #DF3737;
+	font-family: Arial, Helvetica, sans-serif;

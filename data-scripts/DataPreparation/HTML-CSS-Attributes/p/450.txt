@@ -1,0 +1,3 @@
+float:right; color:#b8b8b8;
+@media only screen and (max-width: 980px) and (min-width: 821px) {
+display:block; float:none; width:100%; margin-bottom:15px;color:#b8b8b8; margin-bottom:0;display:block; float:none; width:100%; margin-bottom:15px;color:#b8b8b8; margin-bottom:0;display:block; float:none; width:100%; margin-bottom:15px;color:#b8b8b8; margin-bottom:0;display:block; float:none; width:100%; margin-bottom:15px;color:#b8b8b8; margin-bottom:0;

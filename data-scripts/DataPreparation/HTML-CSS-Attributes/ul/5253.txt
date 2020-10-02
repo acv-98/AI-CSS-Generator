@@ -1,0 +1,15 @@
+  list-style: none outside none;
+  overflow: hidden;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-image: url(../img/soc-icon-1.png);
+  float: left;
+  margin-left: 5px;
+    float: none !important;

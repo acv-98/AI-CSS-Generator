@@ -1,0 +1,16 @@
+	margin-top: 30px;
+	padding: 10px 0;
+	font-size: 18px;
+	color: #aaa;
+    line-height: 32px;
+    width: 120px;
+	height: 120px;
+    margin: 0 auto;
+	padding-top: 30px;
+	background: #8ec1cd;
+	-moz-border-radius: 65px; -webkit-border-radius: 65px; border-radius: 65px;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+ vertical-align: middle; .block-1-left {
+	padding-bottom: 25px;

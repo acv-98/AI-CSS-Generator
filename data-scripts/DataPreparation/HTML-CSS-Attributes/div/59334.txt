@@ -1,0 +1,4 @@
+	color: #00cfef;
+	text-align: left;
+    border-bottom: 1px solid #d6d6d6;
+    padding: 8px 0;

@@ -1,0 +1,1 @@
+border-bottom:1px dotted #dedede; display:inline; float:left; margin-bottom:30px; padding-bottom:2px; padding-left:5px; width:100%margin-right:5px; font-size:11pxmargin-right:5pxcolor:#798992; font-size:11px; margin-right:5pxmargin-right:5pxcolor:#ffa500

@@ -1,0 +1,6 @@
+	display: inline;
+	position: relative;
+	float: left;	
+	width: 100%;
+	  height: 250px;
+	  width: 100%;

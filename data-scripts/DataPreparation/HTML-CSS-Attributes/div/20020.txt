@@ -1,0 +1,4 @@
+.main_dialogue h3{
+    font-size:36px;
+    font-weight: 300;
+    line-height: 3.5rem;

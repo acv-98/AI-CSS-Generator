@@ -1,0 +1,2 @@
+float:right;
+margin:0 5px 0 0; line-height:normal;display:block; float:none;display:inline-block;margin-right:20px;

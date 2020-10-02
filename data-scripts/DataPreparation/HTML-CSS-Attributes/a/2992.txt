@@ -1,0 +1,9 @@
+	top: 0;
+	left: 50%;
+	height: 100%;
+	width: 0;
+	border: 1px solid var(--inv);
+	border-left: 0;
+	border-right: 0;
+	bottom: 0;
+	background: var(--inv);

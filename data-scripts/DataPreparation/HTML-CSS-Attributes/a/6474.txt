@@ -1,0 +1,7 @@
+	color: #fff;
+	background: url(../images/menu_right.jpg) no-repeat top right;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 5px;
+	height: 33px;

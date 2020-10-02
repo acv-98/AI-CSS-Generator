@@ -1,0 +1,8 @@
+	font:bold 11px Arial, Helvetica, sans-serif;
+	color:#0092dd;
+	line-height:1.8em;
+	text-decoration:none;
+	padding-top:0;
+	padding-bottom:0;
+	padding-left:10px;
+	padding-right:10px;

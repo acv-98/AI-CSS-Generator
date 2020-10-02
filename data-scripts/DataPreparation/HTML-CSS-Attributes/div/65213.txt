@@ -1,0 +1,6 @@
+	position:absolute;
+	right:0;
+	top:77px;
+	width:50%;
+	height:646px;
+	background:url(../images/tail-top-right.gif) repeat-x right top;

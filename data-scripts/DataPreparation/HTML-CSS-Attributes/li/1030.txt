@@ -1,0 +1,8 @@
+  content: " ";
+  position: absolute;
+  background: none;
+  width: 7px;
+  height: 4px;
+  right: 50%;
+  top: 51px;
+  margin: 0 -3px 0 0;

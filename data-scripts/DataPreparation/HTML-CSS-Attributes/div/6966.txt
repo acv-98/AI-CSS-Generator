@@ -1,0 +1,1 @@
+width:100%; height:auto; background:#222156; overflow:hidden;width:960px; margin:0 auto; margin-top:70px; overflow:hidden;width:960px; height:100px; background:url(../images/top-strip.gif) no-repeat;

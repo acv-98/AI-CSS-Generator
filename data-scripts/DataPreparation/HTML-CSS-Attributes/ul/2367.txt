@@ -1,0 +1,2 @@
+    padding-left: 35px;
+    background: url(../images/social/facebook.png) no-repeat left 11px;

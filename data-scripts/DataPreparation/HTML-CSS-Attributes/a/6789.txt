@@ -1,0 +1,5 @@
+  line-height: 28px;
+  color: #5C5C5C;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 2px;

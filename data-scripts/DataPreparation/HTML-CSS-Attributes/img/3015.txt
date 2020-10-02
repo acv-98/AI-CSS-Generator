@@ -1,0 +1,9 @@
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  padding: 4px;
+  line-height: 1.428571429;
+  background-color: #fff;
+  -webkit-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;

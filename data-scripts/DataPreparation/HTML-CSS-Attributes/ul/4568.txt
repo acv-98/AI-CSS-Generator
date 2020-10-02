@@ -1,0 +1,21 @@
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 30px;
+  border: 1px solid #eee;
+  border-radius: 5px 5px 4px 4px;
+  text-align: center; background: #fff; box-shadow:1px 1px 1px rgba(0,0,0,0.1);
+box-shadow:0px 4px 12px rgba(0, 0, 0, 0.2); transition:all 0.3s ease 0s;#pricing ul.pricing li {
+  display: block; font-size:18px;
+ 
+  position: relative;
+  margin-top: -63px;
+  top: -10px;
+  width: 116px;
+  height: 116px;
+  background-image: -moz-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
+  color: #fff;
+  line-height: 1;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+ background:#ff641b; border-radius:30px; margin-top:25px; padding:15px 25px 10px; font-size:18px; font-family:'Roboto-medium'; font-size:18px; display:block; text-align: center; text-transform:lowercase; font-weight:normal;#pricing ul.pricing.featured {

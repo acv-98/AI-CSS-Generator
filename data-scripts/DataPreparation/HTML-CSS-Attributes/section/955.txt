@@ -1,0 +1,15 @@
+	margin-top: 100px;
+	padding: 0;
+	margin-bottom: 100px;
+	list-style: none;
+	text-align: center;
+	width: 100%;
+	display: inline-block;
+	background-color: #f2745f;
+	color: #fff;
+	transition: all 0.5s;
+	height: 40px;
+	line-height: 40px;
+	font-size: 15px;
+	font-weight: 700;
+	text-decoration: none;

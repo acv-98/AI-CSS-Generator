@@ -1,0 +1,16 @@
+        position: absolute;
+        padding: 0 15px;
+        bottom: 10px;
+        -webkit-transform: translateY(100%);
+        -ms-transform: translateY(100%);
+        -moz-transform: translateY(100%);
+        -o-transform: translateY(100%);
+        transform: translateY(100%);
+        -webkit-transition: 0.3s;
+        -ms-transition: 0.3s;
+        -moz-transition: 0.3s;
+        -o-transition: 0.3s;
+          padding: 0;
+          font-size: 12px;
+          font-weight: 500;
+          margin: 0;

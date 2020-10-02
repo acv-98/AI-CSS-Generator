@@ -1,0 +1,6 @@
+  background: #8883bc;
+  border: 1px solid transparent;
+  -webkit-transition: .2s all;
+  -o-transition: .2s all;
+  transition: .2s all;
+  color: #8883bc;

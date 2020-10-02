@@ -1,0 +1,2 @@
+	font: 38px/38px 'Marvel', sans-serif;
+	color: #000;

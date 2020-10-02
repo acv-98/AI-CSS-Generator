@@ -1,0 +1,14 @@
+  background-color: #222;
+  border-color: #080808;
+  color: #999;
+    border-color: #080808;
+    background-color: #080808;
+    color: #999;
+min-height: 60px;
+padding-top: 5px;
+	background: #ffffff;
+	color: #000;
+	font-weight: bolder;
+	font-size: 25px;
+    font-weight:900;
+	letter-spacing: 2px;

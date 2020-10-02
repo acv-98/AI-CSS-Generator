@@ -1,0 +1,11 @@
+  max-width: 1140px;
+  margin-right: auto;
+  margin-left: auto;
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 160px;
+  margin-bottom: 20px;
+  text-align: center;
+    padding-left: 40%;
+    margin-right: auto;
+    margin-left: auto;

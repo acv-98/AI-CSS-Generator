@@ -1,0 +1,14 @@
+	display:block;
+	float:left;
+	margin:0 0 16px;
+	padding:0;
+	width:105px;
+	height:27px;
+	font-size:13px;
+	line-height:27px;
+	font-weight:bold;
+	text-transform:none;
+	color:#fff;
+	text-decoration:none;
+	text-align:center;
+	background:url(../images/readmore.jpg) no-repeat center top;

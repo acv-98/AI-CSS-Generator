@@ -1,0 +1,9 @@
+    overflow: hidden;
+    padding-top: 9px;
+    background: url(../images/quotes.png) 105px 0 no-repeat;
+    margin-top: 0px;
+    position: relative;
+    top: -2px;
+    margin-right: 23px;
+    margin-bottom: 10px;
+    text-transform: uppercase;

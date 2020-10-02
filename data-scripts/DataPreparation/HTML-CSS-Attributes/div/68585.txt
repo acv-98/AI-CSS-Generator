@@ -1,0 +1,15 @@
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+	padding-top: 5px;
+	margin-bottom: 20px;
+	background: none;
+	width: 160px;
+	margin-right: 20px;
+	display: block;
+	overflow: hidden;
+	height: 120px;
+	
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	z-index: 100;

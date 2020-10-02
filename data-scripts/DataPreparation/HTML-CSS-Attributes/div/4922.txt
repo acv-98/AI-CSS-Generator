@@ -1,0 +1,4 @@
+	margin:0 auto;
+	width:920px;
+	padding:0 20px;
+	background:url(../images/fbg_bg.gif) repeat left top;

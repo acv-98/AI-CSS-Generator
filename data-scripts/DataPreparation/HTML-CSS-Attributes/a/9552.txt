@@ -1,0 +1,16 @@
+	display:inline-block;
+	background:#000;
+	font-size:13px;
+	font-weight:bold;
+	color:#fff;
+	text-decoration:none;
+	line-height:30px;
+	padding:0 20px;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	box-shadow:1px 1px 4px rgba(0, 0, 0, .4);
+	-moz-box-shadow:1px 1px 4px rgba(0, 0, 0, .4);
+	-webkit-box-shadow:1px 1px 4px rgba(0, 0, 0, .4);

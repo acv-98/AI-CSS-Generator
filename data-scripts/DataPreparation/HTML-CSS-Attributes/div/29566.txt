@@ -1,0 +1,7 @@
+  margin-left: -15px;
+  margin-right: -15px;
+  content: " ";
+  display: table;
+  clear: both;
+  z-index: 5;
+  position: relative;

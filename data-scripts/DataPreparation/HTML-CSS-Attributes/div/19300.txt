@@ -1,0 +1,2 @@
+  display: block !important;
+  opacity: 1;

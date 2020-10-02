@@ -1,0 +1,2 @@
+margin-bottom: 30px !important;margin-bottom: 0 !important;
+margin-bottom: 40px !important;float: none !important; display: block !important;margin-top: 20px !important; padding-left: 10px;overflow: hidden;color: #373435; font-size: 16px; line-height: 22px; font-family: 'source_sans_probold'; text-transform: uppercase; padding-bottom: 15px;

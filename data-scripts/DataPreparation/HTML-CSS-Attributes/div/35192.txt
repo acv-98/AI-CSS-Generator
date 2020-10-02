@@ -1,0 +1,1 @@
+ list-style-type: none; position:relative; padding:1px; border:solid 1px #dedede; float:left; width:231px; margin-right:9px; height:383px; overflow:hidden;  margin-right:0; 

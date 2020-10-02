@@ -1,0 +1,14 @@
+	color: #666;
+	font-weight: 300;
+	margin-top: 0;
+ font-size: 1.4em; .flex-2-col {
+	display: -webkit-box;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+ font-size: 1.2em; 	
+	.flex-2-col {
+		-webkit-flex-flow: column;
+		    -ms-flex-flow: column;
+		        flex-flow: column;

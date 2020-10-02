@@ -1,0 +1,13 @@
+	overflow:hidden;
+	display:block;
+	float:right;
+	color:#85a09d;
+	width:81px;
+	margin-top:6px;
+	font-size:14px;
+	line-height:18px;
+	font-style:italic;
+	background:#e5e9e8;
+	position:relative;
+	font-weight:bold;
+	padding:12px 24px 15px 18px;

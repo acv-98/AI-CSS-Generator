@@ -1,0 +1,17 @@
+	behavior: url("../js/PIE.htc");
+	position:relative;
+	display:inline-block;
+	font-size:16px;
+	line-height:1.2em;
+	color:#808080;
+	text-transform:uppercase;
+	border:1px solid #fff;
+	background:url(../images/time-tail.gif) 0 0 repeat-x #f2f2f2;
+	border-radius:20px;
+	box-shadow: 0 0 4px #ccc;
+	-moz-box-shadow: 0 0 3px #ccc;
+	-webkit-box-shadow: 0 0 5px #ccc;
+	float:left;
+	margin:3px 30px 3px 3px;
+	text-align:center;
+	padding:2px 15px 10px;

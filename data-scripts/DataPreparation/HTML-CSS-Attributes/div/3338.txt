@@ -1,0 +1,17 @@
+        max-width: 80%;
+        margin: 30px auto;
+    border-top:5px solid #ffcc33;
+    padding:40px 0px;
+    margin-top:20px;
+    background: #fff;
+    text-align: left;
+    display: inline-block;
+    width:80%;
+    color:#f9d423;
+    list-style: none;
+    line-height:45px;
+    height:45px;
+    font-size:1.8975rem;
+    margin-bottom:0px;
+	font-family: 'latobold';
+	

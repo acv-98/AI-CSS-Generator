@@ -1,0 +1,2 @@
+border: 1px solid #929a17;border-bottom: 3px solid #666b10;padding:9px 24px 9px 24px; color:#FFFFFF;-moz-box-shadow: inset 0 1px 0 0 #dee753;-webkit-box-shadow: inset 0 1px 0 0 #dee753;box-shadow: inset 0 1px 0 0 #dee753;
+text-shadow: 0 -1px 0 #929a17;

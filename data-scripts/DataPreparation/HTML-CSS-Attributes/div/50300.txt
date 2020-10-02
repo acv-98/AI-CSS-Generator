@@ -1,0 +1,6 @@
+	background:url(images/col-h2.gif) no-repeat 0 bottom;
+	width:46px;
+	height:85px;
+	position:absolute;
+	top:58px;
+	right:-3px;

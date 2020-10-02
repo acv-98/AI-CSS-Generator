@@ -1,0 +1,13 @@
+	text-align: left;
+	background-color: #181818;
+	padding:50px 0 50px 0;
+	color: #fff;
+	margin-bottom: 20px;
+	font-size:12px;
+	line-height:14px;
+	margin-top: 0;
+	display: inline-block;
+	float: none;
+	border: none;
+	letter-spacing:20px;
+ margin-bottom: 50px;

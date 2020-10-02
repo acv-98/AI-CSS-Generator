@@ -1,0 +1,4 @@
+  display: table-cell;
+  width: 30px;
+  opacity: 0.3;
+  filter: alpha(opacity=30);

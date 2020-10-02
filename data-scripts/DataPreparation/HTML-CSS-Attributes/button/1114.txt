@@ -1,0 +1,17 @@
+    transition: all 0.4s ease;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    background: #73757e none repeat scroll 0 0;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform:uppercase;
+    height: 45px;
+    width: 120px;
+    border-radius: 10px;
+    margin: 6px 8px 6px 0;
+        width: 95px;
+        float: left;
+        margin: 0;

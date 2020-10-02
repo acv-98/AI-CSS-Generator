@@ -1,0 +1,4 @@
+    margin-left: 5px;
+	width: 25px;
+	height: 25px; 
+	opacity: 0.5;

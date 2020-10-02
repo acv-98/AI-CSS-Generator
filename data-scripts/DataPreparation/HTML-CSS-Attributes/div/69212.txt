@@ -1,0 +1,8 @@
+	border-bottom: 1px solid #e8edf3;
+	padding: 15px 0 10px;
+	background-color: transparent;
+	margin-bottom: 0px;
+	color: #979694;
+	content: "\f101";
+	font-family: 'FontAwesome';
+	font-size: 12px;

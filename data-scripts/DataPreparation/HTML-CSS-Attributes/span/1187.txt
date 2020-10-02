@@ -1,0 +1,8 @@
+	display: inline-block;
+	font-weight: 700;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	position: relative;
+	content: '@';
+	left: 0px;
+	top: 0px;

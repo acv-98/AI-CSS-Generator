@@ -1,0 +1,8 @@
+  margin-top: 45px;
+	background-color: #455871;
+	position: relative;
+	right: -100px;
+	padding: 30px;
+	display: inline-block;
+    right: 0;
+    margin-bottom: 30px;

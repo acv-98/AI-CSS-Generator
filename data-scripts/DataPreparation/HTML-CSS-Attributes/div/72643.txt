@@ -1,0 +1,9 @@
+	padding:0px 0px 10px 12px;
+	margin:0px;
+	display:block;
+	border-bottom:1px solid #C85946;
+	font:bold 11px Tahoma, Arial, Helvetica, sans-serif;
+	color:#FFCEB0;
+	list-style:none;
+	margin-left:7px;
+	text-decoration:none;

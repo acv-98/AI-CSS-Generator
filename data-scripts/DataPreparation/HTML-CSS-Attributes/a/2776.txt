@@ -1,0 +1,4 @@
+  padding-left: 45px;
+  background-color: #25b6e6;
+  left: 15px;
+  background-position: -48px 0;

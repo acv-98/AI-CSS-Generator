@@ -1,0 +1,14 @@
+	background-image:none;
+ 	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/site-link-bubble.png', sizingMethod='image');
+	display:block;
+	position:absolute;
+	top:106px;
+	left:0;
+	height:43px;
+	font-size:12px;
+	font-weight:normal;
+	color:#fff;
+	padding:12px 4px 0 9px;
+	line-height:14px;
+	width:233px;
+	margin-left:5px;

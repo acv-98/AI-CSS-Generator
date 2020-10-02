@@ -1,0 +1,6 @@
+	width: 635px;
+	margin-bottom: 20px;
+	position: relative;
+	top: 0;
+	display: none;
+	height: 100px;

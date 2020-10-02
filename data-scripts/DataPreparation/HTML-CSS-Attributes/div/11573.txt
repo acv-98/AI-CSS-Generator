@@ -1,0 +1,12 @@
+	width:748px;
+	height:366px;
+	margin:0 auto;
+	position:relative;
+	z-index:2;
+	border:#dddddd 1px solid;
+	top:-18px;
+	left:84px;
+	display:inline-block;
+	background:url(../images/gallery-button-1.gif) 0 0 no-repeat;
+	background-position:right 0;
+	bottom:-25px;

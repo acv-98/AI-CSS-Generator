@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	margin-bottom:12px;
+	width:970px;
+	background:#fff url(images/content_bg.gif) repeat-x top;
+	float:right;
+	border:1px solid #b7b7b7;
+	background-color:#fff;

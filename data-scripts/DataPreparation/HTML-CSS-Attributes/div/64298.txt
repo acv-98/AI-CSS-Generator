@@ -1,0 +1,1 @@
+ background: url(images/slide-cnt-t.png) no-repeat 0 0; height: 62px; font-size: 0; line-height: 0; text-indent: -4000px; 

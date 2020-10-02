@@ -1,0 +1,1 @@
+	background:url(../images/icons.gif) no-repeat left -116px;

@@ -1,0 +1,11 @@
+    float: left;
+  color: #c1a35f;
+  font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-top: 20px;
+  letter-spacing: 0.5px;
+  margin-left: 4px;
+    padding: 10px 0;
+    padding-top: 10px;

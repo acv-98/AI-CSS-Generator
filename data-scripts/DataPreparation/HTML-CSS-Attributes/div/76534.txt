@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	background:url(../images/fbg_bg.png) repeat-x left bottom;
+	width:960px;
+	float:left;
+	margin-bottom:0;
+	padding-bottom:0;
+	font-size:35px;
+	line-height:1.2em;
+	border:none;
+	border-bottom:1px solid #1b1b1b;
+	color:#ff7800;
+	text-align:left;
+	text-decoration:none;

@@ -1,0 +1,5 @@
+ border-top: 7px solid #19beb6; 	padding: 0 0 0 5px;
+	border-left: 2px solid #19beb6;
+	margin: 25px 0px;
+	color: #19beb6;
+	font-size: 18px;

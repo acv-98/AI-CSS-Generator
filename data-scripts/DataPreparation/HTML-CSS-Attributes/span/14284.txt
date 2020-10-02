@@ -1,0 +1,4 @@
+	background-image:url(../img/next.png);
+	top:auto;
+	bottom:0px;
+	left:0px;

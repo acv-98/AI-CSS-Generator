@@ -1,0 +1,13 @@
+ background-image:url('images/icons/for_button/tick.png') 
+.read-more, .more-link {
+    background: url("images/bg-button-light.png") repeat-x scroll left top #F4F4F8;
+    border: 1px solid #D8D8DC;
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    color: #787D8C !important;
+    float: left;
+    font-size: 12px;
+    margin: 15px 0 20px;
+    padding: 4px 12px;
+    text-decoration: none;
+    text-shadow: 1px 1px 0 white;

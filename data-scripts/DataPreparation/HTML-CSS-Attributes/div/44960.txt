@@ -1,0 +1,18 @@
+	position: relative;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1em;
+	font-weight: 300;
+	margin-top: 10px;
+	left: -5555px;
+	top: 0;
+	background: #598f93;
+	padding: 0;
+	min-height: 10px;
+	text-decoration: none;
+	color: #fff;
+	opacity: 0;
+	-webkit-transition: opacity .75s ease;
+	   -moz-transition: opacity .75s ease;
+	    -ms-transition: opacity .75s ease;
+	     -o-transition: opacity .75s ease;
+	        transition: opacity .75s ease;

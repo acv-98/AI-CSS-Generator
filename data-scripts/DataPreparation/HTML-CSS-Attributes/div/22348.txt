@@ -1,0 +1,7 @@
+ width: 100%; margin-right: 0px; 	
+	#main #content{
+		width: 319px;
+		float: none;
+		margin-right: 4.54%;
+	margin-bottom: 40px;
+	position:relative;

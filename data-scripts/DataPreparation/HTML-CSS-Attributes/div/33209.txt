@@ -1,0 +1,1 @@
+text-align: center;font-family: 'latoregular'; color: #f76e5d;

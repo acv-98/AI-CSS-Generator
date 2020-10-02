@@ -1,0 +1,6 @@
+  border:1px solid #4eb7c0;
+  background: #4eb7c0;
+  color:#fff;
+   color:#fff;
+	color:#fff;
+	margin-left:10px;

@@ -1,0 +1,4 @@
+	float:right;
+	display:inline;
+	background:url(images/nav-r.gif) no-repeat 0 0;
+	right:-17px;

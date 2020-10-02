@@ -1,0 +1,12 @@
+	padding:0 0 20px 0;
+	display:block;
+	color:#b4b4b4;
+	font-weight:normal;
+	font-size:12px;
+	line-height:18px;
+	text-transform:uppercase;
+	overflow:hidden;
+	float:left;
+	width:75px;
+	text-align:right;
+	margin:0 10px 0 0;

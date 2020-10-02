@@ -1,0 +1,7 @@
+  display: block;
+  width: 22px;
+  height: 2px;
+  background-color: #cccccc;
+  border-radius: 1px;
+  margin-top: 4px;
+content:"\f02a";content:"\f080";

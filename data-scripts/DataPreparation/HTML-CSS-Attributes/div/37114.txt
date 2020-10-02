@@ -1,0 +1,6 @@
+	position:relative;
+	float:right;
+	margin:-76px 0 0;
+	background:#fff;
+	width:280px;
+	padding:12px;

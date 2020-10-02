@@ -1,0 +1,8 @@
+    background: #000;
+    color: #fff;
+    padding-top:20px;
+    padding-bottom: 20px;
+    width: 62px;
+    height: 30px;
+    margin-bottom: 0;
+    float: right;

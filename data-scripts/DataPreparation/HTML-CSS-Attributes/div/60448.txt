@@ -1,0 +1,11 @@
+  font-size: .84em;
+  color: #aaaaaa;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  border-bottom: 1px solid #e2e2e2;
+  padding-bottom: 30px;
+  font-weight: normal;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;

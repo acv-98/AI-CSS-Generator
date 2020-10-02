@@ -1,0 +1,15 @@
+        display: none !important;
+        text-align: center;
+        font-size: 34px;
+    position: relative;
+    padding: 0;
+    margin-bottom: 3rem;
+    float: none;
+    color: #a3a5a8;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-radius: 3px;
+    line-height: 50px;
+    margin-top: 0;
+    overflow-wrap: break-word;

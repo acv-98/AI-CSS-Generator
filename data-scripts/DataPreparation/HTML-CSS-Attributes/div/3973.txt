@@ -1,0 +1,3 @@
+padding-bottom:40px.quote-1{
+font-style:italic;
+position:relative;

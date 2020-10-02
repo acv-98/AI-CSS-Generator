@@ -1,0 +1,4 @@
+ overflow: auto; 
+.info {
+	width: 100%;
+	padding: 15px 30px 20px;

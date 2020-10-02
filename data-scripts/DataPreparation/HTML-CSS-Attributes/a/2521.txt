@@ -1,0 +1,2 @@
+  padding-left: 4.0625rem;
+  padding-right: 4.0625rem;

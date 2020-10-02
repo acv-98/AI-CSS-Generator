@@ -1,0 +1,4 @@
+	height:2px;
+	background:url(../images/list-1-border.gif) repeat-x 0 0;
+	margin:0 5px 12px 5px;
+	padding:0 0 10px 0;

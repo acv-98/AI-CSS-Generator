@@ -1,0 +1,3 @@
+	background:url(../images/menu-selected.gif) no-repeat top center;
+	color:#f80;
+	outline:none;

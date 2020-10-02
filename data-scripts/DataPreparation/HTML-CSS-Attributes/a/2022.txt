@@ -1,0 +1,8 @@
+	color:#85a09d;
+	text-decoration:underline;
+	text-transform:uppercase;
+	font-size:11px;
+	line-height:18px;
+	font-weight:bold;
+	display:inline-block;
+	margin-top:8px;

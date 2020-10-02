@@ -1,0 +1,2 @@
+  color: #F85A16;
+  font-weight: 700;

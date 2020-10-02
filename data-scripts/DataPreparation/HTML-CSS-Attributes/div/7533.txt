@@ -1,0 +1,17 @@
+      width: 420px;
+    border: none;
+    border-radius: 2px;
+    text-align: center;
+    position: relative;
+    padding: 2em;
+    color: #d9d9d9;
+    margin-bottom: 20px;
+    display: inline-block;
+    margin-right: 0;
+    background-color: transparent;
+    border-bottom: 1px solid #ce3232;
+    padding-top: 20px;
+    box-shadow: none;
+    height: 50px;
+    border-color: #ffffff;
+    margin-top: 20px;

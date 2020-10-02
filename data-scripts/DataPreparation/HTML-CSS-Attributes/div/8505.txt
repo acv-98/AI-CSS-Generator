@@ -1,0 +1,12 @@
+	float:right;
+	margin:0;
+	padding:0;
+	width:250px;
+	display:block;
+	background:#fff;
+	border:1px solid #dcdcdd;
+	height:29px;
+	line-height:13px;
+	font:normal 11px Arial, Helvetica, sans-serif;
+	color:#767676;
+	position:relative;

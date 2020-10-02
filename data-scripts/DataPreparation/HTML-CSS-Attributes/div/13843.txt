@@ -1,0 +1,18 @@
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    margin: 0;
+    line-height: normal;
+    float: left;
+    width: 100%;
+    padding: 0;
+    position: relative;
+    border-left: solid #157fda 5px;
+    margin-bottom: 24px;
+    left: 0;
+    text-align: center;
+	color: #157fda;
+    padding-left: 40px;
+    margin-top: 10px;
+float: left;width: 100%;float: left;width: 100%;	
+float: left;width: 100%;float: left;width: 100%;

@@ -1,0 +1,1 @@
+ padding-bottom:24px; background:url('../images/shadows/960.png') no-repeat center bottom; text-align: center; 

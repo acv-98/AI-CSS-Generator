@@ -1,0 +1,11 @@
+      font-size: 55px;
+      background: -webkit-linear-gradient(#2086F7, #2BA8F7);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      line-height: 1.3;
+      padding-top: 25px;
+      margin-bottom: 30px;
+        background: url("../assets/images/title-shape.png") left center no-repeat;
+        padding: 0px 135px;
+        vertical-align: middle;
+        margin-left: 20px;

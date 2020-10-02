@@ -1,0 +1,6 @@
+	margin-top: 1.5em;
+	display: inline-block;
+	border: 2px solid #fff;
+	margin-right:0;
+	background: url(../images/social-icons.png) no-repeat -113px 0px;
+			margin: 0 1% 1% 0;

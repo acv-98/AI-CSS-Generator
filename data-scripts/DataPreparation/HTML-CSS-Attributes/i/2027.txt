@@ -1,0 +1,12 @@
+  color: #a5d549;
+  font-size: 50px;
+  height: 60px;
+  left: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+  -webkit-transition: all 0.5s ease 0s;
+  -o-transition: all 0.5s ease 0s;
+  transition: all 0.5s ease 0s;
+	color: #222;

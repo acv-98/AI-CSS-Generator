@@ -1,0 +1,9 @@
+	position: relative;
+	float: left;
+	width: 100%;
+	margin-top:-10px;
+	margin-bottom:16px;
+	margin-left:26px;
+	background-image:url(../images/top.png);
+	background-position:left top;
+	background-repeat:no-repeat;

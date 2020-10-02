@@ -1,0 +1,6 @@
+			float: right;
+			width: 450px;
+		color: #ff0000;
+		font-size: 0.9em;
+		font-weight: bold;
+		padding-bottom: 10px;

@@ -1,0 +1,9 @@
+	color:#937bb8;
+	text-decoration:underline;
+	font-size:14px;
+	line-height:18px;
+	display:inline-block;
+	float:right;
+	background:url(../images/link-1.gif) right 7px no-repeat;
+	padding-right:10px;
+	margin-top:6px;

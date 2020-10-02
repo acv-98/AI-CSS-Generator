@@ -1,0 +1,4 @@
+        border-color: #4e595f;
+        border-radius: 0;
+        background-color: #ddd;
+        margin-top: 22px;

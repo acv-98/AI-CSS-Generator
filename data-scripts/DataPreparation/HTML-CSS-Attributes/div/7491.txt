@@ -1,0 +1,2 @@
+ width:880px; height:75px; margin:0 auto; overflow:hidden; background:url(../images/box-bg.png) no-repeat; margin-top:60px; margin-bottom:60px; padding:40px 40px; width:500px; float:left; color:#001325; float:right; display:block;background:url(../images/box-bg2.png) no-repeat;  width:220px; height:60px; font-size:26px; line-height:60px; text-transform:uppercase; padding-left:40px; width:220px; height:60px; padding-left:40px; background:url(../images/box-bg2hover.png) no-repeat; color:#ec3600;
+WRAP3 CLASSES

@@ -1,0 +1,7 @@
+    background-color: #F8F8F8;
+		margin-top: -40px;
+		float: none;
+		text-align: center;
+		display: block;
+		margin-right: auto;
+		margin-bottom: 1em;

@@ -1,0 +1,7 @@
+	position:absolute;
+	right:87px;
+	top:-78px;
+	background:#cedde1;
+	width:1px;
+	height:462px;
+	z-index:111;

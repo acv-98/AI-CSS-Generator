@@ -1,0 +1,2 @@
+		padding: 10px;
+		background: url(images/horizontal.gif) repeat-x bottom left;

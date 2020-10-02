@@ -1,0 +1,12 @@
+    padding-top: 10px;
+    font-size: 16px;
+    font-style: normal;
+    color: #999;
+    padding-bottom: 0;
+    font-weight: 400;
+    background-color: transparent;
+    display: block;
+    line-height: 30px;
+    margin: 0;
+    position: relative;
+        font-size: 18px;

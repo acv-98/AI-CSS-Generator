@@ -1,0 +1,12 @@
+    padding:26px 220px 19px 18px;
+    font-size:10px;
+    line-height:18px;
+    background:url(../images/why_us_bg.jpg) 100% 100% no-repeat;
+    margin:0 6px 3px 0;
+    font-family:Tahoma, Geneva, sans-serif;
+    color:#6c6c6c;
+    font-weight:normal;
+    list-style:none;
+    width:139px;
+    display:block;
+    text-align:center;

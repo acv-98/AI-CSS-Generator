@@ -1,0 +1,8 @@
+  position: relative;
+  height: 400px;
+  display: table;
+  width: 100%;
+  vertical-align: middle;
+  font-size: 50px;
+  line-height: 62px;
+  color: #ffffff;

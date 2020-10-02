@@ -1,0 +1,6 @@
+	background-color: #70E5E5;
+	color: #FFF;
+	padding: 0;
+	margin: 15px 0px;
+	border-radius: 5px;
+	box-shadow: 0 0 0 2px #70E5E5;

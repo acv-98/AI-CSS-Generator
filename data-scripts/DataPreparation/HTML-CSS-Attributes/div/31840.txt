@@ -1,0 +1,2 @@
+	min-height:46px;
+	width:100%

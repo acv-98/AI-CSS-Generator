@@ -1,0 +1,6 @@
+  margin-top: .25em;
+  width: 30px;
+  height: 30px;
+  padding: 5px 10px;
+  border-radius: 28px;
+margin:0 autopadding-left:38pxpadding-left:38pxheight:30px;width:30px;padding-left:0;padding-right:0

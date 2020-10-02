@@ -1,0 +1,8 @@
+	position: absolute;
+	display: block;
+	width: 39px;
+	height: 39px;
+	opacity: 1
+	background: url(../images/next_bg.gif) left top no-repeat;
+	right: 0;
+	top: 50px;

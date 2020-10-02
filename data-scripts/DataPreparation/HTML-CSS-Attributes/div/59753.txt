@@ -1,0 +1,1 @@
+width: 420px; height: 250px; background-image:url('../images/bg/screen.png');background-repeat:no-repeat; margin-top: 30px;margin: 25px 0 0 31px;padding: 0; border: 1px green solid;

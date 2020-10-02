@@ -1,0 +1,6 @@
+	margin-top: -1px;
+	padding-top: 65px;
+	position: relative;
+	padding-left: 34px;
+	background: url(../images/bq_bot_bg.png) 113px 0 no-repeat;
+	margin-bottom: 20px;

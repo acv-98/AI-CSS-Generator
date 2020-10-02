@@ -1,0 +1,8 @@
+display:block;
+color:#ffffff;
+text-align:center;
+background:url(../images/bg-2.jpg); 
+width:80px; 
+height:30px;
+line-height:30px;
+margin-top:30px;

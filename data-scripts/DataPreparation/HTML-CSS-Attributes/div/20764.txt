@@ -1,0 +1,8 @@
+	margin: 0 8px;
+	font-size: 26px;
+	color: #fff;
+	line-height: 28px;
+	opacity: 0.8;
+ opacity: 1; .navbar-toggle {
+	margin-top: 13px;
+	margin-bottom: 13px;

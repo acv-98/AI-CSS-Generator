@@ -1,0 +1,18 @@
+background:#e0ecf1;
+padding:10px 10px 16px 10px;
+clear:both;
+margin-bottom:16px;
+text-align:center;
+font-variant:small-caps;
+font-weight:normal;
+line-height:20px;
+letter-spacing:1px;
+border-bottom:1px solid #000000;
+border-top:1px solid #000000;
+background-color:#FFFFFF;
+font-size:34px;
+position:relative;
+display:block;
+float:left;
+margin-top:5px;
+margin-right:5px;

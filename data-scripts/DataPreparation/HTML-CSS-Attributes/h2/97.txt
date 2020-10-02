@@ -1,0 +1,4 @@
+  font-size: 20px;
+  color: #0099ff;
+  letter-spacing: 2px;
+  font-weight: 400;

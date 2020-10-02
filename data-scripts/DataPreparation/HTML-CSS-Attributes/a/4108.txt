@@ -1,0 +1,6 @@
+color: #fff; text-shadow: 1px 1px 1px #333; font-weight: bold; background-color: #A5C100; letter-spacing: 1px;
+background-position: 0 -26px; cursor: default;Page container
+.wrapper{
+	max-width:1080px;
+	margin:0 auto;
+	padding:1.5em 1em;

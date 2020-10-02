@@ -1,0 +1,2 @@
+  content: "\f0d5";
+	color:#dd4b39;

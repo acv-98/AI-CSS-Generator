@@ -1,0 +1,8 @@
+	bottom: 0;
+	display: block;
+	position: absolute;
+	width: 100%;
+	padding: 10px 20px;
+	color: #fff;
+	left:0;
+	background: #000;

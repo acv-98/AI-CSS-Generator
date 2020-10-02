@@ -1,0 +1,14 @@
+max-width:1170px
+ * 	Core Owl Carousel CSS File
+ *	v1.3.2
+.owl-carousel .owl-wrapper:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+color: #C59A6D;
+background-color: transparent;
+text-transform: uppercase;
+font-size: 12px;

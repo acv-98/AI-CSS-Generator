@@ -1,0 +1,12 @@
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 10px;
+  box-shadow: none;
+  color: hsl(0, 0%, 0%);
+  font-size: 18px;
+  font-weight: 300;
+  height: 55px;
+  margin: 0 auto;
+  position: relative;
+  width: 50%;
+  float: left;
+  width: 100%;

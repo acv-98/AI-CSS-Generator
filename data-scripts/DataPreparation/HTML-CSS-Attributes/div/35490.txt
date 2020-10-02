@@ -1,0 +1,5 @@
+	font-size: 4em;
+	color: #FFF;
+	line-height: 1.2em;
+	text-transform: uppercase;
+	font-weight: bold;

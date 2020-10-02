@@ -1,0 +1,4 @@
+	display: block;
+	float: left;
+	border: 5px solid #a5a192;
+	margin-right: 15px;

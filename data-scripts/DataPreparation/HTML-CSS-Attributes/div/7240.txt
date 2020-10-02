@@ -1,0 +1,1 @@
+ padding-bottom:20px; padding-bottom:20px; color:#fff; padding-bottom:20px;padding-bottom:25px;float:left; padding-right:12px;  color:#d13f31; padding-bottom:10px; color:#ffffff;

@@ -1,0 +1,1 @@
+background:url(images/tail-top.jpg) left top repeat-x #fff

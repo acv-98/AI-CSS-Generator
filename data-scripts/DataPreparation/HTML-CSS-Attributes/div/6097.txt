@@ -1,0 +1,15 @@
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-top: none;
+  display: inline;
+  float: left;
+  width: 100%;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+  margin: 0px 5px;
+  font-size: 14px;
+  margin-top: 0px;
+    margin: 0 3px;
+    border-top: medium none;
+    width: 100%;

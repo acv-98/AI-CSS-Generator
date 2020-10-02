@@ -1,0 +1,7 @@
+	border-collapse:collapse;
+	border-spacing:0;
+	padding:7px 10px;
+	font-weight:bold;
+	border-bottom:3px solid #06C;
+	color:#06C;
+	background-color:#EEE;

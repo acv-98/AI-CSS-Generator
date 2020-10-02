@@ -1,0 +1,5 @@
+	display: none;
+	font: 14px/30px "raleway-heavy", sans-serif;
+	color: #FFFFFF;
+	letter-spacing: 3px;
+	text-transform: uppercase;

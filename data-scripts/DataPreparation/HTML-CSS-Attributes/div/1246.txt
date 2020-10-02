@@ -1,0 +1,14 @@
+	width: 94%;
+	max-width: 1170px;
+	margin: 0 auto;
+	content: "";
+	display: table;
+	clear: both;
+	margin-left: -20px;
+	margin-right: -20px;
+		margin-left: -18px;
+		margin-right: -18px;
+		width: auto;
+		padding-left: 30px;
+		padding-right: 30px;
+		max-width: 880px;

@@ -1,0 +1,22 @@
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  width: 730px;
+  height: auto;
+  display: block;
+  background: #fff;
+  padding: 30px;
+  margin: 0 auto;
+  -webkit-transform: translate3d(0, -50%, 0);
+  -moz-transform: translate3d(0, -50%, 0);
+  transform: translate3d(0, -50%, 0);
+  border-right: 1px solid #cdcecf;
+    width: 95%;
+    border-right: none;
+    border-bottom: 1px solid #cdcecf;
+position:relative;font-family:Hind,sans-serif@font-face {
+  font-family: 'simple-line-icons';
+  src: url('../fonts/Simple-Line-Icons.eot?v=2.3.2');
+  font-weight: normal;
+  font-style: normal;

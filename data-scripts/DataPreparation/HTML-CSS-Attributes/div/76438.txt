@@ -1,0 +1,1 @@
+border:1px solid #ddd; padding:4px; margin-right:5px; float:leftcolor:#9e9e9ecolor:#12a3df

@@ -1,0 +1,1 @@
+width:100%; margin-top:80px;background:#e18868; overflow:hidden; height:auto;

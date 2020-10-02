@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	width:960px;
+	float:right;
+	background:url(../images/h2.jpg) no-repeat left center;
+	border:5px solid #565d62;
+	color:#585757;
+	height:60px;
+	font-size:11px;
+	line-height:16px;
+	text-align:left;
+	display:block;
+	text-decoration:none;

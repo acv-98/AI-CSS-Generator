@@ -1,0 +1,4 @@
+	background:url(../images/comment-top.png) 0 0 no-repeat;
+	padding-left:20px;
+	margin-bottom:9px;
+	width:270px;

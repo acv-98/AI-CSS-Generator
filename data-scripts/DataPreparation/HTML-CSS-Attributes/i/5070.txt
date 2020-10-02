@@ -1,0 +1,1 @@
+ padding: 10px 10px; color: #f8f8f8; margin-right: 4px; font-size: 45px; float: left; margin-right: 10px;  font-size: 25px; width: 55px !Important; margin-left: -10px; 

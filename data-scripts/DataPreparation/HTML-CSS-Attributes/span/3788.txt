@@ -1,0 +1,5 @@
+    border-bottom: 1px solid #4e595f;
+    margin-bottom: 15px;
+    margin-top: 0;
+    padding-bottom: 10px;
+    position: relative;

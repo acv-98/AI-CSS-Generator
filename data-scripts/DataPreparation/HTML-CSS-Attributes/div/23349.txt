@@ -1,0 +1,10 @@
+  right: 5px;
+  bottom: 0;
+  margin-bottom: -5px;
+  border-width: 5px 5px 0;
+  border-top-color: #000;
+	float: left;
+	display: inline-block;
+	margin-right: 15px;
+	font-size: 16px;
+	color: #333;

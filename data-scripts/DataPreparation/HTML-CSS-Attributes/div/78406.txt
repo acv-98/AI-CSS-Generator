@@ -1,0 +1,1 @@
+position:absolute;left:0;top:0;background:url("images/shadows-blog/60.png") no-repeat scroll center 93px transparent

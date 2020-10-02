@@ -1,0 +1,15 @@
+  position: absolute;
+  z-index: 988;
+  bottom: 200px;
+  color: #ffffff;
+  display: inline-block;
+  right: 0;
+  left: 0;
+  text-align: center;
+  padding: 0 20px 20px 20px;
+  font-size: 62px;
+  font-weight: 600;
+  margin-bottom: 20px;
+	font-size: 26px;
+    bottom: 80px;
+    display: none;

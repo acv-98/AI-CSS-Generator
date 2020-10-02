@@ -1,0 +1,18 @@
+	float:left;
+	margin:8px 0 0 0;
+	list-style: none;
+	padding:0;
+	color:#fff;
+	font-size:0.85em;
+	text-transform:uppercase;
+	vertical-align:top;
+	margin-left: 5px;
+	width: 46.5%;
+	border-right: 1px solid #B9DEEC;
+	margin-right: 3%;
+	border-bottom: 1px solid #B9DEEC;
+		width: 100%;
+		float: none;
+		border-right: none;
+		padding: 0 0% 0 0;
+		margin-right: 0;

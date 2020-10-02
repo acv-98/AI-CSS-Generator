@@ -1,0 +1,4 @@
+    text-align: center;
+    font: 36px/36px 'Yellowtail', cursive;
+    color: #e7e6d4;
+    padding-bottom: 113px;

@@ -1,0 +1,12 @@
+     float: left;
+     width: 100%;
+     background: #fff;
+     padding: 20px 20px 0 20px;
+     border: solid #e1e1e1 1px;
+     margin-bottom: 25px;
+     text-align: left;
+     font-size: 14px;
+     line-height: 35px;
+     border-bottom: solid #ddd 1px;
+     padding-bottom: 5px;
+     padding-top: 0;

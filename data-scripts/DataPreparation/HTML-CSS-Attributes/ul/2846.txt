@@ -1,0 +1,15 @@
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	vertical-align: middle;
+	list-style: none;
+	display: inline-block;
+	background: #f8f8f8;
+	border-radius: 100%;
+	color: #eb5424;
+	font-size: 32px;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	text-decoration: none;
+	transition: all 0.4s ease-in-out;

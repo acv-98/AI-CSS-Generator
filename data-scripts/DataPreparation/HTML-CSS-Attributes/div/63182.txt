@@ -1,0 +1,9 @@
+	text-align: center;
+	width: 150px;
+	height: 126px;
+	padding-top: 20px;
+	background-color: #7dbd21;
+	margin: 0 auto 20px;
+	color: white;
+	font-size: 18px;
+	margin-top: 15px;

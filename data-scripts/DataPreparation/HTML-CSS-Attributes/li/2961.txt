@@ -1,0 +1,6 @@
+	font-size: 30px;
+	vertical-align: top;
+	padding: 0 8px;
+ font-size: 27px;
+ padding: 0 20px;
+ vertical-align: top;

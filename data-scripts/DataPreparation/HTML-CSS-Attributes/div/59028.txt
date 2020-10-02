@@ -1,0 +1,1 @@
+margin-bottom:25pxborder-bottom:2px solid #000; font-weight:bold; padding-bottom:15px; font-size:16pxfont-size:14px; padding-right:5px; color:#FFA439

@@ -1,0 +1,2 @@
+	-moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; -o-border-radius: 4px 4px 0 0; color: #1e3d51; font-size: 19px; font-weight: bold; text-align: center; line-height: 36px; 
+ text-decoration: none; color: #3995d6;   background: url(images/slider-btn-arr.png) no-repeat 0 9px; padding-left: 15px; 

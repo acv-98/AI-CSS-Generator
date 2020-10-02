@@ -1,0 +1,2 @@
+        max-height: 420px;
+        background: #4c9cef;

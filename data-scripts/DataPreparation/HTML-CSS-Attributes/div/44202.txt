@@ -1,0 +1,10 @@
+    margin-top: 4px;
+    color: #fff;
+    font: 30px/48px 'Dosis', sans-serif;
+    width: 49px;
+    float: left;
+    margin-right: 11px;
+    text-align: center;
+    height: 49px;
+    border-radius: 500px;
+    background-color: #3da9b6;

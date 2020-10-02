@@ -1,0 +1,6 @@
+	margin:0px;
+	padding:0px;
+	background:#DAD8BF url(../images/l-right.png) 95% 50% no-repeat;
+	list-style:none;
+	color:#626262;
+	font-weight:bold;

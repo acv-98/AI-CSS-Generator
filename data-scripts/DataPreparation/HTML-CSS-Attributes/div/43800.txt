@@ -1,0 +1,11 @@
+	display: block;
+	width: 102px;
+	height: 22px;
+	padding: 5px 0;
+	color: #a89ba5;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	background: url(images/button.png) no-repeat;

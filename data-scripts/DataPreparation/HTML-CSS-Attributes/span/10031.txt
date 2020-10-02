@@ -1,0 +1,6 @@
+	position: absolute;
+	cursor: pointer;
+	display: block;
+	overflow: hidden;
+		background: url(images/navleft.png) no-repeat;
+	background-position: -251px -41px;

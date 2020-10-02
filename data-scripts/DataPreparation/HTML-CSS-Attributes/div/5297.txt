@@ -1,0 +1,14 @@
+	width:54.5%;
+	float: left;
+	background: #72D0F4;
+	padding: 4%;
+	color:#fff;
+	font-size:1.3em;
+	text-transform:uppercase;
+	text-align:center;
+	font-weight:100;
+	margin: 0 0 5px;
+	line-height:1.5em;
+	margin-bottom: 8%;
+		width: 100%;
+		float: none;

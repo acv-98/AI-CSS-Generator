@@ -1,0 +1,4 @@
+  content: "\f106";
+		color: #FFF;
+		font-size: 30px;
+		padding: 10px;

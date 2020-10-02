@@ -1,0 +1,15 @@
+	z-index: 100;
+	position: absolute;
+	left: 0;
+	width: 70px;
+	height: 70px;
+	margin-left: 0;
+	border: 1px solid #eee;
+	border-radius: 100%;
+	text-align: center;
+	background: #fff;
+	margin-top: 20px;
+	font-size: 14px;
+	text-transform: uppercase;
+	line-height: 18px;
+	font-weight: 400;

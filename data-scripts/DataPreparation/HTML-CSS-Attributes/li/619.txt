@@ -1,0 +1,7 @@
+  background: #869791;
+    color: #e84c3d;
+    background-color: transparent;
+    border-bottom: 1px solid #FFF;
+    margin-bottom: -1px;
+    padding-bottom: 33px;
+	

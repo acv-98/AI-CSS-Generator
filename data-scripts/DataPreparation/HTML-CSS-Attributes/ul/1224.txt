@@ -1,0 +1,13 @@
+	float:left;
+	width:200px;
+	padding-right:10px;
+	text-align:right;
+	font-size:12px;
+	display:none;
+width: 100%; display: block; height:auto !important; max-width:100%;content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;height: 1%;display: block;[class^="icon-"],
+[class*=" icon-"] {
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+ margin-left: 20px !important; margin-right: 20px !important;     display: none;
+ display:none; -webkit-backface-visibility: hidden;  max-width: 100.003%; 

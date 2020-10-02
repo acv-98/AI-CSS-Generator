@@ -1,0 +1,12 @@
+	background: url(../images/footer-line.gif) repeat-x left top;
+	list-style: none;
+	padding: 0;
+	margin-left: 20px;
+ border-bottom: 1px solid #326B8D; .footer-list ul li a:link,
+	display: block;
+	width: 98%;
+	line-height: 2em;
+	color: #fff;
+ color: #99CCFF; ul.subscribe-stuff {
+  list-style: none;
+  margin: 0 0 0 20px; padding: 0;

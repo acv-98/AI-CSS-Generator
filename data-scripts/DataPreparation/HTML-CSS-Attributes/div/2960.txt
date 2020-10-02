@@ -1,0 +1,8 @@
+	font-family: "OpenSans-Light";
+	font-size: 41px;
+	letter-spacing: 10px;
+	padding-top: 66px;
+	padding-bottom: 70px;
+	color: #020243;
+	margin-top: 0px;
+	text-align: center;

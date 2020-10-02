@@ -1,0 +1,1 @@
+width:360px; float:left;font-family: 'Playfair Display', serif; font-size:38px; color:#ffffff; font-weight:normal; padding-left:30px; padding-top:20px;

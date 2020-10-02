@@ -1,0 +1,4 @@
+	background:url(images/bullet.gif) no-repeat 0 5px;
+	color:#c48707;
+	text-decoration:underline;
+	padding:0 0 0 6px;

@@ -1,0 +1,11 @@
+	border-bottom: 1px solid #e2e6e7;
+	font-size: 22px;
+	margin-bottom: 25px;
+	margin-top: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  margin-bottom: -1px;
+  margin-top: 13px;
+  position: relative;
+  width: 50px;

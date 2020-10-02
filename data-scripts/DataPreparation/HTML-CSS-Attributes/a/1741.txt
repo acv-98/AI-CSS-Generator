@@ -1,0 +1,33 @@
+ align-items: stretch; 
+.tm-media,
+.tm-media-1 {
+	margin-bottom: 15px;
+	display: -webkit-box;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	        align-items: center;
+	padding-left: 25px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+            justify-content: center;
+    		align-items: flex-start;
+ max-width: 772px; #google-map {
+    height: 479px;
+    width: 100%;    
+	    max-width: 320px;
+	    margin-right: auto;
+		margin-left: auto;
+		margin-bottom: 20px;
+		flex-direction: column;
+		max-width: 280px;
+		margin-right: auto;
+		padding-left: 0;
+		margin-top: 20px;
+ width: 100%;  width: 100%;  flex: 1 1 auto; 

@@ -1,0 +1,3 @@
+    color:#6fb048;
+    font-size:14px;
+    display: block;

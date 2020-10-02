@@ -1,0 +1,17 @@
+  background: #FFF;
+  position: relative;
+  margin: 20px 0;
+  border: 1px solid #EEE;
+  max-width: 100%;
+  color: #FFF;
+  line-height: 1.2;
+  padding: 5px;
+  left: 10px;
+  top: 10px;
+  -webkit-border-radius: 5px;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: 5px;
+  -moz-background-clip: padding;
+  border-radius: 5px;
+  background-clip: padding-box;
+  text-align: center;

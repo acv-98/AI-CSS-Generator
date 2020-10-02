@@ -1,0 +1,16 @@
+	background:rgba(0,0,0,0.05);
+	height:40px;
+	width:40px;
+	text-align:center;
+	border-radius:5px;
+	color:#fff;
+	line-height:40px;
+	font-size:15px;
+	-webkit-transition:all .3s ease-in;
+	-moz-transition:all .3s ease-in;
+	-o-transition:all .3s ease-in;
+	transition:all .3s ease-in;
+	display:inline-block;
+	margin-bottom:3px;
+	margin-right:4px;
+	padding:0 20px 20px 20px;

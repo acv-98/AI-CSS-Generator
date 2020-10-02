@@ -1,0 +1,9 @@
+  color: #fff;   color: #fff;   font-family: "Arial Black", Arial, Helvetica, Sans, FreeSans, Jamrul, Garuda, Kalimati;
+  font-size: 500%;
+  float: left;
+  padding: .1em 0 0 0;
+  margin: 0;
+  letter-spacing: -0.1em;
+  font-variant: small-caps;
+  font-weight: normal;
+  text-decoration: none;

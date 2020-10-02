@@ -1,0 +1,5 @@
+color: white;
+	@media screen and (max-width: 1165px) {
+		.grid_contact_item {
+			grid-row-end: auto;
+			min-width: 288px;

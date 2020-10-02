@@ -1,0 +1,12 @@
+	position:static;
+	left:0px;
+	z-index:1;
+	display:block;
+	width:790px !important;
+	height:101px;
+	overflow:hidden;
+	margin-right:10px;
+	border:#474747 1px solid;
+	background:#171717;
+	padding:2px;
+	top:2px;

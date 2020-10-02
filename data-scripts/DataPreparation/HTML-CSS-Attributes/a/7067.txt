@@ -1,0 +1,7 @@
+	background: url(../images/buttons_form_bg.png) no-repeat;
+	background-position: -26px 0px;
+	height: 56px;
+	width: 160px;
+	float: left;
+	text-indent: -10000px;
+	margin: 0 20px 0 0;

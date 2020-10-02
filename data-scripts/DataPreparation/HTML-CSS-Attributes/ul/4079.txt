@@ -1,0 +1,10 @@
+	margin-top: -1px;
+	text-decoration: underline;
+	padding-left: 36px;
+	padding-top: 1px;
+	background: url(../images/marker.png) 0 0px no-repeat;
+margin-top: 11px;ul.list1.l1 {
+	float: left;
+	width: 50%;
+	color: #626262;
+	background-position: 0 1px;

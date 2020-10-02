@@ -1,0 +1,7 @@
+	list-style:none;
+	padding:0 0 17px 0;
+	border-bottom:1px solid #dbdbdb;
+	font-size:12px;
+	line-height:18px;
+	background:url(images/bullet.gif) no-repeat 5px 4px;
+	color:#333;

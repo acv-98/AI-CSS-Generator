@@ -1,0 +1,3 @@
+	width: 182px;
+	margin: 0 0 10px 0;
+	border: 1px solid #000;

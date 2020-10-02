@@ -1,0 +1,2 @@
+	overflow: hidden;
+	padding: 0em 3em 0em 3em;

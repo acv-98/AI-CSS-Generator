@@ -1,0 +1,3 @@
+ font-size: 13px; font-family: 'Open Sans', sans-serif; color: #277DCE; font-style: normal; font-weight: 400;     background: url("../images/icons/message/info.png") no-repeat scroll 15px center #E6EBF0;
+    border: 1px solid #89BECD;
+    color: #277DCE;

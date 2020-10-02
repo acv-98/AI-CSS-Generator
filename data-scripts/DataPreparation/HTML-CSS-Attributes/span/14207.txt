@@ -1,0 +1,9 @@
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	position: relative;
+	border: 4px solid #Fff;
+	top: 50%;
+	animation: loader 2s infinite ease;
+	vertical-align: top;
+	background-color: #fff;

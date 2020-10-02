@@ -1,0 +1,5 @@
+	background:url(images/content-bottom.gif) left bottom no-repeat;
+	padding:21px 22px 20px 22px;
+	height:100%;
+	overflow:hidden;
+	background-image:url(images/sidebar-bottom.gif);

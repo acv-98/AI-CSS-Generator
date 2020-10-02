@@ -1,0 +1,3 @@
+	padding-top:4px;
+	padding-bottom:5px;
+	background:url(../images/line_vert2.gif) 600px 0 repeat-y;

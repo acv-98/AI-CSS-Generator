@@ -1,0 +1,16 @@
+  margin-bottom: 20px;
+  border-radius: 4px;
+  margin-top: 5px;
+  border-bottom: 0;
+  border-top: 1px solid #ddd;
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  background: hsla(0, 0%, 0%, 0) none repeat scroll 0 0;
+  border-color:#e5e5e5;
+  border-image: none;
+  border-style: none none solid;
+  border-width: medium medium 1px;
+  box-shadow: none;
+  padding: 20px 0;

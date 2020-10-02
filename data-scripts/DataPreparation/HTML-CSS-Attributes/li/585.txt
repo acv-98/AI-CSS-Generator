@@ -1,0 +1,7 @@
+    background-color: transparent;
+  color: #fff;
+     background-color: #333 !important;
+     color: #b0b435;
+     font-weight: 700;
+     border: none;
+     opacity: 1;

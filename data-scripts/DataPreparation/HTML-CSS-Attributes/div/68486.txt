@@ -1,0 +1,11 @@
+  display: table;
+  content: " ";
+  clear:both;
+    z-index: 2;
+     position: relative;
+     min-height: 1px;
+     padding-right: 15px;
+     padding-left: 15px;
+     width: 31.777777%;
+     margin-right: -15px;
+     margin-left: -15px;

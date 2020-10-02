@@ -1,0 +1,1 @@
+	background: #3b5998 url(../img/icons/social_big/facebook_white.png) no-repeat;

@@ -1,0 +1,9 @@
+	margin:0;
+	padding:0;
+	float:right;
+	width:690px;
+	margin-bottom:0;
+	padding-bottom:8px;
+	color:#fff;
+	background:url(../images/article.jpg) no-repeat left top;
+	border:1px solid #dedede;

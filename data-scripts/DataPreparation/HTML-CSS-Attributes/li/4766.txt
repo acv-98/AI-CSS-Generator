@@ -1,0 +1,3 @@
+	padding-right:7px;
+	margin-right:0;
+	position:relative;

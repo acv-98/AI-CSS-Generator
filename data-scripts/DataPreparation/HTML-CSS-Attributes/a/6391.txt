@@ -1,0 +1,9 @@
+	width:124px;
+	height:40px;
+	display:block;
+	background:url('images/buttom-big.gif') no-repeat 0 top;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	cursor:pointer;
+	background-position:bottom;

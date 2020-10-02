@@ -1,0 +1,3 @@
+	border-top:5px solid #eaeaea;
+	background:#fff;
+	width:100%;

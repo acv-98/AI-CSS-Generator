@@ -1,0 +1,4 @@
+        margin: 1rem 0;
+    position: relative;
+    padding: 3rem 2rem;
+    border: 1px dashed #dadada;

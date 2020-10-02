@@ -1,0 +1,11 @@
+	display: none;
+	background: rgba(231, 76, 60, 0.7);
+	position: absolute;
+	top: 40%;
+	left: 0;
+	right: 0;
+	text-align: center;
+	z-index: 10;
+	color: #fff;
+	border-radius: 2px;
+	padding: .75em;

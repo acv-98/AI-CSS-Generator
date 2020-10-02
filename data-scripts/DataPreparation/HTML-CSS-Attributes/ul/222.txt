@@ -1,0 +1,18 @@
+		padding-left:18px;
+		padding-right: 18px;
+	margin: 0;
+	list-style: none;
+	position: relative;
+	display: none;
+	top: 100%;
+	left: 0;
+	z-index: 99;
+	float: left;
+	margin-bottom: 0;
+	background:0;
+	text-decoration: none;
+	color: #272727;
+	font-family: 'PT Sans Caption', sans-serif;
+	font-size:18px;
+	-webkit-transition: background .2s;
+	transition: background .2s;

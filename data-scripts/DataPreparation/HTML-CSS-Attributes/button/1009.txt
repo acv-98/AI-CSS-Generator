@@ -1,0 +1,8 @@
+  background-color: #388582 !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#409a97", endColorstr="#378582");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#409a97), to(#378582));
+  border-color: #378582 #378582 #35807d;
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.09);
+  -webkit-font-smoothing: antialiased;

@@ -1,0 +1,12 @@
+	border-left:2px solid #1baab9;
+	color: #1baab9;
+	text-decoration:none;
+	float:left;
+	width:100%;
+	list-style:none;
+	padding:0 0 5px 0;
+	border-bottom:1px dotted #e6e6e6;
+	margin:0 0 15px 0;
+	font-size:11px;
+	margin-top:4px;
+	margin-left:5px;

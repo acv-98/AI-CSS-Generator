@@ -1,0 +1,6 @@
+    overflow: hidden;
+    margin-top: 24px;
+    margin-bottom: 22px;
+    font-size: 18px;
+    display: inline-block;
+    margin-left: 20px;

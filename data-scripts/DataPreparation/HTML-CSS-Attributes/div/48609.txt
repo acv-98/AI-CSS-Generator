@@ -1,0 +1,2 @@
+ -webkit-transform: rotateZ(90deg); transform: rotateZ(90deg); 
+ -webkit-animation-delay: -1.0s; animation-delay: -1.0s;  -webkit-animation-delay: -0.7s; animation-delay: -0.7s;  -webkit-animation-delay: -0.4s; animation-delay: -0.4s;  -webkit-animation-delay: -0.1s; animation-delay: -0.1s; 

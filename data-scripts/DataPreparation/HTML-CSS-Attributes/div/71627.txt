@@ -1,0 +1,9 @@
+	float: left;
+	width: 150px;
+	position: relative;
+	height: 97px;
+	padding: 8px;
+	margin-bottom: 5px;
+	top: 0;
+	left: 0;
+	background: url(images/project_image.png) no-repeat;

@@ -1,0 +1,5 @@
+	max-width: 140px;
+	max-height: 60px;
+	vertical-align: middle;
+	height: 80px;
+	line-height: 80px;

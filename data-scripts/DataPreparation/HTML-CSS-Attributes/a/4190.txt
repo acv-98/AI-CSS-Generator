@@ -1,0 +1,9 @@
+	width:175px;
+	height:45px;
+	text-indent:-9999em;
+	overflow:hidden;
+	display:block;
+	background:url(../images/logo.png) no-repeat;
+	cursor:pointer;
+	float:left;
+	margin-top:45px;

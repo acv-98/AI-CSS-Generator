@@ -1,0 +1,1 @@
+    border-bottom-color: #a8cf45;

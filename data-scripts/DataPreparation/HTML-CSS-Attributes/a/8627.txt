@@ -1,0 +1,1 @@
+  background: #dfdfdf; background:url('images/tabs_1.gif') no-repeat center center; 

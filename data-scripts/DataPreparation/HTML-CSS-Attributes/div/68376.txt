@@ -1,0 +1,4 @@
+	overflow: hidden;
+	padding: 10px 2px;
+	float: left;
+	margin-right: 20px;

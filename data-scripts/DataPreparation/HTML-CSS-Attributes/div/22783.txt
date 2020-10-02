@@ -1,0 +1,9 @@
+	min-height:130px;
+	height:auto !important;
+	padding-bottom:20px;
+	font-size:10px;
+	color:#fff;
+	float:left;
+	width:68px;
+	padding-right:8px;
+	line-height:16px;

@@ -1,0 +1,4 @@
+											background:#a89907 url(../images/readmore-normal.jpg) top repeat-x;
+											font-family:'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, Sans-Serif;
+											text-decoration:none;
+											color:#fff;

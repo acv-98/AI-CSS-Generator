@@ -1,0 +1,3 @@
+	clear:both;
+	visibility:hidden;
+	height:0;

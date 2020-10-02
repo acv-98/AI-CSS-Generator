@@ -1,0 +1,1 @@
+ width:380px; border:1px solid #d4d4d4; margin:10px 0; padding:5px 2px; height:16px; background:#f2f2f2; float:left;

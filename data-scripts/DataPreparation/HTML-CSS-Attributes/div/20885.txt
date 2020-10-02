@@ -1,0 +1,1 @@
+ background:url(images/three-cols.gif) repeat-y center 0; width:100%;

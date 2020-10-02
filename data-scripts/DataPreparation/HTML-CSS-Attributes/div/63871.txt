@@ -1,0 +1,4 @@
+  clear: both;
+  position: relative;
+  border: none;
+  padding: 0;

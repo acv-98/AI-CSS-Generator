@@ -1,0 +1,11 @@
+    font-family: 'Open Sans';
+    font-size: 12px;
+    color: #777777;
+    background-color: #ffffff;
+    border: 1px solid #ececec;
+    padding: 10px 30px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    min-width: 115px;
+        display: grid;

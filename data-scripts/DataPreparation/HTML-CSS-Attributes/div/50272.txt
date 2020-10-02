@@ -1,0 +1,4 @@
+	width:982px;
+	margin:0 auto;
+	background:url(images/header.gif) no-repeat 0 0;
+	height:313px;

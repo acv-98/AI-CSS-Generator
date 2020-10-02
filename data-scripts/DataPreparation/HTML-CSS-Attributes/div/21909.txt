@@ -1,0 +1,4 @@
+ width: 50%; 	.tm-tab-content-box-col { 
+		width: 50%;
+		margin-top: 0; 
+ width: 45%;  width: 35%;  width: 30%;  width: 25%; 

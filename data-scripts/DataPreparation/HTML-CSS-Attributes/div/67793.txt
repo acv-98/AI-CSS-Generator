@@ -1,0 +1,7 @@
+		float: none;
+		margin: 0 auto;
+  height: 320px;
+  float: left;
+  max-width: 270px;
+  width: 100%;
+  background: url(../img/employee-1.jpg) no-repeat;

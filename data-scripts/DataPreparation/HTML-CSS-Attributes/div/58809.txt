@@ -1,0 +1,9 @@
+	margin:0 auto;
+	padding:0 20px;
+	width:930px;
+	background:url(images/body_bg.gif) top repeat-y;
+	font:normal 30px Arial, Helvetica, sans-serif;
+	color:#464646;
+	line-height:1.8em;
+	float:left;
+	text-decoration:underline;

@@ -1,0 +1,7 @@
+  padding: 0;
+  height: 60px;
+  min-height:60px;
+  font-size: 90%;
+  margin: 0;
+  line-height: 150%;
+  margin-left: 100px;

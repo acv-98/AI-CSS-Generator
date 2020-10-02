@@ -1,0 +1,4 @@
+width:294px;
+float:left;
+margin:0px 0px 0px 5px;
+background:url(../images/sgin_bg.gif) repeat-x #F0F1F1;

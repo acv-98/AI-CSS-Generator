@@ -1,0 +1,11 @@
+	margin: 0 0 7px 0;
+	overflow:hidden;
+	float:left;
+	display:block;
+	border:0;
+	width:790px;
+	height:460px;
+	padding:0;
+	list-style:none;
+	filter:alpha(opacity=80);
+	opacity:0.8;

@@ -1,0 +1,10 @@
+height:50px;
+background-color:#f0f0f0;
+font-size:13px;
+font-weight:bold;
+padding:15px 0;
+display:block;
+-webkit-transition:width 3s ease-in-out;
+-moz-transition:width 3s ease-in-out;
+-ms-transition:width 3s ease-in-out;
+-o-transition:width 3s ease-in-out;

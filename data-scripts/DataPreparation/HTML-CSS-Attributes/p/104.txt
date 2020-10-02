@@ -1,0 +1,9 @@
+	line-height:1.8em;
+	padding:2px 4px;
+	color:#fff;
+	text-decoration:underline;
+	font-weight:normal;
+	background:#aeacc2;
+	display:block;
+	float:left;
+	width:74px;

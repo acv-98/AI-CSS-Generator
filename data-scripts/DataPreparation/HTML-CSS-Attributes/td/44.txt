@@ -1,0 +1,2 @@
+	height: 30px;
+	line-height: 40px;

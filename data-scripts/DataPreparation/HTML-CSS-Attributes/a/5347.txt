@@ -1,0 +1,16 @@
+
+		display: block;
+		padding: 0 4px;
+		text-decoration: none;
+		outline: none; 
+		cursor: pointer;
+		
+		font-size: 8px;
+		text-transform: uppercase;
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
+		color: #000000; 
+		background: #ffffff 0 0 no-repeat;  
+		text-shadow: 1px 1px 0 rgba(255,255,255,0.8);
+text-decoration:none;

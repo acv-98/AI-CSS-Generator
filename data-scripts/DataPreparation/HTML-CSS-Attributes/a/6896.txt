@@ -1,0 +1,8 @@
+  display: inline-block;
+  vertical-align: middle;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 22px;
+  padding: 15px 60px 15px 60px;
+  border-radius: 3px;
+    font-size: 21px;
+    padding: 12px 50px 12px 50px;

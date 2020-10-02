@@ -1,0 +1,7 @@
+    max-width: 330px;
+    font-size: 24px;
+  font-family: mensch;
+  line-height: 1.1em;
+  color: #585246;
+  display: block;
+  overflow: auto;

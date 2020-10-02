@@ -1,0 +1,1 @@
+width:180px;height:150px;display:block;border-radius:90px;-moz-border-radius:90px;-webkit-border-radius:90px;-khtml-border-radius:90px;margin:auto;background-color:#e8e8e8;text-align:center; padding:30px 0 0 0; margin:auto; display:block;

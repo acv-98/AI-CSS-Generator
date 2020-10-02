@@ -1,0 +1,1 @@
+padding:0 12pxmargin-bottom:20pxmargin:0; padding:0; list-style:noneborder-right:1px solid #000; display:inlineborder-right:nonedisplay:inline-block; padding:0 22px

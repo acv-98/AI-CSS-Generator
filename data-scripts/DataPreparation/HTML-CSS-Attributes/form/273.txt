@@ -1,0 +1,14 @@
+	position: relative;
+	border: 1px solid #e1e1e1;
+	color: #323232;
+	font-size: 14px;
+	height: 60px;
+	width: 100%;
+	border-top-color: #0091ea;
+	border-top-width: 2px;
+	padding: 0 50px 0 20px;
+	background-color: transparent;
+	top: 0;
+	right: 0;
+	cursor: pointer;
+	bottom: 0;

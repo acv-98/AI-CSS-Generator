@@ -1,0 +1,7 @@
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	float:right;
+	color:#fff;
+	background-color:#5db166;
+	border:1px solid #dedede;

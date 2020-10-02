@@ -1,0 +1,8 @@
+    width: 200px;
+    height: 200px;
+    border: 15px solid white;
+    position: absolute;
+    top: 87px;
+    right: 41px;
+    z-index: 1;
+	display: none;

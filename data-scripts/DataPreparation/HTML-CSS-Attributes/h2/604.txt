@@ -1,0 +1,4 @@
+	font-family: 'Nothing You Could Do', sans-serif;
+	font-size: 1.6em;
+	display: inline-block;
+	margin-left: 0.5em;

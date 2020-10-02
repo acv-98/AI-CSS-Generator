@@ -1,0 +1,5 @@
+  position: relative;
+  padding: 20px;
+	max-height: 340px;
+	-webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box;
+	margin-bottom: -15px;

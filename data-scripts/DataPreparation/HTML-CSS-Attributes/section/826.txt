@@ -1,0 +1,7 @@
+  background-image: url(../img/second-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  overflow: hidden;
+  background-attachment: fixed;
+  margin-top: -2px;

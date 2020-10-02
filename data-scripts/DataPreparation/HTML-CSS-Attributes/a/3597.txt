@@ -1,0 +1,8 @@
+    background-color: transparent;
+    border-color: #4eacdd;
+    color: #4eacdd;
+    
+    -webkit-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    transition: all 0.35s ease-in-out;

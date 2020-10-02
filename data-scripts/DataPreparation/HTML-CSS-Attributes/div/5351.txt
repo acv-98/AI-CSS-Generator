@@ -1,0 +1,3 @@
+	background:#fff;
+	max-width:100%;
+	display: inline-block;

@@ -1,0 +1,4 @@
+    display: inline;
+    margin-top: 20px;
+    color: #b2b2b2;
+    margin-left: 5px;

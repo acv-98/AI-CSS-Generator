@@ -1,0 +1,15 @@
+  display: block;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  overflow: hidden;
+  color: #696763;
+  font-size: 15px;
+  font-weight: normal;
+  width: 31%
+  background: transparent;
+  border: 1px solid#F0F0E9
+  float: left;
+  margin-right: 10px
+  padding: 5px;
+  border-radius: 0;
+  resize: none

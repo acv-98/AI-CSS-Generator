@@ -1,0 +1,2 @@
+	font-size: 72px;
+	line-height: 1.1em;

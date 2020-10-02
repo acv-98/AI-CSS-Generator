@@ -1,0 +1,8 @@
+padding-left: 0;
+SUBSCRIBE SECTION
+#subscribe {
+    margin-top: 155px;
+    background: url(../img/bg.jpg) fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #fff;

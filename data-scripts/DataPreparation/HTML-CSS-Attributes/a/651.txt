@@ -1,0 +1,3 @@
+	font:bold 12px Tahoma, Arial, Helvetica, sans-serif;
+	color:#e58e11;
+	text-decoration:none;

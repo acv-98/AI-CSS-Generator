@@ -1,0 +1,8 @@
+ text-align: center;  padding-bottom: 15px; 
+	margin: 0;
+	font-size: 18px;
+    line-height: 32px;
+    color: #fff;
+    text-align: left;
+ color: #fff; border-bottom: 1px dotted #fff;  color: #fff; border: 0; .footer-social {
+	text-align: right;

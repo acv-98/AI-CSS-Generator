@@ -1,0 +1,9 @@
+	padding: 1.6em;
+	color: #637693;
+	transition: color 0.20s linear 0s;
+	-o-transition: color 0.20s linear 0s;
+	-ms-transition: color 0.20s linear 0s;
+	-moz-transition: color 0.20s linear 0s;
+	-webkit-transition: color 0.20s linear 0s;
+  	float: none;
+  	text-align: center;

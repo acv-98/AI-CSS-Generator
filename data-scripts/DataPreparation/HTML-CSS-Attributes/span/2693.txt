@@ -1,0 +1,4 @@
+	display:block;
+	width:70px;
+	height:70px;
+	margin:0 auto 14px auto;

@@ -1,0 +1,6 @@
+	display: inline;
+	float: left;
+	text-align: left;
+	width: 100%;
+	padding: 15px;
+		width: 100%;

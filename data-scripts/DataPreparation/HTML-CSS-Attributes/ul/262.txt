@@ -1,0 +1,7 @@
+     background: #b0b435;
+     margin: 0px;
+     display: inline-block;
+     border-radius: 0px;
+	 float: right;
+     color: #000000;
+     font-size: 16px;

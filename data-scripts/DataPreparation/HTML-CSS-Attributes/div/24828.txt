@@ -1,0 +1,1 @@
+background-color:#1e2022; width:855px; min-height:100px; margin:70px 0 0 10px; padding:43px 40px 30px 45pxcolor:#f8f9f9; font-weight:200; margin:0margin:30px 0 0 -13px

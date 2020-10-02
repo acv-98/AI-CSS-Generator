@@ -1,0 +1,12 @@
+ border-color: #cfcfcf;  border-color: #cfcfcf;  font-size: 22px; font-family: 'Shadows Into Light', sans-serif; color: #AB5705; font-style: normal; font-weight: normal; 	clear: both;
+	display: block;
+	background: none repeat scroll 0 0 #FFFFFF;
+	float: right;
+	font-size: 1.4em;
+	margin: 0;
+	padding-left: 10px;
+ position:relative; height: 12px; border-top:1px solid #CFCFCF; margin-top:15px;  position:absolute; top:-12px; right:0;  background: #fff; padding: 0 0 0 15px; float: right; font-size: 11px  text-transform: uppercase; color: #d38304;     background: none repeat scroll 0 0 #FFFFFF;
+    float: right;
+    padding-left: 10px;
+    color: #AB5705;
+    margin-bottom: 0px;

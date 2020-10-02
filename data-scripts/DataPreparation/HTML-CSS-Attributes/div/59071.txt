@@ -1,0 +1,7 @@
+  color: #a5d549;
+  float: left;
+  display: inline;
+  width: 100%;
+margin-bottom: 0px;.footer_bootomRight{
+  text-align: right;
+margin-bottom: 10px;text-align: center;

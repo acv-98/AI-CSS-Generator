@@ -1,0 +1,5 @@
+	padding:0;
+	text-decoration:none;
+	margin:0;
+	border:1px solid #dedede;
+	float:left;

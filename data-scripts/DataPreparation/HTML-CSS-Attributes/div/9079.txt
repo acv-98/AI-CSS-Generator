@@ -1,0 +1,7 @@
+ position: relative; width: 100%; height: 0; background-color: #fff; .videoWrapper43 {
+  padding-top: 75%;
+  opacity: 0;
+  height: 0;
+  -webkit-transition-delay: 0s, 800ms;
+  -moz-transition-delay: 0s, 800ms;
+  transition-delay: 0s, 800ms;

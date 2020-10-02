@@ -1,0 +1,5 @@
+	float: left;
+	display: inline;
+	padding-right: 5px;
+	padding-left: 12px;
+	background: transparent url(../images/dot2.png) no-repeat left center;

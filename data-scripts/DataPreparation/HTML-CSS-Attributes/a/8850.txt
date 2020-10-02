@@ -1,0 +1,19 @@
+box-shadow:0 1px 1px #2ddce7;
+*  CONTENT                                                                                                         
+	background:-moz-linear-gradient(top, #29d7e0 0%, #0b6e8c);
+	border:1px solid #045370;
+	-moz-box-shadow:inset 0 0 1px rgba(62, 237, 240, 0.5);
+	-webkit-box-shadow:inset 0 0 1px rgba(62, 237, 240, 0.5);
+	box-shadow:inset 0 0 1px rgba(62, 237, 240, 0.5);
+	text-shadow:0 -1px 0 #0b6988;
+box-shadow:0 1px 1px #cef970;box-shadow:0 1px 1px #ffad10;box-shadow:0 1px 1px #ea36c6;box-shadow:0 1px 1px #c23ae6;box-shadow:0 1px 1px #f54141;text-shadow:0 0 0; text-transform:none; border:0; font-size:12px; background-color:#010101; border-radius:5px; color:#fff; display:inline-block; padding:15px 20px; text-decoration:none; font-weight:600; background:-moz-linear-gradient(top, #404040 0%, #010101); background:-webkit-gradient(linear, left top, left bottom, from(#404040), to(#010101));background:-moz-linear-gradient(top, #010101 0%, #404040); background:-webkit-gradient(linear, left top, left bottom, from(#010101), to(#404040));margin-right:10px; display:inline-block; width:16px; height:16px; float:left;background:url("img/icon-download.png") no-repeat 50% 50%;color:#b1b1b1; font-weight:100;	display:inline-block;
+	margin-top:10px;
+	padding:14px 20px;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:12px;
+	font-weight:bold;
+	color:#fff;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;

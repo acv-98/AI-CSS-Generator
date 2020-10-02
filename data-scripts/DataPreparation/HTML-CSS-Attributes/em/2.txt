@@ -1,0 +1,1 @@
+ width:41px; height:61px; background:url(images/ico2.png); left:36px;

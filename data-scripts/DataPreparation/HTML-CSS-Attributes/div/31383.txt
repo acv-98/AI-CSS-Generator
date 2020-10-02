@@ -1,0 +1,10 @@
+list-style:none;width:2000em;position:relative;float:left; width:265px !important; min-height:260px; margin-right:20px; text-align:center;.sliderControl .control a.jcarousel-control-prev, .sliderControl .control a.jcarousel-control-next {
+display: block;
+overflow: hidden;
+background: url(../images/img-sprite.png) no-repeat -515px -354px;
+top: 35%;
+margin-top: -61.5px;
+background-position:-571px -354px; left:inherit; right:-55px;width:100%; text-align:center; margin:8% 0;display:inline-block; width:60px; height:4px; margin-right:10px; background:#ccc; overflow:hidden; text-indent:-200px;.sliderControl .jcarousel-pagination a active{
+background:#6f9ccb;padding-bottom:16px;display:block; background:url(../images/imgBottom.png) no-repeat center bottompadding:10px 0px 0px 0px; min-height:10px; display:block;display:block;padding-top:10px;text-decoration:line-through;color:#ff0000; margin-left:5px;width:705px;width:160px !important;width:100%width:144px !important;	margin-right: 50px;
+    width: 100%;  
+	display: none;

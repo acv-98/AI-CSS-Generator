@@ -1,0 +1,13 @@
+    background-size: cover;
+    background-position: center center !important;
+margin-bottom: 25px;    background-attachment: fixed;
+    height: 100%;
+    padding: 120px 0;
+    position: relative;
+    width: 100%;
+    display: block;
+    min-height: 100%;
+    overflow: hidden;
+    vertical-align: sub;
+    z-index: 2;
+    border-color: rgba(255, 255, 255, 0.1);

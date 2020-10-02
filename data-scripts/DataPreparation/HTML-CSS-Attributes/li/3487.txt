@@ -1,0 +1,12 @@
+ color: #FF6C40 .top-nav .item-nav li a {
+    font-family: "Lato", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #A4A4A4;
+  border: 1px solid #fff;
+  background: #fff;
+  box-shadow: none;
+  text-decoration: none;
+  cursor: text;
+  background-color: #0f0f0f;
+-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box

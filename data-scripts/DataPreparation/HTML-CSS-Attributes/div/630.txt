@@ -1,0 +1,6 @@
+	font-size: 14px;
+	margin-bottom: 20px;
+	color: #CCC;
+	padding: 0 2px;
+	background: #5b5952;
+	text-decoration: none;

@@ -1,0 +1,6 @@
+ margin:0; padding:0; float:right;ul.mainNavigation li a{    font-family: 'playfair_displayregular'; font-size:17px; color:#515355; margin:0;
+ margin:0 0 0 38px; border-bottom:3px solid #243960; background:#FFF;  border-bottom:3px solid #243960;margin-left:28px;	margin-left: 17px;
+	width: 100%;
+	margin-top: 20px;
+	padding-bottom: 15px;
+	margin-bottom: 15px;

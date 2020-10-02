@@ -1,0 +1,1 @@
+float:left; display:inline; width:49%; padding-top:20pxwidth:48% !important; margin-right:2%.header_top_left

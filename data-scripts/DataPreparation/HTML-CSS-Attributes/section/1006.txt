@@ -1,0 +1,4 @@
+
+.our-story a i {
+	font-size: 100px;
+	color: #ffa500;

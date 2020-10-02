@@ -1,0 +1,13 @@
+	position:absolute;
+	bottom:-49px;
+	left:0px;
+	z-index:111;
+	display:inline-block;
+	font-size:12px;
+	line-height:15px;
+	color:#fff;
+	text-decoration:underline;
+	background:url(../images/portfolio-prev.gif) 0 4px no-repeat;
+	padding-left:15px;
+	right:-120px;
+	padding-right:15px;

@@ -1,0 +1,6 @@
+    max-width:500px;
+    margin:0 auto;
+    padding-bottom:40px;
+    color:#0f5f5c;
+    font-size:32px;
+	font-family: 'robotolight';

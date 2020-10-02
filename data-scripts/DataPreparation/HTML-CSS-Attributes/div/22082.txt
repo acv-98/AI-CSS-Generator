@@ -1,0 +1,14 @@
+	height: auto;
+	overflow: visible;
+	position: relative;
+	-webkit-transition: height 0.35s ease;
+	-moz-transition: height 0.35s ease;
+	-o-transition: height 0.35s ease;
+	transition: height 0.35s ease;
+ overflow: hidden;
+height:auto;overflow:visible;position:relative;height:0;overflow:hidden;-webkit-transition:height 0.35s ease;-moz-transition:height 0.35s ease;-o-transition:height 0.35s ease;transition:height 0.35s ease;.visible-print@font-face {
+  font-family: 'fontello';
+  src: url('../font/fontello.eot?10435402');
+       url('../font/fontello.svg?10435402#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;

@@ -1,0 +1,14 @@
+    padding-top: 9px;
+    font-style: italic;
+    position: relative;
+    background-color: #dad9d1;
+    margin-bottom: 11px;
+    left: 30px;
+    content: '';
+    display: block;
+    bottom: -13px;
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 13px 0 0 16px;
+    border-color: #dad9d1 transparent transparent transparent;

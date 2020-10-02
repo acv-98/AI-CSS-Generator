@@ -1,0 +1,7 @@
+    background-color: #a56375;
+    color: #fff;
+    font-size: 36px;
+    line-height: 35px;
+    padding: 26px 0 37px;
+    margin-bottom: 0;
+    padding-right: 250px;

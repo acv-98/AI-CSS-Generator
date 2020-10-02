@@ -1,0 +1,10 @@
+        width:3%;
+        margin-right:2%;
+    margin-bottom:30px;
+    display:block;
+    overflow: hidden;
+    font-size:0.875rem;
+    color:#fff;
+    line-height: 1.4rem;
+    float:left;
+    padding: 2px;

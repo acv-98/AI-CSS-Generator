@@ -1,0 +1,4 @@
+        line-height: 30px;
+        margin: 0;
+        text-align: left;
+    max-width: 287px;

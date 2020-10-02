@@ -1,0 +1,4 @@
+  border: 5px solid #7B6C63;
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;

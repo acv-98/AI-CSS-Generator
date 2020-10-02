@@ -1,0 +1,3 @@
+ height: auto; 	.tm-tours-box-1 {
+		margin-left: auto;
+		margin-right: auto;

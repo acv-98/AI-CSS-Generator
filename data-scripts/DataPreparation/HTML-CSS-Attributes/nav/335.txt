@@ -1,0 +1,7 @@
+    background-color: transparent; 
+    border-color: transparent; 
+    transition: all .6s;
+    margin: 15px auto;
+    color:#f6c23a;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #FDE48A;

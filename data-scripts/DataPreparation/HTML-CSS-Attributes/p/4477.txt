@@ -1,0 +1,4 @@
+padding-top:7px;display:inline-block; width:29px; height:29px; margin:0 10px 0 0; text-indent:-9999px;margin-right:0;background:url("img/small-rss.png") no-repeat;background:url("img/small-facebook.png") no-repeat;background:url("img/small-twitter.png") no-repeat;
+*  OTHER STYLES                                                                                                    
+display:none;Original Author: Tomas Lach (www.tomaslach.cz)
+Modified by OS Templates (http://www.os-templates.com)

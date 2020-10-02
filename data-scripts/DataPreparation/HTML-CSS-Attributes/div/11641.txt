@@ -1,0 +1,13 @@
+	font-size: 0;
+	line-height: 0;
+	text-align: right;
+	padding-top: 31px;
+	min-width: 60px;
+	margin-top: 0;
+	  padding-top: 4px;
+    padding-bottom: 6px;
+    padding-left: 26px;
+    padding-right: 26px;
+	margin-left: 30px;
+	padding-right: 0;
+		padding-bottom: 0;  

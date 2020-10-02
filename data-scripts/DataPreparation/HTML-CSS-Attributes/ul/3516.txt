@@ -1,0 +1,4 @@
+	margin: 0 0 0 20px;
+	padding: 0;
+	list-style-image: url(images/list_icon_bg.jpg);
+	color: #20150f;

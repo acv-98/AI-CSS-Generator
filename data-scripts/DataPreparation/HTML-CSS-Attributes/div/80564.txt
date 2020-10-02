@@ -1,0 +1,109 @@
+color:#217b9d;border-left:2px solid #217b9d;background:#217b9d;width:95%;* Custom Input Fields Require Adjustments
+margin:0 0 15px 10pxheight:23px;padding-top:7px;		width:100%;
+		position:relative;
+		z-index:90;
+		background:url(../images/design/bodyTop-960.png) left top no-repeat transparent;
+		height:7px;
+		margin:auto;
+width:100%;	.body .error-404 h1 {
+		font-size:40px;
+		font-weight:600;
+		font-family:"Open Sans";
+		text-align:center;
+		font-style:italic;
+		text-shadow: 0px 1px 1px #ffffff;
+		margin-bottom:40px;
+		min-height:50px;
+		padding-top:6px;
+		padding-left:10px;
+		padding-right:10px;
+		padding-bottom:2px;
+		color:#3aa9d2;
+		top:-1px;
+margin:0 3px 0 3px;float:right;position:relative;display:block;	.body .callout-hr, .body .hr{
+		left:-7px;
+		margin-top:12px;
+		background-color:#e1e0e0;
+		display:block;
+background:none;margin-bottom:0;	.body .callout a.medium-button {
+		float:right;
+		-webkit-border-radius: 2px;
+		-moz-border-radius: 2px;
+		border-radius: 2px;
+		-webkit-box-shadow: inset 0px 0px 3px 3px #e3e2e2;
+        box-shadow: inset 0px 0px 3px 3px #e3e2e2;
+margin:0;padding:10px 15px 0 15px;	.body .callout.intext .content h4 {	
+		line-height:20px;
+width:100%;	.body .callout.intext .intext-button a {
+		right:15px;
+		max-width:678px;
+color:#3c3c3c;	.body .blog .info {
+		border-top:1px solid #e7e6e6;
+		border-bottom:1px solid #e7e6e6;
+color:#e7e6e6;margin-bottom:20px;background:url(../images/design/shadow-full-body-blog.png) center 274px no-repeat transparent;padding-bottom:25px;margin-bottom:-10px;border:1px solid #e0e0e0;background-color:#e5e5e5;color:#f1f1f1;	.body .blog p {
+		margin-right:5px;
+		border-left:2px solid #3aa9d2;
+position:relative;	.body .blog .border .meta {
+		min-width:61px;
+font-size:10px;display:block;padding-bottom:1px;	* Style 2
+margin-bottom:36px;	.body .blog.style-2 .meta {
+float:right;margin:0 0 0 25px;float:left;	.body .blog.style-2 .description  h5 {
+color:#3b3b3b;	.body .blog.style-2 .meta p {
+margin-top:10px;margin-bottom:5px;	* Style 3
+max-width:651px;padding-bottom:8px;margin-top:6px;margin-top:3px;margin-top:7px;background-position:center 267px;	* Style 4
+max-width:685px;margin:0 0 35px 0;padding:0;position:relative;float:left;position:absolute;top:12px;left:6px;z-index:1000;background:none;padding:6px;background:#3aa9d2;color:#dedede;line-height:11px;font-size:11px;margin-top:3px;float:left;width:381px;margin:0 0 0 20px;width:272px;height:161px;overflow:hidden;padding:2px 0 3px 0;margin:0 5px 5px 0;padding-bottom:12px;line-height:12px;margin-top:6px;margin:7px 0 0 0;	* Blog Post
+padding:0;margin:0;max-width:651px;	.body .blog.post .description {
+margin-bottom:15px;	.body .blog.post h6 {
+		clear:both;
+		list-style:none;
+		overflow:hidden;
+		margin-left:55px;
+		border-right:0;
+display:block;margin:0;padding:0;margin-top:24px;width:100%;margin-bottom:21px;	.body .standard-form form input, .body .standard-form form textarea {
+		text-indent:5px;
+margin:15px 0 15px 0;border:1px solid #bfbfbf; width:100%;max-width:100%;height:180px;padding-top:6px;overflow:hidden;margin-right:0;float:right;margin-right:0;margin:0 0 0 18px;width:303px;float:left;margin:0 10px 16px 0;margin:0 0 10px 0;float:none;width:620px;clear:both;margin:0 10px 16px 0;margin-right:18px;width:538px;padding-right:20px;padding-left:20px;	.body .sidebar {
+border-left: 1px solid #e7e6e6;height:200px;position:absolute;left:-17px;border-left:0;border-right:1px solid #e7e6e6;height:160px;z-index:-20;right:-17px;margin-bottom:15px;	.body .sidebar ul.blogs {
+float:left;margin:0;padding:0;	.body .sidebar ul.blogs li img, .body .sidebar ul.img-list li img {
+		max-height:55px;
+margin:4px;	.body .sidebar ul.blogs li p {
+float:left;margin:0 0 15px 15pxwidth:52px;height:48px;overflow:hidden;margin:0;margin:0;padding:0;padding:0;margin:12px 0 15px 0;	.body .sidebar .tabbed-area .tcontent .blogs img {
+margin-top:18px;width:940px;background:url(../images/design/map-shadow.png) center 265px no-repeat;height:293px;padding:4px;background:#e6e6e6;border:1px solid #c2c2c2;width:930px;	.body .filter {
+margin-bottom:36px;	.body .portfolio img {
+margin-right:20px;position:relative;position:absolute;width:960px;padding:0;margin:0;border:0;background:none;background-color:#efefef;padding:4px;border-bottom:2px solid #cdcccc;position:relative;transition: all 0.3s ease 0s;border-bottom:2px solid #3aa9d2;margin:0;margin-top:-18px;margin-left:-18px;color:#4c4c4c;text-align:center;line-height:12px;margin:0;font-size:14px;margin:13px 0 0 0;color:#9b9b9b;margin:10px 0 6px 0;max-width:290px;position:absolute;bottom:-15px;background:url(../images/design/shadow-portfolio-three.png) transparent;height:15px;width:299px;border-bottom:1px solid #cdcccc;background:url(../images/design/shadow-portfolio-four.png) transparent;height:15px;width:228px;left:-1px;max-width:218px;margin-right:10px;max-width:930px;margin-bottom:15px;max-width:168px;margin:0 13px 10px 0;font-size:13px;float:none;width:100%;position:relative;padding:0 0 20px 0;margin:0 0 20px 0;border-bottom:1px dashed #dddddd;margin:0 20px 0 0;float:left;display:block;position:relative;z-index:10000;background-color:#efefef !important;border:1px solid #e5e5e5;margin:0;float:right;font-size:16px;font-weight:600;line-height:20px;margin-bottom:12px;margin-bottom:25px;color:#454545;font-size:18px;font-weight:600;line-height:0;margin-bottom:10px;margin-bottom:10px;	.body .team {
+margin:3px 0 13px 0;font-size:16px;margin-bottom:9px;font-weight:600;line-height:0;font-size:10px;margin-bottom:12px;padding:0 4px 4px 4px;margin:0;background-color:#e8e7e7;width:100%;margin:10px 0 0 0;padding-top:0;display:inline-block;margin:0;padding:0;position:relative;padding:0;margin:6px 2px 6px 0;float:left;text-indent:-99999px;width:24px;height:24px; position:absolute;width:24px;height:24px;display:none;z-index:1000;display:block;width:24px;height:24px;padding:0;margin:0;background-image:url(../images/icons/sm_icons/icon-facebook2.png);background-image:url(../images/icons/sm_icons/icon-twitter2.png);background-image:url(../images/icons/sm_icons/icon-linkedin2.png);background-image:url(../images/icons/sm_icons/icon-deviantart2.png);background-image:url(../images/icons/sm_icons/icon-dribbble2.png);background-image:url(../images/icons/sm_icons/icon-flickr2.png);background-image:url(../images/icons/sm_icons/icon-friendfeed2.png);background-image:url(../images/icons/sm_icons/icon-googleplus2.png);background-image:url(../images/icons/sm_icons/icon-lastfm2.png);background-image:url(../images/icons/sm_icons/icon-pinterest2.png);background-image:url(../images/icons/sm_icons/icon-rss2.png);background-image:url(../images/icons/sm_icons/icon-skype2.png);background-image:url(../images/icons/sm_icons/icon-tumblr2.png);background-image:url(../images/icons/sm_icons/icon-vimeo2.png);font-weight:600;line-height:0;margin:13px 0 31px 0;font-style:normal;margin:0 0 5px 0;line-height:0;margin:25px 0 55px 0;display:inline-block;text-align:center;width:100%;width:114px;height:113px;display:inline-block;margin-right:43px;background:url(../images/design/noise.png) top left repeat #2e2e2e;font-family:"Open Sans";line-height:0;font-size:40px;color:#d4d4d4;text-shadow: 1px 1px 1px #1c1c1c;margin:40px 0 36px 0;font-weight:600;line-height:0;display:block;font-size:19px;color:#d4d4d4;text-shadow: 1px 1px 1px #1c1c1c;line-height:0;font-family:"Open Sans";margin-right:0;margin-top:18px;width:940px;background:center 265px no-repeat;height:293px;padding:4px;background:#e6e6e6;border:1px solid #c2c2c2;width:930px;font-size:18px;font-size:13px;		.side-shadows {
+			background:url(../images/design/side-shadows-768.png) left top no-repeat transparent;
+			width:832px;
+			height:541px;
+			position:absolute;
+			z-index:0;
+			left:-21px;
+			top:15%;
+			overflow:hidden;
+			margin:auto;
+			min-height:50px;
+margin:0 0 13px 0;		.body .blog {
+			max-width:501px;
+color:#e7e6e6;margin-bottom:11px;max-width:489pxbackground:none;margin-bottom:11px;padding:0;		* Style 2
+width:105px;margin-right:20px;width:376px;		* Style 3
+left:461px;max-width:501px;		* Style 4
+max-width:523px;margin:0 0 35px 0;padding:0;margin-top:3px;float:left;width:285px;margin:0 0 0 20px;width:204px;height:121px;overflow:hidden;font-size:8px;		* Blog Post
+padding:0;margin:0;max-width:501px;width:95%;width:83%;left:-20px;width:183px;font-size:16px;max-width:45px;max-height:40px;overflow:hidden;padding:2px;margin-bottom:0;padding:0;top:-10px;font-size:10px;max-width:96px;position:relative;line-height:12px;margin-bottom:5px;font-size:11px;display:block;line-height:13px;margin:8px 0 0 0;display:none;display:block;line-height:14px;margin-top:0;margin-top:10px;width:242px;float:left;margin:0 10px 16px 0;width:496px;clear:both;margin:0 10px 16px 0;margin-right:14px;float:right;width:739px;width:416px;background:none;width:226px;width:354px;width:768px;max-width:738px;max-width:169px;max-width:129px;background:none;font-size:20px;		.header .shadow {
+font-size:18px;font-size:13px;left:-17px;		.body .callout h4 {
+			line-height:25px;
+			margin-bottom:9px;
+			text-align:center;
+			font-size:14px;
+			font-style:italic;
+			padding-bottom:6px;
+text-align:center;padding-bottom:6px;		.body .callout .button-wrap {
+			display:inline-block;
+float:none;		.body .callout .button-wrap .wrapper {
+			margin-left:6px;
+left:145px;width:90%;margin:auto;		.body .callout.intext .intext-button a {
+			right:0;
+padding:0;display:none;padding-bottom:9px;border-bottom:1px dashed #d8d7d7;margin:0 0 15px 10px;margin:0;margin-right:10px;padding:10px 20px 10px 20px;padding-bottom:10px;width:100%;margin:0 0 10px 0;width:100%;left:380px;max-width:100%;margin:0 0 35px 0;padding:0;margin:0 0 0 6px;float:none;width:100%;display:block;margin:0;position:relative;width:100%;float:none;max-width:421px;margin:0;padding:0;width:100%;width:100%;margin:0 0 5px 0;background-image:none;padding:0;margin:5px 0 0 0;width:410px;display:none;margin-bottom:16px;float:none;width:100%;position:relative;padding:0 0 20px 0;margin:0 0 20px 0;border-bottom:1px dashed #dddddd;margin:0 0 10px 0;float:none;float:none;margin:0;padding:0;margin-bottom:6px;padding-right:0;padding-right:0;		.body .body-round {
+			font-weight:600;
+color:#e7e6e6;margin-bottom:11px;max-width:408pxbackground:none;margin-bottom:11px;padding:0;		.body .body-wrapper {
+padding:0;margin:0;max-width:501px;width:95%;width:83%;width:340px;width:116px;width:190px;margin-bottom:16px;margin-right:10px;width:440px;color:#4c4c4c;text-align:center;line-height:12px;margin:0;max-width:195px;background:none;background:none;max-width:116px;margin-top:11px;font-size:12px;color:#9b9b9b;margin:7px 0 3px 0;max-width:410px;max-width:193px;margin-right:19px;line-height:0;width:92px;height:91px;margin-right:13px;font-size:25px;margin:24px 0 36px 0;font-size:15px;line-height:0;		.footer.style-2 .patch {
+left:85px;left:-7px;max-width:288pxbackground:none;margin-bottom:11px;padding:0;display:none;width:298px;padding:0;margin:0;max-width:501px;width:90%;width:71%;left:7%;max-width:40px;max-height:40px;padding:2px;margin:0 0 15px 4px;margin-right:4px;line-height:24px;margin:0 0 8px 0;line-height:15px;width:72px;height:71px;margin-right:2px;font-size:20px;margin:24px 0 26px 0;font-size:14px;width:290px;width:220px;display:none;		
+display:none;margin-bottom:5px;float:left;margin-bottom:24px;left:0;background:url(../images/design/shadow-portfolio-three.png) transparent;height:15px;width:299px;width:100%;position:relative;width:100%;margin:0;margin-right:0;margin-bottom:16px;margin-bottom:10px;max-width:290px;width:96%;max-width:96%;max-width:290px;

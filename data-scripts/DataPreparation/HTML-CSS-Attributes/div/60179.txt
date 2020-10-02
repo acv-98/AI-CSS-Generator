@@ -1,0 +1,9 @@
+	border-top: none;
+	clear: both;
+	float: left;
+	width: 99%;
+	background: #FFF;
+	margin-top: 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;

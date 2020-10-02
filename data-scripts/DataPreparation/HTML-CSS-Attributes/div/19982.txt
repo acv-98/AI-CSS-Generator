@@ -1,0 +1,7 @@
+    margin-bottom: 0px;
+    color:#aaaaaa;
+    font-size:12px;
+    float: left;
+    width: 20%;
+    display: inline-block;
+    margin-right: 15px;

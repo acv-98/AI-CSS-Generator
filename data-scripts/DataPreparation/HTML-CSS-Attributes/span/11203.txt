@@ -1,0 +1,6 @@
+color: red
+#gallery {
+	margin-left: -13px;
+	overflow: auto;
+	padding-bottom: 18px;
+	position:static;

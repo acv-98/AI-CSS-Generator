@@ -1,0 +1,2 @@
+ height:20px; padding:8px 10px; line-height:19px; color:#949494;  background:url(images/pagging.gif) repeat-x 0 0; height:20px; float:left; padding:0 8px; border:solid 1px #d5d5d5; text-decoration: none; color:#949494; margin-left:5px;   border-color:#8c3521; background:#ba4c32; color:#fff;  float:left; margin-left:5px; padding-top:2px; 
+ -moz-border-radius:3px; -webkit-border-radius:3px; 

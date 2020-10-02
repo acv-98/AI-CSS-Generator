@@ -1,0 +1,2 @@
+	width:270px;
+	margin-bottom:12px;

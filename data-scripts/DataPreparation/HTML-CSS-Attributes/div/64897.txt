@@ -1,0 +1,15 @@
+	margin:0;
+	padding:0;
+	height:51px;
+	float:left;
+	list-style:none;
+	display:block;
+	width:138px;
+	font-size:15px;
+	line-height:20px;
+	font-weight:normal;
+	color:#363636;
+	text-decoration:none;
+	text-transform:uppercase;
+	text-align:center;
+	background:url(../images/menu_p.jpg) no-repeat center top;

@@ -1,0 +1,7 @@
+	display:block;
+	position:absolute;
+	background:url(../images/quote.gif) no-repeat;
+	width:39px;
+	height:38px;
+	top:-10px;
+	left:10px;

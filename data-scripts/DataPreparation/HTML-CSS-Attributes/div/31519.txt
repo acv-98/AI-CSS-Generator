@@ -1,0 +1,2 @@
+	background: url(images/img-04.jpg) no-repeat center;
+	background-size: cover;

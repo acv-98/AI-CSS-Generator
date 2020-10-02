@@ -1,0 +1,15 @@
+	margin-top: 50px;
+border: 1px solid #fff;
+    height: 50px;
+    padding: 5px 10px;
+    background: none;
+    color: #fff;
+    font-family: 'OpenSans';
+    font-weight: 300;
+    font-size: 12px;
+	width:60%;
+    border: 1px solid #fff;
+    margin-left: -5px;
+	font-family:'Roboto';
+	font-weight:600;
+	outline: none;

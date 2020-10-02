@@ -1,0 +1,17 @@
+  background-color: #c1a35f;
+  border-color: #c1a35f;
+  color: #333;
+  display: inline-block;
+  font-size: 15px;
+  line-height: 13px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  padding: 8px 15px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  margin-left: 5px;
+  text-decoration: none;
+  outline: none;

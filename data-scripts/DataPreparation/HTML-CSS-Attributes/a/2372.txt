@@ -1,0 +1,1 @@
+ color:#fff; display:block; float:left; font-size:20px; padding:30px 2px; text-align:center; width:50pxcolor:#fff.header_top_leftbackground-color:#ffa500

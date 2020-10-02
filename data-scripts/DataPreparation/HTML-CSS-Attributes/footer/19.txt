@@ -1,0 +1,9 @@
+    padding-bottom: 80px;
+	background:#f3f3f3;
+	padding:40px 0px;
+	margin:10px 0px;
+	color:#ff5f3b;
+	font-size:14px;
+    color: #000;
+    font-size: .8125rem;
+    line-height: 1.575rem;

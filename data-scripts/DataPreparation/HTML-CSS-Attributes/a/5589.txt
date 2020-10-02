@@ -1,0 +1,1 @@
+	background: url("images/post_meta.png") no-repeat scroll 0 -81px transparent;

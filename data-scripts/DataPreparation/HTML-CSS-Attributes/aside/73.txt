@@ -1,0 +1,2 @@
+color: #999;margin-bottom:10px; font-size:20px; color:#666;font-weight: normal; color:inherit;text-decoration: none; color:#666;padding-left: 5px; line-height: 2;
+ border-top:1px solid #DDD; padding-top:30px;

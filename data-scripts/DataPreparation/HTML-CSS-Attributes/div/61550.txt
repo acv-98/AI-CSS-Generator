@@ -1,0 +1,5 @@
+  margin: 20px 0;
+  padding-bottom: 10px;
+  border-bottom: 1px dotted #828282;
+  color: #333;
+  margin-right: 5px;

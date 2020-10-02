@@ -1,0 +1,8 @@
+	position: relative;
+	display: inline-block;
+	width: 140px;
+	height: 140px;
+	margin-bottom: 26px;
+	text-align: center;
+	top: 0;
+	left: 0;

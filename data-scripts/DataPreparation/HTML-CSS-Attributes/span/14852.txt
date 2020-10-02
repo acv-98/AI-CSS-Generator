@@ -1,0 +1,6 @@
+	top: 5px;
+	background: url(../images/bg-headliner-bottom-shadow.jpg) no-repeat center;
+	display: block;
+	height: 37px;
+	position: relative;
+	width: 950px;

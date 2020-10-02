@@ -1,0 +1,8 @@
+    display: none
+    padding: 5px;
+    background: #68ceef;
+    font-family: 'Open Sans', sans-serif;    
+    text-transform: uppercase;
+    border:5px solid #fff;
+    margin: 10px 0;
+        display: block;

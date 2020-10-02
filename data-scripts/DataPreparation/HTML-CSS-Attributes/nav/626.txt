@@ -1,0 +1,8 @@
+        border-color: transparent;
+        background-color: rgba(67, 52, 108, 0.5);
+        text-align: center;
+        border-bottom: 0px solid;
+    transition: all .6s;
+    margin: 15px auto;
+    color:#00e0d0;
+    padding-bottom: 22px;

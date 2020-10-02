@@ -1,0 +1,5 @@
+    position: absolute;
+    content: url(../img/separator.png);
+    text-transform: uppercase;
+    margin-bottom: 30px;
+font-family:"Playfair Display SC",serif;color:#333

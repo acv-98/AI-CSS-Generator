@@ -1,0 +1,7 @@
+    width: 390px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    color: #ababab;
+    font-size: 12px;
+        width: 100%;

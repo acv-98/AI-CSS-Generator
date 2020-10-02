@@ -1,0 +1,5 @@
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  background: #00aeef;
+  border-right: 2px solid #fff;

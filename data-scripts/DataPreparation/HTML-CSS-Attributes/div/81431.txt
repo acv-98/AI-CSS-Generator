@@ -1,0 +1,4 @@
+  background-color: #f9fbfc;
+  padding-top: 28px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #b2b2b2;

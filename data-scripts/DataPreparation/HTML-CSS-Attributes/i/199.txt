@@ -1,0 +1,2 @@
+  background-position: -168px -96px;
+ content: "\f05c"; 

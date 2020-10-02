@@ -1,0 +1,4 @@
+	font-size:0.85em;
+	color:#555;
+	line-height:1.8em;
+		display: none;

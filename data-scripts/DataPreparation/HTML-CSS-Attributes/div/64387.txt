@@ -1,0 +1,2 @@
+	padding:185px 400px 35px 58px;
+	padding-right:346px;

@@ -1,0 +1,18 @@
+   width: 290px;
+   height:350px;
+   position: absolute;
+   overflow: hidden;
+   top: 0;
+   left: 0;
+   cursor: pointer;
+   -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+   filter: alpha(opacity=0);
+   opacity: 0;
+   background-color: rgba(219,127,8, 0.7);
+   -webkit-transition: all 0.4s ease-in-out;
+   -moz-transition: all 0.4s ease-in-out;
+   -o-transition: all 0.4s ease-in-out;
+   -ms-transition: all 0.4s ease-in-out;
+   transition: all 0.4s ease-in-out;
+		width: 270px;
+		height: 330px;

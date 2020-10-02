@@ -1,0 +1,4 @@
+	overflow: hidden;
+	background-color: #F9F9F9;
+	position: absolute;
+        position: inherit;

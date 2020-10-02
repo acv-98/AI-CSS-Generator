@@ -1,0 +1,14 @@
+	padding: 20px;
+	background-color: white;
+	opacity: 0.8;
+	width: 100%;
+		padding: 20px;
+		background-color: white;
+		opacity: 0.8;
+		width: 100%;
+		margin: 0px;
+	max-width: 340px;
+	margin-left: 100px;
+	
+	float: right;
+	display: inline-block;

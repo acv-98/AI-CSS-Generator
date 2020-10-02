@@ -1,0 +1,6 @@
+  text-align: center;
+  margin-left: -5px;
+  display: block;
+  color: #ccc;
+  letter-spacing: .2em;
+  text-transform: uppercase;

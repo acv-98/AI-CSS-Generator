@@ -1,0 +1,13 @@
+	list-style:none;
+	padding:0;
+	margin-top: 17%;
+	margin-left: 0;
+	display:inline-block;
+	margin-right:8px;
+	opacity:0.5;
+	color: #08080B;
+	font-weight: 700;
+	font-size: 0.8125em;
+	padding-bottom: 0.5em;
+	text-transform:uppercase;
+	margin-bottom:5px;

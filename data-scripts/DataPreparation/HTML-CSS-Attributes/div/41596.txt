@@ -1,0 +1,9 @@
+	display: none;
+	position: absolute;
+	width: 100%;
+	background: #fefefe;
+	border: 1px solid #f0efef;
+	text-align: center;
+	padding: 20px 10px;
+	z-index: 999;
+	box-sizing: border-box;

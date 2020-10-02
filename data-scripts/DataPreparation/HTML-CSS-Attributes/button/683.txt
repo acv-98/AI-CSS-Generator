@@ -1,0 +1,3 @@
+	background: url(../images/img-sprite.png)no-repeat -292px -341px;
+	color: #FFF;
+	background-color:#435F9F;

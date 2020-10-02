@@ -1,0 +1,14 @@
+    margin-bottom: 1.5rem;
+    background: #fff none repeat scroll 0 0;
+    border: 1px dashed #dadada;
+    border-radius: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: 0.3px;
+    min-height: 50px;
+    text-transform: none;
+    padding-left: 0.5rem;
+    padding-top: 1rem
+    color: #a2abb1;
+    opacity: 1;

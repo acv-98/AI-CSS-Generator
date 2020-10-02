@@ -1,0 +1,6 @@
+	z-index: 99999;
+	background-color: transparent;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	text-transform: uppercase;

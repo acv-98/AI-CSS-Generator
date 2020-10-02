@@ -1,0 +1,8 @@
+height: 95px;
+    width: 95px;
+    text-align: center;
+    line-height: 98px;
+    color: #3E3E3E;
+    border-radius: 100px;
+    margin: 0 2px 4px;
+    font-size: 31px;

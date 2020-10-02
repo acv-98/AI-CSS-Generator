@@ -1,0 +1,5 @@
+	margin:0 auto;
+	padding:15px 24px 24px;
+	width:922px;
+	border-top:1px solid #DADADA;
+	color:#959595;

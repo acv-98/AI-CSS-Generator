@@ -1,0 +1,4 @@
+	background:#fef9fd;
+	padding:80px 0px;
+.head_title_rigth {
+	margin: 40px 0px;

@@ -1,0 +1,6 @@
+		display: block;
+		text-indent: -5000px;
+		width: 306px;
+		height:57px;
+		background: url('../images/logo.png') left top no-repeat;
+		float: left;

@@ -1,0 +1,1 @@
+ background:url(images/hbg_img.png) no-repeat center 24px; height:180px; padding-top:120px;

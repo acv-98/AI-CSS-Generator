@@ -1,0 +1,5 @@
+ height: 510px !important;.grid-item:hover img{
+    transform: scale(1.1);
+ height: 440px !important;    .grid-item .portfolio_hover_area .fa {
+        margin-top: 73px;
+ height: 500px !important; width:100%; height: 255px !important;    .grid-item--width2 .portfolio_hover_area .fa {

@@ -1,0 +1,8 @@
+	width:66px;
+	height:50px;
+	position:absolute;
+	left:2px;
+	top:2px;
+	background:url(../images/lupa.png) no-repeat center center;
+	display:block;
+	text-indent:-9999px;

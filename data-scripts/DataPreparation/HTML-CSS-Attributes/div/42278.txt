@@ -1,0 +1,1 @@
+ color: #959595; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease;  color: #555555;  margin-right: 5px; 

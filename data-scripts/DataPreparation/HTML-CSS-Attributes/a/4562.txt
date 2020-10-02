@@ -1,0 +1,8 @@
+	color: #111;
+	text-transform: uppercase;
+	font-size: 32px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	margin-top: 20px;
+    font-size: 40px;
+        font-size: 100px;

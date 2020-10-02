@@ -1,0 +1,1 @@
+ height:383px;  min-height:383px;  list-style-type: none; font-size:13px; border-bottom:dashed 1px #ccc; padding:5px 0; border-bottom:0; padding-bottom:0; color:#5f5f5f; text-decoration: none; background:url(images/cat.gif) no-repeat 0 4px; padding-left:17px; color:#8b0000; 

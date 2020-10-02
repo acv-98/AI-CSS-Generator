@@ -1,0 +1,6 @@
+    font-size: 65px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 10px;
+    float:left;
+        margin-right: 15px;;

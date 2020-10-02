@@ -1,0 +1,10 @@
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+  text-align: center;
+  position: relative;
+  -webkit-transition: opacity .25s linear;
+  -moz-transition: opacity .25s linear;
+  -o-transition: opacity .25s linear;
+  -ms-transition: opacity .25s linear;
+  transition: opacity .25s linear;

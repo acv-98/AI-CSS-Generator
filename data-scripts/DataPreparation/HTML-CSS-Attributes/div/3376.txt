@@ -1,0 +1,2 @@
+        border-right: 0px solid #686868;
+    margin-top:20px;   

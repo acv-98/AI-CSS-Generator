@@ -1,0 +1,9 @@
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 6px;
+  display: inline-block;
+  background: #dedede;
+  border-radius: 10px;
+  box-shadow: none;
+  height: 12px;
+  margin-bottom: 30px;

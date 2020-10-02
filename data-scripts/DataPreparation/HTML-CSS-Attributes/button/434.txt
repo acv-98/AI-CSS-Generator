@@ -1,0 +1,10 @@
+    font-size: 14px;
+	
+    background: #bd9e6f;
+    border: 0px solid #bd9e6f;
+    color: #fff;
+    padding: 5px 10px;
+    margin-left: -4px;
+    border-radius: 0px 4px 4px 0px;
+    height: 34px;
+    outline: none;

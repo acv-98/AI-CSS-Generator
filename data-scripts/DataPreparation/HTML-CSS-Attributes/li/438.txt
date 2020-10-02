@@ -1,0 +1,1 @@
+background:none;padding-right:0;margin-right:0background:none

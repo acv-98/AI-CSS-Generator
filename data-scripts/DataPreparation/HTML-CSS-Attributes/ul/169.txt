@@ -1,0 +1,12 @@
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	background-color: #364a59;
+	transition: all 0.5s;

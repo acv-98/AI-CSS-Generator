@@ -1,0 +1,11 @@
+	margin:0;
+	padding:0;
+	float:left;
+	width:650px;
+	margin-bottom:0;
+	padding-bottom:0;
+	font-size:30px;
+	line-height:1.2em;
+	border:none;
+	background:url(../images/dot.gif) repeat-x left bottom;
+	color:#3f3f3f;

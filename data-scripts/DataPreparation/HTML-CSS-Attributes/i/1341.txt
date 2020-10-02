@@ -1,0 +1,8 @@
+	background: url(../images/img-sprite.png)no-repeat -303px -314px #7F8C8C;
+	width: 70px;
+	height:70px;
+	float: left;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-o-border-radius:5px;

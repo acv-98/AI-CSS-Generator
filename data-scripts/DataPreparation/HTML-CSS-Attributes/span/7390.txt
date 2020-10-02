@@ -1,0 +1,14 @@
+ background: #4086bb; 
+ background: #929494;  background: #7dc744;  no images here :)
+*{
+  margin: 0;
+  padding: 0;
+  background: #f44365;
+  border-bottom: 1px solid #fff;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #fff;
+  font-size: 85%;
+  text-transform: uppercase;

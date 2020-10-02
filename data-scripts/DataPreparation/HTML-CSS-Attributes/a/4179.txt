@@ -1,0 +1,4 @@
+	font-size:11px;
+	color:#00b4ea;
+	text-decoration:underline;
+	font-weight:bold;

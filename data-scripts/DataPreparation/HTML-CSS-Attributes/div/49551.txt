@@ -1,0 +1,2 @@
+  margin-bottom: 20px;
+  box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.1);

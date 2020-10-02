@@ -1,0 +1,7 @@
+		height: 300px;
+		max-width: 100%;
+		margin: 20px 0;
+		padding: 0;
+  padding-left: 7.5px;
+  padding-right: 7.5px;
+  height: 400px;

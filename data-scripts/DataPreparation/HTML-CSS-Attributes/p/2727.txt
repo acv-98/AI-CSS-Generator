@@ -1,0 +1,5 @@
+			font-size: 0.9em;
+			margin-bottom: 15px;
+			color: #888888;
+				color: #888888;
+				text-decoration: none;

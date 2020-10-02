@@ -1,0 +1,7 @@
+    color:#c9401a;
+    font-size:10px;
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+    padding:2px 0 5px 0;
+    background:url(../images/icon_comment.png) 0 1px no-repeat;
+    margin:0 0 0 15px;

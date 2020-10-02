@@ -1,0 +1,1 @@
+background:url(images/testimonial-bg.jpg) center fixed #000;background-size:cover;

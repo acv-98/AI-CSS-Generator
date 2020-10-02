@@ -1,0 +1,16 @@
+	position: absolute;
+	background-color: rgba(162, 207, 141, 0.95);
+	width: 100%;
+	top: 0;
+	bottom: 0;
+	opacity: 0;
+	visibility: hidden;
+	transition: all 0.5s;
+	text-align: center;
+	margin-top: 35%;
+	display: inline-block;
+	height: 46px;
+	line-height: 46px;
+	color: #a2cf8d;
+	border-radius: 50%;
+	font-size: 18px;

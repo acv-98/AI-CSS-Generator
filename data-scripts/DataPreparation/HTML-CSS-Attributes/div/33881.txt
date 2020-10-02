@@ -1,0 +1,5 @@
+  text-align: justify;
+  padding: 0 15px;
+  font-size: 13px;
+  margin-bottom: 15px;
+  min-height: 115px;

@@ -1,0 +1,1 @@
+ background:url(../images/menu-active.jpg) no-repeat; color:#e00b15;BANNER CLASSES

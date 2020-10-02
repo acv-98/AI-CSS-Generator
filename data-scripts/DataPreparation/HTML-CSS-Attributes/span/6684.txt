@@ -1,0 +1,7 @@
+	color:#414550;
+	font-size: 11px;
+	background-color:#bfd6e4;
+	padding: 6px 10px;
+	width: 60px;
+	text-align: center;
+	margin-top:-10px;

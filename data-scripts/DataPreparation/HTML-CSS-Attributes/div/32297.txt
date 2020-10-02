@@ -1,0 +1,3 @@
+width:28%;width:28%;	float:left;
+	width:23%;
+	padding:2% 2%;

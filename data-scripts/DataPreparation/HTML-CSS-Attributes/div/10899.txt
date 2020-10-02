@@ -1,0 +1,7 @@
+    width: 770px;
+    *width: 65.75877432260411%;
+	  float:none;
+	  width:724px;
+		float:none;
+		text-align:center;
+  margin-left: 0;

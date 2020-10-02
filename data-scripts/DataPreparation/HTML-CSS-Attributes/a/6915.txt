@@ -1,0 +1,8 @@
+	margin-top: 5px;
+	color: #CCC !important;
+	display: block;
+	text-transform: lowercase;
+	-webkit-transition: color 0.1s ease-out;
+	-moz-transition: color 0.1s ease-out;
+	-o-transition: color 0.1s ease-out;
+	transition: color 0.1s ease-out;

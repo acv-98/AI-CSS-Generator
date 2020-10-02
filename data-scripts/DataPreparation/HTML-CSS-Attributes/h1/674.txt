@@ -1,0 +1,6 @@
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 57px;
+    font-size: 30px !important;
+    line-height: 42px !important;
+  color: #777;

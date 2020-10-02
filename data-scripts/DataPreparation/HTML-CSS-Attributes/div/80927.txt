@@ -1,0 +1,12 @@
+	float:right;
+	width:439px;
+	height:21px;
+	border:1px solid #b0b2b6;
+	background:#fff;
+	padding:1px;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	margin-bottom:5px;

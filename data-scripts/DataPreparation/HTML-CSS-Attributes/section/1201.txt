@@ -1,0 +1,7 @@
+	padding: 200px 0 60px;
+	background: #70B9B0;
+	color: #fdfdfd;
+	font-size: 48px;
+	font-weight: 900;
+	list-style: none;
+		padding-top: 80px;

@@ -1,0 +1,23 @@
+  width:123px;
+  height:123px;
+  margin:0 auto 50px;
+  
+   color:white;
+   font-weight:700;
+   font-size:24px;
+   width:200px;
+   line-height:90px;
+   float:left;
+   list-style: none;
+  position:relative;
+  overflow:hidden;
+  margin-top:50px;
+  text-align:center;
+  opacity:0.5;
+  -webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+  padding-top:50px;
+  padding-bottom:20px;

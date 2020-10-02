@@ -1,0 +1,8 @@
+  padding-top:50px;
+  width: 100%;
+  border-left: 3px solid #dab074;
+  margin-top:0;
+  color: #3a424c;
+  font-weight: 400;
+    margin-bottom: 20px;
+    width: auto;

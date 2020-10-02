@@ -1,0 +1,5 @@
+    width: 252px;
+  margin:0 auto;
+  position:relative;
+  background:#ece9d6 url(../img/noise.png);
+  box-shadow:0 0 3px 0 rgba(0, 0, 0, 0.22);

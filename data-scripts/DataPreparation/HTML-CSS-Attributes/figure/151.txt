@@ -1,0 +1,8 @@
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 0 !important;
+  font-style: italic;
+  font-size: 14px;
+  color: #7b7b7b;

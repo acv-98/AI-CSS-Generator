@@ -1,0 +1,14 @@
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: #333333;
+  margin-bottom: -46px;
+  overflow: hidden;
+  font-size: 0;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    width: 50%;
+    content: '';
+    height: 100px;

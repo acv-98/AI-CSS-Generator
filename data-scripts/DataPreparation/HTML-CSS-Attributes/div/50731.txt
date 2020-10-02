@@ -1,0 +1,6 @@
+	width:960px;
+	height:265px;
+	position:relative;
+	list-style-type:none;
+	display:inline;
+	float:left;

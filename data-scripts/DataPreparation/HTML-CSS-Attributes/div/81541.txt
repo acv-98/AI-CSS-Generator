@@ -1,0 +1,13 @@
+        margin-top: 10%;
+    overflow: hidden;
+.main_blog_area .single_blog_menu h2{
+    border-right: 2px solid #bbb;
+    color:#bbb;
+    line-height: 2.5rem;
+    font-weight: 700;
+.main_blog_area .single_blog .single_blog_text h6{
+    font-size:0.714rem;
+                    Contact Us Section
+.ourmap{
+    height: 648px;
+    width:100%;

@@ -1,0 +1,12 @@
+  border: 1px solid #F7F7F0;
+  direction: block;
+  overflow: hidden;
+  float: left;
+  padding: 5px;
+  font-size: 12px
+  padding-left: 0;
+  margin-bottom: 0
+  color: #363432;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-right: 10px;

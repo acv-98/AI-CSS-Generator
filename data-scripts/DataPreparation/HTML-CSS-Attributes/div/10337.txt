@@ -1,0 +1,9 @@
+  margin-right: -2px;
+  margin-left: -2px;
+  padding-left: 2px;
+  padding-right: 2px;
+position:relative@font-face {
+  font-family: 'simple-line-icons';
+  src: url('../fonts/Simple-Line-Icons.eot?v=2.3.2');
+  font-weight: normal;
+  font-style: normal;

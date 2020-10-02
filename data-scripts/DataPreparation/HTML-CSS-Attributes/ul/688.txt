@@ -1,0 +1,17 @@
+  display: inline-block;
+  text-align: left;
+  border: none;
+  color: #555;
+  font-size: 15px;
+  height: 30px;
+  line-height: 15px;
+  padding: 5px;
+  width: 30px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  background-color: transparent;
+  text-decoration: none;
+  outline: none;

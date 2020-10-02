@@ -1,0 +1,42 @@
+ border-color: #dfdcdc;  content: ''; 
+.section.blog .post.sticky {
+    border: none !important;
+    margin-top: 13px;
+    padding: 0px;
+    border-radius: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    max-width: 100%;
+    margin-bottom: 10px;
+    position: relative;
+    float: left;
+    margin-right: 20px;
+    min-width: 220px;
+    background-color: #000;
+    padding-top: 15px;
+    padding-left: 24px;
+    padding-bottom: 13px;
+    right: 5px;
+    bottom: 5px;
+    color: #ffffff;
+    text-align: right;
+    width: 46%;
+ margin-right: 7px;  margin-right: 0px;  line-height: 26px; margin-bottom: 0px; margin-top: 0px;  font-size: 14px;  margin-right: 8px; display:inline;  color: #fc9a00;  width: 100%;  margin-top: 0px; 	font-family: 'Maven Pro','Verdana','Arial',sans-serif !important;
+.span9 .section .services-row .span2:nth-child(4n+1) {
+    clear: left;
+ color: #fc9a00  width: 270px; .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 470px; .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 570px;  width: 210px; #ie8 .sidebar-no .section.blog .sticky .the-content.span3,
+ width: 220px; #ie8 .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 380px; #ie8 .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 460px; .section.blog .sticky .the-content h4,
+.section.blog .sticky .the-content h4 a {
+    font-size: 14px;
+    font-weight: 600;
+ color: #6C6D03; .section.blog .post {
+    border-left: 0px !important;
+ position: relative; .section.blog .post .date {
+ width: 260px;  width: 210px;     .sidebar-no .section.blog .sticky .the-content.span3,
+ width: 220px;     .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 380px;     .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 460px;  width: 156px;  width: 166px;  width: 290px;  width: 352px;  width: 100%;  margin-bottom: 17px; 

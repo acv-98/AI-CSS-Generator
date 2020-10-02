@@ -1,0 +1,25 @@
+        font-size: 14px;
+        float: none!important;
+        margin-top: 7.5px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    border-radius: 0;
+    color: #076799;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: capitalize;
+    background-color: transparent;
+    content: '';
+    width: 0;
+    height: 15%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    z-index: -1;
+	width: 100%;
+	color: #f44336;
+    
+    right: 2px;
+    top: 13px;

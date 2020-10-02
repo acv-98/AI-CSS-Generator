@@ -1,0 +1,4 @@
+  font-size: 1.3333333333333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+  left: -1.8571428571428572em;

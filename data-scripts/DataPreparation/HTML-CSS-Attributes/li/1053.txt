@@ -1,0 +1,4 @@
+	margin-left: 40px;	
+	border-style: solid;	
+	border-color: #2C1F18;	
+	border-width: 1px 0 0 1px;	

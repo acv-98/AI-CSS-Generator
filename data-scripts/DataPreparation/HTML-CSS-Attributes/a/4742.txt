@@ -1,0 +1,11 @@
+    background: rgb(219, 0, 206);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#db00ce', endColorstr='#2750ff', GradientType=0);
+    color: #ffffff;
+    background-position: 100px;
+	color: #ffffff;
+    border: 0 !important;
+    padding: 17px 40px;
+    font-size: 15px;
+	font-weight: 600;
+    margin: 0 2px;
+    border-radius: 10px;

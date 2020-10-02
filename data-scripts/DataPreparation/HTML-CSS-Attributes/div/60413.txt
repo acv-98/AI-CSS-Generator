@@ -1,0 +1,4 @@
+	max-width: 880px;
+	padding-top: 36px;
+	border-top: 1px dotted #4b8f57;
+ padding-top: 42px; 

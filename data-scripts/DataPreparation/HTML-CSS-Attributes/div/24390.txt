@@ -1,0 +1,18 @@
+  background: transparent;
+  color: #444444;
+  background-color: #d2d6de;
+  border: 0;
+  box-shadow: none;
+  display: block;
+  padding: 10px;
+  position: relative;
+  content: " ";
+  clear: both;
+  border-bottom: 1px solid #f4f4f4;
+  font-size: 18px;
+  margin: 0;
+  line-height: 1;
+  margin-right: 5px;
+  right: 10px;
+  top: 5px;
+  left: auto;

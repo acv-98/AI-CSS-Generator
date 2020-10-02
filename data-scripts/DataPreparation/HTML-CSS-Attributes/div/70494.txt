@@ -1,0 +1,8 @@
+    border-radius: 3px;
+    color: #a3a5a8 !important;
+    letter-spacing: 0.1rem;
+    line-height: 1;
+    padding: 0.2rem 1rem;
+    font-size: 12px;
+    margin: 1rem 0 0;
+    display: inline-block;

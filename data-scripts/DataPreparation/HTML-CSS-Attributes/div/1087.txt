@@ -1,0 +1,8 @@
+        margin-bottom: 25px;
+        min-height: 362px;
+        color: #fff;
+        font-size: 1.675rem;
+        max-width: 60%;
+        line-height: 20px;
+    background: #a2ca28;
+    padding: 50px 40px;

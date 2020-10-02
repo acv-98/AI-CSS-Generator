@@ -1,0 +1,3 @@
+    text-align: left;
+    display: inline-block;
+    width:80%;

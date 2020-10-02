@@ -1,0 +1,4 @@
+	color: #fff;
+	background: #CEC3A0;
+	text-shadow: 1px 1px 1px #8A8B71;
+	border-radius: 5px;

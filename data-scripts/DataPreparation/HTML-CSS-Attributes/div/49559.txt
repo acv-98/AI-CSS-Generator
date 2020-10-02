@@ -1,0 +1,5 @@
+  margin-bottom: 0px;
+  padding: 5px 10px;
+  border-bottom: 1px solid #585246;
+  border-right: 1px solid #585246;
+  border-left: 1px solid #585246;

@@ -1,0 +1,14 @@
+	border-color: #fcac45;
+	border-width: 4px;
+	width: 60px;
+	float: left;
+	clear: both;
+	padding: 30px 0;
+	font-weight: 300;
+	border-top: 4px solid #fcac45;
+	height: 10px;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 20px;
+	position: relative;
+	left: 17%;

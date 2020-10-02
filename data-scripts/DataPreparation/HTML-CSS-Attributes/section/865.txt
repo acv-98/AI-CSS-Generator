@@ -1,0 +1,2 @@
+    background: url(../images/teambg.jpg) no-repeat center center;
+    background-size: cover;

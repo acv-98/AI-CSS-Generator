@@ -1,0 +1,6 @@
+  background: #00c6d7;
+  border-color: transparent;
+	border: 4px solid #ffffff;
+  	border-radius: 0;
+	background: transparent;
+  	color: #ffffff;

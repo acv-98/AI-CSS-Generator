@@ -1,0 +1,11 @@
+	width:100%;
+	float:left;
+	text-align:center;
+	padding:10px 0px;
+	margin:0px;
+	border:0px;
+	height:120px;
+	overflow:hidden;
+	font-family: 'HelveticaLTStdRoman', Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color: #AFADAD;

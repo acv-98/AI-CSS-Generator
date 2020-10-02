@@ -1,0 +1,4 @@
+	color:#54652e;
+	font-size:2.2em;
+	font-weight:bold;
+	margin-bottom:.5em;

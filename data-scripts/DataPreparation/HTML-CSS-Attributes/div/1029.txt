@@ -1,0 +1,8 @@
+ clear: both; height: 30px; 
+    Price section              
+#price {
+  background: url('../images/price-bg.jpg') 50% 0 repeat-y fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    color: #ffffff;

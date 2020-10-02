@@ -1,0 +1,15 @@
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+    transition: background .3s ease-in-out;
+    -webkit-transition: background .3s ease-in-out;
+    -o-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    color: #fff;
+    font-size: 28px;
+    background: #4d5154;
+    border-radius: 100%;
+    display: block;
+    height: 45px;
+    padding-top: 13px;
+    text-align: center;
+    width: 45px;

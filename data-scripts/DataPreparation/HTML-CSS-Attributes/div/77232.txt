@@ -1,0 +1,1 @@
+	animation: slide-up 1.5s;

@@ -1,0 +1,3 @@
+  border: 1px solid #151515;
+  margin-top: -1px;
+  margin-left: -1px;

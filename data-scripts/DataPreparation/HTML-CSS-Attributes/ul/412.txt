@@ -1,0 +1,12 @@
+padding:6px 0 23px
+.list-1 li {
+	background:url(../images/marker-1.png) no-repeat 7px 10px;
+	padding:0 0 0 20px;
+	display:block;
+	line-height:24px;
+	-webkit-transition: all 0.2s ease;
+	-moz-transition: all 0.2s ease;
+	-o-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+	color:#d53827;
+color:#343434

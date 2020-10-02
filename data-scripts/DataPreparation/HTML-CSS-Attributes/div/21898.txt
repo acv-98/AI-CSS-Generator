@@ -1,0 +1,6 @@
+ margin-bottom: 2rem; 
+.tm-contact-form-title { 
+	font-size: 2.2rem;
+    font-weight: 300;
+	margin-bottom: 8%; 
+ margin-bottom: 0; 

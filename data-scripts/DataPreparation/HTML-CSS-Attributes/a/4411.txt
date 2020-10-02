@@ -1,0 +1,14 @@
+	overflow:hidden;
+	display:block;
+	width:16px;
+	height:16px;
+	background-color:#222;
+	cursor:pointer;
+	text-align:center;
+	background-repeat:no-repeat;
+	background-position:center;
+	margin:10px 0 10px 10px;
+	padding:0;
+	opacity: 0.9;
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90);
+	-MS-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";

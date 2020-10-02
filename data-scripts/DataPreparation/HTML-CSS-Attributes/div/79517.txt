@@ -1,0 +1,29 @@
+	cursor: default;
+	color: #262b38;
+	border-right: 1px solid rgba(139, 144, 157, 0.18);
+	border-left: 1px solid rgba(139, 144, 157, 0.18);
+	font-size: 18px;
+	margin: 0 0;
+	-webkit-transition: color 0.3s;
+	transition: color 0.3s;
+	font-weight: 400;
+	overflow: hidden;
+	padding: .1em 0;
+	background: rgba(0,0,0,.03)
+	vertical-align: super;
+	display: inline-block;
+	position: relative;
+	-webkit-animation: moveUp 0.4s forwards;
+	animation: moveUp 0.4s forwards;
+	-webkit-animation-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+	animation-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+	-webkit-animation-delay: 0.05s;
+	animation-delay: 0.05s;
+	list-style: none;
+	text-align: center;
+	width: 60%
+	text-transform: uppercase;;
+	letter-spacing: 1px;
+	margin-top: auto;
+	border-radius: 1px;
+	background-color: rgba(0,0,0,.8);

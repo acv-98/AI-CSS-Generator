@@ -1,0 +1,4 @@
+	background:url(../images/box1_right.gif) bottom right no-repeat;
+	padding-bottom:15px;
+	margin-right:-1px;
+	padding-right:1px

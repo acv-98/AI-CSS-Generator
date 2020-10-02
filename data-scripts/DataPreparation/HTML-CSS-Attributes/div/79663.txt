@@ -1,0 +1,11 @@
+	background-image: url(../images/twitter_small.png);
+	background-position: 0 1px;
+	padding-bottom: 1px;
+	margin-bottom: 8px;
+	text-decoration: none;
+	font-size: 12px;
+	display: block;
+	height: 15px;
+	color: #727272;
+	padding-left: 20px;
+	background-repeat: no-repeat

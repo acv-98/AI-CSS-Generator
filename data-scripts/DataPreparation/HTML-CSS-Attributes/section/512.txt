@@ -1,0 +1,7 @@
+	background: url(../img/bg-t.jpg) center center no-repeat fixed;
+	background-size: cover;
+	color: #fff;
+	position: relative;
+	margin: 0;
+ position: relative;
+ z-index: 2;

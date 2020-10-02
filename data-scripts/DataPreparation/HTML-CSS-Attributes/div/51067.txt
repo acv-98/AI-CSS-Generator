@@ -1,0 +1,1 @@
+ width:920px; background-color:#036daa; margin:0 0 0 40px; float:left; clear:both;font-family: 'Lato', sans-serif; color:#fff; font-size:20px; line-height:28px; float:left; width:60%; padding:25px;

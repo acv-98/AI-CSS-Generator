@@ -1,0 +1,4 @@
+	padding: 15px 10px; 
+	text-justify: justify;
+	text-align: left;
+	border-left: 5px solid #890025;

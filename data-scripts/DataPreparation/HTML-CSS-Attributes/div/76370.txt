@@ -1,0 +1,1 @@
+ background: url(images/socials-inner.png) repeat-x 0 0; padding-left: 158px; padding-left: 70px;  padding-left: 10px; 

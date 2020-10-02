@@ -1,0 +1,1 @@
+text-decoration:underline; line-height:21px; font-size:13px;LEFT COLUM CLASSS

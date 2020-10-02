@@ -1,0 +1,4 @@
+  position: relative;
+  background: #f2f2f2;
+  float: left;
+  width: 100%;

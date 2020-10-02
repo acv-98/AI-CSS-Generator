@@ -1,0 +1,6 @@
+	-webkit-animation-name: rotateIn;
+	-moz-animation-name: rotateIn;
+	-o-animation-name: rotateIn;
+	animation-name: rotateIn;
+  -webkit-animation-name: rotateIn;
+  animation-name: rotateIn;

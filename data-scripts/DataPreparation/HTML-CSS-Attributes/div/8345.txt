@@ -1,0 +1,4 @@
+	font-size: 14px;
+	margin-right: 5px; 
+    font-size: 12px;
+    width: 135%;

@@ -1,0 +1,1 @@
+ padding:8px 0 0 45px; background:url('images/bg/toggle-arrow.png') 10px top no-repeat; min-height:35px;  font-family:'Droid Sans', sans-serif !important; font-size:0.786em; color:#585555;  display:none; 

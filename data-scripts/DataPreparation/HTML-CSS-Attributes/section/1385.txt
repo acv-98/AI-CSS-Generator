@@ -1,0 +1,18 @@
+    max-width: 630px;
+    height: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    overflow: hidden;
+    background: url("../../assets/images/process-graph.png") no-repeat;
+    background-position: center center;
+      font-size: 15px;
+        color: #061e37;
+      margin-bottom: 100px;
+    width: 190px;
+    float: left;
+    padding-top: 112px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+    text-align: right;
+    background-size: 300px 300px;

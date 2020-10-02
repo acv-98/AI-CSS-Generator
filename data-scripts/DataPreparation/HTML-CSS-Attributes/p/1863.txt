@@ -1,0 +1,6 @@
+	margin-bottom: 30px; .tm-services-description { 
+	color: #333;
+	width: 100%;
+	padding-top: 25px;
+	padding-right: 25px;
+ margin-bottom: 60px;  font-weight: 300;  margin-bottom: 50px;  margin-bottom: 80px; 

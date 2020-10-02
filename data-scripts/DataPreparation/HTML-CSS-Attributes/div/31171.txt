@@ -1,0 +1,4 @@
+ background: url(images/cols.png) repeat-x 0 bottom;  padding-bottom: 14px;   padding-bottom: 10px;   width: 212px; float: left;  padding-left: 14px; .cols .col a.col-btn { background: url(images/col-btn.png) repeat 0 0; float: left; border: 1px solid #afd1f6; height: 21px; line-height: 21px; text-align: center; padding: 0 15px; color: #324957; 
+	border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px;
+	text-shadow: rgba(255,255,255,0.9) 1px 1px 1px;
+ background-position: 0 bottom; text-decoration: none; 

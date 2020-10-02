@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	width:960px;
+	background:#fff;
+	float:right;
+	margin-bottom:0;
+	padding-bottom:8px;
+	font-size:26px;
+	line-height:1.2em;
+	color:#6d6d6d;
+	border:1px solid #e6e5e5;
+	text-align:left;
+	display:block;
+	text-decoration:none;

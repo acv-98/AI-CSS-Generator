@@ -1,0 +1,10 @@
+  padding: 42px 10px 0;
+  overflow: hidden;
+  color: #F25C27;
+  font-size: 80px;
+  line-height: 84px;
+  font-weight: normal;
+  margin: 0;
+  padding-bottom: 25px;
+    overflow: hidden;
+    padding: 42px 50px 0;

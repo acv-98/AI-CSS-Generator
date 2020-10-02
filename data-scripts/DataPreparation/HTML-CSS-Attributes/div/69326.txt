@@ -1,0 +1,16 @@
+	display: inline-block;
+	font-size: 18px;
+	float: left;
+	width: 28%;
+	clear: both;
+	margin-top: 5px;
+	padding: 20px 0px;
+	font-weight: 400;
+	color: #333333;
+	padding-bottom: 12px;
+	margin-left: 0px;
+	background: #ffffff;
+	-webkit-box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.1);
+	border-radius: 2px;
+	text-align: center;

@@ -1,0 +1,16 @@
+	width: 90px;
+	height: 90px;
+	display: inline-block;
+	background: #FD3B01;
+	border-radius: 30em;
+	text-align: center;
+	color: #fff;
+	-webkit-border-radius: 30em;
+	-moz-border-radius: 30em;
+	-o-border-radius: 30em;
+	-ms-border-radius: 30em;
+	font-weight: normal;
+	margin: 1.5em 0 0 0;
+	font-size: 1.2em;
+	z-index: 999;
+	float:right;

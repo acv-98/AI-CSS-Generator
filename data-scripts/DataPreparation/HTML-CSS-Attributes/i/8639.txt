@@ -1,0 +1,3 @@
+  content: "\f0dc";
+  display: inline-block;
+margin:0 auto

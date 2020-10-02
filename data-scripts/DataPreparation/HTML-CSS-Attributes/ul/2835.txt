@@ -1,0 +1,26 @@
+	float:right;
+	display:inline;
+	padding:0px 10px 0px 10px;
+	margin-top:70px;
+	color: #565656;
+	font-weight:bold;
+	background-position: center bottom;
+	cursor: pointer;
+ul.menu li ul.subnav {
+	list-style: none;
+	left: 0;
+	top: 90px;
+	width: 170px;
+	-moz-border-radius-bottomleft: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	border: 1px solid #111;
+	z-index:999999;
+	clear: both;
+	text-decoration:none;
+	font-size:12px;
+	padding-left:15px;
+	border-bottom:1px dashed #ccc;
+	list-style-type:none;
+	position:relative;

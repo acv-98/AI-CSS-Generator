@@ -1,0 +1,9 @@
+    margin-bottom: 28px;
+    font-size: 0;
+    line-height: 0;
+    display: inline-block;
+    width: 63px;
+    height: 62px;
+    text-align: center;
+    background-color: #79c4ca;
+    margin-left: 6px;

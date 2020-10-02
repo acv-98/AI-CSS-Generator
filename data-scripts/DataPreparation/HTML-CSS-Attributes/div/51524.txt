@@ -1,0 +1,8 @@
+width:262px;
+	width:262px;
+	float:left;
+	padding:0px 0px 7px 0px;
+	border-bottom:1px solid #843020;
+	background-image: url(../images/UPCOMINGEVENTS_heading.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;

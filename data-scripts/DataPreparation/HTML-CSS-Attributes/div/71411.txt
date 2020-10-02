@@ -1,0 +1,10 @@
+	width: 99%;
+	margin: 0; padding: 0;
+	overflow: hidden;
+	float: right;
+   background: #fff;
+	border: 1px solid #E8EAEC;
+	display: inline;
+	font-style: normal;
+	font-weight: bold;
+	font-size: .8em;

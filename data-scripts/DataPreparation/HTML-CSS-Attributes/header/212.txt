@@ -1,0 +1,15 @@
+        font-size: 35px;
+        text-align: center;
+    color: #ffffff;
+    background-color: rgba(41, 41, 41, 0.68);
+    width: 80%;
+    margin: auto;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    overflow: hidden;
+    margin-top: 240px;
+    color :#fff;
+    margin-bottom: 45px;
+    font-family: 'lorabold';

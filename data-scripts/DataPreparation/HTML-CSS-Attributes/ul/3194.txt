@@ -1,0 +1,13 @@
+    margin-top: 60px;
+    float: left;
+    margin-right: 60px;
+    width: 420px;
+    margin-bottom: 60px;
+    background: #000;
+    position: relative;
+    transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    font-size: 18px;
+    font-weight: normal!important;
+    color: #000;
+    text-decoration: none;

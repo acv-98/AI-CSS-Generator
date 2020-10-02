@@ -1,0 +1,8 @@
+display:block; background:url(images/learnmore.jpg) no-repeat!important; height:19px; width:90px; text-align:center; font:bold 12px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#ccc!important; text-shadow:#000 1px 1px 1px; text-decoration:none; padding:2px 0 0 0!important;display:block; background:url(images/learnmore.jpg) no-repeat!important; height:19px; width:90px; text-align:center; font:bold 12px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#ccc!important; text-shadow:#000 1px 1px 1px; text-decoration:none; padding:2px 0 0 0!important;background:url(images/learnmore-hover.jpg) no-repeat!important; color:#fff!important;#bottombar {
+	background:#000;width:970px;
+	position:fixed;
+	bottom:0;
+	left:50%;
+	height:25px;
+	margin:0 0 0 -485px;
+	z-index:998;

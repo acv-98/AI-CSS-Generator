@@ -1,0 +1,16 @@
+	margin-bottom: 30px;
+	display: block;
+	height: 20px;
+	width: 233px;
+	padding: 0 5px;
+	color: #000000;
+	font-size: 12px;
+	font-variant: normal;
+	line-height: normal;
+	float: right;
+ 	height: 30px;
+	cursor: pointer;
+	text-align: center;
+	vertical-align: bottom;
+	white-space: pre;
+	outline: none;

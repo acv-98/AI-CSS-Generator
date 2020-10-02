@@ -1,0 +1,11 @@
+    font-size: 16px !important;
+    position: absolute;
+    bottom:30px;
+    left: auto;
+    right: auto;
+    text-align: center;
+    width: 100%;
+    display: block;
+    margin-top: 2rem;
+    padding:0;
+    color: rgba(255,255,255,0.5);

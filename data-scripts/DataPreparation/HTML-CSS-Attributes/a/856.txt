@@ -1,0 +1,3 @@
+    background:url(../images/icon_comment.png) 0 1px no-repeat;
+    margin:0 0 0 15px;
+    padding:0 0 0 17px;

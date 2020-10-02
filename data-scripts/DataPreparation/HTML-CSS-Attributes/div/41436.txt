@@ -1,0 +1,13 @@
+	margin-left: 20px;
+	float: left;
+	margin-top: 45px;
+	padding-top: 0;
+	width: 210px;
+	color: #9BAF58;
+	font-size: 25px;
+	font-weight: normal;
+	background: url(../images/separator.gif) no-repeat center top;
+	display: block;
+	text-decoration: none;
+	height: auto;
+	line-height: 23px;

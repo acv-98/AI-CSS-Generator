@@ -1,0 +1,2 @@
+	margin-bottom: 35px;
+	font-size: 12px;

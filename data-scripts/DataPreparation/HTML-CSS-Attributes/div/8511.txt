@@ -1,0 +1,5 @@
+	margin:0 0 20px 0;
+	padding:30px 20px;
+	width:230px;
+	border:1px solid #d8d6d6;
+	background:#fefefe url(images/post_bg.gif) top repeat-x;

@@ -1,0 +1,7 @@
+	height: 20px;
+	width: 15px;
+	display: inline-block;
+	background: url(../images/pagenate.png) no-repeat -17px 0px;
+	vertical-align: sub;
+	margin-right: 1em;
+	cursor:pointer;

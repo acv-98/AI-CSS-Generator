@@ -1,0 +1,13 @@
+	width:315px;
+	float:left;
+	padding-left:18px;
+	padding-top:25px;
+	padding-right:63px;
+	position:relative;
+	height:223px;
+	font-family:Verdana, Arial, Sans-Serif;
+	font-size:13px;
+	color:#1d687b;
+	line-height:19px;
+	text-align:justify;
+	padding-bottom:7px;

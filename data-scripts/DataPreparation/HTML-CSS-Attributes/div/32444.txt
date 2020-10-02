@@ -1,0 +1,2 @@
+position: relative;position: absolute;top: 0;left:0; right: 0; bottom: 0;background:rgba(0,0,0,0.4); display: table;height: 100%;width: 100%;display: table-cell;vertical-align: middle;text-align: center;color: #fff;font:normal 4.5em Lobster,Arial,Helvetica;text-transform:capitalize;font:600 1.7em Josefin Sans,Arial,Helvetica;color: #fff;
+display: none;

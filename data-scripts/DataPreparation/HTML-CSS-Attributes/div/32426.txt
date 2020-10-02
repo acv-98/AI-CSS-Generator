@@ -1,0 +1,13 @@
+		display:inline-block;
+		padding:1px;
+		background:#fff;
+		border:6px solid #cecece;
+		margin-bottom:1em;
+		max-width:100%;
+		overflow:hidden;
+		
+		border-width:3%;
+display:block;	.grey .imgHolder{
+		border-color:#646e7d;
+		height:1%;
+		width:100%;

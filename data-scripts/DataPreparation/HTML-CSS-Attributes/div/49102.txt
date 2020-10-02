@@ -1,0 +1,6 @@
+    text-align: left;
+    color: #333!important;
+    display: block;
+    width: 100%;
+    line-height: 165%;
+    margin-bottom: 0;

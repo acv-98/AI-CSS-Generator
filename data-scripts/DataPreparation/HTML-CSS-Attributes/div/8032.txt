@@ -1,0 +1,12 @@
+	width:100%;
+	overflow:hidden;
+	padding-bottom:22px;
+	float:left;
+	margin:4px 25px 0 3px;
+	border:5px solid #fff;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	box-shadow:0 0 5px rgba(0, 0, 0, .1);
+	-moz-box-shadow:0 0 5px rgba(0, 0, 0, .1);
+	-webkit-box-shadow:0 0 5px rgba(0, 0, 0, .1);

@@ -1,0 +1,16 @@
+	margin:0 0 0 20px;
+	width:auto;
+	padding:15px;
+	font-family:arial;
+	background:url(../images/bg-footer.png);
+	overflow:hidden;
+	height:1%;
+	clear:both;
+	text-decoration:underline;
+	color:#f6008a;
+	display:inline-block;
+	float:left;
+	font-size:20px;
+	font-weight:normal;
+	line-height:20px;
+	text-indent:-99999px;

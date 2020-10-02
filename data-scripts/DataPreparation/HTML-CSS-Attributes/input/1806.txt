@@ -1,0 +1,2 @@
+ background:#ebebeb; border:solid 1px #dedede; padding:2px;
+ display:block; margin-bottom:10px;  display:inline; margin:0;  width:206px;  width:212px; 

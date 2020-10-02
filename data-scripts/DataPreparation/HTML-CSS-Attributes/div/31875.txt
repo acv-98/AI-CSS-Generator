@@ -1,0 +1,5 @@
+	margin:0;
+	padding:0;
+	height:182px;
+	background:url(images/image.jpg) no-repeat center top;
+	width:970px;

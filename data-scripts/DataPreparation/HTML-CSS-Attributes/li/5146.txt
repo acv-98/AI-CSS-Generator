@@ -1,0 +1,8 @@
+			border-bottom-:1px solid rgba(250,250,250, .5);
+			border-bottom-right-radius: 0px;
+			border-bottom-left-radius: 0px;
+			border-top-right-radius: 0px;
+			border-top-left-radius: 0px;
+			color: #333;
+			font-weight:600;
+			background-color: rgba(50,50,50, .01);

@@ -1,0 +1,7 @@
+    height: 100%;
+    position: absolute;
+    left: 15px;
+    right: 15px;
+    top: 0px;
+    opacity: 0;
+    border: solid 5px #63c6ae;

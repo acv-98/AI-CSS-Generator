@@ -1,0 +1,7 @@
+	padding:0;
+	display:block;
+	background:url(../images/list-1-border.gif) repeat-x 0 0;
+	line-height:18px;
+	color:#ec8f23;
+	font-size:12px;
+	text-decoration:none;

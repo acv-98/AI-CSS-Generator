@@ -1,0 +1,8 @@
+ border-color: #cfcfcf; 	padding: 5px;
+	border: 1px solid #CFCFCF;
+	overflow: hidden;
+	position: relative;
+	margin-right: 27px;
+	margin-bottom: 27px;
+	margin-top: 0;
+	background: #fff;

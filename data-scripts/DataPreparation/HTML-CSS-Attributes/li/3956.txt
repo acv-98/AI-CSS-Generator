@@ -1,0 +1,18 @@
+     display: flex;
+     height: 100%;
+     align-items: center;
+     background: #000;
+     float: left;
+     color: #fff;
+     padding: 0 6px;
+     border-radius: 100%;
+     font-weight: 500;
+     font-size: 16px;
+     margin: 50px 0 0;
+	background: transparent !important;
+	display: flex;
+	height: 100%;
+	min-height: 50px;
+	text-align: center;
+	justify-content: center;
+	align-items: center;

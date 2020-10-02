@@ -1,0 +1,11 @@
+    margin-bottom:50px;
+    width:150px;
+    height:35px;
+    padding: .2rem;
+    display: inline-block;
+    font-size:1.125rem;
+    font-family: 'slim_joeregular';
+    background-color: transparent;
+    transition: .5s;
+    color: #222;
+	cursor:pointer;

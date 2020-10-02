@@ -1,0 +1,21 @@
+	visibility:hidden;
+	width:74px;
+	height:74px;
+	border:1px solid #fff;
+	color:#fff;
+	position: relative;
+	left:-180%;
+	background:url(../images/plus-icon.png) 50% 50% no-repeat;
+	margin-left:47px;
+	text-align:center;
+	line-height:70px;
+	display: block;
+	float: left;
+	
+	transition-duration: 0.2s;
+	-webkit-transition-duration: 0.2s;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	padding-top:7px;
+	font-size:0;
+	text-indent:-100000px;

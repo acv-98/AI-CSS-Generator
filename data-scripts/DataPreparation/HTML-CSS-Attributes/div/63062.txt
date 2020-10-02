@@ -1,0 +1,2 @@
+	 padding: 0px;
+	color: #454545;

@@ -1,0 +1,6 @@
+	background: #830203;
+	box-shadow: inset 0px 0px 10px 5px rgba(0,0,0,.2);
+	border-radius: 4px;
+	text-decoration: none;
+	font-size: 12pt;
+	color: #FFFFFF;

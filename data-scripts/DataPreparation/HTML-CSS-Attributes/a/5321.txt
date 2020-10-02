@@ -1,0 +1,2 @@
+	background-position: bottom;
+	color: #c5c5c5;

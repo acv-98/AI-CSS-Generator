@@ -1,0 +1,1 @@
+height:28px; background:url(images/pink-rep.gif) repeat-x

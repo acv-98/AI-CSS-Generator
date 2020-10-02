@@ -1,0 +1,6 @@
+    position: relative;
+    background-color: transparent;
+    border: 1px solid #7f7f7f;
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+            box-shadow: none;

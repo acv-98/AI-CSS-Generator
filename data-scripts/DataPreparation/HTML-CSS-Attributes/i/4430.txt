@@ -1,0 +1,2 @@
+  content: "\f055";
+  display: none;

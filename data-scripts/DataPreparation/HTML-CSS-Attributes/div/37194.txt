@@ -1,0 +1,11 @@
+    margin-left:0;
+    width:22%;
+    color: #82ca9c;
+    border: 1px solid #82ca9c;
+    border-radius: 20px;
+    padding: 4px 30px;
+    font-size: 12px;
+    margin-top: 10px;
+    display:inline-block;
+    overflow:hidden;
+    background-color: rgba(0, 173, 62, 0.75);

@@ -1,0 +1,6 @@
+width:87px;
+	float:left;
+	padding:10px 23px 12px 37px;
+	background-image: url(../images/about_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;

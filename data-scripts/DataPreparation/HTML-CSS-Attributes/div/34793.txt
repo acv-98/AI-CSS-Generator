@@ -1,0 +1,8 @@
+	display: none;
+	margin: 0 0 15px 0;
+	color:#4d8c74;
+	clear:both;
+	text-shadow: none;
+	line-height: 17px;
+	width: 650px;
+	font-size: 14px;

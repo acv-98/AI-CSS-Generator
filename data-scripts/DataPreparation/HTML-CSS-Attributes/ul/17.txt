@@ -1,0 +1,7 @@
+	padding:6px 0 0 0
+	float:left;
+	display:block;
+	width:40px;
+	height:40px;
+	background:url(../images/social-icon.png) 0 0 no-repeat;
+	background-position:-54px 0

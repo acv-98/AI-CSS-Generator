@@ -1,0 +1,10 @@
+	zoom:1;
+	overflow:hidden;
+	color:#c2e575;
+	font-size:.91em;
+	line-height:1.83em;
+	font-family:Tahoma, Arial, helvetica, sans-serif;
+	margin:0;
+	padding-bottom:51px;
+	width:552px;
+	float:left;

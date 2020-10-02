@@ -1,0 +1,12 @@
+  display: none;
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+    
+    float: right;
+    color:#000;
+    content: url(../img/minus-sign.png);
+       
+      content: url(../img/plus-sign.png);
+padding-left: 10px;background: #3b3e4a !important; display: block; padding-left: 10px; color: #fff;

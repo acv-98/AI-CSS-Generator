@@ -1,0 +1,17 @@
+	text-decoration:none
+	padding:0;
+	width:100%
+	float:left;
+	position:relative
+	background:url(../images/menu-a-tail.gif) 0 -71px no-repeat
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	display:block;
+	font-size:21px;
+	line-height:1.238em;
+	color:#262626;
+	text-align:center;
+	text-transform:uppercase;
+	letter-spacing:-1px
+	background-position:left top;
+	background-repeat:repeat-x;
+	background-color:#000

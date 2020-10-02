@@ -1,0 +1,7 @@
+ width: 100%; 
+.grid {
+	position: relative;
+	margin: -1.5rem auto;
+	list-style: none;
+	text-align: center;	
+ width: auto;  max-width: 280px; 

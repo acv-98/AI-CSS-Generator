@@ -1,0 +1,4 @@
+width: 70px !important;.inner-single-page-related-content h2{font-size: 6px !important;
+line-height: 2px !important;
+  font-size: 4px !important;
+width: 123px !important;

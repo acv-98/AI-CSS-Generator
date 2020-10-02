@@ -1,0 +1,4 @@
+ max-width: 830px; 
+.tm-right {
+    display: inline-block;
+    float: right;

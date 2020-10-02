@@ -1,0 +1,8 @@
+    color:#fff;
+display: block;.home-content .input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 65%;
+    margin-bottom: 0;
+    height: 60px;

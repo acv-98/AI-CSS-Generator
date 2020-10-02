@@ -1,0 +1,13 @@
+min-height: 55px;    background: #fff;
+    padding: 10px;
+    border: 1px solid #E9E9E9;
+    border-bottom-color: transparent;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #ffffff;
+    height: auto;
+    position: relative;
+    min-height: 35px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: 0;

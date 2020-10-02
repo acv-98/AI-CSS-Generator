@@ -1,0 +1,35 @@
+	color: #fff;
+	-webkit-perspective: 800;
+	-ms-perspective: 800;
+	-moz-perspective: 800;
+	-o-perspective: 800;
+	width: 100%;
+	min-height: 200px;
+	height: 200px;
+	position: relative;
+	display: block;
+	margin: 0px auto;
+	-webkit-transform-style: preserve-3d;
+	-webkit-transition: 0.5s;
+	-moz-transform-style: preserve-3d;
+	-moz-transition: 0.5s;
+	-ms-transform-style: preserve-3d;
+	-ms-transition: 0.5s;
+	-o-transform-style: preserve-3d;
+	-o-transition: 0.5s;
+	transform-style: preserve-3d;
+	transition: 0.5s;
+	text-align: center;
+	z-index: 1;
+	background: #f9f9f9;
+	border-radius: 4px;
+	backface-visibility: hidden;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	-o-backface-visibility: hidden;
+body #features-page .subsection1 .flip .card .back {
+body #features-page .subsection1 .iconbox-style i.boxicon {
+	font-size: 58px;
+	line-height: 1;
+	padding: 0;

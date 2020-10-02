@@ -1,0 +1,10 @@
+  color: #231f20;
+  font-weight: bold;
+  padding-top: 12px;
+  padding-bottom: 15px;
+  border-bottom: 1px dotted #E8EAEA;
+  background: #ffffff
+  border-top: 1px dotted #E8EAEA;
+	color: #70cbce;
+	font-size: 14px;
+	letter-spacing: 1px;

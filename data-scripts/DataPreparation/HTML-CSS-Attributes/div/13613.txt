@@ -1,0 +1,6 @@
+ border-left: 1px solid #DFDCDC; border-top: 1px solid #DFDCDC; border-bottom: 1px solid #DFDCDC;  margin-bottom: 20px;     width: 48px;
+    height: 46px;
+    float: left;
+    border: none;
+    background: url('../images/newsletter.png') center no-repeat #ffffff;
+    position: static;

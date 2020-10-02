@@ -1,0 +1,8 @@
+ margin-top: 40px; 
+.form-control {
+	border-color: #0a6697;
+	border-radius: 0;
+	color: #4286ab;
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-size: 1.3rem;
+	padding-left: 15px;  margin-top: 0;  padding-left: 42px; 

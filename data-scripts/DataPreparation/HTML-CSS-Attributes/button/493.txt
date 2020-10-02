@@ -1,0 +1,117 @@
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, .2);
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe0e0e0', GradientType=0);
+  background-repeat: repeat-x;
+  border-color: #dbdbdb;
+  background-color: #e0e0e0;
+  background-position: 0 -15px;
+    border-top-color: #000 !important;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  border-radius: 4px;
+  outline: thin dotted;
+  outline-offset: -2px;
+  color: #333;
+  text-decoration: none;
+  pointer-events: none;
+  opacity: .65;
+  width: 100%;
+  margin-top: 5px;
+  position: relative;
+  float: left;
+  z-index: 2;
+  margin-left: -1px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  padding-right: 8px;
+  padding-left: 8px;
+  border-width: 5px 5px 0;
+  border-bottom-width: 0;
+  max-width: 100%;
+  table-layout: fixed;
+  border-collapse: separate;
+  left: auto;
+  clip: rect(0, 0, 0, 0);
+  height: 46px;
+  margin-right: -1px;
+  top: -1px;
+        padding-top: 45px;
+        border: 1px solid #fff;
+.item-no .countTheme Name: Polmo
+Theme URI: http://jeweltheme.com/
+Author: Jewel Theme
+Author URI: http://jeweltheme.com/
+Description: Polmo OnePage HTML5 Template by Jewel Theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: html, themplate, polmo, jwtheme, business
+Table of Contents 
+------------------------------------------------------------------------ /
+* 1 - Google Font
+* 2 - General styles
+* 3 - Header Styles
+* 4 - Services Section Styles
+* 5 - About Section Style
+* 6 - Subscribe Section Styles
+* 7 - Portfolio Section Styles
+* 8 - Sponsors Section Styles
+* 9 - Blog Section Styles
+* 10 - Testimonial Section Styles
+* 11 - Contact Section Styles 
+* 12 - Blog Posts Page Styles
+* 13 - Main Content Styles
+* 14 - Blog Single Post Styles
+* 15 - Sidebar Styles
+* 16 - Footer Section Styles
+*    16.1 - Footer Top
+*    16.2 - Footer Bottom
+* 17 - Scroll To Top
+Table of Contents End
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+html,
+body {
+    background: #ffffff;
+    font-family: 'Lato', 'Belgrano', sans-serif;
+    font-size: 16px;
+    -webkit-font-smoothing: subpixel-antialiased !important;
+    -moz-font-smoothing: subpixel-antialiased !important;
+    -ms-font-smoothing: subpixel-antialiased !important;
+    -0-font-smoothing: subpixel-antialiased !important;
+    text-rendering: optimizeLegibility !important;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-overflow-scrolling: touch;
+    -moz-overflow-scrolling: touch;
+    -ms-overflow-scrolling: touch;
+    -o-overflow-scrolling: touch;
+    overflow-scrolling: touch;
+    outline: 0;
+    border-radius: 0px;
+    color: #a7a7a8;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    background-color: #e74c3c;
+    margin-top: 30px;
+background:#fff;font-family:Lato,Belgrano,sans-serif;font-size:16px;-webkit-font-smoothing:subpixel-antialiased!important;-moz-font-smoothing:subpixel-antialiased!important;-ms-font-smoothing:subpixel-antialiased!important;-0-font-smoothing:subpixel-antialiased!important;text-rendering:optimizeLegibility!important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-overflow-scrolling:touch;-moz-overflow-scrolling:touch;-ms-overflow-scrolling:touch;-o-overflow-scrolling:touch;overflow-scrolling:touch

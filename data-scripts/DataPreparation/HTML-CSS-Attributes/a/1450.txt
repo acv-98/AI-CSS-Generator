@@ -1,0 +1,5 @@
+	color:#9d9686;
+	font-family:Lobster;
+	font-size:42px;
+	outline:none;
+	text-decoration:none;

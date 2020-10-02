@@ -1,0 +1,13 @@
+	border-top:1px solid #f5eaeb;
+	margin:4px 0 0 0;
+	padding-top:5px;
+	height:152px;
+	overflow:hidden;
+	float:left;
+	width:52px;
+	display:inline;
+	margin-right:8px;
+	margin-top:4px;
+	line-height:18px;
+	color:#716969;
+	text-decoration:underline;

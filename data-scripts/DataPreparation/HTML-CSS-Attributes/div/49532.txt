@@ -1,0 +1,14 @@
+    bottom: -66px;
+    right: auto;
+    left: 81px;
+  position: relative;
+  line-height: 0em;
+  max-width: 100%;
+  width: 51px;
+  height: 66px;
+  background: url(../img/date.png) no-repeat top left;
+  font-family: mensch;
+  font-size: 20px;
+  text-align: center;
+  color: #f3e4c8;
+  margin-top: 7px;

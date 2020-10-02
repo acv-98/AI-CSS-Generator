@@ -1,0 +1,12 @@
+  margin-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: table-cell;
+  vertical-align: top;
+  margin-bottom: 5px;
+  list-style: none;
+	color:#000;
+	margin-bottom:30px;
+	float:right;
+	margin-right:30px;
+  margin-left:90px;

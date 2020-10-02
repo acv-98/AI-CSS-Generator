@@ -1,0 +1,9 @@
+font-size: 28px !important;font-size: 11px !important;text-align: center; padding: 30px 0;font-size: 34px; color: #6f7678; line-height: 40px; text-transform: uppercase; font-family: 'open_sansextrabold';color: #bebebe; font-size: 14px; line-height: 20px; font-family: 'open_sanslight';.icon{
+	color: #00ccff;
+display: inline-block !important;
+cursor: pointer;
+width: 15px !important;
+border-radius: 50%;
+position: relative;
+z-index: 1;
+background: #fff;

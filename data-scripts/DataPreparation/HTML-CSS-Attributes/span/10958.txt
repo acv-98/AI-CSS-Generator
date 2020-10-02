@@ -1,0 +1,7 @@
+   background-color: #11ABB0;
+   color: #fff;
+ color: #fff; #hero {
+   padding-top: 66px;
+   overflow: hidden;
+ font-family: Georgia; font-style: italic; color:#999; font-size: 11px; left: 75px; line-height: 25px; margin: 0; padding: 0 0 0 10px; position: absolute; top: 2px; 	
+ color: #c4c4c4;  color: #c4c4c4; 

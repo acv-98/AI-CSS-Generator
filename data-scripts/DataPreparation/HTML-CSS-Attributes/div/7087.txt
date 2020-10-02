@@ -1,0 +1,1 @@
+width:200px; height:50px; background:#455268; border-left:#9cff00 solid 10px; text-align:center;margin-top:35px; background:#9cff00; border-left:#455268 solid 10px;color:#b6c0d2; line-height:50px; text-align:center; text-decoration:none; font-family: 'Oswald', sans-serif; font-size:18px;color:#455268; line-height:50px; text-align:center;

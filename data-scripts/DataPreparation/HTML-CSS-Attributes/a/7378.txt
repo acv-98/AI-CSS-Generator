@@ -1,0 +1,8 @@
+	background-color: black;
+	padding: 5px 10px;
+	color: white;
+	text-decoration: none;
+	border-radius: 3px;
+	display: inline-block;
+    display: inline;
+    zoom: 1;

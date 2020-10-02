@@ -1,0 +1,9 @@
+  content: '';
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  margin-left: -23px;
+  background: url(../img/bottom-arrow.png) no-repeat;
+  height: 41px;
+  width: 46px;
+  background-position: 0px -41px;

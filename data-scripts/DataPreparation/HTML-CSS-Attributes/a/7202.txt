@@ -1,0 +1,10 @@
+	width:134px;
+	height:31px;
+	float:right;
+	padding:24px 150px 0 0;
+	background:url(../images/twibutton_nor.jpg) 0 0 no-repeat;
+	text-decoration:none;
+	color:#0342a3;
+	font:normal 11px/28px Tahoma, Arial, Helvetica, sans-serif;
+	text-align:center;
+	display:block;

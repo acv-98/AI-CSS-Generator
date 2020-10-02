@@ -1,0 +1,17 @@
+  top: auto;
+  bottom: 0;
+  padding: 1em;
+  height: 3.75em;
+  background: rgba(250,250,250,0.6);
+  color: #ffffff;
+  -webkit-transition: -webkit-transform 0.35s;
+  transition: transform 0.35s;
+  -webkit-transform: translate3d(0,100%,0);
+  transform: translate3d(0,100%,0);
+  font-size: 22px;
+  float: left;
+  position: relative;
+  display: inline-block;
+  padding-right: 18px;
+  -webkit-transition-delay: 0.05s;
+  transition-delay: 0.05s;

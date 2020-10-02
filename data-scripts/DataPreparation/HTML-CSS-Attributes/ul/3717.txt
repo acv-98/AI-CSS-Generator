@@ -1,0 +1,34 @@
+	margin:			0;
+	padding:		0;
+	list-style:		none;
+	line-height:	1.0;
+    background:#FFFFFF;
+    border: 1px solid #EEEEEE;
+	-moz-box-shadow:0 4px 2px -3px rgba(0, 0, 0, 0.1), 2px 2px 4px -3px rgba(0, 0, 0, 0.1), -2px 2px 4px -3px rgba(0, 0, 0, 0.1);
+	-o-box-shadow:0 4px 2px -3px rgba(0, 0, 0, 0.1), 2px 2px 4px -3px rgba(0, 0, 0, 0.1), -2px 2px 4px -3px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow:0 4px 2px -3px rgba(0, 0, 0, 0.1), 2px 2px 4px -3px rgba(0, 0, 0, 0.1), -2px 2px 4px -3px rgba(0, 0, 0, 0.1);
+	box-shadow:0 4px 2px -3px rgba(0, 0, 0, 0.1), 2px 2px 4px -3px rgba(0, 0, 0, 0.1), -2px 2px 4px -3px rgba(0, 0, 0, 0.1);
+	border-top:0;
+    padding: 0 8px;
+    position: absolute;
+    top: -999em;
+    width: 10.6em;
+	-moz-border-radius:0 0 4px 4px;
+	-o-border-radius:0 0 4px 4px;
+	-webkit-border-radius:0 0 4px 4px;
+	border-radius:0 0 4px 4px;
+	width:100%;
+	float:			left;
+	position:		relative;
+	display:		block;
+	z-index:		99;
+	top:			-999em;
+    color: #2387D9;
+	text-decoration:none;
+	background:none;
+	outline:		0;
+    border-top: 1px solid #F7F7F7;
+	padding-right: 	2.25em;
+ background-position:  -10px 0;  background-position:  0 0; .sf-menu ul a:focus > .sf-sub-indicator,
+.sf-menu ul li:hover > a > .sf-sub-indicator,
+.sf-menu ul li.sfHover > a > .sf-sub-indicator {

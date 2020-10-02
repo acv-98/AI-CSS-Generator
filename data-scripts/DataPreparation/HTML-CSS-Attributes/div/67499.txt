@@ -1,0 +1,7 @@
+ background: url(images/orange-box.gif) no-repeat 0 0;  height: 57px; .orange-box h2 span { 
+	display: block;
+	height: 26px;
+	background: url(images/h2-business.gif) no-repeat 0 0;
+	margin-left:47px;
+	position: relative;
+	top: 15px;

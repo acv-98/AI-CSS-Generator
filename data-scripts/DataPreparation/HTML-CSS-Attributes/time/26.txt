@@ -1,0 +1,3 @@
+	display:block;
+	color:#00989d;
+	margin-bottom:14px;

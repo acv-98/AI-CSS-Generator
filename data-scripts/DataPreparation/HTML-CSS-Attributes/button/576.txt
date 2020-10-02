@@ -1,0 +1,7 @@
+  border-radius: 0;
+  background: #115c9b;
+  text-transform: uppercase;
+  -moz-transition: all, 0.5s;
+  -o-transition: all, 0.5s;
+  -webkit-transition: all, 0.5s;
+  transition: all, 0.5s;

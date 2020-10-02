@@ -1,0 +1,7 @@
+    padding-top: 72px;
+    font-size: 40px;
+    line-height: 36px;
+    float: right;
+    color: #e2e2e2;
+    position: relative;
+    top: 4px;

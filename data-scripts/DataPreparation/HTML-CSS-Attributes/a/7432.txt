@@ -1,0 +1,5 @@
+	background:#f2f2f2;
+	background-image: url(../images/button_grey.png);
+	border: 1px solid #b5b5b5;
+	color: #555555;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);

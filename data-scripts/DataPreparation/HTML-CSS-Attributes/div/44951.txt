@@ -1,0 +1,4 @@
+	margin-top: 20px;
+	line-height: 1.2em;
+	margin-bottom: 15px;
+	max-width: 100%;

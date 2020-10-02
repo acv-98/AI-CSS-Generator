@@ -1,0 +1,4 @@
+	width:1000px;
+	margin:0 auto;
+	font-size:.875em;
+	position:relative;

@@ -1,0 +1,3 @@
+	width:	234px;
+	top:	0;
+	background:		transparent url('../img/drop-arrow-white.png') no-repeat 0px 0px;

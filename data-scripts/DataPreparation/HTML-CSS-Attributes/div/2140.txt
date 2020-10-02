@@ -1,0 +1,8 @@
+	position: absolute;
+	top: 0;
+	left: 281px;
+	width: 40px;
+	height: 6px;
+	padding: 12px 10px;
+	border-left: 1px solid rgb(50,51,52);
+    left: 181px;

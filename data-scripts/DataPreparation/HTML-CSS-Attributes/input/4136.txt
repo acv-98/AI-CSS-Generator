@@ -1,0 +1,7 @@
+	width:170px;
+	background:transparent;
+	border:none;
+	padding:8px 0 0 10px;
+	color:#fff;
+	display:block;
+	float:left;

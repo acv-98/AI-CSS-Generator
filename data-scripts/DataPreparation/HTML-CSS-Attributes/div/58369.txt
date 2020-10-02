@@ -1,0 +1,1 @@
+background:url(images/left-bot-corner.png) no-repeat left top;padding-left:10px

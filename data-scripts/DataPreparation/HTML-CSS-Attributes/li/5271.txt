@@ -1,0 +1,2 @@
+	color:#ef4f00;
+	background:url(../images/nav-act-left.png) no-repeat left 2px;

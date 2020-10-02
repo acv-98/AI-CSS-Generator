@@ -1,0 +1,4 @@
+  border: 1px solid #f0f0f0;
+  float: right;
+  padding: 2px;
+  width: 580px;

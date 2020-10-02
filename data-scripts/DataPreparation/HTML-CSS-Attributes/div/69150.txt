@@ -1,0 +1,17 @@
+  margin-left: 0;
+  -webkit-border-bottom-left-radius: 6px;
+          border-bottom-left-radius: 6px;
+  -webkit-border-top-left-radius: 6px;
+          border-top-left-radius: 6px;
+  -moz-border-radius-bottomleft: 6px;
+  -moz-border-radius-topleft: 6px;
+  -webkit-border-top-right-radius: 6px;
+          border-top-right-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+          border-bottom-right-radius: 6px;
+  -moz-border-radius-topright: 6px;
+  -moz-border-radius-bottomright: 6px;
+	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_left.png) no-Repeat top left;	width:40px;	height:40px;  margin-left:20px; margin-top:-20px; 	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_right.png) no-Repeat top left;	width:40px;	height:40px;  margin-left:-20px; margin-top:-20px; .tp-leftarrow:hover,
+    font-size: 14px;
+    padding: 8px 19px 9px;
+ margin: 0; display: block; line-height: 88px; color: #FFFFFF; position: relative; z-index: 9; margin-top: 0px; -moz-box-shadow: 0 1px 10px #cbcbcb; -webkit-box-shadow: 0 1px 10px #cbcbcb; box-shadow: 0px 1px 10px #cbcbcb; padding: 0 0 40px 0; border-radius: 5px; color: #FFFFFF; height: 88px; background: url('../images/price.bg.signup.png') repeat;  top: 30px;  top: 14px; color: #576e1f; text-shadow:none;  background-position:right -200px; color: #303E0E; text-shadow:0 1px 0 #C7DD90;   background-position:left -240px;

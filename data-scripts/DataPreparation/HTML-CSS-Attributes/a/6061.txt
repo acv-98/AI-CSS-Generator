@@ -1,0 +1,4 @@
+	color:#50b3bc;
+	text-decoration:none;
+	float:right;
+	margin-right:19px;

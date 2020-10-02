@@ -1,0 +1,9 @@
+background:url(../images/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;display:block;height:33px;width:50pxdisplay:none
+#sequence ul {
+  display: none;
+	background:url(../img/nav-default-bg.png) repeat;
+	position: fixed;
+	top:0;
+	left: 0;
+	width: 100%;
+	padding-right:20px;

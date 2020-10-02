@@ -1,0 +1,13 @@
+	color:#fff;
+	font-size:1.1em;
+	text-transform:uppercase;
+	margin-bottom: 7%;
+	background:#00bff0;
+	padding: 6%;
+	list-style-image: url(../images/a2.png);
+	border-bottom: 1px solid #B9DEEC;
+	padding-bottom: 10px;
+	vertical-align: top;
+	text-decoration: none;
+		padding: 2%;
+		margin-bottom: 2%;

@@ -1,0 +1,1 @@
+background:url(../images/dot.jpg) repeat-y right;background:url(../images/dot2.jpg) repeat-y right;background:url(../images/dot3.jpg) repeat-y right;

@@ -1,0 +1,14 @@
+  background: rgba(255, 255, 255, 0.4);
+  border: none !important;
+  color: #000;
+  font-size: 16px !important;
+  width: 100%;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  height: 54px;
+  text-transform: uppercase;
+  font-weight: 400;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-bottom: 10px;

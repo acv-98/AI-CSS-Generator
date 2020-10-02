@@ -1,0 +1,10 @@
+ float: none;  margin-left: 0; 
+.cd-slider-nav a,
+.navbar-nav .nav-link {
+	color: white;
+    display: table-cell;
+    font-weight: 400;
+    font-size: 1.4em;
+	vertical-align: middle;
+    width: 130px;
+    height: 40px;

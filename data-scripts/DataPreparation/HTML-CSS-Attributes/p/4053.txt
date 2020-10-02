@@ -1,0 +1,3 @@
+	font-size:38px;
+	letter-spacing:-3px;
+	line-height:.8em;

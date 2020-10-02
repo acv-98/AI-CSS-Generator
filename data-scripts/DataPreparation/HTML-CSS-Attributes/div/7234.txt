@@ -1,0 +1,2 @@
+ float:right; margin-top:45px;list-style:none; float:left; margin-left:15px;
+BANNER CLASSES

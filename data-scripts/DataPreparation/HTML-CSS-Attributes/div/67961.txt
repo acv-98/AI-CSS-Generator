@@ -1,0 +1,16 @@
+	border:1px solid #e0e0e0;
+	margin:0 auto 34px auto;
+	overflow:hidden;
+	padding:0 2px;
+	width:954px;
+	float:left;
+	background:url(images/bg-section.gif) repeat-x top left;
+	height:193px;
+	display:block;
+	color:#2a4f5e;
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:none;
+	text-transform:uppercase;
+	line-height:22px;

@@ -1,0 +1,13 @@
+	font-size:11px;
+	color:#2a2b22;
+	font-weight:bold;
+	text-decoration:none;
+	cursor:pointer;
+	padding-right:4px;
+	height:29px;
+	line-height:29px;
+	float:left;
+	background:url(images/intro-button.jpg) left top repeat-x;
+	border:1px solid #434340;
+	padding-left:7px;
+	display:inline;

@@ -1,0 +1,6 @@
+  border-color: #bc5e43;
+  color: #ffffff;
+  background-color: #bc5e43;
+  border-top-color: #bc5e43;
+  border-bottom-color: #bc5e43;
+  margin-right: 5px;

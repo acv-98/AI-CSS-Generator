@@ -1,0 +1,16 @@
+  position: absolute;
+  left: 68px;
+  right: 67px;
+  padding: 0 102px;
+  bottom: 8.166666666666667%;
+  text-align: center;
+  padding-bottom: 167px;
+  letter-spacing: 3.4px;
+    top: 18.166666666666667%;
+    bottom: auto;
+    font-size: 48px;
+    line-height: 40px;
+    padding-bottom: 80px;
+    left: 34px;
+    right: 33.5px;
+    display: none!important;

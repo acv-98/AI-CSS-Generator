@@ -1,0 +1,6 @@
+	margin-top:-5px
+	line-height:30px
+	color:#0f0f0f;
+	padding-left:16px;
+	background:url(../images/marker_1.gif) 2px 6px no-repeat
+	text-decoration:none

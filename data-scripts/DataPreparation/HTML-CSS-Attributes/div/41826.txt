@@ -1,0 +1,14 @@
+     float: left;
+     width: 80px;
+     border-radius: 100%;
+     box-shadow: none;
+     margin: 8px 0 0 15px;
+    font-size: 16px;
+    color: #d8302f;
+    text-align: left;
+    padding: 10px 0 0 0;
+     text-align: left;
+     font-size: 13px;
+     color: #999;
+         float: left;
+         margin: 10px 0 0 0;

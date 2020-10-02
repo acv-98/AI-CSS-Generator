@@ -1,0 +1,6 @@
+	float:left;
+	width:500px;
+	height:auto;
+	padding:20px 10px 10px 20px;
+	border:1px #fdeaeb solid;
+	clear:both;

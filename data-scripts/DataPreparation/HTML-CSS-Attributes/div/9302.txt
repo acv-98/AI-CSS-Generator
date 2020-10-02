@@ -1,0 +1,3 @@
+    overflow: hidden;
+    padding-top: 350px;
+    padding-bottom: 450px;

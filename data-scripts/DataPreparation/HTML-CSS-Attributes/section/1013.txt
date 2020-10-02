@@ -1,0 +1,1 @@
+	margin: 30px 2% 30px;

@@ -1,0 +1,7 @@
+	float:none;
+	font-size:17px;
+	font-weight:bold;
+	margin:0;
+	width:370px;
+	letter-spacing:-1px;
+	padding-bottom:10px;

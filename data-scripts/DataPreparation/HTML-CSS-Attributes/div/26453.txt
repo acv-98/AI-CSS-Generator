@@ -1,0 +1,14 @@
+	padding:0;
+	margin:0;
+	background:#e7e7e7 url(../images/main_bg.jpg) repeat-x left top;
+	float:left;
+	width:660px;
+	margin-bottom:0;
+	padding-bottom:0;
+	font-size:30px;
+	line-height:1.2em;
+	color:#3f3f3f;
+	border:1px solid #8b8b8b;
+	font-weight:bold;
+	text-transform:uppercase;
+	text-decoration:none;

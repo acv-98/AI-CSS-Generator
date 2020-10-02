@@ -1,0 +1,10 @@
+    display: block;
+    width: 100%;
+    font-size: 6rem;
+    color: #648cff;
+    height: 55px;
+    margin-bottom: 20px;
+    position: absolute;
+    right: 0;
+    bottom: -45px;
+    transform: rotate(-180deg);

@@ -1,0 +1,1 @@
+width:730px; padding:10pxwidth:290px; padding:5pxwidth:440px; padding:5pxwidth:980px; display:block; margin:0 auto; padding:20px; background:#fff; transition:all 1.3s ease 0s; -moz-transition:all 1.3s ease 0s; -webkit-transition:all 1.3s ease 0s; -o-transition:all 1.3s ease 0s; -ms-transition:all 1.3s ease 0s

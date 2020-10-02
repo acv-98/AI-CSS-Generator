@@ -1,0 +1,16 @@
+  margin-top: 12%;
+  padding: 0 13%;
+  position: relative;
+  text-align: center;
+  z-index: 999;
+  color: #ffffff;
+  font-size: 65px;
+  font-weight: 700;
+  line-height: 76px;
+  padding-bottom: 8px;
+  text-transform: uppercase;
+  width: 90%;
+	color: #ffffff;
+	font-size: 20px;	
+	margin-top: 30px;	
+width: 100%;margin-top: 25%;font-size: 48px;line-height: 48px;font-size: 18px;margin-top: 15%;font-size: 25px;line-height: 26px;font-size: 15px;margin-top: 20%; font-size: 20px;line-height: 22px;margin-bottom: 0px;font-size: 14px; font-size: 15px; margin-top: 20px;  padding: 8px 10px;margin-top: 28%;margin-top: 10px;font-size: 18px;line-height: 20px;font-size: 15px;line-height: 18px;margin-top: 34%;

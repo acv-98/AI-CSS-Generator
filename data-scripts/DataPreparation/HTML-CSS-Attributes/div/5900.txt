@@ -1,0 +1,10 @@
+	margin:0;
+	padding:0;
+	list-style:none;
+	background:none;
+	width:100%;
+	text-align:center;
+	color:#575c5c;
+	font:bold 14px "Times New Roman", Times, serif;
+	text-transform:uppercase;
+	text-decoration:none;

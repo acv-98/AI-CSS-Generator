@@ -1,0 +1,11 @@
+  margin-top: 13px !important;
+  margin-bottom: 21px !important;
+  padding-bottom: 22px;
+  line-height: 72px;
+  padding-top: 76px;
+  float: left;
+  display: block;
+  margin-right: 26px;
+  position: relative;
+  color: #ffffff;
+  top: -5px;

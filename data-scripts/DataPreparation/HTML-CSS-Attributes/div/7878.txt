@@ -1,0 +1,2 @@
+ 
+ float: left; width: 220px; margin: 20px 26.666px 20px 0; overflow: hidden;  margin-right: 0  color: #615C5C  color: #000  margin: 0  margin-bottom: 10px;  margin: 20px 13.333px;  margin: 20px 13.333px 20px 0;  margin: 20px 0 20px 13.333px;  margin: 6px 6px  margin-top: 0;  margin: 26px 16px  margin: 26px 6px;  margin: 26px 26px; 

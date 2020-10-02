@@ -1,0 +1,2 @@
+float:left; width:309px; background:url(../images/left_border.gif) no-repeat 0 25pxfloat:left; width:280px; font:20px/22px "Adobe Caslon Pro", Arial, Helvetica, sans-serif; color:#a1553b; padding:36px 0 20px 20px
+float:left; width:300px; list-style:none; padding:0 0 0 0float:left; width:268px; color:#555555; background:url(../images/bullet_1.gif) no-repeat 30px 3px; padding:0 0 7px 40pxcolor:#555555; text-decoration:underlinecolor:#555555; text-decoration:none

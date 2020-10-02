@@ -1,0 +1,23 @@
+	-webkit-transition: 
+		opacity 0.2s linear, 
+		text-shadow 0.5s ease-in-out, 
+		color 0.5s ease-in-out;
+	-moz-transition: 
+	-o-transition: 
+	-ms-transition: 
+	transition: 
+	background-image: none;
+	position:relative;
+	padding-top: 30px;
+	text-align: right;
+	margin: 0 !important;
+	cursor: pointer;
+	padding-right: 0;
+	margin-left: 35px !important;
+	display: inline-block;
+	width: 13px;
+	margin-top: 25px;
+	font: 14px/19px 'Dosis', sans-serif;
+	text-transform: uppercase;
+	margin-right: 10px;
+	float: right;

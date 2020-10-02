@@ -1,0 +1,24 @@
+	padding-top: 40px;	
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+	display: -ms-flexbox;
+    -ms-flex-direction: column;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+            flex-direction: column;
+ margin-bottom: 25px; .tm-testi {
+	background-color: #0066cb;
+	-ms-flex-align: center;
+	    -webkit-box-align: center;
+	    -webkit-align-items: center;
+	        align-items: center;
+	-ms-flex-flow: column;
+	    -webkit-flex-flow: column;
+	        flex-flow: column;
+	position: relative;
+ padding: 70px 20px 40px; 	.tm-testi-sig {
+		right: 40px;
+		bottom: 20px;
+ padding: 90px 20px 40px; 

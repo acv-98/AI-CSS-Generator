@@ -1,0 +1,10 @@
+	margin:1em 0em;
+	color: #485460;
+	font-size: 1.6em;
+	font-weight: 600;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+		font-size: 1.4em;
+		margin: 0.5em 0em;

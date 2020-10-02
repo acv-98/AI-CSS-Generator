@@ -1,0 +1,11 @@
+    background-color: #000;
+    margin-bottom: 30px;
+    padding: 12px 0 14px;
+    color: #fff;
+    font-size: 14px;
+    margin-top: 3px;
+    padding-right: 3px;
+    visibility: hidden;
+    opacity: 0;
+    display: none;
+        text-align: center;

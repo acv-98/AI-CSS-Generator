@@ -1,0 +1,5 @@
+	list-style:none;
+	display:block;
+	padding-bottom:11px;
+	margin-bottom:11px;
+	border-bottom:1px dotted #e8d0d2;

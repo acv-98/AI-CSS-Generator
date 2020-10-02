@@ -1,0 +1,12 @@
+    cursor: pointer;
+    display: inline-block;
+    font-size: 0.85rem;
+    font-weight: 400;  
+    padding: 12px 20px;
+ background: white;  color: #69c6ba;  color: #c66995; .tm-btn-white-primary:hover,
+    background: #c66995;
+    color: white;
+ width: 100%; .tm-btn-search:hover,
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;

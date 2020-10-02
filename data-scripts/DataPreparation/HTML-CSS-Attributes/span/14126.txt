@@ -1,0 +1,5 @@
+    display: block !important;
+    float: none !important;
+    margin: 0 auto !important;
+    padding: 0 20px;
+    width: 185px !important;

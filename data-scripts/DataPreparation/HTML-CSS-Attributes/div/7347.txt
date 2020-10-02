@@ -1,0 +1,1 @@
+width:100%; overflow:hidden; background:#2c3847; padding-bottom:40px;LAYOUT CLASSS

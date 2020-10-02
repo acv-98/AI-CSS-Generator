@@ -1,0 +1,24 @@
+ *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf33a;&nbsp;'); 	content: '\f33a';
+	color: #00B0EE;
+.icon-paypal:before {
+.icon-picasa:before {
+.icon-picture:before {
+.icon-target:before {
+.icon-thumbs-up:before {
+.icon-thumbs-down:before {
+.icon-lamp:before {
+.icon-alert:before {
+.icon-monitor:before {
+.icon-chart-line:before {
+.icon-chart-bar:before {
+.icon-clipboard:before {
+.icon-phone:before {
+.icon-megaphone:before {
+.icon-download:before {
+.icon-mobile:before {
+.icon-mobile-2:before {
+.icon-mobile-1:before {
+.icon-camera:before {
+.icon-link:before {
+.icon-chart-area:before {
+.icon-rocket:before {

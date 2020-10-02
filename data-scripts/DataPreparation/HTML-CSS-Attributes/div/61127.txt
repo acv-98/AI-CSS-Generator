@@ -1,0 +1,8 @@
+	height: 90px;
+ *height:200px;
+	color:#375675;
+	display:block;
+	font-size:14px;
+	font-weight:bold;
+	padding-bottom:10px;
+	text-transform:uppercase;

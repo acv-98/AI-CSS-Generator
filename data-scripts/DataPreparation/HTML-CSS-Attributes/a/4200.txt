@@ -1,0 +1,14 @@
+	border-radius: 50px;
+	color: #fff;
+	overflow: hidden;
+	background: #24b662;
+	position: absolute;
+	height: 100%;
+	font-size: 125%;
+	line-height: 3.5;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	left: 130%;
+	top: -2px;
+          display: none;

@@ -1,0 +1,55 @@
+  min-height: 0px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border: 1px solid #FFF;
+  box-shadow: 0 1px 3px rgba(60, 90, 152, 0.7);
+  text-align: center;
+  font-weight: 700;
+  background-color: #E9F0F4;
+  background-image: url(../images/more.jpg);
+  no-repeat center center fixed;		
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  content: "";
+  display: block;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  cursor: pointer;
+  opacity: 1;
+  -webkit-transition: opacity 0.7s ease-in-out;
+  -o-transtion: opacity 0.7s ease-in-out;
+  -moz-transition: opacity 0.7s ease-in-out;
+  transition: opacity 0.7s ease-in-out;
+  height: 0px;
+  z-index: 10;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 40px;
+  padding-bottom: 70px;
+border 0.4s 0.6s,
+height 0.4s 0.4s,
+margin 0.4s 0.4s;
+  border-color: rgba(255,255,255,0.5);
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+border 0.4s 0s,
+height 0.4s 0s,
+margin 0.4s 0s;
+  text-decoration: none;
+  font-size: 13px;
+  color: #ffffff;
+  border-radius: 2px;
+  margin-right: 10px;
+  margin-left: 10px;
+  -webkit-transition-delay: 0.7s;
+  transition-delay: 0.7s;
+    width: 90%;
+    font-size: 11px;
+    color: #ffffff;
+    margin-right: 2px;
+    margin-left: 2px;

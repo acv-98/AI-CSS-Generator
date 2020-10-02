@@ -1,0 +1,11 @@
+	width:260px;
+	float:left;
+	display:inline;
+	padding:22px 38px 0 48px;
+	font-size:17px;
+	color:#fff;
+	text-shadow:1px 1px 1px #000;
+	padding-bottom:14px;
+	list-style:none;
+	font-weight:bold;
+	background:url(images/col-li.gif) no-repeat left 4px;

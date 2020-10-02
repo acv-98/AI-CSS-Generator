@@ -1,0 +1,1 @@
+height:150px; overflow:hidden; width:100%; overflow:hidden.header_bottom_left.header_top_left.catgimg_container

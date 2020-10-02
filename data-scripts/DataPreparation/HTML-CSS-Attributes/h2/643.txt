@@ -1,0 +1,7 @@
+    background: #01d262 none repeat scroll 0 0;
+    bottom: -13px;
+    content: "";
+    height: 0px;
+    left: 25%;
+    position: absolute;
+    width: 0%;

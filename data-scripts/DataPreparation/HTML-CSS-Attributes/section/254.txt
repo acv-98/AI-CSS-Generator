@@ -1,0 +1,21 @@
+        margin-left: 50px;
+        width: 140px;
+        line-height: 50px;
+        font-size: 0.775rem;
+        padding: 0px 10px;
+        margin-top: 30px;
+.about .main_about_content .single_about{
+    transition: all 0.6s;
+    margin-bottom: 65px;
+    overflow: hidden;
+    height: 100%;
+    float:left;
+    position: relative;
+    background: url(../images/iconbg1.png) no-repeat center center;
+    text-align: center;
+    color: #444;
+    opacity: 1;
+.about .single_about .single_ab_text{
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;

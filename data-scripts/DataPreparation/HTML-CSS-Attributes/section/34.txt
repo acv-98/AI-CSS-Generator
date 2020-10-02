@@ -1,0 +1,4 @@
+	margin-top: 0;
+	color: #2d3033;
+	font-weight: 600;
+	text-transform: uppercase;

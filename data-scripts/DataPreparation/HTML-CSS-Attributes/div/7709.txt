@@ -1,0 +1,11 @@
+	text-align:center;
+	float: none;
+	font-size: 36px;
+	color: #FFFFFF;
+	font-weight: 900;
+	line-height: 1.2;
+	margin-top: 10px;
+	margin-bottom: 0;
+	letter-spacing:-2px;
+	font-family: Open Sans;
+		font-size: 36px;

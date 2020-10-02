@@ -1,0 +1,25 @@
+  background-image: -webkit-linear-gradient(top, #428bca 0%, #2d6ca2 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff428bca', endColorstr='#ff2d6ca2', GradientType=0);
+  background-repeat: repeat-x;
+  border-color: #2b669a;
+  background-color: #2d6ca2;
+  background-position: 0 -15px;
+  color: #fff;
+	color:#ffffff !important
+		display: inline-block;
+		padding: 6px 13px;
+		margin-bottom: 0;
+		font-size: 14px;
+		font-weight: 700;
+		line-height: 1.428571429;
+		text-align: center;
+		vertical-align: middle;
+		cursor: pointer;
+		white-space: nowrap;
+		background: 0 0;
+		color: #292723!important;
+		border: 1px dashed #F7C221;
+		margin-top: 30px;
+		text-transform: uppercase;
+	background-color: #F7C221 !important;
+	border-color: #F7C221 !important;

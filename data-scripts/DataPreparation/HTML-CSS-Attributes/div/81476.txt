@@ -1,0 +1,10 @@
+	width: 370px;
+	height: 63px;
+	float: left;
+	padding-top: 50px;
+	padding-left: 30px;
+	color: #FFFFFF;
+	font-size: 34px;
+	font-family: "Trebuchet MS", Verdana, Arial, sans-serif;
+	margin: 0px;
+	font-weight: normal;

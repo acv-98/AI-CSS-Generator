@@ -1,0 +1,3 @@
+	color:#d00b01;
+	font-style:italic;
+	text-decoration:none;

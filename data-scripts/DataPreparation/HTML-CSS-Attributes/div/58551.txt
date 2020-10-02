@@ -1,0 +1,15 @@
+	display: inline-block;
+	margin-right: 0.5em;
+	background: url(../images/tags-bg.jpg) no-repeat left #EDEDED;
+	color: #404040;
+	text-transform: uppercase;
+	font-size: 0.875em;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	padding: 0.1em 1em 0.1em 1.5em;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+		margin: 0.8em 0;
+		margin-bottom: 0.5em;

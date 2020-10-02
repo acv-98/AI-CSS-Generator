@@ -1,0 +1,12 @@
+	display: inline-block;
+	height: 2.60em;
+	margin-top: 1.25em;
+	padding: 0em 1.25em 0em 1.25em;
+	background: #766946;
+	border-radius: 5px;
+	line-height: 2.60em;
+	text-shadow: none;
+	text-decoration: none;
+	text-transform: none;
+	font-size: 0.90em;
+	color: #FFFFFF;

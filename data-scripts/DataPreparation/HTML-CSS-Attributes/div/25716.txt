@@ -1,0 +1,2 @@
+	background:url(images/menu_bg.gif);
+	height:50px;

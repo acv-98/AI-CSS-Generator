@@ -1,0 +1,4 @@
+  background-position: -120px -96px;
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf05a;');
+  content: "\f05a";
+content:"\f05a";

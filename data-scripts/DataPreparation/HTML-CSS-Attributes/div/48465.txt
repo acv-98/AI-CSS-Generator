@@ -1,0 +1,10 @@
+    float:left;
+    min-height:152px;
+    max-width:160px;
+    display:block;
+    overflow:hidden;
+    font-size:15px;
+    font-weight:500;
+    text-transform:uppercase;
+    color:#6a6a6a;
+    text-align:center;

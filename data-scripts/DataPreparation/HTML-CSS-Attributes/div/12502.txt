@@ -1,0 +1,6 @@
+	text-align:center;
+	font-family: 'open_sanslight';
+	font-size:14px;
+	color:#a5a5a5;
+	margin:0 0 0 0;
+	text-decoration:none;

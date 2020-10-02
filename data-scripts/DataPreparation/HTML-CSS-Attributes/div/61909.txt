@@ -1,0 +1,16 @@
+	width:930px;
+	height:300px;
+	border:1px solid #dbdbdb;
+	position:relative;
+	margin:25px 0 0 24px;
+	top:0;
+	left:0;
+	z-index:1;
+	font-size:45px;
+	line-height:45px;
+	color:#ff0000;
+	padding:0 0 0 7px;
+	text-transform:uppercase;
+	bottom:9px;
+	right:6px;
+	background:#d7d7d8;

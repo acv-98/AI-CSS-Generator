@@ -1,0 +1,1 @@
+border:1px solid lightGrey; padding:2pxborder-bottom:none

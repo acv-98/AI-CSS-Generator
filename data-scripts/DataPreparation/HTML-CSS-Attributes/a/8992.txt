@@ -1,0 +1,5 @@
+	padding-left:3px;
+	line-height:16px;
+	font-size:11px;
+	color:#f9399c;
+	text-decoration:underline;

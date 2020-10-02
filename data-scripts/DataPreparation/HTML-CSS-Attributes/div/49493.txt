@@ -1,0 +1,4 @@
+  float: none;
+  margin: 25px auto 0px;
+  width: 300px;
+width: 300px;

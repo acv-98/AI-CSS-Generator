@@ -1,0 +1,5 @@
+  padding-left:70px;
+  font-weight: 300;
+  margin-bottom: 8px;
+  color: #fff;
+		padding-left: 0;

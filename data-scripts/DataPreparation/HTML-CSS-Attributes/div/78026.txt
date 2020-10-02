@@ -1,0 +1,3 @@
+    background: #1f2021;
+    padding: 20px 0;
+    position: relative;

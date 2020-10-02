@@ -1,0 +1,10 @@
+		right: -60px;
+	background: #d0a772;
+	color: #ffffff;
+	display: block;
+	position: absolute;
+	width: 8%;
+	height: 50px;
+	top: 50%;
+	font-size: 28px;
+	opacity: 1;

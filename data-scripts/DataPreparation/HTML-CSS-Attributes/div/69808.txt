@@ -1,0 +1,7 @@
+ margin-bottom: 30px; 
+ margin-bottom: 40px; 	.tm-2-rows-md-swap {
+		display: -webkit-flex;
+		-webkit-flex-direction: column;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+ margin-bottom: 40px;  margin-bottom: 15px; 

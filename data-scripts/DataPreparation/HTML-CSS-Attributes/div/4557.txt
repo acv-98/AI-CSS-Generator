@@ -1,0 +1,6 @@
+        padding-top: 30px;
+        width: 50%;
+        padding-bottom: 5px;
+        float: left;
+        padding-right: 1px;
+        font-size: 14px;

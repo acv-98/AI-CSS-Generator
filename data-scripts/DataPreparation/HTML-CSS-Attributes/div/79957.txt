@@ -1,0 +1,13 @@
+	margin-top: 20px;
+	float: left;
+	width: 100%;
+	padding-bottom: 15px;
+	margin-bottom: 0px;
+	position: relative;
+	line-height: 12px;
+	font-size: 14px;
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	color: #f44336;

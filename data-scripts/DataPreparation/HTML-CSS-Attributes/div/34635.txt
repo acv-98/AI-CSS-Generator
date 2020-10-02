@@ -1,0 +1,6 @@
+    padding: 0 0 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px dotted #eeeeee;
+    color: #232323;
+    background-color: #f1f6f7;
+    border-color: #f1f6f7;

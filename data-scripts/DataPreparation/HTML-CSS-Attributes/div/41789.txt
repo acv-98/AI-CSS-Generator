@@ -1,0 +1,6 @@
+    float: left;
+     float: left;
+     display: none;
+         float: left;
+         display: block;
+         width: 100%;

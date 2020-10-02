@@ -1,0 +1,4 @@
+	margin:0 auto;
+	padding:16px 40px 24px;
+	width:890px;
+	background:url(images/fbg_bg.gif) no-repeat center top;

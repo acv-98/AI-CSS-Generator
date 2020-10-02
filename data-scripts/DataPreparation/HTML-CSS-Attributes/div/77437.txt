@@ -1,0 +1,11 @@
+    border-right: 2px solid #841b2d;
+    background-color: rgba(14, 4, 4, 0.70);
+    padding: 20px 20px 30px 30px;
+    overflow: auto;
+    color: #E8E8E8;
+    line-height: 26px;
+    letter-spacing: 1px;
+    font-weight: 300;
+        line-height: 16.6px;
+        border:0px;
+        border-bottom: 2px solid #A87F41;

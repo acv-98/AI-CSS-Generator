@@ -1,0 +1,7 @@
+    background-color: transparent; 
+    border-color: transparent; 
+	transition:.6s;
+	color:#3c3c3c;
+	border:1px solid transparent;
+	background-color:transparent;
+	text-transform:uppercase;

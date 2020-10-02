@@ -1,0 +1,15 @@
+  display: block;
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  background: #ffffff url(../images/lazy-loader.gif) no-repeat center center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 0;
+  -moz-transition: 1s all ease;
+  -o-transition: 1s all ease;
+  -webkit-transition: 1s all ease;
+  transition: 1s all ease;
+  opacity: 0;
+  filter: alpha(opacity=0);

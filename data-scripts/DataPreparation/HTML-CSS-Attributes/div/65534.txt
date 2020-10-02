@@ -1,0 +1,7 @@
+.main_service_area .single_service_right .single_service{
+    overflow: hidden; 
+    margin-bottom: 45px;
+    color:#503392;   
+    width:15%;
+    float: left;
+    font-size:2.8125rem;

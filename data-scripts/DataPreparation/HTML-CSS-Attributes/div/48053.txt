@@ -1,0 +1,17 @@
+  margin-bottom: 40px;
+  height: 350px;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  width: 90px;
+  text-align: center;
+  padding: 10px;
+  display: block;
+  color: #333;
+  font-size: 30px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  text-decoration: none;

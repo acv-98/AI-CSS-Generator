@@ -1,0 +1,5 @@
+    font-size:14px;
+    text-transform:uppercase;
+    color:#fff;
+    background-color:transparent;
+    border-bottom:3px solid #7b6c63;

@@ -1,0 +1,6 @@
+	background:#fff url(../images/contact-form-top-bg.png) no-repeat center 5px;
+	width:592px;
+	padding:5px;
+	border:1px solid #CCCCCC;
+	float:left;
+	display:block;

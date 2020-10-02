@@ -1,0 +1,2 @@
+	background:url(../images/footer_repeat.jpg) 0 0 repeat-x;
+	height:103px;

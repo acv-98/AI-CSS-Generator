@@ -1,0 +1,12 @@
+	margin-right: 0px;
+.how-text-left {
+	float: left;
+	width: 40%;
+	color: #48cca4;
+	font-weight: bold;
+	font-size: 200px;
+	padding-top: 100px;
+	-webkit-box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.1);
+	background: #fff;
+	margin-bottom: 20px;

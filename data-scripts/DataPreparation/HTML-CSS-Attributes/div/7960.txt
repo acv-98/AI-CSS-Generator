@@ -1,0 +1,1 @@
+	background:url(../images/bg_flag.png) center 70px no-repeat;

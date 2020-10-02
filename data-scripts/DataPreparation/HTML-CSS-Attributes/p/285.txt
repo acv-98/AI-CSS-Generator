@@ -1,0 +1,4 @@
+	font:bold 12px/50px Verdana, Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-align:right;
+	padding:0 18px 0 0;

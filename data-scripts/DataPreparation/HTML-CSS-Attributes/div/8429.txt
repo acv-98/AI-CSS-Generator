@@ -1,0 +1,5 @@
+	display: inline;
+	float: left;
+	width: 100%;
+	color: #fff;
+	font-size: 30px;

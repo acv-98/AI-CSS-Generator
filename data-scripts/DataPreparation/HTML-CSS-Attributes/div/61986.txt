@@ -1,0 +1,21 @@
+	margin-left:auto;
+	margin-right:auto;
+	width:960px
+	padding-left:240px
+	padding-right:240px
+	left:240px
+	background: url(../images/slider.png) no-repeat bottom center;
+	height: 286px;
+	float: left;
+	font-size: 14px;
+	line-height: 32px;
+	text-align: justify;
+	font-weight: normal;
+	background-position: -26px 0px;
+	text-indent: -10000px;
+	clear: both;
+	border: 0px none;
+	margin-bottom: 14px;
+	font-family: Georgia;
+	border-bottom: 1px dotted #666666;
+	color: #fff;

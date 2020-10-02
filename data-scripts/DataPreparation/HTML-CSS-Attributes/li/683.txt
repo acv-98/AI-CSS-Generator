@@ -1,0 +1,2 @@
+	background: url(../img/icons/social2/mixx.png) no-repeat 0 0;
+	background-color: #d80330;

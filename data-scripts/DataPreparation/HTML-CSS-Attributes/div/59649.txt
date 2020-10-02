@@ -1,0 +1,4 @@
+  margin-right: 0px;
+  width: 100%;
+  float:none !important;
+.main_content{width: 690px;

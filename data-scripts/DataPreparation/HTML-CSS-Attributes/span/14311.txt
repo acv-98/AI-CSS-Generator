@@ -1,0 +1,5 @@
+  content: "\f01d";
+	font-size: 40px;
+	color: #fff;
+	text-align: center;
+	margin: auto 0;

@@ -1,0 +1,4 @@
+	color: #fff;
+	text-decoration: none;
+	background: url(images/menu_hover_bg_left.jpg) left top no-repeat; 
+	padding-top: 0px;

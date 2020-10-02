@@ -1,0 +1,2 @@
+    color: #deacca !important;
+    background-color: #deacca !important;

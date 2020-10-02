@@ -1,0 +1,6 @@
+ padding: 20px 0; .our-team .title{
+    font-size: 22px;
+    font-weight: 700;
+    color: #28a9e2;
+    text-transform: uppercase;
+    margin: 0 0 5px 0;

@@ -1,0 +1,10 @@
+	width:280px;
+	border-top:#606060 1px solid;
+	line-height:22px;
+	margin:20px 0px 0px 40px;
+	padding:10px 0px 0px 0px;
+	list-style:none;
+	float:left;
+	text-decoration: none;
+	color:#CCC;
+	display:inline;

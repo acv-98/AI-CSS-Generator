@@ -1,0 +1,6 @@
+	background:url(../images/contact-form-bottom-bg.png) no-repeat bottom center;
+	width:590px;
+	float:left;
+	display:block;
+	position:relative;
+	margin-bottom:-5px;

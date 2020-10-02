@@ -1,0 +1,9 @@
+	color: #3e3524;
+	display: block;
+	font-size: 12px;
+	padding: 0 13px 10px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	text-decoration: none;
+	text-align: right;

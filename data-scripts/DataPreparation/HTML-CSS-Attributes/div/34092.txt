@@ -1,0 +1,5 @@
+	float:left;
+	background:url(../images/post-img-bg.jpg) no-repeat;
+	width:210px;
+	height:210px;
+	margin:0 50px 0 0;

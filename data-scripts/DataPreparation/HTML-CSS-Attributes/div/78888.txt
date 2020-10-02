@@ -1,0 +1,4 @@
+	width:1000px;
+	margin:0 auto;
+	height:152px;
+	background:url(../images/footerback.jpg) 0 0 no-repeat;

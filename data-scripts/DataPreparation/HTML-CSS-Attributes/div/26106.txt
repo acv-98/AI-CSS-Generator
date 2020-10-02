@@ -1,0 +1,5 @@
+	float: left;
+	width: 280px;
+	margin-bottom: 40px;
+	border: 5px solid #4d4337;
+	

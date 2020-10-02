@@ -1,0 +1,4 @@
+    margin-top: 39px;
+    width: 435px;
+    color: #000;
+    text-decoration: none;   

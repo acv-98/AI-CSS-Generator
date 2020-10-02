@@ -1,0 +1,3 @@
+	float: left;
+	font-size: 75px;
+	vertical-align: middle;

@@ -1,0 +1,4 @@
+	margin:0;
+	padding:0;
+	background:url(images/header_bg.gif);
+	width:970px;

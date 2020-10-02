@@ -1,0 +1,1 @@
+ float:right; padding:45px 35px 0 0; float:left; margin-left:8px;

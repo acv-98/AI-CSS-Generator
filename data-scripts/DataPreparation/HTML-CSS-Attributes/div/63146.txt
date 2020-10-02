@@ -1,0 +1,4 @@
+	background:url(images/big-box-bottom.gif) bottom no-repeat;
+	padding:20px;
+	height:100%;
+	padding-bottom:0;

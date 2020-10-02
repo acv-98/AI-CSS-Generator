@@ -1,0 +1,5 @@
+padding: 15px 0px;
+background-color: rgba(127, 115, 177, 1);
+border: none;
+font-weight: 900;
+font-size: 30px;

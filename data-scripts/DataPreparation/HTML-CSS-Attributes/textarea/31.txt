@@ -1,0 +1,4 @@
+	display:block;
+	width:90%;
+	border:solid 1px #ccc;
+	padding:3px;

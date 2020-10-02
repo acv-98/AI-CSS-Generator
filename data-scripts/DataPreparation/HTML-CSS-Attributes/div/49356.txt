@@ -1,0 +1,7 @@
+	margin-right: -30px;
+	margin-top: 18%;
+	width: 100%;
+	overflow: hidden;
+		margin-right: 0px;
+		margin-top: 0%;
+		padding: 0px 10%;

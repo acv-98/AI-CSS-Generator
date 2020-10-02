@@ -1,0 +1,2 @@
+	background:url(../images/roundbg.jpg) left top repeat-y;
+	height:100px;

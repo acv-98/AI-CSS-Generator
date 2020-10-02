@@ -1,0 +1,5 @@
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0 0 10px 0;
+  display: block;
+  color: #2c2c2c;

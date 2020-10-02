@@ -1,0 +1,11 @@
+background:none
+.menuBar2 li a
+{text-decoration:none;
+color:#FEDFA8;
+font-size:11px;
+text-transform:uppercase;
+padding:10px 15px 0px 15px;
+font-family:Georgia, "Times New Roman", Times, serif;
+text-decoration:underlinetext-decoration:underline.welcome
+{
+	color: #5D2D23;

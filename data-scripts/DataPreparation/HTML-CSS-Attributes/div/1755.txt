@@ -1,0 +1,7 @@
+  display: table-cell;
+  vertical-align: middle;
+  min-height: 700px;
+  font-size: 70px;
+  font-weight: 400;
+  color: #fff;
+    font-size: 40px;

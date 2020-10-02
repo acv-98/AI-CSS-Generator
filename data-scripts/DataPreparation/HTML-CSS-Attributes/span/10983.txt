@@ -1,0 +1,5 @@
+	background: url(category.png) left no-repeat;
+	padding-left: 20px;
+	margin-left: 10px;
+	float: left;
+	height: 22px;

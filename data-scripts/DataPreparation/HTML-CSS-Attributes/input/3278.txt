@@ -1,0 +1,10 @@
+  border: 1px solid #a5d549;
+  color: #a5d549;  
+  background-color: #a5d549;
+  padding: 10px 15px;
+  border-radius: 4px;
+  text-transform: uppercase;
+   -webkit-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  -ms-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s; 

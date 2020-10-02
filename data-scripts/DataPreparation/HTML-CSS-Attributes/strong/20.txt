@@ -1,0 +1,6 @@
+	display:block;
+	font-size:40px;
+	line-height:1.8em;
+	color:#dc5130;
+	float:left;
+	margin-right:10px;

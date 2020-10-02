@@ -1,0 +1,6 @@
+ float:right; font-size:20px; color:#c3c3c3; padding-top:30px; padding-bottom:20px;  padding-bottom:20px; padding-bottom:30px;
+BLOCK CLASSES
+ padding-bottom:10px;text-decoration:underline;padding-left:140px; line-height:18px;SEARC CLASSES
+ padding:10px; padding-bottom:20px; padding-bottom:10px; padding-bottom:10px; border-bottom: 1px solid #dddddd;  color:#ee3233; display:block; color:#ffffff; background:#66a7c5; padding:5px; background:#ee3233; padding-bottom:10px;CONTACT FORM CLASSS
+ color:#243036;FOOTER CLASSES
+ width:300px; float: left; color:#ffffff; color:#66a7c5;

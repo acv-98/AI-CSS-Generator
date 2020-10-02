@@ -1,0 +1,15 @@
+	background: #051d36;
+	text-align: center;
+	padding-bottom: 30px;
+	min-height: 280px;
+	margin-bottom: 30px;
+	position: relative;
+	border-bottom: solid #007dea 3px;
+	transition: ease all 0.5s;
+	color: #fff;
+	padding-top: 35px;
+	font-size: 25px;
+	font-weight: 500;
+	letter-spacing: 0px;
+	cursor: pointer;
+	transform: scale(1.1);

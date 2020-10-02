@@ -1,0 +1,9 @@
+	behavior: url("../js/PIE.htc");
+	position:relative;
+	float:left;
+	padding:5px;
+	background:#fff;
+	box-shadow: 0px 0px 2px #ebecee;
+	border-radius:8px;
+	margin-top:2px;
+	margin-bottom:2px;

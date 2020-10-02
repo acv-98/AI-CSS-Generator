@@ -1,0 +1,13 @@
+	text-align: right;
+	padding-top: 24px;
+	font-size: 0;
+	line-height: 0;
+	margin-top: 0;
+	margin-left: 5px;
+	
+    color: #fff;
+    background-color: #c8ced4;
+    display: inline-block;
+    font: 18px/18px 'Economica', sans-serif;
+    padding: 8px 27px 10px;
+    margin-top: 21px;

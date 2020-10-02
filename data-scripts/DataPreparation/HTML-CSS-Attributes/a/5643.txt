@@ -1,0 +1,11 @@
+	width: 100%;
+	display: block;
+	height: 50px;
+	position: absolute;
+	bottom: 0;
+	cursor: pointer;
+	font-size: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #FFF;
+	font-weight: 300;

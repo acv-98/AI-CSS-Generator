@@ -1,0 +1,9 @@
+  position: relative;
+  right: 1px;
+  content: "";
+  top: 15px;
+  background: url(../images/blog/left.png);
+  width: 43px;
+  height: 54px;
+    background: none ;
+    padding-right: 15px;

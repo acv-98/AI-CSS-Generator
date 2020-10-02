@@ -1,0 +1,18 @@
+	padding-top: 10px;
+	text-align: center;
+	font-weight: normal;
+	font-size: 28px;
+	color: #030303;
+	line-height: 28px;
+	margin-bottom: 8px;
+	margin-top: 15px;
+	width: 65.66%;
+ text-align: right; .text-quote-quote, .text-quote-author {
+    background: none;
+    color: #939191;
+    font-family: Rokkitt, Georgia, 'Times New Roman', serif;
+    font-size: 18px;
+    font-style: normal;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;

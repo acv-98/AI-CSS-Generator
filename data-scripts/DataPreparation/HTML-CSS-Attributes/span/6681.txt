@@ -1,0 +1,4 @@
+	background:#c45d69;
+	color:#fff;
+	padding:5px;
+	font-weight:bold;

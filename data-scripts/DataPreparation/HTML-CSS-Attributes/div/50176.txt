@@ -1,0 +1,15 @@
+	height:260px;
+	padding-bottom:15px;
+	width:311px;
+	background:url(images/col.gif) repeat-y 0 0;
+	margin-right:23px;
+	float:left;
+	border-bottom:1px solid #e6e6e6;
+	min-height:260px;
+	line-height:42px;
+	color:#fff;
+	font-family:verdana, arial sans-serif;
+	font-size:17px;
+	text-transform:uppercase;
+	margin-bottom:17px;
+	text-decoration:none;

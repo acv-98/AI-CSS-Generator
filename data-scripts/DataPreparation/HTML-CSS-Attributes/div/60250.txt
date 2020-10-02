@@ -1,0 +1,7 @@
+		width: 160px;
+		margin-right: 24px;
+ width: 100%; 	
+	#nav>li{
+		display: block;
+ width: 220px; .more-link{
+	margin-bottom: 0px;

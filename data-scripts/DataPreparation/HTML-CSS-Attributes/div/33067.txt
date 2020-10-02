@@ -1,0 +1,5 @@
+	margin:0 auto;
+	width:920px;
+	padding:16px 20px;
+	background:#f3f5f4 url(../images/fbg_rs.gif) repeat-x left top;
+	color:#6e6e6e;

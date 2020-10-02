@@ -1,0 +1,4 @@
+margin-bottom: 20px;	margin-bottom: 20px;
+	.hero-text h1 {
+		max-width: 390px;
+		margin-bottom: 0;

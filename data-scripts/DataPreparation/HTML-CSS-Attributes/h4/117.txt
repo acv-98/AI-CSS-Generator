@@ -1,0 +1,5 @@
+	margin-bottom: 30px;
+	font-size: 22px;
+	color: #454545;
+	margin-top: 40px;
+	font-weight: bold;

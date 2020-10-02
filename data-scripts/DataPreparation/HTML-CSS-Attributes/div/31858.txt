@@ -1,0 +1,5 @@
+	text-align:left;
+	width:620px;
+	padding-top:18px;
+	display:inline-block;
+	margin:0 20px 0 0px;

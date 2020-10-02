@@ -1,0 +1,5 @@
+	width:274px;
+	float:left;
+	border-bottom:1px dotted black;
+	margin-bottom:10px;
+	padding-bottom:12px;

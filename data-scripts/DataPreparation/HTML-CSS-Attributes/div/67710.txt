@@ -1,0 +1,1 @@
+ clear:both; padding-bottom:7px; width:100%; overflow:hidden;

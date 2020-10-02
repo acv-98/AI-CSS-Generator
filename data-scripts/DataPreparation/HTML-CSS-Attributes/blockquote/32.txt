@@ -1,0 +1,8 @@
+    background: none;
+    color: #939191;
+    font-family: Rokkitt, Georgia, 'Times New Roman', serif;
+    font-size: 18px;
+    font-style: normal;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;

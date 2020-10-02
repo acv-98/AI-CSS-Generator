@@ -1,0 +1,5 @@
+  width: 50%;
+    width: 100%;
+    height: inherit;
+    padding-top: 20px;
+    padding-bottom: 20px;

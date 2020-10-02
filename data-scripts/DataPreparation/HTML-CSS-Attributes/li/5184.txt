@@ -1,0 +1,3 @@
+	background:#00222e url(images/bg_btns.png) 0 -80px;
+	text-shadow:#001821 1px 1px 1px;
+	color:#fff;

@@ -1,0 +1,3 @@
+color: #ffffont-size: 11px;display: block;margin-bottom: 10px 
+*  Author: Tomas Lach (www.tomaslach.cz)                                                                           *
+*  Date: 27.02.2011                                                                                                *

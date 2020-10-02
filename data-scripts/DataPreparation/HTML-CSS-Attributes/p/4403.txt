@@ -1,0 +1,5 @@
+	height:4px;
+	width:0px;
+	background:#6adcfa;
+	border-radius:3px;
+	display:inline-block;

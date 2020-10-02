@@ -1,0 +1,15 @@
+	max-width: none;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+ margin-top: -80px; .tm-2-col-textbox-2 {
+	padding: 25px;
+	margin-bottom: 30px; 
+	-ms-flex: 0 1 auto; 
+	    flex: 0 1 auto; 
+	padding-left: 10px;
+	padding-right: 10px;
+ margin-top: -80px;  max-width: 800px; 		margin-top: 0;
+		padding-left: 0;
+		padding-right: 0;
+		max-width: 1200px;

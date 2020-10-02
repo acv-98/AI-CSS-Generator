@@ -1,0 +1,4 @@
+	width:480px;
+	height:337px;
+	margin:15px 15px 0 15px;
+	list-style:none;

@@ -1,0 +1,4 @@
+    display: inline-block;
+    float: right;
+    left: 42px;
+    right: auto;

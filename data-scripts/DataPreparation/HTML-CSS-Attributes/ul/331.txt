@@ -1,0 +1,2 @@
+ padding-left: 15px; padding-right: 15px; 	
+ padding: 15px 20px; text-align: left;  display: none;  padding-right: 7px;  padding: 15px 20px; 

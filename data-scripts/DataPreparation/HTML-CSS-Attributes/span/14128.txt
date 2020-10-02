@@ -1,0 +1,9 @@
+	color: #F7FFFF;
+	display: block;
+	font-size: 14px;
+	left: 0;
+	line-height: 48px;
+	position: absolute;
+	text-align: center;
+	top: 0;
+	width: 104px;

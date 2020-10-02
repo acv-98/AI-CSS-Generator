@@ -1,0 +1,7 @@
+    margin-top: 30px;
+    border-left: 1px solid #ececec;
+    margin-bottom: 30px;
+    padding-left: 20px;
+        padding-left: 15px;
+        text-align: center;
+        margin-top: 20px;

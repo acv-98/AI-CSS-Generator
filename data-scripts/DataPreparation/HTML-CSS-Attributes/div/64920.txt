@@ -1,0 +1,10 @@
+	margin:0;
+	padding:0;
+	float:left;
+	list-style:none;
+	display:block;
+	color:#52aec6;
+	text-decoration:none;
+	font-size:13px;
+	text-transform:uppercase;
+	background:#f00 url(images/menu_a.gif) repeat-x center;

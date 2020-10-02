@@ -1,0 +1,9 @@
+	margin:0;
+	padding:0;
+	list-style:none;
+	color:#959595;
+	text-decoration:none;
+	margin-left:-12px;
+	padding-left:12px;
+	background:url(images/menu_link.jpg) no-repeat left center;
+	font-weight:bold;

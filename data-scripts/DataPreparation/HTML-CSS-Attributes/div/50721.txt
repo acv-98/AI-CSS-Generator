@@ -1,0 +1,4 @@
+	border-top:1px dotted #dcdcdc;
+	padding-top:4px;
+	margin-top:6px;
+	height:187px;

@@ -1,0 +1,5 @@
+	color:#fcf9f9;
+	font-size:12px;
+	line-height:20px;	
+color:#747373;margin:0 4pxcolor:#747373;font-weight:normal;color:#747373.privacy a {
+	display:inline-block;

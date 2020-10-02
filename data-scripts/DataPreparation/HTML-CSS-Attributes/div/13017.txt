@@ -1,0 +1,6 @@
+	width:61.5%;
+	-webkit-animation:pulse .3s;
+	animation:pulse .3s;
+	float:left;
+			margin-bottom:30px;
+		width:100%;

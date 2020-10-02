@@ -1,0 +1,1 @@
+display:block; width:100%; background:url("../images/homepage_spacer.png") top left repeat-x;

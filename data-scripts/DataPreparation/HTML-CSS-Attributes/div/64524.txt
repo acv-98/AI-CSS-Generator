@@ -1,0 +1,10 @@
+	float: right;
+	background: url(images/button.png);
+	width: 133px;
+	height: 44px;
+	font-size: 16px;
+	text-align: center;
+	margin: 10px 20px 10px 0;
+	color: #fff;
+	padding: 15px 0 0 0;
+	text-decoration: none;

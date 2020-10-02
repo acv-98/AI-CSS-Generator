@@ -1,0 +1,4 @@
+	width:100%;
+	overflow:hidden
+	padding-left:11px;
+	background:url(../images/marker_1.gif) 0 4px no-repeat

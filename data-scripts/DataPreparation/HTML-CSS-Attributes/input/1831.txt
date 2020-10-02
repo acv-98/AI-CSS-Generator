@@ -1,0 +1,6 @@
+	background:url(images/sumbit-btn.png);
+	width:200px;
+	height:39px;
+	border:none;
+	position:relative;
+	top:-1px;

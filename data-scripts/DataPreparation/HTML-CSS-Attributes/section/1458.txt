@@ -1,0 +1,17 @@
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 1px solid #eee;
+    background-color: #333;
+    border-bottom: 5px solid #CCC;
+    margin: 0 0 35px 0;
+    min-height: 50px;
+    padding: 20px 0;
+    position: relative;
+    text-align: left;
+    color: #FFF;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 36px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;

@@ -1,0 +1,5 @@
+ *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); 	content: '\e803';
+.icon-camera:before {
+.icon-link:before {
+.icon-chart-area:before {
+.icon-rocket:before {

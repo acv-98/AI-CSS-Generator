@@ -1,0 +1,1 @@
+ position: relative; float: left; width: 35px; height: 37px; margin: -44px 0 0 -6px; background: url(../images/zoom.gif) no-repeat; 

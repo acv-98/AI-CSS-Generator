@@ -1,0 +1,18 @@
+  border-bottom: none;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  padding: 0px;
+  
+	color: #fff;
+	display: block;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 12px 15px;
+	text-decoration: none;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+	opacity: 0.8;
+	float: right;
+font-size: 16px;font-size: 14px;

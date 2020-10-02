@@ -1,0 +1,7 @@
+  background-color: #2d3e50;
+  border-top: 1px solid #3598db;
+  padding: 20px 0;
+  font-size: 12px;
+  display: block;
+  margin-bottom: 10px;
+  width: 70%;

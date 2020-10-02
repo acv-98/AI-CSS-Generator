@@ -1,0 +1,3 @@
+	float:right;
+	margin-left:20px;
+	border: 6px solid #b0a48b;

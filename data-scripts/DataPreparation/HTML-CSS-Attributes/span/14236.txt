@@ -1,0 +1,3 @@
+        margin-left: 5px;
+.main_events_area .single_events span.separator3{
+    color:#8e8e8e;

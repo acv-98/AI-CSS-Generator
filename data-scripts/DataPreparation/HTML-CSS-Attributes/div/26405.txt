@@ -1,0 +1,7 @@
+	max-width: 600px;
+	width: 100%;
+	padding: 50px;
+	overflow: auto;
+ min-height: 950px; .tm-white-bg {
+	background-color: white;
+	color: #676362;

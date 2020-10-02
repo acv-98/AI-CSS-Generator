@@ -1,0 +1,6 @@
+  background-color: #c1a35f;
+  margin-top: 30px;
+  border: 1px solid #ccc;
+  padding: 0 15px;
+  height: 50px;
+  width: 50px;

@@ -1,0 +1,7 @@
+  margin-bottom: 20px;
+  display: block;
+	font-size: 15px;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-weight: 300;
+	margin-bottom: 60px;

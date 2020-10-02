@@ -1,0 +1,9 @@
+	max-width: 650px;
+	margin: 0 auto;
+	padding: 0 0 100px 0;
+	font-size: 37px;
+	font-weight: 900;
+	line-height: 1.2;
+	color: #FFF;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 0;

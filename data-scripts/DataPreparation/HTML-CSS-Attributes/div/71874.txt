@@ -1,0 +1,14 @@
+	position:absolute;
+	background:#090909;
+	width:422px;
+	text-transform:uppercase;
+	font:bold 15px/44px Arial, Helvetica, sans-serif;
+	color:#999898;
+	top:290px;
+	left:35px;
+	padding:0 8px 0 13px;
+	overflow:hidden;
+	float:right;
+	padding-right:16px;
+	bottom:0;
+	right:0;

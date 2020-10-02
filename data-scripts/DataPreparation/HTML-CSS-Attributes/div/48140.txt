@@ -1,0 +1,9 @@
+	padding-bottom: 30px;
+	border-bottom: solid 1px #403d32;
+	display: block;
+	margin-bottom: 25px;
+	float: left;
+	margin-top: 10px;
+	font-size: 16px; 
+	line-height: 20px;  
+	color: #7f7a64;

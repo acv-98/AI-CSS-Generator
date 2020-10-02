@@ -1,0 +1,7 @@
+	position:relative;
+	padding-top: 39px;
+	text-align: right;
+	margin: 0 0px 0px 24px !important;
+	cursor: pointer;
+	min-width: 10px;
+	margin-left: 0 !important;

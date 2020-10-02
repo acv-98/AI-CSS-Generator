@@ -1,0 +1,5 @@
+	background: #12557f;
+	color: #ffffff;
+	display: inline-block;
+	border: none;
+	padding: 5px;

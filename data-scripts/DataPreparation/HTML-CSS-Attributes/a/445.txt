@@ -1,0 +1,2 @@
+	display: block;
+	border-bottom:1px dashed #c7b3a9;

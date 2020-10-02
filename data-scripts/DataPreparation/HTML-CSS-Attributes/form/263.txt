@@ -1,0 +1,15 @@
+	float: right;
+	margin-right: 15px;
+	padding-top: 15px;
+	padding-left: 30px;
+	width: 170px;
+	background: none;
+	border: none;
+	color: #ccc;
+	font-size: 12px;
+	background : url(search-button.png) no-repeat;
+	height: 15px;
+	cursor: pointer;
+	margin-left: 15px;
+	position: relative;
+	top: -78px;

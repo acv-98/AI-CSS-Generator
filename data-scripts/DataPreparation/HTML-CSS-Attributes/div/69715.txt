@@ -1,0 +1,10 @@
+	display: block;
+	font-size: 28px;
+	color: #ffffff;	
+	background: #a8cf45;
+	width: 48px;
+	height: 48px;
+	line-height: 48px;
+	text-align: center;
+	font-weight: 700;
+	text-transform: capitalize;

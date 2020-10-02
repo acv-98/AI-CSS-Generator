@@ -1,0 +1,11 @@
+  background: #1f76bd;
+  color: #fff;
+  padding: 30px 0;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  text-align: left;
+  font-size: 13px;
+  content: "";
+  height: 1px;
+  display: block;
+  width: 150px;

@@ -1,0 +1,15 @@
+	font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	padding: 15px 25px;
+	background-color: #63adcc;
+	color: #fff;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+	border-radius: 25px;
+	text-decoration: none;
+	margin-top: -20px;
+  padding-bottom: 60px;
+  margin-bottom: 30px;
+    margin-bottom: 100px;

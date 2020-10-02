@@ -1,0 +1,1 @@
+width:20%; float: right; padding: 7px 35px 3px 0; text-align: right;margin-left: 62%; padding: 8px 3px 0 5px; text-align: right;

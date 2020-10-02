@@ -1,0 +1,21 @@
+  float: left;
+  border-radius: 4px;
+  margin-left: 2px;
+  color: #fff;
+  background-color: #337ab7;
+ font-size: 11px;	ul.features li span.fa {
+	    font-size: 30px;
+	    margin-top: 2px;
+    position: relative;
+    display: block;
+    background-color: #ffffff;
+    padding: 25px;
+    border-bottom: 3px solid #cccccc;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    font-style: italic;
+    color: #fff;
+ border-radius: 4px     vertical-align: middle;
+    margin-right: 20px;
+    float: left;
+    clear: both;

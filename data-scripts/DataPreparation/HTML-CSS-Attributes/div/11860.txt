@@ -1,0 +1,21 @@
+color:white; font-size:35px;  letter-spacing:3px; font-family:Economica-bold;; margin-top:30px; .bestdisheswrapper #bestdishes h2::before{content:url(../images/rectangle.png); position:relative; margin-right:15px;
+font-family:Economica-Regular; font-size:30px; text-transform:uppercase; letter-spacing:2px;	position: relative;
+	width: 1100px;;
+	height: 420px;
+	overflow: hidden;
+	
+	 * Prevent blinking issue
+	 * Not tested. Experimental.
+	 
+	-webkit-backface-visibility: hidden;
+	-webkit-transform-style: preserve-3d;
+	float: left;
+	clear: none;
+.bestdisheswrapper .slider-arrow {
+	display: block;
+	margin-bottom: -20px;
+	padding: 20px;
+ bottom: 55%; right: 0px; background:url(../images/bestdishesrightarrow.png) no-repeat;  bottom: 55%; left: 0px; background:url(../images/bestdishesleftarrow.png) no-repeat; .bestdisheswrapper .slider-nav {
+	bottom: 30px;
+	background: #fff;
+ background: #ccc;  background: #ccc; 

@@ -1,0 +1,1 @@
+ left: 32px;  background-position: 0 -31px;  left: 10px; 

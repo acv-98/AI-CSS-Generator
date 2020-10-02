@@ -1,0 +1,17 @@
+	background:url(../images/bg-top-navigation-left.png) no-repeat;
+	height:30px;
+	padding:0 0 0 21px;
+	border:0;
+	color:#ef0288;
+	margin:10px 0 0;
+	float:left!important;
+	width:525px;
+	text-decoration:underline;
+	display:inline-block;
+	font-family:Arial;
+	font-size:14px;
+	line-height: 20px;
+	font-weight:normal;
+	list-style:none;
+	background-color:#f0f2f1;
+	text-align:center;

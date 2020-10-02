@@ -1,0 +1,5 @@
+	font-weight: bold;
+	line-height: 23px;
+	text-transform: capitalize;
+	font-size: 13px;
+	margin-bottom:7px;

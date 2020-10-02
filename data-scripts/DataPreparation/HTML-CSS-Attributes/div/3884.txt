@@ -1,0 +1,5 @@
+	padding: 20px 0px;
+	transition: all 1s ease-in-out;
+	font-size: 48px;
+	color: #393939;
+	transform: rotate(-360deg);

@@ -1,0 +1,8 @@
+    width: 119px;
+    margin: 0 auto;
+    height: 119px;
+    text-align: center;
+    font: 40px/116px 'Dosis', sans-serif;
+    border-radius: 500px;
+    margin-bottom: 25px;
+    padding: 49px 0;

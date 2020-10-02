@@ -1,0 +1,9 @@
+top: 84% !important;font-size: 30px !important; line-height: 36px !important;top: 83% !important;margin: 0 -20px !important;position: absolute !important; top: 62% !important; padding: 5px !important;top: 35% !important; opacity: 0.8 !important;right: 100px !important;left: 100px !important;font-size: 14px !important; line-height: 20px !important;font-size: 12px !important; line-height: 18px !important;text-align: center; font-family: 'source_sans_problack';  color: #fff; font-size: 34px; letter-spacing: 2px; line-height: 36px; text-transform: uppercase;  .banner h2{font-family: 'source_sans_prolight'; color: #fff; font-size: 18px; line-height: 24px; font-weight: normal;
+margin: 0; transition:all 1s;   transition:all 1s; background: #c85b5f; padding: 30px;   .banner  .carousel-control {
+width: 30px;
+margin-top: -20px;
+border: none;
+-webkit-border-radius: 23px;
+-moz-border-radius: 23px;
+filter: alpha(opacity=50);
+background: #c0604f; color: #fff;border:none;.banner .carousel-control.right {

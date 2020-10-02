@@ -1,0 +1,14 @@
+ font-size: 60px; font-family: 'Georgia', sans-serif; color: #ffffff; font-style: normal; font-weight: 400;     background:url('../images/slider/logo-slider-line.png') center bottom no-repeat;
+    border-top:1px solid #e0e0e0;
+    padding:40px 0px;
+    margin: 0;
+    list-style: none;
+    display: block;
+    float: left;
+    position:relative;
+    cursor: default
+ filter:gray;  filter:none; .logos-slider .list_carousel.responsive {
+    width: auto;
+    margin-left: 0;
+    height: 18px;
+    margin-right: 4px;

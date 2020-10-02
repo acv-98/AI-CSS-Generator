@@ -1,0 +1,7 @@
+    margin-bottom: 150px;
+    font: normal normal 300 18px/60px 'Fira Sans', sans-serif;
+    border-radius: 0px;
+    background: #fff;
+    height: 63px;
+    color: #000;
+    padding: 0;

@@ -1,0 +1,6 @@
+	background-color: #fafafa;
+	font-family: "Roboto", sans-serif;
+	font-size: 30px;
+	font-weight: 400;
+	margin-top: 0;
+	color: #2d3033;

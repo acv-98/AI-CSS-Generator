@@ -1,0 +1,7 @@
+	margin-top: 60px;
+	margin-left: 27px;
+	float: left;
+	font-size: 13px;
+	color: #000000;
+	font-style: normal;
+	line-height: 13px;

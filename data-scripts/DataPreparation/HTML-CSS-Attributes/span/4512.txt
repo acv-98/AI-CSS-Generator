@@ -1,0 +1,3 @@
+	color: #aaa;
+	display: block;
+	position: relative;

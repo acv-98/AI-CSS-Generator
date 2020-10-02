@@ -1,0 +1,4 @@
+	clear:both;
+	padding:15px 0 0;
+	margin:0 0 25px;
+	border-bottom:1px solid #ddd;

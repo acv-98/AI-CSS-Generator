@@ -1,0 +1,1 @@
+float:left; display:inline; width:100%; background-image:url("images/header_dot.png"); background-repeat:repeat; text-align:centerdisplay:inline-block; font-size:16px; font-weight:normal; padding:7px 15pxbackground-color:#09c; color:#fffbackground-color:#09c; color:#fff; text-decoration:none

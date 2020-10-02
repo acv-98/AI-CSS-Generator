@@ -1,0 +1,27 @@
+ margin-bottom:20px;
+.btn-header {
+  display: inline-block;
+  *display: inline;
+  padding: 14px 20px;
+  margin-bottom: 0;
+  *margin-left: .3em;
+  font-size: 24px;
+  line-height: 20px;
+  color: #5a8fac;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.80);
+  vertical-align: middle;
+  cursor: pointer;
+ 
+  background-color: #c4beb0;
+  *background-color: #c4beb0;
+  background-image: -moz-linear-gradient(top, #fefce9, #c4beb0);
+  background-repeat: repeat-x;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
+  *zoom: 1;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);

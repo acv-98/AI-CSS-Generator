@@ -1,0 +1,9 @@
+	text-decoration:none
+	display:inline-block;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:21px;
+	line-height:26px;
+	padding:0 0 10px 12px;
+	background:url(../images/marker.png) 0 12px no-repeat;
+	letter-spacing:-1px
+	color:#fff

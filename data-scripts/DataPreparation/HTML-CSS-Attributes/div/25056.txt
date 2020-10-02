@@ -1,0 +1,6 @@
+width:940px;width:860px;width:780px;width:60px;width:100%;*width:99.94680851063829%;width:91.48936170212765%;*width:91.43617021276594%;width:82.97872340425532%;*width:82.92553191489361%;width:6.382978723404255%;*width:6.329787234042553%;float:none;width:44px;margin-left:0;float:none;width:764px;margin-left:0;float:none;width:844px;margin-left:0;float:none;width:924px;margin-left:0;width:926px;width:846px;width:766px;width:46px;.visible-print
+  Bootstrap's documentation styles
+  Special styles for presenting Bootstrap's documentation and examples
+body {
+  position: relative;
+  padding-top: 40px;

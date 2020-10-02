@@ -1,0 +1,4 @@
+    min-height: 300px;
+    background-color: #747272;
+    background-image: url('../max-image/post-card-3.jpg');
+ background-size: cover;

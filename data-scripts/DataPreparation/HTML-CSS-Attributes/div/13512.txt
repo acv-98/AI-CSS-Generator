@@ -1,0 +1,21 @@
+ margin-top: 20px;  width: 100%;  margin-top: 0px; 
+	font-family: 'Maven Pro','Verdana','Arial',sans-serif !important;
+.span9 .section .services-row .span2:nth-child(4n+1) {
+    clear: left;
+ width: 270px; .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 470px; .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 570px;  width: 220px; #ie8 .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 380px; #ie8 .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 460px; .section.blog .sticky .the-content h4,
+.section.blog .sticky .the-content h4 a {
+    color: #676768;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 7px;
+ color: #6C6D03; .section.blog .post {
+    border-left: 0px !important;
+    margin-bottom: 40px;
+    padding: 0px;
+ width: 220px;     .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 380px;     .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 460px;  width: 166px;  width: 290px;  width: 352px;  width: 100%; 

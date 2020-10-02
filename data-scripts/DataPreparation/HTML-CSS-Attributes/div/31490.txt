@@ -1,0 +1,6 @@
+	background-color: #2d3032;
+	position: absolute;
+	z-index: 2;
+	right: 0px;
+	top: 0px;
+	margin: 0;

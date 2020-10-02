@@ -1,0 +1,6 @@
+	text-align: center;
+	width: 250px;
+	margin-right: 4rem;
+		width: 100%;
+		margin-bottom: 3rem;
+		margin-right: 0;

@@ -1,0 +1,4 @@
+    margin-top: 25px;
+    font-size: 13px;
+    color: #ececec;
+    margin-right: 18px;

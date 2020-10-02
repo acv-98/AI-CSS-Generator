@@ -1,0 +1,6 @@
+	clear:both;
+	float:left;
+	margin:10px 0 10px 0;
+	padding:2px;
+	text-align:center;
+	border:1px #dcdcdc solid;

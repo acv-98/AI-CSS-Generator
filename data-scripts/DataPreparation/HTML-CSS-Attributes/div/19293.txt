@@ -1,0 +1,10 @@
+  color: #f8e69f;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 3px;
+  margin-bottom: 5em;
+  float: left;
+  width: 100%;
+  z-index: 99;
+    padding-top: 4em;
+  text-transform: uppercase;

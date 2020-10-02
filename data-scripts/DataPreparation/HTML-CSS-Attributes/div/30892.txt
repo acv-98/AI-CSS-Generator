@@ -1,0 +1,6 @@
+width:532px;
+float:left;
+margin:0px 0px 0px 8px;
+border-left:1px solid #C2515C;
+border-right:1px solid #C2515C;
+background:url(../images/ul_bg.gif) repeat-x #D7515F;

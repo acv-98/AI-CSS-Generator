@@ -1,0 +1,6 @@
+	background-color:#f4f4f4;
+	position:absolute;
+	width:50%;
+	left:0;
+	top:5px;
+	height:552px;

@@ -1,0 +1,11 @@
+	background: url(../images/m.png) no-repeat 25px 20px;
+	background-color: #EB6841;
+	padding: 1em 1.5em;
+	border-top-left-radius: 8px;
+	-webkit-border-top-left-radius: 8px;
+	-o-border-top-left-radius: 8px;
+	-moz-border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	-webkit-border-bottom-left-radius: 8px;
+	-moz-border-bottom-left-radius: 8px;
+	-o-border-bottom-left-radius: 8px;

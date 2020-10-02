@@ -1,0 +1,8 @@
+  margin-bottom: 15px;
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+  margin-right: -15px;
+  margin-left: -15px;
+  content: " ";
+  clear: both;

@@ -1,0 +1,7 @@
+	margin:0px;
+	padding:0px;
+	display:inline;
+	border-right:1px solid #ffffff;
+	font:bold 12px Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	text-decoration:none;

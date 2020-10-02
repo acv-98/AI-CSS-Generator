@@ -1,0 +1,1 @@
+width:595px; float:left; margin-right:35px; border:#24314c solid 1px; padding:30px 30px 40px 30px; background:#202b43; margin-bottom:30px; border-bottom:#25314c solid 1px; padding-bottom:20px; margin-bottom:30px; float:left; margin-right:30px;RIGHT-PANEL CLASSES

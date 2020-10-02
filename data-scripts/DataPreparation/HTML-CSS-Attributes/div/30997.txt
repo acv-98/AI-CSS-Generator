@@ -1,0 +1,11 @@
+    float: left;
+    text-align: center;
+    display: inline-block;
+    width: 55px;
+    margin-top: 13px;
+    font-size: 50px;
+    -o-transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -ms-transition: all .2s;
+ width: 38px; font-size: 35px;  width: 30px; font-size: 27px;  display: none;  width: 30px; font-size: 30px;  width: 38px; font-size: 35px;  width: 30px; font-size: 27px;  display: none;  width: 30px; font-size: 30px;  font-size: 60px;  font-size: 42px;  display: none; 

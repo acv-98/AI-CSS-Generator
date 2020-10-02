@@ -1,0 +1,4 @@
+    margin-top: -15px;
+    border: solid #fff 5px;
+    transition: ease all 1s;
+    color: #ffffff !important;

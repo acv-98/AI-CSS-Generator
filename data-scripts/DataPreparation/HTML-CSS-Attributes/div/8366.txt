@@ -1,0 +1,9 @@
+  color: #a5d549;
+  display: inline;
+  float: left;
+  width: 100%;
+  background: transparent none repeat scroll 0 0;
+  border-radius: 0;
+  text-align: right;
+    text-align: center;
+    margin-top: 20px;

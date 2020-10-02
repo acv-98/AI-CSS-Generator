@@ -1,0 +1,2 @@
+ margin:0 auto; padding:24px 40px; width:900px; background-color:#fff; -moz-border-radius:10px;
+ padding-right:486px; width:454px; height:291px; background:#fff url(images/hbg_img.jpg) no-repeat top right;

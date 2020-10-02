@@ -1,0 +1,10 @@
+	background-color: transparent;
+	border: none;
+	color: #0091ea;
+	font-size: 18px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	cursor: pointer;
+	bottom: 0;
+	width: 50px;

@@ -1,0 +1,3 @@
+	text-decoration: line-through;
+	margin-right: 8%;
+	color: #888;

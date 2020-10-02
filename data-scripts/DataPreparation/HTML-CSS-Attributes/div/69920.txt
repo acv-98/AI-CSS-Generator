@@ -1,0 +1,6 @@
+  margin-left: 0;
+padding: 20px 0px 5px;margin-left: -25px;.single_footer{margin-left: 25px;
+border-bottom:3px solid #999999;padding-bottom:15px;.single_footer>h2{border-bottom: 2px dotted #bababa;
+color: #6b6b6b;
+font-size: 17px;
+font-weight: bold;

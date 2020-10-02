@@ -1,0 +1,4 @@
+  padding-right: 0px!important;
+  width: 100%;
+  overflow: hidden;
+    padding-right: 15px!important;

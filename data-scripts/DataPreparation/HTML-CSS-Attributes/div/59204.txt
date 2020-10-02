@@ -1,0 +1,1 @@
+	background:url(../images/bg-header.jpg) no-repeat center top;

@@ -1,0 +1,4 @@
+	padding: 30px;
+	text-align: center;
+	font-style: italic;
+ padding: 20px; 

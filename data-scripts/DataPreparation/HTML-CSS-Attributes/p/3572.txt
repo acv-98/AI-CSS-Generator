@@ -1,0 +1,10 @@
+	background:url(images/quote-bg.gif) no-repeat 0 4px;
+	font-size:17px;
+	line-height:22px;
+	color:#936906;
+	font-style:italic;
+	width:475px;
+	padding:0 0 0 50px;
+	margin:24px auto 30px auto;
+	font-weight:bold;
+	display:block;

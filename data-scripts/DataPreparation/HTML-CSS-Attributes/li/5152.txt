@@ -1,0 +1,2 @@
+	background:none;
+background:url(../images/nav-btn.jpg) 0 0 repeat-x #fe8948; color:#fff;

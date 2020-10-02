@@ -1,0 +1,1 @@
+ width:1000px; margin:0 auto; overflow:hidden; height:auto; margin-top:30px; float:left; width:20px; float:left; width:920px; padding:20px; overflow:hidden; background:#ffffff; margin:0 auto; background:url(../images/banner-bg.gif) no-repeat; height:381px; text-align:right; margin-top:100px; float:right; position:relative; width:500px;

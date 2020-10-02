@@ -1,0 +1,4 @@
+    background-color: rgba(245, 216, 150, 0.5);
+    width: 100%;
+    min-height: 500px;
+    position:relative;

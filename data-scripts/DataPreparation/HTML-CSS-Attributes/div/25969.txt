@@ -1,0 +1,13 @@
+	float: none;
+	display: inline-block;
+	padding-right: .8em;
+	width: 38px;
+	height: 38px;
+	line-height: 38px;
+	color: #fff;
+	border-radius: 50%;
+	background: #ff5335;
+	position: relative;
+ -webkit-transition: all .8s ease;
+ transition: all .8s ease;
+	margin-bottom: 1.5em;

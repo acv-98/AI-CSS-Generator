@@ -1,0 +1,7 @@
+	border-bottom:1px dashed #c2c2c2;
+	line-height:16px;
+	padding-bottom:7px;
+	margin-bottom:7px;
+	font-size:13px;
+	color:#78823a;
+	text-decoration:none;

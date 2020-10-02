@@ -1,0 +1,12 @@
+    padding-right: 27px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    font-size: 15px;
+    height: 45px;
+    margin: 8px;
+    width: 250px;
+    box-shadow: none;
+    resize:none;
+        width: 202px;
+        margin: 0 -8px;
+        padding-right: 15px;

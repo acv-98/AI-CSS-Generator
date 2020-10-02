@@ -1,0 +1,6 @@
+	padding: 4px;
+	margin-top: 1px;
+	font-size: 12px;
+	margin-bottom: 52px;
+	position: relative;
+	top: -4px;

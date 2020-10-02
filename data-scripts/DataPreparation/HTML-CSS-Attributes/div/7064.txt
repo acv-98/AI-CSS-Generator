@@ -1,0 +1,1 @@
+float:right; width:auto;  width:auto; float:left; list-style:none; float:left; text-decoration:none; color:#609a1c; font-size:14px; display:block; height:60px; line-height:60px; padding-left:20px; padding-right:20px; background:#9cff00; border-right:1px solid #85d612; color:#313c53; background:#8be400; color:#313c53; background:#8be400;BANNER  CLASSES

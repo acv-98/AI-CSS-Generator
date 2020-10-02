@@ -1,0 +1,8 @@
+ margin-top: 30px; 
+	video {
+		top: 25%;
+		left: 0;
+	    min-width: 50%;
+	    min-height: 50%;
+	    width: auto;
+	    height: auto;	 

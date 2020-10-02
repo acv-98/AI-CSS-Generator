@@ -1,0 +1,12 @@
+  width: 230px;
+border-bottom: 3px solid #ddd;
+font-size: 16px ;
+margin-bottom: 15px;
+box-shadow: inset 0px 0px 50px 0px #999999;
+-webkit-box-shadow: inset 0px 0px 50px 0px #999999;
+-moz-box-shadow: inset 0px 0px 50px 0px #999999;
+height: 35px;
+padding-left: 5px;
+background: url("images/nav_right.png") no-repeat scroll 90px 6px #ffd500;
+font-family: oswald light;
+text-transform: uppercase;

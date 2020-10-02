@@ -1,0 +1,11 @@
+   position: relative;
+	margin: 10px 0 20px 0;
+   padding: 0 0 20px 0;
+   width: 740px;
+   overflow: hidden;
+   border-bottom: 1px solid #eeeeee;
+   left: 0px; top: 5px;
+   text-align: right;
+	width: 135px;
+	position: relative;
+	top: 15px; left: 20px;

@@ -1,0 +1,5 @@
+	padding:2px 0px 0px 0px;
+	color:#BF5A14;
+	background:url(../images/disc.jpg) 0px 4px no-repeat;
+	padding-left:15px;
+	text-decoration:underline;

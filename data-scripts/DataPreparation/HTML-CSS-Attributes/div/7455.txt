@@ -1,0 +1,1 @@
+width:200px; height:50px; background:#e2e2e2;font-size:13px; font-weight:normal; color:#333333; text-align:center; line-height:50px;MIDDLE 2 PANELS CLASSS

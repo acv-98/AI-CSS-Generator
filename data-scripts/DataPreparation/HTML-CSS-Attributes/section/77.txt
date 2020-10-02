@@ -1,0 +1,16 @@
+        border-right: 0px solid #686868;
+        text-align: center;
+        margin-top:20px;
+        margin-bottom:20px;
+        max-width: 80%;
+    padding-bottom: 80px;
+    background: #2a2a2a;
+    border-bottom: 1px solid #686868;
+    display: inline-block;
+    width: 100%;
+    font-size:0.8125rem;
+    font-family: 'latomedium';
+	padding: 0px 10px;
+	float:right;
+    color:#686868;
+    padding-right: 5px;

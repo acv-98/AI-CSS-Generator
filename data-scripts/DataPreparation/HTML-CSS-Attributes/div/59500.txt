@@ -1,0 +1,4 @@
+    box-shadow: -15px -15px 0px 0px rgba(0,0,0,0.4);
+    -webkit-transition: all 1s ease 0.01s;
+    transition: all 1s ease 0.01s;
+    position: relative;

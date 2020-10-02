@@ -1,0 +1,1 @@
+float:none; margin-bottom:23px; margin-left:34px; margin-top:-19px; width:48%width:28%width:18%; float:rightbackground:url("images/star_active.png") no-repeat; display:block; padding:7px 10px; float:left; margin-right:2pxdisplay:block; margin-bottom:2px; font-weight:bold

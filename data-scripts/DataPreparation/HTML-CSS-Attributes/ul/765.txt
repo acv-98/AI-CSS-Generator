@@ -1,0 +1,2 @@
+text-align:left; margin:0px 0px 30px 0px; font-size:17px; font-weight:normal;  background:url(../images/portfolio-categbg.png) no-repeat; line-height:50px; padding-left:20px; width:600px; color:#0a4689;font-family: 'Oswald', sans-serif;display:inline;margin-right:10px; text-decoration:none; color:#104f94; text-decoration:none; color:#fff;
+CONTACT FORM CLASSS

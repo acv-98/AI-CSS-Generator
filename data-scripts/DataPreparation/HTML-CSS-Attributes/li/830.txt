@@ -1,0 +1,4 @@
+	color:#c73269;
+	font-weight:700;
+	background:url(../images/bg-selected.gif) no-repeat right center;
+	background-color:#99063d;

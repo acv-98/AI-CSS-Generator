@@ -1,0 +1,12 @@
+		padding:18px 10px
+		position: relative;
+		height: 45px;
+		border: 1px dashed #ddd;
+		width: 100%;
+		font-size: 14px;
+		content: "\f002";
+		font-family: FontAwesome;
+		right: 12px;
+		top: 10px;
+		color: #888888;
+		z-index: 999;

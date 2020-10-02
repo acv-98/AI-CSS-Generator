@@ -1,0 +1,8 @@
+    background: url(../images/divicebg.jpg) no-repeat 100% 100%;
+    background-size:cover;
+    margin-top:80px;
+.device .main_device_area .main_device_content .single_device{
+    position: relative;
+    right: 80px;
+    bottom: -70px;
+    z-index: 99;

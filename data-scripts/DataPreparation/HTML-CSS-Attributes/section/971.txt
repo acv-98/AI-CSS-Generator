@@ -1,0 +1,10 @@
+  padding: 30px 19px;
+  -webkit-box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.15);
+  border: 0;
+   margin-bottom: 50px
+  font-size: 20px;
+  color: #273f59;
+  font-weight: bold;
+  margin-top: 15px;
+  line-height: 1.8;

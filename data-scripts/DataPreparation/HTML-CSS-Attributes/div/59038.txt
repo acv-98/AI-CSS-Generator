@@ -1,0 +1,1 @@
+float:none; font-size:7px; margin-bottom:3px; width:60%width:60%; font-size:14pxfloat:left; font-size:25px; font-weight:bold; width:60%

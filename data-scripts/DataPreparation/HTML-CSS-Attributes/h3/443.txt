@@ -1,0 +1,2 @@
+color: #FF007A;.carousel-control.right, .carousel-control.left,
+#myCarousel1 .carousel-control.right, #myCarousel1 .carousel-control.left,

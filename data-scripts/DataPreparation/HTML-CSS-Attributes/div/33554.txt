@@ -1,0 +1,1 @@
+ float:right; width:540px;background:url(images/comments.jpg) 0px 6px  no-repeat; height:23px; padding:3px 0 0 25px; width:50px; float:right;

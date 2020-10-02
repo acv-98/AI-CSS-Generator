@@ -1,0 +1,2 @@
+content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;
+display: block;zoom: 1;position: relative; list-style: none; list-style-position: outside; position: relative;  float: left; width: 906px; height: 309px; position: relative; z-index: 20;  width: 905px; height: 309px; 

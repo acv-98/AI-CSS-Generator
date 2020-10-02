@@ -1,0 +1,10 @@
+		padding: 0px 15px;
+		float: left;
+		margin: 0 auto;
+		display: block;
+		text-align: center;
+.right-top ul li{
+	font-size: 27px;
+	color: #ffffff;
+	border: 2px solid #ffffff;
+	background: #00cb86;

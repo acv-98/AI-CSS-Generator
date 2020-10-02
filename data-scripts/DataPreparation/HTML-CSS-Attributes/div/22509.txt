@@ -1,0 +1,10 @@
+.main_comment .main_comment_content .single_comment .single_comment_image_left{
+    width:15%;
+    float:left;
+    margin-right:5%;
+    font-size:1.5rem;
+    line-height: 2rem;
+    color:#999;
+    height: 2px;
+    background: #f38181;
+    display: inline-block;

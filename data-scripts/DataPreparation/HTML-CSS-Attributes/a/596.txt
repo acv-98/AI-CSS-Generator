@@ -1,0 +1,14 @@
+    display: inline-block;
+	padding: 0px 20px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--pricingTable-yellow);
+    text-transform: capitalize;
+    border: 2px solid var(--pricingTable-yellow);
+    margin: 0 auto 10px;
+    position: relative;
+    transition: all 0.3s ease 0s;
+    background: var(--pricingTable-yellow);
+    border-color: var(--pricingTable-purple);

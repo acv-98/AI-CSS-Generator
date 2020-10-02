@@ -1,0 +1,12 @@
+    position: absolute;
+    color: #fff;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 2px 0 0 0;
+    width: 35px;
+    line-height: 35px;
+    height: 35px;
+    font-size: 13px;
+    text-align: center;
+    display: block;

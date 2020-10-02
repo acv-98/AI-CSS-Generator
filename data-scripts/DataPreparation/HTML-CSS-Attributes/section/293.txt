@@ -1,0 +1,13 @@
+    background-color: #fff;
+    color:#00a885;
+    position: relative;
+    width:100%;
+    content: "";
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-top: 20px solid #00a885;
+    left:50%;
+    top:0%;
+    z-index: 3;
+    margin-left:-15px;

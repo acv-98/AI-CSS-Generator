@@ -1,0 +1,2 @@
+	border-bottom: 2px solid #b1ebb5;
+	padding: 0.5em 0 1em 0;

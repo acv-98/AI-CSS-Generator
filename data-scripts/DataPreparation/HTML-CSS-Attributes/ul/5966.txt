@@ -1,0 +1,13 @@
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: 'FontAwesome';
+  content: "\f00c";
+  margin-right: 10px;
+  text-decoration: none;
+  margin-bottom: 20px;
+  color: #353535;
+  font-size: 14px;
+  text-transform: none;
+  font-weight: 600;
+  line-height: 18px;

@@ -1,0 +1,2 @@
+ display: block; padding-top:5px;display: block; width:120px; height:62px; margin:auto; padding:auto; background:url("../img/logo.png") no-repeat; text-indent:-9999px; 
+    --------------------------

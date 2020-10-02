@@ -1,0 +1,4 @@
+background-image: url(./images/surf05.jpg);	.offer {
+		min-width: 350px!important;
+		max-width: 500px!important;
+		background-color: rgba(255,255,255, .05);

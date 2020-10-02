@@ -1,0 +1,1 @@
+width:300px; float:left; background:#f3f3ee; overflow:hidden;width:280px; float:left; margin-left:20px; margin-top:114px;font-family: 'Ropa Sans', sans-serif; font-size:18px; color:#cf9359; text-transform:uppercase; font-weight:normal;color:#50453b; font-size:42px; padding-bottom:22px;

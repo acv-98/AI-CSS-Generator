@@ -1,0 +1,7 @@
+	background:url(../images/submit-btn.gif) no-repeat;
+	border:0 none;
+	display:block;
+	height:27px;
+	margin-left:130px;
+	margin-top:5px;
+	width:70px;

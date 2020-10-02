@@ -1,0 +1,7 @@
+	width:220px;
+	height:30px;
+	background: none repeat scroll 0 0 transparent;
+	border: 0 solid green;
+	color: #8B8B8B;
+	padding-left: 10px;
+	line-height:30px;

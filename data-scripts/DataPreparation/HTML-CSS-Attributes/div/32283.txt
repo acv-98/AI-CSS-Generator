@@ -1,0 +1,6 @@
+	width:99.5%;
+	float:left;
+	position:relative;
+	background-color:white;
+	height:auto;
+	border:1px solid #d5d5d5;

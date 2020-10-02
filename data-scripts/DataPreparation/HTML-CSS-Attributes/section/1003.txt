@@ -1,0 +1,7 @@
+	background: url(../images/bg/call-to-action.png);
+	background-attachment: fixed;
+	background-repeat: repeat;
+	font-size: 30px;
+	color: #ffffff;
+        font-size: 20px;
+        line-height: 35px;

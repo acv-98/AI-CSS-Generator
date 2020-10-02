@@ -1,0 +1,10 @@
+width: 100%;
+background: none;
+background-color: none;
+margin-bottom: 20px;
+border-top: 0px;
+border-left: 0px;
+border-right: 0px;
+border-bottom: 1px solid #636363;
+border-radius: 0px;
+box-shadow: 0 0px 0px rgba(0, 0, 0, 0.0) inset;

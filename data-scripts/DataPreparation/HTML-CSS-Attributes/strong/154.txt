@@ -1,0 +1,7 @@
+	display:inline-block;
+	background:url(../images/footer-logo.png) no-repeat 0 0;
+	width:100px;
+	height:31px;
+	overflow:hidden;
+	text-indent:-99em;
+	margin:-5px 0 -5px;

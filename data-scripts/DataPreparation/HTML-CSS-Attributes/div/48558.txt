@@ -1,0 +1,17 @@
+	height:81px;
+	white-space:nowrap;
+	display:block;
+	font-size:18px;
+	line-height:24px;
+	font-style:italic;
+	font-weight:bold;
+	color:#b4b4b4;
+	width:23px;
+	float:left;
+	margin-top:40px;
+	font-family: 'Great Vibes', cursive;
+	text-shadow:#a7a7a7 0 0 5px;
+	overflow:hidden;
+	padding-left:12px;
+	padding-right:10px;
+	text-align:right;

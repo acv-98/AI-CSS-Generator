@@ -1,0 +1,17 @@
+	width: 404px;
+	padding: 0 0 0 26px;
+	margin-left: 5px;
+	font-size: 24px;
+	font-weight: normal;
+	line-height: 24px;
+	background: url(../images/buttons_form_bg.png) no-repeat;
+	background-position: -26px 0px;
+	height: 56px;
+	float: left;
+	text-indent: -10000px;
+	clear: both;
+	border: 0px none;
+	margin-bottom: 14px;
+	font-family: Georgia;
+	text-align: justify;
+	border-bottom: 1px dotted #666666;

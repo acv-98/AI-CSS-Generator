@@ -1,0 +1,15 @@
+	background:-moz-linear-gradient(0% 100% 90deg, #494741, #726256 100%);
+	border-radius:5px;
+	color:#EAEAEA;
+	cursor:pointer !important;
+	display:block;
+	float:right;
+	margin:0 0 2px 10px;
+	position:relative;
+	right:0;
+	text-decoration:none;
+	text-shadow:1px 1px 0 #000000;
+	top:0;
+	width:70px;
+	height:30px;
+	background-color: #736357;

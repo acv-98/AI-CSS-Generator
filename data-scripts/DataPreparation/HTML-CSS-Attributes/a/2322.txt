@@ -1,0 +1,17 @@
+	background: #00AEEF;
+	height: 70px;
+	width: 70px;
+	display: block;
+	position: absolute;
+	text-align: center;
+	color: #FFF;
+	border-radius: 30em;
+	-moz-border-radius: 30em;
+	-o-border-radius: 30em;
+	-ms-border-radius: 30em;
+	-webkit-border-radius: 30em;
+	left: 47%;
+	bottom: -23%;
+	text-decoration:none;
+	margin-top: 1.4em;
+	font-size: 0.8125em;

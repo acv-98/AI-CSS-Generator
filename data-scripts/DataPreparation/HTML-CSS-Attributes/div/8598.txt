@@ -1,0 +1,12 @@
+	display: -webkit-box;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+		-webkit-box-pack: center; 
+		-webkit-justify-content: center; 
+		    -ms-flex-pack: center; 
+		        justify-content: center;

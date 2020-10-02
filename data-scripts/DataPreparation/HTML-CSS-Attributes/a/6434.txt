@@ -1,0 +1,2 @@
+	background:url(images/prev.gif) no-repeat 0 0;
+	right:37px;

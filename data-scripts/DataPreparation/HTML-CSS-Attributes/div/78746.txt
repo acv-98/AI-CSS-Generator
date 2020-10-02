@@ -1,0 +1,5 @@
+	position: relative;
+	color: #ccd100;
+	font-size: 28px;
+	font-weight: 600;
+	text-transform: capitalize;

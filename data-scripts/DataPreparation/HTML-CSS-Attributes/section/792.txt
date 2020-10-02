@@ -1,0 +1,6 @@
+	margin-bottom:20px;
+	border-bottom:2px solid #ededed;
+	font-size:18px;
+	text-transform:uppercase;
+	font-family: 'oswaldbold';
+	color:#000;

@@ -1,0 +1,3 @@
+ color: #fbe471; 
+ color: #ffff;  color: #ffff; #project-content{
+	margin-bottom: 54px;

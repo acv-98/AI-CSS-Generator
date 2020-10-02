@@ -1,0 +1,8 @@
+    margin: 0px 0 0;
+    font-size: 21px;
+    font-weight: 400;
+    padding: 20px 0 10px;
+    line-height: 1.5;
+    display: block;
+    margin-top: 18px;
+    max-width: 200px;

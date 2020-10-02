@@ -1,0 +1,4 @@
+	color: #C46271;
+	padding: 10px 0px 0px 0px;
+	font-size: 8pt;
+	font-style: italic;

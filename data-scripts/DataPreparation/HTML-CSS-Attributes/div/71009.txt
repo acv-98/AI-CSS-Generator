@@ -1,0 +1,11 @@
+float: right; width:300px
+#footer { font-size: .8em;
+		  width: 960px;
+		  margin: 0 auto 20px;
+		  padding: 30px 20px 50px; 
+		  clear: both; 
+		  color: #b2b5b9;
+		  background: #FFF;
+		  border: 1px solid #EAEAEA;
+		  border-bottom-left-radius: 5px;
+		  border-bottom-right-radius: 5px;

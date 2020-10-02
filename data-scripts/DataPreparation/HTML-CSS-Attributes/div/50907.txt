@@ -1,0 +1,7 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slide1-info-bg.png', sizingMethod='scale');
+	width:285px;
+	height:282px;
+	position:absolute;
+	top:10px;
+	left:10px;

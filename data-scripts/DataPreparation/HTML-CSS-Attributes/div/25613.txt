@@ -1,0 +1,7 @@
+	clear: both;
+	width: 530px;
+	padding: 20px 30px;
+	background: #fff;
+	height: 36px;
+	margin-bottom: 20px;
+	float: left;

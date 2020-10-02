@@ -1,0 +1,25 @@
+	padding: 70px 30px 60px 50px;
+	float: left;
+    width: 100%;
+    background-image: url(../images/banner-bg-about.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: 7px solid #a92446;
+    min-height: 320px;
+    background-color: white;
+    background-position: bottom right;
+	margin: 45px 0px;
+	position: relative;
+	width: 55%;
+	color: #000;
+	text-align: left;
+	right: 0;
+	top: 0px; 
+	left: 0;
+	text-shadow: none;
+		width: 43%;
+ padding: 70px 30px 60px 30px;  padding-top: 100px; 		float: none;
+		margin: 0 auto;
+		padding-top: 30px;
+	padding: 20px; 	.banner-main-home-text {
+		padding-right: 25px;

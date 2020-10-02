@@ -1,0 +1,11 @@
+    max-width: 300px;
+    margin-top: 15px;
+    line-height: 21px !important;
+    position: relative;
+    width: 90%;
+    height: 40px;
+    border-radius: 500px 0 0 500px;
+    padding: 0;
+    background: #3ac5c8 !important
+        border-radius: 0;
+        display: none;

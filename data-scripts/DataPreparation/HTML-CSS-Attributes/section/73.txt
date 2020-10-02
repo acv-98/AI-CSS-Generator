@@ -1,0 +1,2 @@
+    background: url(../images/pricingbg.jpg) no-repeat 100% 100%;
+    background-size:cover;

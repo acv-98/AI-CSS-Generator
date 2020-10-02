@@ -1,0 +1,5 @@
+  position: relative;
+  display: block;
+  float: left;
+  margin-right: 0;
+    float: none;

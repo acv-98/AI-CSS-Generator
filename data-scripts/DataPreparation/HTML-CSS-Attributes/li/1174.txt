@@ -1,0 +1,38 @@
+ border-color: #dfdcdc;  border-color: #cccccc;  font-size: 12px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  color: #6c6d03;  margin-bottom:20px !important;  position:static !important; margin-top:20px;  width: 97.9% !important; 
+ margin-bottom: 0px !important;  margin: 20px  margin-bottom: 20px;  min-height: 0px;  margin-bottom: 30px     margin-bottom: 20px;
+    clear: left;
+ color: #f29a03 padding-bottom: 5px; border-bottom: 1px solid #CFCFCF;  margin-bottom: 0;  margin-top: 0;     bottom: 25%;
+    color: white;
+    display: block;
+    font-family: 'Maven Pro',sans-serif;
+    font-size: 16px;
+    line-height: 15px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+	bottom: 12%;
+	color: white;
+	font-size: 11px;
+	line-height: 15px;
+	margin-bottom: 0px;
+ width: 48%;  color: #fff !important; text-align: right; font-size: 14px; margin: 0 10px 0 0;  margin:0 color: white; margin: 5px 10px 0 0; font-size: 11px;   font-size: 11px;  float: none !important; padding-right: 5px;  color: #fc9a00  color: #acaa0dh2.section-portfolio-title {
+    min-width: 380px;
+    background-color: rgb(240,240,240);
+    padding-bottom: 30px;
+    padding-right: 40px;
+ background: url('../portfolios/libra/images/loading_660.gif') no-repeat center; .section-portfolio-classic .work-thumbnail img.work-loading,
+ outline: 1px solid #DFDCDC; border-color: #fff; min-height: 350px  outline: none;  border: 6px solid #fff; min-height: auto  margin-bottom: 0  min-height: 250px;  margin-left: -10px;  margin-top: 0 !important; color: #676768; font-size: 14px; font-weight: 700; margin-top: 7px;  display: none  margin-left: -20px;  min-height: 280px;  min-height: 200px;  padding: 15px 0 0 0;  width: 100% !important;  height: 130px !important;  height: 55px !important;  list-style: none; margin: 0; padding: 0; clear: both  float: left; list-style: none;.section-portfolio-classic .work-projects a.img {
+    border: 1px solid #e3e1e1;
+    opacity: .6;
+    -moz-transition: opacity 1s ease .1s;
+    -webkit-transition: opacity 1s ease .1s;
+    -o-transition: opacity 1s ease .1s;
+    transition: opacity 1s ease .1s;
+ border: 1px solid #bbd140; opacity: 1 .section-portfolio-classic .work-projects  {
+ clear: both  margin: 0; padding-top: 30px;  position: relative; padding-left: 45px; line-height: 35px; width: 80%; background: rgba(179,177,177,.18); list-style: none; margin-bottom: 7px  position: absolute; left: 0; margin-right: 10px; text-align: center; background: #dcdcdc; display: block; width: 35px; overflow: hidden; float: left;  background: #dcdcdc; @media (min-width: 980px) and (max-width: 1199px) {
+ margin-left: -20px;  min-height: 280px;  min-height: 200px;  height: 104px !important;  height: 46px !important;     .section-portfolio-slider,
+ margin-left: -20px;  min-height: 210px;  min-height: 150px;  height: 76px !important;  height: 34px !important;         padding-bottom: 0;
+        padding-right: 0;
+        background: none;
+ min-height: auto;   margin-left: 0     .section-portfolio-classic .work-projects.span9 .row .caroufredsel_wrapper,
+ height: 76px !important;  width: 104px !important; margin: 0 10px 0 0; 

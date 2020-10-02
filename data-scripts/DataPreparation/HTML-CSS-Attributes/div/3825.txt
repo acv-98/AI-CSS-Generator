@@ -1,0 +1,11 @@
+    color: #fd6802;
+    font-size: 37px;
+    vertical-align: middle;
+    margin-right: 12px;
+    padding: 30px;
+    position: relative;
+    background: #393939;
+    border: 1px solid #393939;
+	-webkit-border-radius: 25px 0px 25px 0px;
+	-moz-border-radius: 25px 0px 25px 0px;
+	border-radius: 25px 0px 25px 0px;

@@ -1,0 +1,13 @@
+  color: #a5d549;
+    color: #a5d549;
+  background-color: #a5d549;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 15px; 
+  border-color: transparent;
+  padding: 30px 15px;
+  text-transform: uppercase;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+font-size: 18px;font-size: 12px;padding: 30px 9px;padding: 10px 20px;margin-bottom: 8px;margin-top: 8px;

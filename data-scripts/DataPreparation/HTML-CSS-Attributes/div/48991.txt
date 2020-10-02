@@ -1,0 +1,6 @@
+        font-size: 35px;
+        text-align: center;
+    margin-top: 240px;
+    color :#fff;
+    margin-bottom: 45px;
+    font-family: 'lorabold';

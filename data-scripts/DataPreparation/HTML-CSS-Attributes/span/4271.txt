@@ -1,0 +1,14 @@
+	float:left;
+	margin-top:-4px;
+	width:110px;
+	height:95px;
+	background:url(../images/bg_dropcap.png) 0 0 no-repeat;
+	margin-right:7px;
+	font-size:48px;
+	color:#fff;
+	line-height:1.2em;
+	text-align:center;
+	font-weight:bold;
+	letter-spacing:-4px;
+	padding-top:15px;
+	display:block;

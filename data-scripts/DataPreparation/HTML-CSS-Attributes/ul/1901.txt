@@ -1,0 +1,8 @@
+    color: #717f86;
+    font-size: 14px;
+    font-weight: 700;
+	padding: 0px;
+	margin: 10px 5px;
+    background: none !important;
+    outline: none;
+        text-align: center;

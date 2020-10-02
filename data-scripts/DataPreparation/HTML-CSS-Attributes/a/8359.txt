@@ -1,0 +1,8 @@
+	position:absolute;
+	top:4px;
+	right:4px;
+	width:7px;
+	height:7px;
+	background:url(images/close-btn.gif) no-repeat 0 0;
+	display:block;
+	z-index:10;

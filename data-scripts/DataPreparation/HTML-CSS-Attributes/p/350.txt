@@ -1,0 +1,6 @@
+  width: 65%;
+  float: right;
+  text-align: right;
+    width: 100%;
+    text-align: left;
+    float: left;

@@ -1,0 +1,5 @@
+  width: 100%;
+  color: #464a4c;
+  text-align: inherit;
+  text-decoration: none;
+  background-color: #f7f7f9;

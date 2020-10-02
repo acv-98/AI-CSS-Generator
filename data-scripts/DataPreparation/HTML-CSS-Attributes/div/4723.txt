@@ -1,0 +1,10 @@
+	margin:0 auto;
+	padding:0;
+	width:968px;
+	background:top repeat-x;
+	height:320px;
+	float:left;
+	font:bold 26px Arial, Helvetica, sans-serif;
+	color:#fcfdfe;
+	line-height:1.8em;
+	font-weight:bold;

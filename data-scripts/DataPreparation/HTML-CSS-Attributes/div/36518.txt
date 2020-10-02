@@ -1,0 +1,14 @@
+  vertical-align: middle;
+  text-align: center;
+  color: #ffffff;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  font-size: 40px;
+  font-weight: normal;
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.08);
+    font-size: 30px;
+  letter-spacing: 4px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  padding-bottom: 20px;
+  position: relative;
+    letter-spacing: 3px;

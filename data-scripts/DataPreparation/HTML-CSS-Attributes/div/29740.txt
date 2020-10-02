@@ -1,0 +1,6 @@
+margin-bottom:30px;
+*  CSS3                                                                                                    
+#header nav li a, #header nav li a span, #twitterBar .remove:hover{
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;

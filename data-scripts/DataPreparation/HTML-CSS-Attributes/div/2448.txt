@@ -1,0 +1,13 @@
+	padding:0;
+	margin:0;
+	background:url(../images/header_bg.gif) repeat-x left 554px;
+	float:left;
+	width:620px;
+	margin-bottom:0;
+	padding-bottom:8px;
+	font-size:30px;
+	line-height:1.2em;
+	color:#353c3e;
+	font-weight:normal;
+	text-decoration:underline;
+	border:1px solid #dedede;

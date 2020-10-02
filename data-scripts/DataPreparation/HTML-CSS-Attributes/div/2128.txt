@@ -1,0 +1,18 @@
+  color: #dcd2be;
+  background: #2d2d2d;
+  position: absolute;
+  width: 50px;
+  height: 37px;
+  top: 15px;
+  left: -23px;
+  display: block;
+  padding-top: 13px;
+  font-family: 'Voltaire', Arial, sans-serif;
+  line-height: 1em;
+  -moz-border-radius: 60px 60px 60px 60px;
+  -webkit-border-radius: 60px 60px 60px 60px;
+  border-radius: 60px 60px 60px 60px;
+  box-shadow: 4px 4px 0 0 rgba(0, 0, 0, 0.2);
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 3px;

@@ -1,0 +1,14 @@
+  margin-left: -35px;
+  margin-bottom:35px;
+  float: none;
+  width:252px;
+  height:142px;
+  font-size: 10px;
+  line-height: 20px;
+  padding: 0 5px;
+margin-left: -15px;.single_work{float: left;
+background:url(images/work_bg.png) repeat scroll 0 0 #222;
+position:absolute;bottom:0;color:#fff;padding:5px;.single_work h2{background: none repeat scroll 0 0 #ffd500;
+top: 0;
+font-family: oswald;
+background:#f5f5f5;padding:10px;

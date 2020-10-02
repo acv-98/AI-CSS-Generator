@@ -1,0 +1,11 @@
+	width:590px;
+	height: auto;
+	background-color: #FFF;
+	overflow: hidden;
+	margin: 10px 0;
+	border: 1px solid #dedede;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding: 20px;
+	line-height: 22px;

@@ -1,0 +1,9 @@
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	float: right;
+	width: 24px;
+	height: 24px;
+	display: block;
+	background: url(../images/socials.png) 0 0 no-repeat;
+	opacity: 0.5;
+	background-position: -35px 0;
+	margin-left: 11px;

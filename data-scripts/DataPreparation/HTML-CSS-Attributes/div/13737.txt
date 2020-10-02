@@ -1,0 +1,5 @@
+	margin:0 auto;
+	padding:7px;
+	width:956px;
+	background-color:#ddd5ba;
+	border:1px solid #bcb99c;

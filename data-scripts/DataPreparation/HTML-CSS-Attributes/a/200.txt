@@ -1,0 +1,9 @@
+	display:block;
+	width:20px;
+	height:20px;
+	text-indent:-5000px;
+	background:url(../images/search-icon.png) left top no-repeat;
+	position:absolute;
+	right:9px;
+	top:9px;
+	background-position:left bottom;

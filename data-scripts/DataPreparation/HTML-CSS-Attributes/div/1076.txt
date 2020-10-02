@@ -1,0 +1,10 @@
+        max-height: 330px;
+        min-height: 330px;
+    position: relative;
+    left: 0;
+    top:0;
+    width:100%;
+    float: left;
+    color: #fff;
+    padding: 55px 0px 0px 60px;
+    text-align: right;   

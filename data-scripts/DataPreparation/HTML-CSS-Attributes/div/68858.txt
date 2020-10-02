@@ -1,0 +1,6 @@
+	border-top: 1px solid #fafafa;
+	padding: 50px 0 20px;
+	color: #444;
+	font-size: 14px;
+		float: none;
+		text-align: center;

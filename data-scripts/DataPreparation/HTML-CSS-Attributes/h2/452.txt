@@ -1,0 +1,8 @@
+	position: relative;
+	margin-bottom: 100px;
+	content: '';
+	height: 5px;
+	width: 40px;
+	background-color: #62aa94;
+	top: 81px;
+	left: calc(50% - 20px);

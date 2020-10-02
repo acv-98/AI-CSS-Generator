@@ -1,0 +1,8 @@
+	display: none;
+	height: 23px;
+	width: 23px;
+	line-height: 18px;
+	background-repeat: no-repeat;
+	background-position: -20px 0px;
+	vertical-align: super;
+	cursor: pointer;

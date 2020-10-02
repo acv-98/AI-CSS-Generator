@@ -1,0 +1,4 @@
+	background-color:#8e4fa7;
+	text-align:center;
+	padding:25px 0;
+	border-radius: 0 0 4px 4px;

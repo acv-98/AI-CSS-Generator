@@ -1,0 +1,4 @@
+	background-color:#f6f6f6;
+	margin-top:30px;
+	margin-bottom:30px;
+	padding:30px;

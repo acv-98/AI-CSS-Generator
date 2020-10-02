@@ -1,0 +1,7 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/bl-corner.png', sizingMethod='image');
+	color:#056da8;
+	text-decoration:underline;
+	position:absolute;
+	top:255px;
+	left:0;

@@ -1,0 +1,24 @@
+	display:block;
+	padding:0px;
+	margin-bottom:0;
+	list-style-type:none;
+	height:auto;
+	cursor:pointer;
+	border:1px solid #fff;
+	width:24.8%;
+	position:relative;
+	overflow:hidden;
+	 width:100% !important;
+	 height:auto;
+	 display:block;
+	visibility:visible;
+	left:0px;
+	bottom: 0px;
+	
+	background: rgba(76, 64, 78, 0.9);
+	transition-duration: 0.2s;
+	-webkit-transition-duration: 0.2s;
+	padding-top:7px;
+	right:0%;
+		width:49%;
+		min-height: 85px;		

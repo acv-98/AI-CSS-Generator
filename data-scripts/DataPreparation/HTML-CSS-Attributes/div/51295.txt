@@ -1,0 +1,1 @@
+ padding-bottom: 16px;  float: left; width: 172px;  padding-left: 76px;   list-style: none; list-style-position: outside; font-size: 11px;  padding-bottom: 11px;  color: #4a4949;  color: #5b5a5a; 

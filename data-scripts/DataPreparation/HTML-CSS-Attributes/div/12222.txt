@@ -1,0 +1,12 @@
+   position: absolute;
+   top: 12px;
+   left: 18px;
+   margin: 0;
+   padding: 0;
+   width: 60px;
+   height: 60px;
+   -moz-border-radius: 100% 100% 100% 100%;
+	-webkit-border-radius: 100% 100% 100% 100%;
+	-khtml-border-radius: 100% 100% 100% 100%;
+	border-radius: 100% 100% 100% 100%;
+      display: none;

@@ -1,0 +1,7 @@
+  float: left;
+  padding: 6em 0;
+  width: 75%;
+  padding-right: 40px;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;

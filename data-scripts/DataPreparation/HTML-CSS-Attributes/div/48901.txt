@@ -1,0 +1,9 @@
+	width:988px;
+	height:81px;
+	margin:0;
+	padding-top:13px;
+	padding-left:30px;
+	float:left;
+	font-size:13px;
+	text-shadow:1px 1px 1px #fff;
+	color:#5191B2;

@@ -1,0 +1,2 @@
+ color:#fff; background:#00f url(images/menu_a.gif) repeat-x top;
+ color:#fff; background-color:#1497c1;

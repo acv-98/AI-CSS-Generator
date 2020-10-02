@@ -1,0 +1,6 @@
+width:235px;
+margin:0px;
+text-align:center;
+padding:12px 0px 10px 0px;
+background:#A69C79;
+border-bottom:1px solid #968B67;

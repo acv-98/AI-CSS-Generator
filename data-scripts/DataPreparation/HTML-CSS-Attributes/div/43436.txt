@@ -1,0 +1,1 @@
+width:284px; padding:0 6px 0 0; margin:0 0; float:right; text-align:right;background:url(../images/gallery_btn_over.png) 0 0 no-repeat; color:#fff;

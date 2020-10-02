@@ -1,0 +1,6 @@
+	font-family: "raleway-bold", sans-serif;
+	font-size: 5rem;
+	line-height: 1;
+	margin-bottom: .6rem;
+	top: -1.5rem;
+	margin-right: 3px;

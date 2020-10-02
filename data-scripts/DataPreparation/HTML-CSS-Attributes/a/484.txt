@@ -1,0 +1,8 @@
+	position: absolute;
+	float: left;
+	z-index: 999;
+	width:124px;
+	height: 124px;
+	padding-top: 9px;
+	top:0px;
+     transform: scale(0.5);

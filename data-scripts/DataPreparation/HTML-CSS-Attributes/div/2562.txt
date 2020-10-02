@@ -1,0 +1,9 @@
+	outline: none;
+	padding: 0 0 10px 0;
+	background:#dbcab6 url(../images/bg/caption1.png) repeat;
+	border-top:1px solid #e8ded1;
+	display: none;
+	-webkit-backface-visibility: hidden;
+.flexslider .slides img {
+	position: relative;
+	zoom: 1;

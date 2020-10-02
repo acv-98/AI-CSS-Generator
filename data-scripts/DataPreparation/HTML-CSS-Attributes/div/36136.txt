@@ -1,0 +1,4 @@
+    margin-top: 35px;
+    padding: 35px 0 35px 0;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;

@@ -1,0 +1,1 @@
+ width: 951px; height: 27px; position: absolute; bottom: -27px; left: 0; background: url(images/slider-shadow.png) no-repeat 0 0; z-index: 20; 

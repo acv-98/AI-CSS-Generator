@@ -1,0 +1,7 @@
+	float: none;
+	margin: 0 auto;
+	text-align: center;
+	display: inline-block;
+	padding: 15px 0px;
+	color: #09294c;
+	font-size: 18px;

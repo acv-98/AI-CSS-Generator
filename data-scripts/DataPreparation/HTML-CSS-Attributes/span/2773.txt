@@ -1,0 +1,9 @@
+	border: 2px solid #a5d549;
+	color: #a5d549;
+	font-size: 30px;
+	margin-bottom: 20px;
+	display: inline-block;
+	border-radius: 50%;
+	width: 75px;
+	height: 75px;
+	line-height: 75px;

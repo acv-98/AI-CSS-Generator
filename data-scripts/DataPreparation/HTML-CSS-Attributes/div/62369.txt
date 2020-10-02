@@ -1,0 +1,13 @@
+    width: 10px;
+    height: 10px;
+    margin: 20px auto;
+    background: #e74c3c;
+    position: relative;
+    display: inline-block;
+    border-radius: 50%;
+    left:5%;
+    bottom:4px;
+    content:"";
+    margin-left: 20px;
+    right: 5%;
+    margin-right: 20px;

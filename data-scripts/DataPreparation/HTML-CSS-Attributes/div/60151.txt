@@ -1,0 +1,11 @@
+	display: none;
+	margin: 15px 0 0 80px;
+	background:#d1f7b6;
+	border:1px solid #8bca61;
+	color:#5e9537;
+	clear:both;
+	text-shadow: none;
+	padding: 15px 15px 13px 15px;
+	line-height: 17px;
+	width: 370px;
+	font-size: 12px;

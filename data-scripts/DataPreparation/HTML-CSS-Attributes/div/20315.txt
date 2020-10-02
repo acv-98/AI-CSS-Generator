@@ -1,0 +1,1 @@
+ display:inline; float:left; height:92px; margin-top:40px; overflow:hidden; width:100%; margin-bottom:10pxborder-bottom:2px solid #ffa500; border-top:2px solid #ffa500

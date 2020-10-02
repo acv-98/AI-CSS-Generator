@@ -1,0 +1,6 @@
+	width:280px;
+	float:left;
+	border-top:#606060 1px solid;
+	line-height:22px;
+	margin:25px 0px 0px 40px;
+	padding:10px 0px 0px 0px;

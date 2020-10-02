@@ -1,0 +1,4 @@
+	font-size:0.93em;
+	max-width: 450px;
+	margin:0 auto;
+        padding-top:10px;

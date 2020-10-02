@@ -1,0 +1,3 @@
+		float:right;
+		color:#555;
+		font-size:0.8125em;

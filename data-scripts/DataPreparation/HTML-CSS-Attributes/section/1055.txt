@@ -1,0 +1,1 @@
+ background-image: url(../img/image-02.jpg); 

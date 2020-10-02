@@ -1,0 +1,8 @@
+ background-image: url('../img/tm-contact-img.jpg'); 
+.tm-about-img-container,
+.tm-blog-img-container,
+.tm-contact-img-container {
+	background-size: auto 200px;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 200px;

@@ -1,0 +1,1 @@
+	background: url('../images/icons/project.png') 10% center no-repeat

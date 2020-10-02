@@ -1,0 +1,25 @@
+-webkit-tap-highlight-color:transparent;position:relative
+ @media only screen and (min-width: 992px) and (max-width: 1199px) {
+     nav.navbar.bootsnav ul.nav > li > a{
+         padding-top: 10px;
+		 padding-bottom: 10px;
+		 padding-left: 10px;
+		 padding-right: 30px;
+     background: #000000;
+     position: absolute;
+     z-index: 1;
+     display: block;
+     height: 100%;
+     width: 50px;
+     line-height: 0px;
+     font-size: 24px;
+     cursor: pointer;
+     color: #ffffff;
+     top: 0;
+     margin-top: 0;
+     opacity: 1;
+     left: 0px;
+     -webkit-transition: all 0.3s ease;
+     -o-transition: all 0.3s ease;
+     transition: all 0.3s ease;
+     right: 0px;

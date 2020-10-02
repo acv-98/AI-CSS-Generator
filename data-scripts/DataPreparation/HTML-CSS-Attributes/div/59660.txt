@@ -1,0 +1,7 @@
+  margin-left: 10px;
+  width: 230px;
+  float: none;
+  margin-bottom: 20px;
+color:#FFD500;color:#ddd;.single_footer_top ul li a{background: none repeat scroll 0 0 #000;
+display: block;
+background:#FFD500;color:#000;

@@ -1,0 +1,5 @@
+	font-size: 13pt;
+	letter-spacing: 0;
+	padding: 10px 0px 40px 0px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #1086d3;

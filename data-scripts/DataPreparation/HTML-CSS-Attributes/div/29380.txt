@@ -1,0 +1,7 @@
+	behavior:url("../js/PIE.htc");
+	position:relative
+	border-radius:7px 7px 0 0;
+	background:url(../images/box-1-bg.gif) no-repeat center 0 #fff;
+	padding:22px 25px 11px 25px;
+	width:950px;
+	margin:0 auto;

@@ -1,0 +1,1 @@
+background:url(images/fashion.gif); width:155px; height:34px; float: left; text-indent: -4000px; line-height: 0; font-size: 0; margin:16px 0 0 20px; text-align: left;

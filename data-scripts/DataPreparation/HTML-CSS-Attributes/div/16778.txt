@@ -1,0 +1,15 @@
+	width:950px;
+	height:168px;
+	position:relative;
+	padding-top:66px;
+	font-size:26px;
+	line-height:33px;
+	color:#85a09d;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:800;
+	text-align:center;
+	text-transform:uppercase;
+	letter-spacing:-1px;
+	display:block;
+	margin-top:-4px;
+	background:url(../images/header-bg.jpg) 0 -54px no-repeat;

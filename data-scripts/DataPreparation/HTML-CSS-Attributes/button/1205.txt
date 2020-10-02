@@ -1,0 +1,13 @@
+    background: transparent;
+    border: none;
+    padding: 15px;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+    cursor: pointer;
+    z-index: 99999;
+        padding: 15px 0;
+    outline: 0;
+    background-color: #555;

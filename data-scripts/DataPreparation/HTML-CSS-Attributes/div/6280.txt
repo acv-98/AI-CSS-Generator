@@ -1,0 +1,2 @@
+	background-image:url(../images/line_vert2.gif)
+	background-position:282px 0

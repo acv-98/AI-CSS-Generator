@@ -1,0 +1,12 @@
+	display:inline-block;
+	*display:inline;
+	*zoom:1;
+	padding:12px 22px;
+	background:#333;
+	color:#FFF;
+	-webkit-transition:all .3s ease;
+	-moz-transition:all .3s ease;
+	transition:all .3s ease;
+	border:none;
+	text-decoration:none !important;
+	margin-right:8px;

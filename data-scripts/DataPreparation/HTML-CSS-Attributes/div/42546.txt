@@ -1,0 +1,18 @@
+  display: block;
+  position: relative;
+  overflow: hidden;
+  background-color: #2f2f2f;
+  -webkit-transition: background-color 0.4s;
+  -moz-transition: background-color 0.4s;
+  -o-transition: background-color 0.4s;
+  transition: background-color 0.4s;
+	background-image:url(../img/zoom.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	position: relative;
+  opacity: 10;
+  filter: alpha(opacity=4000);

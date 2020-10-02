@@ -1,0 +1,2 @@
+	background: url(go.png) top left no-repeat;
+	padding-left: 16px;

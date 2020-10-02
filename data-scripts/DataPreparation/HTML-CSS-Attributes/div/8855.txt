@@ -1,0 +1,15 @@
+	margin: auto;
+	width: 950px;
+	padding: 40px 0;
+	font-size: 15px;
+	line-height: 30px;
+	text-align: left;
+	float: left;
+	margin-bottom: 20px;
+	font-style: italic;
+	color: #c23323;
+	padding-top: 10px;
+	height: 25px;
+	border: 1px solid #d9d9d9;
+	font-family: Arial, Verdana;
+	background: #d9d9d9;

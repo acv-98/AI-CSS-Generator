@@ -1,0 +1,8 @@
+	position:absolute;
+	padding:0;
+	margin:0;
+	padding-top:18px;
+	display:inline;
+	padding-right:5px;
+	width:24px;
+	height:26px;

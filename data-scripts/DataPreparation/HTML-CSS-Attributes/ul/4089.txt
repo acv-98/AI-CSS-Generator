@@ -1,0 +1,5 @@
+	padding-bottom:22px
+	line-height:33px;
+	border-bottom:1px solid #1d1d1d;
+	font-weight:bold
+	float:right;

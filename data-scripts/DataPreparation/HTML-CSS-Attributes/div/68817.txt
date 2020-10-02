@@ -1,0 +1,18 @@
+	padding:0;
+	margin:0;
+	background:url(../images/header_bg.jpg) repeat-x left top;
+	float:left;
+	width:620px;
+	margin-bottom:0;
+	padding-bottom:8px;
+	font-size:30px;
+	line-height:1.2em;
+	color:#3f3f3f;
+	border:none;
+	border-bottom:1px solid #d1d1d1;
+	font-weight:normal;
+	text-decoration:none;
+	padding-left:4px;
+	height:28px;
+	text-transform:none;
+	text-align:center;

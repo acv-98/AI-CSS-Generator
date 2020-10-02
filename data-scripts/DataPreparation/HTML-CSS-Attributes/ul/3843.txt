@@ -1,0 +1,5 @@
+	display: block;
+	padding: 7px 0;
+	border-bottom: 1px dotted #666666;
+	color: #505050;
+	text-decoration: underline;

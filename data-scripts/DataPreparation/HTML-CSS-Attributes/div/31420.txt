@@ -1,0 +1,10 @@
+	width:33.33%;
+		float:left;
+	text-align:center;
+	border-left:1px solid rgba(255,255,255,0.3);
+	border-top:1px solid rgba(255,255,255,0.3);
+	padding:35px 25px;
+background:rgba(255,255,255,0.2);.boxservice i {
+	font-size:4em;
+	margin:0 0 0.1em 0;
+width:100%;border:1px solid rgba(255,255,255,0.3);

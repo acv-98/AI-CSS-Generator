@@ -1,0 +1,8 @@
+  background: #fff;
+  margin: 15px 0;
+  text-align: left;
+  display: block;
+  margin-top: 10px;
+  height: 1px;
+  width: 280px;
+  content: '';

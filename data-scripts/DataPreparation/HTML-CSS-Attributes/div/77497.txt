@@ -1,0 +1,3 @@
+	background: url(uploads/count-bg.jpg) no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;

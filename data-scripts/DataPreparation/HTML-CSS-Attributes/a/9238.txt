@@ -1,0 +1,1 @@
+background:url('images/more.png') no-repeat;border-left-width:0px;bottom:0;height:20px;position:absolute;right:0;width:20px;text-indent:-9999px;

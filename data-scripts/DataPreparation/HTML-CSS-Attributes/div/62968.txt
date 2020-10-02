@@ -1,0 +1,7 @@
+	margin:0 auto;
+	padding:0 40px;
+	width:890px;
+	background-color:#fff;
+	border-radius:12px;
+	-moz-border-radius:12px;
+	-webkit-border-radius:12px;

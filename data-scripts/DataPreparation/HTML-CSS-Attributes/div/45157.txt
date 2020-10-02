@@ -1,0 +1,6 @@
+  bottom: 6px;
+  color: #e6e8ea;
+  content: "______________________";
+  position: relative;
+  left: 10px;
+  right: 10px;

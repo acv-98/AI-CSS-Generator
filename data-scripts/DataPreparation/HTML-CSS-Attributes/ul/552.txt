@@ -1,0 +1,6 @@
+	margin-top: 8%;
+	display: inline-block;
+	width: 49%;
+	vertical-align: middle;
+		padding: 0;
+		width:100%;

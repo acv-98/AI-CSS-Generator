@@ -1,0 +1,1 @@
+position:absolute;bottom:0;color:#fff;padding:5px;

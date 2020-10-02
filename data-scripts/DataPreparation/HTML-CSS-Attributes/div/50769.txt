@@ -1,0 +1,12 @@
+	float:right;
+	width:232px;
+	height:40px;
+	background:url('images/social-bg.gif') no-repeat 0 bottom;
+	padding-top:2px;
+	list-style-type:none;
+	padding-left:61px;
+	display:inline;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	background-position:-32px 0;

@@ -1,0 +1,4 @@
+ content: "\f115"; 
+ul.the-icons {
+	list-style:none;
+	margin-left:0;

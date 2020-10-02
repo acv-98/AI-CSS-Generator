@@ -1,0 +1,10 @@
+	list-style:none;
+	margin:0;
+	margin-left: 0;
+	padding-left:0;
+	
+	display:inline-block;
+	background:#eee;
+	color:#333;
+	text-decoration:none;
+	background-color:#36CBD4;

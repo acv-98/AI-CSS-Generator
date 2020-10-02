@@ -1,0 +1,6 @@
+	position:absolute;
+	bottom:-13px;
+	width:541px;
+	height:23px;
+	background:transparent url(../images/large-shadow.png) no-repeat;
+	z-index:-10000;

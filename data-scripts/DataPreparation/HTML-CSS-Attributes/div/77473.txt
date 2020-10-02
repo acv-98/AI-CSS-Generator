@@ -1,0 +1,8 @@
+	margin-top: 0;
+	line-height: 28px;
+	font-size: 22px;
+	text-align: center;
+	font-weight: normal;
+	font-family: 'MidoMedium';
+	color: #626262;
+	margin-bottom:60px;

@@ -1,0 +1,4 @@
+	clear:both;
+	background:url(../images/line.png) no-repeat;
+	height:2px;
+	padding-top:52px

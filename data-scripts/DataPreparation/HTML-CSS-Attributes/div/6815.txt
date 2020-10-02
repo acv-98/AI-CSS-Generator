@@ -1,0 +1,6 @@
+	width:100%;
+	text-align:center;
+	color:#5fa1c7;
+	height:60px;
+	background:url(../images/top-bg.png);
+ text-decoration:none; color:#ffffff;

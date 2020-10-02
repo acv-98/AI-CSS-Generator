@@ -1,0 +1,9 @@
+    font-size: 50px;
+    line-height: 50px;
+    color: #5d5d5d;
+ vertical-align: middle; .service h3 {
+    margin-top: 13px;
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 rgba(255,255,255,.7);

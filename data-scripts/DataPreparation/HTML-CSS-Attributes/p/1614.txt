@@ -1,0 +1,8 @@
+ margin-bottom: 45px; 
+#tm-section-1,
+.tm-section-1-inner,
+.tm-site-name,
+.tm-intro-text {
+	-ms-flex: 0 1 auto;
+		-webkit-flex: 0 1 auto;
+	        flex: 0 1 auto;

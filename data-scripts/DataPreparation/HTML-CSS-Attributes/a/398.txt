@@ -1,0 +1,22 @@
+	width:32px;
+	height:32px;
+	border:1px solid #fff;
+	text-align:center;
+	color:#fff;
+	font-weight:normal;
+	position:absolute;
+	right:0;
+	top:20px;
+	padding:0;
+	margin:
+	-webkit-border-radius:50%;
+	-moz-border-radius:50%;
+	border-radius:50%;
+	background:none;
+	font-size:14px;
+	line-height:32px;
+	border-color:#000;
+		width:28px;
+		height:28px;
+		top:25px;
+		line-height:25px;

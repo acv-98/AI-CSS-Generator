@@ -1,0 +1,18 @@
+	display: inline;
+	float: left;
+	width: 100%;
+	text-align: center;
+	background: transparent;
+	border-radius: 0;
+	color: #333;
+	font-size: 15px;
+	border-style: none none solid none;
+	height: 45px;
+	margin-bottom: 24px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	padding: 10px;
+	background-color: #fff;
+    outline: 0;
+    box-shadow: none;    

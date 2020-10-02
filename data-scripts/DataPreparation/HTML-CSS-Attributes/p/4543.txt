@@ -1,0 +1,5 @@
+	float:left;
+	width:55px;
+	margin-right:10px;
+	background:#706a5f;
+	padding:5px;

@@ -1,0 +1,7 @@
+	margin-bottom: 25px;
+	background: transparent;
+	border-radius: 5px;
+	color: #333;
+	font-size: 15px;
+	height: 45px;
+	padding: 10px;

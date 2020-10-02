@@ -1,0 +1,13 @@
+    width: 40%;
+    margin: 0 auto;
+    background: #e67e22;
+    color:#fff;
+    text-transform: capitalize;
+    border: 0px none;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 17px;
+    transition:all 0.5s ease 0s;
+    content: "\f07a";
+    font-family:'FontAwesome'; font-weight: 900;
+    margin-right: 10px;

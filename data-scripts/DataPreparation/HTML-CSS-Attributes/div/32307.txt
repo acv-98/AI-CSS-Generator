@@ -1,0 +1,5 @@
+	width:100%;
+	float:left;
+	text-align:left;
+	color:#999;
+	padding:10px 0px;

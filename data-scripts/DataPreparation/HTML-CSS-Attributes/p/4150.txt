@@ -1,0 +1,10 @@
+  width: 80%;
+  margin: 0 auto;
+  font-size: 28px;
+  font-weight: 300;
+  line-height: 38px;
+  margin-top: 20px;
+  display: block;
+  font-style: normal;
+    font-size: 20px;
+    width: 100%;

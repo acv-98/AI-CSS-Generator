@@ -1,0 +1,10 @@
+  color: #00a8cc;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 2px;
+  padding: 1px 5px 1px 0;
+  font-size: 10px;
+  line-height: 1;
+  text-transform: uppercase;
+  text-align: center;

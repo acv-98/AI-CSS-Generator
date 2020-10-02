@@ -1,0 +1,14 @@
+	position: relative;
+	background: #1c1c1c;
+	width: 50%;
+	float: left;
+	margin-bottom: 40px;	
+	max-width: 700px;
+	padding: 80px 20px 40px 40px;	
+	font-size: 36px;
+	line-height: 1px;
+	color: #01b1d7;	
+	text-align: right;
+	border-bottom: 2px solid #01b1d7;
+	padding-bottom: 5px;
+		padding: 200px 20px 100px 20px;	

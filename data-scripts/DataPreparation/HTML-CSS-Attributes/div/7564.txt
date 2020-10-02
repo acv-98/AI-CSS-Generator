@@ -1,0 +1,7 @@
+	font-weight: normal;
+	font-family: Helvetica, Arial, sans-serif, serif;
+	font-size: 2em;
+	line-height: 1.5em;
+	text-align: left;
+	letter-spacing:0;
+ font-size: 1.45em;

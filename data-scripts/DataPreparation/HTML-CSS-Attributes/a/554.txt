@@ -1,0 +1,5 @@
+        opacity: 1;
+        -webkit-animation-name: rollIn;
+           -moz-animation-name: rollIn;
+             -o-animation-name: rollIn;
+                animation-name: rollIn;

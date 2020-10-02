@@ -1,0 +1,9 @@
+	list-style:none;
+	padding:0;
+	margin:0;
+	line-height: 1.8em;
+	font-size:0.85em;
+	color: #fff;
+	text-decoration: none;
+	vertical-align:middle;
+	margin-right: 6px;

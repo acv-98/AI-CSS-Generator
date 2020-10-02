@@ -1,0 +1,14 @@
+ font-size: 14px;  display:block; padding-top:10px; width: auto;  top: 0; left: 0;  top: 0; left: 80px;  width: 74px; background-position: 0px -103px;  width: 65px; background-position: -85px -103px;  width: 79px; background-position: -152px -103px;  width: 76px; background-position: -232px -103px;  width: 78px; background-position: -310px -103px;  width: 75px; background-position: -390px -103px;  width: 76px; background-position: -466px -103px;  width: 76px; background-position: -548px -103px;  width: 77px; background-position: -623px -103px;  width: 77px; background-position: -701px -103px;  font-size: 18px; margin-bottom: 5px; margin-top: 0px; margin-left: 170px; text-align: left;  margin-left: 170px; min-height: 80px; 
+ top: 0; left: 0;		top: 0;	left: 80px;	 width: 74px;	background-position: 0px -103px;  width: 65px; background-position: -85px -103px;  width: 79px; background-position: -152px -103px;  width: 76px; background-position: -232px -103px;  width: 78px; background-position: -310px -103px;  width: 75px; background-position: -390px -103px;  width: 76px; background-position: -466px -103px;  width: 76px; background-position: -548px -103px;  width: 77px; background-position: -623px -103px;  width: 77px; background-position: -701px -103px;  font-size: 18px; margin-bottom: 5px; margin-top: 0px; margin-left: 170px; text-align: left;  margin-left: 170px; min-height: 80px;  display: none;  margin-left: 0px;     position: relative;
+    height: 103px;
+    background: url('../images/numbers.png') no-repeat;
+    top: 0;
+    right: 50%;
+    left: 50%;
+    width: 74px;
+    background-position: -1px 0px;
+    font-size: 18px;
+    margin-top: 47px;
+    margin-bottom: 65px;
+    text-align: center;
+    color: #0c243d;

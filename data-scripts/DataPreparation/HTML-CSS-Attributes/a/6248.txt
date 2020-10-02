@@ -1,0 +1,17 @@
+	background: url(../img/autumn/more-button.png) no-repeat;
+	display: block;
+	margin-left: 30px;
+	margin-bottom: 0.3em;
+	text-indent: 18px;
+	font-size: 14px;
+	line-height: 1.5em;;
+	color: #665d4e;
+	text-decoration: none;
+	font-weight: bolder;
+	
+	margin-top: 26px;
+	float: left;
+	overflow: hidden;
+	width: 68px;
+	height: 25px;
+	background-position:0px -25px;

@@ -1,0 +1,7 @@
+	float:left;
+	height:164px;
+	width:152px;
+	margin:8px 10px 2px 8px;
+	background:url(images/gallery_thumb.png) no-repeat;
+	padding-top:6px;
+	text-align:center;

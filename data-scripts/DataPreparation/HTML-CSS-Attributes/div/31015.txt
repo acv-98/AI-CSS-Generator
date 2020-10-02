@@ -1,0 +1,5 @@
+    display: inline-block;
+    margin-left: 10px;
+    overflow: hidden;
+    padding-bottom: 5px;
+ margin-left: 0; 

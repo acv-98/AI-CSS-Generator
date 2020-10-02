@@ -1,0 +1,5 @@
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    display: inline-block;

@@ -1,0 +1,12 @@
+    position: absolute;
+    top:50%;
+    right:-50px;  
+    z-index: 10;
+ 	 background-image: url("../images/sliderarrows.png");
+	width: 60px;
+	height: 60px;
+	float: left;
+	background-position: -39px 0px;
+	background-repeat: no-repeat;
+	cursor: pointer;
+		display:none;

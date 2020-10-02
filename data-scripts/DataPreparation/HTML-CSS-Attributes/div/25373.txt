@@ -1,0 +1,16 @@
+	background-color: #d3e6f8;
+	border: 1px solid white;
+	padding: 3rem;
+	max-width: 400px;	
+	color: #81b4eb;
+	margin-bottom: 2rem;
+	width: 100%;
+    max-width: 1760px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+ margin-bottom: 1.4rem; .tm-icon-text-box-description {
+	line-height: 1.8;
+	margin: 0 auto 30px; 	padding: 10%;  max-width: 800px; 	.tm-section {
+		padding-top: 5%;
+    	padding-bottom: 4%;

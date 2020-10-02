@@ -1,0 +1,7 @@
+	top: 15% !Important;	
+	position:absolute;
+	left:10%;
+	right:10%;
+	margin:0px;
+	height:730px;
+	z-index:1000;

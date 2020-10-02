@@ -1,0 +1,17 @@
+	width:580px;
+	padding:55px 0 40px 0;
+	margin-bottom:50px;
+	position:relative;
+	padding-bottom:20px;
+	padding-left:50px;
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:1.4em;
+	text-transform:capitalize;
+	color:#cecece;
+	display:block;
+	float:left;
+	font-style:italic;
+	overflow:auto;
+	height:18px;
+	right:67px;
+	bottom:10px;

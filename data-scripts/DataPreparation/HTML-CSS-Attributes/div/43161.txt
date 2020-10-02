@@ -1,0 +1,4 @@
+    height: 1px;
+    width: 127px;
+    margin: 20px auto;
+    background: #00e0d0;

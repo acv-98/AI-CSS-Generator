@@ -1,0 +1,5 @@
+  margin-bottom: 20px;
+  border-radius: 4px;
+  margin-top: 5px;
+  border-bottom: 0;
+  border-top: 1px solid #ddd;

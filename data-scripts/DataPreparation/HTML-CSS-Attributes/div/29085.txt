@@ -1,0 +1,6 @@
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 9px;
+	height: 64px;
+	background-image: url(images/nav-right.gif);

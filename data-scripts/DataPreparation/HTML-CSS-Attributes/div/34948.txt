@@ -1,0 +1,16 @@
+	left: 0;
+	top: 20%;
+    opacity: 1;
+    filter: alpha(opacity=100); 	
+-webkit-transition: all 1s cubic-bezier(0.165, 0.840, 0.440, 1.000) 0.5s; 
+   -moz-transition: all 1s cubic-bezier(0.165, 0.840, 0.440, 1.000) 0.5s; 
+    -ms-transition: all 1s cubic-bezier(0.165, 0.840, 0.440, 1.000) 0.5s; 
+     -o-transition: all 1s cubic-bezier(0.165, 0.840, 0.440, 1.000) 0.5s; 
+        transition: all 1s cubic-bezier(0.165, 0.840, 0.440, 1.000) 0.5s;
+	right:0;
+	z-index: 4;
+	-webkit-transition: all 1s cubic-bezier(0.2,0.1,0.1,0.9) 0.3s;
+	-moz-transition: all 1s  cubic-bezier(0.2,0.1,0.1,0.9) 0.3s;
+	-ms-transition: all 1s  cubic-bezier(0.2,0.1,0.1,0.9) 0.3s;
+	-o-transition: all 1s  cubic-bezier(0.2,0.1,0.1,0.9) 0.3s;
+	transition: all 1s  cubic-bezier(0.5,0.1,0.1,0.9) 0.3s;

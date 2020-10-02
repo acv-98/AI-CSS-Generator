@@ -1,0 +1,4 @@
+border-color:#131313; background:#2b2b2b; color:#fff !important;border-top:1px solid #2b2b2b;
+*  INTRO                                                                                                          
+    background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #2b2b2b), color-stop(100%, #131313)); 
+border-color:#1295d8; background:#19bee7; color:#fff !important;border-top:1px solid #19bee7;border-color:#71b800; background:#c1e000; color:#fff !important;border-top:1px solid #c1e000;border-color:#ff7100; background:#ffc200; color:#fff !important;border-top:1px solid #ffc200;border-color:#7810b3; background:#c526df; color:#fff !important;border-top:1px solid #c526df;border-color:#c80b27; background:#e81959; color:#fff !important;border-top:1px solid #e81959;

@@ -1,0 +1,4 @@
+ margin-right: 18px; 
+ padding: 0px; #logo {
+    float: left;
+    padding-bottom: 22px;

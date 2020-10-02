@@ -1,0 +1,10 @@
+	border-left:5px solid #1baab9;
+  -webkit-border-radius: 2px;
+     -moz-border-radius: 2px;
+          border-radius: 2px;
+	background:#f8f8f8;
+	padding: 30px 20px 20px 20px;
+	margin-bottom:0;
+	overflow:hidden;
+	float:left;
+	font-weight:700;

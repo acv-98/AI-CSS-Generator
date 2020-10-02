@@ -1,0 +1,3 @@
+	border-bottom:1px dashed #BBBBBC;
+	padding-bottom:10px;
+	padding-top:0px;

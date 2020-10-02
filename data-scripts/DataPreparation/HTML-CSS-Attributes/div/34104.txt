@@ -1,0 +1,4 @@
+	background:url(../images/portfolio-img-bg.jpg) no-repeat;
+	width:460px;
+	height:310px;
+	margin:28px 0 0 0;

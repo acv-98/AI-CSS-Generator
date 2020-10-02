@@ -1,0 +1,10 @@
+    padding: 0;
+    width: 100%;
+ margin-left: 18px; max-width:95%; .ls-layer .inner { 
+ max-width:90%; 	left: 0;
+	padding-left: 4%;
+	right: 0;
+	padding-right: 4%;
+    background-color: #fff;
+    max-width: 1200px;
+    margin: 0 auto;

@@ -1,0 +1,5 @@
+    text-align: center !important;
+		display: block;
+		text-align: left;
+		width: auto;
+    float: none;

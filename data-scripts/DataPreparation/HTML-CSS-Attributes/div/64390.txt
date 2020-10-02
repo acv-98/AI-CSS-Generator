@@ -1,0 +1,3 @@
+	background:url(../images/left-top-corner.png) no-repeat left top;
+	height:17px;
+	padding-left:151px;

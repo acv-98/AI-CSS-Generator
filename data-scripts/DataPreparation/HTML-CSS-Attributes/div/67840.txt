@@ -1,0 +1,1 @@
+ background: url(../img/ui-elements.jpg) center no-repeat / cover; 

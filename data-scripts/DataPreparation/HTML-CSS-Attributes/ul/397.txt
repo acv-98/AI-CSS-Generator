@@ -1,0 +1,17 @@
+    padding: 50px 0 0 80px;
+    margin-bottom: 20px;
+    list-style: none;
+    text-align: left;
+    transition: all 0.3s ease 0s;
+    font-size: 16px;
+    color: #808080;
+    position: relative;
+    content: "\e963";
+    font-family: 'IcoMoon-Free';
+    font-weight: 900;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 50%;
+    background: #98c458;
+    left: -50px;

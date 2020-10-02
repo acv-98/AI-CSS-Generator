@@ -1,0 +1,5 @@
+	color: #74c9be;
+	visibility: hidden;
+	background-color: #ffffff;
+	font-size: 40px;
+	padding: 20px;

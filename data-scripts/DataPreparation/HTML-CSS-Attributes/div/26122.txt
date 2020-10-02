@@ -1,0 +1,17 @@
+	display: inline;
+	float: left;
+	text-align: right;
+	width: 50%;
+	margin-top: 14px;
+	list-style: none;
+	color: #fff;
+	font-size: 18px;
+	padding: 0 8px;
+	border-left: 1px solid #f8f8f8;
+		text-align: center;
+		width: 100%;
+		margin-top: 20px;
+		border-left: none;
+		float: none;
+		border-right: 1px solid #f8f8f8;
+		font-size: 14px;

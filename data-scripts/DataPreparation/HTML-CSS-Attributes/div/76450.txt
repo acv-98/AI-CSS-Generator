@@ -1,0 +1,1 @@
+border-bottom:1px solid #e3e3e3; border-left:1px solid #e3e3e3; border-right:1px solid #e3e3e3; display:inline; float:left; padding-bottom:25px; padding-left:10px; padding-right:10px; width:100%color:#fff; font-size:19px; margin:0 0 20px -10px; padding:9px 25px; text-align:center; width:103.4%width:105%width:104.5%width:103%width:105%width:107%width:108%background-color:#12a3df

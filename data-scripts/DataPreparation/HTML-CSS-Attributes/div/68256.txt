@@ -1,0 +1,18 @@
+ margin-top:2em; margin-bottom:2em; text-align:center; color: #362f2d; font-size:4.231em; line-height: 1em; margin-bottom:0.5em; margin-top:1em;color: #cc5944; font-size:1.385em;
+ visibility: hidden;  width:60%; background:#DDD; background: rgba(222,222,222,0.5); border:1px solid #CCC; padding:0 1em; margin:1em auto; text-align:center; opacity: 0.9; filter: alpha(opacity=90);  font-size:1.8em; margin-top:1em; color: #CC5944; font-size:1.2em; text-align:left; margin-bottom:1.5em;  margin-bottom:1em; text-align:left;  list-style:none; padding:0.5em 1em; font-size:1.2em;  margin-bottom:1em;margin-top:0em; text-align:center; text-align:center; font-size:2em; color: #818181; text-align:center; margin-bottom:0.5em;  text-align:center;  color: #CC5944;  font-size:1.385em; color: #999; font-weight:normal; padding:10px 5px; box-shadow:0px 1px 1px 0px rgba(255,255,255,0.8), inset 0px 1px 2px 0px rgba(0,0,0,0.5);    .first_placeholder form .btn{ 
+      background:#CC5944;
+      background-color:#CC5944;
+      background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#db4025), color-stop(25%, #db4025), to(#CC5944));
+      background-repeat:repeat;
+      border:3px solid #CCC;
+      font-size:1.385em;
+      color: #FFF;
+      text-shadow: 0 1px 1px #f74d2f;
+      padding:7px;
+      margin-bottom:7px;
+      vertical-align:middle;
+      text-align:center;
+      max-height:375px;
+      overflow: hidden;
+ background-color:#CC5944 !important;    ---------------------------
+ width:95%;  width:95%;

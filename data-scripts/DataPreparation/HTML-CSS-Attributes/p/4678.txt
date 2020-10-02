@@ -1,0 +1,1 @@
+ width:300px; float:left; color:#1a2328; padding:13px 0 0 20px; margin:0; line-height:1.8em; font:normal 12px Arial, Helvetica, sans-serif;

@@ -1,0 +1,18 @@
+    border-right: 58px solid #f65aa7!important;
+    border-bottom: 58px solid #f65aa7!important;
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-top: 50px solid transparent;
+    transform: rotate(45deg);
+    border-bottom-right-radius: 37px;
+    display: table;
+    margin: -54px auto;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 50%;
+    position: absolute;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 15px;

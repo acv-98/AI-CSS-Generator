@@ -1,0 +1,2 @@
+	background:url(../images/line-top.gif) repeat-x  0 0;
+    height:7px;

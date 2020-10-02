@@ -1,0 +1,5 @@
+	padding-top: 8px;
+	height: 100% !important;
+	width: 100%;
+	margin-left: 0;
+	line-height: 0;

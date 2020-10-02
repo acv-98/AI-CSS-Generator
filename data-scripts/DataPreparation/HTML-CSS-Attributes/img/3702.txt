@@ -1,0 +1,8 @@
+  position: absolute;
+  right: 75px;
+  bottom: 300px;
+  -webkit-animation: bounceIn 500ms ease-in-out 1700ms both;
+  animation: bounceIn 500ms ease-in-out 1700ms both;
+    right: 75px;
+    bottom: 180px;
+    width: 70px;

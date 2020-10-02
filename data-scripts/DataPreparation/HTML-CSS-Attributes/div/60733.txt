@@ -1,0 +1,6 @@
+		background-color:rgba(217, 151, 35, 0.85);
+		padding: 30px 32px;
+		font-size: 14px;
+		margin-right: -25px;
+		text-transform: capitalize;
+		margin-top: 15px;

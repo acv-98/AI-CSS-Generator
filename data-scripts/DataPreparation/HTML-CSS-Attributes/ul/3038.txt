@@ -1,0 +1,10 @@
+		width: 100%;
+		margin: 0 0 -40px 0;
+		overflow: hidden;
+		float: none;
+	display: block;
+	background: none;
+	padding: 0;
+	max-width: 100%;
+	height: auto;
+	text-align: left;

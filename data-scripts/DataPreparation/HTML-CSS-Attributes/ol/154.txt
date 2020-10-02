@@ -1,0 +1,6 @@
+	background-color: transparent;
+	margin-bottom: 0px;
+	color: #979694;
+	content: "\f101";
+	font-family: 'FontAwesome';
+	font-size: 12px;

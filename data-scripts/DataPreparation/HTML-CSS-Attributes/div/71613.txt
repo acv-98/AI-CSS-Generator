@@ -1,0 +1,3 @@
+	margin-top: 20px;
+	background: url('../img/galleryBoxShadow.png') bottom center no-repeat;
+	padding-bottom: 20px;

@@ -1,0 +1,21 @@
+	background:#eba102;
+	
+	padding: 100px 0;
+	padding-bottom: 80px;
+	display: block;
+	width:1.8em;
+	height:1.8em;
+	border-radius: 50%;
+	line-height:1.8em !important;
+	margin: 0 10px;
+	margin-top: 50px;
+	color: #fff;
+	font-size: 50px;
+	margin-bottom: 25px;
+	position: relative;
+	box-sizing: border-box;
+	font-weight: normal;
+	outline: none;
+	border-color: #d5144d;
+	resize: none;
+	text-transform: uppercase;

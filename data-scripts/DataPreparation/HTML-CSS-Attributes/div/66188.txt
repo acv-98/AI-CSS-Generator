@@ -1,0 +1,6 @@
+    padding-top: 25px;
+    padding-bottom: 30px;
+    margin-top: 25px;
+	margin-bottom: 20px;
+ width: 95%; height: 34px;  width: 95%; height: 170px; padding-top: 6px; padding-bottom: 6px;  font-size: 13px; font-weight: 400;  font-style: italic  margin-top: 5px; padding: 0 45px; .contact-address {
+	padding-bottom: 15px;

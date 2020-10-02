@@ -1,0 +1,8 @@
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  float: none !important;
+  border-left: none !important;
+  width: auto;
+  text-align: center;
+  padding: 0;

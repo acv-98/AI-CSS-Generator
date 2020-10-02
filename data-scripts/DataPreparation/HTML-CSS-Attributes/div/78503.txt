@@ -1,0 +1,1 @@
+ padding:3px; border:1px solid #acabab; max-width:100%; width:auto; 

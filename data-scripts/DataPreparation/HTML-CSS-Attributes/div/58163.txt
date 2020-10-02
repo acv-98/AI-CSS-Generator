@@ -1,0 +1,12 @@
+    padding-top: 28px;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    display: block;
+    color: #333333;
+    letter-spacing: 6px;
+    font-weight: 600;
+    font-size: 14px;
+	border-bottom: 4px solid #f7639a;
+    width: 92px;
+	color: #ffffff;
+		padding-top: 28px;

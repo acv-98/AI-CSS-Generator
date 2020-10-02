@@ -1,0 +1,3 @@
+	width: 96%;
+    display: block;
+    margin: -40px auto 0;

@@ -1,0 +1,16 @@
+	position:fixed;
+	top:10px;
+	left:10px;
+	width:60px;
+	font-size:8px;
+	padding-top:20px;
+	text-transform:uppercase;
+	color:#fff;
+	letter-spacing:1px;
+	text-align:center;
+	height:16px;
+	border:1px solid #fff;
+	line-height:14px;
+	content:"\e603";
+	right:10px;
+			display:none;

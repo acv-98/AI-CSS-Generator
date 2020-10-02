@@ -1,0 +1,1 @@
+ font-style:normal; font-size:11px; color:#cf0606; position: absolute; top: 47px;  font-style:normal; font-size:11px; color:#cf0606; position: absolute; top: 80px;  position: static; margin-top: -35px;  top: 202px; 

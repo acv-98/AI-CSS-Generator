@@ -1,0 +1,1 @@
+ background: url(images/header-bg.png) repeat-x 0 0; height: 514px;  background: url(images/header-img.png) no-repeat 391px 0; position: relative; height: 100%;  float: right; width: 264px; position: relative; margin-right: -10px;  

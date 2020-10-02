@@ -1,0 +1,1 @@
+position:relative;display:block;background:url('images/input_pattern.png') repeat-x;border:1px solid #D5D4D4;color:#444;cursor:pointer;float:right;font-family:"Droid Sans",serif;font-size:10px;height:25px;min-width:55px;text-transform:uppercase;width:auto;margin:0 -5px 0 0;padding:0 10px;background:url('images/input_pattern_hover.png') repeat-x;

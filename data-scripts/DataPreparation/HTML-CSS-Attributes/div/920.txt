@@ -1,0 +1,6 @@
+	margin:0 auto;
+	padding:0 10px 50px 10px;
+	width:940px;
+	color:#918873;
+	font-size:16px;
+	text-transform:capitalize;

@@ -1,0 +1,7 @@
+	display: block;
+	overflow: hidden;
+	width: 640px;
+	margin-left: -10px;
+	margin-bottom: 20px;
+	float: left;
+	background: url(../img/plus-sign.png) no-repeat center center;

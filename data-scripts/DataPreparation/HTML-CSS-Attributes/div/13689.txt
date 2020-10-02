@@ -1,0 +1,7 @@
+ border-color: #dfdcdc;  font-size: 12px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;     border-left: 1px solid #CFCFCF;
+    margin: 0 0 20px 10px;
+    margin-top: 0;
+    padding: 18px 10px 18px 20px;
+ margin-left: 0px; .section.rounded .services-row h4, .section.rounded .services-row p,
+.section.square .services-row h4, .section.square .services-row p {
+    text-align: center;

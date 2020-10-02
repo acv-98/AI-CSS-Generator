@@ -1,0 +1,7 @@
+	margin-right: 15px;
+	padding-top: 5px;
+	width: 100px;
+	display: block;
+	line-height: 23px;
+	color: #878785;
+	text-decoration: none;

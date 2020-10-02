@@ -1,0 +1,14 @@
+    background: transparent;
+    padding-top: 37px;
+    border-top: 3px solid #BE1414;
+  color: #fff;
+  box-shadow: 0 -3px 0 0 #ff2525 inset;
+  -webkit-box-shadow: 0 -3px 0 0 #ff2525 inset;
+  content: " ";
+  position: absolute;
+  bottom: -17px;
+  left: 50%;
+  margin-left: -10px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #ff2525 transparent transparent transparent;

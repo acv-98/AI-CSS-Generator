@@ -1,0 +1,16 @@
+	margin:0 auto;
+	overflow:hidden;
+	padding:80px 10px 50px;
+	width:940px;
+	font-size:16px;
+	line-height:24px;
+	color:#5A7F7F;
+	list-style:none;
+	text-shadow:1px 1px 0 #fff;
+	font-weight:normal;
+	text-transform:capitalize;
+	display:block;
+	height:26px;
+	text-indent:-99999em;
+	float:left;
+	background:url(../images/icons.gif) no-repeat 5px -444px;

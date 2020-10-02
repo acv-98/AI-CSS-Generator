@@ -1,0 +1,5 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-navigation-active.png', sizingMethod='image');
+	border:3px solid #7f8c19;
+	border-top:0;
+	padding:16px 7px 8px 7px;

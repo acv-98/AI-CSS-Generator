@@ -1,0 +1,8 @@
+	height:25px;
+	overflow:hidden;
+	padding:25px 0 0 0;
+	background:transparent;
+	border:none;
+	cursor:pointer;
+	width:50px;
+	text-indent:-9999px;

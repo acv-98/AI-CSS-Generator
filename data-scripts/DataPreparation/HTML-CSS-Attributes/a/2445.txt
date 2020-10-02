@@ -1,0 +1,4 @@
+	background-color: #fff;
+	border: 1px solid #CC6733;
+	color: #CC6733;
+	text-decoration: none;

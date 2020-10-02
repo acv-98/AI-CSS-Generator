@@ -1,0 +1,16 @@
+	width:30%;
+	margin:0 4.5% 0 0;
+	float:left;
+	background:url(images/icons/i2.png) no-repeat center top;
+	display:table;
+	height:82px;
+	border:1px solid #c7c7c7; 
+	transition:0.5s; -webkit-transition:0.5s;
+	border-radius:55px; -webkit-border-radius:55px;
+	text-align:center;
+	font-size:30px;
+	line-height:82px;
+	color:#c7c7c7;
+	padding:0 0 0 0;
+	font-family: 'open_sansregular';
+	font-weight:normal;

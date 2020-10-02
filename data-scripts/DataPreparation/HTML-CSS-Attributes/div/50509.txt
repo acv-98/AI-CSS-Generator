@@ -1,0 +1,13 @@
+  background: #96816d;
+  height: 28px;
+  min-height:28px;
+  color: #fff;
+  position: relative;
+  padding: .5em 1em .5em 1em;
+  margin: 0;
+  font-style: italic;
+  font-size: 90%;
+  display: none;
+  top: -15px;
+  right: 6px;
+  z-index: 10;

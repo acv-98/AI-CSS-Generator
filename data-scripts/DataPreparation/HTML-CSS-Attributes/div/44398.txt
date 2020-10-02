@@ -1,0 +1,10 @@
+	color: #fff;
+	font-size: 17px;
+	font-weight: 500;
+	letter-spacing: 0.5px;
+	margin-top: 30px;
+	margin-bottom: 5px;
+	font-style: italic;
+	background-color: #fff;
+	padding: 30px;
+	border-radius: 5px;	

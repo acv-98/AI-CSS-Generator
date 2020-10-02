@@ -1,0 +1,4 @@
+ border-color: #cfcfcf; 	border-left: 1px solid #CFCFCF;
+	margin: 0 0 20px 10px;
+	margin-top: 0;
+	padding: 18px 10px 18px 20px;

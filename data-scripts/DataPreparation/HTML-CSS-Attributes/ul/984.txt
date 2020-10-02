@@ -1,0 +1,4 @@
+width:940px;width: 220px;width:750px;width: 174px;width:300px;width: 137px;width:450px;width: 137px;min-height:500px !important;.portfolio-categ li:first-child{font-family: bebasregular;
+margin: 0 3px 20px 0;
+overflow: hidden;
+padding: 5px;

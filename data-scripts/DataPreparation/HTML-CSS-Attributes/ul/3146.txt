@@ -1,0 +1,4 @@
+    width: 310px;
+    min-width: 0;
+    margin-left: -123px;
+        margin-left: auto;

@@ -1,0 +1,22 @@
+margin-top: 80px.banner_btn,.work_us_btn {
+    background: #9068be none repeat scroll 0 0;
+    color: #fff;
+    display: inline-block;
+    font-size: 30px;
+    margin-top: 25px;
+    padding: 17px 45px;
+    box-shadow: 0 0 10px -5px #044c54;
+    -moz-box-shadow: 0 0 10px -5px #044c54;
+    -webkit-box-shadow: 0 0 10px -5px #044c54;
+    margin-left: 6px;
+    width: 250px;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    height: 48px;
+    line-height: 24px;
+        margin-left: 6px;
+        width: 203px;
+        font-size: 20px;
+        line-height: 20px;
+        padding: 40px 0 45px;

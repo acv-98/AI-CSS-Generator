@@ -1,0 +1,11 @@
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+    float: left;
+    width: 66.66666667%;
+	padding-left: 0px;
+	padding-right: 5px;
+		margin-top: 10px;
+		padding-left: 10px;
+		padding-right: 10px;

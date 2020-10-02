@@ -1,0 +1,10 @@
+	text-decoration:none
+	padding:25px 0 0 0;
+	float:right;
+	position:relative;
+	background:url(../images/menu-spacer.gif) left top no-repeat;
+	display:inline-block;
+	font-size:19px;
+	font-weight:bold;
+	line-height:2em;
+	color:#fff;

@@ -1,0 +1,6 @@
+	margin-bottom: 70px;
+	overflow: hidden;
+ margin-bottom: 40px; 	.tm-about-box-1 {
+		width: 100%;
+		max-width: 300px;
+		padding: 30px;

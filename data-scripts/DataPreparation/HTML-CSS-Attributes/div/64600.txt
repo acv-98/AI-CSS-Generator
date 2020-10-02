@@ -1,0 +1,7 @@
+	position:relative;
+	margin-bottom:20px;
+	background:url("../images/toggle_open.png") no-repeat;
+	width:18px;
+	height:19px;
+	right: 4px;
+	top: 10px;

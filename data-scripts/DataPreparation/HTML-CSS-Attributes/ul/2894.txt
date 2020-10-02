@@ -1,0 +1,1 @@
+display:block; width:630px; float:left; padding:12px 0 0 10px; display:inline; font:bold 12px "Trebuchet MS", Arial, Helvetica, sans-serif; text-shadow: #000 1px 1px 1px;

@@ -1,0 +1,1 @@
+	border:#fff 8px solid;

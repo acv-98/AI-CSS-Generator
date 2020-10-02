@@ -1,0 +1,7 @@
+		font-size:38px;
+		line-height:4rem;
+    overflow:hidden;
+.head_title_rigth {
+	margin: 40px 0px;
+	font-family: 'open_sanslight';
+	color:#000000;

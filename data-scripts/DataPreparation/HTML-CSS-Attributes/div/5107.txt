@@ -1,0 +1,4 @@
+.mymodalcontentarea .single_right_content .single_modal_content p.subtitle{
+    font-size:1.125rem;
+.mymodalcontentarea .single_right_content .modal_socail{
+    margin-top: 70px;

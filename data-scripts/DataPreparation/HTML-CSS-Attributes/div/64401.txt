@@ -1,0 +1,6 @@
+	background:url(../images/border-bot.gif) left bottom repeat-x;
+	height:17px;
+	font-size:0;
+	line-height:0;
+	width:100%;
+	position:relative;

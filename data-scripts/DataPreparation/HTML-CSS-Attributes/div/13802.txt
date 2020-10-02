@@ -1,0 +1,16 @@
+
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    background: transparent;
+    position: absolute;
+    bottom: 0px;
+    z-index: 0;
+    border-bottom: solid transparent 65px;
+    border-right: solid #a0cff7 70px;
+    left: -70px;
+    border-left: solid #a0cff7 70px;
+    right: -70px;
+	display:none;
+display:none;display:none;

@@ -1,0 +1,8 @@
+background:#ffce1b;color:#000000; 
+.subscribe {
+  margin: -30px 17px 0 0;
+  text-align: right;
+  color: #000;
+  background-color: #f3f3f3;
+    color: #000;
+    background-color: #d9d9d9;

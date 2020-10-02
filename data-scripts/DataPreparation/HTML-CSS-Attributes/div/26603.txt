@@ -1,0 +1,5 @@
+	margin:0 auto;
+	padding:0;
+	width:974px;
+	height:200px;
+	background:url(images/header_rbg.gif) repeat-x center top;

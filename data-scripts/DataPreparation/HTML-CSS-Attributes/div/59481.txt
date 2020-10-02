@@ -1,0 +1,5 @@
+		box-shadow: none;
+	border: none;
+	 box-shadow: 2px 5px 6px rgba(0,0,0,0.5);
+	background: #d0a772;
+	color: #ffffff;

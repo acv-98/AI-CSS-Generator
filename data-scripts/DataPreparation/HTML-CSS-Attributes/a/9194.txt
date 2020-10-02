@@ -1,0 +1,7 @@
+	float: left;
+	background: url(../images/prev.png) no-repeat center center;
+	height: 75px;
+	width: 36px;
+	border: 0px none;
+	text-indent: -10000px;
+	cursor: pointer;

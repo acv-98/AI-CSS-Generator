@@ -1,0 +1,12 @@
+  height: 700px;
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+ margin:15px;#blog .blog-post .post-format {
+  display: inline-block;
+  width: 40px;
+  line-height: 34px;
+  text-align: center;
+  color: #fff;
+  border: 3px solid #fff;
+  border-radius: 100px;

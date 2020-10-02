@@ -1,0 +1,4 @@
+  border-bottom: 1px dotted #716f6f;
+  display: block;
+  padding-bottom: 14px;
+  margin-bottom: 28px;

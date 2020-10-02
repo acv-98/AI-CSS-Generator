@@ -1,0 +1,8 @@
+	font:bold 16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	display:block;
+	height:37px;
+	background:url(images/sidebarbullet.jpg) 3px 10px no-repeat;
+	padding:5px 5px 0 35px;
+	text-decoration:none;
+	text-shadow:#fff 1px 1px 1px;
+	color:#000;

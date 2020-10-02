@@ -1,0 +1,5 @@
+	margin:0;
+	padding:0;
+	float:left;
+	height:106px;
+	background:url(../images/overlay_w.png) repeat left top;

@@ -1,0 +1,7 @@
+	width:46px;
+	height:25px;
+	position:absolute;
+	background-image: url(../images/speach-lower.png);
+	background-repeat: no-repeat;
+	bottom:-25px;
+	right:0px;

@@ -1,0 +1,18 @@
+  border-bottom: 1px solid #f0f0f0;
+  float: left;
+  width: 100%;
+  text-align: center;
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #ccc;
+  padding: 10px 0 40px 0;
+  margin-bottom: -1px;
+  position: relative;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  display: block;
+  font-weight: 700;
+  text-decoration: none;
+  outline: none;

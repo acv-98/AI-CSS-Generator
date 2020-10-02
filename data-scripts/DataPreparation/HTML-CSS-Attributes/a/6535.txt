@@ -1,0 +1,12 @@
+	border:1px solid #d9d9d9;
+	display:inline-block;
+	line-height:32px;
+	text-decoration:none;
+	background:url(../images/button1.gif) top repeat-x #fff;
+	padding:0 15px;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	color:#fff;

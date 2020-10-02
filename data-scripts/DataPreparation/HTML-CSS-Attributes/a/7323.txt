@@ -1,0 +1,4 @@
+  height: 450px;
+    height: 450px;
+  border-top: 5px solid #ecf1f5;
+    border-bottom: 5px solid #ecf1f5;

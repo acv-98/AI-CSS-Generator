@@ -1,0 +1,11 @@
+	height: 101px;
+	overflow: hidden;
+	text-indent: -10000px;
+	display: block;
+	width: 234px;
+	background: url(../images/logo_menu_bg.png) no-repeat;
+	background-position: 0 -38px;
+	margin: 36px 0 0 0;
+	float: left;
+	margin-left: 250px;
+	margin-right: 0px;

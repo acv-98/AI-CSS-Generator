@@ -1,0 +1,2 @@
+		border-top:1px solid #cccccc;
+		padding:40px 0px;

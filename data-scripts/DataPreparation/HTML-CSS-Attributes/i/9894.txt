@@ -1,0 +1,2 @@
+    color: #405de6;
+  content: "\f16d";

@@ -1,0 +1,8 @@
+	clear: both;
+	width: 260px;
+	height: 42px;
+	padding: 28px 0 0 20px;;
+	margin: 0px;
+	border: none;
+	color: #c5c0ac;
+	background: url(images/side_column_header_bg.png) no-repeat;

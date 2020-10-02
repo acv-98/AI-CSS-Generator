@@ -1,0 +1,3 @@
+	background:url(../img/black/box_right_top.png);
+	width: 661px;
+	height:9px;

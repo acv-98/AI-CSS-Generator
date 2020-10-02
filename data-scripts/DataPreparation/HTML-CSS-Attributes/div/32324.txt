@@ -1,0 +1,7 @@
+font-size:16pt; width:100%; text-align:center; padding-bottom:10px;font-size:20pt; width:65%; text-align:left; padding-bottom:0px;	width:68%;
+	float:right;
+	padding-top:10px;
+	font-family:'BebasNeueRegular',Arial, Helvetica, sans-serif;
+	color:#da803f;
+	font-size:20pt;
+	text-align:left;

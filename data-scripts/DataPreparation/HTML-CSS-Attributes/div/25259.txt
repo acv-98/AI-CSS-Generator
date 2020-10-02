@@ -1,0 +1,12 @@
+	float:right;
+	width:440px;
+	color:#3f3f3f;
+	display:block;
+	margin:0 0 16px;
+	padding:6px 16px;
+	font-size:12px;
+	line-height:18px;
+	font-weight:bold;
+	text-transform:none;
+	text-decoration:none;
+	background:url(../images/readmore.gif) no-repeat left center;

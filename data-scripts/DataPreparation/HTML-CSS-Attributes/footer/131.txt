@@ -1,0 +1,2 @@
+	border-top:1px solid #453c34;
+	background:#403830;

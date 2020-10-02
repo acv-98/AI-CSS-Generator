@@ -1,0 +1,13 @@
+font-size: 12px !important;
+line-height: 15px;
+margin-bottom: 0;
+  float: none;
+  margin: 10px auto;
+  font-size: 20px !important;
+  line-height: 25px;
+.post_detail > a{background: url("images/nav_right.png") no-repeat scroll 130px 4px #ffd500;
+display: block;
+font-family: oswald light;
+margin-top: 10px;
+padding: 5px 10px;
+font-family: oswald;.post_detail h2{font-size: 20px;

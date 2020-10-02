@@ -1,0 +1,5 @@
+	display: inline;
+	counter-reset: definitions;
+	content: ", ";
+	margin-left: -0.2em;
+	counter-increment: definitions;

@@ -1,0 +1,9 @@
+background-color:#2280a8;		height:343px;
+		width:100%;
+		position:absolute;
+		z-index:1;
+		min-width:340px;
+		background:#2280a8;
+		bottom:0;
+height:650px;	.header .container {
+		padding-top:6px;

@@ -1,0 +1,18 @@
+	font-size:13px;
+	background:#fff;
+	-webkit-border-radius:0px;
+	-moz-border-radius:0px;
+	border-radius:0px;
+	padding:0px;
+	text-align:center;
+	line-height:25px;
+	border-top:5px solid #fff;
+		font-size:16px;
+	margin-top:20px;
+	color:#888;
+	font-style:italic;
+	-webkit-transition:all 1s ease;
+			-moz-transition:all 1s ease;
+			-o-transition:all 1s ease;
+			-ms-transition:all 1s ease;
+			transition:all 1s ease;

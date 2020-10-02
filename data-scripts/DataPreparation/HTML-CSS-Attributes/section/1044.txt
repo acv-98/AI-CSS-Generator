@@ -1,0 +1,17 @@
+	background-image: url(../img/first-section-bg.png);
+	background-size: cover;
+	width: 100%;
+	background-repeat: no-repeat;
+	padding: 20% 0px 20% 0px;
+	text-align: right;
+	color: #fff;
+	font-size: 44px;
+	text-transform: uppercase;
+	font-weight: 900;
+	letter-spacing: 1px;
+	height: 3px;
+	background-color: #fff;
+	margin: 25px 0px 25px auto;
+		padding: 150px 0px 200px 0px;
+		text-align: center;
+		margin: 25px auto;

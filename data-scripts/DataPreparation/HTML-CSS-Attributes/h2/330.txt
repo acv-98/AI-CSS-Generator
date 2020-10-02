@@ -1,0 +1,5 @@
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 6px;
+  line-height: 26px;
+  text-transform: uppercase;

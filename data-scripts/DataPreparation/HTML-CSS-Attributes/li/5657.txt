@@ -1,0 +1,9 @@
+	background-color: transparent;
+	color: #ffffff;
+	border: none;
+	border-bottom: 1px solid #fff;
+	outline: none !important;
+	box-shadow: none;
+	margin: 0px;
+	border-radius: 0px;
+	padding: 0px;

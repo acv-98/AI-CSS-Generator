@@ -1,0 +1,2 @@
+ background:#07366b; text-decoration:5px; font-family:Arial, Helvetica, sans-serif; color:#1491c1; font-size:13px; border:none; height:34px; width:219px;
+LEFTCOL CLASSES

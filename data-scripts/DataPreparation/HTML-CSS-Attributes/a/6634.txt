@@ -1,0 +1,6 @@
+line-height:.9em;display:inline-block;margin-top:.18em;line-height:.8em;margin-top:.25em;margin-top:0;margin-right:.2em;margin-left:.2em;  font-weight: 300;
+  border: 0;
+  background-color: #52b6ec;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;

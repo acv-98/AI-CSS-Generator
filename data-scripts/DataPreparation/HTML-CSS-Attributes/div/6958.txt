@@ -1,0 +1,9 @@
+	width:200px;
+	list-style:none;
+	display:block;
+	height:40px;
+	background:url(../images/submenu-line.png) repeat-x top;
+	line-height:40px;
+	text-decoration:none;
+	color:#9e6659;
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.9);

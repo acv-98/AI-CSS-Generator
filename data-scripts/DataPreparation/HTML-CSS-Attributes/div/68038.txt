@@ -1,0 +1,9 @@
+	padding:0;
+	background:url('images/box-separator.gif') repeat-x center bottom;
+	margin: 0 2px;
+	padding-bottom:16px;
+	width:245px;
+	color:#898989;
+	font-size:11px;
+	font-weight:bold;
+	text-decoration:underline;

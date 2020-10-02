@@ -1,0 +1,6 @@
+  margin-bottom: 25px;
+  text-align: center;
+  color: #333;
+  font-size: 14px;
+  background-color: #3b5999;
+		margin-bottom: 50px;

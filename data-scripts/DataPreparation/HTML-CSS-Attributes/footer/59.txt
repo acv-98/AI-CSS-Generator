@@ -1,0 +1,8 @@
+	background: #F1F1F1;
+	padding: 4.5em 0;
+	margin: 0;
+	float: none;
+	margin-bottom: 1.5em;
+	color: #888;
+ position: relative;
+ z-index: 2;

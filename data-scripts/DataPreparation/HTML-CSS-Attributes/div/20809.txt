@@ -1,0 +1,6 @@
+	margin-top: 30px;
+	opacity: 0.8;
+	color: #fff;
+	border-bottom: 1px dotted #fff;
+ color: #fff; border: 0; .testimonial-list .nav-tabs {
+    border: 0;

@@ -1,0 +1,7 @@
+	background: #fff;
+	color: #333333;
+	border-radius: 2px;
+	font-size: 13px;
+	font-weight: 700;
+	padding: 9px 25px;
+	display: inline-block;

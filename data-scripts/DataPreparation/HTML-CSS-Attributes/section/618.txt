@@ -1,0 +1,7 @@
+  padding: 32px 20px 32px 20px !important;
+  height: 42vh !important;
+  min-height: 420px;
+  padding-top: 120px !important;
+  background: url('../images/header-five-bg.jpg') no-repeat;
+    min-height: 380px;
+	padding-top: 80px !important;

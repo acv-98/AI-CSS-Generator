@@ -1,0 +1,7 @@
+	background-image:url(../images/red-cross.png);
+	background-position: 0px 3px;
+	background-repeat: no-repeat;
+	padding:3px 0px 3px 22px;
+	list-style-type: none;
+	font-family: 'HelveticaLTStdRoman',Arial, Helvetica, sans-serif;
+	font-size:10pt;

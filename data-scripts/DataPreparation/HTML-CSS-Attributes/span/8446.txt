@@ -1,0 +1,6 @@
+  display: block;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  color: #ccc;
+  padding-top: 5px;

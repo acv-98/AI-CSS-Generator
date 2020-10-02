@@ -1,0 +1,3 @@
+	background-color: #81A8F1;
+	color: #fff;
+	margin-bottom:10px;

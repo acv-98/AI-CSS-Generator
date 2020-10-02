@@ -1,0 +1,11 @@
+	background:url(images/caption.png) repeat 0 0;
+	width:445px;
+	height:65px;
+	position:absolute;
+	bottom:0;
+	left:0;
+	z-index:150;
+	font-size:17px;
+	line-height:65px;
+	color:#fff;
+	text-align:center;

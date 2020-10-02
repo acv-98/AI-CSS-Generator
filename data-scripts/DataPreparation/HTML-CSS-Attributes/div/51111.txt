@@ -1,0 +1,10 @@
+	overflow: hidden;
+	padding-top: 5px;
+	display: block;
+	line-height: 0;
+	margin-top: 0;
+	font-size: 0;
+	margin-bottom: 	30px;
+	background: url(../images/magnifier.png) center center no-repeat #000;
+	height: 28px;
+	text-transform: uppercase;

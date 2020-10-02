@@ -1,0 +1,4 @@
+	position:relative;
+	height: 578px;
+	margin: 0 auto;
+	

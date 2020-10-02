@@ -1,0 +1,7 @@
+    max-width: auto; 
+    max-height:400px;
+    padding-bottom: 60px; 
+	font-size: 40px;
+	color: #3d3d3d;
+	font-weight: 700;
+	text-transform: uppercase;

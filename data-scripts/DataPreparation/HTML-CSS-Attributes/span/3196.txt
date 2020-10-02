@@ -1,0 +1,5 @@
+  font-size: 14px;
+  color: #ccc !important;
+  line-height: 20px;
+  display: block;
+  cursor: pointer;

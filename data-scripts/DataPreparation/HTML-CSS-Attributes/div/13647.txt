@@ -1,0 +1,18 @@
+ margin-top: 20px;
+ margin-bottom: 30px .section.blog .post {
+    border-left: 5px solid #d18f1d !important;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    clear: left;
+ height: auto; min-height: 150px; margin-bottom: 30px;  background:#000; .section.services .related_img img {
+    width: 100%;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    display:block;
+    height:auto;
+    overflow:hidden;
+    position:relative;
+    background-color: #dbdcdc;
+    max-width: 140px;
+    text-align: center;

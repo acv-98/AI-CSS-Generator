@@ -1,0 +1,10 @@
+    font-size: 15px;
+    background-color: #00B8D4;
+    padding: 9px 50px;
+    border-radius: 30px;
+    color: #fff;
+    font-family: Roboto-Light;
+    -webkit-box-shadow: 2px 3px 6px rgba(181, 185, 185, 0.63);
+            box-shadow: 2px 3px 6px rgba(181, 185, 185, 0.63);
+    position: relative;
+    right: 60px;

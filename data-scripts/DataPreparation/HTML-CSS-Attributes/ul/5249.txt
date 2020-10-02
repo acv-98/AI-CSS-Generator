@@ -1,0 +1,8 @@
+	margin:0;
+	list-style:none;
+	font-size:85%;
+	padding:10px 0;
+	padding-top:0;
+	padding-bottom:0;
+	border-bottom:0 !important;
+	color:#555;

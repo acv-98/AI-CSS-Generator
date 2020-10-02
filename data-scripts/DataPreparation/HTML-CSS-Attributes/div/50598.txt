@@ -1,0 +1,9 @@
+	padding:18px 30px;
+	float:left;
+	width:516px;
+	line-height:17px;
+	color:#787878;
+	margin-bottom:11px;
+	border-bottom:1px dashed #e0e0e0;
+	padding-top:2px;
+	text-decoration:none;

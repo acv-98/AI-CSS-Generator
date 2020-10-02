@@ -1,0 +1,9 @@
+  margin-top: 57px;
+  border: 1px solid #a95858;
+  display: inline-block;
+  font: 400 20px/20px 'Open Sans', sans-serif;
+  padding: 10px 24px;
+  color: #393328;
+    margin-top: 10px;
+  background: #a95858;
+  margin-left: 20px;

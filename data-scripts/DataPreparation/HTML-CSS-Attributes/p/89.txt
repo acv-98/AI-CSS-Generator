@@ -1,0 +1,9 @@
+	margin:0;
+	padding:24px 0 24px 20px;
+	font-size:11px;
+	color:#6e6e6e;
+	text-align:left;
+	background:repeat-x left top;
+	text-decoration:none;
+	border:none;
+	float:right;

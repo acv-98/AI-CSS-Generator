@@ -1,0 +1,6 @@
+    padding: 15px 30px;
+    margin-top:20px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    background: #FD1515

@@ -1,0 +1,11 @@
+    float: right;
+    margin-left: 15px;
+    text-align: right;
+        padding: 0;
+        -webkit-transform: none;
+        transform: none;
+        right: 0.5rem;
+        left: auto;
+    border-left-color: transparent !important;
+    -webkit-animation: right-spin 1333ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
+    animation: right-spin 1333ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;

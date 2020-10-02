@@ -1,0 +1,5 @@
+	width:200px;
+	height:auto;
+	border-left:1px solid #981414;
+	border-right:1px solid #981414;
+	padding:30px 29px 30px 29px;

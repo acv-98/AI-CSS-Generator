@@ -1,0 +1,10 @@
+	display: table-cell;
+	margin: 0;
+	padding-left: 0;
+	vertical-align: middle;
+	font-family: "montserrat-bold", sans-serif;
+	font-size: 2.2rem;
+	line-height: 1.636;
+	color: #999999;
+	padding-bottom: .3rem;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);

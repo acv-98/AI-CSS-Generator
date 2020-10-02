@@ -1,0 +1,4 @@
+	color: #FFFFFF;
+	background: #C7457B url(images/img11.png) repeat;
+	border-radius: 5px;
+	text-shadow: 1px 1px 0px rgba(0,0,0,.5);

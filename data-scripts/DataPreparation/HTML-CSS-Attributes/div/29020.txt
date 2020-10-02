@@ -1,0 +1,16 @@
+    padding: 0;
+    border: none;
+    border-top: 1px solid #DADADA;
+    color: #A3A3A3;
+    text-align: center;
+	width: 83%;
+	margin: 0 auto;
+	background: transparent;
+	margin-top: 23px;
+    content: "resume";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.1em;
+    background: white;
+    font-family: 'Qwigley', Helvetica, Sans-serif;	   

@@ -1,0 +1,1 @@
+	background:#fff url(../images/icons/setting.png) no-repeat center center;

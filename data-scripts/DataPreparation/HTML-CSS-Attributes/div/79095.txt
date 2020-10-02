@@ -1,0 +1,11 @@
+  border: 1px solid #F7F7F0;
+  padding: 18px 18px 18px 0;
+  margin-bottom: 50px
+  margin-right: 22px
+  background:#FC9A11;
+  border-radius: 0;
+  color: #FFFFFF;
+  float: left;
+  font-size: 10px;
+  text-transform: uppercase;
+	padding: 0;

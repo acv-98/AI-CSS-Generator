@@ -1,0 +1,2 @@
+background: url(../img/icons/social/wordpress.png) no-repeat;	background: url(../img/icons/social2/wordpress.png) no-repeat 0 0;
+	background-color: #464646;

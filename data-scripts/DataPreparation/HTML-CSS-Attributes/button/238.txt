@@ -1,0 +1,9 @@
+		margin:10px 0px;
+		width:100%;
+		display:block;
+	background-color: #99DEAB;
+	color: #fff;
+	height: 40px;
+	margin-left: 10px;
+	border: 2px solid #fff;
+	text-align: center;

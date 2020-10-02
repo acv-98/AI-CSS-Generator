@@ -1,0 +1,5 @@
+	display: inline-block;
+	margin-bottom: 2.1rem;
+	font-size: 5.4rem;
+	color: #FF0077;
+    content: "\e900";

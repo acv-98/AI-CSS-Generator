@@ -1,0 +1,2 @@
+background-position: 0 -26px; cursor: default;
+ text-decoration: none; color: #006e86; 

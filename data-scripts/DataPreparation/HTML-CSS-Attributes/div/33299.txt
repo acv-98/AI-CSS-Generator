@@ -1,0 +1,1 @@
+margin: 0 -20px !important; padding: 0 20px !important;background: url(../img/body-bg.jpg) repeat; margin: 0 auto; overflow: hidden;

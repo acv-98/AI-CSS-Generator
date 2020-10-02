@@ -1,0 +1,4 @@
+    color: #ffffff;
+    border-bottom: 1px solid #fff;
+    background-color: #fff;
+    opacity: 1;

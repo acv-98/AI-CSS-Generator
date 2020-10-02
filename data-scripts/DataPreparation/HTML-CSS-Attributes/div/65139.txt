@@ -1,0 +1,13 @@
+	display:inline;
+	float:left;
+	margin-left:10px;
+	margin-right:10px
+	width:220px
+	text-align: justify;
+	line-height: 20px;
+	font-style: italic;
+	color: #202020;
+	height: 24px;
+	background: url(../images/burnstudio_sprite.png) no-repeat;
+	background-position: -225px 0px;
+	text-indent: -10000px;

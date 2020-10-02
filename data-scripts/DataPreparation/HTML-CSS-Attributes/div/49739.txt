@@ -1,0 +1,9 @@
+  border-color: #3c3343;
+  color: #ffffff;
+  background-color: #3c3343;
+  border-top-color: #3c3343;
+  border-bottom-color: #3c3343;
+  margin-right: 5px;
+  background-image: -webkit-linear-gradient(top, #428bca 0%, #357ebd 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff428bca', endColorstr='#ff357ebd', GradientType=0);

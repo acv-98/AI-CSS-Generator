@@ -1,0 +1,7 @@
+	border-color:#fff;
+	opacity:1.0;
+  color: #c67a02;
+  margin: 0;
+height:13px******************* reset.css ******************************************
+color:#c67a02;margin:0;    background-position:0 -18px;
+    color:#3e3c3c;

@@ -1,0 +1,4 @@
+  margin-bottom: 2em;
+  font-size: 40px;
+  line-height: 1.5;
+  color: #000;

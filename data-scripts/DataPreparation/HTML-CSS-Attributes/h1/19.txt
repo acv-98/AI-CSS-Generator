@@ -1,0 +1,3 @@
+   font-size: 70px !important;
+font-weight: 900!important;
+ color:#fff;

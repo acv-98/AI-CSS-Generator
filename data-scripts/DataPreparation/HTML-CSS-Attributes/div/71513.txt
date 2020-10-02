@@ -1,0 +1,5 @@
+  font-size: 36px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-align: center;
+  padding-bottom: 55px;

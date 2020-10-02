@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	background:url(images/fbg_bg.jpg) repeat-y center;
+	width:923px;
+	border:1px solid #cfd2d4;
+	background-color:#fff;
+	color:#fbfbfb;
+	float:left;

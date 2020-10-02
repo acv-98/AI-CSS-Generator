@@ -1,0 +1,23 @@
+ padding: 30px 50px;  padding: 30px 40px;  min-height: 515px; 
+.tm-section-pad {
+	padding-top: 80px;
+	padding-bottom: 80px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+  height: 100px;
+	background: #ee5057;
+	position: relative;
+	color: white;
+	font-size: 3rem;
+    font-weight: 600;
+	font-weight: 300;
+	margin-bottom: 25px;
+ font-size: 1.8rem; .tm-btn-white-bordered {
+	display: inline-block;
+	border: 2px solid white;
+	text-transform: uppercase;
+ padding: 20px 25px; 	.tm-search-form .tm-form-element {
+		width: 100%;
+		max-width: 100%;
+ padding: 25px 15px; 

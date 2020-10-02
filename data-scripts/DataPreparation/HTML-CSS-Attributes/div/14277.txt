@@ -1,0 +1,11 @@
+	height:337px;
+	width:100%;
+	position:absolute;
+	left:0;
+	z-index:990;
+	cursor:pointer;
+	background:url(../images/tumbvr-mask.png) no-repeat;
+	margin-left:-544px;
+	top:0;
+	float:left;
+	display:block;

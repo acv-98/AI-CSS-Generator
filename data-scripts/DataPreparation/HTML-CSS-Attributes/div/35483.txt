@@ -1,0 +1,5 @@
+	background:url(../images/bg.png);
+	min-height:819px;
+	text-align:center;
+	padding-top: 5em;
+ 	min-height:500px;

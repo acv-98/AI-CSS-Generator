@@ -1,0 +1,6 @@
+  border-color: #417630;
+  padding: 0;
+  background: #417630;
+  color: #ffffff;
+  padding-top: 40px;
+  padding-bottom: 40px;

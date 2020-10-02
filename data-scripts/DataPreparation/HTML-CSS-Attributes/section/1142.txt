@@ -1,0 +1,13 @@
+    color: #ffffff;
+    background: url(../images/homebg.jpg) no-repeat center center;
+    background-size: cover;
+    position: relative;
+    left:0;
+    bottom:0;
+    content: "";
+    width: 0;
+    height: 0;
+    border-bottom: 86px solid #fff;
+    border-right: 680px solid transparent;
+    right:0;
+    border-left: 680px solid transparent;

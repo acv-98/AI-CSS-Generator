@@ -1,0 +1,16 @@
+		grid-column-start: 2;
+		grid-column-end: 4;
+		grid-row-start: 2;
+		grid-row-end: 4;
+			grid-column-start: 2;
+			grid-column-end: 8;
+			grid-row-start: 2;
+			grid-row-end: 8;
+			min-height: 210px;
+			max-height: 250px;
+min-height: 230px; max-height: 310px;min-height: 220px;.footer_area {
+	width: 100%;
+	text-align: center;
+	color: #5e7a96;
+	position: fixed;
+	bottom: 0px;

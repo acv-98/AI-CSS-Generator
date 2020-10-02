@@ -1,0 +1,2 @@
+background-position:0 -26px;background-position:100% -26px;
+background-position:0 -8px;color:#fff;

@@ -1,0 +1,7 @@
+background: url(images/bg.png) repeat;.top_add_bar,.bottom_add_bar{background: none repeat scroll 0 0 #FFFFFF;
+border-bottom: 2px solid #999999;
+border-radius:0px 0px 5px 5px;
+height: 90px;
+margin: 25px auto;
+padding: 25px 0;
+.main_content{margin-right: 20px;

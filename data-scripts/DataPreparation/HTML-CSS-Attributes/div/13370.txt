@@ -1,0 +1,3 @@
+ padding: 20px; 
+a.tm-color-primary:hover,
+	color: #d53239;

@@ -1,0 +1,18 @@
+  color: #a5d549;
+  border-top: 1px solid #ccc;
+  padding: 10px;
+  display: inline;
+  margin-top: 10px;
+  float: left;
+  width: 100%;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  margin-right: 5px;
+  margin-bottom: 15px;
+  margin-left: 15px;

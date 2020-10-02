@@ -1,0 +1,12 @@
+	color:#f05f40!important;
+	background-color:transparent;
+	border-color:#ededed;
+	background-image:none;
+	width:15px;
+	height:15px;
+	margin:0;
+	border-radius:100px;
+	opacity:1;
+	overflow:hidden;
+		width:80px;
+		height:80px;

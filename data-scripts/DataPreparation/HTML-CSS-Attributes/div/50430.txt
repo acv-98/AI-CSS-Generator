@@ -1,0 +1,15 @@
+	margin:0 22px 0 0;
+	background:url(images/box-white-bg.gif) no-repeat 0 0;
+	width:264px;
+	height:199px;
+	padding:14px 18px 49px 18px;
+	position:relative;
+	font-size:16px;
+	line-height:19px;
+	color:#287db3;
+	border-bottom:1px dotted #dcdcdc;
+	display:block;
+	left:25px;
+	bottom:30px;
+	text-align:center;
+	text-decoration:none;

@@ -1,0 +1,60 @@
+   font: 14px/24px opensans-regular, sans-serif;
+   color: #fff;
+   margin-top: 12px;
+   margin-bottom: 0;
+   display: block;
+   font-family: montserrat-bold, sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+ padding-left: 38px; #journal .entry .post-content p {
+   margin-left: 3px;
+   font-size: 14px;
+   background: #f5f5f5 url(../images/patterns/grey.png);
+   padding-top: 120px;
+   padding-bottom: 90px;
+   position: relative;
+   width: 100%;
+   padding-right: 12%;
+   float: right;
+   text-align: right;
+ color: #B9BBBC; .post .post-meta a:hover,
+ color: #11ABB0; .post .post-meta .date {
+ content: "Published";  content: "Categories";  display: block;  display: none; .post .post-image {
+ font-family: opensans-bold, sans-serif; .post .bio {
+   border-top: 1px solid #E0E0E0;
+   height: 72px;
+   -moz-border-radius: 100% 100% 100% 100%;
+	-webkit-border-radius: 100% 100% 100% 100%;
+	-khtml-border-radius: 100% 100% 100% 100%;
+	border-radius: 100% 100% 100% 100%;
+   line-height: 30px;
+ color: #a3a3a3;  color: #333; .post .post-nav li strong {
+   border-bottom: 1px solid #E0E0E0;
+ color: #313131; #blog-entries .post .entry-header h1 a:hover,
+ color: #11ABB0; #blog-entries .post .post-content p {
+   -webkit-transition: all 200ms ease-in-out;
+	-moz-transition: all 200ms ease-in-out;
+	-o-transition: all 200ms ease-in-out;
+	-ms-transition: all 200ms ease-in-out;
+	transition: all 200ms ease-in-out;
+   -webkit-border-radius: 2px;
+   -khtml-border-radius: 2px;
+ background: #11ABB0;  margin-left: 10px;  padding-top: 96px;  font-size: 18px;    .post .entry-header h1 {
+      padding-right: 18px;
+      font-size: 43px;
+ margin-top: 6px;  margin: 12px 0 24px 0  padding-left: 18px;       padding-left: 20px;
+      margin-top: 6px;
+      display: inline;
+      content: "/";
+ padding-top: 84px;       float: none;
+	   width: 100%;
+      line-height: 42px;
+      text-align: center;
+      width: 100%;
+ display: inline    .post .post-meta .date:before,
+ content: none    .post .post-meta .date {
+      color: #3D4149;
+      margin-right: 5px;
+      padding-top: 17px;
+      border-top: 1px solid #E0E0E0;
+ margin-top: 18px;    .post .post-nav li {

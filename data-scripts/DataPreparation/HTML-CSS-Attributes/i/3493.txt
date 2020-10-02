@@ -1,0 +1,4 @@
+	color: #0066cb;
+	padding: 30px;
+	margin: 0 auto 30px;
+	text-align: center;

@@ -1,0 +1,12 @@
+  text-align: center;
+  padding-bottom: 30px;
+  display: inline-block;
+  width: 117px;
+  height: 117px;
+  color: #01918c;
+  border: 1px solid #199b97;
+  border-radius: 100px;
+  content: '%';
+  font: bold 48px/117px 'Arial', sans-serif;
+  padding-top: 22px;
+  margin-top: 41px;

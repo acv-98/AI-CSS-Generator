@@ -1,0 +1,4 @@
+    display: block;
+    background-color: #f3f2e9;
+    float: right;
+    overflow: hidden;

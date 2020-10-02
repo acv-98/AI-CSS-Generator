@@ -1,0 +1,22 @@
+ color: #333; 	padding-top: 60px;
+	padding-bottom: 35px;
+	margin: 0 auto;
+	margin-left: -10px;
+	margin-right: -10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	opacity: 1; 
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+	background: #0066CC;
+	max-width: 240px;
+ opacity: 0.5; 	color: #186e9d; .tm-img-center {
+	display: block;
+ text-align: center; .tm-gallery-nav .nav-item {
+	margin-bottom: 10px;
+ margin-right: 0; .tm-gallery-nav .nav-link {	
+	background-color: #EDEDED;
+    padding: .7rem 1.2rem;    
+ margin-right: 0; .tm-gallery-nav	.nav-link.active,
+    color: white;
+ max-width: 500px;	 max-width: 760px;	 max-width: none; 

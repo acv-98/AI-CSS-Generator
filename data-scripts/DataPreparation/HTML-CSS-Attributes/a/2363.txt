@@ -1,0 +1,15 @@
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 30px;
+  width: 30px;
+  overflow: hidden;
+  color: #cccccc;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+    top: 5px;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+  vertical-align: top;

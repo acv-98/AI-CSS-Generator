@@ -1,0 +1,15 @@
+	height: 40px;
+	width: 40px;
+	display: block;
+	background: #FD3B01;
+	border: 6px solid #DEDEDE;
+	border-radius: 30em;
+	position: absolute;
+	right: -6.5%;
+	top: 22px;
+	z-index: 999;
+	-webkit-border-radius: 30em;
+	-moz-border-radius: 30em;
+	-o-border-radius: 30em;
+	-ms-border-radius: 30em;
+	left: -6.5%;

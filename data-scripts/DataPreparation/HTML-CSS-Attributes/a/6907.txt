@@ -1,0 +1,2 @@
+	background: url('../img/footer_facebook.png') no-repeat 50% 50% #0d0d0d;
+	background-color: #37589f;

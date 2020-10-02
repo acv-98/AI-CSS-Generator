@@ -1,0 +1,2 @@
+ width: 16%; float: right; 
+ width: 16%; float: right;  width: 14%; float: right; height: 90px;  width: 100%; float: none;  width: 100%; float: none; width: 147px; float: left; display: table; height: 103px;   font-size: 17px; color: #fff; font-family: 'Oswald', sans-serif; font-weight: 400; text-decoration: none;  display: table-cell; vertical-align: middle; text-transform: uppercase;  background: #2d2d2d;  background: #ff9408; color: #fff; transition: all 0.3s ease;	

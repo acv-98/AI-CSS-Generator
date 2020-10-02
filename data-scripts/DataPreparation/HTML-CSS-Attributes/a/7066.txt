@@ -1,0 +1,5 @@
+	background: #282828;
+	color: #fff;
+	border-top: 4px solid #e0cf39;
+	height: 96px;
+	line-height: 92px;

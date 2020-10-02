@@ -1,0 +1,12 @@
+	margin:0;
+	padding:0;
+	background:url(../images/shum.gif) repeat left top;
+	width:960px;
+	color:#c8b8af;
+	padding-bottom:24px;
+	float:left;
+	list-style:none;
+	display:block;
+	text-decoration:none;
+	line-height:1.8em;
+	font-weight:bold;

@@ -1,0 +1,3 @@
+outline: none;.slides,
+.flex-control-nav,
+ border: 0; position: relative; zoom: 1;position: relative; width: 497px; height: 288px; position: relative;  list-style: none; list-style-position: outside; position: relative;  width: 497px; height: 288px; float: left;  width: 497px; height: 288px;  width: 382px; height: 220px;  width: 100%; height: 100%;  width: 100%; height: 100%;  width: 280px; height: 163px;  width: 100%; height: 100%;  width: 100%; height: 100%; 

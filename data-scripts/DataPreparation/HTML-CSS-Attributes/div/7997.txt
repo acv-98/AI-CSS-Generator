@@ -1,0 +1,1 @@
+color:#929292; background-color:#F6F6F6;box-shadow:0 10px 10px rgba(0,0,0,.05);

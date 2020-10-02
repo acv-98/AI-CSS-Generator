@@ -1,0 +1,10 @@
+  position: relative;
+  z-index: 1;
+  top: 0;
+  left: 0.9375rem;
+  bottom: 0;
+  width: 70%;
+  height: auto;
+  background: url("../img/widgets/worldmap.png") no-repeat center center;
+  background-size: cover;
+  content: " ";

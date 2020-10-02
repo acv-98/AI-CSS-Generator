@@ -1,0 +1,3 @@
+	border-left: 4px solid #bababa;
+	color: #555;
+	padding-right: 8px;

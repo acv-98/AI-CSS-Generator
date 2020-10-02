@@ -1,0 +1,6 @@
+ background-position:0 -16px; font-weight:bold; float:left; margin-right: 5px 
+	background: #f6f6f6;
+	float: none;
+	margin:0;
+	border-bottom: 3px solid #F15A23
+color:#999;font-family:Georgia;font-size:11px;font-style:italic;left:75px;line-height:25px;margin:0;padding:0 0 0 10px;position:absolute;top:2pxcolor:#c4c4c4 background-position:0 0px;  opacity:1; -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; filter:alpha(opacity=100); 

@@ -1,0 +1,31 @@
+			background: url("../images/works/gallery-shadow.png");
+			padding-bottom: 8px;
+			width: 480px;
+				height: 340px;
+				width: 460px;
+					padding: 1px 2px 8px 9px;
+					right: 0;
+					top: 0;
+					z-index: 1112;
+						background: url("../images/works/pages.png");
+						height: 7px;
+						text-indent: -9999px;
+						width: 7px;
+ margin-left: 3px;  background-position: -7px 0;  background: #fff; .thumb,
+.home .tweet,
+.text h2.with-icon,
+.text h3.with-icon,
+.work .gallery,
+#navigation > ul > li.current-menu-item {
+	background-position: 50% 100%;
+	background-repeat: no-repeat;
+	border: 1px solid #dadada;
+ display: block; hr,
+ float: left; .pagination .next,
+.work .description,
+.message .ui-button,
+.post-footer .back-to-top a,
+ overflow: hidden; #navigation li ul,
+.tags-list .posts,
+.nivo-controlNav,
+.post-footer .meta,

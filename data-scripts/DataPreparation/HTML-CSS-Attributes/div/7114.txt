@@ -1,0 +1,1 @@
+ background:#bc0e15 url(../images/footer-bg.jpg) repeat-y center; padding-bottom:50px;

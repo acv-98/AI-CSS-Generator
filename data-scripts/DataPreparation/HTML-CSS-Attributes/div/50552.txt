@@ -1,0 +1,9 @@
+	background:url(images/footer-bg.gif) repeat-x 0 0;
+	font-size:10px;
+	line-height:10px;
+	text-transform:uppercase;
+	padding:15px 0;
+	color:#dad7d7;
+	text-decoration:none;
+	margin:0;
+	float:left;

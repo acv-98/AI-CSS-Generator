@@ -1,0 +1,15 @@
+ font-size: 24px; font-family: 'Open Sans', sans-serif; color: #e5f99a; font-style: normal; font-weight: 800;  font-size: 12px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: 400;     height:100%;                  
+	padding-top:40px;
+	border-top: 1px solid rgba(255, 255, 255, 0.045);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+ background-position: bottom right;   background-position: bottom left; .polaroid .slide .slide-content.full {
+    width:100%;       
+    padding-top: 50px;
+ padding-right: 60%;  padding-left: 60%; .polaroid .thumbs {
+	display: none;
+	position: absolute;
+	left:50%;
+	bottom: 60px;
+	z-index: 100;
+ padding-left: 60%;  margin-top: -50px;  display: none; 

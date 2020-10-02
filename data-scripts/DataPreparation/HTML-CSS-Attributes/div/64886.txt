@@ -1,0 +1,6 @@
+display: table;
+width: 135px;
+height: 135px;
+margin: 0 auto 14px auto;
+border: 3px solid #000;
+border-radius: 100%;

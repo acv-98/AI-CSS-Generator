@@ -1,0 +1,4 @@
+	width:230px;
+	float:left;
+	color:#57565e;
+	margin-right:20px;

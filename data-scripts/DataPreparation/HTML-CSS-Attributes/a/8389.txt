@@ -1,0 +1,12 @@
+	background: url(../images/sprite-icons.gif) no-repeat 0 -232px;
+	color: #c04973;
+	display: block;
+	font-size: 18px;
+	height: 91px;
+	line-height: 30px;
+	margin-top: 20px;
+	padding-top: 10px;
+	text-decoration: none;
+	text-indent: 80px;
+	font-family: Trebuchet MS;
+	font-style: italic;

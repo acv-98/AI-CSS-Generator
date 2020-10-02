@@ -1,0 +1,16 @@
+ margin-bottom: 24px;  margin-bottom: 24px; 
+#about .process-wrap h4 {
+   font: 15px/24px montserrat-bold, sans-serif;
+   letter-spacing: 1px;
+   text-transform: uppercase;
+   position: relative;
+   top: -6px;
+   font-size: 13px;
+   line-height: 18px;
+   color: #969696;
+   font-weight: normal;
+   margin: 0;
+   padding: 0;
+   display: inline-block;
+   margin-right: 15px;
+ color: #8C8C8C;  color: #0f9095; 

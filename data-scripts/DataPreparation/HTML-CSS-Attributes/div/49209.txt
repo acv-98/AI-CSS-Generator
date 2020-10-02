@@ -1,0 +1,8 @@
+	width:282px;
+	overflow:hidden;
+	margin-top:16px;
+	margin-bottom:6px;
+	display:block;
+	border-bottom:#c4d2d7 1px solid;
+	padding-bottom:10px;
+	float:right;

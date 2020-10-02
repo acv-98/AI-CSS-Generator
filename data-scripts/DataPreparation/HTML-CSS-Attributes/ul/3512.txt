@@ -1,0 +1,16 @@
+	padding:100px 0 0 20px;
+	list-style-type:none;
+	height:49px;
+	width:290px;
+	margin:0;
+	float:left;
+	line-height:49px;
+	background: url("../images/menu.gif");
+	background-position: 0 -198px;
+	color: #563F1F;
+	display: block;
+	font-family: Georgia, serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align:center;

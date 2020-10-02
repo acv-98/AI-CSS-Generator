@@ -1,0 +1,13 @@
+          display: inline-block;
+          margin-right: 15px;
+          vertical-align: middle;
+            display: block;
+            margin: 0;
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            font-size: 12px;
+            padding-top: 2px;
+            text-align: center;
+            background-color: #DBE4E8;
+            color: #fff;

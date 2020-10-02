@@ -1,0 +1,4 @@
+	background:transparent url(../images/video-play-icon.png) no-repeat;
+    width: 70px;
+    height: 69px;
+	display:block;

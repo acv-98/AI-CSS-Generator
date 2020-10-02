@@ -1,0 +1,6 @@
+	float:right;
+	font-size:32px;
+	color:#87a310;
+	line-height:1.2em;
+	letter-spacing:-1px;
+	padding-top:2px

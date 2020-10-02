@@ -1,0 +1,5 @@
+	margin-bottom:20px;
+	font-size:40px;
+	line-height:42px;
+	color:#999999;
+	font-style:italic;

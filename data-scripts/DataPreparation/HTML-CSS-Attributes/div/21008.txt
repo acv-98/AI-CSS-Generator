@@ -1,0 +1,13 @@
+  background-color: #222222;
+  border-color: #080808;
+  color: #999999;
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+    border-color: #080808;
+    color: #999999;
+    background-color: transparent;
+        background: #ffffff;
+        color: #fff;
+        font-weight: bolder;
+        font-size: 25px;
+        letter-spacing: 2px;

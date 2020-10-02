@@ -1,0 +1,9 @@
+margin-bottom:0
+display:block;
+height:80px;
+width:80px;
+line-height:80px;
+font-size:40px;
+border-radius:100%;
+color:#fff
+background-color:#1da1f2

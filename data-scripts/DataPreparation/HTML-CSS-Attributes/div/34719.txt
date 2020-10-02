@@ -1,0 +1,1 @@
+    background: rgba(0, 0, 0, 0) url("upload/bg_02.jpg") repeat fixed top center !important;

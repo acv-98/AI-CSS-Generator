@@ -1,0 +1,1 @@
+text-align:centercolor:#fff; font-size:10em

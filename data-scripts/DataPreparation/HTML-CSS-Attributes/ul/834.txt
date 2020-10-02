@@ -1,0 +1,2 @@
+	padding-bottom:24px;
+	background:url(../images/arrow2.gif) no-repeat 0 7px;

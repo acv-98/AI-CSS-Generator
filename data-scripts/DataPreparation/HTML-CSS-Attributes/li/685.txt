@@ -1,0 +1,2 @@
+	background: url(../img/icons/social2/netvibes.png) no-repeat 0 0;
+	background-color: #629e61;

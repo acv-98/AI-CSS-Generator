@@ -1,0 +1,16 @@
+	text-align: center;
+	display: inline-block;
+	margin: 0 4px 0 3px;
+	width: 16px;
+	height: 16px;
+	border-radius: 50%;
+	background: #a8a8a8;
+	cursor: pointer;
+	-webkit-transition: all 0.2s;
+	transition: all 0.2s;
+	margin-left: 4px;
+	opacity: 1;
+	box-shadow: 0 0 0 4px #b2e1e0;
+	-webkit-animation-delay: 0.1s;
+	animation-delay: 0.1s;
+    margin-bottom: 6px;

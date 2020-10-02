@@ -1,0 +1,5 @@
+	overflow:hidden;
+	position:relative;
+	display:none;
+	width:940px;
+	height:395px;

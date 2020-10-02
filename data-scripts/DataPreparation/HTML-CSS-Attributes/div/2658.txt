@@ -1,0 +1,2 @@
+	position: relative !important;
+	z-index: 6 !important;

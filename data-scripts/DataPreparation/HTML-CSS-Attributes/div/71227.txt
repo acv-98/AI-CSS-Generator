@@ -1,0 +1,5 @@
+    position: relative;
+        padding: 0 45px;
+ width: 1200px;    .carousel-inner > .item > a > img, .carousel-inner > .item > img {
+        height: 740px;
+        background-position: bottom 100px center;

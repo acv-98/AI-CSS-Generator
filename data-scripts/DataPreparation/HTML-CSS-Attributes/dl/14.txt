@@ -1,0 +1,8 @@
+	float:left;
+	overflow:hidden;
+	margin-top:-18px;
+	font-weight:bold;
+	color:#f24c15;
+	clear:both;
+	text-align:right;
+	padding-right:25px;

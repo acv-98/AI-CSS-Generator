@@ -1,0 +1,2 @@
+ width: 340px;  width: 940px; 
+ width: 268px;  width: 748px;  width: 340px;  width: 940px;  width: 268px;  width: 748px; 

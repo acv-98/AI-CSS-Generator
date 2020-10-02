@@ -1,0 +1,11 @@
+ background-position: bottom left; 
+.polaroid .slide .slide-content.full {
+    width:100%;       
+    background-position: top center;    
+ padding-left: 60%; .polaroid .thumbs {
+	display: none;
+	position: absolute;
+	left:50%;
+	bottom: 60px;
+	z-index: 100;
+ padding-left: 60%;  display: none; 

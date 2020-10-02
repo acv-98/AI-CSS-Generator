@@ -1,0 +1,4 @@
+	width:24px;
+	height:45px;
+	position:absolute;
+	top:0;

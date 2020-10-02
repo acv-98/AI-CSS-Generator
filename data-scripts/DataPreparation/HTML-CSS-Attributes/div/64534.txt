@@ -1,0 +1,1 @@
+color:#CFCCB3; background:url("../images/body_bg.jpg") top center no-repeat #362914; border-bottom:4px solid #1C150A;

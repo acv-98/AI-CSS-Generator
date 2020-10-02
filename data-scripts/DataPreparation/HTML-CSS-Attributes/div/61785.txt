@@ -1,0 +1,13 @@
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  display: block;
+  color: #6c757d;
+  content: "\2014 \00A0";
+  height: 490px;
+  overflow: hidden;
+  padding-top: 85px;
+  text-transform: uppercase;
+    margin: 0;
+    height: auto;
+    padding-left: 30px;
+    padding-right: 30px;

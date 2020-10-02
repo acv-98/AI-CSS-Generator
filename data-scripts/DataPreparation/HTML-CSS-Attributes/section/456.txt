@@ -1,0 +1,2 @@
+  background: url('../images/home-bg.jpg') no-repeat;
+  height: 100vh;

@@ -1,0 +1,9 @@
+	list-style:none;
+	margin-left:0;
+	margin-bottom:20px;
+	float:left;
+	margin-right:10px;
+	text-shadow:none;
+	color:#fff;
+	background: #1b1b1b;
+		margin-bottom:10px;

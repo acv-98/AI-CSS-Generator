@@ -1,0 +1,12 @@
+	background:url(images/sign.gif) no-repeat 0 0;
+	width:216px;
+	height:124px;
+	position:absolute;
+	top:83px;
+	left:0;
+	font-family:Georgia, Arial, sans-serif;
+	font-size:17px;
+	line-height:40px;
+	color:#072a49;
+	text-transform:uppercase;
+	text-align:center;

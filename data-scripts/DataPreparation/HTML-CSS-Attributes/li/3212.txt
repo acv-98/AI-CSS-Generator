@@ -1,0 +1,7 @@
+			padding-left: 0;
+			border-left: 0;
+		background: url(images/horizontal.gif) repeat-x bottom left;
+		text-align: center;
+			margin: 5px;
+			font-weight: bold;
+			font-size: 1.2em;

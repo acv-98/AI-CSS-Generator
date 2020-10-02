@@ -1,0 +1,57 @@
+  position: fixed;
+    padding-top: 100px!important;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 230px;
+  z-index: 810;
+  -webkit-transition: -webkit-transform 0.3s cubic-bezier(0.32, 1.25, 0.375, 1.15);
+  -moz-transition: -moz-transform 0.3s cubic-bezier(0.32, 1.25, 0.375, 1.15);
+  -o-transition: -o-transform 0.3s cubic-bezier(0.32, 1.25, 0.375, 1.15);
+  transition: transform 0.3s cubic-bezier(0.32, 1.25, 0.375, 1.15);
+    -webkit-transform: translate(-230px, 0);
+    -ms-transform: translate(-230px, 0);
+    -o-transform: translate(-230px, 0);
+    transform: translate(-230px, 0);
+  margin-left: -3px;
+  right: 0;
+  margin-top: -5px;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #000;
+  border-right-width: 0;
+  bottom: -10px;
+  content: " ";
+    left: 0;
+            transform: translate3d(-100%, 0, 0);
+  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .0001) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
+  background-repeat: repeat-x;
+-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.05);box-shadow:0 1px 1px rgba(0,0,0,0.05) * Skin: Blue
+ * ----------
+.skin-blue .main-header .navbar {
+  background-color: #3c8dbc;
+background-color:#3c8dbc * -----------
+.skin-green .main-header .navbar {
+background-color:#00a65a * ------------
+.skin-purple .main-header .navbar {
+background-color:#605ca8 * ---------
+.skin-red .main-header .navbar {
+background-color:#dd4b39.skin-yellow .main-header .navbar {
+background-color:#f39c12 * Slider for Bootstrap
+ *
+ * Copyright 2012 Stefan Petre
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+.slider {
+    display: block;
+    vertical-align: middle;
+    position: relative;
+background-color:#3c8dbc.icheckbox_square,
+.iradio_square {
+    *display: inline;
+    margin: 0;
+    width: 22px;
+    height: 22px;
+    background: url(square.png) no-repeat;
+    border: none;
+    cursor: pointer;

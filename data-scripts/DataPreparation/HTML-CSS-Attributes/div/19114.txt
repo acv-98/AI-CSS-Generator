@@ -1,0 +1,4 @@
+	margin:0 0 60px 0;
+	font-size:40px;
+	color:#ffffff;
+	text-transform:uppercase;

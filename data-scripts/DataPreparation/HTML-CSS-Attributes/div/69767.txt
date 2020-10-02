@@ -1,0 +1,14 @@
+	float: left !important;
+	margin-right: 0px !important;
+	width: 100% !important;
+	display: block !important;
+		 -moz-box-sizing: border-box;
+ -webkit-box-sizing: border-box;
+ -o-box-sizing: border-box;
+ box-sizing: border-box;
+ display: block;
+margin-bottom: 43px;
+	height: 325px;
+	max-width: 100%;
+	overflow: hidden;
+	margin-bottom: 18px;

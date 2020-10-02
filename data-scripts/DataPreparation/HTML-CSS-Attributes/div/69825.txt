@@ -1,0 +1,3 @@
+ padding-right: 0; 		margin: 0 auto;
+		max-width: 660px; 
+		padding-right: 0;

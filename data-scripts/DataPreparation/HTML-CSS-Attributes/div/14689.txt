@@ -1,0 +1,5 @@
+	padding:10px 0 15px 30px;
+	padding-top:1px
+	padding-bottom:28px;
+	background:#fff;
+	color:#12110f;

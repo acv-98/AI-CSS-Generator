@@ -1,0 +1,14 @@
+	background: -webkit-linear-gradient(-45deg, #EC65B7 0%,#05E0D8 100%);
+	opacity: 0.85;
+	-webkit-transition: opacity 0.35s;
+	transition: opacity 0.35s;
+	padding: 20px;
+	width: 50%;
+	height: 50%;
+	border-top: 1px solid #fff;
+	color: white;
+	text-align: left;
+	-webkit-transform: translate3d(10px,10px,0);
+	transform: translate3d(10px,10px,0);
+	font-size: 1.6em;
+	float: right;

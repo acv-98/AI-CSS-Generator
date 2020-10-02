@@ -1,0 +1,3 @@
+	list-style-type:none;
+	color:#34616d;
+	padding-bottom:14px;

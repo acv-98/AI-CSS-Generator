@@ -1,0 +1,8 @@
+    box-shadow: 0 30px 50px 0 rgba(1, 1, 1, 0.18);
+    padding: 8rem 4rem 8rem;
+    background-color: #ffffff;
+    margin-top: -60px;
+    padding-top: 4rem;
+    border: 1px solid #eee;
+    display: block;
+        margin-top: 4rem;

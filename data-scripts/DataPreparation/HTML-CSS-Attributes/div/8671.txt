@@ -1,0 +1,2 @@
+	width:100%;
+	background:url(../images/bg-top-tail2.jpg) center top repeat-y

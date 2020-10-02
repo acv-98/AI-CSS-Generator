@@ -1,0 +1,8 @@
+color:#a9a9a9;color:#a9a9a9;border-bottom:1px dotted #a9a9a9;color:#595959;		
+			
+	.categories	{
+		background: #494949;
+		display: block;
+		margin: 10px 0;
+		padding: 10px 20px;
+		text-align: left;

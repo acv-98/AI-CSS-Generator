@@ -1,0 +1,13 @@
+    position: relative;
+    padding: 10px 30px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background:#fff;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+    font-size: .75em;
+    color: #3f3939;
+    text-transform: uppercase;
+    font-weight: bold;
+        width: 100%;
+        margin-top:10px;
+        margin-bottom: 30px;

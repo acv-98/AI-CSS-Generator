@@ -1,0 +1,12 @@
+  text-align: center;
+  margin-top: 43px;
+  display: inline-block;
+  width: 53px;
+  height: 36px;
+  font: 24px/36px 'Dosis', sans-serif;
+  color: #5d5959;
+  border: 1px solid #7b7878;
+  margin-left: -1px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  background: #ffffff;

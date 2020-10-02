@@ -1,0 +1,9 @@
+	height:32px;
+	width:185px;
+	float:left;
+	display:inline;
+	background:url(images/field.gif) no-repeat 0 0;
+	padding:10px 10px;
+	font-size:10px;
+	color:#1b455e;
+	border:0;

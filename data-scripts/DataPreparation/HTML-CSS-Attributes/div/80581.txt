@@ -1,0 +1,13 @@
+		background:url(../images/icons/info_button_32.png) no-repeat #e5f7ff;
+		background-position:15px 15px;
+		border-color:#5ac8f1;
+		margin:7px 0 15px 0;
+		padding:6px 0 7px 0;
+		border-top:1px solid #e7e6e6;
+		border-bottom:1px solid #e7e6e6;
+		font-size:9px;
+		color:#999999;
+color:#e7e6e6;padding:2px 0 3px 0;margin:0 5px 5px 0;float:none;width:100%;position:relative;padding:0 0 20px 0;margin:0 0 20px 0;border-bottom:1px dashed #dddddd;margin:0 20px 0 0;float:left;display:block;position:relative;z-index:10000;background-color:#efefef !important;border:1px solid #e5e5e5;margin:0;float:right;font-size:16px;font-weight:600;line-height:20px;margin-bottom:12px;padding:0 4px 4px 4px;margin:0;color:#e7e6e6;font-size:8px;		* Blog Post
+float:none;width:100%;position:relative;padding:0 0 20px 0;margin:0 0 20px 0;border-bottom:1px dashed #dddddd;margin:0 0 10px 0;float:none;float:none;margin:0;padding:0;margin-bottom:6px;color:#e7e6e6;max-width:290px;		.footer.style-2 .patch {
+			background:url(../images/design/footer-2-patch-320.png) top left no-repeat transparent;
+			height:25px;

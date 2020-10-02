@@ -1,0 +1,9 @@
+    display: none;
+    font-size: 40px;
+    text-align: center;
+    color: #ffa500;
+    position: fixed;
+    right: 8px;
+    bottom: 30px;
+    z-index: 999;
+    transition: all 0.3s ease-in-out;

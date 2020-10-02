@@ -1,0 +1,14 @@
+	float: left;
+	width: 100%;
+	margin: 10px 0px;
+ border-left: 4px solid #10a5cd; 	border-left: 4px solid #a92446; .heading h1, .heading2 h1 {
+	font-weight: 600;
+	font-size: 72px;
+ color: #10a5cd;  color: #a92446; .desc, .desc2 {
+	padding-left: 15px;
+	font-size: 40px;  font-size: 14px; 	
+	.banner-main-home-text,
+	.banner-main-about-text {
+		width: auto;		
+ margin: 15px 0px;		font-size: 46px;  font-size: 15px; 	.content-main {
+		padding-left: 0;

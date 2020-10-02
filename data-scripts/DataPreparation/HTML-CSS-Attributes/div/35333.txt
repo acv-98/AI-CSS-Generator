@@ -1,0 +1,6 @@
+  border-bottom: 0;
+  display: block;
+  padding: 8px 15px;
+	background-color: #eee;
+	font-weight: bold;
+	font-size: 12px;

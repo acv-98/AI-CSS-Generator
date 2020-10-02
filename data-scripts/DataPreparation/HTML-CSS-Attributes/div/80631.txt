@@ -1,0 +1,29 @@
+		-moz-box-sizing: border-box;
+		box-sizing:border-box;
+		background:#fdfdfd;
+		border-radius: 100%;
+		padding: 2px;
+		position: relative;
+		max-width:205px;
+		z-index:10000;
+		margin:0 40px 31px 0;
+		transition: all 0.13s cubic-bezier(0.75,0.16,0.98,0.48) 0s;
+margin-right:0;	.circles .columns .icon {
+		width:100%;
+		padding-top:22px;
+		background-color:#fdfdfd;
+border-color:#3f98b9;	.circles .columns .icon .content {
+		text-align:center;
+		font-size:16px;
+		font-weight:600;
+		color:#393939;
+		margin-bottom:4px;
+		font-family:"Open Sans";
+		height:4px;
+		line-height:14px;
+		padding-bottom:39px;
+		display:block;
+background:url(../images/design/drops/buoy.png) no-repeat;background:url(../images/design/drops/gear.png) no-repeat;background:url(../images/design/drops/cart.png) no-repeat;background:url(../images/design/drops/client.png) no-repeat;background:url(../images/design/drops/globe.png) no-repeat;background:url(../images/design/drops/iphone.png) no-repeat;background:url(../images/design/drops/lab.png) no-repeat;background:url(../images/design/drops/pushpin.png) no-repeat;background:url(../images/design/drops/tags.png) no-repeat;background:url(../images/design/drops/tools.png) no-repeat;background:url(../images/design/drops/trophy.png) no-repeat;background:url(../images/design/drops/truck.png) no-repeat;background:url(../images/design/drops/tv.png) no-repeat;background:url(../images/design/drops/umbrella.png) no-repeat;background:url(../images/design/drops/virus.png) no-repeat;margin-right:0;		.footer .content {
+			background:url(../images/design/footer-bg-768.png) top left repeat-y transparent;
+			width:788px;
+max-width:197px;height:197px;height:100%;margin-right:0;max-width:300px;height:300px;margin-right:0;vertical-align:middle;vertical-align:middle;position:relative;top:65px;display:none;height:100%;vertical-align:middle;

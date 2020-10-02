@@ -1,0 +1,23 @@
+ position: static;     .testimonial-quote-style .testimonial-name {
+        float: none;
+        text-align: center;
+        margin-right: 0;
+        padding-top: 15px;
+        padding-bottom: 0;
+    border: solid 1px #e6e4e4;
+    margin-bottom: 20px;
+    position: relative;
+    background-color: #ffffff;
+    color: #2E2D2D;
+    font-size: 14px;
+    box-shadow: none;
+    right: 0px;
+    bottom: 0px;
+    left: auto;
+    top: auto;
+    padding-right: 0;
+    width: 87px;
+    height: 85px;
+    min-height: 0;
+    line-height: 1.6em;
+    display: block;

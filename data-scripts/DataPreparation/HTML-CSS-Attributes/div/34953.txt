@@ -1,0 +1,8 @@
+  float: left;
+  font-style: italic;
+  letter-spacing: -0.5px;
+  line-height: 1.3;
+  text-align: center;
+  width: 48px;
+  display: block;
+  text-decoration: none;

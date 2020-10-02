@@ -1,0 +1,21 @@
+	margin-top:0px;
+	_background-position: 5px -354px;
+	background-position: 0 -514px;
+	height:20px;
+	list-tyle-type:none;
+	padding:0;
+	background-image:none;
+	width:640px;
+	clear:both;
+	background-repeat:no-repeat;
+	line-height:78px;
+	font-family:"Myriad Pro";
+	font-size:14px;
+	color:#FF9D13;
+	float:left;
+	text-align:center;
+	font-weight:normal;
+	display:inline-block;
+	  *margin-top:0px; 
+	   *margin-top:0px;
+	   

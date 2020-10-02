@@ -1,0 +1,27 @@
+background-color:rgba(0,0,0,.45);z-index:1080
+.main_h {
+  position: fixed;
+  top: 0px;
+  max-height: 52px;
+  z-index: 999;
+  width: 100%;
+  background: none;
+  overflow: hidden;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  opacity: 0;
+  color: #fff;
+  background-color: #008CEA;
+  pointer-events: none;
+  cursor: default;
+    border-bottom-style: none;
+    padding-bottom: 5px !important;
+    background-color: #32394B;
+  -moz-transition: 4.5s;
+  -ms-transition: 4.5s;
+  -o-transition: 4.5s;
+  -webkit-transform: translateX(-50%) translateY(-1000px);
+  -moz-transform: translateX(-50%) translateY(-1000px);
+  -ms-transform: translateX(-50%) translateY(-1000px);
+  -o-transform: translateX(-50%) translateY(-1000px);
+  transform: translateX(-50%) translateY(-1000px);

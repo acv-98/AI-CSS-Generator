@@ -1,0 +1,38 @@
+ font-size: 11px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  font-size: 11px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  left: 328px 
+ z-index: 1000         width: 390px;
+        height: 195px;
+        margin-top: 195px;
+        left: 350px;
+	float:left; 
+	height:160px; 
+	width:320px; 
+	position:relative; 
+	text-align:left;
+	-moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1); 
+	z-index:3; 
+	behavior: url(/PIE.htc); 
+	zoom:1;
+    filter: none;
+    -webkit-filter: grayscale(0);
+	cursor:auto;
+	display: none; 
+	margin-top:160px; 
+	top:10px; 
+	left:280px; 
+	padding:8px 5px 5px 5px;
+	background: transparent;
+	background-color:rgba(0,0,0,0.3);
+	opacity:1; 
+	filter: alpha(opacity=100);
+	overflow:hidden;
+	font-family:'PTSansRegular'; 
+	color:#ffffff; 
+	font-size:14px; 
+	padding-top: 1px;
+	
+		width: 362px !important;
+		height: 181px !important;
+		margin-top: 181px !important;
+ left: 330px 		left: 280px;

@@ -1,0 +1,5 @@
+width: 270px; float: right;
+font-size: .9em; line-height: normal;	right: 0;
+	bottom: 0;
+	width: 300px !important;
+	height: 290px;

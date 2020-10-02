@@ -1,0 +1,24 @@
+  margin-bottom: 15px;
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+  min-height: 32px;
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+  margin-right: -15px;
+  margin-left: -15px;
+    padding-top: 14.333333px;
+max-width:1170px * Name: 	Infinity
+ * Version: 1.0
+ * Updated: 28/05/2015
+ * Website:	http://audaindesigns.com
+ * Author:	Audain Designs
+ * Type:	Style - Landing - Landing
+	Sections
+section#landing {
+	background: url('../../img/bg.jpg');
+	background-size: cover;
+	background-position: center;

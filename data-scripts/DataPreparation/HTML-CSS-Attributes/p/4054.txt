@@ -1,0 +1,8 @@
+	float:left;
+	margin:0 15px 20px 0;
+	width:50px;
+	height:65px;
+	background:url(images/bg_newsdate.png) no-repeat top;
+	color:#fff;
+	text-align:center;
+	font-weight:bold;

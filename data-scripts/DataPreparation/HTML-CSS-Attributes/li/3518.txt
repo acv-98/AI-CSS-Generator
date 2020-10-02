@@ -1,0 +1,14 @@
+	margin-left:10px;
+	border-top:1px solid #D8D1C7;
+	height:auto;
+	overflow:hidden;
+	padding:20px 0;
+	width:930px;
+	padding-top:0;
+	list-style:disc;
+	float:left;
+	line-height:30px;
+	padding-bottom:0;
+	padding-left:0;
+	margin-right:30px;
+	background:none;

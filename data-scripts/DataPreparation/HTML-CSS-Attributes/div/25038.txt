@@ -1,0 +1,6 @@
+    width: 80%;
+    display: inline-block;
+    float: left;
+    padding-top: 2px;
+	margin:0;
+	font-size:11px;

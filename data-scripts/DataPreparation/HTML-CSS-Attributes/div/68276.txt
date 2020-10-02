@@ -1,0 +1,16 @@
+  margin-bottom: 30px;
+  float: left;
+  width: 100%;
+  font-size: 18px;
+  height: 46px;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+  border-left: 45px solid transparent;
+  border-right: 45px solid transparent;
+  top: -30px;
+  border-bottom: 30px solid #FF5126;
+  bottom: -30px;
+  border-top: 30px solid #FF5126;
+  line-height: 46px;
+  color: #fff;

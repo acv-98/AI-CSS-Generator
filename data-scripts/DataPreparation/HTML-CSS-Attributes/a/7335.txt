@@ -1,0 +1,2 @@
+  border: 2px solid #ccc !important;
+  background: transparent;

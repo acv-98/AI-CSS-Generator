@@ -1,0 +1,6 @@
+	background: url(../images/interface.png) no-repeat;
+	background-position: 0 -1110px;
+	cursor: pointer;
+	height: 30px;
+	width: 110px;
+	border: 0;

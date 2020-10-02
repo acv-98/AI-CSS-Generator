@@ -1,0 +1,6 @@
+	float: left;
+	background: #00BFF0;
+	padding:10px 0 5px 0;
+	color: #C0EEFF;
+	font-size: 0.85em;
+		float: none;

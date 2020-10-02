@@ -1,0 +1,14 @@
+		height: 100%;
+		padding: 150px 0 0 0;
+		text-align: center;
+		background-position: top center;
+	  font-size: 16px;
+  min-height: 134px;
+  padding: 10px 0 25px 170px;
+  position: relative;
+  margin: 0 auto;
+  max-width: 750px;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  border-radius: 50%;

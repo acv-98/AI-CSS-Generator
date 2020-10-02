@@ -1,0 +1,4 @@
+	display:block;
+	background:url(../images/filler.gif) repeat-x 0 bottom;
+	height:15px;
+	overflow:hidden;

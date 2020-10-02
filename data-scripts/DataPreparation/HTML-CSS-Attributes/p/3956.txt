@@ -1,0 +1,6 @@
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-size: 26px;
+  margin: 45px 0 75px 0;
+  color: #fff;
+    margin: 35px 0;
+    font-size: 24px;

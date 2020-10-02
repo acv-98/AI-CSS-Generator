@@ -1,0 +1,4 @@
+    font-size:40px !important;
+    font-weight:600!important;
+    color:#fff!important;
+    padding:5px 20px 10px 20px;

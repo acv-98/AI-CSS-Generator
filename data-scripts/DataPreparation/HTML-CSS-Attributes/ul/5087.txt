@@ -1,0 +1,11 @@
+ margin: 0; padding: 0;
+.flexslider {
+   position: relative;
+   zoom: 1;
+   margin: 0;
+   padding: 0;
+ zoom: 1;  position: relative;  display: none; -webkit-backface-visibility: hidden;    content: " ";
+   display: table;
+   clear: both;
+ display: block;  zoom: 1; .slides > li {
+   overflow: hidden;

@@ -1,0 +1,13 @@
+  margin: 0 auto;
+  text-align: center;
+  padding: 0;
+  display: inline-block;
+  list-style: outside none none;
+  background: hsl(0, 0%, 100%) none repeat scroll 0 0;
+  color: hsl(0, 0%, 0%);
+  font-size: 14px;
+  font-weight: 300;
+	background:#f6b20e;
+	color:#fff;
+  width: 170px;
+  background: hsl(0, 0%, 100%) none repeat scroll 0 0;  display: block;  margin: 10px 0;  width: 100%;

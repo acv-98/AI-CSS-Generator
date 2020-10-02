@@ -1,0 +1,12 @@
+	margin-top: 20px;
+	color: #665d4e;
+	font-size: 14px;
+	border: 1px solid #665d4e;
+	background: #f9f7e8;
+	padding: 4px 5px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	line-height: 1.5em;
+	font-weight: bold;
+	margin-bottom: 10px;

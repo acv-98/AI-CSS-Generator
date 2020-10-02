@@ -1,0 +1,9 @@
+	display: inline;
+	float: left;
+	width: 100%;
+	color: #fff;
+	font-size: 45px;
+	font-weight: 700;
+	margin-top: 35px;
+		margin-top: 25px;
+		width: 200px;

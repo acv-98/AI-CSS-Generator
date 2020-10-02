@@ -1,0 +1,6 @@
+		padding: 120px 0 60px 0;
+		font-size: 30px;
+	font-weight: 700;
+	color: #ffffff;
+	background: transparent;
+	line-height: 1;

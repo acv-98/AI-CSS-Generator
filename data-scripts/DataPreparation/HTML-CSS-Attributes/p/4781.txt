@@ -1,0 +1,4 @@
+	margin-bottom: 1.2rem;
+	font-family: "roboto-regular", sans-serif;
+	font-size: 1.8rem;
+	color: #3f4452;

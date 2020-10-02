@@ -1,0 +1,10 @@
+  height: 33px;
+  padding: 5px 10px;
+  font-size: 14px;
+  line-height: 1.5;
+    display: inline-block;
+    margin-bottom: 0;
+  margin-left: -15px;
+    content: " ";
+      display: inline-block;
+      margin-bottom: 0;

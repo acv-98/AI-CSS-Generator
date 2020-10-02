@@ -1,0 +1,7 @@
+        padding-top: 30px;
+padding-top: 70px;#hero h1 {
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: .8em;
+    text-shadow: 7px 9px 5px rgba(161, 19, 15, 0.294);
+padding: 65px 0;FOOTER SECTION

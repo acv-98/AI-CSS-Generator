@@ -1,0 +1,9 @@
+        margin-bottom: 40px;
+.main_feature .single_feature:hover .single_feature_icon{
+    border-color:#e74c3c;
+    transform: rotate(45deg);
+    color:#e74c3c;
+    width:70px;
+    height: 70px;
+    line-height: 70px;
+    transition: all 0.6s;

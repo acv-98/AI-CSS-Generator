@@ -1,0 +1,12 @@
+		padding: 0;
+	list-style: none;
+	font-size: 14px;
+	color: #858585;
+	margin-bottom: 15px;
+	padding-left: 22px;
+	position: relative;
+	border-left: 1px solid #DDD;
+		color: #999;
+		text-decoration:none !important;
+		border-left: 1px solid #F7C221;
+		

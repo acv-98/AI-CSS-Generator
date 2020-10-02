@@ -1,0 +1,3 @@
+	color: #ffffff;
+	background-color: #57737f;
+	background-image: url('../img/knobs-icons/Knob Fast Forward.png');

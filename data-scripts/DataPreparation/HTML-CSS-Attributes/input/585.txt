@@ -1,0 +1,14 @@
+	border:0;
+	background:url(../images/send-btn.png) no-repeat left top;
+	width:112px;
+	height:45px;
+	text-align:center;
+	line-height:45px;
+	cursor:pointer;
+	color:#FFF;
+	text-shadow:0 1px 2px #000000;
+	text-transform:uppercase;
+	padding:0;
+	margin:0;
+	overflow:hidden;
+ *height:45px;

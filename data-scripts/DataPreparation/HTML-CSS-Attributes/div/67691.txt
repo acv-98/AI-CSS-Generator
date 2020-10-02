@@ -1,0 +1,2 @@
+ background:url(images/nav-box-right.gif) no-repeat right top; height:47px;
+background:url(images/right-top-corner1.gif) no-repeat right top;background:url(images/right-bot-corner1.gif) no-repeat right bottom; background:url(images/right-top-corner.gif) no-repeat right top;background:url(images/right-bot-corner.gif) no-repeat right bottom; background:url(images/right-top-corner2.gif) no-repeat right top;background:url(images/right-bot-corner2.gif) no-repeat right bottom; 

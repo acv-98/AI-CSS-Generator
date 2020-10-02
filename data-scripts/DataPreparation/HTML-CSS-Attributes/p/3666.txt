@@ -1,0 +1,5 @@
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-bottom: 7px;
+	font-family:  'Open Sans', sans-serif;
+	padding-bottom: 14px;

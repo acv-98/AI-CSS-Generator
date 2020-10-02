@@ -1,0 +1,2 @@
+ width:48% !important; margin-right:4% !important; height:auto;  margin-right:0 !important; 
+ width:30% !important; margin-right:4% !important; height:auto;  margin-right:0 !important; 

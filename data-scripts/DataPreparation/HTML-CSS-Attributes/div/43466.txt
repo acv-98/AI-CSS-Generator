@@ -1,0 +1,11 @@
+ float: none; width: auto; margin-top: 30px; text-align: center;  float: none; width: auto; margin-top: 50px; text-align: center;     
+ margin-top: 50px; text-align: center;  margin-top: 30px;  margin-top: 30px; text-align: center;  margin-top: 50px; text-align: center;  padding: 0 20px;  margin-top: 50px; text-align: center;  margin-top: 30px; 	margin-top: 30px;
+	font-size: 18px;
+    line-height: 32px;
+	text-align: right;
+	margin-bottom: 30px;
+ color: #333; .call-to-action-container {
+    margin: 0 auto;
+    padding-bottom: 60px;
+    color: #888;
+    text-align: center;

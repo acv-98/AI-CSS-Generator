@@ -1,0 +1,8 @@
+	font-size:14px;
+	text-transform:uppercase;
+	padding-bottom:4px;
+	float:left;
+	border-bottom: solid 1px #39352e;
+	height:4px;
+	width:272px;
+	padding-top:30px;

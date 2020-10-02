@@ -1,0 +1,8 @@
+  cursor: pointer;
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to bottom, #ffffff 0%, #f2f2f2 100%);
+  display: none;
+  float: right;
+  color: #888;
+margin:0 auto  background-color: #fafafa;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);

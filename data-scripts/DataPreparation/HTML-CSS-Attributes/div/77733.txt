@@ -1,0 +1,4 @@
+border: 2px solid #fff;
+overflow: hidden;
+border-radius: 50%;
+display: inline-block;

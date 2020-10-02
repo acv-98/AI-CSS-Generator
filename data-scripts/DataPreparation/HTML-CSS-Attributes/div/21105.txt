@@ -1,0 +1,11 @@
+	padding:50px;
+	border-radius:50%;
+	color:#fff;
+	background-color:#24325D;
+	border-color:#ccc;
+	margin-top:30px;
+	margin-bottom:30px;
+	box-shadow: 0 0 0 8px rgba(255,255,255,1);
+	-webkit-transition: background 0.2s, color 0.2s;
+	-moz-transition: background 0.2s, color 0.2s;
+	transition: background 0.2s, color 0.2s;

@@ -1,0 +1,4 @@
+    	padding: 10px;
+		position: relative;
+		z-index: 300;
+		text-align: center;

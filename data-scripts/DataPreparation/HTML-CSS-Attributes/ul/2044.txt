@@ -1,0 +1,2 @@
+display:block; margin-bottom:12px; padding:0 0 12px 0; border-bottom:1px solid;margin:0; padding:0; border:none;display:table; content:"";clear:both;
+border-color:rgba(255,255,255,.2);

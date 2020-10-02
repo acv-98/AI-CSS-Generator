@@ -1,0 +1,5 @@
+	height: 4px;
+	background:#e1e8ed;
+	border-left:20px solid #bfd6e4;
+	display: block;
+	margin: 5px 0;

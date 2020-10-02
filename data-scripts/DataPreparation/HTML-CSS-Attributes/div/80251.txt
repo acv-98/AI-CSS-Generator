@@ -1,0 +1,16 @@
+  position: relative;
+  width: 25%;
+  height: 350px;
+  float: left;
+  background: #F36363;
+    width: 50%;
+  top: 130px;
+  right: -20px;
+  content: '';
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-left: 20px solid #F36363;
+  z-index: 9;
+  padding: 30px;
+  color: #fff;
+  font-size: 16px;

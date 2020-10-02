@@ -1,0 +1,2 @@
+ background-image: url(images/nav-active.gif); color: #fff; 
+ background-position: 0 0; 

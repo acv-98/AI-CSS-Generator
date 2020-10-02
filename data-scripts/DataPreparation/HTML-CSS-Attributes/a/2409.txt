@@ -1,0 +1,18 @@
+	font-size: 0;
+	line-height: 0;
+	text-align: right;
+	padding-top: 23px;
+	margin: 0;
+	padding-left: 7px;
+	padding-right: 7px;
+	min-width: 85px;
+	display: inline-block;
+	
+	margin-left: 8px;
+    border-radius: 3px;
+    margin-top: 18px;
+    display: inline-block;
+    background-color: #86c8b4;
+    padding: 6px 23px 7px;
+    color: #fff;
+    font: bold 18px/24px 'Open Sans Condensed', sans-serif;

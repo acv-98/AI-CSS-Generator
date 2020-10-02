@@ -1,0 +1,3 @@
+background:#217b9d;max-width:685px;margin:0 0 35px 0;padding:0;position:relative;float:left;position:absolute;top:12px;left:6px;z-index:1000;background:none;padding:6px;background:#3aa9d2;color:#dedede;line-height:11px;font-size:11px;margin-top:3px;float:left;width:381px;margin:0 0 0 20px;width:272px;height:161px;overflow:hidden;padding:2px 0 3px 0;margin:0 5px 5px 0;padding-bottom:12px;line-height:12px;margin-top:6px;margin:7px 0 0 0;	* Blog Post
+max-width:523px;margin:0 0 35px 0;padding:0;margin-top:3px;float:left;width:285px;margin:0 0 0 20px;width:204px;height:121px;overflow:hidden;font-size:8px;		* Blog Post
+max-width:100%;margin:0 0 35px 0;padding:0;margin:0 0 0 6px;float:none;width:100%;display:block;margin:0;position:relative;width:100%;float:none;

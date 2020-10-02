@@ -1,0 +1,5 @@
+		margin-bottom:0 !important;
+		padding-bottom:0 !important;
+	float: right;
+	padding-top: 51px;
+	padding-right: 40px;

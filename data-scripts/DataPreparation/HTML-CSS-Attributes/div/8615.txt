@@ -1,0 +1,6 @@
+	padding: 0px;
+	border-left: 2px solid #75bd29;
+	margin: 25px 0px;
+	color: #75bd29;
+	font-size: 18px;
+	text-transform: uppercase;

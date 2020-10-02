@@ -1,0 +1,1 @@
+width:400px; float:left; background:url("../img/sprites.png") no-repeat -950px -667px; margin-bottom:20px;display:block; overflow:hidden; margin-left:10px; padding-left:0; list-style-type:none;display:block; float:left; margin:0 8px 12px 8px;border:1px solid #fff; -webkit-box-shadow:0 0 3px #000; -moz-box-shadow:0 0 3px #000; box-shadow:0 0 3px #000;

@@ -1,0 +1,10 @@
+  font-weight: normal;
+  color: #428bca;
+  cursor: pointer;
+  border-radius: 0;
+  background-color: transparent;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border-color: transparent;
+  text-decoration: underline;
+color:#fff;background-color:#007bb6;border-color:rgba(0,0,0,0.2)background-image:nonebackground-color:#007bb6;border-color:rgba(0,0,0,0.2)

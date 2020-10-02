@@ -1,0 +1,5 @@
+	float:left;
+	background:url(../images/post-frontpage-img-bg.jpg) no-repeat;
+	width:66px;
+	height:66px;
+	margin:4px 15px 0 0;

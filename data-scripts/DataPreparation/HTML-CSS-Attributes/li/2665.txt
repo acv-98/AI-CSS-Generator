@@ -1,0 +1,13 @@
+  padding: 0 0 0 5.625rem;
+  margin-bottom: .3125rem;
+    padding-left: 0;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease-in;
+  transition: all 0.4s ease-in;
+  -webkit-transform: translate3d(0, 1.25rem, 0);
+  transform: translate3d(0, 1.25rem, 0);
+    opacity: 1;
+    -webkit-transition: all 0.4s 0.2s ease-out;
+    transition: all 0.4s 0.2s ease-out;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);

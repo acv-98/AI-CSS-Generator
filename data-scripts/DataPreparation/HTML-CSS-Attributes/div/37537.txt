@@ -1,0 +1,17 @@
+	position: absolute;
+	background: #f8f8f8;
+	border: 2px solid #cfd5da;
+	width: 100%;
+	color: #4c4c4c;
+    font: 14px/18px Arial, Helvetica, sans-serif;
+	display: none;
+	opacity: 0;
+	height: 116px;
+    opacity: 0;
+    padding: 46px 10px;
+	text-align: center;
+	z-index: 999;
+	box-sizing: border-box;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;

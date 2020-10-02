@@ -1,0 +1,14 @@
+    position: absolute;
+    background-color: #cc3467;
+    width: 90%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+        padding-top: 30px;
+        height: 200px;
+ height: 220px;     .tm-float-section-body,
+    .tm-float-section-body .col-lg-12 {
+        padding-left: 0;
+        padding-right: 0;

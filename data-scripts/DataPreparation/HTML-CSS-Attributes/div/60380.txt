@@ -1,0 +1,2 @@
+	color:#585b60;
+	font-size:50px;

@@ -1,0 +1,3 @@
+text-align:centercolor:#FE5214background:#fff
+@media (max-width: 600px){
+#headerSection .btn.btn-navbar {

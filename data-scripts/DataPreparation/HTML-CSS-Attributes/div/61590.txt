@@ -1,0 +1,9 @@
+	bottom:50%;
+	left:43%;
+	font-size:15px;
+	color:#fff;
+	text-transform:uppercase;
+	transition:.3s;
+	position:absolute;
+	z-index:1;
+	-webkit-transition:.5s;

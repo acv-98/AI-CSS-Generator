@@ -1,0 +1,5 @@
+	width:302px;
+	height:228px;
+	position:absolute;
+	left:10px;
+	top:-20px;

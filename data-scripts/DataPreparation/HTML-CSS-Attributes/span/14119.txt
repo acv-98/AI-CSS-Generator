@@ -1,0 +1,2 @@
+ float: right; display: inline; 
+ background: url(images/right.png) no-repeat 0 0; width: 21px; height: 130px; position: absolute; right: 51px; top: 147px; z-index: 1000;

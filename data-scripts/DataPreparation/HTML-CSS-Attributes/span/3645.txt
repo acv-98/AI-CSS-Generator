@@ -1,0 +1,11 @@
+  color: #efefef;
+  padding-right: 0.4em;
+  font-size: 1.6em;
+  line-height: 0.5em;
+  vertical-align: text-bottom;
+  position: relative;
+  top: -0.12em;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin-top: 0.2em;

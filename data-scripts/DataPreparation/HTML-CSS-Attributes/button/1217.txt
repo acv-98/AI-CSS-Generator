@@ -1,0 +1,6 @@
+        border-color: #1f1f1f;
+        color: #fff !important;
+        background-color: #1f1f1f !important;
+        display: block;
+		background: #ffffff;
+		border-radius: 0px;

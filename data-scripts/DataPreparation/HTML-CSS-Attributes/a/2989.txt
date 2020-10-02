@@ -1,0 +1,23 @@
+		font-size: 13px;
+		display: none;
+	color: #292929;
+	letter-spacing: 1px;
+	position: relative;
+	padding: 10px 15px;
+	border-radius: 50px;
+	background: #faad3b
+    content: '';
+    width: 0;
+    height: 3px;
+    background: #ffffff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+	right: 0;
+	text-align: center;
+	margin: 0 auto;
+    border-radius: 0px;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    z-index: -1;
+	width: 50%;

@@ -1,0 +1,14 @@
+    display: block;
+    width: 100%;
+        display: block;
+        width: 100%;
+        text-align: center;
+        float: none;
+        margin: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 10px 15px;
+        padding-left: 30px;
+        padding-right: 30px;
+         width: 100%;

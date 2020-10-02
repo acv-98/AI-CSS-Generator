@@ -1,0 +1,12 @@
+  display: block;
+  padding: 3px 20px;
+  font-size: 12px;
+  line-height: 1.42857143;
+  color: #777;
+  white-space: nowrap;
+    padding: 5px 15px 5px 25px;
+    border-color: #080808;
+  padding-left: 0;
+  padding-right: 0;
+  text-transform: uppercase;
+  font-weight: 300;

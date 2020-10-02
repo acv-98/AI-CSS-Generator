@@ -1,0 +1,5 @@
+    margin: 0 0 50px;
+	font-size: 30px;
+	color: #000;
+	text-align: center;
+	margin: 0 0 30px;

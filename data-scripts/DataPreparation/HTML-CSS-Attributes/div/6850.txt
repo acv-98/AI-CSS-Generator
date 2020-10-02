@@ -1,0 +1,4 @@
+ font-family: 'Ropa Sans', sans-serif; text-transform:uppercase; margin-top:20px; background:url(../images/icon-more.png) no-repeat; width:16px; height:16px; padding-bottom:30px;  padding-left:20px;
+TOP PANEL CLASSES
+margin-left:20px; margin-top:20px; background:url(../images/icon-more.png) no-repeat; width:16px; height:16px; padding-bottom:30px;  padding-left:20px;LAYOUT CLASSES
+width:40px; height:40px; float:right; background: url(../images/icon-search.png) no-repeat center #cf9359;padding:8px;background:#cf9359; color:#f7f7f7; text-transform:uppercase;font-family: 'Ropa Sans', sans-serif; border:0px solid;margin-left:100px;margin-top:20px;

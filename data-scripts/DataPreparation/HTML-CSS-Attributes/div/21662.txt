@@ -1,0 +1,2 @@
+  right: -63px;
+  background-position: center right;

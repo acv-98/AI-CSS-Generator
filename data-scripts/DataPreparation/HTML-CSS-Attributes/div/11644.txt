@@ -1,0 +1,7 @@
+	font-size: 48px;
+	margin-bottom: 36px;
+	line-height: 35px;
+	border-bottom: 1px solid #1c1c1c;
+	padding-bottom: 22px;
+	color: #dd6d8c;
+	letter-spacing: -1px;

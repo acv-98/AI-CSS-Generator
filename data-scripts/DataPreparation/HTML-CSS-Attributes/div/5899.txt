@@ -1,0 +1,6 @@
+	clear:both;
+	padding:0;
+	margin:10px 0;
+	height:3px;
+	list-style:none;
+	background:url(images/bg.gif) top repeat-x;

@@ -1,0 +1,5 @@
+	text-transform:none;
+	margin-top:0;
+	margin-right:0;
+	margin-bottom:5px;
+	margin-left:0;

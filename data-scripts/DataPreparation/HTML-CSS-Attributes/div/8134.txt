@@ -1,0 +1,13 @@
+  margin-right: -15px;
+  margin-left: -15px;
+max-width:1170px * Name: 	Infinity
+ * Version: 1.0
+ * Updated: 28/05/2015
+ * Website:	http://audaindesigns.com
+ * Author:	Audain Designs
+ * Type:	Style - Landing - Landing
+	Sections
+section#landing {
+	background: url('../../img/bg.jpg');
+	background-size: cover;
+	background-position: center;

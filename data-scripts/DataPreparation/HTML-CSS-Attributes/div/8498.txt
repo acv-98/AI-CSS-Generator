@@ -1,0 +1,12 @@
+	border-top: 1px solid rgba(255,255,255,0.15);
+	padding-top: 50px;
+	margin-top: 50px;
+	text-align: center;
+	display: inline-block;
+	font-size: 22px;
+	width: 48px;
+	height: 48px;
+	color: #fff;
+	border-radius: 50%;
+	transition: all 0.3s;
+	background: #fff;

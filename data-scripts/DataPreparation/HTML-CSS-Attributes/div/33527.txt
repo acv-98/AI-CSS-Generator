@@ -1,0 +1,8 @@
+  float: none !important;
+padding: 40px 0;
+overflow: hidden;
+	color: #a5a5a5;
+	margin-bottom: 0;
+	font-size: 20px;
+	margin-top: 20px;
+	background: #5c5c5c;

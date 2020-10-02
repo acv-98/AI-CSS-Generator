@@ -1,0 +1,1 @@
+position:relativewidth:100%display:inline-block; left:0; position:absolute; right:0; font-size:20px; text-align:center; top:45%text-decoration:underlinebackground-color:rgba(0,0,0,0.4); color:#fff; display:inline-block; font-size:20px; padding:10px

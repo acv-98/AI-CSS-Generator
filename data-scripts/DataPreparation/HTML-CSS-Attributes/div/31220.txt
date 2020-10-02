@@ -1,0 +1,10 @@
+	width: 100px;
+	margin-right: 40px;
+	float: left;
+	text-align: right;
+	overflow: hidden;
+	text-transform: uppercase;
+	color: #414550;
+	font-size: 14px;
+	margin-top:0px;
+	padding: 0 10px 0 0;

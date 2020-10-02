@@ -1,0 +1,9 @@
+ padding: 0 5px;  position: relative;  margin-right: 0; 
+.tm-form-element-icon {
+	color: #ee5057;
+	position: absolute;
+	top: 10px;
+	left: 15px;
+ width: 33.3333%;  width: 25%; 		width: 33%; 
+		max-width: 215px;
+ width: 50%; 

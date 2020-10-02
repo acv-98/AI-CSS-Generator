@@ -1,0 +1,1 @@
+	animation: loading-3 1s linear forwards 1.8s;

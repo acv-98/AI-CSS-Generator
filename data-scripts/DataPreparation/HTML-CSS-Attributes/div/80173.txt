@@ -1,0 +1,7 @@
+	width:75%;
+	margin:0 auto;
+	color:#555;
+	font-size:1em;
+	line-height:1.5em;
+	padding-bottom:3%;
+		font-size: 0.85em;

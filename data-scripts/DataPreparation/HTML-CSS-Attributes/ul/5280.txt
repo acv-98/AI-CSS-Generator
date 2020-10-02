@@ -1,0 +1,1 @@
+text-align:leftdisplay:inline-blockdisplay:inline-block; background:none repeat scroll 0 0 #333; border-radius:5px; color:white; margin:0 2px 0 0; padding:10px 15px; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5sbackground-color:#ffd62c; outline:none

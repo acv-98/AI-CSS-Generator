@@ -1,0 +1,6 @@
+	float:left;
+	display:inline;
+	width:280px;
+	margin-right:30px;
+	min-height:150px;
+	height:auto !important;

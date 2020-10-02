@@ -1,0 +1,2 @@
+ float:left; width:260px; padding-bottom:40px; padding:6px; background:#fffbfa background:url(../images/shadows2.png) no-repeat; width:252px; height:20px; background:none; border:none; padding:0px; margin-bottom:10px; margin-top:20px; color:#533c47; font-weight:bold; margin-top:34px;
+LEFTCOL CLASSES

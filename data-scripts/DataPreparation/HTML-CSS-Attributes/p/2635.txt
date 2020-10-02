@@ -1,0 +1,4 @@
+  font-family: "Montserrat", Arial, sans-serif;
+  font-size: 14px;
+  color: #b3b3b3;
+  font-style: normal;

@@ -1,0 +1,11 @@
+  font-weight: 300 !important;
+  font-size: 19px;
+  line-height: 27px;
+  margin-bottom: 3em;
+  position: relative;
+  padding-bottom: 30px;
+  bottom: 0;
+  left: 0;
+  width: 30px;
+  height: 2px;
+  background: #7ee383;

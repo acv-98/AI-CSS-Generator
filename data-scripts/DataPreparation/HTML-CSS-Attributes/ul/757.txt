@@ -1,0 +1,12 @@
+  background: #BE1414;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+  color: #fff;
+  border-radius: 3px;
+    float: right;

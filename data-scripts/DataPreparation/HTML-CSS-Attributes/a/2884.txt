@@ -1,0 +1,13 @@
+	display:block;
+	float:left;
+	margin:0;
+	padding:4px 0 0;
+	width:46px;
+	height:30px;
+	font-size:28px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#fff;
+	background:#df9294;
+	border:1px solid #dedede;

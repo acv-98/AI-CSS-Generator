@@ -1,0 +1,13 @@
+	text-align: right;
+	padding-top: 26px;
+	font-size: 0;
+	line-height: 0;
+	display: inline-block;
+	margin: 0;
+	margin-left: 11px;
+	padding-right: 0;
+		padding-bottom: 0;  
+	color: #a2cac2;
+	border: 2px solid #a2cac2;
+	margin-top: 47px;
+	background-color: #a2cac2;

@@ -1,0 +1,2 @@
+background: url(../img/icons/social/skype.png) no-repeat;	background: url(../img/icons/social2/skype.png) no-repeat 0 0;
+	background-color: #18b7f1;

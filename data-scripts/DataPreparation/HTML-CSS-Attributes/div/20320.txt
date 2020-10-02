@@ -1,0 +1,2 @@
+background-color:#fff; display:inline-block; float:left; margin-bottom:20px; padding:0 15px; width:100%border-bottom:1px dotted #798992; font-size:25px; padding-bottom:5px.catgimg_container
+color:#ffa500

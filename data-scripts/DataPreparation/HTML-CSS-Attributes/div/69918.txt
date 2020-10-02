@@ -1,0 +1,8 @@
+display:none;.main_content {
+  float: none;
+  margin-right: 0;
+  width: 252px;
+display:none;border-bottom: 2px solid #999999;
+border-radius:0px 0px 5px 5px;
+height: 90px;
+padding: 25px 0;

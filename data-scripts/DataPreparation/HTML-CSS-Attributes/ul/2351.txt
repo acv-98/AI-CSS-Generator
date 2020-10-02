@@ -1,0 +1,7 @@
+    float: left; 
+    margin-right: 10px; 
+    margin-bottom: 10px; 
+    display: block;   
+    text-decoration: none; 
+    max-width: 300px; 
+    max-height: 250px; 

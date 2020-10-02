@@ -1,0 +1,1 @@
+background-color:#222clear:both; color:#ddd; background-color:#222; padding:10px 20px; font-family:'Oswald',sans-serif; -webkit-transition:all 0.5s; -mz-transition:all 0.5s; -ms-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5scolor:#fffbackground-color:#d083cfbackground-color:#d083cf

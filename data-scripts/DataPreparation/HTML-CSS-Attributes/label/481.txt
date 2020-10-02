@@ -1,0 +1,7 @@
+	padding-top: 11px;
+	height: 100% !important;
+	width: 100%;
+	position: relative;
+	top: 12px;
+	margin-left: 0;
+	line-height: 0;

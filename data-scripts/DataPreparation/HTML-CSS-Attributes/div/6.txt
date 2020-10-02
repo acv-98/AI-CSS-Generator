@@ -1,0 +1,20 @@
+	display:inline;
+	float:left;
+	margin-left:10px;
+	margin-right:10px
+	width:700px
+	height: 300px;
+	overflow: hidden;
+	padding: 78px 0 0 0;
+	font-family: Georgia;
+	font-size: 30px;
+	font-weight: normal;
+	line-height: 24px;
+	color: #1d1d1d;
+	text-align: center;
+	border: 5px solid #a3a4a4;
+	background: #fff;
+	-moz-border-radius: 14px;
+	border-radius: 14px;
+	text-shadow: 1px 1px 0px #ffffff;
+	filter: dropshadow(color=#ffffff, offx=0, offy=1);

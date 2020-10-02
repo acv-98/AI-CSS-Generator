@@ -1,0 +1,9 @@
+    background: #fff none no-repeat scroll right center / auto 100%;
+    padding: 0;
+    background-image: none;
+    clear: both;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    border: 1px solid #e2e2e2;

@@ -1,0 +1,10 @@
+   margin-bottom: 24px;
+   margin-top: 12px;
+   font-size: 20px;
+   font-weight: normal;
+   line-height: 18px;
+   color: #969696;
+   padding: 0;
+   display: inline-block;
+   margin-right: 15px;
+ color: #424242;  color: #11ABB0; 

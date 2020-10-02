@@ -1,0 +1,11 @@
+	float: none;
+	padding: 12px 0px;
+.like-list ul li {
+	margin-right: -6px;
+	position: relative;
+	z-index: 2;
+	border: none;
+	text-align: center;
+	height: 26px;
+	width: 26px;
+	line-height: 26px;

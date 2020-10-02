@@ -1,0 +1,5 @@
+background:#fff; padding:0
+  .header {
+z-index: 999;
+position: relative;
+padding: 0;

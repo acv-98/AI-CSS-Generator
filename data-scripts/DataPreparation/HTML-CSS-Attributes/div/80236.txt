@@ -1,0 +1,15 @@
+  float: left;
+  width: 50%;
+    display: -webkit-box;
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    position: relative;
+    width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+    height: 300px;
+  top: 0;
+  right: 0;
+  bottom: 0;

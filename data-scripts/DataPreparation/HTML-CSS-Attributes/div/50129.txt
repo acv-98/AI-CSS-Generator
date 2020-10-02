@@ -1,0 +1,1 @@
+float: right; display: inline; padding-top:25px; padding-right:17px

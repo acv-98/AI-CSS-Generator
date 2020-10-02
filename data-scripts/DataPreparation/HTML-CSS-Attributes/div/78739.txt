@@ -1,0 +1,7 @@
+    text-align: center;
+    -webkit-tap-highlight-color: transparent;
+    width: 8px;
+    height: 8px;
+    margin: 0 7px;
+    border-radius: 50%;
+    background: #121212;

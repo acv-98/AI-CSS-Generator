@@ -1,0 +1,1 @@
+padding:10px 10px;width:400px; background:#043e7f; border:#1661b3 1px solid;overflow:hidden;height:150px; color:#fff; font-family: 'Trebuchet MS', serif; font-size:14px; outline:none;

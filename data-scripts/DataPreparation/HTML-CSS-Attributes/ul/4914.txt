@@ -1,0 +1,1 @@
+position:absolute; top:22px; left:583px; width:175pxpadding-left:12px; background:url(../images/arrow1.gif) 0 4px no-repeatfont:10px/14px Tahoma, sans-serif; color:#d9f1ff; text-decoration:none; font-weight:boldcolor:#fff

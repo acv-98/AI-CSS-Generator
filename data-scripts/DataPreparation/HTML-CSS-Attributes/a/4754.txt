@@ -1,0 +1,17 @@
+  font-family: 'Montserrat', sans-serif;
+  outline: 0px auto -webkit-focus-ring-color;
+  text-transform: uppercase;
+  border-radius: 4px;
+  font-size: 13px;
+  line-height: 1.33;
+  padding: 22px 30px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  width: 100%;
+  background-color:#70cbce;
+  color: #ffffff;
+  -webkit-transition: all 0.35s ease-in-out;
+  -moz-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+  transition: all 0.35s ease-in-out;
+    border-radius: 0;

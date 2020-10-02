@@ -1,0 +1,4 @@
+	display: block;
+	background: transparent url(../images/footer-line.png) repeat-x left top;
+	margin: 10px 0 0 0;
+	padding: 10px 0 0 0;

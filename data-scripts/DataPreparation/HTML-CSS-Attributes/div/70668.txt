@@ -1,0 +1,12 @@
+	margin:0;
+	padding:0;
+	float:right;
+	list-style:none;
+	background:no-repeat right center;
+	display:block;
+	color:#959595;
+	text-decoration:none;
+	font-size:13px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;

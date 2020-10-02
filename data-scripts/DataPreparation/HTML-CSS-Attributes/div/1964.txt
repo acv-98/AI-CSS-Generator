@@ -1,0 +1,4 @@
+	margin:0 auto;
+	padding:24px 0 40px;
+	width:960px;
+	background:url(../images/sidebar_bg.gif) repeat-y left top;

@@ -1,0 +1,5 @@
+    text-align: center;
+    margin-bottom: -10em;
+  vertical-align: based;
+  max-width: 380px;
+    max-width: 380px;

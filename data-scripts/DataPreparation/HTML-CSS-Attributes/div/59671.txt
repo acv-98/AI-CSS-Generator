@@ -1,0 +1,5 @@
+  text-align: center;
+  float: none;
+.post_excerpt img{float: left;
+margin-right: 10px;
+width: 220px;

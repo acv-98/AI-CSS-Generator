@@ -1,0 +1,5 @@
+	width:986px;
+	background:#fff url(images/shell-t.gif) no-repeat 0 0;
+	margin:0 auto;
+	position:relative;
+	padding-bottom:50px;

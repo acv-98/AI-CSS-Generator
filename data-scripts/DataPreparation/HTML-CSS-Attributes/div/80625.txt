@@ -1,0 +1,21 @@
+		height:410px;
+		background:url(../images/design/rb-960.png) left top no-repeat transparent;
+		position:relative;
+		margin:auto;
+		z-index:331;
+		display:none;
+width:531px;width:283px;width:104px; left:-41px;z-index:1;top:153px;  left:422px;z-index:12;top:189px;  left:125px;z-index:4;top:24px;  position:absolute;top:230px;  position:relative; 	
+		.asyncslider div, .asyncslider span,.asyncslider  applet, .asyncslider object, .asyncslider iframe, .asyncslider h1, .asyncslider h2, .asyncslider h3, .asyncslider h4, .asyncslider h5, .asyncslider h6, .asyncslider p, .asyncslider blockquote, .asyncslider pre, .asyncslider a, .asyncslider abbr, .asyncslider acronym, .asyncslider address, .asyncslider big, .asyncslider cite, .asyncslider code, .asyncslider del, .asyncslider dfn, .asyncslider em, .asyncslider img, .asyncslider ins, .asyncslider kbd, .asyncslider q, s, .asyncslider samp, .asyncslider small, .asyncslider strike, .asyncslider strong, .asyncslider sub, .asyncslider sup, .asyncslider tt, .asyncslider var, .asyncslider b, .asyncslider u, .asyncslider i, .asyncslider center, .asyncslider dl, .asyncslider dt, .asyncslider dd, .asyncslider ol, .asyncslider ul, .asyncslider li, .asyncslider fieldset, .asyncslider form, .asyncslider label, .asyncslider legend, .asyncslider table, .asyncslider caption, .asyncslider tbody, .asyncslider tfoot, .asyncslider thead, .asyncslider tr, .asyncslider th, .asyncslider td, .asyncslider article, .asyncslider aside, .asyncslider canvas, .asyncslider details, .asyncslider embed, .asyncslider figure,.asyncslider  figcaption, .asyncslider footer, .asyncslider header, .asyncslider hgroup, .asyncslider menu, .asyncslider nav, .asyncslider output, .asyncslider ruby, .asyncslider section, .asyncslider summary, .asyncslider time, .asyncslider mark, .asyncslider audio, .asyncslider video {
+	color: #ffffff;
+	text-shadow: 1px 1px 1px #353535;
+	font-size:13px;
+	line-height:17px;
+	font-family:"Open Sans";
+	font-weight:bold;
+	font-style:italic;
+	padding:5px 19px 5px 28px;
+	border-bottom:2px solid rgba(0,0,0,.35);
+	margin-bottom:3px;
+	width:auto;
+padding-top:28px; font-weight: inherit;color: #ffffff;  font-size: 26px; line-height: 40px;padding-left:11px;color:#64d1fa;border-bottom:1px solid #64d1fa; padding-bottom:2px;font-size:26px;font-weight:bold; font-size: 19px; line-height: 35px; font-size: 16px; line-height: 30px; color: #777;  margin: 0 0 20px 0; color:#ffffff;  margin: 0;  font-size: 21px; line-height: 27px; color: #777;   font-style: italic;  font-size: 17px; line-height: 24px; color: #777; font-style: italic;  margin: 0 0 20px; padding: 9px 20px 0 19px; border-left: 1px solid #ddd;  display: block; font-size: 12px; color: #555;  content: "\2014 \0020";  color: #555;  border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; @media only screen and (min-width: 768px) and (max-width: 959px) {
+ left:-40px;z-index:1;top:139px;  left:300px;z-index:4;top:175px; left:20px;z-index:4;top:10px;  position:relative; background:none;margin-top:-30px;font-size:16px;line-height:20px;margin-bottom:-10px;font-size:11px;left:90px;width:270px;left:10px;width:180px;left:300px;width:80px;top:120px;display:none;display:none;

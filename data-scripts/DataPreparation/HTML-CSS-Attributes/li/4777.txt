@@ -1,0 +1,5 @@
+	background:none;
+	padding-right:0;
+	width:280px;
+	padding-left:10px;
+	line-height:26px;

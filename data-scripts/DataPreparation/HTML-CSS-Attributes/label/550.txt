@@ -1,0 +1,4 @@
+	vertical-align: middle;
+	margin-left: 110px;
+	font-weight: bold;
+	padding-top: 5px;

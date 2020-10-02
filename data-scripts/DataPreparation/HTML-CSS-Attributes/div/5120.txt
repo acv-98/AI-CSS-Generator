@@ -1,0 +1,5 @@
+    display: inline-block;
+    width:20%;
+    float: left;
+    font-size: 110px;
+    color: #00aff0;

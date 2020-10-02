@@ -1,0 +1,4 @@
+	display: inline;
+	float: left;
+	padding-bottom: 56px;
+	width: 100%;

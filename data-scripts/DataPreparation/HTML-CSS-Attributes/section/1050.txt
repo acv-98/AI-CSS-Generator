@@ -1,0 +1,15 @@
+	background-image: url(../img/heading-bg.png);
+	background-size: cover;
+	width: 100%;
+	background-repeat: no-repeat;
+	padding: 10% 0px 15% 0px;
+	text-align: right;
+	color: #fff;
+	font-size: 44px;
+	text-transform: uppercase;
+	font-weight: 900;
+	letter-spacing: 1px;
+	height: 3px;
+	background-color: #fff;
+	margin: 25px 0px 25px auto;
+		padding: 10% 0px 40% 0px;

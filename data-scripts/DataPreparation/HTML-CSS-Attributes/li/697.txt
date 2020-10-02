@@ -1,0 +1,2 @@
+background: url(../img/icons/social/tumblr.png) no-repeat;	background: url(../img/icons/social2/tumblr.png) no-repeat 0 0;
+	background-color: #3a5976;

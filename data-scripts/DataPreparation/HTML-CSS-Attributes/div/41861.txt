@@ -1,0 +1,5 @@
+     text-align: center;
+     padding-bottom: 0;
+     padding-top: 30px;
+     float: left;
+     width: 100%;

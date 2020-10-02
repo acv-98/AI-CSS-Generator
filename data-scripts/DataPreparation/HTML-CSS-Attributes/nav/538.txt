@@ -1,0 +1,10 @@
+ text-align: center; 
+.tm-gallery-nav .nav-item {
+	margin-right: 10px;
+	margin-bottom: 10px;
+ margin-right: 0; .tm-gallery-nav .nav-link {	
+	background-color: #EDEDED;
+	color: #717171;
+    padding: .7rem 1.2rem;    
+ margin-right: 0; .tm-gallery-nav	.nav-link.active,
+    color: white;

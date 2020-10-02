@@ -1,0 +1,8 @@
+float:left;
+width:256px;
+height:185px;
+background:url(../images/legal_bg.jpg) no-repeat;
+position:relative;
+margin-top:-66px;
+margin-left:16px;
+display:inline;

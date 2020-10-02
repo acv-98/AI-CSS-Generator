@@ -1,0 +1,9 @@
+	display: inline-block;
+	font-family: Open Sans;
+	font-size: 28px;
+	font-weight: 400;
+	color: #808080;
+	margin-bottom: 20px;
+	letter-spacing: 1px;
+	line-height: 1.4;
+	margin-top: 30px;

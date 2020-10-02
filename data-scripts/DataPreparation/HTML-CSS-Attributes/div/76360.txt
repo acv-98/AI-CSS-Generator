@@ -1,0 +1,2 @@
+ width: 741px; height: 347px; position: absolute; bottom: 0px; right: 0px;  width: 741px; height: 347px; 
+ width: 537px; height: 266px; position: absolute; bottom: 0px; right: 0px;  width: 537px  !important; height: 266px  !important;  width: 250px  !important; height: 134px  !important; bottom: -10px !important; left: 50%; margin-left: -145px;   width: 250px  !important; height: 134px !important; 

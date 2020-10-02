@@ -1,0 +1,3 @@
+ display: none;  
+@media only screen and ( min-width: 768px) and ( max-width: 980px ) {
+ text-decoration: none;  background: url(images/nav-arr.png) no-repeat 0 0; width: 10px; height: 7px; position: absolute; top: 13px; right: 13px;  background-position: 0 bottom;   background: url(images/nav-arr@2x.png) no-repeat 0 0; -webkit-background-size: 10px 15px; -moz-background-size: 10px 15px; background-size: 10px 15px; 

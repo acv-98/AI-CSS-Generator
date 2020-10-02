@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	height:55px;
+	background:#ebeadf url(images/menu.gif) repeat-x center top;
+	border:1px solid #ebeadf;
+	list-style:none;
+	float:left;
+	border-left:1px solid #ebeae3;
+	border-right:1px solid #ebeae3;
+	display:block;
+	color:#fff;
+	text-decoration:none;
+	font-size:13px;
+	background-color:#cbcac0;

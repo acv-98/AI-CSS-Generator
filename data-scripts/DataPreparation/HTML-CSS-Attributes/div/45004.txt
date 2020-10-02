@@ -1,0 +1,11 @@
+  position: absolute;
+  background-color: #fff;
+  right: 0;
+  top: 0;
+  width: 33%;
+  height: 100%;
+  padding:25px 50px;
+  opacity: 0.9
+    width: 51%;
+    padding: 20px;
+    font-size: 20px;

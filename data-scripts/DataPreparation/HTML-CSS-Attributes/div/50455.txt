@@ -1,0 +1,12 @@
+	margin:0 22px 0 0;
+	background:url(images/box-white-bg.gif) no-repeat right 26px;
+	width:270px;
+	height:260px;
+	position:relative;
+	padding:0 25px 0 0;
+	font-size:20px;
+	line-height:23px;
+	color:#f15a22;
+	display:block;
+	left:80px;
+	bottom:0;

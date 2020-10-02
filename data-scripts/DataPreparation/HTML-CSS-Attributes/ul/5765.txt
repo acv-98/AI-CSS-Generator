@@ -1,0 +1,4 @@
+    margin-top: -1px;
+    background: url(../images/marker.png) 0 7px no-repeat;
+    padding-left: 22px;
+    padding-top: 4px;

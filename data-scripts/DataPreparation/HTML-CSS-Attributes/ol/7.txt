@@ -1,0 +1,7 @@
+     opacity: 0.5;
+     position: relative;
+     bottom: 0;
+     background: #000000;
+     width: 30%;
+     height: 100%;
+     cursor: pointer;

@@ -1,0 +1,7 @@
+	position: relative;
+	bottom: 10px;
+	left: 10px;
+	background-color: rgba(0, 0, 0, 0.52);
+	color: #fff;
+	padding: 25px 40px;
+	font-size: 32px;

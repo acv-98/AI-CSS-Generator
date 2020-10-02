@@ -1,0 +1,13 @@
+        min-height: 362px;
+        font-size:1.1rem;
+        line-height: 1.5rem;
+        margin-bottom:30px;
+        max-width: 60%;
+    background: #ffffff;
+    text-align: left;
+    padding: 50px 15px 0px 40px;
+    color:#fd634e;
+    text-transform: uppercase;
+    font-family: 'open_sanslight';
+.summer .main_summer_area .single_summer .single_summer_item_right{
+    position: relative;

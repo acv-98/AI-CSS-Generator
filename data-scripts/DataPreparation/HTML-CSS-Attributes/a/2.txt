@@ -1,0 +1,2 @@
+	width: 94px;
+	background-position: -100px 0px;

@@ -1,0 +1,1 @@
+ width: 31.2883436%; overflow: hidden; float: left; display: block; height: 100%;  width: 42.1487603%; overflow: hidden; float: left; display: block; height: 100%;  width: 50%  width: 50% 

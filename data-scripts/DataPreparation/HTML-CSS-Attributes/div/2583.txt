@@ -1,0 +1,10 @@
+		width:40px;
+		height:40px;
+		text-align:center;
+		color:#fa5c65;
+		font-size:30px;
+		background:#c8cfd0;
+		position:fixed;
+		bottom:100px;
+		right:50px;
+		font-weight:bold;

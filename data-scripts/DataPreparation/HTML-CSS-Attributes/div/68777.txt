@@ -1,0 +1,4 @@
+    height: 2px;
+    width: 85px;
+    margin: 70px auto;
+    background-color: #222222;

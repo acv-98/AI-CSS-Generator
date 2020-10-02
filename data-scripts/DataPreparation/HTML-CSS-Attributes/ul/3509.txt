@@ -1,0 +1,4 @@
+	padding:0px 0 0px 25px;
+	line-height:25px;
+	background:url(../images/marker.png) 0 5px no-repeat;
+	color:#484848;

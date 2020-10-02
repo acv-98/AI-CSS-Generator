@@ -1,0 +1,7 @@
+    float:right;
+    background:url(../images/icon_search.png) 100% 0 no-repeat;
+    display:block;
+    width:100px;
+    margin:3px 5px 0 0;
+    padding:4px 0 2px 0;
+    color:#383838;

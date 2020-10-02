@@ -1,0 +1,1 @@
+width:25%; float:left; display:inlinefont-size:35px; line-height:26px; font-family:"Varela",sans-serif; color:#252525text-decoration:none; outline:nonecolor:#09cfont-size:16px; display:block.logo_area.slider_tittle.logo_area

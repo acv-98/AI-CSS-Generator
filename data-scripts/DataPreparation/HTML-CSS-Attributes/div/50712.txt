@@ -1,0 +1,8 @@
+	float:left;
+	width:593px;
+	display:inline;
+	height:263px;
+	background:#fff;
+	margin:19px 0 0 19px;
+	position:relative;
+	padding:3px 0 0 3px;

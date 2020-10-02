@@ -1,0 +1,4 @@
+  font: bold 0.8em arial,verdana,tahoma,sans-serif;
+  line-height: 1.0em;
+  margin: 0 0 10px 0;
+  color: #999;

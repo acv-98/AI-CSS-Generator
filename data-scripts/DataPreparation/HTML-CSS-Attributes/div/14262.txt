@@ -1,0 +1,10 @@
+	width:360px;
+	position:absolute;
+	left:620px;
+	top:216px;
+	overflow:hidden;
+	font:16px/20px Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-shadow:1px 1px rgba(0, 0, 0, .5);
+	float:left;
+	display:block;

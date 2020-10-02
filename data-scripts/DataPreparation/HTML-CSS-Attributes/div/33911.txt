@@ -1,0 +1,9 @@
+	color:#6b94cb;
+    border: none;
+    background-color: #fff;
+	border-bottom: 1px solid #ddd;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;

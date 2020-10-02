@@ -1,0 +1,6 @@
+ max-width: 992px; 	.tm-sidebar {
+		float: left;
+		width: 280px;
+		height: 511px;
+ max-width: 1200px; 	.tm-sidebar {		
+ max-width: 1400px; 

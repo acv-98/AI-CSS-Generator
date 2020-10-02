@@ -1,0 +1,4 @@
+	float: right;
+	margin: 10px 0 5px 10px;
+	text-align: right;
+	font-weight: bold;

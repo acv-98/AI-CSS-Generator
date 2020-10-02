@@ -1,0 +1,13 @@
+	background:url(../images/footerbg.jpg) no-repeat center top;
+	background-size:cover;
+	padding-top:80px;
+	border:1px solid #666;
+	font-size:20px;
+	width:30px;
+	height:30px;
+	display:inline-block;
+	color:#666;
+	line-height:20px;
+	text-align:center;
+	border-color:#3c3c3c;
+	

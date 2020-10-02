@@ -1,0 +1,1 @@
+ color:#fda73b; font-size:12px; font-weight: bold; text-transform: uppercase; background:url(images/twitter.gif) no-repeat 0 0; padding-left:45px; height:30px; line-height:30px; position:absolute; top:203px; right:30px; text-decoration: none;

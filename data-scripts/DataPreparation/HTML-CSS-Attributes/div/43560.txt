@@ -1,0 +1,7 @@
+	display: inline-block;
+	margin-right: 0;
+	text-align: left;
+	text-indent: -9999px;
+	background-position: left bottom !important;
+	height: 34px;
+	width: 34px;

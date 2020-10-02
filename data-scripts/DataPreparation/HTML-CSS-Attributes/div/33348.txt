@@ -1,0 +1,21 @@
+position: absolute !important; top: 62% !important; padding: 5px !important;    position: static;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 15px;
+  background: #333333;
+  line-height: 20px;
+  color: #ffffff;
+  margin: 0 0 5px;
+  margin-bottom: 0;
+background: #c85b5f; padding: 30px;   .banner  .carousel-control {
+width: 30px;
+margin-top: -20px;
+font-size: 15px;
+font-weight: 100;
+text-align: center;
+border: none;
+-webkit-border-radius: 23px;
+-moz-border-radius: 23px;
+opacity: 0.5;
+filter: alpha(opacity=50);

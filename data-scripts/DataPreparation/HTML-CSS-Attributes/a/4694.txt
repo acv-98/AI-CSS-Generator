@@ -1,0 +1,7 @@
+	color: #D2691E;	
+	border-bottom: 2px solid #D2691E;
+	font-size: 15px;
+	display: inline-block;
+	min-height: 25px;
+	text-decoration: none;	
+	outline: none;	

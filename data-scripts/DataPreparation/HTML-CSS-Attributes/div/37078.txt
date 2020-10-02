@@ -1,0 +1,6 @@
+	padding:20px;
+	color: #000;
+	font-size:1em;
+	text-transform: uppercase;
+	line-height: 1.8em;
+	margin-bottom:10px;

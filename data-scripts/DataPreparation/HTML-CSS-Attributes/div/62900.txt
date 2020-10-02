@@ -1,0 +1,9 @@
+	margin:0;
+	padding:0;
+	background:url(images/li_a.gif) left no-repeat;
+	width:950px;
+	border:10px solid #898781;
+	float:left;
+	background-color:#fbf9f9;
+	color:#9a9a9a;
+	text-decoration:none;

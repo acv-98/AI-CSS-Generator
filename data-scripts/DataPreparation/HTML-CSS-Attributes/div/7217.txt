@@ -1,0 +1,1 @@
+ border-bottom:#f34041 solid 1px; overflow:hidden; list-style:none; float:left;  margin-right:10px; padding-right:30px; border-bottom:none; 

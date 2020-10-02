@@ -1,0 +1,4 @@
+	background:#f6f6f6;
+	float: left;
+	margin: 0 12px 0 0;
+	color:#2387D9;

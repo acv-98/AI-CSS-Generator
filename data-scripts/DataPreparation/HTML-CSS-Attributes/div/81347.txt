@@ -1,0 +1,4 @@
+	display: inline;
+	float: left;
+	opacity: 0.94;
+	width: 100%;

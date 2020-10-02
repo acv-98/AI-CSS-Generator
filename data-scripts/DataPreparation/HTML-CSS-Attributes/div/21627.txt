@@ -1,0 +1,1 @@
+ margin: 6px 6px  margin-top: 0; background:#fff;  margin:26px 19px !important; 

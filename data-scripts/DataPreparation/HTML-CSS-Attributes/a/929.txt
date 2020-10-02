@@ -1,0 +1,4 @@
+	background-color: #2d3032 !important;
+	color: #ffffff !important;
+	border: 2px solid #2d3032 !important;
+	box-shadow: 0 0 0 2px #2d3032;

@@ -1,0 +1,7 @@
+	background-image:url("../images/border-dashed.gif");
+	background-repeat:repeat-x;
+	background-position:bottom;
+	width:180px;
+	height:90px;
+	float:left;
+	color:#999999;

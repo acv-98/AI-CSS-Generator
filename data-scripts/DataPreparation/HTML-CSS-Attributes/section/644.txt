@@ -1,0 +1,7 @@
+    background: url(../images/background/subscribe.jpg) no-repeat center center;
+    background-size: cover;
+    position: relative;
+    width:60%;
+    display: inline-block;
+    background-color: transparent;
+    color:#fff;

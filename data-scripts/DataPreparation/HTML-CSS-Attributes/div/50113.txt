@@ -1,0 +1,11 @@
+float: left; display: inline;#header .right-part .search .btnp input{
+	width:29px; 
+	height:22px;
+	font-size: 0; 
+	line-height: 0px;
+	text-indent: -4000px;
+	background:url(images/go.gif);
+	float: left;
+	display: inline;
+	cursor:pointer;
+	border:0;

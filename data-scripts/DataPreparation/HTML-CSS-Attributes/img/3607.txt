@@ -1,0 +1,6 @@
+ padding: 15px; 
+.tm-footer-text {
+	font-size: 0.9em;
+	margin-bottom: 0;
+	padding: 30px 15px;
+ padding: 30px; 

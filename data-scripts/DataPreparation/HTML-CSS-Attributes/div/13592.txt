@@ -1,0 +1,3 @@
+    min-width: 380px;
+    background-color: rgb(240,240,240);
+ clear: both  margin: 0; padding-top: 30px;  position: relative; padding-left: 45px; line-height: 35px; width: 80%; background: rgba(179,177,177,.18); list-style: none; margin-bottom: 7px  position: absolute; left: 0; margin-right: 10px; text-align: center; background: #dcdcdc; display: block; width: 35px; overflow: hidden; float: left;  background: #dcdcdc; @media (min-width: 980px) and (max-width: 1199px) {

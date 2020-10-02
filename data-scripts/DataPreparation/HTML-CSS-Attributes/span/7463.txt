@@ -1,0 +1,9 @@
+	font-size:.923em;
+	line-height:1.2em;
+	float:left;
+	padding-left:8px;
+	position:relative;
+	top:-2px;
+	color:#464646;
+	border-left:1px solid #464646;
+	margin-left:11px;

@@ -1,0 +1,14 @@
+	background:url(../images/search.gif) no-repeat;
+	width:193px;
+	height:36px;
+	float:right;
+	margin-right:150px;
+	border:1px solid #ccc;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	box-shadow:1px 1px 2px #e3e3e3;
+	-moz-box-shadow:1px 1px 2px #e3e3e3;
+	-webkit-box-shadow:1px 1px 2px #e3e3e3;
+	behavior:url(../js/PIE.htc);
+	position:relative;

@@ -1,0 +1,9 @@
+font-size: 1.5emmargin-top: 30px;
+.footersocial li{
+    display:inline;
+    padding: 0 15px;
+    font-size: 2em;
+color: #7e7e7e;color: #ea9312;FOLLOW BUTTON
+.dribbble-follow-button {
+	display: inline-block;
+    margin-top: 15px;

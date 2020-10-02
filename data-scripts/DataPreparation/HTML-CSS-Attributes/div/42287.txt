@@ -1,0 +1,7 @@
+	overflow:hidden;
+	margin-top:13px;
+	width:290px;
+	float:left;
+	margin-right:35px;
+	display:inline-block;
+	margin-bottom:3px;

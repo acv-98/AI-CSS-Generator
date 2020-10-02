@@ -1,0 +1,18 @@
+	float:left;
+	cursor: pointer;
+	-webkit-appearance: none;
+	padding: 8px 20px;
+	border: 1px solid #FFF;
+	background:#555;
+	display: inline-block;
+	font-size: 0.85em;
+	text-transform: uppercase;
+	color: #FFF;
+	-webkit-transition: 0.9s;
+	-moz-transition: 0.9s;
+	-o-transition: 0.9s;
+	transition: 0.9s;
+	font-family: 'ambleregular';
+	outline:none;
+	margin-top: 20px;
+		margin-top: 10px;

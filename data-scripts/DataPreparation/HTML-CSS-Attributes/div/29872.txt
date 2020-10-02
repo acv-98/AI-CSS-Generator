@@ -1,0 +1,16 @@
+	position:relative;
+	display:block;
+	z-index:3;
+	padding:54px 310px 0 111px;
+	width:393px;
+	margin:0 auto;
+	color:#8c8c8c;
+	font-style:italic;
+	font-size:13px;
+	text-shadow:#333 1px 1px 0;
+	float:right;
+	height:17px;
+	line-height:17px;
+	background:#db1616;
+	text-decoration:none;
+	padding-bottom:20px;

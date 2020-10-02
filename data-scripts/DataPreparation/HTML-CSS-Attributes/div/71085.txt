@@ -1,0 +1,1 @@
+position:absolute; vertical-align:middle; width:100%; text-align:center; z-index:8; color:#fff; top:180px;font-size:48px; text-transform:uppercase; font-weight:800; margin-bottom:30px;font-size:16px; text-transform:uppercase; letter-spacing:2px; width:50%; margin:0 auto 30px auto; line-height:1.8em;

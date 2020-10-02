@@ -1,0 +1,13 @@
+  color: #f4f4f4;
+  font-size: 24px;
+  left: 35%;
+  width: 35%;
+  opacity: 0;
+  top: 101%;
+  -webkit-transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -ms-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+    font-size: 1.6em;
+    visibility: hidden;

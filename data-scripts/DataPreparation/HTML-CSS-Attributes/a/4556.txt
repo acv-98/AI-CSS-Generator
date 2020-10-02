@@ -1,0 +1,5 @@
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #fff;
+    margin-right: 15px;
+    border-color: #fff;

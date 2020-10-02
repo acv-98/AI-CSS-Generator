@@ -1,0 +1,1 @@
+  background-color: #71b2d0;

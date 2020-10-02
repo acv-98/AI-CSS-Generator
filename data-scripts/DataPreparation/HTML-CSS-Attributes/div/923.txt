@@ -1,0 +1,11 @@
+	margin:0 auto;
+	padding:0 10px 50px 10px;
+	width:940px;
+	overflow:hidden;
+	float:left;
+	color:#918873;
+	font-size:14px;
+	list-style:none;
+	background:url(../images/colon.gif) no-repeat center right;
+	display:inline-block;
+	text-transform:uppercase;

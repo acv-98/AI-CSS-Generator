@@ -1,0 +1,4 @@
+	color: #fefb00;
+	display: block;
+	padding: 5px 35px 0;
+	text-align: right;

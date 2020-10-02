@@ -1,0 +1,3 @@
+outline: none;.slides,
+.flex-control-nav,
+ margin: 0; padding: 0; width: 100%; display: block;zoom: 1;position: relative; opacity: 0.8; right: 5px;opacity: 0.8; left: 5px;opacity: 1;

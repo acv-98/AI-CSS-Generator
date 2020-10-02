@@ -1,0 +1,16 @@
+        width: 100%;
+        display: block;
+        margin-top: 0.5rem;
+        font-size: 16px;
+        border: 0 none !important;
+        padding: 1.3rem 1rem !important;
+    color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 0;
+    box-shadow: none;
+    height: 56px;
+    padding-left: 1.5rem;
+    line-height: 1;
+    letter-spacing: 0.3px;
+    vertical-align: middle;
+    opacity: 1;

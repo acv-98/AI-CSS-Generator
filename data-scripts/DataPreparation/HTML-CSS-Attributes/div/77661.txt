@@ -1,0 +1,10 @@
+	margin: 0 0 0.625em;
+	font-size: 1em;
+	font-style: normal;
+	background: none repeat scroll 0 0 rgb(0, 30, 34);
+	border-radius: 100px;
+	display: inline-block;
+	height: 35px;
+	line-height: 35px;
+	text-align: center;
+	width: 35px;

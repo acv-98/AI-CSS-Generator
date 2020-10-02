@@ -1,0 +1,1 @@
+padding:4px 16pxpadding:10px 62pxcolor:#FFA439 !important; font-weight:boldborder-bottom:1px solid #FFA439border-color:#FFA439 #FFA439 rgba(0,0,0,0) !important; text-decoration:nonefont-weight:bold; padding:15px 70pxborder:1px solid #fff; background:none; border-bottom:1px solid #FFA439

@@ -1,0 +1,5 @@
+	padding:100px 0px;
+	overflow:hidden;
+.single_clients{
+	margin-top:40px;
+	display:inline-block;

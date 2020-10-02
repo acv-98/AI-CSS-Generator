@@ -1,0 +1,10 @@
+        font-size: 1.5rem;
+        line-height: 2.3rem;
+        width: 80%;
+    background: #835fa8;
+    padding: 75px 0px 140px 50px; 
+    height: 465px;
+    color:#fff;
+    font-family: 'open_sanslight_italic';
+    margin-bottom:15px;
+    margin-top:30px;

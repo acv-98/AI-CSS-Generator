@@ -1,0 +1,10 @@
+  display: inline;
+  float: left;
+  overflow: hidden;
+  width: 100%;
+  
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  transition: all 0.8s;

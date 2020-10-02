@@ -1,0 +1,1 @@
+	background:url(../images/border-top.gif) repeat-x left top;

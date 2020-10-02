@@ -1,0 +1,6 @@
+  border-color: #3498db;
+  color: #000;
+  border-radius: 0;
+  height: 40px;
+  box-shadow: none;
+  padding: 10px;

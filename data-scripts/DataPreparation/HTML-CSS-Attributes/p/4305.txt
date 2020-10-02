@@ -1,0 +1,7 @@
+ top: 3px;  top: 7px; 
+#respond #submit {
+    background-color: #cad0d1;
+    border: 1px solid #bcc1c2;
+    height: 42px;
+    float: right;
+ width: 97.5% !important;  width: 98.5% !important;  width: 97.5% !important;  width: 98% !important;  width: 96.5% !important;  width: 97.5% !important;  width: 97.5% !important;  width: 97.5% !important;  width: 95.5% !important; 

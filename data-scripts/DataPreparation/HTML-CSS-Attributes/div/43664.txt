@@ -1,0 +1,7 @@
+	float: left;
+	height: 100%;
+	margin-left: 20px;
+	position: relative;
+	z-index: 1;
+	background: url("../images/phone-call-to-action.png") no-repeat scroll left top transparent;
+	width: 64px;

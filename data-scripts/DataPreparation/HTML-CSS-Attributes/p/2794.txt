@@ -1,0 +1,7 @@
+	float:left;
+	color: #000;
+	font-size: 0.8125em;
+	text-transform: uppercase;
+	font-weight: 600;
+	text-decoration:none;
+	line-height: 1.8em;

@@ -1,0 +1,9 @@
+  float: none;
+  margin: 0 auto 10px;
+  font-size: 8px;
+  line-height: 15px;
+  padding: 2px 5px;
+  margin-left: 5px;
+  width: 142px;
+margin-bottom: 15px;
+.single_more_works a h2{color: #ffd500;

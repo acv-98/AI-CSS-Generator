@@ -1,0 +1,4 @@
+  background: #eee;
+  border-bottom: 3px solid #222534;
+  border-radius: 3px 3px 0 0;
+  color: #272727;

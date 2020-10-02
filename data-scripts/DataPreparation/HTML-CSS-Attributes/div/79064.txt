@@ -1,0 +1,5 @@
+  padding-left: 0;
+	width: 50%;
+	display: inline-block;
+	overflow: inherit;
+	text-align: center;

@@ -1,0 +1,5 @@
+	font-weight:bold;
+	font-style:italic;
+	color:#937bb8;
+	font-size:18px;
+	line-height:22px;

@@ -1,0 +1,13 @@
+		border-bottom: 1px dotted #000;
+		border-top: 1px dotted #000;
+		float: left;
+		font-size: 12pt;
+		font-weight: 900;
+		margin: 0;
+		padding: 1px 5px;
+		text-transform: uppercase;
+	border-color: #f06;		
+	a.otherentries, a.continue	{
+		color: #000;
+		letter-spacing: .3em;
+		line-height: 1em;

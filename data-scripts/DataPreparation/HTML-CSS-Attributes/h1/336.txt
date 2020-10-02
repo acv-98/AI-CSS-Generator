@@ -1,0 +1,6 @@
+	background:url("../images/sprite.png") no-repeat scroll 0 0 transparent;
+	display:block;
+	height:32px;
+	margin:8px auto 0;
+	text-indent:-999999px;
+	width:190px;

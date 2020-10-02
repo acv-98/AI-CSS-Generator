@@ -1,0 +1,4 @@
+  color: #b99769 !important;
+  font-size: 0.8125rem;
+  text-transform: uppercase;
+  margin-bottom: 0 !important;

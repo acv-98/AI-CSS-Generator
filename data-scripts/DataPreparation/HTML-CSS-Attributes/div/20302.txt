@@ -1,0 +1,1 @@
+width:48%; position:relative; margin-top:30px; margin:20px autocontent:""; left:0; position:absolute; top:1px; width:100%font-size:32px; margin:24px 0; text-align:center.header_bottom_leftborder-top:2px solid #ffa500border-bottom:1px solid #ffa500

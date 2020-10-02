@@ -1,0 +1,6 @@
+	margin-top:10px;
+	text-align: left;
+	line-height:1.1em;
+	margin-bottom: 20px;
+		float: none;
+		text-align: center;

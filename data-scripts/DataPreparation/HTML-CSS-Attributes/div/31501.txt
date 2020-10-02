@@ -1,0 +1,16 @@
+		width: 35px;
+		height: 35px;
+		line-height: 35px;
+    background-color: white;
+    border: 1px solid #333333;
+    color: #1f1f1f;
+    font-size: 20px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0px;
+    padding: 0;
+    text-align: center;
+    width: 40px;
+	background: #9dc15b;
+	color: #ffffff;
+	border: 1px solid #ffffff;

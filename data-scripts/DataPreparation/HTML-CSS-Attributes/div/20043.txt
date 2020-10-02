@@ -1,0 +1,4 @@
+.main_team .team_item .team_author h4{
+    font-size:24px;
+    font-weight: 800;
+    margin-bottom: 0px;

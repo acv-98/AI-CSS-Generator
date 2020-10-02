@@ -1,0 +1,5 @@
+		float: none;
+		margin: 0 0 40px 0;
+		width: 100%;
+	position:relative;
+	margin-right:4%;

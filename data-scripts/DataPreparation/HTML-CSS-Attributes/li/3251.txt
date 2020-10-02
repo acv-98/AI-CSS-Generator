@@ -1,0 +1,5 @@
+  color: #ffffff;
+  background-position: 0 0;
+  top: -46px;
+  height: 21px;
+  display: none;

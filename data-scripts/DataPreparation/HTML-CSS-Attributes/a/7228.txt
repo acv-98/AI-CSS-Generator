@@ -1,0 +1,8 @@
+	padding: 12px;
+	background: url("../images/btn.png") repeat-x scroll center top #CC3300;
+	background-color: #FFC000;
+    border-color: #EBB100;
+    color: #000000;
+	border-color: #eabb00;
+	color: #000000;
+ 	text-decoration: none;

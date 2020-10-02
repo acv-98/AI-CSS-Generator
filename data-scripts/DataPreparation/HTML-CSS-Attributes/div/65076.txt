@@ -1,0 +1,14 @@
+background: url(../images/feature_bg.jpg)no-repeat;background-size: 100% 100%;height: 360px;overflow:hidden;margin-top: 100px;.shack_burger {
+    float: right;
+    margin-right: 20px;
+    width: 255px;
+    bottom: 0;
+    color: #f1f1f1;
+    font-size: 12px;
+    line-height: 12px;
+    left: 30px;
+    position: absolute;
+        height: 300px;
+        margin-top: 50px;
+        left: auto;
+        right: 30px;

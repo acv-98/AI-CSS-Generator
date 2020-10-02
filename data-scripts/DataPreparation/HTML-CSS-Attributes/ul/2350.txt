@@ -1,0 +1,14 @@
+    float: left; 
+    border: 2px solid #334d66;
+    border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	padding: 6px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+    padding: 0 10px; 
+    color: #334d66; 
+    text-decoration: none; 
+    background: #bf5a24;
+	display: none;

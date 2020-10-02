@@ -1,0 +1,7 @@
+	margin-bottom: 5px;
+	color: #fff;
+	line-height: 1;
+	margin-top: 25px;
+	letter-spacing: 1px;
+		margin-bottom: 0px;
+		margin-top: 15px;

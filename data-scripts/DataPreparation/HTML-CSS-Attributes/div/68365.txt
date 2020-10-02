@@ -1,0 +1,13 @@
+	position: relative;
+	overflow: hidden ;
+	color: #b0c4e1;
+	margin-bottom: 30px;
+	margin-left: 10px;
+	display: block;
+	float: left;
+	font-family: 'Yanone Kaffeesatz', arial, serif;
+	font-size: 48px;
+	text-shadow: 2px 2px rgba(0, 0, 0, 0.8);
+	line-height: 50px;
+	font-style: italic;
+	margin-top: 27px;

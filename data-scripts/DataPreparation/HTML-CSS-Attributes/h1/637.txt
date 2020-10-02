@@ -1,0 +1,8 @@
+  padding: 0 20px 15px;
+  display: inline-block;
+  overflow: hidden;
+  font-family: 'Yesteryear', cursive;
+  font-size: 200px;
+  line-height: 220px;
+  font-weight: 400;
+  color: #ffffff;

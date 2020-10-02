@@ -1,0 +1,16 @@
+	margin-right: 10px;
+	float: none;
+	left: -100%;
+	margin-left: 10px;
+	-webkit-border-radius: 6px 0 6px 6px;
+	-moz-border-radius: 6px 0 6px 6px;
+	border-radius: 6px 0 6px 6px;
+ float: none;
+ display: block;
+ margin-bottom: 10px;
+margin-right:10px;float:none;float:left;.visible-print@font-face {
+  font-family: 'fontello';
+  src: url('../font/fontello.eot?10435402');
+       url('../font/fontello.svg?10435402#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;

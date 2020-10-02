@@ -1,0 +1,1 @@
+ width:41px; height:41px; background:url(images/close-small.png); position:absolute; top:-5px; right:-5px; z-index:2;

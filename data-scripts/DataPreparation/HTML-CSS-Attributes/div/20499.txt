@@ -1,0 +1,10 @@
+  display: none;
+  border-color: #fff;
+  -webkit-transform: rotate(162deg);
+  -moz-transform: rotate(162deg);
+  -ms-transform: rotate(162deg);
+  -o-transform: rotate(162deg);
+  transform: rotate(162deg);
+	color: #fff;
+	font-size: 0.8755em;
+	margin-top: 8%;

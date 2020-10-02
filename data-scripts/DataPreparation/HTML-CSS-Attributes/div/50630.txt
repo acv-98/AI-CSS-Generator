@@ -1,0 +1,12 @@
+	position:absolute;
+	left:31px;
+	bottom:15px;
+	list-style:none;
+	float:left;
+	padding-right:5px;
+	width:22px;
+	height:24px;
+	background:url(images/slider-navigation-normal.gif);
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;

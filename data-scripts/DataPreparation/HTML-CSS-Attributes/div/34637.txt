@@ -1,0 +1,11 @@
+    padding: 0 0 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px dotted #eeeeee;
+    color: #232323;
+    font-size: 14px;
+    line-height: 16px;
+    opacity: 0.95;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+        margin-bottom: 30px !important;

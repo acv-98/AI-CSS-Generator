@@ -1,0 +1,5 @@
+  left: 10px;
+  position: relative;
+  top: 50%;
+  display: inline-block;
+  margin-top: -20px;

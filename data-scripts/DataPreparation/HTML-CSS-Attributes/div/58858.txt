@@ -1,0 +1,8 @@
+  display: table-cell;
+  vertical-align: middle;
+  height: 700px;
+  text-align: right;
+    display: block;
+    vertical-align: none;
+    text-align: left;
+    height: inherit;

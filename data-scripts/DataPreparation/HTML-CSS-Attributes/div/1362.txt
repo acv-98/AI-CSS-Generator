@@ -1,0 +1,5 @@
+margin: 10px;
+   display: flex; 
+        margin: 5px;
+        display: unset;
+        text-align: center;

@@ -1,0 +1,3 @@
+	background-image:url(../images/box-tail2.gif);
+	background-repeat:repeat-x;
+	width:100%;

@@ -1,0 +1,4 @@
+	position:relative;
+	width:152px;
+	height:9px;
+	background:url(images/dd-b.png) no-repeat 0 0;

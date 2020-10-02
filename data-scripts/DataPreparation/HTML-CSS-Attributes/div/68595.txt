@@ -1,0 +1,7 @@
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+	border-top: none;
+	clear: both;
+	float: left;
+	width: 99%;
+	margin-top: 10px;

@@ -1,0 +1,4 @@
+        margin-top: 40px;
+        border-left: 6px solid #e74c3c;
+        margin-bottom: 30px;
+    padding-left: 30px;

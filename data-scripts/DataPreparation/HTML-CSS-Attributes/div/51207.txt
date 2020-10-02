@@ -1,0 +1,4 @@
+	position: relative;
+	margin-bottom: 10px;
+ color: #FFFFFF; font-weight: normal; text-decoration: none;  color: #999999;  font-size: 11px; color: #999999;  font-size: 11px; color: #666666;  color: #CCCCCC;  margin: 0; padding: 5px 0; .header .posted_date { position: absolute; font-size: 11px; color: #2b2b2b; top: 0; right: 0; width: 45px; height: 45px; padding: 8px 3px 0 0; text-align: center; background:url(../images/date.jpg) no-repeat;
+ display: block; margin-top: 5px; 

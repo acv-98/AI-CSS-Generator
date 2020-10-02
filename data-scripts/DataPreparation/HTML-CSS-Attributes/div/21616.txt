@@ -1,0 +1,1 @@
+ float:left; height:100%; margin-left:20px; position:relative; z-index:1;  margin:0; font-size:30px; line-height:38px; margin:24px 0 0; padding-top:0;  color:#464444; font-size:14px; line-height:25px; margin:0; 

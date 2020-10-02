@@ -1,0 +1,1 @@
+ background:url(../images/text-filed-bg.jpg) repeat-y; height:40px; width:220px; border:#c3c2c2 solid 1px; color:#c2c2c2; font-size:13px; text-indent:5px;

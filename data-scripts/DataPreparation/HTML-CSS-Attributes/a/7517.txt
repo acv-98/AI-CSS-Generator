@@ -1,0 +1,1 @@
+	background: url(../images/discover_more.png) no-repeat;

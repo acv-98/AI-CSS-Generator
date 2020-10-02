@@ -1,0 +1,6 @@
+    display: block;
+    line-height: 20px;
+  padding-bottom: 9px;
+  margin: 20px 0 30px;
+  border-bottom: 1px solid #eeeeee;
+  color: #5a5a5a;

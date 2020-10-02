@@ -1,0 +1,9 @@
+	font-size: 32px;
+	line-height: 1.5em;;
+	color: #665d4e;
+	width: 960px;
+	margin: 0 auto;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	text-decoration: none;

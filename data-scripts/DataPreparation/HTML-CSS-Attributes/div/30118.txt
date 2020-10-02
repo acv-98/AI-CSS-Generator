@@ -1,0 +1,26 @@
+	width: 228px;
+	float: left;
+	padding: 20px 0 20px 10px;
+		color: #A23D00;
+		font-size: 1.3em;
+		margin-bottom: 5px;
+		padding-bottom: 10px;
+		line-height: 1.5em;
+			padding: 4px;
+			border: 1px solid #CCCCCC;
+			float: left;
+			margin: 0 10px 4px 0;
+		list-style-type: none;
+			line-height: 1.4em;
+			background: url(images/categories.gif) no-repeat 0 5px;
+			border-bottom: 1px dotted #BCBCBC;
+ background-image: url(images/archives.gif);  background-image: url(images/blogroll.gif);  background-image: url(images/meta.gif); 		.sidebar ul li a {
+			color: #666666;
+			
+		width: 206px; height: 26px;
+			width: 26px; height: 26px;
+			text-indent: -9999px;
+			background-color: transparent;
+			font-size: 1.1em;
+			font-style: Verdana;
+			text-decoration: none;

@@ -1,0 +1,2 @@
+	min-height:25px;
+	width:100%

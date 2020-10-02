@@ -1,0 +1,8 @@
+  content: "\f0c9";
+left: 60px;
+	font-size: 30px;
+	position: fixed;
+	left: 120px;
+	color: #c0c0c0;
+	cursor: pointer;
+	z-index: 1;

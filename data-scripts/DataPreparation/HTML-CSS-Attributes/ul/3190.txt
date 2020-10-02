@@ -1,0 +1,8 @@
+    float: right;
+    width: 410px;
+    margin-top: 8px;
+    margin-left: 40px;
+    display: block;
+    font-size: 14px;
+    color: #b4b3b3;
+    text-decoration: none;

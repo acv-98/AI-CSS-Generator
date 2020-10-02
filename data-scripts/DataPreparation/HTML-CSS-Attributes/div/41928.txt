@@ -1,0 +1,1 @@
+ background:#fffdfa url(images/th.gif) repeat-x 0 0; color:#818181; text-align: left; padding:7px 10px; border-bottom:solid 1px #d2d1cb; background:#fbfcfc;  border-bottom:solid 1px #e0e0e0; padding:8px 10px;  background:#f8f8f8;  background:#fff9e1;  

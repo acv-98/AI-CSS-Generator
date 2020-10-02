@@ -1,0 +1,1 @@
+background:url("img/small-rss.png") no-repeat;

@@ -1,0 +1,2 @@
+ width:530px; text-align:center; float:right;  background: url('../images/bg-video.png') center; height: 265px; margin-top: 40px;  width:100% !important; height:338px !important; 
+ background:#000 url('images/icons/play.png') center no-repeat  background:#000 url('images/icons/play.png') center no-repeat 

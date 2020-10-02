@@ -1,0 +1,4 @@
+	margin-bottom: 1em;
+	color: #2f2f2f;
+	font-weight: 700;
+	font-style: italic;

@@ -1,0 +1,5 @@
+	background:url(../images/box-tail.gif) repeat-x left top #fff;
+	width:100%;
+	padding:15px 38px 26px 43px;
+	background-image:url(../images/box-tail1.gif);
+	background-repeat:repeat-x;

@@ -1,0 +1,4 @@
+	font-family: "OpenSans Regular";
+	background-color: none;
+	border: none;
+	color: #fff;

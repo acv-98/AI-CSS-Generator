@@ -1,0 +1,14 @@
+  background: #eee;
+  display: block;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 15px;
+  position: relative;
+  content: '';
+  bottom: -14px;
+  margin-left: 10px;
+  border-top: 14px solid #eee;
+  border-left: 14px solid transparent;
+  border-right: 14px solid transparent;
+  color: #62646f;
+  font-weight: 600;

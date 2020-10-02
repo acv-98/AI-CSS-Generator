@@ -1,0 +1,15 @@
+	margin-top: 3em;
+	border-color: #ddd;
+	margin-bottom: .75em;
+	padding: .75em 12px;
+	font-weight: 300;
+	color: #ea5050;
+	padding-right: 8px;
+	position: relative;
+	display: block;
+	top: 40%;
+	left: 0;
+	right: 0;
+	text-align: center;
+	z-index: 10;
+	border-radius: 2px;

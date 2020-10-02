@@ -1,0 +1,2 @@
+	padding: 40% 0 0;
+	position: relative;

@@ -1,0 +1,1 @@
+border-right:#d4d4d4 1px solid; padding-right:20px; padding-bottom:91px;

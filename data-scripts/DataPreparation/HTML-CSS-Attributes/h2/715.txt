@@ -1,0 +1,8 @@
+text-align:center;
+body{
+ font-size: 1.1em;
+ line-height: 1.5em;
+ color: #5d5151;
+ font-family:'Droid Sans', serif;
+ background-color: #f6f6f6;
+ background-image: url('../images/bg.png');

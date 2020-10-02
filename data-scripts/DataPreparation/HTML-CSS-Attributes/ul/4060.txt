@@ -1,0 +1,5 @@
+	list-style:none;
+	line-height:30px;
+	border-bottom:1px dotted #765c5c;
+	background:url('images/list-arrow.gif') no-repeat left center;
+	padding-left:10px;

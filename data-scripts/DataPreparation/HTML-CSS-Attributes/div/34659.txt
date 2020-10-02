@@ -1,0 +1,17 @@
+    max-width: 60px;
+    margin-right: 20px
+    padding: 0!important;
+    color: #333;
+    margin-bottom: 5px;
+    display: inline-block
+    margin-left: 5px
+    border: 1px solid #eeeeee;
+    background-color: transparent;
+    -webkit-transition: all .7s ease-in-out;
+    -moz-transition: all .7s ease-in-out;
+    -o-transition: all .7s ease-in-out;
+    -ms-transition: all .7s ease-in-out;
+    transition: all .7s ease-in-out
+    height: 40px;
+    margin-top: 10px;
+    font-size: 11px;

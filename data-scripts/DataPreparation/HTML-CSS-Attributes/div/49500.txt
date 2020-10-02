@@ -1,0 +1,5 @@
+.footer_logo p{float: right;
+font-family: helvetica;
+font-size: 34px;
+font-weight: bold;
+line-height: 42px;

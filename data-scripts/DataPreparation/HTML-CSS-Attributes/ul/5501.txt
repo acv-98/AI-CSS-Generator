@@ -1,0 +1,8 @@
+  margin-bottom: 20px;
+  display: block;
+  height: 60px;
+  width: 60px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-size: 16px;
+  color: #ff6600;

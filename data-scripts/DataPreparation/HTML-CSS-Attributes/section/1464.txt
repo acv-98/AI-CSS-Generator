@@ -1,0 +1,5 @@
+    background-color: #ff5800;
+    border-color: #c84600;
+    color: #ff5800;
+    outline: none;
+    cursor: pointer;

@@ -1,0 +1,5 @@
+	font-size: 22px;
+	font-weight: 500;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;

@@ -1,0 +1,14 @@
+.lessonsborder{
+    position: relative;
+    margin-bottom: 90px;
+    max-width: 70%;
+    line-height: 30px;
+    font-size: 40px;
+    color: #AB987A;
+    background: #032F3E;
+    width: 36px;
+    height: 60px;
+    font-family: 'robotobold';
+    text-transform: uppercase;
+    padding-left: 40px;
+    display: inline-block;

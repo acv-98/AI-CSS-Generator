@@ -1,0 +1,9 @@
+  background-color: #ffffff;
+  border-radius: 2px;
+  margin-bottom: 32px;
+  padding: 14px 10px 6px 10px;
+  font-size: 52px;
+  color: #1dc9e3;
+  position: relative;
+  top: 20px;
+    margin-bottom: 62px;

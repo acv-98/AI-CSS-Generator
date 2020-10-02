@@ -1,0 +1,9 @@
+ font-size: 18px; 
+a:link, a:visited {
+    color: #285935;
+    text-decoration: none;
+    outline: 0;
+    margin: 15px 0 25px 0;
+    float:left;
+    width:460px;
+    min-height: 300px;

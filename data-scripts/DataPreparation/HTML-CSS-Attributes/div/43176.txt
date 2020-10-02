@@ -1,0 +1,6 @@
+    width:100%;
+    height: 2px;
+    background: #ddd;
+    overflow: hidden;
+    margin:20px 0px;
+    display: inline-block;

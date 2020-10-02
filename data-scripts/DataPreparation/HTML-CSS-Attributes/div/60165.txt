@@ -1,0 +1,7 @@
+	background-color: #000;
+	text-align: center;
+	height: 400px;
+	width: 900px;
+	display: table-cell;
+	vertical-align: middle;
+	margin-bottom: 10px;

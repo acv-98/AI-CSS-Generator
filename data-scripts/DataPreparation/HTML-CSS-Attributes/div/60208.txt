@@ -1,0 +1,2 @@
+	background:url(../images/block-1-shadow.png) 0 0 repeat-y;
+	padding:18px 30px 0 30px;

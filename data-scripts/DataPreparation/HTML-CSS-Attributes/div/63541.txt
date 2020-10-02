@@ -1,0 +1,1 @@
+ padding:28px 0 32px 40px; float:left; width:auto; margin:0; padding:0; line-height:1.2em; text-decoration:none;

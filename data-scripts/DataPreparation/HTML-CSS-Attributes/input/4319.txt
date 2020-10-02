@@ -1,0 +1,7 @@
+	float:right;
+	width:429px;
+	height:17px;
+	background:url(../images/box2.jpg) repeat #f0f1f4;
+	padding:2px 5px;
+	color:#000;
+	font:13px Arial, Helvetica, sans-serif;

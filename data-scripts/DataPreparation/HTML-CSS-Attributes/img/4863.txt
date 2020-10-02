@@ -1,0 +1,2 @@
+margin: 15px 0;.related_post{padding: 15px 0;
+border-top: 2px dotted #999;

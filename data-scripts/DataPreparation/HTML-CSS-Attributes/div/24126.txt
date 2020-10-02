@@ -1,0 +1,17 @@
+  position: absolute;
+  top: 50%;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin-top: -60px;
+  padding: 30px;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 10px;
+  display: block;
+  padding-left: 140px;
+  font-weight: 300;
+  line-height: 26px;
+  font-size: 24px;
+  padding-right: 140px;
+    padding-left: 140px;
+    padding-right: 0;

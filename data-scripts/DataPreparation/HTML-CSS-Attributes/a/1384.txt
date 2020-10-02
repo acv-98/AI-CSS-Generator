@@ -1,0 +1,6 @@
+  width: 100%;
+	color: #ffffff;
+	background: #241c65;
+	width: 50%;
+	box-shadow: 2px 20px 45px 5px rgba(0,0,0,.2);	
+    color: #fff;

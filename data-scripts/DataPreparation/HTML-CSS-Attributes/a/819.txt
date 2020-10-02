@@ -1,0 +1,15 @@
+	text-transform: uppercase;
+	background: rgba(252, 221, 68, 0.39) none repeat scroll 0% 0%;
+	border: 1px solid #D2B731;
+	color: #FFF;
+	font-weight: 600;
+	display: inline-block;
+	padding: 18px 40px;
+	margin-top: 30px;
+	transition: all 0.3s ease;
+		padding: 12px 30px;
+		margin-top: 10px;
+ padding: 5px 10px; 	.tm-tours-box-1-info-left,
+	.tm-tours-box-1-info-right {
+		float: none;
+		width: 100%;

@@ -1,0 +1,2 @@
+ padding-left: 40px; 		#content h2.with-icon,
+ background-position: 0 3px; 

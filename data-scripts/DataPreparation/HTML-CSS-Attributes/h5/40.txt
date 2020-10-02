@@ -1,0 +1,13 @@
+	padding: 0 0 0 45px;
+	margin: 0 0 5px 0;
+	height: 46px;
+	line-height: 46px;
+	width: 100%;
+	float: left;
+	background: url(../img/toggle-button.png) no-repeat  10px 10px;
+	border-bottom: 1px solid #665d4e;
+	color: #665d4e;
+	text-decoration: none;
+	display: block;
+	background-position-x: 10px;
+	background-position-y: -68px;

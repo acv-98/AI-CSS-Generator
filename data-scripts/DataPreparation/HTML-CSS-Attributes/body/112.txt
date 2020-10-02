@@ -1,0 +1,36 @@
+  margin-bottom: 9px;
+  background: #fff;
+  border: none;
+  width: calc(100% - 10px);
+  padding-top: 6px;
+  padding-bottom: 7px;
+ width: calc(100% - 20px);  height: 70px;.index #contact-form a {
+  font-size: 14px;
+  font-style: italic;
+  color: #f00;
+  font-weight: 400;
+color: #000;.index #contact-form ._placeholder {
+  font-family: 'Open Sans', sans-serif;
+ margin-top: 7px; #contact-form .text {
+  text-align: center;
+  margin-top: 33px;
+  background-attachment: fixed;
+  background-position: center 0%;
+  position: relative;
+  background-repeat: no-repeat;
+  z-index: 8;
+  border-bottom: 1px solid #000;
+    height: 100px;
+    padding: 0;
+    margin-bottom: 60px;
+  padding-right: 10px;
+  line-height: 20px;
+  border-top: 1px solid #4d4a4a;
+  display: block;
+    width: 50px;
+    line-height: 50px;
+  text-decoration: underline;
+  content: "";
+  bottom: -28px;
+  right: 30px;
+    margin-top: 30px;

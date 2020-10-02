@@ -1,0 +1,32 @@
+-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+    File Name: colors.css
+.customwidget li i,
+.navbar-nav span {
+    color: #db00ce !important;
+    float: left;
+    background: #157fda;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: normal;
+    padding: 10px 12px;
+    margin-right: 15px;
+    font-size: 18px;
+	transition: ease all 1s;
+    margin-left: 50px;
+	width:100%;
+    border-radius: 50px;
+    overflow: hidden;
+    font-weight: 500;
+    margin-bottom: 20px;
+    min-height: 135px;
+    position: relative;
+    left: 0;
+margin: 0 0;margin: 0 0;float: left;margin-left: 30px;float: left;margin-left: 30px;        display: block !important;
+    border-color: transparent;
+    z-index: auto;
+    -webkit-box-shadow: none;
+    box-shadow: none;

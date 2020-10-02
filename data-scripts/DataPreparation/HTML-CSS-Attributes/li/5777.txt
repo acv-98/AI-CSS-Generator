@@ -1,0 +1,1 @@
+ background: url(../images/permalink.gif) no-repeat 2px center; 

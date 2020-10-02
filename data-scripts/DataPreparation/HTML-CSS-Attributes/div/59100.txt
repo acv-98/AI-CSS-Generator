@@ -1,0 +1,8 @@
+  background-color: #a5d549;
+  float: left;
+  display: inline;
+  width: 100%;
+  background-image: url("img/nav-prev.png");
+  background-repeat: no-repeat;
+  height: 30px;
+  background-position: center;

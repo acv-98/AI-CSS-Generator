@@ -1,0 +1,13 @@
+     border-radius: 0;
+     top: 0;
+     right: 0;
+     left: auto;
+     height: 100%;
+     line-height: 58px;
+     background: #d8302f;
+     color: #fff;
+     width: 48px;
+     position: absolute;
+     text-align: center;
+     font-size: 24px;
+     font-weight: 600;

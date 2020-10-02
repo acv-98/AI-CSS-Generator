@@ -1,0 +1,15 @@
+    margin-right: 64px;
+    font-size: 14px;
+    color: #383636;
+    font-weight: normal;
+    display: inline-block;
+    margin-left: 12px;
+    float: right;
+    position: relative;
+    height: 12px;
+    background-color: #bfbebe;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 39%;
+    margin-top: 15px;

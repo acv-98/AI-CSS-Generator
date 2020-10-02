@@ -1,0 +1,3 @@
+		width: 50px;
+			overflow: hidden;
+			margin-bottom: 1.5em;

@@ -1,0 +1,9 @@
+	float:right;
+	width:255px;
+	margin:0;
+	padding:0 25px;
+	background:url(images/r_bg.gif) top center no-repeat;
+	list-style:none;
+	font:normal 14px Arial, Helvetica, sans-serif;
+	color:#464646;
+	text-decoration:none;

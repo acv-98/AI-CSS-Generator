@@ -1,0 +1,4 @@
+  border: 0;
+  background-color: transparent;
+  border-top: 1px solid #eee;
+  border-top-color: #eee;

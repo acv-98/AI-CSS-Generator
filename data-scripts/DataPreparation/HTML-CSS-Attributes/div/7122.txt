@@ -1,0 +1,1 @@
+height:69px;background: url(../images/banner-title-bg.jpg) center; width:960px; margin:0 auto;  float:left; width:319px; height:69px; border-left:#dfdfdf solid 1px; line-height:69px;font-size:20px; font-weight:normal; color:#8d8c8c; text-align:center;

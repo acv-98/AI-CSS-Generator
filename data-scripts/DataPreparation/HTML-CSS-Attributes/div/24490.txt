@@ -1,0 +1,2 @@
+  margin-left: 45px;
+  color: #fff;

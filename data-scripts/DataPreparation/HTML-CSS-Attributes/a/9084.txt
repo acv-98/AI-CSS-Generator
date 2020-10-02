@@ -1,0 +1,20 @@
+	position: relative;
+	behavior:url(../js/PIE.htc);
+			margin-top: 5px;
+			float: right;
+			display: inline-block;
+			padding: 18px 33px 18px 33px;
+			color: #fff;
+			background: #343434;
+			border-radius: 5px;
+			text-transform: uppercase;
+			text-decoration: none;
+			font-weight: 300;
+			transition:all 0.2s linear;
+			-webkit-transition:all 0.2s linear;
+     	-moz-transition: all 0.2s linear;
+       -o-transition: all 0.2s linear;
+				transition:all 0.2s linear;
+				background: #4f4f4f
+       background: #999;
+		margin-right: 10px;

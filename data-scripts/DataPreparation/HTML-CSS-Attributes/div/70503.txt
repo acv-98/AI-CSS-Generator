@@ -1,0 +1,16 @@
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+    width: 100%;
+    border: 0.34rem solid #fff;
+    padding: 0.2rem 0;
+    background-color: #111111;
+    border-radius: 3px;
+    font-size: 12px;

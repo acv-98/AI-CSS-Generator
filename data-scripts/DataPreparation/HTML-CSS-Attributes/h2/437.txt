@@ -1,0 +1,1 @@
+margin-left:3pxfont-size:15pxmargin-left:10pxborder-bottom:4px solid #CF0000; font-family:'bebasregular'; font-size:20px; word-spacing:2px

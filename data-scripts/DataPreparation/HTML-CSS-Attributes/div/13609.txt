@@ -1,0 +1,4 @@
+ float:none; width:100%; margin:0; clear:both;  margin-right: 2%;     .newsletter-call3 .newsletter-submit .submit-field,
+    float: left;
+    margin-right: 3%;
+    width: 22.75%;

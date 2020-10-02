@@ -1,0 +1,1 @@
+	background: url(images/img18.png) repeat-y left top;

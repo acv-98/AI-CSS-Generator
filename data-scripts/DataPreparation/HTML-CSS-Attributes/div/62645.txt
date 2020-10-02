@@ -1,0 +1,15 @@
+	display: inline;
+	float: left;
+	margin-top: 70px;
+	width: 100%;
+	background-color: #ecf0f1;
+	text-align: left;
+	margin-bottom: 20px;
+	padding: 15px;
+	-webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+	color: #fff;
+	opacity: 1;
+		width: 49.5%;
+		float: left;

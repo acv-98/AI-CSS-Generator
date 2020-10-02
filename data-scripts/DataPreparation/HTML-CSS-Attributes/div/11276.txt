@@ -1,0 +1,4 @@
+	float: right;
+	width: 480px;
+	margin: 15px 25px 0 0;
+	display: inline;

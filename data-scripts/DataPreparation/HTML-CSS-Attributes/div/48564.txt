@@ -1,0 +1,5 @@
+	overflow:hidden;
+	border:#bebebe 1px solid;
+	border-top:none !important;
+	background:url(../images/block-2.jpg) 0 bottom no-repeat #fff;
+	padding-bottom:62px;

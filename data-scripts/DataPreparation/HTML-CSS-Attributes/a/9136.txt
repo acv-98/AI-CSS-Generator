@@ -1,0 +1,7 @@
+	font-size:26px;
+	line-height:1.2em;
+	float:right;
+	color:#fff;
+	text-transform:uppercase;
+	text-decoration:none;
+	margin-right:20px;

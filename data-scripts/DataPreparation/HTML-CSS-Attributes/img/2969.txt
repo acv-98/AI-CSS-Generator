@@ -1,0 +1,1 @@
+ border: 1px solid #eee; float: left; width: 90px; height: 90px; border-radius: 50%; margin-right: 15px; 

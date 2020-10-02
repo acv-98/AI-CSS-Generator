@@ -1,0 +1,11 @@
+	clear: both;
+	display: block;
+	width: 86px;
+	height: 22px;
+	padding: 4px 0 0 0;
+	
+	font-size: 12px;
+	text-align: center;
+	text-decoration: none;
+	color: #f8e392;
+	background: url(images/button_hover.png) no-repeat;

@@ -1,0 +1,12 @@
+	display: block;
+	width: 165px;
+	height: 25px;
+	color: #fff;
+	float: left;
+	font-size: 14px;
+	text-shadow: 1px 2px #000;
+	text-align: center;
+	margin: 28px 30px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	background: url(../images/banner_btn.jpg) no-repeat;
+	text-decoration: none;

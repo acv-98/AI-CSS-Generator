@@ -1,0 +1,8 @@
+  border-color: #42969e;
+  border-left: 1px solid #42969e;
+  border-right: 10px solid #42969e;
+width: 100%;.animated {
+    -webkit-animation-duration: 0;
+    animation-duration: 0;
+    -webkit-animation-delay: 0;
+    animation-delay: 0;

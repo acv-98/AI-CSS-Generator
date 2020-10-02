@@ -1,0 +1,6 @@
+			color: #666666;
+			padding: 2px 0 2px 18px;
+			background: url(images/author.gif) no-repeat 0 0;
+			float: left;
+				font-size: 1.3em;
+				color: #A23D00;

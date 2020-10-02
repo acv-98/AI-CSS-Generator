@@ -1,0 +1,14 @@
+	margin: 0 !important;
+	padding: 0;
+	list-style: none !important;
+	display: none;
+	-webkit-backface-visibility: hidden;
+	width: 100%;
+	height: auto !important;
+	max-width: 100%;
+	content: ".";
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	zoom: 1;
+ max-width: none !important; 

@@ -1,0 +1,5 @@
+	background: #222;
+	color: #fff;
+	-webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+color:#f5bc04

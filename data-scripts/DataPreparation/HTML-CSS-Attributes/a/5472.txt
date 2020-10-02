@@ -1,0 +1,4 @@
+	background-image: url("../images/button-more-rtl.png");
+	padding: 0 10px 0 40px;
+	left: 0;
+	right: auto;

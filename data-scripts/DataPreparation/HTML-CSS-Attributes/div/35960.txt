@@ -1,0 +1,7 @@
+	overflow: visible;
+	max-width: 243px;
+	display: block;
+	float: right;
+	height: 96px;
+	width: 270px;
+position:absolute; right:-7px; top:40px; overflow:hidden; height:86px;float:left; height:86px; padding-left:10px; padding-right:2px; padding-top:20px; background:url("../img/sprites.png") no-repeat 0 -487px; max-width:250px;font-size:16px; margin-bottom:2px;text-decoration:none; color:#49494b;font-size:12px; text-align:right; color:#7b7b7b;float:right; width:15px; height:96px; background:url("../img/sprites.png") no-repeat 0 -579px;

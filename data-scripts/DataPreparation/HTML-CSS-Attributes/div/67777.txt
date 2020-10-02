@@ -1,0 +1,1 @@
+ background: url(../img/about-us.jpg) center no-repeat / cover; 

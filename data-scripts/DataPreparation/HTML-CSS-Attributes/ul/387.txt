@@ -1,0 +1,13 @@
+	position:absolute;
+	top:316px;
+	left:310px;
+	z-index:99;
+	float:left;
+	padding-right:2px;
+	display:block;
+	width:23px;
+	height:23px;
+	text-indent:-9999px;
+	background:url(../images/pags.png) right top no-repeat;
+	cursor:pointer;
+	background-position:left top;

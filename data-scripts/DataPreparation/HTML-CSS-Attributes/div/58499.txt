@@ -1,0 +1,9 @@
+	margin:0;
+	padding:0;
+	border-top:1px solid #5e5f62;
+	background:#e7e9eb url(images/fbg_bg.gif) top repeat-x;
+	width:930px;
+	color:#dedddd;
+	text-decoration:none;
+	background-color:#fff;
+	float:left;

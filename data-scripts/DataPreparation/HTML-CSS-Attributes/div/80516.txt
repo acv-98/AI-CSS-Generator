@@ -1,0 +1,6 @@
+    font-size: 14px;
+    color: #fff;
+    margin: 0;   
+    font-weight: 300;
+    float: left;
+    text-decoration: underline;

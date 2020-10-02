@@ -1,0 +1,7 @@
+	background: url(../images/sprites.png) no-repeat scroll 0 0 transparent;
+	height: 54px;
+	position: absolute;
+	width: 55px;
+	z-index: 100;
+	top:0;
+	left:0;

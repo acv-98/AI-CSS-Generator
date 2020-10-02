@@ -1,0 +1,4 @@
+  margin: 10px 20px;
+  color: #828282;
+  font-size: 0.9em;
+  text-align: justify;

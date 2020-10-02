@@ -1,0 +1,4 @@
+  content: "\f0eb";
+    font-size: 64px;
+    top: -1px;
+    position: relative;

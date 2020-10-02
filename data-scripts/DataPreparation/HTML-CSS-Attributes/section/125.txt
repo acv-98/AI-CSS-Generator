@@ -1,0 +1,5 @@
+		display: none;
+	background-color: #3498db;
+	font-size: .875em;
+	height: 55px;
+	line-height: 53px;

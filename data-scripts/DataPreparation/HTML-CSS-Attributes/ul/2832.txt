@@ -1,0 +1,13 @@
+border-top:3px solid #fff;
+color:#eee;
+	border-top:3px solid #353535;
+	padding:20px 0 0 0;
+	font-weight:400;
+	margin-bottom:20px;
+	text-transform:uppercase;
+	font-size:20px;
+	background-image:url(../images/check.png);
+	background-repeat:no-repeat;
+	font-style:italic;
+	font-family:'Arial';
+	color:#797979;

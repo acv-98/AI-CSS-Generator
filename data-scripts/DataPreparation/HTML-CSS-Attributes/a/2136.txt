@@ -1,0 +1,6 @@
+	background:url(../images/icons.gif) no-repeat right -335px;
+	float:left;
+	margin:0 0 0 30px;
+	padding:0 26px 0 0;
+	width:70px;
+	color:#d2d551;

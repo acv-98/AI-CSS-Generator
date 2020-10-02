@@ -1,0 +1,15 @@
+    border-top-color: #000;
+    color: #000;
+    top: 100%;
+    left: 10%;
+    content: " ";
+    position: absolute;
+    border-width: 15px;
+    margin-left: -15px;
+    width: 100%;
+    height: auto;
+    padding: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin-top: 30px;

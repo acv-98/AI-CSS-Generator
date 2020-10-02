@@ -1,0 +1,1 @@
+ background-position:454px top; background-position:454px top; background-image:url(images/line-ver.gif); background-repeat:repeat-y;

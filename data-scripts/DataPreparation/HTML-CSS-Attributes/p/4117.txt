@@ -1,0 +1,8 @@
+	margin:0 0 8px;
+	padding:9px 26px 0 26px;
+	height:26px;
+	color:#fff;
+	background:url(../images/infopost.gif) no-repeat center top;
+	text-decoration:none;
+	font-weight:bold;
+	float:right;

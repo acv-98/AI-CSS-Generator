@@ -1,0 +1,6 @@
+border: medium none;
+height: 31px;
+margin-left: -16px;
+text-indent: -99999px;
+width: 30px;
+opacity:1;

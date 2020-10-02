@@ -1,0 +1,5 @@
+  padding: 10px 20px;
+  color: #555555;
+  border: 5px solid #d1d1d1;
+  border-radius: 5px;
+  padding-bottom: 30px;

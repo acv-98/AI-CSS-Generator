@@ -1,0 +1,13 @@
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: #334d66;
+  background: #fff;
+  padding: 10px;
+  height: 20px;
+  width: 95%;
+  margin: 15px 0 0 0;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  float: right;
+  line-height: 0;

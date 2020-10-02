@@ -1,0 +1,12 @@
+	width: 110px;
+	float: left;
+	background: transparent url(../images/dot.png) left center no-repeat;
+	line-height: 24px;
+	padding-left: 10px;
+	margin-right: 10px;
+	color: #848484;
+	content: '';
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;

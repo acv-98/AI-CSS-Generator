@@ -1,0 +1,3 @@
+	font-size: 1.5rem;
+	line-height: 2.7rem;
+	color: #999999;

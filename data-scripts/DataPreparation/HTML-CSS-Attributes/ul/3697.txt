@@ -1,0 +1,12 @@
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     transform: translate(0%,-50%);
+     background: #010101;
+     display: inline-block;
+     font-size: 18px;
+     color: #ffffff;
+     width: 34px;
+     height: 34px;
+     text-align: center;
+     line-height: 34px;

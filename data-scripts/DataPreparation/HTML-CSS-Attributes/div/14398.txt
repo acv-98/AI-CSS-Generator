@@ -1,0 +1,6 @@
+    background: #fff;
+    padding: 15px;
+    margin: 2px;
+    text-align: left;
+    font-size: 18px;
+    padding-right: 20px;

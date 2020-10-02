@@ -1,0 +1,4 @@
+	margin-right: 2px;
+	display: inline-block;
+	margin-bottom: 2px !important;
+	margin-top: 74px;

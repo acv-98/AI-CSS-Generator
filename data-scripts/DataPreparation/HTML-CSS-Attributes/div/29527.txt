@@ -1,0 +1,14 @@
+  margin-top: 28px;
+  margin-bottom: 31px;
+  border-color: #000;
+  border-top: 1px solid rgba(50, 48, 69, 0.49);
+  width: 100%;
+  line-height: 40px;
+  position: relative;
+  top: 2px;
+  border-bottom: 1px solid rgba(50, 48, 69, 0.49);
+  font-size: 20px;
+  color: #323045;
+  min-width: 24px;
+  margin-right: 20px;
+  text-align: right;

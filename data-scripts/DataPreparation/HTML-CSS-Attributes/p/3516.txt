@@ -1,0 +1,8 @@
+	color: #665d4e;
+	display: block;
+	font-size: 12px;
+	line-height: 1.5em;
+	width: 500px;
+	float: left;
+	font-style: italic;
+	font-weight: bold;

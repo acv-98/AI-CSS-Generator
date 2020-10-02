@@ -1,0 +1,18 @@
+	color: #3e3524;
+	background: #f6efe5;
+	border: 1px solid #e0dacc;
+	margin: 17px auto 25px;
+	overflow: hidden;
+	padding: 0 0 30px;
+	width: 960px;
+	display: block;
+	font-family: Times New Roman, Times, serif;
+	font-size: 28px;
+	line-height: 28px;
+	text-shadow: 0 1px #F8FFFF;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-decoration: none;
+	float: left;
+	list-style: disc outside;
+	text-align: justify;

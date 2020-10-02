@@ -1,0 +1,8 @@
+background: #f8f8f8; padding: 15px; margin: 20px 0; border: 1px solid #CCC; border-radius: 5px; clear: both
+.ei-slider{
+	position: relative;
+	width: 100%;
+	max-width: 1920px;
+	border-bottom: 1px solid #EAEAEA;
+	height: 400px;
+	margin: 0 auto;

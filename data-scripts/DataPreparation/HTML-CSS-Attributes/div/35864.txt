@@ -1,0 +1,15 @@
+    color: #fff;
+    border-color: #ddd;
+    background:url(../img/accordion.png) no-repeat right -116px #333;
+    transition: all 0.0s;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 100%;
+    padding: 6px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    padding-left: 15px;
+    line-height: 3rem;
+    border-radius: 0px;
+    display:block;
+    background-color: #fefefe;

@@ -1,0 +1,1 @@
+ display: block; background: url(../img/up.png) no-repeat center; width: 25px; height: 18px; text-align: center; margin: 0 auto; .part ul{

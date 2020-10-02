@@ -1,0 +1,6 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/hover-left.png', sizingMethod='scale');
+	float:left;
+	color:#746554;
+	text-align:center;
+	cursor:pointer;

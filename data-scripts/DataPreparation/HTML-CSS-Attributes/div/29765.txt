@@ -1,0 +1,4 @@
+background-color:#FFF; padding:0 25px;position:relative; z-index:6; margin-bottom:396px
+	Footer
+ margin:auto; width:100%; max-width:1031px; padding-top:71px; padding-bottom:20px color:#343434; font-size:13px; line-height:30px; font-weight:400;padding-bottom:20px; font-weight:300	Details Gallery
+ font-weight:300 margin-bottom:0 font-weight:300 float:none;max-width:100% padding-top:20px padding-bottom:0 margin-bottom:0 padding-top:20px font-weight:300 float:none;max-width:100% padding-bottom:0

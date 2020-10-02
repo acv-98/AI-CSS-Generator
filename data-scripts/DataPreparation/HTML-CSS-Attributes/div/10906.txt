@@ -1,0 +1,8 @@
+	font-size: 14px;
+    margin-bottom:5px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:400;
+	color:#3a3a3a;
+	margin:10px auto 15px auto;
+	width:169px;
+	border-radius:3px;

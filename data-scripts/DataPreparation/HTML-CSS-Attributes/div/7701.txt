@@ -1,0 +1,10 @@
+	font-family: Open Sans;
+  font-size: 16px;
+	font-weight: 300;
+	letter-spacing: 0;
+	line-height: 1.5;
+  color: #000000;
+	display: inline-block;
+	margin-top: 20px;
+  font-family: Open Sans;
+  padding: 20px 10px 20px 10px;

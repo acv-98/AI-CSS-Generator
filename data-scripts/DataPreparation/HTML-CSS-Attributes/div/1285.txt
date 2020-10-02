@@ -1,0 +1,4 @@
+	display: table-cell;
+	position: relative;
+	vertical-align: middle;
+	z-index: 500;

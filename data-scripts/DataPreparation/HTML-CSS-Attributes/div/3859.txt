@@ -1,0 +1,10 @@
+		height: 460px;
+    height: 650px;
+    position: relative;
+	content: "";
+	position: absolute;
+	background: rgba(0,0,0, 0.8);
+	width: 100%;
+	top: 0%;
+	left: 100%;
+	z-index: 1

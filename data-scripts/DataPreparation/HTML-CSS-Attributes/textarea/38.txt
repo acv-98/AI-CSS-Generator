@@ -1,0 +1,6 @@
+	background: #fff;
+	border: 1px solid #dedede;
+	color: #606060;
+	width: 90%;
+	height: 200px;
+	padding: 10px;

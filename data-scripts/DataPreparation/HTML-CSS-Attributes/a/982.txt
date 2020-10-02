@@ -1,0 +1,6 @@
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: -1px;
+      color: #252525;
+      font-weight: 600;

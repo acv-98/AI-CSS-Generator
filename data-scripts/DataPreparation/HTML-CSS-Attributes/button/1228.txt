@@ -1,0 +1,29 @@
+  color: #777;
+  text-decoration: none;
+  cursor: not-allowed;
+  background-color: transparent;
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+    color: #ccc;
+    background-color: transparent;
+  border-color: #ddd;
+-webkit-tap-highlight-color:transparent;position:relative * Owl Carousel v2.2.0
+ * Copyright 2013-2016 David Deutsch
+ * Licensed under MIT (https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE)
+text-align:center;-webkit-tap-highlight-color:transparent    Last Update on : 13/01/2017
+    Author     : Andreas Lautenschlager
+    Theme Name : Elsa
+    Description: Elsa, a multipurpose Template
+    Version    : 1.0.0
+Primary:                                #FF5800
+Primary Shade:                          #c84600
+Text:                                   #7a7c82
+Grey:                                   #eee
+Dark Grey:                              #333
+Primary Footer                          #222
+Secondary Footer:                       #111
+body,
+html {
+    height: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 25px;

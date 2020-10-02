@@ -1,0 +1,1 @@
+padding:22px 0 0 10pxbackground:url(images/box2-bg.png) left top;width:100%;font-family:Tahoma, Geneva, sans-serifpadding:22px 20px 20px 24px

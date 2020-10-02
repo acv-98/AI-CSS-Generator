@@ -1,0 +1,14 @@
+	border: 1px solid #a5d549;
+	color: #a5d549;
+	display: inline;
+	float: left;
+	width: 100%;
+	margin-top: 20px;
+	border-radius: 50%;
+	font-size: 15px;
+	height: 35px;
+	line-height: 32px;
+	text-align: center;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+	

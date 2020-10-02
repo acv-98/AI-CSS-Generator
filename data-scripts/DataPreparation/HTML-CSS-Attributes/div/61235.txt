@@ -1,0 +1,10 @@
+	display: inline;
+	float: left;
+	padding: 35px 0 15px;
+	width: 100%;
+.mu-pricing-single-content ul li {
+	color: #666666;
+	font-size: 14px;
+	list-style: none;
+	line-height: 1.7;
+		padding: 0 5px;

@@ -1,0 +1,5 @@
+    margin-bottom: 0px;
+    padding: 15px;
+    line-height: 25px;
+    letter-spacing: 0.6px;
+    border: 1px solid #e4e4e4;

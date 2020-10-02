@@ -1,0 +1,15 @@
+	position: absolute;
+	background: #EEECEE;
+	border: 1px solid #e6e4e6;
+	width: 100%;
+	display: none;
+	opacity: 0;
+	height: 43px;
+    opacity: 0;
+    padding: 11px 10px;
+	text-align: center;
+	z-index: 999;
+	box-sizing: border-box;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;

@@ -1,0 +1,15 @@
+	width: 100%;
+	font-size: 11px;
+	margin-top: 30px;
+	text-align: center;
+	padding: 15px;
+	border:1px solid #E2E2E2;
+	background:#fff;
+	color: #555;
+	background-color:#72D0F4;
+	border-bottom: 1px solid #16BDFD;
+	border-right: 1px solid #16BDFD;
+	line-height: 150%;
+	display: block;
+	font-weight: bold;
+	text-decoration: none;

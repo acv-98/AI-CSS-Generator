@@ -1,0 +1,12 @@
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=76);
+	display: block;
+	line-height: 0;
+	margin-top: 0;
+	font-size: 0;
+	margin-bottom: 	30px;
+	background: url(../images/magnifier.png) center center no-repeat #000;
+	width: 100%;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+	opacity: 0.76;

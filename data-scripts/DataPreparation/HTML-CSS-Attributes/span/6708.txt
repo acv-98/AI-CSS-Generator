@@ -1,0 +1,6 @@
+		font-size: 28px;
+    padding-bottom: 25px;
+    display: block;
+    font-size: 34px;
+    text-transform: uppercase;
+    line-height: 20px;

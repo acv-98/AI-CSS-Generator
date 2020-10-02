@@ -1,0 +1,7 @@
+  border-radius: 0;
+  display: inline;
+  float: left;
+  height: 50px;
+  width: 80%;
+  font-size: 18px;
+width: 76%;width: 70%;font-size: 15px;

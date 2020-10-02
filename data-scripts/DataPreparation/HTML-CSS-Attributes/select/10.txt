@@ -1,0 +1,14 @@
+	background: transparent;
+	font-size: 16px;
+	font-weight: 700;
+	max-width: 600px;
+ font-size: 1em; 	border: 5px solid #000;
+	border-color: inherit;
+	-webkit-transition: background 0.2s, border-color 0.2s;
+	transition: background 0.2s, border-color 0.2s;
+	content: '';
+	opacity: 0;
+	color: #ddd9c9;
+	padding: 1em 2em;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;

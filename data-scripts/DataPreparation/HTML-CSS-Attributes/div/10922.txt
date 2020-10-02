@@ -1,0 +1,15 @@
+	padding-bottom:50px;
+	text-align:center;
+	display:block;
+	margin-bottom:15px;
+	color:#3a3a3a;
+	width:70px;
+	height:70px;
+	background-image:url(../img/icon1.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	line-height:24px;
+	font-size:20px;
+	text-transform:uppercase;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:800;

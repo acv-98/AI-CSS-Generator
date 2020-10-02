@@ -1,0 +1,1 @@
+float:left; display:inline; width:100%; padding:0 15px; margin-bottom:30pxfloat:left; display:inline; width:100%display:block; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5smax-width:100%float:left; display:inline; width:100%; background-color:#fff; border-bottom:1px solid #bebebd; border-left:1px solid #e3e3e3; border-right:1px solid #bebebdwidth:100%

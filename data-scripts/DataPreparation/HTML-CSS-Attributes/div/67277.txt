@@ -1,0 +1,12 @@
+	padding: 10px 5px; 
+	background: url(images/latest-news-separator.gif) repeat-x 0 bottom; 
+	margin: 0 5px; 
+	display: block; 
+	color: #c04226; 
+	font-size: 11px; 
+	margin-bottom: 3px; 
+ line-height: 15px; color: #5a5a5a; .latest-news .actions { 
+	float: right; 
+	line-height: 12px;
+	padding-left: 15px; 
+	text-decoration: underline; 

@@ -1,0 +1,25 @@
+	position:relative;
+	overflow:hidden;
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:left;
+	display:block;
+	width:100%;
+	height:auto;
+	
+	top:50%;
+	left:16px;
+	transform:translateY(-50%);
+	background:rgb(0,0,0);
+	color:#fff;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter:alpha(opacity=0);
+	-moz-opacity:0;
+	-khtml-opacity:0;
+	opacity:0;
+	-webkit-transition:all 0.25s ease-in-out;
+	-moz-transition:all 0.25s ease-in-out;
+	-o-transition:all 0.25s ease-in-out;
+	transition:all 0.25s ease-in-out;
+	right:16px;

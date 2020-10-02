@@ -1,0 +1,5 @@
+.footer-news{
+	background:url(../images/newsletter-bg.jpg) no-repeat center;
+	background-attachment:fixed;
+	background-size:cover;
+	position:relative;

@@ -1,0 +1,9 @@
+    background: url(../images/lessonbg.jpg) no-repeat top right #032F3E;
+    overflow: hidden;
+    background-size: contain;
+    position: relative;
+    left: 15px;
+    top: 20px;
+    content: "";
+    width: 2px;
+    height: 90%;

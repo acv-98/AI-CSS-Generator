@@ -1,0 +1,5 @@
+	text-align: center;
+	margin: 0 0 10px;
+	list-style: none;
+	display: inline;
+	padding: 0 10px;

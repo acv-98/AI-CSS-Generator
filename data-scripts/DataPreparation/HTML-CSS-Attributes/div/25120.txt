@@ -1,0 +1,8 @@
+	width: 260px;
+	float: left;
+	padding: 20px 0px 0px 42px;
+	background: url(../images/blue_sep.gif) no-repeat left;
+	padding-left: 42px;
+	padding-top: 0px;
+	background-image: none;
+	display: inline;

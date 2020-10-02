@@ -1,0 +1,1 @@
+color:#666; display:inline-block; float:left; font-size:15px; margin-top:5px; width:65%font-size:14px; margin-top:0; width:64%width:70%

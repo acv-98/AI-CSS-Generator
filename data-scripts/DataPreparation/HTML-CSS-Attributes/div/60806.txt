@@ -1,0 +1,11 @@
+	width: 970px;
+	height:41px;
+	overflow:hidden;
+	margin:auto;
+	padding: 7px 0 0 0;
+	float:left;
+	display: inline;
+	text-decoration: none;
+	color: #272727;
+	font-size:11px;
+	font-weight:bold;

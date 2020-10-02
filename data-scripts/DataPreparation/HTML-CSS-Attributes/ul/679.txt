@@ -1,0 +1,15 @@
+  display: none;
+  -webkit-backface-visibility: hidden;
+  width: 100%;
+  content: "\0020";
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+  zoom: 1;
+	text-align: center;
+	float: left;
+	display: block;
+	width: 100%; 
+		max-width: 450px;
+ width: 450px;	

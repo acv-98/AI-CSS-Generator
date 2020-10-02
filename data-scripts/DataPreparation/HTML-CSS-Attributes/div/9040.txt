@@ -1,0 +1,11 @@
+	float:left;
+	width:90%;
+	height:45px;
+	padding:17px 0% 0px 10%;
+	background-image: url(../img/fail.png);
+	background-repeat: no-repeat;
+	background-position: 5px 5px;
+	font-size:12pt;	
+	color:#FF0000;
+	display:none;
+width:85%;padding:17px 0% 0px 15%;

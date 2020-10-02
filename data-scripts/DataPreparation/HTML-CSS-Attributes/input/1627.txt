@@ -1,0 +1,13 @@
+	color: #655623;
+	padding: .75rem 1.75rem;
+	font-size: 1.4rem;
+	background-color : #E3D4A9;
+	border-radius: 0;
+	border-color: #917D33;
+ border-color: #393422; textarea.form-control {
+	padding-top: 1.15rem;
+	padding-bottom: 1.15rem;
+   color: #655623;
+		padding-top: .5rem;
+		padding-bottom: .5rem;
+	padding: .5rem .75rem; 

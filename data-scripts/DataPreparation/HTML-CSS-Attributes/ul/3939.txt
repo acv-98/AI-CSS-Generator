@@ -1,0 +1,6 @@
+	padding:0px 0 10px 13px;
+	line-height:18px;
+	background:url(../images/list-1.gif) 0 8px no-repeat;
+	font-size:12px;
+	color:#97b0b9;
+	font-weight:bold;

@@ -1,0 +1,3 @@
+ background-position: 0px 0px;  background-position: -24px 0px;  background-position: -48px 0px;  background-position: -72px 0px;  background-position: -96px 0px; 
+	.pager
+	{

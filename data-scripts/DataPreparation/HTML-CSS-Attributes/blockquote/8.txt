@@ -1,0 +1,7 @@
+	width:100%;
+	position:relative;
+	background:url(../images/pic-3.png) 0 3px no-repeat;
+	color:#7c7c7c;
+	font-style:italic;
+	margin-bottom:17px;
+	padding:0 0 0 35px;

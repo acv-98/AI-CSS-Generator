@@ -1,0 +1,17 @@
+	position: absolute;
+	text-align: center;
+	right: 0;
+	left: 0;
+	top: 50%;
+	margin-top: 0px;
+	font: 300 48px/40px 'Open Sans Condensed', sans-serif;
+	color: #fff;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+	display: inline-block;
+	border-radius: 500px;
+	width: 4px;
+	height: 4px;
+	background-color: #fff;

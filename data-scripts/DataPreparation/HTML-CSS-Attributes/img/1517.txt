@@ -1,0 +1,27 @@
+    filter: none;
+background-color:#A84B3A;background-color:#FF9F67;background-color:#233138;background-color:#E3733A;background-color:#4C646B;background-color:#A84B3A;background-color:#FF9F67;background-color:#233138;background-color:#E3733A;.usquare_products_style .usquare_square_bg1,
+.usquare_products_style .usquare_square_bg2,
+.usquare_products_style .usquare_square_bg3,
+.usquare_products_style .usquare_square_bg4,
+.usquare_products_style .usquare_square_bg5,
+.usquare_products_style .usquare_square_bg6,
+.usquare_products_style .usquare_square_bg7,
+.usquare_products_style .usquare_square_bg8,
+.usquare_products_style .usquare_square_bg9 {
+	background: url(../images/background-gray.jpg) repeat;
+	position:relative; 
+	display:block; 
+	height:160px; 
+	width:160px; 
+	overflow:hidden; 
+	float:left;
+	cursor:pointer;
+	bottom:0; 
+	text-align:left; 
+	padding:0 5px;
+    -webkit-filter: grayscale(0);
+img.usquare_square:hover {
+background-color:#ef4939;background-color:#f05539;background-color:#f15e3c;background-color:#f2673c;background-color:#f36f3e;background-color:#f4773d;background-color:#f57f3f;background-color:#f5863f;background-color:#f78d41;@media (min-width: 980px) and (max-width: 1199px) {
+	.usquare_module_wrapper {
+		width: 780px !important;
+		height: 585px !important;

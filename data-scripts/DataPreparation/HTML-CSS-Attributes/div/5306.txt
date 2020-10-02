@@ -1,0 +1,14 @@
+	float:right;
+	margin: 0px 4px 0px 0;
+	display:inline-block;
+	height:30px;
+	width:30px;
+	zoom: 1;
+	filter: alpha(opacity=50);
+	opacity: 0.8;
+	-webkit-transition: opacity .15s ease-in-out;
+	-moz-transition: opacity .15s ease-in-out;
+	-ms-transition: opacity .15s ease-in-out;
+	-o-transition: opacity .15s ease-in-out;
+	transition: opacity .15s ease-in-out;
+	background: url(../images/img-sprite.png) -44px -73px;

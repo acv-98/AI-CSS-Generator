@@ -1,0 +1,107 @@
+  background-image: -webkit-linear-gradient(top, #fff 0%, #f8f8f8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff8f8f8', GradientType=0);
+  background-repeat: repeat-x;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 5px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 5px rgba(0, 0, 0, .075);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
+    color: #fff;
+    background-image: -webkit-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff2e6da4', GradientType=0);
+    background-repeat: repeat-x;
+    display: none;
+  content: "";
+  border-top: 0;
+  border-bottom: 4px dashed;
+  top: auto;
+  bottom: 100%;
+  margin-bottom: 2px;
+    right: 0;
+    left: auto;
+  padding-left: 0;
+  list-style: none;
+  position: relative;
+  text-decoration: none;
+  background-color: #eee;
+  cursor: not-allowed;
+  border-color: #337ab7;
+  height: 1px;
+  overflow: hidden;
+  max-width: none;
+  float: left;
+  margin-right: 2px;
+  line-height: 1.42857143;
+  border-bottom-color: transparent;
+  width: 100%;
+  text-align: center;
+    width: 1%;
+    margin-bottom: 0;
+    border-bottom: 1px solid #ddd;
+    border-radius: 4px 4px 0 0;
+    border-bottom-color: #fff;
+  margin-left: 2px;
+  margin-top: 2px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  min-height: 50px;
+    float: left;
+  padding-right: 15px;
+  overflow-x: visible;
+  -webkit-overflow-scrolling: touch;
+  overflow-y: auto;
+    border-top: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+    overflow-y: visible;
+    padding-right: 0;
+    padding-left: 0;
+  max-height: 340px;
+    max-height: 200px;
+    margin-right: 0;
+    margin-left: 0;
+  z-index: 1000;
+  border-width: 0 0 1px;
+  font-size: 18px;
+  outline: 0;
+  padding-top: 10px;
+    position: static;
+    margin-top: 0;
+    background-color: transparent;
+    line-height: 20px;
+    padding-top: 15px;
+    vertical-align: middle;
+    top: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+    border-color: #080808;
+  transition-duration: 300ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  -webkit-transform: rotate(0);
+  -moz-transform: rotate(0);
+  transform: rotate(0);
+  font-weight: 600;
+  font-family: Hind, sans-serif;
+  text-transform: uppercase;
+line-height:1.4@charset "UTF-8";
+	MASTER STYLESHEET
+	Project:        Metronic "Acidus" Frontend Freebie - Responsive HTML Template Based On Twitter Bootstrap 3.3.4
+	Version:        1.0
+	Author:         KeenThemes
+	Primary use:    Corporate, Business Themes.
+	Email:			support@keenthemes.com
+	Follow: 		http://www.twitter.com/keenthemes
+	Like: 			http://www.facebook.com/keenthemes
+	Website:		http://www.keenthemes.com
+	Premium:		Premium Metronic Admin Theme: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
+  	[The "base.scss" contains basic default element styles
+  		(colors, typography, margins & padding).]
+html {
+  opacity: 1;
+    transition-duration: 300ms;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+position:relative;font-family:Hind,sans-serif.mfp-bg {

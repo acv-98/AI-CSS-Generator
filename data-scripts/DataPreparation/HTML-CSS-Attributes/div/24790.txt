@@ -1,0 +1,6 @@
+	margin-left:90px;
+font-family: 'Roboto Slab', serif;
+	color: #9aa7af;
+        margin-top:10px;
+        font-size:0.83em;
+        color:#202020;

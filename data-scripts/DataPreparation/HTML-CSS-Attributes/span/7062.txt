@@ -1,0 +1,6 @@
+	background:url(../images/round-btn-center.png) repeat-x;
+	background-position:left top;
+	height: 26px;
+	display:block;
+	float:left;
+	font-size:11px;

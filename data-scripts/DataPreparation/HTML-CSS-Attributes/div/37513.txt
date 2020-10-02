@@ -1,0 +1,15 @@
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+  padding-left: 80px;
+  padding-right: 80px;
+  left: 80px;
+  content: '.';
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  font-size: 0;
+  line-height: 0;
+  height: 0;
+  clear: both;
+  zoom: 1;

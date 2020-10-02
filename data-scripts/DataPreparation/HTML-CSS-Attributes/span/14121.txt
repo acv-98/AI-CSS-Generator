@@ -1,0 +1,12 @@
+  -moz-transition: 0.3s ease-in height;
+  -o-transition: 0.3s ease-in height;
+  -webkit-transition: 0.3s ease-in height;
+  transition: 0.3s ease-in height;
+  position: absolute;
+  right: 3px;
+  top: 2px;
+  color: red;
+  height: 0;
+  overflow: hidden;
+  font-size: 11px;
+  z-index: 99;

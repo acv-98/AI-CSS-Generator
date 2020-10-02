@@ -1,0 +1,5 @@
+	background:url(../images/testibg1.jpg) 0 0 no-repeat;
+	width:362px;
+	height:122px;
+	float:left;
+	margin-right:65px;

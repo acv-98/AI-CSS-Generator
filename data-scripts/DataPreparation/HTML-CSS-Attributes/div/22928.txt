@@ -1,0 +1,10 @@
+  text-align: center;
+  margin-bottom: 10px;
+  display: inline-block;
+  *display: inline;
+  width: 8px;
+  height: 8px;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #D7D7CF;
+  border-color: #c0c0b3;

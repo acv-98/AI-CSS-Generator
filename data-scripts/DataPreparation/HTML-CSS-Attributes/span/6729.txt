@@ -1,0 +1,2 @@
+display:block; background:url(../images/hot_heading_button.jpg) no-repeat; width:89px; height:18px; padding:4px 0 0 0; text-align:center; font: normal 11px Verdana, Arial, Helvetica, sans-serif!important; float:right;color:#e8e3cd; text-decoration:none;color:#e8e3cd; text-decoration:none;color:#f4f0df; text-decoration:none;	float: left;
+	width: 261px;

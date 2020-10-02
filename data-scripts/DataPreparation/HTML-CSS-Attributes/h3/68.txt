@@ -1,0 +1,5 @@
+	background:#999 url(images/bg_package_silver.png) repeat-x top;
+	text-shadow:1px 1px 1px #666;
+	border:1px solid #aaa;
+	margin-left:20px;
+	padding:0;

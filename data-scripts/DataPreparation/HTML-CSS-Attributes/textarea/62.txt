@@ -1,0 +1,5 @@
+	text-align: left;
+	margin-top: 2px;
+	height: 135px;
+	width: 400px;
+	padding: 5px;

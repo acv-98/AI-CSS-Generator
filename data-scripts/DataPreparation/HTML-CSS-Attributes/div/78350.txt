@@ -1,0 +1,8 @@
+	margin:0 0 8px;
+	padding:6px 20px;
+	float:right;
+	font-size:15px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#fff;

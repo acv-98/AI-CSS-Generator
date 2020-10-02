@@ -1,0 +1,2 @@
+	background-image: url('../img/rainbow-content-bg.jpg');
+	background-repeat: repeat;

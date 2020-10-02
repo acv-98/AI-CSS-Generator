@@ -1,0 +1,11 @@
+	font-size:0;
+	display:inline-block;
+	*display:inline;
+	*zoom:1;
+	position:relative;
+	vertical-align:top;
+	top:2em;
+	font-weight:900;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	color:rgba(0,0,0,.4);

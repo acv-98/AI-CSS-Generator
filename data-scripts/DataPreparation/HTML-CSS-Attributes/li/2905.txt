@@ -1,0 +1,2 @@
+	background-color: #81b4eb;
+	margin: 1px;

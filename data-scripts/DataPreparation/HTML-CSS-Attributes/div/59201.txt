@@ -1,0 +1,4 @@
+	padding:40px 0;
+	clear:both;
+		padding:150px 0;
+			 clear:both;

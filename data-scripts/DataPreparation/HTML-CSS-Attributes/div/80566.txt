@@ -1,0 +1,13 @@
+		background:url(../images/design/body-960.png) left top repeat-y transparent;
+		width:980px;
+		margin:auto;
+		min-height:50px;
+		position:relative;
+		z-index:10;
+		padding-top:6px;
+		padding-left:10px;
+		padding-right:10px;
+			background:url(../images/design/body-768.png) left top repeat-y transparent;
+			width:790px;
+			margin:auto;
+			min-height:50px;

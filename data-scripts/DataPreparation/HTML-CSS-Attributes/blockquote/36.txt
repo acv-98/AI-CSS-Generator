@@ -1,0 +1,2 @@
+margin:0;width:0; height:0; margin:0; line-height:0; border-top:30px solid #ededed; border-left:60px solid #60849a; border-right:10px solid #60849a; position:absolute; bottom:-30px; right:30px;
+background:#fff;border-top:30px solid #fff; border-left:60px solid #60849a; border-right:10px solid #60849a;

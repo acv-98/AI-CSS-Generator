@@ -1,0 +1,12 @@
+    width: 400px;
+    margin-left: 0px;
+    background: #f8f5f2 url(../img/meta-bg-vertical.png) repeat-x top right;
+    padding: 20px 20px 20px 40px;
+  color: #656360;
+	background-image: url(../img/social/metacafe.png);
+  float: left;
+  font-size: 11px;
+  padding-top: 15px;
+  display: block;
+  margin-bottom: 10px;
+  padding-left: 25px;

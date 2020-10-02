@@ -1,0 +1,4 @@
+border-top-color: #f3f2e9;
+    border-bottom-color: #f3f2e9;
+    margin-bottom: 0;
+    top: 9px;

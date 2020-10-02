@@ -1,0 +1,16 @@
+	width:960px;
+	height:300px;
+	clear:both;
+	margin:0 auto;
+	background:url(../images/banner.jpg);
+	margin-top:40px;
+	float:right;
+	padding-top:70px;
+	display:block;
+	line-height:50px;
+	padding-left:20px;
+	padding-right:20px;
+	font-size:24px;
+	font-weight:normal;
+	color:#5fa1c7;
+	text-transform:uppercase;

@@ -1,0 +1,8 @@
+  padding: 120px 0 130px;
+  border-bottom: 1px solid #000;
+  margin-bottom: 65px;
+  font-size: 36px;
+  font-family: 'Marvel', sans-serif;
+  color: #312f2f;
+  text-align: center;
+  margin-top: 40px;

@@ -1,0 +1,14 @@
+	padding: 0;
+	border-bottom: 0;
+	letter-spacing: 1px;
+	background: #333;
+	text-transform: uppercase;
+	font-weight: 600;
+	color: #E75926;
+	outline: 0;
+	font-size: 18px;
+	border-radius: 2px;
+	background-color: #E75926;
+	-webkit-transition: background .3s ease-in-out;
+	-moz-transition: background .3s ease-in-out;
+	transition: background .3s ease-in-out;

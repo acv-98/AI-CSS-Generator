@@ -1,0 +1,27 @@
+ font-size: 17px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #000000; font-style: normal; font-weight: 400;  color: #333333;  font-size: 15px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  color: #6c6d03;  border-color: #dfdcdc;  font-size: 11px; font-family: 'Arial, Helvetica', sans-serif; color: #747605; font-style: normal; font-weight: 400;  color: #030303;  margin-top: 23px 
+ position:static;  font-size: 11px  padding-left:0;  margin-top: 0  padding-bottom: 9px     font-size: inherit;
+    color: #030303;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-bottom: 20px;
+    line-height: 18px;
+    margin-top: 2px;
+    float: left;
+ content: '\0000a0-\0000a0';  content: ''; .section.blog .post.sticky {
+    border: none !important;
+    min-width: 220px;
+    background-color: #000;
+    padding-top: 15px;
+    padding-left: 24px;
+    padding-bottom: 13px;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    margin-right: 10px;
+    width: 46%;
+ margin-right: 7px;  margin-right: 0px;  line-height: 26px; margin-bottom: 0px; margin-top: 0px;  font-size: 14px;  margin-right: 8px; display:inline;  color: #fc9a00;  color: #fc9a00     font-weight: 400;
+    font-family: 'Open Sans', Verdana, Arial, sans-serif;
+ color: #676768;  color: #797b04; .section.blog .post .meta p,
+.section.blog .post .meta p a {
+ color: #676768;  font-weight: 800;  content: ""; @media (min-width: 1200px) {

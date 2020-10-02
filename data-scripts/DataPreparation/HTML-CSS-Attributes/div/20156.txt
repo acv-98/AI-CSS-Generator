@@ -1,0 +1,10 @@
+    display: block;
+    width:80%;
+    height: 40px;
+    background-color: #1a1a1a;
+    border-color:#333333;
+    padding: 0.65rem 1.2rem;
+    color:#fff;
+    border-radius: 0;
+    margin-left:-4px;
+    font-size: 12px;

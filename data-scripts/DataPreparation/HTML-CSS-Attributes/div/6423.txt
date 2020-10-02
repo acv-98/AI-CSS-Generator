@@ -1,0 +1,10 @@
+	height: 200px;
+	overflow: hidden;
+	width: 100%;
+	position: relative;
+	color: #fff;
+	z-index: 7;
+	top: 60%;
+	left: 5%;
+	padding: 0 10px;
+color:#f5bc04

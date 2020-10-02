@@ -1,0 +1,11 @@
+  display: block;
+  float: left;
+  font-size: 30px;
+  line-height: 40px;
+  margin: 0 8px 0 0;
+  padding: 10px 10px;
+  background: #585246;
+  color: #f3e4c8;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;

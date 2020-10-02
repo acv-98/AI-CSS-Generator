@@ -1,0 +1,1 @@
+background:#fff;width:100%background:url(images/border-top.gif) repeat-x left topbackground:url(images/left-top-corner.gif) no-repeat left topbackground:url(images/right-top-corner.gif) no-repeat right toppadding:25px 28px 0 29pxwidth:100%;background:#f5f5f5padding:26px 30px 28px 29px

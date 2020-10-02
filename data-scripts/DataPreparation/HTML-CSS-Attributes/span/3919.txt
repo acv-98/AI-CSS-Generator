@@ -1,0 +1,4 @@
+  color: #A7A7A7;
+  font-size: 0.8em;
+  text-decoration: line-through;
+  font-weight: normal;

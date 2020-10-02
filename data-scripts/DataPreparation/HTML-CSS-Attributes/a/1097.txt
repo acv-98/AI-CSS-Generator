@@ -1,0 +1,8 @@
+    background-color: #63c6ae;
+    padding: 15px 40px;
+    border-radius: 3px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+    margin-right: 15px;
+    text-decoration: none;

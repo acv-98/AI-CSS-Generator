@@ -1,0 +1,5 @@
+  margin-left: -35px;
+margin-left: -15px;.single_work{float: left;
+width: 337px;position:relative;
+margin-bottom:15px;height:190px;
+background:url(images/work_bg.png) repeat scroll 0 0 #222;

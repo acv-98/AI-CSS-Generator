@@ -1,0 +1,11 @@
+	list-style:none;
+	padding:0;
+	margin-bottom: 5%;
+	color: #08080B;
+	font-weight: 700;
+	font-size: 0.8125em;
+	padding-bottom: 0.5em;
+	display: block;
+	text-transform: uppercase;
+	width: 32px;
+	height: 32px;

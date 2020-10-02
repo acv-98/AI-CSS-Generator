@@ -1,0 +1,13 @@
+	border: 2px solid #a5d549;
+	display: inline;
+	float: left;
+	margin-top: 50px;
+	width: 100%;
+	right: -40px;
+	left: -60px;
+	background-color: transparent;
+		left: -40px;
+		right: -20px;
+		height: 40px;
+		width: 40px;
+		font-size: 18px;

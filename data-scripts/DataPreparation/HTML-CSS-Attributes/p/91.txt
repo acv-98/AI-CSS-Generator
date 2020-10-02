@@ -1,0 +1,23 @@
+display:none;.aside-nav li li a, .aside-nav li li.active-item a, .aside-nav li li.aside-sub-submenu li a, 
+.aside-nav > ul > li > a, .aside-nav > ul > li.active-item > a:link, .aside-nav > ul > li.active-item > a:visited, .aside-nav li > ul,
+.top-nav .active-item a, .top-nav li a, .aside-nav li a, .top-nav li ul li a, .top-nav li a,.top-nav li a, .top-nav li ul li a, .top-nav li ul li ul li a {
+  transition:background 0.20s linear 0s;
+  -o-transition:background 0.20s linear 0s;
+  -ms-transition:background 0.20s linear 0s;
+  -moz-transition:background 0.20s linear 0s;
+  -webkit-transition:background 0.20s linear 0s;
+  color:#fff;
+  display:block;
+  font-size:1.2em;
+  line-height:3em;
+  margin-right:0.625em;
+  max-width:100%;
+  text-align:right;
+  vertical-align:middle;
+  content:"\f008";
+  font-family:"mfg";
+  margin-left:0.5em;
+  	font-size: 2.5em;
+  	line-height: 1em;
+  	padding-top: 1em;
+  	text-align: center;

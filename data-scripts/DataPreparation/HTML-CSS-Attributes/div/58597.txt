@@ -1,0 +1,5 @@
+	height:2px;
+	width:100%;
+	display:block;
+	background:#DFDFDF;
+	margin-top: 2em;

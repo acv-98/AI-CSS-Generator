@@ -1,0 +1,6 @@
+  position: relative;
+  width: 30px;
+  height: 200px;
+  display: inline-block;
+  margin-right: 10px;
+  bottom: 0;

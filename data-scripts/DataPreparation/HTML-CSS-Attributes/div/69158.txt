@@ -1,0 +1,2 @@
+ font-size: 13px; font-family: 'Maven Pro', sans-serif; color: #585555; font-style: normal; font-weight: 400;     margin-left: 0px;
+    min-height: 60px;

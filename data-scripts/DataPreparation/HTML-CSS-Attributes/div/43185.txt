@@ -1,0 +1,4 @@
+        width: 49.93%;
+ width: 16.67%; .portfolio .grid-item{
+    position: relative;
+    opacity: 1;

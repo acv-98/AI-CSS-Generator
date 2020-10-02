@@ -1,0 +1,12 @@
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  font-family: "librebaskerville-bold", sans-serif;
+  font-size: 2rem;
+  margin-top: .9rem;
+  margin-bottom: 3rem;
+  color: #151515;
+  line-height: 1.313;
+  letter-spacing: 0;
+  text-transform: none;
+    font-size: 1.8rem;

@@ -1,0 +1,9 @@
+	border-collapse:separate;
+	width:440px;
+	margin-left:-10px;
+	color:#696969;
+	font-family:arial;
+	font-size:14px;
+	font-weight:bold;
+	line-height:20px;
+	vertical-align:top;

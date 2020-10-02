@@ -1,0 +1,14 @@
+	margin-top:12%;
+	border: none;
+	color: #FFF;
+	cursor: pointer;
+	padding:5px 10px;
+	font-size:1em;
+	outline: none;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	text-transform: uppercase;
+	background: #6E9BCA;
+	text-decoration: none;
+  margin-top: 20px;

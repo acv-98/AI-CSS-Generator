@@ -1,0 +1,1 @@
+text-align:center; margin-top:15pxcolor:#FFA439; font-weight:boldtext-decoration:underline

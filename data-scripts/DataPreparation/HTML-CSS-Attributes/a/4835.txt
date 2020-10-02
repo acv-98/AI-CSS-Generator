@@ -1,0 +1,7 @@
+  color: #343a40;
+  background-color: transparent;
+  background-image: none;
+  border-color: #343a40;
+  box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
+    border-color: #1d3ede;
+    color: #1d3ede;

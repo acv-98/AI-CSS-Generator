@@ -1,0 +1,3 @@
+		background: url(../images/bg.jpg) top center no-repeat;		
+		height:502px; 		
+		z-index:2;		

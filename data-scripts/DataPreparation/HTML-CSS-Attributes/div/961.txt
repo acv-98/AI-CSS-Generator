@@ -1,0 +1,2 @@
+	background:url(../images/box2_bot.gif) left bottom no-repeat;
+	width:100%;

@@ -1,0 +1,9 @@
+	border-top:1px solid #c8c8c8;
+	padding:12px 0;
+	font-size:9px;
+	text-transform:uppercase;
+	color:#685d5d;
+	text-decoration:none;
+	margin:0;
+	line-height:normal;
+	float:left;

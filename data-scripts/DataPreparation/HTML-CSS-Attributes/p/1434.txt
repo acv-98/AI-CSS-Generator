@@ -1,0 +1,11 @@
+ margin-bottom: 0px; 
+#respond .comment-form-comment textarea {
+    height: 192px;
+    margin-bottom: 0px;
+    padding-left: 50px;
+    padding-top: 10px;
+	resize: none;
+ top: 12px; #respond p.comment-form-comment i {
+    top: 0px;
+ width: 91.8% !important;  width: 94% !important; @media (min-width: 1200px) {
+ width: 93.5% !important;  width: 95.2% !important;  width: 91.8% !important;  width: 94% !important;  width: 89.4% !important;  width: 92.1% !important;  width: 91.5% !important;  width: 81.9% !important; 

@@ -1,0 +1,17 @@
+    width: 160px;
+    height: 160px;
+    line-height: 160px;
+    border-radius: 50%;
+    border-top: 5px solid #8299cd;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    margin: 30px auto;
+    -webkit-animation: 2s loading1 ease-in-out infinite;
+    animation: 2s loading1 ease-in-out infinite;
+    content: "";
+    display: block;
+    top: -5px;
+    left: 0;
+    -webkit-transform: rotate(120deg);
+    transform: rotate(120deg)

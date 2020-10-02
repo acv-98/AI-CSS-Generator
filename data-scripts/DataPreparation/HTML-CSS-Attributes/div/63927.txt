@@ -1,0 +1,2 @@
+background-color: #efefef; border-color: #FF5200;.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus,
+color: #fff; background-color: #c83a3a;background-color: #e4dcd2;border-color: #c83a3a;color:#000color:#C83A3A

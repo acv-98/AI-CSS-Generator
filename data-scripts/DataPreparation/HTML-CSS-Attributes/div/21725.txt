@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	float:right;
+	width:660px;
+	margin-bottom:0;
+	background:url(../images/h2.gif) repeat-x left top;
+	border:none;
+	color:#7e7c7c;

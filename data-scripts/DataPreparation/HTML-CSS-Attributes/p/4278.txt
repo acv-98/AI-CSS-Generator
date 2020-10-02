@@ -1,0 +1,1 @@
+font-size:14px; line-height:22px; color:#e2e2e4; font-weight:bold; text-transform:uppercase;

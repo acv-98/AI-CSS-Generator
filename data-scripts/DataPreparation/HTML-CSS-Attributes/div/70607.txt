@@ -1,0 +1,5 @@
+    padding:40px;
+    font-size: .75em;
+    color:#07385e;
+    text-transform: capitalize;
+        width:100% !important;

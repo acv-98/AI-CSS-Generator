@@ -1,0 +1,13 @@
+  overflow: hidden;
+  background: #FFFFFF;
+  border: 1px solid #d1d1d1;
+  border-radius: 5px;
+  margin: 0;
+  display: block;
+  max-width: 100%;
+  position: relative;
+  padding: 15px;
+  font-size: 55%;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.2);
+  text-decoration: none;

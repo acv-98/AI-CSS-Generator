@@ -1,0 +1,5 @@
+	color: #ab4d63;
+	font-family: 'CharisSILItalic';
+	font-size: 12px;
+	height: 13px;
+	display: block;

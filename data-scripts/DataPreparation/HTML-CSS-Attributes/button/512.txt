@@ -1,0 +1,3 @@
+    background: none;
+    border: 1px solid #006699;
+    color: #006699;

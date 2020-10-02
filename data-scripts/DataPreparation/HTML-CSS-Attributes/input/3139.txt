@@ -1,0 +1,13 @@
+	height:25px;
+	overflow:hidden;
+	padding:25px 0 0 0;
+	width:93px;
+	position:absolute;
+	right:67px;
+	bottom:10px;
+	font-size:0;
+	border:none;
+	background:url(../images/footer_button.png) no-repeat;
+	text-indent:-9999px;
+	margin-right:5px;
+	cursor:pointer;

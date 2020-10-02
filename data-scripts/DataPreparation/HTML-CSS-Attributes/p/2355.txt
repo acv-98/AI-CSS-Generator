@@ -1,0 +1,1 @@
+  padding: 23px 0 24px;

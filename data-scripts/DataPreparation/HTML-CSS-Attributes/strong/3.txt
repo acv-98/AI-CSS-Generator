@@ -1,0 +1,7 @@
+	display:block;
+	font-size:30px;
+	line-height:1.2em;
+	color:#6e3bb9;
+	font-style:italic;
+	font-weight:normal;
+	letter-spacing:-2px

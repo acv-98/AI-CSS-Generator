@@ -1,0 +1,15 @@
+   width:100%;
+   overflow: hidden;
+   display: block;
+   margin-bottom:30px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+        top: 18%;
+        height: 560px;
+        width: 15%;
+        margin-bottom: 15px;
+        font-size:1.5rem;
+    overflow: hidden;

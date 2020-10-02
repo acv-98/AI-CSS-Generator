@@ -1,0 +1,8 @@
+	background-image: url(../img/socialicons.png);
+	background-repeat: no-repeat;
+	display: block;
+	width: 30px;
+	height: 30px;
+	float: left;
+	margin: 20px 10px 0px 0px;
+	background-position: 0px 0px;

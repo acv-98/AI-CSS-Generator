@@ -1,0 +1,10 @@
+  position: absolute;
+  bottom: -47px;
+  right: 0;
+  color: #fff;
+  width: 120px;
+  padding: 7px 0;
+  background: #3c4146;
+  -webkit-transition: 0.1s;
+  -o-transition: 0.1s;
+  transition: 0.1s;

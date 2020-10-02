@@ -1,0 +1,18 @@
+        padding: 1rem 2rem;
+    outline: inherit;
+    color: #ffffff;
+    background-color: #5e9a28;
+    border-color: #5e9a28;
+    display: inline-block;
+    min-width: 230px;
+    height: 45px;
+    text-align: center;
+    letter-spacing: 1px;
+    margin: 0;
+    font-size: 1.875rem;
+    border-radius:0px;
+    margin-top: 20px;
+    transition: .5s; 
+    font-family: 'amblebold';
+    text-decoration: none;
+    max-width:430px;

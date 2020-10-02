@@ -1,0 +1,8 @@
+         margin-bottom: 30px;
+     bottom: auto;
+     background: #111111;
+     width: 6%;
+     padding: 10px 0;
+     background-image: none;
+     top: 40%;
+     opacity: 0.5;

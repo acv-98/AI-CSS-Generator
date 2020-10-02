@@ -1,0 +1,9 @@
+	width:113px;
+	float:left;
+	font-size:11px;
+	font-weight:bold;
+	margin:0px;
+	padding:6px 0px 9px 36px;
+	background-image: url(../images/img.jpg);
+	background-repeat: no-repeat;
+	background-position: left 0px;

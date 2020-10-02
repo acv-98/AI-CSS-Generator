@@ -1,0 +1,13 @@
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+  background-image: none;
+	color: rgba(255,255,255,0.8);
+	background-color: transparent;
+	border: 2px solid rgba(255,255,255,0.5);
+	padding: 12px 20px;
+	margin: 0;
+	font-size: 15px;
+	border-radius: 0;
+	text-transform: uppercase;
+	border-color: #222;

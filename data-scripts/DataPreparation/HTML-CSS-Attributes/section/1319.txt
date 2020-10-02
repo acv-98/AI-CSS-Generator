@@ -1,0 +1,4 @@
+    position: relative;
+    height: 700px;
+    display: inline-block;
+    width:100%;

@@ -1,0 +1,10 @@
+  background-color: #a5d549;
+  border-color: #a5d549;  
+  padding: 10px 15px;
+  outline: none;
+  color: #222;
+  text-transform: uppercase;
+  font-size: 15px;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

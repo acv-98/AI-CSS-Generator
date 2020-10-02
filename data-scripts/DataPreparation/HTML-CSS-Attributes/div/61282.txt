@@ -1,0 +1,5 @@
+  text-align: center;
+  margin-bottom: 50px;
+  border: 7px solid white;
+  margin-top: 25px;
+  text-transform: none;

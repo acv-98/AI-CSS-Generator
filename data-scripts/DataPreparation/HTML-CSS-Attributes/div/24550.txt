@@ -1,0 +1,3 @@
+	margin:0;
+	float:left;
+	background:url(images/fbg_line.jpg) repeat-y right;

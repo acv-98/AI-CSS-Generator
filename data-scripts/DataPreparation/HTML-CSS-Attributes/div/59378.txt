@@ -1,0 +1,10 @@
+  color: #00cfef;
+	background-image: url("../images/skills-bg.jpg");
+    color: #fff;
+    font-size: 16px;
+    margin-top: -90px;
+	padding-bottom: 90px;
+	color: #fff;
+	border: none;
+	font-size: 60px !important;
+	margin-top: 50px !important;

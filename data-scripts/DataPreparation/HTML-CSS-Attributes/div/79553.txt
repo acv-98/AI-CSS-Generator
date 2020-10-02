@@ -1,0 +1,7 @@
+  overflow: hidden;
+  zoom: 1;
+  width: 10000px;
+  display: table-cell;
+  vertical-align: top;
+    padding: 5px 10px !important;
+    font-size: 11px !important;

@@ -1,0 +1,5 @@
+  padding: 15px 20px !important;
+  color: #000 !important;
+  background: #fff;
+  border: 2px solid #fff;
+  border-color: #fff;

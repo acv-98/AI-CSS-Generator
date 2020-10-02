@@ -1,0 +1,5 @@
+	display:none;
+	visibility:visible;
+	height:auto;
+	overflow:auto;
+	margin-bottom: 0;

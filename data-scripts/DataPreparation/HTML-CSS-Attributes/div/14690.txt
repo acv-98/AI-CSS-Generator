@@ -1,0 +1,4 @@
+	width:100%;
+	overflow:hidden
+	min-height:30px;
+	line-height:24px

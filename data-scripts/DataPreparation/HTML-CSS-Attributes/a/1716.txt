@@ -1,0 +1,16 @@
+  float: left;
+  padding: 17.5px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  height: 55px;
+  text-decoration: none;
+  display: block;
+    margin-left: -15px;
+  color: #777;
+  background-color: transparent;
+  font-weight: 700;
+  padding-left: 0;
+  text-transform: uppercase;
+  font-family: "Open Sans", Arial, sans-serif;
+    padding-left: 10px !important;
+    padding-right: 0 !important;

@@ -1,0 +1,12 @@
+	color: #fdff73;
+	font-size: 1.8rem;
+	margin-bottom: 40px;	
+ font-size: 2.2rem; .tm-nav {
+	display: -ms-flexbox;
+    -ms-flex-pack: center;
+        -webkit-justify-content: center;
+            justify-content: center;
+	position: fixed;
+    width: 100%;  
+    transition: all 0.3s ease;  
+    z-index: 1000;

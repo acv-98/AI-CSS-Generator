@@ -1,0 +1,1 @@
+  background:url(images/r_menu.gif) no-repeat right;   background:url(images/l_menu.gif) no-repeat left; background:url('images/tabs_1.gif') no-repeat center center; 

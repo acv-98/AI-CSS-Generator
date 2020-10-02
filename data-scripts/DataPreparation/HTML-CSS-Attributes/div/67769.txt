@@ -1,0 +1,11 @@
+display:block; top:-1000px; left:4%; padding:1%;bottom:auto;max-width:45%;border-radius:8px;text-align:leftdisplay:block; margin-bottom:18pxbackground: rgba(140, 20, 0, 0.85);background:none display:none;position: absolute;  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 15px;
+  background: #333333;
+  color: #ffffff;
+  line-height: 21px;
+  margin: 0 0 5px;
+  margin-bottom: 0;
+position:absolute;left:0;right:0;bottom:0;padding:15px;background:#333333;background:rgba(0, 0, 0, 0.75);color:#ffffff;line-height:20px;margin:0 0 5px;margin-bottom:0;

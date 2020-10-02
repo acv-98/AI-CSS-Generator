@@ -1,0 +1,18 @@
+	border-bottom:1px dotted #eb4800;
+	padding-bottom:1px;
+	position: relative;
+	top:0;
+	z-index:99;
+	background-color:#efeeed;
+	min-height:100px;
+	left:7%;
+	opacity:.7;
+	color:#fff;
+	font-size:30px;
+	text-transform:uppercase;
+	float:left;
+	width:auto;
+	overflow:hidden;
+	margin-bottom:2px;
+	line-height:30px;
+		display:none;

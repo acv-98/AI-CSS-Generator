@@ -1,0 +1,8 @@
+	display:block;
+	width:15px;
+	height:21px;
+	background:url(../images/pic-2.png) 0 0 no-repeat;
+	position:absolute;
+	top:30px;
+	right:0;
+	z-index:2;

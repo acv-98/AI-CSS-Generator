@@ -1,0 +1,2 @@
+	color:#595959;
+	float:right;

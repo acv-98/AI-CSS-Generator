@@ -1,0 +1,7 @@
+ margin-top: 150px; .tm-about-box-1 {
+	background-color: white;
+	width: 255px;
+	height: 380px;
+	padding: 30px;
+	text-align: center;
+	margin-top: 120px; 

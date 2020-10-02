@@ -1,0 +1,16 @@
+	border: 1px solid #a4acad !important;
+	text-transform: none;
+	font-family: 'Maven Pro','Verdana','Arial',sans-serif;
+	font-size: 13px;
+    cursor: pointer;
+    display: block;
+    font-size: 13px;
+    height: 35px;
+    padding: 10px;
+    text-transform: none !important;
+clear:both; float:none;    background: #cad0d1;
+    border: 1px solid #bcc1c2;
+    margin:0;
+    
+ background: #f2f4f5;  background: url("images/input_pattern_hover.png") repeat-x scroll 0 0 #fff;  color:#ddd;  float:left;  float:right; margin-right: 0.3%; .sidebar-left .contact-form li.submit-button input.alignright,
+ margin:0 auto;  margin-right: 0.6%;  margin-right: -0.5%;  border-color: #eeeeee; 

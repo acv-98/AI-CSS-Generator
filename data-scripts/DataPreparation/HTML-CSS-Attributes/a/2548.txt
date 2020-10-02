@@ -1,0 +1,8 @@
+	float:right;
+	font-size:12px;
+	line-height:14px;
+	color:#00b1dd;
+	text-decoration:underline;
+	padding-top:6px;
+	border-bottom:1px solid #64c5ff;
+	margin-bottom:1px;

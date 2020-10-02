@@ -1,0 +1,14 @@
+    text-align: center;
+    margin-top: 0;
+    font-weight: 600;
+    border-bottom: 4px double #24b662;
+	border-radius: 25px;
+    font-size: 30px;
+    padding: 10px 0;
+    width: 350px;
+	margin-bottom: 30px;
+	line-height: 25px;
+        font-size: 22px;
+         font-size: 16px;
+         font-weight: 500;
+         width: 200px;

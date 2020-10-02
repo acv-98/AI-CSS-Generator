@@ -1,0 +1,9 @@
+	border: none;
+	outline: none;
+	background: none;
+	font-size: 0.85em;
+	color:#999;
+	width:87%;
+	-webkit-apperance: none;
+	font-family: 'Lato', sans-serif;
+	padding: 0.4em 0em;

@@ -1,0 +1,1 @@
+position:absolute; top:284px; left:44px; z-index: 10; height:84px; background:url(images/dot.png); width:245pxfont-family: "trebuchet ms", sans-serif; font-size: 23px; color:#00a2ff; text-transform: uppercase; line-height: 25px; padding:10px 0 0 13px; display: block;

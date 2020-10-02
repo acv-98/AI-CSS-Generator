@@ -1,0 +1,1 @@
+vertical-align:-10%;font-size:1.3333333333333333em;display:inline-block;width:1.1428571428571428em;text-align:right;padding-right:0.2857142857142857em;line-height:.9em;line-height:.9em;line-height:.8em;

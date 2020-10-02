@@ -1,0 +1,11 @@
+	margin:28px 0 0 57px;
+	font-size:30px;
+	color:#1D8ECE;
+	background:url("../images/readmore-big.png") repeat-x left top;
+	font-family:"Times New Roman";
+	text-decoration:none;
+	text-align:center;
+	display:inline-block;
+	padding-top:13px;
+	width:170px;
+	height:45px;

@@ -1,0 +1,4 @@
+        margin-top: -40px;
+        padding: 7px 40px;
+        border-radius: 2px;
+        font-size: 12px;

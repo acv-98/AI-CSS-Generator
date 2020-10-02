@@ -1,0 +1,19 @@
+    width: 100%;
+    display: block;
+    float: none;
+    margin-left: 0;
+    *zoom: 1;
+    content: "";
+    clear: both;
+    min-height: 28px;
+    *margin-left: 2.709239449638298%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+            box-sizing: border-box;
+    *width: 99.9468085036383%;
+  margin-top: 25px;
+	-webkit-transition: opacity .5s linear;
+	-moz-transition: opacity .5s linear;
+	transition: opacity .5s linear
+	opacity:0.85;

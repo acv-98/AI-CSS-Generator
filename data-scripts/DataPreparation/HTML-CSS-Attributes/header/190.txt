@@ -1,0 +1,4 @@
+	margin-bottom: 20px; 
+.block-keep-ratio,
+.block-keep-ratio-content {
+	display: block;

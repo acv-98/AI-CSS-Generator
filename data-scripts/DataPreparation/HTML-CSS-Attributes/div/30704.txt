@@ -1,0 +1,12 @@
+  text-align: center;
+  background-color: #46bae2;
+  display: inline-block;
+  width: 100%;
+  padding: 60px 0px;
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-decoration: none;
+  letter-spacing: 1px;
+    padding: 30px 0px;

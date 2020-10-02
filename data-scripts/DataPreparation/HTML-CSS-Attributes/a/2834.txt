@@ -1,0 +1,6 @@
+ font-size:16px; font-family: 'playfair_displayregular'; color:#243960; border-top:1px solid #dfdfdf; padding-top:4px; margin-top:8px; display:inline-block;a.roundBtn{background:url(../images/arrow.png) no-repeat 92% 56% #243960;
+    border: medium none;
+    border-radius: 25px;
+    color: #fff;
+    margin-top: 5px;
+       padding: 4px 20px 4px 14px;

@@ -1,0 +1,1 @@
+background:#ececec; background:url(../images/banner-row-bg.jpg) center; overflow:hidden;width:960px; margin:0 auto;

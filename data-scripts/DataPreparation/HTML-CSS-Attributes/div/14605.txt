@@ -1,0 +1,3 @@
+    color: #333;
+    background-color: transparent;
+    border-color: #ddd;

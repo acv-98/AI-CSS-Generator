@@ -1,0 +1,11 @@
+  position: absolute;
+  right: 3px;
+  top: 2px;
+  color: #fa5555;
+  height: 0;
+  overflow: hidden;
+  font-size: 11px;
+  -webkit-transition: 0.3s ease-in height;
+  transition: 0.3s ease-in height;
+  z-index: 99;
+  font-family: 'Open Sans', sans-serif;

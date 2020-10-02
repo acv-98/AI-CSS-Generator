@@ -1,0 +1,5 @@
+  height: 300px;
+  float: left;
+  background-color: #bbd8e9;
+  width: 20%;
+  margin-left: 2.5%;

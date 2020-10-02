@@ -1,0 +1,8 @@
+	text-decoration:none;
+	display:inline-block;
+	padding:12px 19px;
+	font-size:13px;
+	line-height:1.23em;
+	color:#fff;
+	background:url(../images/button1-tail.gif) 0 0 repeat-x #c42e02;
+	cursor:pointer;

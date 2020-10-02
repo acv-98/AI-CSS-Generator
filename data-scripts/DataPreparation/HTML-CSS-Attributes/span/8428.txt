@@ -1,0 +1,12 @@
+  display: block;
+  width: 22px;
+  height: 2px;
+  border-radius: 1px;
+  margin-top: 4px;
+  background-color: #888;
+         background-color: #222;
+         display: block;
+         width: 20px;
+         height: 3px;
+         border-radius: 0px;
+         margin-top: 3px;

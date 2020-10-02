@@ -1,0 +1,8 @@
+  margin-top: 0;
+  font-size: 18px;
+  margin-bottom: 0;
+  font-weight: 300;
+  float: left;
+    margin-top: -95px;
+    width: 100%;
+    text-align: center;

@@ -1,0 +1,19 @@
+  border-color: #ddd;
+  color: #333;
+  background-color: #f5f5f5;
+  border-top-color: #ddd;
+  border-bottom-color: #ddd;
+	    margin: 40px;
+ border-color: #333 .price.panel-default > .panel-heading {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #FFF;
+    background-color: #333333;
+    border-color: inherit;
+    margin-top: -20px;
+    position: relative;
+    z-index: 1;
+    margin-left: -5px;
+    margin-right: -5px;
+ border-color: #ffcc33  background-color: #ffcc33  border-color: #ffcc33 

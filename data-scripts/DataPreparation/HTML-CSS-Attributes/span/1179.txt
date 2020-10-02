@@ -1,0 +1,3 @@
+		font-size: 1.10em;
+		font-weight: bold;
+		color: #333333;

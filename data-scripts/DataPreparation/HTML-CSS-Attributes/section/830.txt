@@ -1,0 +1,1 @@
+ background: #e8b968; background-image: none;  font-size: 55px; font-weight: 100; color: #fff; margin: 100px 0 20px 0;  background: #e8b968 url('../img/ipadBG.png') no-repeat right 65px; background-size: 50%;  color: #fff; font-size: 16px; margin: 40px 30px 40px 0; line-height: 30px; 

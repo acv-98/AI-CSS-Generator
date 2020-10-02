@@ -1,0 +1,7 @@
+	text-align: center;
+	display:inline-block;
+    margin: 0 6px 0 0;
+    float: left;
+    color: #4e595f;
+  line-height: 33px;
+	color: #6CB670;

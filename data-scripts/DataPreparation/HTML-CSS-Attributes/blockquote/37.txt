@@ -1,0 +1,2 @@
+    border-left: 5px solid #00cfef;
+    border-radius: 0 0 0 0;

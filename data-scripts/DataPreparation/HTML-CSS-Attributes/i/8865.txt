@@ -1,0 +1,2 @@
+  content: "\f0d3";
+  color: #EA4B49; 

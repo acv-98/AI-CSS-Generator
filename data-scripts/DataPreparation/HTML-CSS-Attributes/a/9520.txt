@@ -1,0 +1,5 @@
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: 0.9s;
+  -o-transition: 0.9s;
+  transition: 0.9s;

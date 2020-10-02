@@ -1,0 +1,7 @@
+	position:absolute;
+	bottom:-9px;
+	left:5px;
+	width:132px;
+	height:14px;
+	background:transparent url(../images/medium-shadow.png) no-repeat;
+	z-index:-10000;

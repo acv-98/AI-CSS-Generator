@@ -1,0 +1,6 @@
+  color: #fff;
+  font-size: 90px;
+  font-weight: 700;
+  margin-bottom: 20px;
+			font-size: 60px !important;
+			margin-bottom: 15px !important;

@@ -1,0 +1,1 @@
+   background: transparent url(images/box-br.png) no-repeat bottom right; 

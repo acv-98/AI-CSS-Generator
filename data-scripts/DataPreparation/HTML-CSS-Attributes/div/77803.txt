@@ -1,0 +1,4 @@
+	position:relative;
+	-pie-png-fix:true;
+	behavior:url("PIE.htc");
+	height:24px;

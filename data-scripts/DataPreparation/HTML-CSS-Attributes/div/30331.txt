@@ -1,0 +1,12 @@
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 165px;
+    height: 165px;
+    text-align: center;
+    border: 1px solid white;
+    cursor: pointer;
+    position: relative;
+        width: 145px;
+        height: 145px;

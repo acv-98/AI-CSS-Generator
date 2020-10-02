@@ -1,0 +1,14 @@
+  display: block;
+  border-radius: 500px;
+  color: #ffffff;
+  background-color: #323045;
+  font-size: 48px;
+  line-height: 114px;
+  width: 114px;
+  height: 114px;
+  text-align: center;
+  margin: 0 auto 17px;
+  font-weight: 300;
+  margin-bottom: 16px;
+  margin-top: 28px;
+    margin-bottom: 40px;

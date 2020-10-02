@@ -1,0 +1,3 @@
+    bottom:-50px;
+    background:#464646;
+    border:0;

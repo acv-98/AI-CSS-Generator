@@ -1,0 +1,5 @@
+	background-image: url(../images/PostHeaderPage.jpg);
+	height: 36px;
+	width: 467px;
+	padding: 25px 65px;
+	text-align: center;

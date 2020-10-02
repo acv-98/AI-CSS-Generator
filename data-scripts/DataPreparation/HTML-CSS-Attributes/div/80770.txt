@@ -1,0 +1,7 @@
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+	text-align: center;
+	margin-left: 0; 
+	width:8.5%;
+		width: 12.5%;

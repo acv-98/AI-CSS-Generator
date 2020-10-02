@@ -1,0 +1,11 @@
+	width:414px;
+	float:left;
+	padding:19px 0 18px 17px;
+	margin:0 auto;
+	font:bold 12px/24px Arial, Helvetica, sans-serif;
+	color:#fff;
+	background:url(../images/log_nor.jpg) 0 0 no-repeat;
+	text-decoration:none;
+	height:25px;
+	display:block;
+	text-align:center;

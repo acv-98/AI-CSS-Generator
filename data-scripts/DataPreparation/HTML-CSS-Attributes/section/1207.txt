@@ -1,0 +1,11 @@
+  background: url('../img/header_bg.jpg') no-repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 40px 0 0 0;
+  color: #ececec;
+  display: inline-block;
+  font-size: 3.8em;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  border: 2px solid #fffc00;

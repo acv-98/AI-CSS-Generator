@@ -1,0 +1,13 @@
+	background:url(images/bg-section.gif) repeat-x top left;
+	height:193px;
+	margin:0;
+	padding:35px 0 0 40px;
+	width:186px;
+	display:block;
+	color:#2a4f5e;
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:none;
+	text-transform:uppercase;
+	border:0;

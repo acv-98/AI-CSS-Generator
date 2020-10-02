@@ -1,0 +1,3 @@
+		padding-right: 30px;
+		float: left;
+		margin: 2px 1.25em 0 0;

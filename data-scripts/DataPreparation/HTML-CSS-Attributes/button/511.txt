@@ -1,0 +1,2 @@
+    padding: 10px 40px;
+    min-width: 176px;

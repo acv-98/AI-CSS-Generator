@@ -1,0 +1,14 @@
+	color:#fff;
+		line-height:1.2;
+	margin:0px;
+	font-size:49px;
+	font-weight:200;
+	text-align:center;
+	letter-spacing:-2px;
+	z-index:9999 !Important;
+			font-size:36px;
+			font-weight:200;
+			letter-spacing:-1px;
+	overflow:inherit;
+	display:inline-block !important;
+	height:100%;

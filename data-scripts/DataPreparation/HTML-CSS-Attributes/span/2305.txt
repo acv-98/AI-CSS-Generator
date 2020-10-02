@@ -1,0 +1,13 @@
+	display: block;
+	position: absolute;
+	opacity:1;
+	-webkit-transition: all 200ms linear;
+	-moz-transition: 	all 200ms linear;
+	-o-transition: 		all 200ms linear;
+	-ms-transition: 	all 200ms linear;
+	transition: 		all 200ms linear;
+	cursor: pointer;
+	width: 19px;
+	height: 38px;
+	right: 0;
+	background: url(../img/right-arrow.png) no-repeat center center;

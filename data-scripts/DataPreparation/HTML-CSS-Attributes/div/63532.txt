@@ -1,0 +1,13 @@
+	margin:0 auto;
+	padding:0;
+	width:970px;
+	border-bottom:1px solid #999;
+	border-top:1px solid #999;
+	float:left;
+	color:#585858;
+	font:normal 24px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	background:url(images/h2_bg_fbg.gif) left no-repeat;
+	line-height:1.8em;
+	text-decoration:none;
+	list-style:none;

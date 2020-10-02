@@ -1,0 +1,11 @@
+	color: #464646;
+	text-align: left;
+	font-size: 1.762em;
+	font-family: Helvetica, Arial, sans-serif;
+	letter-spacing: 1px;
+	font-weight: normal;
+	text-decoration: underline;
+	padding: 0 20px 0 0;
+	margin-bottom:60px;
+ font-size: 1.5em;
+ padding: 15px 20px 0 0;

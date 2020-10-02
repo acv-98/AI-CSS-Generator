@@ -1,0 +1,5 @@
+    height: 1px;
+    width: 50px;
+    margin: auto;
+    background: #999999;
+    margin-bottom: 10px;

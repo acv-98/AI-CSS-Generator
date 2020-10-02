@@ -1,0 +1,9 @@
+	color:#4eb7c0;
+  padding: 20px;
+  margin-top: 10px;
+  font-weight: 900;
+  line-height: 1.1em;
+  font-size: 32px;
+  letter-spacing: -2px;
+    margin: 0 auto;
+    text-align: center;

@@ -1,0 +1,14 @@
+	width:100%;
+	padding:0;
+	
+	position:relative;
+	opacity:1;
+	background:rgba(221, 221, 221, 0.8);
+	top:0;
+	left:0;
+	height:100%;
+	transition:.6s;
+	color:#666;
+	font-size:18px;
+	font-weight:300;
+	margin-top:20px;

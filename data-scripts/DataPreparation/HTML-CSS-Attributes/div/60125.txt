@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	background:#fafafa url(../images/line.gif) repeat-x left top;
+	width:960px;
+	line-height:1.5em;
+	color:#7e7c7c;
+	white-space:nowrap;
+	text-indent:inherit;
+	font-weight:normal;
+	border:none;
+	text-decoration:underline;
+	background-color:transparent;
+	float:left;

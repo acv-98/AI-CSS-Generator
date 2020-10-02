@@ -1,0 +1,5 @@
+    -webkit-perspective: 12500px;
+    perspective:1200px;
+    padding:30px 40px 50px 20px;
+    transition: .3s; 
+    transform: rotateY(25deg);

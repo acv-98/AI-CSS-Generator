@@ -1,0 +1,11 @@
+	width:260px;
+	height:51px;
+	line-height:51px;
+	position:absolute;
+	right:0;
+	bottom:1px;
+	padding:0 16px;
+	background:#000;
+	color:#88995e;
+	text-decoration:underline;
+	float:left;

@@ -1,0 +1,5 @@
+	margin:0;
+	padding:0;
+	float:left;
+	width:280px;
+	background:url(../images/h2.gif) repeat-x left top;

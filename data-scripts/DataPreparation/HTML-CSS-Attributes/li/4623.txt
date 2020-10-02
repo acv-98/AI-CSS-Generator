@@ -1,0 +1,13 @@
+	background:0 0 no-repeat;
+	display:block;
+	height:33px;
+	width:50px;
+	background-image:url(../images/de.gif);
+	background-repeat:no-repeat;
+	background-position:0 -11px;
+	position:absolute;
+	bottom:1px;
+	left:2px;
+	text-align:center;
+	padding:1px;
+	color:#fff;

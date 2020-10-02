@@ -1,0 +1,22 @@
+	border-bottom: 2px solid #1baab9;
+  background: rgba(0, 0, 0, .8);
+  margin-left: 5px;
+  bottom: 5px;
+  position: absolute;
+  padding: 20px;
+  z-index: 99;
+  font-size: 14px !important;
+  line-height: 22px;
+  font-weight: 300;
+  color: #fff
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-left: 0;
+    padding: 10px 40px;
+    text-align: center;
+    background: rgba(0, 0, 0, .5);
+    font-size: 18px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    display: none;

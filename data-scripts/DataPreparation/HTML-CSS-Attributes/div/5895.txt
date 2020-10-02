@@ -1,0 +1,9 @@
+	margin:0 auto;
+	padding:0 20px 0 20px;
+	width:892px;
+	background:#fff;
+	font:italic 35px "Times New Roman", Times, serif;
+	color:#c05622;
+	line-height:2em;
+	float:left;
+	text-decoration:none;

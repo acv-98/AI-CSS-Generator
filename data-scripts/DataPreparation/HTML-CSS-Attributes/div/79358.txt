@@ -1,0 +1,7 @@
+background: url(../img/donars.jpg) no-repeat center center;
+padding: 0;
+-webkit-background-size: cover;
+color:#fff;
+              background: url(../img/overlays/02.png);     
+    line-height:40px;
+   padding:5px;

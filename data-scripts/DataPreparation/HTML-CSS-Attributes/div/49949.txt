@@ -1,0 +1,5 @@
+  height: 500px;
+  width: 100%;
+    height: inherit;
+  display: table;
+  vertical-align: middle;

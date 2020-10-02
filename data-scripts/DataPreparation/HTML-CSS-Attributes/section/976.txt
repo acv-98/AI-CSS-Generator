@@ -1,0 +1,10 @@
+  background: url("../assets/images/slider-background.png") no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+  content: '';
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(120, 88, 221, .9);

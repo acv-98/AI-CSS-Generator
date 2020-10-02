@@ -1,0 +1,4 @@
+    float: right;
+    margin-right: 0;
+		border: none;
+		overflow: hidden;

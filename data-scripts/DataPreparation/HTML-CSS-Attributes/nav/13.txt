@@ -1,0 +1,8 @@
+   text-align: center;
+color: #ececec;
+font-size: 13px;
+    color: #f65aa7;
+    text-decoration: none;
+    font-size: 13px;
+    margin:auto 5px;
+  

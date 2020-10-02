@@ -1,0 +1,7 @@
+    width: 45%;
+	display:inline-block;
+	overflow:hidden;
+	width:17%;
+	margin-left:20px;
+	margin-bottom:20px;
+	

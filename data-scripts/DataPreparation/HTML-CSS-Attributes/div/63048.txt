@@ -1,0 +1,11 @@
+	float: right;
+	width: 168px;;
+	line-height: 24px;
+	margin: 0;padding: 0;
+	font-family: 'anaheim';
+	margin-top: 1px;
+	background: url('../images/phone.png') no-repeat;
+	height: 24px;
+	display: block;
+	padding: 2px;
+	opacity: 0.6;

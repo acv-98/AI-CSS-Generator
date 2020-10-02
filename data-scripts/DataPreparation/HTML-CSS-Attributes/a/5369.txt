@@ -1,0 +1,3 @@
+	background:transparent;
+	color:#999;
+	margin-right:8px;

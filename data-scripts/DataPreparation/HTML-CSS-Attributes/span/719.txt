@@ -1,0 +1,13 @@
+  position: relative;
+  z-index: 2;
+  margin-bottom: 20px;
+  display: block;
+  color: gray;
+  padding-bottom: 10px;
+  background: #bfbfbf;
+  content: "";
+  left: 50%;
+  bottom: 0;
+  width: 40px;
+  height: 2px;
+  margin-left: -20px;

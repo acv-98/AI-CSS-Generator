@@ -1,0 +1,8 @@
+	width:auto;
+	height:45px;
+	background-image: url(../images/toppic2.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+	padding-right: 50px;
+	padding-top: 5px;
+	padding-bottom:0px;

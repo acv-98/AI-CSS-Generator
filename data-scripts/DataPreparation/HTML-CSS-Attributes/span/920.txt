@@ -1,0 +1,10 @@
+	position: absolute;
+	background:rgba(46, 176, 226, 0.57);
+	top: 15.5%;
+	left: 63%;
+	padding: 1%;
+	width: 22%;
+	font-family: 'Open Sans', sans-serif;
+		top: 6%;
+		width: 37%;
+		left: 57%;

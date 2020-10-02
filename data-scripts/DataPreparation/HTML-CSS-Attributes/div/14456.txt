@@ -1,0 +1,6 @@
+	display:block;
+	width:80%;
+	height:auto;
+	margin:auto;
+	overflow:hidden;
+		max-width:960px;

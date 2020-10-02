@@ -1,0 +1,9 @@
+	border-top: 7px solid #00cfef;
+    color: #00cfef;
+    background: none repeat scroll 0 0 #4b4b4b;
+    font-size: 14px;
+	-webkit-transition: all 0.5s ease 0s;
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+	transition: all 0.5s ease 0s;
+    padding: 40px 0 20px;

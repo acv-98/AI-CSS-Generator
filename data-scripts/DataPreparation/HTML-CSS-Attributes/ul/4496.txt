@@ -1,0 +1,6 @@
+  float: left;
+  border-radius: 5px;
+  margin-left: 2px;
+  color: #ffffff;
+  background-color: #428bca;
+  line-height: .9em;

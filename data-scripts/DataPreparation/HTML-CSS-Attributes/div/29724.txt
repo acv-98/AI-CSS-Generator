@@ -1,0 +1,14 @@
+    position: relative;
+    float: left;
+    content: "";
+    display: block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(219, 222, 224, 0.92);
+    -moz-transition: background .3s linear;
+    -webkit-transition: background .3s linear;
+    -o-transition: background .3s linear;
+    transition: background .3s linear;
+font-family:'fontello';src:url('../fonts/fontello.eot?32480171');src:url('../fonts/fontello.eot?32480171#iefix') format('embedded-opentype'),url('../fonts/fontello.woff?32480171') format('woff'),url('../fonts/fontello.ttf?32480171') format('truetype'),url('../fonts/fontello.svg?32480171#fontello') format('svg');font-weight:normal;font-style:normal

@@ -1,0 +1,4 @@
+margin-bottom:20px;margin-bottom:20px;  margin-right: 0;
+ margin-right:0; border-right:0;  margin-bottom:0;   float:left; width:100%;  float:left; margin-bottom:30px; position:relative;  border:1px solid #acabab; float:left; padding:3px; position:absolute; left:0; top:0; width:55px; height:55px;  color:#4F4E4E; .last-news a.title,
+ display:block; float:right; margin-left:75px; width:225px;  padding:12px 0; .last-news p.meta span.date,
+ background:no-repeat left center; display:block; height:auto; font-size:0.8em; line-height:1.5em; margin:0; padding-left:20px;  float:left; background-image:url('images/time-icon.png'); width:80px;  float:right; background-image:url('images/user-icon.png'); width:100px;  margin-top:-20px;  margin-top:20px;  color: #9A6614;  color: #000;  color: #828080; margin-top: 0px; padding: 0; 

@@ -1,0 +1,9 @@
+	font-size:15px;
+	line-height:19px;
+	color:#29507a;
+	border-bottom:1px dotted #6a5353;
+	padding:0 0 10px 0;
+	margin:0 0 10px 0;
+	background:url(images/quote-bg.gif) no-repeat 0 0;
+	width:200px;
+	height:147px;

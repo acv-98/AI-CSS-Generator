@@ -1,0 +1,5 @@
+		height:9px;
+		width:100%;
+		background:url(../images/design/slug-crop.png) repeat-x transparent;
+		bottom:0;
+		position:absolute;

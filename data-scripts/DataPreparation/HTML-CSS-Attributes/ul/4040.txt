@@ -1,0 +1,15 @@
+	overflow: hidden;
+	margin: 0px 0px 10px 0px;
+	width: 1000px;
+	display: block;
+	position: relative;
+	height: 181px;
+	float: left;
+	background: url(../img/gallery-thumb-bg.png) no-repeat;
+	text-align: center;
+	top:1px;
+	left: 1px;
+	color: #665d4e;
+	font-size: 14px;
+	font-style: normal;
+	margin-top: 8px;

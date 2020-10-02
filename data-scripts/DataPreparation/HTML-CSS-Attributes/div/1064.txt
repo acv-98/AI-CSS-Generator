@@ -1,0 +1,12 @@
+        max-width: 50%;
+        margin: 0 auto;
+        padding-bottom: 15px;
+        min-height: auto;
+    background: #fff;
+    color:#fd634e;
+    font-size:0.875rem;
+    text-transform: uppercase;
+    margin-bottom:0;
+    font-family: 'open_sanslight';
+    display: inline-block;
+    text-decoration: underline;

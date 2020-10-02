@@ -1,0 +1,47 @@
+  border-radius: 0;
+  -webkit-border-bottom-left-radius: 3px;
+  -webkit-border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -webkit-border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+    display: inline-block;
+      border-left: 1px solid;
+      -webkit-border-bottom-left-radius: 3px;
+      -webkit-border-top-left-radius: 3px;
+      border-bottom-left-radius: 3px;
+      -webkit-border-bottom-right-radius: 3px;
+      -webkit-border-top-right-radius: 3px;
+      border-bottom-right-radius: 3px;
+      border-color: rgba(255, 255, 255, 0.5);
+      border-left-width: 0;
+      border-top: 1px solid;
+      display: block;
+      -webkit-top-left-radius: 3px;
+      -webkit-top-right-radius: 3px;
+      border-top-left-radius: 3px;
+      -webkit-bottom-left-radius: 3px;
+      -webkit-bottom-right-radius: 3px;
+        border-left: 1px solid;
+        -webkit-border-bottom-left-radius: 3px;
+        -webkit-border-top-left-radius: 3px;
+        border-bottom-left-radius: 3px;
+        -webkit-border-bottom-right-radius: 3px;
+        -webkit-border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
+        border-color: rgba(255, 255, 255, 0.5);
+        border-left-width: 0;
+        border-top: 1px solid;
+        display: block;
+        -webkit-top-left-radius: 3px;
+        -webkit-top-right-radius: 3px;
+        border-top-left-radius: 3px;
+        -webkit-bottom-left-radius: 3px;
+        -webkit-bottom-right-radius: 3px;
+    box-shadow: none;
+    background: #FAFAFA;
+      background: #008CBA;
+font-family:"/5.5.3/" * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS and IE text size adjust after device orientation change,
+ *    without disabling user zoom.
+html {

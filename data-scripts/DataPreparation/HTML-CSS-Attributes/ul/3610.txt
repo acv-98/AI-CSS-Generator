@@ -1,0 +1,1 @@
+display:block; float:left; text-align:center; width:50%color:#fffpadding:20px; display:block; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5sbackground-color:#09c !important; text-decoration:none; outline:none; color:#fff

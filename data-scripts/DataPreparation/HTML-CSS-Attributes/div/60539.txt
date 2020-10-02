@@ -1,0 +1,4 @@
+  font-size: 60px;
+  display: block;
+  margin-bottom: 40px;
+  color: #A7CDCC;

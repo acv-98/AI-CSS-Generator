@@ -1,0 +1,2 @@
+padding-left:38pxpadding-left:38pxheight:30px;width:30px;padding-left:0;padding-right:0  margin-top: 10px;
+  margin-bottom: 10px;

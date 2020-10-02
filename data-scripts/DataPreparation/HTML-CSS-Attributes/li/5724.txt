@@ -1,0 +1,5 @@
+	color:#fff;
+	background:url(images/menu_a.gif) repeat-x center;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;

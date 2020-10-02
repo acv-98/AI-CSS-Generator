@@ -1,0 +1,1 @@
+margin:0background-color:#1e2022; width:855px; min-height:100px; padding:35px 40px 40px 45px; margin-left:10px; margin-bottom:60px; border-top:1px #292b2d solidwidth:860px; color:#e9ecef; font-size:115%; font-weight:200; line-height:160%; margin-bottom:25pxfont-weight:400; color:#fff

@@ -1,0 +1,1 @@
+	background-image: url("../images/icons/for_button/gift.png");

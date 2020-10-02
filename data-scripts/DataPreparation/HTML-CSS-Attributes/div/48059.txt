@@ -1,0 +1,5 @@
+  margin-bottom: 60px;
+  float: left;
+  color: #00ADB5;
+  padding-left: 40px;
+  font-size: 20px;

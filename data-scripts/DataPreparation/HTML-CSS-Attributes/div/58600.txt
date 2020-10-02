@@ -1,0 +1,11 @@
+	background: #F2DEDE;
+	padding: 0.6em;
+	border-bottom: 3px solid #F7C7C9;
+	color:#3D3E41;
+	margin-bottom:0.5em;
+	float:left;
+	font-weight:600;
+	width: 14px;
+	height: 12px;
+	display: inline-block;
+	vertical-align: middle;

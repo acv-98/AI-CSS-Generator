@@ -1,0 +1,8 @@
+    top:0;
+    left:0;
+    position: absolute;
+    width:100%;
+    height:100%;
+ display:none; cursor: pointer;	#fwslider .title {
+		margin-left: 19%;
+		font-size: 3em;

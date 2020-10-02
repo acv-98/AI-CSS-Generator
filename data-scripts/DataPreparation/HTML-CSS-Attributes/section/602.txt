@@ -1,0 +1,3 @@
+ border-top: 3px solid #fff; background: url(images/services.png) repeat-x 0 0; padding-top: 23px;  padding-bottom: 14px;  padding-bottom: 15px;  float: left; width: 435px;  list-style: none; list-style-position: outside;  width: 200px;  padding-left: 19px;  width: 219px;   width: 27px; height: 27px; background: url(images/socials.png) no-repeat 0 0; float: left; margin-right: 9px; font-size: 0; line-height: 0; text-indent: -4000px; .services .socials-widget a:hover { opacity: 0.7;
+-moz-opacity: 0.7;
+ background-position: 0 0;  background-position: -36px 0;  background-position: -72px 0;  background-position: -108px 0;  background-position: -144px 0;  background-position: -180px 0; 

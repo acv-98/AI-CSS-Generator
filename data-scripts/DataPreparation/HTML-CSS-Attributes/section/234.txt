@@ -1,0 +1,4 @@
+    padding-top: 80px;
+    padding-bottom:0;
+    position: relative;
+    overflow: hidden;

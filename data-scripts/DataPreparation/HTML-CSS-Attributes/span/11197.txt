@@ -1,0 +1,11 @@
+	font-size:39px;
+	line-height:1.2em
+	margin-top:3px
+	float:left;
+	background:url(../images/dropcap.png) 0 0 no-repeat;
+	width:50px;
+	height:54px;
+	margin-right:20px;
+	text-align:center;
+	color:#e11204;
+	display:block;

@@ -1,0 +1,18 @@
+	width:94%;
+	padding:40px 3% 40px 3%;
+	float:right;
+	margin:0 0 0 0;
+	background:#f8f8fa;
+	text-align:center;
+	font-family: 'open_sansregular';
+	font-size:30px;
+	color:#333;
+	font-weight:normal;
+	text-transform:uppercase;
+	border:1px solid #e3e3e3;
+	border-bottom:dotted 1px #999;
+	height:43px;
+	line-height:43px;
+	border-radius:3px; -webkit-border-radius:3px; 
+	transition:0.5s; -webkit-transition:0.5s;
+	text-decoration:none;

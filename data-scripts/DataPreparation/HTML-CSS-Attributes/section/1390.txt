@@ -1,0 +1,2 @@
+    background: url("../../assets/images/video-background.png") top center no-repeat;
+    background-size: cover;

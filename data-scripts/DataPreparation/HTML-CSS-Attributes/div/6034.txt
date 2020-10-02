@@ -1,0 +1,15 @@
+  color: #a5d549;
+  display: inline;
+  float: left;
+  width: 100%;
+  text-align: right;
+  padding: 5px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 12px;
+    padding: 3px;

@@ -1,0 +1,1 @@
+ background: url(../img/social-icons/circular/posterous_32.png);  background: url(../img/social-icons/rounded/posterous_32.png); 

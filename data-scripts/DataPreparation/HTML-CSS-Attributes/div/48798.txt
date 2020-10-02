@@ -1,0 +1,10 @@
+  background-color: #c1a35f;
+  display: inline;
+  float: left;
+  width: 100%;
+  color: #fff;
+  margin-top: 50px;
+  outline: none;
+  border-radius: 4px;
+  height: 8px;
+    font-size: 14px;

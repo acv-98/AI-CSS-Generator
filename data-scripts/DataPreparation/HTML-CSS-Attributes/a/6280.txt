@@ -1,0 +1,5 @@
+	background:url(images/btn-nav.gif) no-repeat 0 0;
+	width:59px;
+	height:20px;
+	position:absolute;
+	bottom:26px;

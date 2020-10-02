@@ -1,0 +1,6 @@
+	border:#474747 1px solid;
+	background:#171717;
+	padding:2px;
+	float:left;
+	width:264px;
+	margin-right:10px;

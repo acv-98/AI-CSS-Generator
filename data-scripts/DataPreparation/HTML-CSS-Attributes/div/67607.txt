@@ -1,0 +1,2 @@
+    background: transparent url(../images/submit-bg.png) repeat-x 0 0 scroll\9;
+    paddding-top: 5 px\9;

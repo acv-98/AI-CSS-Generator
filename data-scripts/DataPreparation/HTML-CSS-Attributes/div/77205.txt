@@ -1,0 +1,8 @@
+	background-color: #1abac8;
+	right: -999em;
+	content: '';
+	display: block;
+	position: absolute;
+	width: 999em;
+	top: 0;
+	bottom: 0;

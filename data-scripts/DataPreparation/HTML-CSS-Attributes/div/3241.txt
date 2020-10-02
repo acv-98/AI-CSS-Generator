@@ -1,0 +1,1 @@
+ margin:0 auto; padding:24px 40px; width:900px; background-color:#fff; -moz-border-radius:10px;

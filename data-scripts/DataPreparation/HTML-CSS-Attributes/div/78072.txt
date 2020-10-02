@@ -1,0 +1,44 @@
+        left: -40px;
+        padding: 25px 28px 40px;
+        top: 112px;
+        right: -33px;
+        width: 50%
+        padding-right: 0px;
+        
+        height: 360px
+        word-spacing: -1px;
+  background-size: 150% auto;
+        text-align: center;
+        margin-top: 100px;
+        display: none;
+        margin-bottom: 60px
+        font-size: 24px;
+        font-weight: 600;
+        float: left;
+        color: #e355fd;
+        letter-spacing: -1px;
+        margin-left: 30px;
+        margin-right: 2px;
+        border-radius: 50%;
+        line-height: 45px;
+        max-height: 400px;
+        overflow: hidden;
+        box-shadow: 0 0 0 0;
+        bottom: 0;
+        position: absolute;
+        padding-bottom: 50px;
+        padding-top: 0;
+        background: #e355fd;
+	  background-size: 150% auto;
+	
+  background-image: url("img/header-bg.jpg");
+  background-repeat: no-repeat;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+    z-index: -1;
+    content: "";
+    text-transform: uppercase;
+    border-bottom: 1px solid #ededed;
+    opacity: 0;
+    font-style: italic;
+.wrapper footer.footer .text p {

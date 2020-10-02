@@ -1,0 +1,6 @@
+	width:600px;
+	margin:0 0 15px 0;
+	font-size:28px;
+	color:#444;
+	letter-spacing:0;
+	padding:0 0 15px 0;

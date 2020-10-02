@@ -1,0 +1,4 @@
+	float: left; 
+	widthh: 100%;
+	max-width: 494px;
+ max-width: 450px; 

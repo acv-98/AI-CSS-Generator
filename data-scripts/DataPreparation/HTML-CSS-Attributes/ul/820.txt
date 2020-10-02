@@ -1,0 +1,15 @@
+	background-color: #f6f8f9;
+	border: none;
+	margin-bottom: 0;
+	color: #2c3e50;
+	border-radius: 0;
+	margin-top: 22px;
+	transition: all .3s;
+	border-color: #2c3e50;
+	line-height: 80px;
+	font-weight: bold;
+	height: 80px;
+	padding: 0 15px;
+	letter-spacing: -0.025eml
+	font-size: 24px;
+	text-transform: none;

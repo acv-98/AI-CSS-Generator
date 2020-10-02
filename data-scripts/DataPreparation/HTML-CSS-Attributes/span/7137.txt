@@ -1,0 +1,5 @@
+font-size: 36px;
+color: #454749;
+left: 60px;
+line-height: 30px;
+font-style:normal;

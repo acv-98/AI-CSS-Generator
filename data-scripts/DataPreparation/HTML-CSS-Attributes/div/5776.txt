@@ -1,0 +1,17 @@
+	display: inline-block;
+	border-bottom: 1px solid #ffffff;
+	padding-bottom: 40px;
+	font-size: 2em;
+	font-weight: 700;
+	padding-left: 15px;
+	position: relative;
+	content: '@';
+	left: 0px;
+	top: 0px;
+	margin-bottom: 5px;
+	line-height: 20px;
+	text-transform: lowercase;
+	height: 60%;
+	border-left: 1px solid #ffffff;
+	border-right: 1px solid #ffffff;
+	right: 0px;

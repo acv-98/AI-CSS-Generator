@@ -1,0 +1,14 @@
+top:12% !important;font-size: 50px !important; padding-bottom: 0 !important;font-size: 25px !important;font-size: 31px !important; padding-bottom: 20px !important;font-size: 18px !important; padding: 9px 11px !important; line-height: 20px !important;font-size: 50px !important;font-size: 28px !important; line-height: 32px !important;font-size: 36px !important; line-height: 40px !important; padding-bottom: 15px !important;top: 10% !important;
+font-size: 18px !important;top: -6% !important;font-size: 13px !important; line-height: 18px !important;font-size: 15px !important; line-height: 20px !important; padding-bottom: 2px !important;padding: 3px 6px !important; font-size: 12px !important;position: absolute !important;    position: static;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 15px;
+  background: #333333;
+  line-height: 20px;
+  color: #ffffff;
+  margin: 0 0 5px;
+  margin-bottom: 0;
+background: none; top:25%;color: #fff; font-size: 42px; padding-bottom: 25px; font-family: 'open_sansextrabold'; text-transform: uppercase;color: #fff; font-size: 32px; font-family: 'open_sansregular'; font-weight: normal;padding-bottom: 25px; font-size: 80px; color: #fff;.banner .carousel-caption .btn{border-radius: 3px; background: #3fbad8; color: #fff; font-size: 20px;
+							font-family: 'open_sansextrabold'; border: none !important; background-image: none; box-shadow: none; 
+background: #fff; color:#3fbad8; border: none !important;

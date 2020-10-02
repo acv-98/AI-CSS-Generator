@@ -1,0 +1,11 @@
+	background: rgba(0,0,0,.2); 
+	height: 20px;
+	position: relative;
+	margin-top: -2px;
+	display: block;
+	overflow: hidden;
+	content: "";
+	top: 0; 
+	left: 0; 
+	bottom: 0; 
+	right: 0;

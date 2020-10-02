@@ -1,0 +1,2 @@
+display: block; margin-left: auto !important; margin-right: auto !important; float:none;margin-bottom:12px;
+ margin:0 auto; 

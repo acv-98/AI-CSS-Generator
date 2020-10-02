@@ -1,0 +1,3 @@
+padding-top: 70px;margin:0px; padding: 0px; list-style: none;display: inline-block; padding: 0px 10pxdisplay: inline-block; color: #8C9494; font-size: 14px
+	 footer CLOSE
+padding:10px;

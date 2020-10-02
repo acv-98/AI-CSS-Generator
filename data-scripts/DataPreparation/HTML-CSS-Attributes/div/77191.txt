@@ -1,0 +1,28 @@
+	-webkit-transform-style: preserve-3d;
+	-webkit-transition: 0.5s;
+	-moz-transform-style: preserve-3d;
+	-moz-transition: 0.5s;
+	-ms-transform-style: preserve-3d;
+	-ms-transition: 0.5s;
+	-o-transform-style: preserve-3d;
+	-o-transition: 0.5s;
+	transform-style: preserve-3d;
+	transition: 0.5s;
+	position: absolute;
+	z-index: 1;
+	background: #f9f9f9;
+	border-radius: 4px;
+	backface-visibility: hidden;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	-o-backface-visibility: hidden;
+body #features-page .subsection1 .flip .card .back {
+body #features-page .subsection1 .iconbox-style i.boxicon {
+	font-size: 58px;
+	text-align: center;
+	display: block;
+	color: #999999;
+	line-height: 1;
+	margin: 0 0 14px 0;
+	padding: 0;

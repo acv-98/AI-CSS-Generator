@@ -1,0 +1,1 @@
+ padding: 4px 5px; border: solid 1px #e7e7e7; color: #969696; height: 15px;  color: #333;  float: left; display: inline; width: 196px; background: url(images/search-field.gif) no-repeat 0 0; padding: 1px;  width: 186px; border: 0; background: none; 

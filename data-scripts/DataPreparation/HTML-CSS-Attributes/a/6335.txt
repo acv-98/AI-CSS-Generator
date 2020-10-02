@@ -1,0 +1,5 @@
+	float:left;
+	display:inline;
+	width:52px;
+	padding:5px 12px 9px 0;
+	border:2px solid #ababab;

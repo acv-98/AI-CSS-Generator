@@ -1,0 +1,8 @@
+	margin-top:-3px;
+	padding-bottom:25px
+	line-height:27px;
+	padding-left:23px;
+	background:url(../images/marker_1.png) 0 6px no-repeat;
+	overflow:hidden
+	color:#62a80a;
+	text-decoration:none

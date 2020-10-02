@@ -1,0 +1,4 @@
+  display: block;
+  color: #727272;
+  font-size: 13px;
+  text-transform: uppercase;

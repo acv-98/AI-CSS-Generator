@@ -1,0 +1,6 @@
+	border-top-color: #a5d549;
+	color: #333;
+	background-color: #fff;
+	border-color: #ddd;
+	padding: 0;
+	text-align: left;

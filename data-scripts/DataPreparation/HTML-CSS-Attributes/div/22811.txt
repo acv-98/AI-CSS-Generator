@@ -1,0 +1,5 @@
+  background: #222;
+  margin-bottom: 10px;
+  color: #FAFAFA;
+  font-size: 1.6em;
+  text-transform: none;

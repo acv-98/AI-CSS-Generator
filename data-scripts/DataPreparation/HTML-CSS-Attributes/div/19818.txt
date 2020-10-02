@@ -1,0 +1,8 @@
+  background-color: #ffffff;
+  border-color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  border-radius: 500px;

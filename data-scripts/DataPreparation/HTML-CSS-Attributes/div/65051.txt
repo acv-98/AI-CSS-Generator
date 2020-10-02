@@ -1,0 +1,6 @@
+	display: block;
+	float: left;
+	width: 168px;
+	margin: 0 25px 0 0;
+	height: 43px;
+	background: url(../images/discover_more.png) no-repeat;

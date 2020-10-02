@@ -1,0 +1,1 @@
+ padding: 0 32px 26px;   padding-left: 20px; padding-right: 20px;   width: 165px;  padding-left: 16px;  padding-left: 10px; padding-right: 10px;  width: 100%; float: none; display: block; padding-bottom: 20px;  padding-left: 0px; 

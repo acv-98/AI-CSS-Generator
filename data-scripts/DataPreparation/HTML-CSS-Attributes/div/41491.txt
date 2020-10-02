@@ -1,0 +1,12 @@
+	background:url(../images/footer-tail.gif) repeat-x left top #000;
+	color:#fff;
+	line-height:1.67em;
+	padding:18px 25px 23px 25px;
+	margin:0;
+	white-space:nowrap;
+	text-indent:inherit;
+	font-weight:normal;
+	border:none;
+	text-decoration:underline;
+	background-color:transparent;
+	float:left;

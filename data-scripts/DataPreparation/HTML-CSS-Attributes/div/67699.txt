@@ -1,0 +1,1 @@
+background:url(images/border.gif) repeat-y left;background:url(images/border.gif) repeat-y left;background:url(images/border-left.gif) repeat-y left;

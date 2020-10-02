@@ -1,0 +1,6 @@
+		padding-bottom:15px;
+		margin-bottom:30px;
+		color:#999999;
+		font-size: 13px;
+		text-transform: uppercase;
+		font-weight: 700;

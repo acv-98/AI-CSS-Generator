@@ -1,0 +1,2 @@
+	border-top: 1px solid #DDDDDD;
+	padding-top: 13px;

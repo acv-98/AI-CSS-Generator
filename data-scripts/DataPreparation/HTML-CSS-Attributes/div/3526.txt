@@ -1,0 +1,5 @@
+	margin:0;
+	padding:0;
+	background:url(images/content_border_bg.png);
+	border:1px solid #a1a1a1;
+	float:left;

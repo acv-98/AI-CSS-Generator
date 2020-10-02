@@ -1,0 +1,7 @@
+	color:#7A6B4E;
+	display:block;
+	text-decoration:none;
+	text-indent:35px;
+	background:url(../images/icon-facebook.gif) no-repeat;
+	margin-top:5px;
+	background-position:left 10px;

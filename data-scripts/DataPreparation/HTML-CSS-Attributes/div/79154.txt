@@ -1,0 +1,14 @@
+
+  color: #696763;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 30px;
+  background: #F0F0E9;
+  border: medium none;
+  display: block;
+  height: 40px;
+  outline: medium none;
+  padding-left: 10px;
+  width: 100%;
+  border-radius: 0;

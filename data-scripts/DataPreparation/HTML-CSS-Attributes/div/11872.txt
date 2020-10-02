@@ -1,0 +1,1 @@
+width:340px; height:1px; color:#72859e; background:#72859e;

@@ -1,0 +1,2 @@
+padding:30px 0; text-align:center; text-transform:uppercase;
+padding:0; list-style:none;display:inline-block; margin-right:10px;margin-left:10px; content:"|";margin-left:0; content:"";background-color:rgba(0,0,0,.5);color:inherit;color:rgba(255,255,255,.3);

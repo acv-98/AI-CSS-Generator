@@ -1,0 +1,9 @@
+	list-style:none;
+	padding:0;
+	color:#fff;
+	font-size:1.1em;
+	text-transform:uppercase;
+	font-weight:700;
+	margin-bottom: 8%;
+	text-decoration:none;
+	line-height: 2em;

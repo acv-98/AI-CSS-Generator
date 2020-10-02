@@ -1,0 +1,2 @@
+	background:url(images/next.gif) no-repeat 0 0;
+	right:5px;

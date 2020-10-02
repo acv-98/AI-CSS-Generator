@@ -1,0 +1,13 @@
+	cursor:pointer
+	text-decoration:none
+	display:inline-block;
+	padding:10px 20px 11px;
+	color:#fff;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:18px;
+	line-height:1.22em;
+	background:url(../images/button-tail.gif) 0 0 repeat-x #000;
+	text-transform:uppercase;
+	letter-spacing:-1px
+	text-align:right
+	margin-left:10px;

@@ -1,0 +1,8 @@
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+ margin-top: 15px; .tm-equal-col-container {
+    display: -webkit-box;
+    width: 100%;
+    height: auto;

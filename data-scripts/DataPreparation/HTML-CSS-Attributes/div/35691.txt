@@ -1,0 +1,13 @@
+    height: 65px;
+width: 65px;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+overflow: hidden;
+display: inline-block;
+float: left;
+margin-right: 15px;
+margin-top: 20px;
+        margin-left:10px;
+        width:55px;
+        height:60px;
+        

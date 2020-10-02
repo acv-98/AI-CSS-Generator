@@ -1,0 +1,7 @@
+	display:inline-block;
+	padding:5px 20px;
+	font-size:13px;
+	line-height:1.23em;
+	color:#fff;
+	background:#d43400;
+	text-decoration:none;

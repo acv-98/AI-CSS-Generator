@@ -1,0 +1,2 @@
+  float: right;
+  left: 100%;

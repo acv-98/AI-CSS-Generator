@@ -1,0 +1,1 @@
+ padding-bottom: 57.25%; float:left

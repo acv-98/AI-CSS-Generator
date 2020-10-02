@@ -1,0 +1,4 @@
+  content: "\f0f6";
+    font-size: 65px;
+    position: relative;
+    top: -2px;

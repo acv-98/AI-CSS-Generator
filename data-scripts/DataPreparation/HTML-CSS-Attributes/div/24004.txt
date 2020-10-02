@@ -1,0 +1,9 @@
+  margin-bottom: 5em;
+  font-size: 13px;
+  line-height: 1.5;
+  font-weight: 700;
+  font-family: "Source Sans Pro", sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #000;
+  display: block;

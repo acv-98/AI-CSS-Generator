@@ -1,0 +1,6 @@
+	padding-left: 30px;
+	width: 170px;
+	background: none;
+	border: none;
+	color: #ccc;
+	font-size: 12px;

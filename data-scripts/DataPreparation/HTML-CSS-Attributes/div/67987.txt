@@ -1,0 +1,11 @@
+	display:block;
+	width:20px;
+	height:20px;
+	position:absolute;
+	z-index:11
+	top:0;
+	left:0;
+	background:url(../images/content_top_left.gif) top left no-repeat
+	right:0;
+	bottom:0;
+	overflow:hidden

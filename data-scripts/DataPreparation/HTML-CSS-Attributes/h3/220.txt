@@ -1,0 +1,6 @@
+	padding-left:35px;
+	background:url(images/h3-clock.gif) left top no-repeat;
+	line-height:33px;
+	padding-bottom:2px;
+	background-image:url(images/h3-clock.gif);
+	background-position:0 2px;

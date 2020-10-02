@@ -1,0 +1,15 @@
+	list-style: none;
+	margin-left: 20px;	
+	padding: 0;	
+	border-top: 1px solid #29201c; 
+ border-bottom: 1px solid #29201c; #footer-outer .footer-list ul li a {
+	display: block;
+	width: 98%;
+	line-height: 2em; 	
+	color: #877878; 		
+	background: url(../images/email.gif) no-repeat 0 center;
+	padding-left: 20px;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Georgia, 'Times New Roman', Times, Serif;
+	font-size: .95em;	

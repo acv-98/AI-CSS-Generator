@@ -1,0 +1,13 @@
+  float: none;
+  min-width: 74px;
+  margin-right: 0;
+  margin-bottom: 3px;
+  margin-left: 19px;
+  border-left: 1px solid #ddd;
+  -webkit-border-radius: 0 4px 4px 0;
+     -moz-border-radius: 0 4px 4px 0;
+          border-radius: 0 4px 4px 0;
+  border-color: #eeeeee #eeeeee #eeeeee #dddddd;
+  *border-left-color: #ffffff;
+  display:block;
+  padding:15px 0 15px 20px;

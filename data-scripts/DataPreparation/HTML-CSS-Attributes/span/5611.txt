@@ -1,0 +1,5 @@
+width:112px;
+font:11px/15px arial;
+color:#FFF;
+float:left;
+margin:10px 0px 0px 6px;

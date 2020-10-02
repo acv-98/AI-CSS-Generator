@@ -1,0 +1,7 @@
+	height: 50px;
+	color: #fff;
+	background-color: transparent;
+	border: 2px solid #fff;
+	font-size: 15px;
+    outline: 0;
+    box-shadow: none;    

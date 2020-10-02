@@ -1,0 +1,9 @@
+	font-family: "raleway-bold", sans-serif;
+	color: #252525;
+	font-style: normal;
+	text-rendering: optimizeLegibility;
+	margin-bottom: 2.1rem;
+	font-size: 1.4rem;
+	line-height: 1.7;
+	text-transform: uppercase;
+	letter-spacing: .15rem;

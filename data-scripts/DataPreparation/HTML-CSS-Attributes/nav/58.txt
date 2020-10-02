@@ -1,0 +1,3 @@
+	behavior:url("../js/PIE.htc");
+	position:relative;
+	box-shadow:0 1px 1px #fff

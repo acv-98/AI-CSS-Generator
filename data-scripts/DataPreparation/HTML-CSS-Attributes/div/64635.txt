@@ -1,0 +1,8 @@
+	border-left: none;
+	position: static;
+	display: block;
+	float: left;
+	height: 80px;
+	color: #FFF;
+	text-transform: uppercase;
+	top: -12px;

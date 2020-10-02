@@ -1,0 +1,14 @@
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+  display: inline-block;
+  padding-right: 5px;
+	border: 1px solid #2F937B;
+	padding: 5px 15px;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 1px;
+	color: #2F937B;
+	transition: all 0.5s;
+	background: #2F937B;

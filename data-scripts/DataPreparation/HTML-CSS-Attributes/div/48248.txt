@@ -1,0 +1,7 @@
+	float: right;
+	width: 40%;
+	cursor: pointer;
+		float: none;
+		width: 40%;
+		margin: 0 auto;
+		padding-top: 40px;

@@ -1,0 +1,18 @@
+  font-weight: 500;
+  margin-top: 60px;
+  padding: 0;
+  margin-right: 10px;
+  color: #fff;
+  font-size: 15px;
+  width: 34px;
+  height: 34px;
+  background-color: #cdcdcd;
+  display: inline-block;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 34px;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  -webkit-transition: all 0.3s linear;
+    margin-top: 30px;
+    margin-bottom: 60px;

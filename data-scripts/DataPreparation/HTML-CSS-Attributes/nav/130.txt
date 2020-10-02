@@ -1,0 +1,12 @@
+	background-color: #45525E;
+max-width:1170px * Name: 	Infinity
+ * Version: 1.0
+ * Updated: 28/05/2015
+ * Website:	http://audaindesigns.com
+ * Author:	Audain Designs
+ * Type:	Style - Landing - Landing
+	Sections
+section#landing {
+	background-size: cover;
+	background-position: center;
+	border:0;

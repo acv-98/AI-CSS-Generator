@@ -1,0 +1,4 @@
+	-webkit-animation-duration: 1.5s !important;
+	   -moz-animation-duration: 1.5s !important;
+	     -o-animation-duration: 1.5s !important;
+	        animation-duration: 1.5s !important;

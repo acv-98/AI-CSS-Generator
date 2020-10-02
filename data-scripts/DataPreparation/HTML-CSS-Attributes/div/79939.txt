@@ -1,0 +1,4 @@
+		font-size: 18px;
+		display: none;
+    background-color: #ffffff;
+	color: #ffffff;

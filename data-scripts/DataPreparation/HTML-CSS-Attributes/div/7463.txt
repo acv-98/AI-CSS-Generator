@@ -1,0 +1,1 @@
+ overflow:hidden; margin:25px auto 30px auto; width:960px;

@@ -1,0 +1,2 @@
+background-position: 0 -26px; cursor: default;
+ background: url(images/navigation-a.png) repeat 0 0; color: #3995d6; text-decoration: none; 

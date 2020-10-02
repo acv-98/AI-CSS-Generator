@@ -1,0 +1,14 @@
+  padding: 40px 20px 20px 20px;
+  margin-bottom: 30px;
+  width: 80px;
+  height: 80px;
+  border: 1px solid #ef6249;
+  display: table;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  font-size: 30px;
+  color: #ef6249 !important;
+  vertical-align: middle;
+  font-weight: 400;

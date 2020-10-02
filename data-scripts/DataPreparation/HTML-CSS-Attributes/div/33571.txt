@@ -1,0 +1,1 @@
+ width:274px; margin-bottom:10px;background:url(images/darkbox1.jpg) no-repeat; height:6px;padding:8px; background:url(images/darkbox2.jpg) repeat-y;background:url(images/darkbox3.jpg) no-repeat; height:6px;

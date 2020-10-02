@@ -1,0 +1,1 @@
+background:url("images/sidebar-bullet.png") no-repeat scroll 0 6px rgba(0,0,0,0); color:#444; font-family:arial; font-size:15px; margin-left:0; padding:1px 0 0 26pxcolor:#12a3df

@@ -1,0 +1,10 @@
+	float: left;
+	width: 210px;
+	height: 250px;
+	margin: 0 15px;
+	margin-top: 36px;
+	line-height: 20px;
+	overflow: hidden;
+	border: 3px solid #352e2c;
+	color: #202020;
+	font-style: italic;

@@ -1,0 +1,18 @@
+	text-align:center;
+	border-right: 1px solid #B9DEEC;
+	color:#fff;
+	font-style:italic;
+	font-size:2em;
+	font-weight:bold;
+	text-transform:uppercase;
+	margin-bottom: 3px;
+	line-height:1.5em;
+	float:left;
+	width:66%;
+	padding:0;
+		border-right: 0;
+		font-size: 1.5em;
+		margin: 0;
+		margin-bottom:0;
+		float: none;
+		width: 100%;

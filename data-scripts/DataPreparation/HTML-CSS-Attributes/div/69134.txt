@@ -1,0 +1,11 @@
+ border-color: #eeeeee;     border-bottom: 1px solid #CFCFCF;
+    margin-bottom: 10px;
+    padding-bottom: 16px;
+    color: #3E3E3E;
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+	vertical-align: middle;
+	color: #3E3E3E;
+    border-left: 1px solid #CFCFCF;
+    margin-top: 0;

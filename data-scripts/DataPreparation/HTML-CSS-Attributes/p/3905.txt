@@ -1,0 +1,6 @@
+		padding-top: 20px;
+		font-size: 62px;
+		color: #3C3B3B;
+		text-align: center;
+		font-weight: 600;
+		vertical-align: 40px;

@@ -1,0 +1,19 @@
+    text-align: center;
+    -webkit-tap-highlight-color: transparent
+    margin-top: 10px
+    color: #FFF;
+    font-size: 14px;
+    padding: 4px 7px;
+    background: #D6D6D6;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px
+    text-decoration: none
+    opacity: .5;
+    zoom: 1
+    width: 10px;
+    height: 10px;
+    -webkit-backface-visibility: visible;
+    transition: opacity .2s ease;
+    background-color: transparent !important;
+    line-height: 35px;

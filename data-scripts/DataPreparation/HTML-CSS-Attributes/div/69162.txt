@@ -1,0 +1,7 @@
+	width:207px;
+	height:37px;
+	background:url(images/title_back.png) no-repeat;
+	display:block;
+	padding:10px;
+	font:13pt Arial, Helvetica, sans-serif;
+	color:#FFFFFF;

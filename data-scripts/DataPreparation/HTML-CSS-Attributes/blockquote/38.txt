@@ -1,0 +1,15 @@
+    padding: 61px 38px 26px 46px;
+    background: url(../images/quotes.png) 31px 33px no-repeat #e5e5e7;
+    color: #727171;
+    text-align: right;
+    font: 18px/20px 'Roboto Condensed', sans-serif;
+    content: '';
+    display: block;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    bottom: -27px;
+    left: 67px;
+    border-style: solid;
+    border-width: 27px 0 0 40px;
+    border-color: #cfcfd0 transparent transparent transparent;

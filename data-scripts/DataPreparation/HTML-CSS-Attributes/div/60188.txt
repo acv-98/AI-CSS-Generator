@@ -1,0 +1,11 @@
+	padding:10px 5px 0 10px;
+	float:left;
+	font:bold italic 1.00em "Trebuchet MS", Arial, Helvetica, sans-serif;
+	width:80px;
+	display:block;
+	background:url(images/comment.png) no-repeat;
+	height:18px;
+	padding-left:28px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:0.87em;
+	border:solid 1px #000;

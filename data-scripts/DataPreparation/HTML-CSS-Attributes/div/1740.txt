@@ -1,0 +1,29 @@
+-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+    Version: 1.0
+.customwidget li i,
+.navbar-nav span {
+    color: #db00ce !important;
+        display: block !important;
+    border-color: transparent;
+    margin: 10px 0;
+    width: 100%;
+    z-index: auto;
+    position: static;
+    float: none;
+    padding: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+	display: inline-block;
+	color: #121212;
+	background: #121212;
+	padding: 5px 10px;	
+    font-size: 13px;
+    line-height: 1;
+    margin-bottom: 0;
+    margin-top: 15px;
+    padding-bottom: 5px;
+    text-transform: capitalize;

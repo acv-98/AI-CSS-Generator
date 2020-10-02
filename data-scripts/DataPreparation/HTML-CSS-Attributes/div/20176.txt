@@ -1,0 +1,5 @@
+  background: #5a453b;
+  border-top: 1px solid #644d42;
+  border-bottom: 1px solid #523f35;
+  height: 8px;
+  width: 100%;

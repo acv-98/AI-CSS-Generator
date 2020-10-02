@@ -1,0 +1,4 @@
+	background:#2EABD2 url(images/btn_bg_mainsearch.png) repeat-x top;
+	float:right;
+	-moz-border-radius:30px;
+	-webkit-border-radius:30px;

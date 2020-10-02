@@ -1,0 +1,10 @@
+	position: relative;
+	padding: 45px 30px;
+	text-align: center;
+	background: url('../img/popup.jpg');
+	box-shadow: none;
+	border-radius: 2px;
+	font-size: 22px;
+	top: 20px;
+	right: 30px;
+	color: #fff;

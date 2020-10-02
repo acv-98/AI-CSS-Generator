@@ -1,0 +1,8 @@
+  padding: 0;
+  zoom: 1;
+  width: 100%;
+  min-width: 648px;
+  min-height: 270px;
+  display: block;
+  position: relative;
+  -webkit-backface-visibility: hidden;

@@ -1,0 +1,3 @@
+	color:#434242;
+	font-size:0.9em;
+	padding:0 3px;

@@ -1,0 +1,4 @@
+	margin-left:20px;
+	list-style:none;
+	padding-left:15px;
+	background:url("../design/ul.gif") 0 5px no-repeat;

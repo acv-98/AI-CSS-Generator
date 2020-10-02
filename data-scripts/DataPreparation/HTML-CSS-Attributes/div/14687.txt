@@ -1,0 +1,4 @@
+	float:right;
+	padding:37px 35px 0 0;
+	color:#72716f;
+	text-align:right

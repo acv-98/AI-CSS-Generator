@@ -1,0 +1,3 @@
+  float: left;
+  width: 30.70083682008368%;
+    width: 100%;

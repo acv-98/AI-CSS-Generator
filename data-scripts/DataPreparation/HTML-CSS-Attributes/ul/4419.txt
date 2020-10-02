@@ -1,0 +1,12 @@
+	text-align: center;
+	color: #323232;
+	cursor: pointer;
+	display: inline-block;
+	margin: 0 6px;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+	font-size: 16px;
+	font-weight: 700;
+	-o-transition: all 0.5s;
+	margin-left: 16px;
+    color: #0091ea;

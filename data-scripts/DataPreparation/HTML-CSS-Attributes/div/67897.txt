@@ -1,0 +1,4 @@
+	background:url(../images/box-bg.gif) 0 0;
+	width:100%;
+	color:#fff;
+	padding:20px 30px 35px 30px;

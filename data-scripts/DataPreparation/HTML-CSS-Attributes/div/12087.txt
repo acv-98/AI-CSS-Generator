@@ -1,0 +1,6 @@
+	float:left;
+	margin:0 auto;
+	background:url(../images/header_bg.png) repeat-x;
+	height:128px;
+	width:100%;
+	overflow:hidden;

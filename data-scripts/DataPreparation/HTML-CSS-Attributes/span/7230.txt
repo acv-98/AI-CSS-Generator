@@ -1,0 +1,2 @@
+	position: absolute;
+	background: transparent url(../images/icon-plus.png) no-repeat center center;

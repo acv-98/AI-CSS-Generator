@@ -1,0 +1,16 @@
+	left:0px;
+	top:0;
+	position:absolute;
+	width:271px;
+	z-index:2;
+	text-align:center
+	font-size:52px;
+	color:#bf0f0a;
+	display:block;
+	line-height:1.2em;
+	text-transform:uppercase;
+	padding:55px 0 0 0;
+	letter-spacing:-2px
+	margin-top:-16px
+	background:url(../images/quot1.png) 0 0 no-repeat
+	padding-bottom:2px

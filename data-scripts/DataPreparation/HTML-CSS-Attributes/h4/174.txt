@@ -1,0 +1,11 @@
+		margin-left: 19%;
+		font-size: 3em;
+	color:#000;
+	margin-bottom: 0.5em;
+	line-height: 1.2;
+	font-weight: normal;
+	margin-top: 0px;
+	letter-spacing: -1px;
+	text-transform: uppercase;
+	border-bottom: 1px solid #ECECEC;
+	padding-bottom: 13px;

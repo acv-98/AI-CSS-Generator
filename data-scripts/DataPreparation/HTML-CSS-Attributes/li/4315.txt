@@ -1,0 +1,9 @@
+	margin-bottom: 10px;
+	font-size: 1.9em;
+	-webkit-transition: all 0.3s ease;	
+	transition: all 0.3s ease;	
+ padding: 10px; .box-nav-item:hover, .box-nav-item:focus, .box-nav-item.active {
+	background-color: rgba(241, 241, 241, 0.59);	
+	color: black;
+	border: 1px solid black;
+ font-size: 1.4em;  font-size: 1.4em; 

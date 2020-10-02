@@ -1,0 +1,6 @@
+  left: 585px;
+    position: static;
+    margin-left: 100px;
+    font-size: 70px;
+    line-height: 75px;
+    text-align: center;

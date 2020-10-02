@@ -1,0 +1,19 @@
+    margin-top: 10px;
+	margin-top: 40px;
+    background: url(../img/line.png) left center repeat-x;
+    width: 200px;
+    font-family: 'Lobster', cursive;
+    font-size: 24px;
+    color: #5d5d5d;
+    font-weight: bold;
+    padding: 15px 15px 20px 15px;
+    border-bottom: 2px solid #9d426b;
+    box-shadow: 0 5px 15px 0 rgba(0,0,0,.05), 0 1px 25px 0 rgba(0,0,0,.05) inset, 0 -1px 25px 0 rgba(0,0,0,.05) inset;
+    -o-transition: all .5s; -moz-transition: all .5s; -webkit-transition: all .5s; -ms-transition: all .5s; transition: all .5s;
+    line-height: 50px;
+ vertical-align: middle; .service h3 {
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 rgba(255,255,255,.7);
+    padding-bottom: 7px;
+    padding-top: 10px;
+    text-align: left;

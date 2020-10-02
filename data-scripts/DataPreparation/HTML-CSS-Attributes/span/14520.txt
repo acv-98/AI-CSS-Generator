@@ -1,0 +1,1 @@
+ color:#89867e; font-size:12px; margin-left:4px; font-style:italic; font-weight:normal; 

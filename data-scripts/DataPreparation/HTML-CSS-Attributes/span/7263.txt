@@ -1,0 +1,6 @@
+  background: #94c045;
+  font-size: 30px;
+  color: #333;
+  padding-top: 16px;
+  font-style: italic;
+  display: block;

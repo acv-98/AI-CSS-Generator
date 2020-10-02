@@ -1,0 +1,24 @@
+		width: 33.33%;
+	padding: 70px 0px;
+.gallery-box ul li{
+	position: relative;
+	margin: 0;
+	float: left;
+	border: none;
+	overflow: hidden;
+	margin-bottom: 30px;
+	display: inline-block;
+	content: "";
+	background: rgba(82, 135, 128, 0.9);
+	height: 100%;
+	left: 0px;
+	top: 100%;
+	opacity: 0;
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	color: #ffffff;
+	font-size: 22px;
+	text-align: center;
+	transform: translate(-50%,-50%);

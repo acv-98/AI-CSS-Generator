@@ -1,0 +1,2 @@
+	color: #999999;
+	font-family: 'Quattrocento', serif;

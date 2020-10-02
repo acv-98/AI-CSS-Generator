@@ -1,0 +1,16 @@
+	max-width: 740px;
+	margin: 0 auto;
+	color: #FFFFFF;
+	margin-bottom: .6rem;
+	padding: 0;
+	display: block;
+	background: #04a393;
+	margin-right: 12px;
+	line-height: 60px;
+	font-size: 18px;
+		max-width: 650px;
+		display: block;
+		width: 300px;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		margin-bottom: 1.8rem;

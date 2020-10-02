@@ -1,0 +1,7 @@
+	float:right;
+	display:inline;
+	text-align:right;
+	padding-top:8px;
+	color:#2c7483;
+	font-weight:bold;
+	text-decoration:none;

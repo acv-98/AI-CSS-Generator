@@ -1,0 +1,15 @@
+		display: none;
+	position:absolute;
+	top:0;
+	left:0;
+	text-align: center;
+	width:130px;
+	font-weight: 500;
+	font-size:13px;
+	color:#ffffff;
+	background:#6adcfa;
+	border-top-left-radius:3px;
+	border-bottom-left-radius:3px;
+	padding:0 20px;
+	height:35px;
+	line-height:35px;

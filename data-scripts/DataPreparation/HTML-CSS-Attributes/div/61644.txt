@@ -1,0 +1,17 @@
+    font-size: large;
+    text-align: center;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.3);
+    margin: 15px 0;
+    padding: 15px;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 10px;
+    float: left;
+    width: 100%;
+  margin-right: -15px;
+  margin-left: -15px;
+  margin-top: 10px;
+  border-top-color: #ccc;
+margin:0 auto

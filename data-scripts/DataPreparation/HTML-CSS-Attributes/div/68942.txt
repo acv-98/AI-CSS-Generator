@@ -1,0 +1,15 @@
+ padding-right: 5%; #about .download .button {
+   margin-top: 6px;
+   background: #444;
+ padding-right: 10%; .education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+ padding-right: 5%;    #testimonials .header-col h1:before {
+      font-size: 66px;
+      line-height: 66px;
+ padding-right: 30px;    #resume .header-col {
+      padding-top: 0;
+      margin-bottom: 48px;
+      text-align: center;
+ padding-right: 30px; 

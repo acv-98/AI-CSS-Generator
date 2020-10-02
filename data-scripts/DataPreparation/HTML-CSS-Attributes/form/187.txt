@@ -1,0 +1,8 @@
+    border: 1px dashed #d7d7d7;
+    padding: 20px;
+    background-color: #f0f1f2;
+    margin-bottom: 12px;
+    height: 40px;
+    border-radius: 0;
+    border-color: #ffffff !important;
+    color: #ffffff !important;

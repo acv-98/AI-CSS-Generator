@@ -1,0 +1,4 @@
+	margin:0 auto;
+	padding:20px 0 0 0;
+	width:970px;
+	background:#eceff0 url(images/countent_vf.gif) top repeat-x;

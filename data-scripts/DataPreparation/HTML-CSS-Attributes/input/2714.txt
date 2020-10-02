@@ -1,0 +1,6 @@
+    width: 300px;
+    height: 45px;
+    margin-bottom: 0px;
+    background-color: #fff !important;
+        width:100%!important;
+        margin-bottom:10px;

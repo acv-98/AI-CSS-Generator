@@ -1,0 +1,7 @@
+color:#ff4e00; font-size:12px; float: right; margin-right: 20px	
+@charset "utf-8";
+@import url('style-reset.css');
+Template Name:  Easy Business (red)
+Author: Dieter Schneider
+Author URI: http://www.csstemplateheaven.com/
+color:#ff4e00; font-size:12px; float: right; margin-right: 20pxcolor:#ff4e00; font-size:12px; float: right; margin-right: 20px

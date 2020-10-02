@@ -1,0 +1,10 @@
+  margin-bottom: 30px;
+  position: relative;
+  top: 20px;
+  right: -10px;
+  font-size: 12px;
+  display: block;
+  text-transform: uppercase;
+  color: #45aed6;
+  margin-top: 0;
+  line-height: 1;

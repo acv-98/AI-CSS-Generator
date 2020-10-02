@@ -1,0 +1,1 @@
+ font-size: 22px; font-family: 'Open Sans', sans-serif; color: #a5a4a4; font-style: normal; font-weight: 400;  font-size: 48px; font-family: 'Arbutus Slab', sans-serif; color: #a5a4a4; font-style: normal; font-weight: 400; 

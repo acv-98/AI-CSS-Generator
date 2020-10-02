@@ -1,0 +1,5 @@
+  list-style: none;
+    min-width: 480px;
+    max-width: 620px;
+    margin-left: auto;
+    margin-right: auto;

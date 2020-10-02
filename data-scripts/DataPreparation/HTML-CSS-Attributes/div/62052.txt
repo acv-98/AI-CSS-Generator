@@ -1,0 +1,11 @@
+	display: -ms-flexbox;
+	-ms-flex-align: center;
+	    align-items: center;
+	-ms-flex-pack: justify;
+	    justify-content: space-between;
+	padding-left: 10px;
+	padding-right: 10px;
+	overflow: auto;
+		padding-left: 25px; 
+		padding-right: 0;
+ padding-left: 30px; 

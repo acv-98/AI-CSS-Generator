@@ -1,0 +1,17 @@
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  padding: 4px;
+  line-height: 1.42857;
+  background-color: #fff;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+    height: 500px;
+  position: absolute;
+  right: 0;
+    position: relative;

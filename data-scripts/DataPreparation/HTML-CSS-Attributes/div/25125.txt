@@ -1,0 +1,15 @@
+	display: block;
+	width: 139px;
+	height: 23px;
+	background: url(../images/btn.gif) no-repeat top left;
+	float: left;
+	text-transform: uppercase;
+	color: #5c5c5c;
+	font-size: 9px;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 6px;
+	font-weight: bold;
+	margin-top: 3px;
+	padding-left: 26px;
+	margin-right: 40px;

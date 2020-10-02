@@ -1,0 +1,4 @@
+    font-size:120px !important;
+    font-weight:900!important;
+    color:#585858!important;
+    padding:200px 20px 20px 20px;

@@ -1,0 +1,17 @@
+    width: 22%;
+    display: block;
+    margin: 20px auto;
+	margin-top:50px;
+	margin-left:-10px;
+    border: 1px solid #ABACAE;
+    padding: 10px 20px;
+    text-align: center;
+    color: #ABACAE;
+    background: #F8F9FB;
+    border-radius: 20px;
+    margin-left: 10px;
+	transition:.6s;
+	color: #ABACAE;
+    margin-right: 10px;
+    font-size: 22px;
+	border-color:#bd9e6f;

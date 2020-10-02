@@ -1,0 +1,11 @@
+	color: #4eb478;
+	list-style:none;
+	margin-left:0;
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+  -webkit-font-smoothing: antialiased;
+  margin-right:10px;
+  content: "\f00c";
+	text-decoration:none;

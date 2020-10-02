@@ -1,0 +1,15 @@
+  width: 100%;
+  height: auto;
+  float: left;
+  display: inline-block;
+  padding: 1rem 1.25rem 1rem 0;
+  transition-duration: 300ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  text-decoration: none;
+    display: none;
+    width: auto;
+    height: auto;
+    float: left;
+    padding-left: .875rem;
+    padding-right: .625rem;

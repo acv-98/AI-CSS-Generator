@@ -1,0 +1,9 @@
+	margin-top:17px;
+	float:left;
+	margin-left:94px;
+	padding:12px 0 17px 41px;
+	font-style:italic;
+	background:url(../images/quot1.png) 0 0 no-repeat;
+	width:570px
+	display:inline-block;
+	padding-bottom:7px

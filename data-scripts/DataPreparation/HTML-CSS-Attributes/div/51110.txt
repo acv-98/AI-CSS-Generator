@@ -1,0 +1,4 @@
+	overflow: hidden;
+	padding-top: 1px;
+	margin-bottom: 53px;
+	height: 21px;

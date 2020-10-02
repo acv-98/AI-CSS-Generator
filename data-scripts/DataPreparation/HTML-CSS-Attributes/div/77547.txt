@@ -1,0 +1,7 @@
+	float: right;
+	line-height: 20px;
+		display: inline-block;
+		width: 26px;
+		height: 19px;
+		background: url('../images/comment-bg.gif') left top no-repeat;
+		margin: 2px 0 0 10px

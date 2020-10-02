@@ -1,0 +1,10 @@
+	margin-top: 60px;
+	margin-left: 60px;
+	display: none;
+	width: 200px;
+	height: 200px;
+	cursor: pointer;
+	border-radius: 200px;
+	float: left;
+	position: absolute;
+	opacity: 0;

@@ -1,0 +1,2 @@
+ float: left !important; 
+ display:block; float:right; padding:10px 15px; font-size:24px; font-weight:bold; font-family: 'Calibri', 'Droid Sans', Verdana, Arial, sans-serif; background:#A0A5AC; color:#fff;  background:#89909b; 

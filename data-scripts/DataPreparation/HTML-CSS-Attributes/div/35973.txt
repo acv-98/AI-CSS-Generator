@@ -1,0 +1,1 @@
+margin-bottom:25px; margin-top:30px; overflow:hidden;display:block; float:left; text-align:center; color:#fff; width:36px; height:30px; background:url("../img/sprites.png") no-repeat -394px -343px;font-size:20px; margin-left:5px;

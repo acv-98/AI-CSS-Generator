@@ -1,0 +1,4 @@
+    background-color: #ffffff;
+    padding: 3rem;
+        padding: 3rem 1rem;
+    background-image: none;

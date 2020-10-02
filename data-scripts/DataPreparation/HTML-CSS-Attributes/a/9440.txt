@@ -1,0 +1,4 @@
+        padding-right: 0;
+		max-width: 230px;
+		width: 100%;
+		padding-top: 7px;

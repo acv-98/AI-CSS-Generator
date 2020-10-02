@@ -1,0 +1,2 @@
+	margin-bottom:40px;
+	background:url(../images/bg/lightpaperfibers.png) repeat;

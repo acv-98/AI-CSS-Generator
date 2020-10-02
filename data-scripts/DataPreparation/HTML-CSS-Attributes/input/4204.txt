@@ -1,0 +1,16 @@
+    margin-bottom: 0;
+    padding: 0;
+    border: none;
+    width: 100%;
+    z-index: auto;
+    background-color: #5a4091;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-size: 16px;
+    outline: 0 none;
+    height: 55px;
+    resize: none;
+    box-shadow: none !important;
+	border-radius: 0px;
+    opacity: 1;
+	min-height: 225px;

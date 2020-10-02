@@ -1,0 +1,6 @@
+  border: medium none;
+  border-radius: 10px;
+  box-shadow: none;
+  height: 50px;
+  margin: 0;
+  padding: 25px 0;

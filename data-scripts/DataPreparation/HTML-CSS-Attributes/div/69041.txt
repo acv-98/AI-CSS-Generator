@@ -1,0 +1,26 @@
+ border-color: #eeeeee;  border-color: #f29a03;   top: 47px;
+  left: 47px;
+  width: 101px;
+  height: 101px;
+  background: url(mask.png) no-repeat;
+display:none; background: none repeat scroll 0 0 #000;height:100%;left:0;overflow: hidden; position: absolute; top:0; width:100%; opacity: .7; text-align: center display: block; float: left; height: 100%; width: 50%; line-height: 9999px; overflow: hidden;  background: url('../../../../../images/icons/project.png') 10% center no-repeat  background: url('../../../../../images/icons/zoom.png') 90% center no-repeat  background: url('../../../../../images/icons/play.png') 90% center no-repeat  position: absolute; bottom: 25%; color: white; text-align: center; display: block; width: 100%; font-family: 'Maven Pro',sans-serif; font-size: 16px; line-height: 15px;  bottom: 12%; color: white; font-size: 11px; line-height: 15px;  position:relative; #portfolio.columns .overlay_a {
+    display: block;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    border: 6px solid #eee
+ border: 6px solid #F29A03  * Your Inspiration Themes
+ * 
+ * In this files there is a collection of a functions useful for the core
+ * of the framework.   
+ * @package WordPress
+ * @subpackage Your Inspiration Themes
+ * @author Your Inspiration Themes Team <info@yourinspirationthemes.com>
+ *
+ * This source file is subject to the GNU GENERAL PUBLIC LICENSE (GPL 3.0)
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://www.gnu.org/licenses/gpl-3.0.txt
+ RESET CSS FILE
+ DO NOT EDIT ME
+ position:relative; display:none; background: none repeat scroll 0 0 #000;height:100%;left:0px;overflow: hidden; position: absolute; top:0px; width:100%; opacity: .7; text-align: center; display: block; float: left; height: 100%; width: 50%; line-height: 9999px; overflow: hidden;  position: absolute; bottom: 20%; color: white; text-align: center; display: block; width: 100%; font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif; font-size: 16px; line-height: 15px; 

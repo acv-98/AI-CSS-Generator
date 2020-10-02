@@ -1,0 +1,1 @@
+display:inline-block; color:#eee; margin-right:40pxfloat:right; width:85%; padding:5px 15px 5px 5pxcontent:""; margin-right:5pxdisplay:inline-block; font-family:FontAwesome; font-style:normal; font-weight:normal; line-height:1color:#09c

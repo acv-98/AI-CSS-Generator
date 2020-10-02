@@ -1,0 +1,2 @@
+width: 275px;
+width: 213px;width: 280px;width: 430px;

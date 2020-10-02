@@ -1,0 +1,7 @@
+ display: none; 
+	.tm-main-nav {
+		border-bottom: 1px solid rgba(153, 153, 153, 0.20);
+		font-size: 1.1em;
+		overflow: hidden;
+		padding-top: 0;
+		padding-bottom: 0;

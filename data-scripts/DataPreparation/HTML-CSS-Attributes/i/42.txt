@@ -1,0 +1,9 @@
+    transform: rotate(45deg);
+    margin-right: -4px;
+    margin-left: -4px;
+    color: #c0bfbf;
+        transform: rotate(45deg);
+        margin-right: -4px;
+        margin-left: -4px;
+        color: #c0bfbf;
+    margin-top: 10px;

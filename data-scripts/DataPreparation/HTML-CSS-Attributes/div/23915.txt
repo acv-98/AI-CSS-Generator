@@ -1,0 +1,2 @@
+  margin-bottom: 4em;
+  color: rgba(0, 0, 0, 0.4);

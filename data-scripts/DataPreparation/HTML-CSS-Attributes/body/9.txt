@@ -1,0 +1,11 @@
+	background-color: #ffffff;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 999;
+	-webkit-animation-duration: 0.45s;
+	-moz-animation-duration: 0.45s;
+	-ms-animation-duration: 0.45s;
+	-o-animation-duration: 0.45s;
+	animation-duration: 0.45s;

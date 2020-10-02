@@ -1,0 +1,8 @@
+				margin:0 10px 0 0;
+				float:right;
+				padding:0;
+				width:100px;
+				height:100px;
+				text-indent:-99999px;
+				display:block;
+				background:url(images/twitter100.png) no-repeat;

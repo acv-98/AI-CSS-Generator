@@ -1,0 +1,11 @@
+      content: "\203a";
+      display: inline-block;
+      font-family: serif;
+      font-size: 32px;
+      line-height: 1;
+      font-style: normal;
+      left: 4px;
+      position: relative;
+      top: 6px;
+      -webkit-transform: rotate(90deg);
+    -webkit-animation: floating-arrow 1.6s infinite ease-in-out 0s;

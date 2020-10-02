@@ -1,0 +1,4 @@
+  width:inherit;
+  left:-25px
+  right: -25px;
+  background: none;

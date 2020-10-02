@@ -1,0 +1,7 @@
+    box-shadow: 0 0 18px -9px #2a425e;
+    -moz-box-shadow: 0 0 18px -9px #2a425e;
+    -webkit-box-shadow: 0 0 18px -9px #2a425e;
+    margin-top: 40px;
+    position: relative;
+    z-index: 1;
+        min-height: 408px;

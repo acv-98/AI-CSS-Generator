@@ -1,0 +1,1 @@
+ float: left; position: relative; top: -1px; margin-left: 5px; width: 55px; overflow: hidden;  background: url(../images/socialpack/facebook.png) 50% 50% no-repeat  float: left; font-size: 12px; width: 32px; height: 32px; background: #415b92; 

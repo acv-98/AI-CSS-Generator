@@ -1,0 +1,8 @@
+  background: hsl(39, 100%, 50%) none repeat scroll 0 0;
+  border: medium none;
+  border-radius: 10px;
+  color: hsl(0, 0%, 100%);
+  font-family: roboto slab;
+  font-size: 22px;
+  height: 50px;
+  width: 100%;

@@ -1,0 +1,5 @@
+	height:1px;
+	background:url(../img/welcome_bg.png) no-repeat center top;
+	position:absolute;
+	left:0;
+	right:0;

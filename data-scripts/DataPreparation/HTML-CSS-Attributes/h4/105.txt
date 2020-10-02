@@ -1,0 +1,5 @@
+	font-family: 'OstrichSansBlack';
+	color: #0D4667;
+	text-shadow: 1px 1px 0px #84BBDB;
+	font-size: 28px;
+	margin-top:20px;

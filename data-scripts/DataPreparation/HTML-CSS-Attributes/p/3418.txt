@@ -1,0 +1,3 @@
+	background:url(../images/line.jpg) center bottom no-repeat;
+	padding-bottom:6px;
+	margin-bottom:5px;

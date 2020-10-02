@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	background:url(images/menu_line.gif) repeat-x top;
+	width:930px;
+	line-height:normal;
+	color:#959595;
+	text-decoration:underline;
+	float:left;

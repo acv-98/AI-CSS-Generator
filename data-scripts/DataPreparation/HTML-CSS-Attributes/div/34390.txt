@@ -1,0 +1,11 @@
+    overflow: hidden;
+    height: 0;
+  position: relative;
+  -webkit-transition: height 0.35s ease;
+     -moz-transition: height 0.35s ease;
+       -o-transition: height 0.35s ease;
+          transition: height 0.35s ease;
+	width: 220px;
+	margin:0 15px 0 15px;
+	background: #7cbb00;
+	color:#fff;

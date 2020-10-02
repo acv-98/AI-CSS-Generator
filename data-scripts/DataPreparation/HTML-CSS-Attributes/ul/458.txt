@@ -1,0 +1,2 @@
+ padding-left:62px; margin-bottom:20px; line-height:1.5em; min-height:49px; height:auto!important; height:49px; background:url(images/icon.gif) no-repeat left top; text-decoration:none; font-weight:bold; text-decoration:underline;
+ margin-top:-21px; line-height:1.5em; width:100%; overflow:hidden; vertical-align:bottom; padding-top:21px; float:left; margin:3px 20px 0 0; text-decoration:none; font-weight:bold; text-decoration:underline; padding-bottom:15px; margin:0; font-weight:bold; padding-bottom:6px; padding:8px 0 0 12px; margin-bottom:-5px;

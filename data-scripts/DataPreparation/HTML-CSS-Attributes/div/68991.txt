@@ -1,0 +1,3 @@
+ width: 100%;  margin-top: 0px; 
+.section.blog .meta h4 a {
+	font-family: 'Maven Pro','Verdana','Arial',sans-serif;

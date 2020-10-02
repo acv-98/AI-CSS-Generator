@@ -1,0 +1,13 @@
+	float:right;
+	display:block;
+	width:420px;
+	height:82px;
+	border:none;
+	padding:0;
+	margin:0;
+	cursor:hand;
+	font-size:20px;
+	color:#FFF;
+	background-color:#e00966;
+	font-family:"Open Sans", sans-serif;
+	transition:all 0.5s ease-in-out;

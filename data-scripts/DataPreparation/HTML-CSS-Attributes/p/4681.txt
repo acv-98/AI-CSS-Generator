@@ -1,0 +1,2 @@
+ float: right; line-height: 11px; font-size: 11px; color: #717171;  padding: 0 8px;  color: #717171; text-decoration: underline;  color: #fff; text-decoration: none; 
+ float: none; display: block; clear: both; 

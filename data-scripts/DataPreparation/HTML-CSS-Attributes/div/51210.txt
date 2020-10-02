@@ -1,0 +1,4 @@
+ display: block; margin-top: 15px; background: url(../images/comment.jpg) no-repeat bottom left; padding: 3px 0 0 25px; 
+#sidebar {
+	float: right;
+	width: 280px;

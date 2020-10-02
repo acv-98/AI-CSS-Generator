@@ -1,0 +1,7 @@
+    margin-top: 20px;
+    display: block;
+    color: #f4af0b !important;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    line-height: 1;
+    font-size: 15px;

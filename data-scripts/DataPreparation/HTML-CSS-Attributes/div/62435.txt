@@ -1,0 +1,17 @@
+        padding: 55px 10px 55px 25px;
+        font-size: 1.114rem;
+        line-height: 1.5rem;
+    background: #e74e3e;
+    position: relative;
+    left:-8%;
+    top:45%;
+    content:"";
+    width: 0;
+    height: 0;
+    border-top: 30px solid transparent;
+    border-right: 30px solid #e74e3e;;
+    border-bottom: 30px solid transparent;
+    right: -8%;
+    z-index: 9;
+    border-left: 30px solid #e74e3e;;
+    color:#fff;

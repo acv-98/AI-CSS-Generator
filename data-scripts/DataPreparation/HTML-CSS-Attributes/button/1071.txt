@@ -1,0 +1,15 @@
+    border-radius:0px;
+    padding: 10px 25px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 300;
+    margin-right: 15px;
+    transition:all 0.3s;
+    -webkit-transition:all 0.3s;
+ margin-right: 0; .btn-big {
+    min-width: 176px;
+    background-color: rgba(47,47,47,0.5);
+ margin-top: 15px;  margin-top: 10px;  margin-top: 0;  margin-top: 20px;     
+ margin-top: 10px;     .tm-float-section-body { 
+        padding: 10px;
+        margin-top: -90px;

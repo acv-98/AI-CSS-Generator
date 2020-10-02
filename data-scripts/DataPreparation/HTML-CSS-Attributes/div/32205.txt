@@ -1,0 +1,6 @@
+	font-size:14px;
+	float:right;
+	text-transform:uppercase;
+	font-weight:500;
+	
+	color:#000;	

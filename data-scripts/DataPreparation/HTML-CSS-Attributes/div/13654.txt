@@ -1,0 +1,3 @@
+ font-size: 13px; font-family: 'Open Sans', sans-serif; color: #CA6B1C; font-style: normal; font-weight: 400;     background: url("../images/icons/message/alert.png") no-repeat scroll 15px center #FBDD96;
+    border: 1px solid #E5AF51;
+    color: #CA6B1C;

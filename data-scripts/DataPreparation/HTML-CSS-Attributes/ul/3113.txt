@@ -1,0 +1,7 @@
+	margin-top: 10px;
+	padding: 0;
+	list-style: none;
+	text-align: left;
+	border-bottom: 1px dotted #eee;
+	font-size:11px;
+	width: 50px;

@@ -1,0 +1,5 @@
+ background-color: #CBCBCB; 
+.carousel-indicators li,
+.carousel-indicators .active {
+	width: 20px;
+	height: 20px;

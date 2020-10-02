@@ -1,0 +1,4 @@
+	padding-bottom: 68.125%;
+	position: relative;
+	overflow: hidden;
+padding-bottom: 975px;

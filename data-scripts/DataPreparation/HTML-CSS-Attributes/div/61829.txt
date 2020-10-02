@@ -1,0 +1,14 @@
+  top: 25%;
+  z-index: 1001;
+  position: absolute;
+  right: -170px;
+    right: -50px;
+  left: -170px;
+    left: -50px;
+  background: none !important;
+  color: #b3b3b3;
+  font-size: 30px;
+  padding: 12px;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;

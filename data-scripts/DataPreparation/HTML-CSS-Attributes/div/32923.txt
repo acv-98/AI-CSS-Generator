@@ -1,0 +1,10 @@
+	background:url(../images/search-bg.png) no-repeat top left;
+	height:34px;
+	width:229px;
+	float:left;
+	padding:20px 17px 14px 17px;
+	display:block;
+	border:1px solid #D1D1D1;
+	color:#D1D1D1;
+	text-align:center;
+	cursor:pointer;

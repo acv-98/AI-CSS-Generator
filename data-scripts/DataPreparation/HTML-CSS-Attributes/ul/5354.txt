@@ -1,0 +1,1 @@
+ list-style:none; float:right; width:auto; margin:0; padding:0 4px; float:left; display:block; padding:2px 6px; color:#fff; text-decoration:none; background-color:#c69c6d;

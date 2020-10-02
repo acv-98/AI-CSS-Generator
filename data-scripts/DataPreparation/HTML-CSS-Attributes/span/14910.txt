@@ -1,0 +1,2 @@
+	background: url(../images/img-sprite.png) no-repeat -20px 0px;
+	left: 15px;

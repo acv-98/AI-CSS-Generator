@@ -1,0 +1,4 @@
+ max-width: 100%;  max-width: 97% !important; height: auto !important; width: auto;  max-width: 96% !important; border:0; padding:1.5%; 	margin: 1px 0 0 1px;
+	outline: 1px solid #e7e7e7;
+	border: 10px solid #fff;
+	padding: 9px;

@@ -1,0 +1,9 @@
+  border-radius: 50%;
+  position: absolute;
+  left: -10px;
+  top: -25px;
+  background: #fff;
+  padding: 5px;
+  z-index: 10;
+  width: 70px;
+  height: 70px;

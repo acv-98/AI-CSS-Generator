@@ -1,0 +1,3 @@
+  padding: 7em 0;
+  clear: both;
+    padding: 3em 0;

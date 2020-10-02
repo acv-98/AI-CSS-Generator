@@ -1,0 +1,2 @@
+ border-radius:16px; -moz-border-radius:16px; -webkit-border-radius:16px;
+ margin:0; padding:0; margin:0 auto; padding:0 40px; width:890px; padding:24px 0; padding:32px 0 24px 40px; width:930px; background-color:#1463b0; border:1px solid #3f83c0; float:left; width:622px; margin:0 6px 24px; padding:4px; border:1px solid #b6cee6; float:left; margin-right:12px; margin:0; padding:0 0 16px 0; float:right; width:276px; margin:0; padding:16px 0 0 0; border:1px solid #dedede; margin:10px 16px 0 0; padding:0; float:left;

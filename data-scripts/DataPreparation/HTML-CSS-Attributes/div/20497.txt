@@ -1,0 +1,7 @@
+	background-size: 100% 100%;
+	padding:6% 0;
+	font-family: 'Raleway', sans-serif;
+ 	font-size: 1.1em;
+ 	color:#fff;
+ 	font-weight: 600;
+		background-size: 100% 100%;

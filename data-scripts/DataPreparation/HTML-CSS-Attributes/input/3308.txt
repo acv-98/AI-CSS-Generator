@@ -1,0 +1,9 @@
+border: medium none;
+color: #FFD500;
+cursor: pointer;
+font-size: 18px;
+padding: 10px 40px;
+background:#FFD500;color:#000;.tooltipster-default {
+	border-radius: 5px; 
+	background: #4c4c4c;
+	color: #fff;

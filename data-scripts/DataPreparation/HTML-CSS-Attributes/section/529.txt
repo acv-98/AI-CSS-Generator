@@ -1,0 +1,1 @@
+ width: 678px; float: left; padding-left: 3px;   padding-bottom: 15px;  padding-bottom: 20px;  padding-bottom: 0;  background: url(images/box.png) repeat 0 0; padding: 20px 30px 20px 27px; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; 

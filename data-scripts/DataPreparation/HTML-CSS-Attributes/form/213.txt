@@ -1,0 +1,11 @@
+	color: #848484;
+	width: 251px;
+	height: 33px;
+	padding: 0 7px;
+	font-size: 14px;
+	border: none;
+	font-family: "SortsMillGoudyItalic";
+	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	-moz-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	background: #f4f4f4 url(../images/search.png) 240px center no-repeat;

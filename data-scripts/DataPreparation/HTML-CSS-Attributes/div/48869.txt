@@ -1,0 +1,6 @@
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+	margin-right:20px;

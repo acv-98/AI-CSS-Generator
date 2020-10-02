@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	height:62px;
+	background:#73808c url(../images/menu_bg.gif) repeat-x left top;
+	list-style:none;
+	float:left;
+	display:block;
+	font-size:14px;
+	line-height:18px;
+	font-weight:normal;
+	color:#fff;
+	text-decoration:none;
+	border-left:1px solid #a8b1ba;
+	border-right:1px solid #667381;

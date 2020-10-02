@@ -1,0 +1,12 @@
+	display: block;
+	width: 105px;
+	height: 22px;
+	padding: 3px 0 0 0;
+	
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	background: url(images/button_01.jpg) no-repeat;
+	margin: 0 auto;

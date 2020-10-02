@@ -1,0 +1,8 @@
+    position: absolute;
+    left: 0;
+    top:0;
+    width:100%;
+    float: left;
+    color: #fff;
+    padding: 55px 0px 0px 60px;
+    text-align: right;   

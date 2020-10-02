@@ -1,0 +1,1 @@
+font-family: 'open_sansitalic'; background:url(../images/colon.png) no-repeat left top; font-size:18px; padding-top:20px;width:100%;

@@ -1,0 +1,8 @@
+	position: absolute;
+	display: block;
+	width: 39px;
+	height: 39px;
+	opacity: 1
+	background: url(../images/prev_bg.gif) left top no-repeat;
+	right: 48px;
+	top: 50px;

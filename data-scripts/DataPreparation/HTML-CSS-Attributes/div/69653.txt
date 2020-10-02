@@ -1,0 +1,2 @@
+
+color:#888888; background-color:#EEEEEE;

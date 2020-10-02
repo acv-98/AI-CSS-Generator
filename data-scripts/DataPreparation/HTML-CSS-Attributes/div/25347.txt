@@ -1,0 +1,4 @@
+    background: none
+    background-image: url(../images/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: right top;

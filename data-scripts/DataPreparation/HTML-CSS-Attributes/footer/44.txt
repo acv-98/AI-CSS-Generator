@@ -1,0 +1,16 @@
+    border-color: #3197d6;
+    color: rgba(255, 255, 255, 1) !important;
+    background-image: none;
+    background-color: #000000;
+    -webkit-box-shadow: inset 0px 0px 0px 1px #333333;
+    -moz-box-shadow: inset 0px 0px 0px 1px #333333;
+    box-shadow: inset 0px 0px 0px 1px #333333;
+        margin: 2rem 0;
+    display: table;
+    font-size: 18px;
+    line-height: 1;
+    padding: 0 0 0.5rem;
+    opacity: 0.1;
+    list-style: none;
+    margin-bottom: 0.3rem;
+    max-width: 290px;

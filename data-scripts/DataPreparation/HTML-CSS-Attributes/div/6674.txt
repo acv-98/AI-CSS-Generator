@@ -1,0 +1,11 @@
+	width:893px;
+	padding:10px 10px 5px 15px;
+	background:url(images/bg_mid_fade.png) repeat-x bottom;
+	overflow:auto;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	margin:10px 0 0;
+	float:left;
+	border:1px solid #ccc;
+	padding-bottom:5px;
+	font-size:25px;

@@ -1,0 +1,17 @@
+	width: 99%;
+	position: absolute;
+	text-align: center;
+	left: 0px;
+	bottom: 50px;
+	z-index: 2000;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	display: inline-block;
+	height:30px;
+	background: url(../images/slide-pagenat.png) no-repeat 10px 1px;
+	margin: 3px;
+	cursor: pointer;
+	content: '';
+	top: 1px;
+		bottom: 55px;
+		width:100%

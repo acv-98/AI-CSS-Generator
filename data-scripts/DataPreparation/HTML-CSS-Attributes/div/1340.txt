@@ -1,0 +1,10 @@
+	width: 380px;
+	height: 63px;
+	float: left;
+	padding-top:40px;
+	font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+	font-weight: normal;
+    font-size: 54px;
+	letter-spacing: -1px;
+	color: #f4f4f4;
+	margin: 0px;

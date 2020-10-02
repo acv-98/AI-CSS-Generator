@@ -1,0 +1,3 @@
+	padding: 40px 0;
+	background-color: #03C462;
+	color: #FFF;

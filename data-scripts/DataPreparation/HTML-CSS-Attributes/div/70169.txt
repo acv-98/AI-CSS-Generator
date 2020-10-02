@@ -1,0 +1,14 @@
+width: 142px;font-size: 11px;line-height: 17px;font-size: 8px;margin-left: 3px;
+padding: 5px;
+  margin-left: -3px;
+  font-size: 10px;
+  padding: 5px;
+text-decoration:underline;margin-left:-15px;.single_blog_content_container > h2{border-top: 1px solid #35A1FB;
+color: #505050;
+padding-left: 10px;
+padding-top: 15px;
+color: #35A1FB;color:#505050.single_blog_content_container > h2 > a{color: #505050;
+padding-right: 10px;
+font-weight: bold;
+background:#E9F5FFborder: 1px solid #ddd;width:246px;.home_content_sidebar{
+width: 194px;font-size:12px;

@@ -1,0 +1,5 @@
+    display: inline-block
+    position: relative;
+    margin-bottom: 18px;
+    width:100%;
+    opacity: 1;

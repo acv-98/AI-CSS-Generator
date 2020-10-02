@@ -1,0 +1,11 @@
+	float: left;
+	width: 204px;
+	margin-right: 40px;
+	font-family:'Museo700';
+	font-size:18px;
+	font-weight:normal;
+	margin-bottom:5px;
+	padding-left:25px;
+	background:url("../images/sprite.png") no-repeat scroll -128px -170px transparent;
+	color: #6a6a6a;
+	line-height: 15px;

@@ -1,0 +1,13 @@
+  color: #5cb85c;
+  border-color: #5cb85c;
+  background-color: #eaf6ea;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 0;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.25;
+  text-align: center;
+  border-radius: 0.25rem;
+  margin-top: 0;
+  border-right: 0;
+  border-left: 0;

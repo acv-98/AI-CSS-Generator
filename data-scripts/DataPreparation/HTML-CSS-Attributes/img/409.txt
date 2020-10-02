@@ -1,0 +1,15 @@
+	float:left;
+	margin-right:12px;
+	padding:8px;
+	background:#F7F7F7;
+	border:1px solid #CCC;
+	-moz-border-radius-topleft:8px;
+	-khtml-border-radius-topleft:8px;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	-khtml-border-radius-bottomright:8px;
+	-webkit-border-bottom-right-radius:8px;
+	height:164px;
+	width:152px;
+	padding-top:6px;
+	text-align:center;

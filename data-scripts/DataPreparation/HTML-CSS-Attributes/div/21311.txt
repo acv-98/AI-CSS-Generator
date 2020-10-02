@@ -1,0 +1,6 @@
+  color: #b99769 !important;
+  background: #b99769;
+  border-bottom: none;
+  margin-bottom: 0;
+  display: none;
+  padding-left: .625rem;

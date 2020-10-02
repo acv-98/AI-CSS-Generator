@@ -1,0 +1,1 @@
+ float: left; width: 435px;  list-style: none; list-style-position: outside;  padding-left: 19px; 

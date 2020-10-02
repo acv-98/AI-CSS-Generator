@@ -1,0 +1,12 @@
+	width:220px;
+	padding-top:20px;
+	list-style:none;
+	display:block;
+	float:left;
+	padding-bottom:10px;
+	background:url(../images/login-field-bg.png) no-repeat;
+	height:35px;
+	border: 0 solid green;
+	color: #8B8B8B;
+	padding-left: 10px;
+	line-height:30px;

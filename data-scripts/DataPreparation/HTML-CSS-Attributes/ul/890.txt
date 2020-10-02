@@ -1,0 +1,7 @@
+	text-decoration:none
+	line-height:1.23em;
+	padding:8px 0;
+	background:url(../images/pic-1.gif) 0 bottom repeat-x
+	display:inline-block;
+	color:#262626;
+	padding-left:10px;

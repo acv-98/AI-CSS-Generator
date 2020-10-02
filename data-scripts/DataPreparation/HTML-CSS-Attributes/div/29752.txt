@@ -1,0 +1,5 @@
+background-color: transparent;position: fixed;width: 100%;height:100%;top: 0px;right: 0px;z-index:2;
+visibility: hidden;text-align:center;opacity: 0;transition: all 0.300s;transition-delay: 0s;.overmain {visibility: visible;background-color:rgba(255,255,255,0.8);opacity: 1; z-index:60; top:0;padding-top:10%;transition: all 0.400s;
+list-style-type: none; text-align:center; margin:0; padding:0; width:100%; display:inline-block;font-family: 'Oranienbaum', serif; text-transform:uppercase; font-size:30px; margin-bottom:30px; font-weight:400; position:relative;z-index:1;  transition: all 0.400s;transition-delay: 0.370s; position:relative; ; .main-menu ul li:after {content: "";position:absolute;bottom:52%; left:0; right:0; margin:0 auto;width:0; height:1px;background:#222222;
+ width:15%;  width:15%;text-decoration: none; color:#222222; position:relative; z-index:2; display:block	Main Wrapper
+ width:50%

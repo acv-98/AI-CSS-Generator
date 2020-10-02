@@ -1,0 +1,9 @@
+        width: 100%;
+		padding: 20px 15px;
+		margin-bottom: 30px;
+	font-size: 14px;
+    margin: 0;
+    padding: 5px 0 15px;
+    border: 1px solid #ededed;
+    font-size: 21px;
+    line-height: 1 !important;

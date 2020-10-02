@@ -1,0 +1,4 @@
+    padding-top: 84px;
+    font-size:40px;
+    text-transform: uppercase;
+    color:#fff;

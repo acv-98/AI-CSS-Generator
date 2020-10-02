@@ -1,0 +1,5 @@
+	color: #394346;
+	font-size: 1em;
+	line-height: 1.5em;
+	margin: 0;
+	width: 80%;

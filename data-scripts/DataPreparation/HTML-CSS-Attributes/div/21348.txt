@@ -1,0 +1,6 @@
+  position: relative;
+  width: 55rem;
+  height: auto;
+  z-index: 1;
+    width: 100%;
+    height: auto;

@@ -1,0 +1,5 @@
+    width: 22px;
+    height: 22px;
+    float: left;
+    margin: 1px;
+ width: 22px; height: 22px;     background: url("../images/icons/socials-square-small/bookmark.png") no-repeat scroll left bottom transparent;

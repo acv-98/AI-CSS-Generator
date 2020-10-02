@@ -1,0 +1,8 @@
+    background: none !important;
+    -webkit-filter: progid:none !important;
+            filter: progid:none !important;
+    opacity: 1;
+      margin-left: 30px;
+        margin-left: 0;
+        width: 30px;
+        height: 30px

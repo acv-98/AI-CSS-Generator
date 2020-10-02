@@ -1,0 +1,6 @@
+		background:url(../images/readmore.gif) no-repeat;
+		width:88px;
+		height:22px;
+		border:0;
+		float:right;
+		padding-top:10px;

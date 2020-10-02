@@ -1,0 +1,16 @@
+    clear:both;
+    height:18px;
+    margin:0 auto;
+    margin-bottom:20px;
+    text-align:center;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    display:none;
+    background:url('images/bg-pagination.png') top repeat-x;
+    color:#918e8e;
+    line-height:17px;
+    margin-right:4px;
+    padding:0 5px;
+    background-position:0 -36px;
+    text-decoration:none;

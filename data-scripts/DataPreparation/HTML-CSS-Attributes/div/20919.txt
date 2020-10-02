@@ -1,0 +1,1 @@
+ display: block;  height: auto;  display: flex;  height: 348px; 

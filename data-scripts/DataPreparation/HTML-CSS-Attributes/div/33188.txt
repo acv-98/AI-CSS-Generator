@@ -1,0 +1,32 @@
+margin: 0 !important;  .hidden-desktop {
+    display: inherit !important;
+margin-bottom: 0 !important;    -webkit-transform: translate3d(0, 0, 0);
+    clear: both;
+    float: none;
+    margin: 0 0 10px;
+    margin-bottom: 2px;
+    color: #777777;
+    text-shadow: none;
+    padding: 9px 15px;
+    font-weight: bold;
+    -webkit-border-radius: 3px;
+       -moz-border-radius: 3px;
+            border-radius: 3px;
+border-right: none !important;margin: 0 10px !important; margin-bottom: 3px !important; background: #3e3c4a  !important ;color: #fff !important ; padding: 5px 10px !important;font-size: 15px !important; line-height: 24px !important;  .nav-collapse .nav > li > a:hover,
+  .nav-collapse .dropdown-menu a:hover,
+    background-color: #ee5d4b !important; color: #fff !important;
+    margin-top: 5px;
+    position: static;
+    top: auto;
+    left: auto;
+    max-width: none;
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+            box-shadow: none;
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
+    border-top-color: #111111;
+    border-bottom-color: #111111;
+    margin-left: 0;
+    height: 0;
+    overflow: hidden;

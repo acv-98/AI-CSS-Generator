@@ -1,0 +1,14 @@
+  position: relative;
+  width: 50px; 
+  height: 28.87px;
+  background-color: #1F2021;
+  margin: 14.43px auto;
+  content: "";
+  left: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  bottom: 100%;
+  border-bottom: 14.43px solid #1F2021;
+  top: 100%;
+  border-top: 14.43px solid #1F2021;
+  line-height: 27px;

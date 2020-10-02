@@ -1,0 +1,12 @@
+	background-color: #e9eaed;
+	position: relative;
+	border: 0;
+	margin: 0;
+	padding: 100px 15% 0;
+	color: #000;
+	font: 27px "Source Sans Pro";
+	display: block;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 400;
+	margin-top: 30px;

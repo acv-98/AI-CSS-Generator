@@ -1,0 +1,6 @@
+	clear:both;
+	line-height:1px;
+	height:1px;
+	display:block;
+	visibility:hidden;
+	content:".";

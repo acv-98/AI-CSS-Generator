@@ -1,0 +1,6 @@
+	width:1680px;
+	height:506px;
+	overflow:hidden;
+	position:relative;
+	left:50%;
+	margin-left:-840px;

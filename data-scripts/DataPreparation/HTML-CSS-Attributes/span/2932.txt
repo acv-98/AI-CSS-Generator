@@ -1,0 +1,6 @@
+ font-size: 22px; font-family: 'Open Sans', sans-serif; color: #a5a4a4; font-style: normal; font-weight: 400;     font-family: 'Open Sans', Verdana, Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 22px;
+ font-size: 15px !important; 

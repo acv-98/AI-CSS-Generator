@@ -1,0 +1,10 @@
+	padding:0;
+	margin:0;
+	background:#fff url(images/main_bg.gif) top center repeat-x;
+	float:left;
+	width:620px;
+	border:1px solid #eaecec;
+	background-color:#fff;
+	border-bottom:2px dashed #cbcbcb;
+	color:#9a9a9a;
+	text-decoration:none;

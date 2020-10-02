@@ -1,0 +1,5 @@
+	margin-top:-20px;
+	line-height:1.538em;
+	padding-top:20px;
+	display:block;
+	padding-bottom:6px;

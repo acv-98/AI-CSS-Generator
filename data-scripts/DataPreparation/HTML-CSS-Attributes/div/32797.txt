@@ -1,0 +1,10 @@
+	background-color: rgba(104, 102, 96, 0.5);
+	display: inline;
+	float: left;
+	padding: 30px 40px 10px;
+	width: 100%;
+	color: #fafafa;
+	font-size: 35px;
+	margin-bottom: 35px;
+	  margin-bottom: 30px;
+	  font-size: 20px;

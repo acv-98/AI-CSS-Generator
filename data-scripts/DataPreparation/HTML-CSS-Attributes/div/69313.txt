@@ -1,0 +1,8 @@
+	font-size: 24px;
+	background: #07203e;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#07203e', endColorstr='#0b294b', GradientType=0);
+	padding-top: 95px;
+	font-weight: 400;
+	line-height: 56px;
+	margin-bottom: 30px;
+	color: #fff;

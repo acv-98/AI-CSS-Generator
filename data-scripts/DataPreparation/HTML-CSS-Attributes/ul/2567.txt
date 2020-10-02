@@ -1,0 +1,8 @@
+	padding:0 0 20px 0;
+	display:block;
+	background:url(../images/list-1-marker.gif) no-repeat 0 6px;
+	line-height:18px;
+	color:#82a9b5;
+	font-size:11px;
+	text-decoration:none;
+	text-transform:uppercase;

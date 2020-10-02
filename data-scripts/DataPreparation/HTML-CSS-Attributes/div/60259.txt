@@ -1,0 +1,19 @@
+		width: 712px; 
+		margin-right: 24px;
+ margin-right: 0px; 	
+	#contactForm{ 
+		margin-bottom: 20px;
+ font-size: 13px;   font-size: 13px;  background: #ea4c88 url(../img/plus.png) center center no-repeat; #posts-list .feature-image,
+	display: block;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	padding: 24px 0px 50px 0px;
+	float: left;
+	-webkit-box-shadow: 2px 2px 0px rgba(0,0,0,.2); 
+	-moz-box-shadow: 2px 2px 0px rgba(0,0,0,.2);
+	box-shadow: 2px 2px 0px rgba(0,0,0,.2); 
+	opacity: 0.15;
+	max-width: 100%;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;

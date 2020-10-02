@@ -1,0 +1,4 @@
+	width: 100%;
+	position: relative;
+	opacity: 0.9;
+	background-color:#000;

@@ -1,0 +1,11 @@
+	float: left;
+	margin-top: -1px;
+	margin-right: 20px;
+	width: 410px !important;
+	font-size: 24px;
+	line-height: 22.9px;
+	font-family: "Times New Roman", Times, serif;
+	color: #e2827e;
+	text-align: center;
+	padding-top: 36px;
+	margin-bottom: 6px;

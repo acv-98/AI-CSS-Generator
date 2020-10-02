@@ -1,0 +1,7 @@
+	text-align:center;
+	padding-bottom:80px;
+	margin:20px 0;
+	list-style:none;
+	display:inline-block;
+	margin-left:0;
+	opacity:0.8;

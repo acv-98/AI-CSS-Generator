@@ -1,0 +1,1 @@
+  background: url(../img/filter-arrow.png) no-repeat center top;

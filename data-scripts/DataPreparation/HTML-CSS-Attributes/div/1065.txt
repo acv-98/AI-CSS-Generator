@@ -1,0 +1,5 @@
+    color:#fd634e;
+    font-size:0.875rem;
+    text-transform: uppercase;
+    margin-bottom:0;
+    font-family: 'open_sanslight';

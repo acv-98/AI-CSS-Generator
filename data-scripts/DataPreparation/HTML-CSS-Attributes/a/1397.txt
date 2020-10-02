@@ -1,0 +1,10 @@
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	width: 56px;
+	background: url(../images/prevnext.png) 0 0 no-repeat;
+	height: 112px;
+	position: absolute;
+	display: block;
+	bottom: 49px;
+	z-index: 999;
+	left: 45px;
+	opacity: 0.8;

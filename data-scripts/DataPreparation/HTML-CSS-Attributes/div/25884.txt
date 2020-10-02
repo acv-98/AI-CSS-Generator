@@ -1,0 +1,10 @@
+	width:970px;
+	padding:0;
+	margin:0 auto;
+	background:url(images/text_bg.jpg) center no-repeat;
+	height:406px;
+	float:right;
+	font:bold 24px Arial, Helvetica, sans-serif;
+	color:#feffff;
+	line-height:1.6em;
+	text-decoration:underline;

@@ -1,0 +1,4 @@
+	overflow: hidden;
+	height: 11px;
+	margin-bottom: 40px;
+	background: url(images/img08.jpg) repeat-x left top;

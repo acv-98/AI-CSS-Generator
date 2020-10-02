@@ -1,0 +1,2 @@
+						 													 border-style:solid;
+																			 border-color:#242424;

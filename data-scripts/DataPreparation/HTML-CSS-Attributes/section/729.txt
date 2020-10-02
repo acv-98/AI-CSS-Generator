@@ -1,0 +1,5 @@
+    padding: 100px 0;
+    font-weight: bold !important;
+    color: #212121;
+    letter-spacing: 0 !important;
+    font-family: 'Source Sans Pro', sans-serif;

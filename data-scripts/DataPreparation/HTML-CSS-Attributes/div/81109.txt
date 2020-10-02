@@ -1,0 +1,16 @@
+	color:#4eb7c0;
+  width: 1230px;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+  background: #fff;
+  letter-spacing: -1.5px;
+.box .icon {
+  float: left;
+  margin-bottom: 20px;
+  margin-left: 100px;
+  text-decoration: none;
+  font-weight: 700;
+  color: #4b5056;
+    width: 1000px;
+    margin: 0 auto;

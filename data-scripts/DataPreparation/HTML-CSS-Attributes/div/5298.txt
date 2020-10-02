@@ -1,0 +1,8 @@
+	width:88%;
+	margin:0 auto;
+	float: left;
+	margin-right:15px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-o-border-radius: 100px;

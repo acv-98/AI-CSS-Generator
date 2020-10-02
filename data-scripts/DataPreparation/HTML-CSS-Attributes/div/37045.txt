@@ -1,0 +1,11 @@
+  	position: absolute;
+    top:50%;
+    left:-50px;
+    z-index: 10;
+	background-image: url("../images/img-sprite.png");
+	width: 72px;
+	height: 128px;
+	float: left;
+	background-position:-10px -243px;
+	background-repeat: no-repeat;
+	cursor: pointer;

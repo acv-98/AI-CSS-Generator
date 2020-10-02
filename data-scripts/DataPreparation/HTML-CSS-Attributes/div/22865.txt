@@ -1,0 +1,11 @@
+  font-size: 1.3em;
+  font-weight: 600;
+  margin-bottom: 10px;
+  max-width: 50px;
+  -webkit-border-radius: 25px;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: 25px;
+  -moz-background-clip: padding;
+  border-radius: 25px;
+  background-clip: padding-box;
+  margin-right: 10px;

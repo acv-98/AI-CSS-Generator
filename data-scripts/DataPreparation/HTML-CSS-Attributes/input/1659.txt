@@ -1,0 +1,7 @@
+	width:92%;
+	padding:6px 4% 6px 4%;
+	border:1px solid #d5d5d5;
+	color: #939393;
+	font-size:12pt;
+	font-family: 'HelveticaLTStdRoman', Arial, Helvetica, sans-serif;
+	margin-bottom:3px;

@@ -1,0 +1,5 @@
+ background-color: #f3f2e0; 
+.tm-bg-gold-1,
+.tm-bg-gold-2,
+.tm-bg-gold-3 {
+	color: #996600;

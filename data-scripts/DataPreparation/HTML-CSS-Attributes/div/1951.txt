@@ -1,0 +1,14 @@
+	position:relative;
+	background:#fff url(loading.gif) no-repeat 50% 50%;
+    margin-bottom:10px;
+	top:0px;
+	left:0px;
+	display:none;
+	border:0;
+	width:950px;
+	margin:auto;
+	height:auto;
+	overflow: hidden;
+	max-width: none;
+	padding:0;
+	z-index:6;

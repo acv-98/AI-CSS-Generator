@@ -1,0 +1,4 @@
+	float: left;
+	width: 253px;
+	margin: 0;
+	font-size: 13px;

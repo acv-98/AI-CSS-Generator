@@ -1,0 +1,5 @@
+	display:inline-block; .clear:after {
+	visibility:hidden;
+	clear:both;
+	height:0;
+	content: " ";

@@ -1,0 +1,27 @@
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	display: inline-block;
+	list-style: none;
+	cursor: pointer;
+	width: 70px;
+	height: 70px;
+	background: #26292E;
+	
+	-webkit-transition: all 400ms ease-out 0s;	
+	   -moz-transition: all 400ms ease-out 0s;
+		 -o-transition: all 400ms ease-out 0s;
+		    transition: all 400ms ease-out 0s;
+		  
+	-webkit-transform: rotateY(0deg);
+	   -moz-transform: rotateY(0deg);
+		-ms-transform: rotateY(0deg);
+		 -o-transform: rotateY(0deg);
+			transform: rotateY(0deg);	
+	color: #55606a;
+	font-size: 32px;
+	line-height: 70px;
+	opacity: 0.3;
+	filter: alpha(opacity=30);
+	background-color: #DE5E60;	
+		    transform: rotateY(180deg);

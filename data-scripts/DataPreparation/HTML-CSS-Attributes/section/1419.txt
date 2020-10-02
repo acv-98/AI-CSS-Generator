@@ -1,0 +1,26 @@
+        
+        height: 360px
+        margin-right: 1%;
+        width: 49%;
+        padding: 13px 20px;
+        display: block;
+    margin-bottom: 50px;
+    text-align: center;
+    border: medium none;
+    color: #3f3f3f;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    background: #fff;
+    position: relative;
+    bottom: 3px;
+    content: "";
+    left: 25%;
+    border-bottom: 1px solid #ededed;
+    padding-bottom: 154px
+    opacity: 0;
+    padding-top: 42%;
+    top: 0;
+    z-index: 99
+    letter-spacing: 2px
+    margin-top: 19px;

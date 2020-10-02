@@ -1,0 +1,5 @@
+	background:#E3F6FC url(../images/searchbottom.jpg) left bottom no-repeat;
+	height:255px;
+	width: 530px;
+	margin-right: auto;
+	margin-left: auto;

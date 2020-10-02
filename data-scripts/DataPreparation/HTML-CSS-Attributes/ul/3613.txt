@@ -1,0 +1,18 @@
+	list-style:none;
+	padding:0;
+	margin:0;
+	position:relative;
+	z-index:10;
+	margin-top:20px;
+	margin-bottom:60px;
+	content:' ';
+	display:table;
+	clear:both;
+	float:left;
+	width:25%;
+	line-height:1em;
+	font-size:13px;
+	letter-spacing:4px;
+	margin-right:16px;
+	color:#333;
+		width:50%;

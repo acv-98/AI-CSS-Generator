@@ -1,0 +1,9 @@
+	border-bottom: 1px solid #DDDDDD;
+	border-top: 1px solid #FFFFFF;
+	padding:6px 0 8px;
+	padding-top:0 !important;
+	margin-top:0 !important;
+	padding-bottom:0 !important;
+	margin-bottom:0 !important;
+	font-size: 12px;
+	text-transform: capitalize;

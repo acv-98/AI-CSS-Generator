@@ -1,0 +1,4 @@
+    color:#aaa79e;
+    font-size:0.8125rem;
+    padding: 40px 20px;
+    max-width: 100%;

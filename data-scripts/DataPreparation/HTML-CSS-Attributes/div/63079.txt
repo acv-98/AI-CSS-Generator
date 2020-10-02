@@ -1,0 +1,4 @@
+	float: left;
+	width: 200px;
+	border-right: 1px solid #eee;
+	padding-right: 15px;

@@ -1,0 +1,4 @@
+   display: none;
+ display: block;    #contact-form div, #contact-form .half  {
+      width: 100%;
+      float: none !important;

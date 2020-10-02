@@ -1,0 +1,21 @@
+	background: url(../img/icons/social2/flickr.png) no-repeat 0 0;
+	background-color: #f1628b;
+margin-right: -12px; margin-top: 15px;display: block; width: 100%;border-color: #505050;.flickr-widget a {
+	float: left;
+	width: 52px;
+	height: 52px;
+	margin-left: 0px;
+	margin-right: 11px;
+	margin-bottom: 12px;
+	border: 1px solid #f6f6f6;
+	padding: 4px;
+	-webkit-transition: all 0.1s ease-in-out;
+	-moz-transition: all 0.1s ease-in-out;
+	-o-transition: all 0.1s ease-in-out;
+	-ms-transition: all 0.1s ease-in-out;
+	transition: all 0.1s ease-in-out;
+width: 54px; height: 54px;@media only screen and (min-width: 960px) {
+	
+	#wrapper {
+		width: 1000px;
+		margin: 20px auto;

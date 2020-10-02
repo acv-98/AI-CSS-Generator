@@ -1,0 +1,22 @@
+
+float:left;position:relative; .sf-menu>li {
+	position: relative;
+	float: left;
+	margin-left: 118px;
+	content: '';
+	display: block;
+	width: 1px;
+	height: 44px;
+	background-color: #efeef1;
+	left: -59px;
+	top: -16px;
+	font-size: 20px;
+	font-family: 'Glegoo', serif;
+	color: #d3cfcf;
+	line-height: 20px;
+	z-index: 999;
+	padding-top: 28px;
+	padding-bottom: 23px;
+	padding-left: 18px;
+	margin-bottom: 3px;
+	text-transform: uppercase;

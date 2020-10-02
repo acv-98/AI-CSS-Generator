@@ -1,0 +1,1 @@
+padding:250px 0 20px 0;margin-top: 70px;position: relative;position: absolute;bottom: 167px;right: -24px;padding-top: 100px;

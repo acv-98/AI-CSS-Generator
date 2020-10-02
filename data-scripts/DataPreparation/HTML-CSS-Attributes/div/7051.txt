@@ -1,0 +1,5 @@
+width:630px;
+float:left;
+	font-size:25px;
+	color:#41403b;
+	padding-bottom:20px;

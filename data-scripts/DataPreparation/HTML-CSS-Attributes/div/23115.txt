@@ -1,0 +1,13 @@
+	max-width: 320px;
+    margin: 0 auto;
+	margin: 0 auto 40px;
+	display: inline-block;
+		margin: 0 auto;
+	padding: 0 1px 30px;	
+		max-width: 680px; 
+		padding: 0 11px 30px;
+ max-width: 906px; @media only screen and (min-width: 720px) {	
+	.tm-footer { 
+		-ms-flex-direction: row; 
+			flex-direction: row; 
+ max-width: 1360px; 

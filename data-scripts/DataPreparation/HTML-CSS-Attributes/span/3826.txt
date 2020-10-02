@@ -1,0 +1,6 @@
+	font-size:30px;
+	line-height:36px;
+	color:#c0e9f5;
+	letter-spacing:-1px;
+	padding-bottom:16px;
+	display:block;

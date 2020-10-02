@@ -1,0 +1,15 @@
+        font-size: 1.125rem;
+        font-family: 'latobold';
+        color: #fff;
+        text-align: center;
+    border: 1px solid #fff;
+    display: inline-block;
+    min-width: 125px;
+    padding: .7em;
+    height: 40px;
+    font-style: normal;
+    letter-spacing: 1px;
+    margin: 0;
+    border-radius: 0;
+    margin-top: 0px;
+    background:##ffe13e;

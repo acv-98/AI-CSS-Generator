@@ -1,0 +1,7 @@
+	padding: 1.8em;
+	box-shadow: none;
+	border-radius: 0;
+	color: #666;
+	font-size: 2em;
+	font-weight: 300;
+	line-height: 1.5em;

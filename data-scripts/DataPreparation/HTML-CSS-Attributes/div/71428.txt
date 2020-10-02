@@ -1,0 +1,6 @@
+    padding: 30% 0px;
+	background: rgba(34, 34, 34, 0.85);
+	height: auto;
+	min-height: 200px;
+	padding: 12% 0 ;
+	color: #ffffff;

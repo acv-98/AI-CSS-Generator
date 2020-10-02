@@ -1,0 +1,12 @@
+		float:right;
+		font-size:9px;
+		margin-left:12%;
+		margin-top:10px;
+		position:relative;
+		width:88%;
+		min-height:100%;
+		background-color: #dfdede;
+		top:0;
+		left:-51px;
+		height: 1px;
+width:83%;width:83%;width:71%;left:7%;

@@ -1,0 +1,3 @@
+    background: url("../images/icons/small-socials/pinterest.png") no-repeat scroll 0 0 transparent;
+ background: url("../images/icons/small-socials/pinterest.png") no-repeat scroll 0 0 transparent; blockquote {
+	border: none;

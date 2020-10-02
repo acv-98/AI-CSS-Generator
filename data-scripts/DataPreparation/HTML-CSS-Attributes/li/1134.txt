@@ -1,0 +1,11 @@
+	-webkit-animation:pulse .3s;
+	animation:pulse .3s;
+	float:right;
+	position:relative;
+	margin-left:60px;
+	left:-18px;
+	border-right:solid 20px #fff;
+	border-right-color:#e4e4e4;
+		clear:both;
+		float:none;
+		margin-left:0;

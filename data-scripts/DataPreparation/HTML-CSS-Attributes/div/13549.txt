@@ -1,0 +1,2 @@
+ top: 0; left: 80px; 	top: 0;	left: 80px;	    top: 0;
+    left: 50%;

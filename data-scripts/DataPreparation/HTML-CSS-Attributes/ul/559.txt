@@ -1,0 +1,12 @@
+	color: #FFF;
+	font-size: 2em;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	margin-bottom: 3%;
+	padding: 0;
+	list-style: none;
+	border-bottom: 1px solid #B9DEEC;
+	padding-bottom:10px;
+	font-weight: 100;
+	line-height: 1.5em;
+	font-style: italic;

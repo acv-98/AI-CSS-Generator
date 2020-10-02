@@ -1,0 +1,7 @@
+    margin-bottom: 4rem;
+    text-transform:uppercase;
+    color:#7b6c63;
+    font-weight: 500;
+    font-size: 24px;
+    width: 82%;
+    line-height: 30px;

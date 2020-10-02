@@ -1,0 +1,12 @@
+  color: #a5d549;
+  border-color: #a5d549;
+  background-color: transparent;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 10px;
+  padding: 6px 12px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

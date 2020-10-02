@@ -1,0 +1,6 @@
+	position: relative;
+	float: left;
+	display: inline;
+	margin: 0 20px -545px 0;
+	width: 70px;
+	padding: 0 0 540px;

@@ -1,0 +1,5 @@
+    margin: 35px 0 45px;
+    font-size: 13px;
+    color:#444;
+    font-weight: 700;
+    padding:0px 5px;

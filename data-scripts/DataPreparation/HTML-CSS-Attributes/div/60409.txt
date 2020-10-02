@@ -1,0 +1,8 @@
+ float: right; 
+ float: left; #location .contacts h3 {
+   font: 14px/24px 'montserrat-bold', sans-serif;
+   color: #fff;
+   text-transform: uppercase;
+   letter-spacing: 1.5px;   
+   margin-bottom: 6px;
+ clear: both; 

@@ -1,0 +1,3 @@
+    display: inline;
+      font-size: 1.25em;
+font-family:"Playfair Display SC",serif;color:#333

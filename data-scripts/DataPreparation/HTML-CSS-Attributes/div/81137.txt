@@ -1,0 +1,5 @@
+    padding: 20px;
+    margin-bottom: 0;
+    border: 1px solid #DDDDDD;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;

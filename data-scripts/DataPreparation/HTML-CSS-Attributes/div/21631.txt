@@ -1,0 +1,12 @@
+	position:absolute;
+	top:50%;
+	left:8px;
+	background:transparent url(../images/gallery/nav_thumbs.png) no-repeat top left;
+	width:14px;
+	height:26px;
+	margin-top:-13px;
+	text-indent:-9000px;
+	cursor:pointer;
+	opacity:0.8;
+	right:8px;
+	background-position:top right;

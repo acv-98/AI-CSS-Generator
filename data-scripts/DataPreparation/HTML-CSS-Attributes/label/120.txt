@@ -1,0 +1,1 @@
+float:left; width:auto; font-size:9px; line-height:11px; color:#2c2c2c; padding:4px 8px 0 9px; margin:0float:left; width:auto; border:none; height:15px; padding:0; margin:2px 0 0 0

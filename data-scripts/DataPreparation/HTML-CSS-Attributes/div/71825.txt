@@ -1,0 +1,12 @@
+            width: 90px;
+            font-size: 20px;
+            margin-bottom: 10px;
+            padding: 0 3px;
+            height: 200px;
+    position: relative;
+    text-align: center;
+    opacity: 0.3;
+    color: #455a64;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    margin-top: 30px;

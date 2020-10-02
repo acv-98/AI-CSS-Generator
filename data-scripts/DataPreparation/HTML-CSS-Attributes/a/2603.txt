@@ -1,0 +1,9 @@
+	float:right;
+	background:url(../images/button2_left.gif) top left no-repeat;
+	display:inline-block;
+	font-size:14px;
+	color:#f9fffd;
+	text-decoration:none;
+	line-height:24px;
+	text-transform:uppercase;
+	padding:0 10px;

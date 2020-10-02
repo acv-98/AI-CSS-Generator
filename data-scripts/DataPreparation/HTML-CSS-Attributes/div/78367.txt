@@ -1,0 +1,3 @@
+	border-bottom:none;
+	color:#6d6d6d;
+	text-decoration:underline;

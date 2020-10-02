@@ -1,0 +1,9 @@
+	float: left;
+	width: 40px;
+	height: 40px;
+	background: #664a3f;
+	text-align: center;
+	line-height: 40px;
+	margin-top: 5px;
+	font-size: 20px;
+	color: #ffffff;

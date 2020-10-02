@@ -1,0 +1,12 @@
+	color: #919295;
+	font-size: 0.875em;
+	line-height: 1.5em;
+	float: right;
+	width: 88%;
+	display: block;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	font-style: italic;
+		width: 86%;

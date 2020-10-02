@@ -1,0 +1,7 @@
+    padding: 0.4rem;
+    background-image: none;
+    clear: both;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    position: relative;

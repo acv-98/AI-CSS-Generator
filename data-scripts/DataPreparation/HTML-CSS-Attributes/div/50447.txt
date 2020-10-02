@@ -1,0 +1,12 @@
+	width:960px;
+	height:325px;
+	position:relative;
+	bottom:8px;
+	left:24px;
+	z-index:100;
+	list-style:none;
+	display:inline;
+	float:left;
+	margin:0 6px 0 0;
+	background:#f89b20;
+	text-decoration:none;

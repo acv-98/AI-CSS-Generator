@@ -1,0 +1,38 @@
+	z-index: 990;
+	text-align: left;
+	position: relative;
+float:left;position:relative; .sf-menu>li {
+	display: block;
+	float: left;
+	font-size: 16px;
+	line-height: 36px;
+	left: -12px;
+	top: 7px;
+	height: 26px;
+	width: 1px;
+	content: '';
+	background-color: #c9c9c9;
+	margin-left: 21px;
+  float: none;
+  position: static;
+	padding-left: 20px;
+	color: #4f4d4d;
+	overflow: hidden;
+	bottom: 0;
+	padding-top: 38px;
+	padding-bottom: 42px;
+	border-style: solid;
+	border-width: 5px 5px 5px 0;
+	border-color: transparent #3d454b transparent transparent;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-top: 13px;
+		left: 155px;
+display:none !important; float: none;	#mm0{
+		font:12px/15px Arial, Helvetica, sans-serif;
+		color:#202020;
+		width:100%;
+		margin: 0 auto;
+		float: none;
+    outline: none;
+		border:2px solid #fff;

@@ -1,0 +1,1 @@
+padding:25px; font-size:30px; background:#e2826a; display:inline-block; border-radius:3px; text-align:center; margin-top:10px;

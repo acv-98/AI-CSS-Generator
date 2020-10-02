@@ -1,0 +1,8 @@
+	margin:0 auto;
+	padding:0;
+	width:930px;
+	float:left;
+	font:bold 24px Arial, Helvetica, sans-serif;
+	color:#a2cf58;
+	line-height:1.8em;
+	text-decoration:underline;

@@ -1,0 +1,6 @@
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+    margin-bottom: 20px;

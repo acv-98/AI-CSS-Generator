@@ -1,0 +1,4 @@
+	display: block;
+	float: right;
+	height: 96px;
+float:right;float:right; margin:0 0 0 10px; display:block;float:right; width:15px; height:96px; background:url("../img/sprites.png") no-repeat 0 -579px;

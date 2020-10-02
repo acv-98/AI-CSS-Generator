@@ -1,0 +1,4 @@
+  position: relative;
+  height: 800px;
+  font-weight: 300;
+    height: 700px;

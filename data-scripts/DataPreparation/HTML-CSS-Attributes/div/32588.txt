@@ -1,0 +1,6 @@
+  margin-bottom: 40px;
+  line-height: 1.1em;
+  color: #888888;
+  font-size: 14px;
+  display: block;
+  border-bottom: 1px solid #ccc;

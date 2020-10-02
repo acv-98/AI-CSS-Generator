@@ -1,0 +1,4 @@
+    width: 431px;
+    height: 431px;
+    padding: 40px 20px;
+	background-color: #f6f5f1;

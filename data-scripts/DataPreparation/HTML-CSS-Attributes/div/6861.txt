@@ -1,0 +1,2 @@
+width:100%; background:url(../images/pattern-2.jpg); overflow:hidden; margin-top:20px;width:960px; margin:0 auto; overflow:hidden; margin-top:60px; padding-bottom:60px;
+width:260px; background:#f3f3ee; float:left; padding:20px;  padding-bottom:10px; color:#50453b; font-family: 'Source Sans Pro', sans-serif; font-weight:normal; padding-top:20px;border-bottom:1px solid #dadacb; padding-top:15px;  margin-top:20px; background:url(../images/icon-more.png) no-repeat; width:16px; height:16px; padding-bottom:30px;  padding-left:20px;TOP PANEL CLASSES

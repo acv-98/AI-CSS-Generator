@@ -1,0 +1,13 @@
+        right: -1085%;
+        margin-bottom:40px;
+        display: none;
+    width:168px;
+    height: 168px;
+    margin-top:50px;
+    position: absolute;
+    top:15%;
+    float: left;
+    color: black;
+    font-size: 3rem;
+    padding: 4px 7px;
+    background: transparent;

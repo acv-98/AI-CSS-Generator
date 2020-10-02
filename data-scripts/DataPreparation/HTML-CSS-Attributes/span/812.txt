@@ -1,0 +1,6 @@
+	margin-left:3px;
+	padding:3px 8px;
+	text-decoration:none;
+	color:#939393;
+	background:#f9fbfc;
+	border:1px solid #d9e3cb;

@@ -1,0 +1,2 @@
+	color:#a09d99;
+	text-decoration:none

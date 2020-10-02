@@ -1,0 +1,23 @@
+    position: absolute;
+    background-color: #cc3467;
+    width: 90%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+ position: relative; .tm-float-section-body {
+    top: 80px;
+    padding: 40px;
+        position: static;
+        background-color: rgba(0,0,0, 0.7);
+        padding-top: 50px;
+        padding-bottom: 50px;
+        height: 200px;
+ margin-top: -110px;     .tm-fa-icon {
+        margin-top: 20px;
+        margin-bottom: 10px;
+ height: 220px;     .tm-float-section-body,
+    .tm-float-section-body .col-lg-12 {
+        padding-left: 0;
+        padding-right: 0;

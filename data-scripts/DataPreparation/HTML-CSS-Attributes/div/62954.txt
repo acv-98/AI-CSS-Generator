@@ -1,0 +1,11 @@
+	width:206px;
+	float:right;
+	background:url(../images/bg_box1.jpg) top repeat-x #1e749a;
+	color:#fff;
+	margin-top:32px;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	padding:25px 24px 4px;

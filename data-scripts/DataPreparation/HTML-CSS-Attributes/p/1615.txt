@@ -1,0 +1,9 @@
+	line-height: 1.8; 
+.tm-news-link {	
+    margin-right: 0;
+    margin-left: auto;
+    -ms-flex-item-align: end;
+        -webkit-align-self: flex-end;
+            align-self: flex-end;
+ line-height: 1.6; 		font-size: 0.9em; 
+		margin-bottom: 0.5em;

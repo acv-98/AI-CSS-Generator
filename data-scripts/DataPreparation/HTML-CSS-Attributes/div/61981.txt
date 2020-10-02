@@ -1,0 +1,2 @@
+	background:url(../images/testimonials_bg.gif) 0 4px no-repeat;
+	padding-left:50px

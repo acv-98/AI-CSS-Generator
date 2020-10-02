@@ -1,0 +1,5 @@
+            font-size: 13px;
+            font-weight: 800;
+    font-family: "Raleway", sans-serif;
+    color: #fff;
+    text-decoration: none;

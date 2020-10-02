@@ -1,0 +1,2 @@
+ height: 76px; position:relative; margin-top: -7px; opacity: 1;  height: 76px; 
+ width: 75px; height: 65px;  width: 75px; height: 65px; 

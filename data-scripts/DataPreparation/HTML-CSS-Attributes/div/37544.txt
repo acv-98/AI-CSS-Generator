@@ -1,0 +1,6 @@
+    border-color: #7ae0ed;
+    margin-bottom: 38px;
+    background-color: #7ae0ed;
+    background-image: url(../images/penc_icon.png);
+    top: 42px;
+    position: relative;

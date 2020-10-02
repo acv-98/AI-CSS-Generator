@@ -1,0 +1,16 @@
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    padding: 5px;
+    color: #fff;
+    position: absolute;
+    text-transform: uppercase;
+    font-weight: 600;
+    transform: rotate(351deg);
+    -webkit-transform: rotate(351deg);
+    -moz-transform: rotate(351deg);
+    -o-transform: rotate(351deg);
+    -ms-transform: rotate(351deg);
+margin-bottom: 0px;color: #fff;.bigtag {
+    top: 10px;
+    left: 400px;

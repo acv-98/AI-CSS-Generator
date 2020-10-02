@@ -1,0 +1,6 @@
+  font-size: 15px;
+  color: #273f59;
+  font-family: Roboto-Light;
+  font-weight: bold;
+  padding-top: 30px;
+  display: inline-block;

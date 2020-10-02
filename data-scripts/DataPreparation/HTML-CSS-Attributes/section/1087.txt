@@ -1,0 +1,15 @@
+	padding-left: 0px;
+	padding-right: 5px;
+	padding-top: 175px;
+	padding-bottom: 175px;
+	text-align: left;
+	background-image: url(../img/banner-bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	min-height: 680px;
+	height: 680px;
+		margin-top: 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+		text-align: center;

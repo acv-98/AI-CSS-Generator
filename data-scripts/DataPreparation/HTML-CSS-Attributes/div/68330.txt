@@ -1,0 +1,5 @@
+  height: 370px;
+  max-width: none !important;
+    height: 250px;
+  display: none;
+  margin-top: 72px;

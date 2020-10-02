@@ -1,0 +1,17 @@
+    margin-bottom: 20px !important;
+    float: left;
+    width: 100%;
+  text-align: center;
+  padding: 1em 2em;
+  background: #7ee383;
+  color: #ffffff;
+  font-size: 70px;
+  position: relative;
+  display: inline-block;
+  top: 2px;
+  margin-left: -7px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border: 2px solid #ccc;
+  border-top: none;
+  list-style: none;

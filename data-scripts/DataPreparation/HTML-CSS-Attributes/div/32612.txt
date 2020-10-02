@@ -1,0 +1,14 @@
+    font-size: 30px;
+    margin-bottom: 30px;
+    display: inline-block;
+    list-style: none;
+    color: #60606e;
+    padding: 0 10px;
+    -webkit-transition: all .2s ease-in-out .2s;
+    transition: all .2s ease-in-out .2s;
+    text-decoration: none;
+    background-color: #425BB5;
+    float: left;
+        padding: 0 2px;
+        list-style: none;
+        margin: 10px 0;

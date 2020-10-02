@@ -1,0 +1,10 @@
+	margin-top:50px;
+    width: 32%;
+    padding: 14px;
+    border: none;
+    border-radius: 6px 0px 0px 6px;
+	outline: none;
+	font-size:20px;	
+    margin-left: -4px;
+    background: #FF3366;
+    color: #fff;

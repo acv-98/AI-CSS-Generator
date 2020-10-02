@@ -1,0 +1,5 @@
+  font-size: 40px;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 0;
+   margin-bottom: 40px;

@@ -1,0 +1,3 @@
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;

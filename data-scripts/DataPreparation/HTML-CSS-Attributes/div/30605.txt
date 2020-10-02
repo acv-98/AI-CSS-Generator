@@ -1,0 +1,2 @@
+.blog_fashion_img img{
+    width:100%;

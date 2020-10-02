@@ -1,0 +1,2 @@
+width: 75%; 
+width: 74.95%; ======	MEDIA QUERIES

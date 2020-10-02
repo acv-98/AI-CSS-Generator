@@ -1,0 +1,3 @@
+	font-weight:bold;
+	color:#e58a42;
+	background:url(images/menu_hover.jpg) no-repeat left center;

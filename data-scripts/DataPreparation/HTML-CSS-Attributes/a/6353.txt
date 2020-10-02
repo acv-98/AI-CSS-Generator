@@ -1,0 +1,4 @@
+	background:url(images/nav-hover.gif) no-repeat 0 0;
+	color:#000;
+	background-position:right 0;
+	background-color:#ffcb05;

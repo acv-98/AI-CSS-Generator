@@ -1,0 +1,16 @@
+	float: left;
+	margin-right: 1.5em;
+	display: block;
+	width: 20%;
+	padding: 0em;
+	list-style: none;
+	border-top: 1px solid #E6E6E6;
+	text-decoration: none;
+	color: #525252;
+	background: url(images/img06.png) repeat;
+	border-radius: 5px;
+	letter-spacing: 0.06em;
+	line-height: none;
+	text-transform: none;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;

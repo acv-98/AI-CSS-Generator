@@ -1,0 +1,3 @@
+  position: relative;
+  height: 100%;
+  background: transparent url(images/comment-bg-left.png) no-repeat left bottom;

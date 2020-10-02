@@ -1,0 +1,11 @@
+	color: white;
+    display: table-cell;
+    font-weight: 400;
+    font-size: 1.4em;
+	vertical-align: middle;
+    width: 130px;
+    height: 40px;
+	background-color: #1a2d4b;
+ height: 50px; 		height: 100px;
+		font-size: 1.2em;
+		width: 160px;

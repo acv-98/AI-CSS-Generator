@@ -1,0 +1,4 @@
+ position: relative; padding-left: 46px;  position: absolute; left: 8px; 
+.features-tab-container ul.features-tab-labels li.current-feature {
+	background-color: #fdfdfd;
+	color: #919303;

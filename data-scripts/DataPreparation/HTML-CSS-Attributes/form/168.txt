@@ -1,0 +1,7 @@
+  -webkit-border-radius: 0;
+     -moz-border-radius: 0;
+          border-radius: 0;
+background: #364045;color: #7c878b;border: none;color: #7c878b; #custom-search-form {
+        margin:0;
+        padding: 0;
+        margin-right: -24px;

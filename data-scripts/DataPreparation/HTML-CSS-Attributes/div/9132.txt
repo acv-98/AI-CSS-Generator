@@ -1,0 +1,1 @@
+background:url(images/cont-tail-right.gif) repeat-y right top

@@ -1,0 +1,4 @@
+ background-position: 0px 0px;  background-color: #3C5A98;  background-position: -48px 0px;  background-color: #2DAAE4;  background-position: -96px 0px;  background-color: #F2600B;  background-position: -144px 0px;  background-color: #C4376B;  background-position: -192px 0px;  background-color: #006599;  background-position: -240px 0px;  background-color: #31516A;  background-position: -288px 0px;  background-color: #DA2713; 
+			ul.contact li:hover
+			{
+				top: -5px;

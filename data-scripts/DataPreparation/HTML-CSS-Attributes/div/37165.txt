@@ -1,0 +1,7 @@
+	padding:0;
+	margin:0;
+	background:url(images/main_bg.jpg) repeat-y center;
+	width:969px;
+	float:right;
+	border:1px solid #f2f2f1;
+	color:#78bbe6;

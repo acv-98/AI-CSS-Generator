@@ -1,0 +1,9 @@
+  color: #2b2929;
+  background: #a95858;
+  right: 0;
+  margin-left: 0;
+  top: 6px;
+  height: 30px;
+  width: 30px;
+  font-size: 18px;
+  line-height: 30px;

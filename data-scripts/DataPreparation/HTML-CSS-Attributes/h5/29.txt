@@ -1,0 +1,4 @@
+	color: #686868;
+	text-decoration: none;
+	font-weight: normal;
+	margin-bottom: 15px;

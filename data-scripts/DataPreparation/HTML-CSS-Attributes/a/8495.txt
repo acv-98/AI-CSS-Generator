@@ -1,0 +1,6 @@
+	background-position:top left; 
+.tp-bullets.simplebullets.round .bullet:hover,
+.tp-bullets.simplebullets.round .bullet.selected,
+.tp-bullets.simplebullets.navbar .bullet:hover,
+	background-position:bottom left; 	-	TP ARROWS 	-
+ -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";		-moz-opacity: 1;	-khtml-opacity: 1;	opacity: 1;

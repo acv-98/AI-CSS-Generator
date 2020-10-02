@@ -1,0 +1,8 @@
+	position:absolute;
+	left:116px;
+	top:46px;
+	width:312px;
+	background:url(../images/banner-1.jpg) 0 0 no-repeat;
+	height:186px;
+	margin-bottom:11px;
+	margin-left:66px;

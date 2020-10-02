@@ -1,0 +1,1 @@
+padding:28px 0padding:0 0 28px 0background-color: #efefef;border: 1px solid #efefef;color: #939393;padding: 10px;text-align: center;

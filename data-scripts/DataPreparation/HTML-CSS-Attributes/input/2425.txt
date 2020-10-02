@@ -1,0 +1,1 @@
+width:154px; height:23px; background:url(../images/btn_send.png) 0 0 no-repeat; text-indent:-10000px; display:block; margin-left:567px; border:none;

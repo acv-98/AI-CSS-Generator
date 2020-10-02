@@ -1,0 +1,1 @@
+position:absolute; top:190px; left:528px; width:205pxheight:41px; display:block; text-indent:-20000px;background:url(../images/topic1.gif) 0 0 no-repeat;background:url(../images/topic2.gif) 0 0 no-repeat;background:url(../images/topic3.gif) 0 0 no-repeat;

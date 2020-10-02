@@ -1,0 +1,2 @@
+width:960px; margin-left:20px; margin-right:20px; overflow:hidden;list-style-type:disc; padding-left:20px;list-style-type:decimal; padding-left:20px;
+list-style-type:none; padding-left:0;display:block; overflow:hidden; margin-left:10px; padding-left:0; list-style-type:none;display:block; overflow:hidden; margin-bottom:20px; padding-left:0; list-style-type:none;

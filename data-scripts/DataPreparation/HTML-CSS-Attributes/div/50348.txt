@@ -1,0 +1,4 @@
+	background:url(images/entry-shadow.png) no-repeat 0 bottom;
+	padding:0 0 22px 7px;
+	font-size:20px;
+	padding-bottom:10px;

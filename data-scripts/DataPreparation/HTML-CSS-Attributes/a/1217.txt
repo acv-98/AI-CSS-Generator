@@ -1,0 +1,13 @@
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=35);
+	display: none;
+  display: block;
+  background-color: #000;
+  position: relative;
+  box-shadow: 0 0 0 #fff;
+  -webkit-transition: 0.5s ease;
+  transition: 0.5s ease;
+  opacity: 0.35;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;

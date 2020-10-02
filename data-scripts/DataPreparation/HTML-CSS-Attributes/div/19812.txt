@@ -1,0 +1,4 @@
+  position: relative;
+  margin-left: 0 !important;
+    display: table;
+    table-layout: fixed;

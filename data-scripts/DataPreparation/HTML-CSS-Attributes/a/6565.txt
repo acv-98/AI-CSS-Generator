@@ -1,0 +1,1 @@
+color:#479c23;font-size:20pxpadding-top:107pxbackground-image:url(images/m1-act.gif)background-image:url(images/m2-act.gif)background-image:url(images/m3-act.gif)background-image:url(images/m4-act.gif)background-image:url(images/m5-act.gif)

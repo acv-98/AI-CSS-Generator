@@ -1,0 +1,1 @@
+float:left; display:inline; width:100%color:#ddd; font-size:19px; font-weight:400; margin-bottom:12px; padding-bottom:8px; text-transform:nonecontent:"-"; display:inline-block; padding-right:5pxcolor:#9e9e9emargin-top:18pxfont-size:16pxcolor:#12a3dfcolor:#12a3dfcolor:#12a3df

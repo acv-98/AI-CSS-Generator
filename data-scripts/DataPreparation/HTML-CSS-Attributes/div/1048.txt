@@ -1,0 +1,12 @@
+  border: 1px solid #f0f0f0;
+  position: relative;
+  padding: 60px;
+  -wekbit-transition: all 1000ms linear;
+  transition: all 1000ms linear;
+  background: url('../images/blog-thumb.jpg');
+   -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  color: #ffffff;
+color: #ffffff;#blog .col-md-6:nth-child(2) .blog-thumb,
+  margin-top: 72px;

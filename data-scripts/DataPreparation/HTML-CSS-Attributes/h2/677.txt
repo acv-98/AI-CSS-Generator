@@ -1,0 +1,5 @@
+	margin: 10px 0 0 15px;
+	float: left;
+	font-size: 1.3em;
+	color: #FFF;
+		margin: -4px 0 0 15px;

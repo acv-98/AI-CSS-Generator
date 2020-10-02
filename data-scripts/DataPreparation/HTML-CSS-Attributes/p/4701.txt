@@ -1,0 +1,1 @@
+padding-left:36px;background-image:url('images/icons/author.png');background-position:0px center; color:#656363; position:static; display:block; line-height:1.5em; height:auto; margin:0; font-size:0.8em; padding-left:20px; background:no-repeat left center;  height:14px; width:100px; float:left; background-image:url('images/user-icon.png');                 

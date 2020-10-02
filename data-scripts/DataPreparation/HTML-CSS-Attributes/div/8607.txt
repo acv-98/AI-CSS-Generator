@@ -1,0 +1,7 @@
+	padding: 0 0 0 5px;
+	border-left: 2px solid #10a5cd;
+	margin: 20px 0px;
+	color: #10a5cd;
+	font-weight: 400;
+	font-size: 18px;
+	text-transform: uppercase;

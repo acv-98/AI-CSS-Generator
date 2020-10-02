@@ -1,0 +1,6 @@
+	color:#444;
+	text-shadow:1px 1px 0px white,2px 2px 0px #CCC;
+	font-size:60px;
+	font-weight:normal;
+	padding:30px 0px 20px;
+	text-align:center;

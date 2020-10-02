@@ -1,0 +1,14 @@
+	height: 200px;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+	color: #ffffff;
+	background: rgba(0, 0, 0, 0.66);
+	padding-top: 25%;
+	width: 100%;
+	opacity: 0;
+	transition: all 0.5s;
+	-webkit-transform: translateY(100%);
+	transform: translateY(100%);
+	-webkit-backface-visibility: hidden;

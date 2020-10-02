@@ -1,0 +1,8 @@
+    color: #ffffff;
+    font-size: 37px;
+    vertical-align: middle;
+    margin-right: 12px;
+    padding: 30px;
+    position: relative;
+    background: #009bb7;
+    border: 10px solid #faad3b;

@@ -1,0 +1,10 @@
+	background: #B92800;
+	padding:10px;
+	text-transform:uppercase;
+	color: white;
+	float: left;
+	width: 720px;
+	font-family: 'Oswald';
+	font-size: 14px;
+	letter-spacing: 1px;
+	

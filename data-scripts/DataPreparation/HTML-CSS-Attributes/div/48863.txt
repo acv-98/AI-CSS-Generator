@@ -1,0 +1,16 @@
+	width:676px;
+	padding-right:30px;
+	float:left;
+	padding-top:25px;
+	font-size:16px;
+	background-image:url(../images/bg_h3s.png);
+	background-repeat:repeat-x;
+	background-position:left bottom;
+	padding-bottom:15px;
+	padding-left:0;
+	margin-top:0;
+	margin-right:0;
+	margin-bottom:5px;
+	margin-left:0;
+	font-weight:700;
+	letter-spacing:1px;

@@ -1,0 +1,5 @@
+		float:left;
+		margin-left:18px;
+float:none;text-align:center;	.footer .foot-nav .nav {
+		margin-right:18px;
+text-align:center;float:nonetext-align:center;float:none;font-size:8px;

@@ -1,0 +1,11 @@
+	color: #fff;
+	font-size: 12px;
+	float: right;
+	background: url(../img/black-btn-sprite.png);
+	background-repeat: no-repeat;
+	width: 88px;
+	height: 37px;
+	border: none;
+	margin-right: -4px;
+	overflow: hidden;
+background: url(../img/black-btn-sprite.png) -90px;background: url(../img/black-btn-sprite.png) 88px;

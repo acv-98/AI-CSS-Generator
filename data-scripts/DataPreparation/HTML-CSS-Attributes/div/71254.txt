@@ -1,0 +1,7 @@
+    padding: 0 15px;
+    background: #ffcb0f none repeat scroll 0 0;
+    width: 22px;
+    height: 22px;
+    bottom:-11px;
+    color: #fff;
+    border-radius: 100%;

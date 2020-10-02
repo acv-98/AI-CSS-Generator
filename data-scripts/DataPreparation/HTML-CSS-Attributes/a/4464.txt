@@ -1,0 +1,13 @@
+	background-color: #fff36b;
+	color: #8f6f05;
+	display: block;
+	font-family: 'CorbenBold';
+	font-size: 14px;
+	height: 20px;
+	line-height: 20px;
+	width: 80px;
+	border-radius: 3px;
+	margin: 13px auto 0;
+	padding: 1px 0 4px;
+	text-align: center;
+	text-decoration: none;

@@ -1,0 +1,1 @@
+margin-top:-5pxwidth:100%;overflow:hidden;vertical-align:top;padding-top:15pxfloat:left;margin:-10px 12px 0 0display:block;padding-bottom:5pxcolor:#5eb2c1;text-decoration:nonecolor:#000

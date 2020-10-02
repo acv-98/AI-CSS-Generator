@@ -1,0 +1,12 @@
+	margin:0px 0px 0px 0px;
+	display:inline-block;
+	float:left;
+	line-height:24px;
+	background:#fff;
+	font-size:16px;
+	color:#fff;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-weight:bold;
+	text-transform:uppercase;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+	padding:61px 22px 13px 23px;

@@ -1,0 +1,15 @@
+  display: none;
+  border: 1px solid #cf0606;
+ text-align: center;  margin: 0; padding: 0;  font-size: 15px; font-weight: normal; margin: 0; padding: 0;  display: block; margin: 0 auto; #topbar p {
+    margin: 0;
+    padding: 0;
+background:url("images/icons/message/error.png") no-repeat 15px center #fdd2d1;border:1px solid #f6988f;color:#883333; background-image:url('images/icons/error.png'); border:1px solid #cf0606; #content .contact-form li.success input, #content .contact-form li.success textarea, #content .contact-form li.success select,
+ padding:10px 15px 10px 55px; border:1px solid; margin:0 auto 30px; background:no-repeat 15px center; width:400px;  background-color:#fedccd; border-color:#fa8c83; color:#c82c1f; background-image:url('images/icons/error.png');  background-image: none !important;  border-radius:8px; -moz-border-radius:8px; -webkit-border-radius:8px; .hentry .features-tab-container {
+    background: #fff url(images/bg-features-tab.png) repeat-y left top;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+    -moz-border-radius: 5px;    
+    -webkit-border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    width: 700px;

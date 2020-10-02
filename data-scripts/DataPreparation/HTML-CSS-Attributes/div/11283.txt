@@ -1,0 +1,3 @@
+	width:930px;
+	position:relative;
+	overflow:hidden;

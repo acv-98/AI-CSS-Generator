@@ -1,0 +1,6 @@
+	padding:0 0 6px 13px;
+	height:1%;
+	background:url(../images/marker.gif) no-repeat left 5px;
+	padding-bottom:20px;
+	padding-top:6px;
+	margin-bottom:-6px;

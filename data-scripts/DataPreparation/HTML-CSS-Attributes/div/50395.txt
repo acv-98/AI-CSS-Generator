@@ -1,0 +1,2 @@
+	background:url(images/nav-bg.gif) repeat-x 0 0;
+	height:56px;

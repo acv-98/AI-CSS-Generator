@@ -1,0 +1,6 @@
+	width:898px;
+	font-size:1em;
+	color:#e6e6e6;
+	margin-bottom:40px;
+	background:url(../images/home_bg.png) no-repeat;
+	padding-top:60px;

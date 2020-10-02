@@ -1,0 +1,1 @@
+ border-bottom:1px solid #c8c0bf !important; display:block; margin-bottom:10px;  font-size:19px; line-height:22px; color:#1d1918; font-weight:bold; float:left; margin:0; padding:0; width:auto;  font-size:14px; line-height:22px; color:#5b9324; font-style:italic; 

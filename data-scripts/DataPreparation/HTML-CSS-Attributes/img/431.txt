@@ -1,0 +1,2 @@
+	opacity: 0.4;
+	max-height: 750px;

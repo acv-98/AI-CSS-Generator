@@ -1,0 +1,11 @@
+  background-color: #a5d549;
+  border: medium none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  height: 40px;
+  outline: medium none;
+  text-transform: uppercase;
+  width: 100%;
+  margin-top: 15px;

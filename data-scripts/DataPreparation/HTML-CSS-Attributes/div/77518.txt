@@ -1,0 +1,11 @@
+	display: inline-block;
+	position: absolute;
+	top: 15px;
+	right: 0px;
+	left: 0px;
+	margin: 0 auto;
+	background: #432382;
+	color: #fff;
+	padding: 10px 15px;
+	text-align: center;
+	width: 65px;

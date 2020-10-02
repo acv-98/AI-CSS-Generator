@@ -1,0 +1,4 @@
+    width: 538px;
+    *width: 74.25620077583166%;
+  float: none;
+  margin-left: 0;

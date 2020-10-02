@@ -1,0 +1,12 @@
+  max-height: 425px;
+  min-height: 425px;
+  width: 233px;
+  margin-left: 0;
+  float: none;
+margin-left: -15px;.single_content{margin-bottom: 15px;
+.single_content h1{font-size: 18px;
+color: #6b6b6b;
+margin-top: 15px;
+color: #898989;.single_content_info{background: none repeat scroll 0 0 #FFFFFF;
+padding: 10px;
+border: 1px solid #999;

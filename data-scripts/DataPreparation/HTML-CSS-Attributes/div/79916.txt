@@ -1,0 +1,6 @@
+ margin-bottom: 20px; 
+.form-group-2-col-left {
+	padding-left: 0;
+	padding-right: 5px;
+		padding-left: 0;
+		padding-right: 0;

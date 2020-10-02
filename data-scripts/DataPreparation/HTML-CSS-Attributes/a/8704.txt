@@ -1,0 +1,1 @@
+display:blockmax-width:100%

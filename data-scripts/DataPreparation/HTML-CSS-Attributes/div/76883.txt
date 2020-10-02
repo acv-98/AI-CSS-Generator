@@ -1,0 +1,8 @@
+    max-width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
+      list-style-type: none;
+      display: inline-block;
+      padding-right: 70px;
+      padding-left: 70px;
+      margin-top: -10px;

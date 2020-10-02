@@ -1,0 +1,4 @@
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:34px;
+	color:#64f0fd;
+	font-style:italic;

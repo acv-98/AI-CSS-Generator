@@ -1,0 +1,13 @@
+  padding: 25px 15px;
+  margin: 0;
+  list-style: none;
+  display: block;
+  position: relative;
+  top: 5px;
+  right: 15px;
+  cursor: pointer;
+  color: #a8a8a8;
+  content: '-';
+  left: 0;
+  text-transform: capitalize;
+  font-size: 13px;

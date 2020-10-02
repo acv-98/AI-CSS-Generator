@@ -1,0 +1,1 @@
+position:absolute; top:180px; right:0px; background:url(../images/next.gif) 0 0 no-repeat; width:23px; height:41px; z-index:111 !important; display:inline-block;background-position:0 bottom;

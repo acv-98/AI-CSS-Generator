@@ -1,0 +1,15 @@
+  float: left;
+  padding: 30px 25px;
+  font-size: 18px;
+  line-height: 20px;
+  height: 80px;
+  text-decoration: none;
+  display: block;
+    margin-left: -25px;
+  color: #777;
+  background-color: transparent;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 400;
+  padding-bottom: 1em;
+  font-family: "Roboto Slab", arial, sans-serif;

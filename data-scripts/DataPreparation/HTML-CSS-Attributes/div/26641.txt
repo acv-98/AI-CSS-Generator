@@ -1,0 +1,13 @@
+	position:absolute;
+	width:100%;
+	z-index:999;
+	background:url(../images/nav-line.png) 0 bottom repeat-x;
+	padding-bottom:1px;
+	list-style-image:none;
+	display:inline-block;
+	overflow:hidden;
+	line-height:18px;
+	font-size:14px;
+	color:#fff;
+	font-weight:bold;
+	text-decoration:underline;

@@ -1,0 +1,15 @@
+	float: left;
+	margin-right: 40px;
+	color: #fff;
+	background: #FF4B5A;
+	font-size: 0.8725em;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	padding: 5px 16px;
+	border-radius: 20px;
+	font-weight: 300;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+		display: none;

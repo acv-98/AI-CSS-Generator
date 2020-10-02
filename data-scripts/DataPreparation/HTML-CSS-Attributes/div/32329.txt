@@ -1,0 +1,5 @@
+	width:100%;
+	float:left;
+	height:132px;
+	overflow: hidden;
+	border:0px;

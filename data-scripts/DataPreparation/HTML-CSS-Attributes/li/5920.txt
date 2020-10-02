@@ -1,0 +1,1 @@
+background:url(../images/ico_1.gif) 0 14px no-repeatwidth:66px; background:url(../images/btn_1.gif) 0 8px no-repeat; padding-top:8px width:66px; background:url(../images/btn_1_over.gif) 0 8px no-repeat;

@@ -1,0 +1,1 @@
+width:300px; float:left; clear:leftwidth:100%; float:left; font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:28px; color:#4d4d4d

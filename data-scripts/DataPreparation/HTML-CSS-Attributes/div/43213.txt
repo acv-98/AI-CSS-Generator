@@ -1,0 +1,6 @@
+	margin:0;
+	padding:0;
+	float:left;
+	width:260px;
+	background:#ededed url(../images/gadget_bg.jpg) no-repeat center bottom;
+	color:#fff;

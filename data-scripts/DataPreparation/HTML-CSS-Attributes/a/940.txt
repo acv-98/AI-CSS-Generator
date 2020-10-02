@@ -1,0 +1,2 @@
+display:block;padding:8px 15px;cursor:pointer;    color: #666;
+    font-weight: 700

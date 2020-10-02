@@ -1,0 +1,8 @@
+     float: left;
+     width: 100%;
+     padding: 0;
+     padding-bottom: 15px;
+     border: none;
+     font-size: 15px;
+     background: #f0f0f0;
+     color: #fff;

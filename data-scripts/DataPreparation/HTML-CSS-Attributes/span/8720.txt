@@ -1,0 +1,2 @@
+	vertical-align:top;
+	margin-top:12px;

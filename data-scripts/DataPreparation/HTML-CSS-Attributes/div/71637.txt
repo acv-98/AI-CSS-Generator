@@ -1,0 +1,1 @@
+float: right;border-top: none;padding-left: 0;padding-right: 0;.navbar-default .navbar-collapse .navbar-default .navbar-collapse .navbar-toggle 

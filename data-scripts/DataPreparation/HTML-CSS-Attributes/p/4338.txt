@@ -1,0 +1,8 @@
+	color: #b39f63;
+	margin-bottom: 19px;
+	display: inline-block;
+	background-color: #e9ddb7;
+	width: 1px;
+	height: 15px;
+	position: relative;
+	top: 4px;

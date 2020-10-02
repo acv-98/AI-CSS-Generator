@@ -1,0 +1,14 @@
+				.home .blog .text p {
+					font-size: 12px;
+					line-height: 18px;
+					margin: -20px 0 0 -20px;
+					width: 720px;
+						margin: 20px 0 0 20px;
+						width: 220px;
+							line-height: 20px;
+							margin-bottom: 15px;
+					background-image: url("../images/icons/24/tweet.png");
+					background-position: 0 3px;
+					margin-left: 20px;
+					padding-left: 35px;
+ color: #999; .message h2,

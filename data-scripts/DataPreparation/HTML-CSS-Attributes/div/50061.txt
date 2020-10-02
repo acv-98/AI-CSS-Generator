@@ -1,0 +1,7 @@
+.top_text span{
+    display: block;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #6fb048;
+    padding-bottom: 30px;
+	font-family: 'robotomedium';

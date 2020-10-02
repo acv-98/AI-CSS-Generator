@@ -1,0 +1,1 @@
+color:#444; display:inline-block; font-size:10px; outline:medium none; text-decoration:none; text-transform:uppercase

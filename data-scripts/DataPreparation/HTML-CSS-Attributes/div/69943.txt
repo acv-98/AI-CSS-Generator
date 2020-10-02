@@ -1,0 +1,8 @@
+  margin-left: 10px;
+  width: 136px;
+float: none;
+margin-bottom: 10px;
+  margin-bottom:10px;
+  float: left;
+.single_related_post h2{color: #6B6B6B;
+font-size: 15px;

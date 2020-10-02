@@ -1,0 +1,1 @@
+background: url(images/textarea.png) no-repeat 0 0; width: 386px; height: 147px; display: block; padding-top: 5px; padding-left: 5px;

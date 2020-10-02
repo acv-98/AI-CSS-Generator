@@ -1,0 +1,9 @@
+	display:inline-block;
+	background:url(images/txtbtn.png) no-repeat;
+	height:17px;
+	width:79px;
+	text-align:center;
+	font:0.75em "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding-top:2px;
+	color:#fff;
+	text-decoration:none;

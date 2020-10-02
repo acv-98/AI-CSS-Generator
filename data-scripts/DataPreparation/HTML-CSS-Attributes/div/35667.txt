@@ -1,0 +1,5 @@
+	width:976px;
+	background:url(images/menu_resize.gif) top repeat;
+	margin:0 auto;
+	padding:0;
+	height:65px;

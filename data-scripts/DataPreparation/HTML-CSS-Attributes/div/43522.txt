@@ -1,0 +1,1 @@
+ width:355pxfloat:none; width:280pxwidth:430px; float:nonewidth:450px

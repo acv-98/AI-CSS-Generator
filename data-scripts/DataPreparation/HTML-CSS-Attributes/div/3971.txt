@@ -1,0 +1,13 @@
+	padding:10px;
+	background:#fff;
+    border-radius:16px;
+	-moz-border-radius:16px;
+	-webkit-border-radius:16px;
+	    box-shadow:0 0 3px #c5c2a9;
+	-moz-box-shadow: 0 0 3px #c5c2a9;
+	-webkit-box-shadow:0 0 3px #c5c2a9;
+	
+	border-radius:7px;
+	margin: 0 auto ;
+	position: relative;
+	behavior:url(../js/PIE.htc);

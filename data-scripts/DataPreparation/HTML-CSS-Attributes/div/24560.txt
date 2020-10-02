@@ -1,0 +1,17 @@
+  margin: 0 auto;
+  margin-bottom: 15px;
+  display: block;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  border-radius: 50%;
+  text-align: center;
+  padding: 0px;
+  background-color: #ffbb05;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+    width: 25px;
+    height: 0px;
+    line-height: 40px;
+    margin: 0 auto;

@@ -1,0 +1,4 @@
+  width: 100%;
+  border-left: 3px solid #dab074;
+    margin-bottom: 20px;
+    width: auto;

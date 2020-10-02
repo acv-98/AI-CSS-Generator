@@ -1,0 +1,13 @@
+  width: 1080px;
+  background: #ffffff;
+  height: 100%;
+  position: relative;
+  margin: 0 auto;
+  -moz-box-shadow: 0 0 13px rgba(0, 0, 0, 0.17);
+  -webkit-box-shadow: 0 0 13px rgba(0, 0, 0, 0.17);
+  box-shadow: 0 0 13px rgba(0, 0, 0, 0.17);
+width: 100%;.animated {
+    -webkit-animation-duration: 0;
+    animation-duration: 0;
+    -webkit-animation-delay: 0;
+    animation-delay: 0;

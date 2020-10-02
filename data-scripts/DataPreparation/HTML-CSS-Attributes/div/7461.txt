@@ -1,0 +1,1 @@
+ background:#000 url(../images/bg2.jpg) repeat-x; height:150px; width:100%; 

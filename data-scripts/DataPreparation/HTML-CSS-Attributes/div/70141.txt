@@ -1,0 +1,6 @@
+  float: right;
+  margin-left: 0;
+margin-left: 58%;margin:0;padding:0;list-style:none;float:left.top_social ul li a{color: #017EBA;
+display: block;
+font-size: 30px;
+color:#fff;

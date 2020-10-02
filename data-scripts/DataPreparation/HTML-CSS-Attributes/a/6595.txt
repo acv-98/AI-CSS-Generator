@@ -1,0 +1,13 @@
+	display:block;
+	float:left;
+	margin:0 0 16px;
+	padding:12px 0;
+	width:88px;
+	font-size:11px;
+	line-height:15px;
+	font-weight:bold;
+	text-transform:uppercase;
+	color:#232323;
+	text-align:center;
+	text-decoration:none;
+	background:url(../images/readmore.gif) no-repeat left top;

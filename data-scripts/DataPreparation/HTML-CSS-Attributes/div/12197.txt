@@ -1,0 +1,6 @@
+   margin-top: 36px;
+   margin-left: 16.66667%;
+   padding-top: 5px;
+   border-top: 1px solid #D1D6DB;
+      margin-left: 0;
+      text-align: center;

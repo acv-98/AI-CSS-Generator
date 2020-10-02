@@ -1,0 +1,2 @@
+	background:url(images/nav-left.png) no-repeat top left;
+	color:#fff;

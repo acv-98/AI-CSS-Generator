@@ -1,0 +1,16 @@
+  cursor: pointer;
+  padding: 0;
+  margin: 6px 0 20px 0;
+  color: #737272;
+  font: 300 14px/20px 'Open Sans', sans-serif;
+  border: 1px solid #f1f1f1;
+  background: #fdfdfd;
+  width: 95px;
+  height: 30px;
+  float: right;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  z-index: 10;
+  position: relative;
+        width: 200px;

@@ -1,0 +1,8 @@
+	float:left;
+	font-family: 'Oswald', sans-serif;
+	font-size:18px;
+	line-height:22px;
+	text-transform:uppercase;
+	color:#333;
+	max-width:70%;
+	text-decoration:none;

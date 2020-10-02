@@ -1,0 +1,12 @@
+background:#d53827;
+border-radius:26px;
+-moz-border-radius:26px;
+-webkit-border-radius:26px;
+font-size:45px;
+line-height:48px;
+text-transform:uppercase;
+color:#fff;
+text-align:center;
+padding:1px 0 5px;
+margin:0 12px 18px 0
+background:#000;margin-bottom:8px

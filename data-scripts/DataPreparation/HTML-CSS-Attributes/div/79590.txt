@@ -1,0 +1,15 @@
+    visibility: hidden;
+    margin: 0 auto;
+    opacity: 0;
+    position: absolute;
+    text-align: center;
+    -webkit-transition: all 0.7s ease 0s;
+    -moz-transition: all 0.7s ease 0s;
+    -ms-transition: all 0.7s ease 0s;
+    -o-transition: all 0.7s ease 0s;
+    transition: all 0.7s ease 0s;
+    bottom: -50%;
+    left: 0;
+    right: 0;
+    padding: 50px 20px 40px;
+    font-size: 18px;

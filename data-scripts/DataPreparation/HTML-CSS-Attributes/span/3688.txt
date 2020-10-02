@@ -1,0 +1,13 @@
+	position: absolute;
+	top: 0em;
+	left: 35em;
+	display: block;
+	width: 1.222em;
+	height: 1.222em;
+	border: 3px solid #ccc;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	background-color: #ccc;
+		left: 38.3em;
+		display: none;

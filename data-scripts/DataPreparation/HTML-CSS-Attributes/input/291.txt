@@ -1,0 +1,1 @@
+padding:8px;background:#e18868; color:#633039; text-transform:uppercase; font-family:'Open Sans', sans-serif; border:0px solid;margin-left:100px;margin-top:20px;

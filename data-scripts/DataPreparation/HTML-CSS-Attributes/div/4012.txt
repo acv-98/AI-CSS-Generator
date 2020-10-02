@@ -1,0 +1,15 @@
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=40);
+			display: block;
+			position: relative;
+			 box-shadow: 2px 2px 4px #ddd;
+			margin-top: 3px;
+			margin-bottom: 23px;
+			background: #000;
+			border: 3px solid #e6e4e4;
+			
+			top: 0;
+			left: 0;
+			bottom: 0;
+			opacity: 1 !important;			
+			right: 0;
+			padding: 8px;

@@ -1,0 +1,17 @@
+    float:left;
+    *display:inline;
+    zoom:1;
+    display:block;
+	background:#D45B45;
+	color: #FFFFFF;
+    width:100%;
+    text-align: center;
+	font-weight: 400;
+	padding: 10px;
+	text-transform: uppercase;
+	border-top: 1px ridge #CC722D;
+	-webkit-transition: color .2s linear,background .2s linear;
+	-moz-transition: color .2s linear,background .2s linear;
+	-o-transition: color .2s linear,background .2s linear;
+	transition: color .2s linear,background .2s linear;
+	font-size: 0.8725em;

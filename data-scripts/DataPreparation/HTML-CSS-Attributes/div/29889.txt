@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	width:970px;
+	float:left;
+	background:url(images/h2_bgm.gif) no-repeat left center;
+	padding-left:12px;
+	border:1px solid #d6d6d6;
+	color:#fff;
+	border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	-webkit-border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	-webkit-border-top-right-radius:8px;

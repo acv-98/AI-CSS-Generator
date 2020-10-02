@@ -1,0 +1,8 @@
+	width:100%;
+	background:url(../images/tabs-bg.jpg) center top no-repeat;
+	padding:20px 0;
+	font-size:18px;
+	line-height:22px;
+	text-transform:uppercase;
+	color:#fff;
+	text-align:center;

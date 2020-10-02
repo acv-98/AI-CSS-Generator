@@ -1,0 +1,13 @@
+.single_sidebar .popular_post ul li a{display: block;
+background: #fff;
+padding: 10px;
+margin-bottom: 10px;
+font-size: 16px;
+font-family: oswald;
+box-shadow: 1px 4px 3px -2px #DDDDDD;
+-webkit-box-shadow: 1px 4px 3px -2px #DDDDDD;
+-moz-box-shadow: 1px 4px 3px -2px #DDDDDD;
+-webkit-transition: background 300ms ease-in;
+-moz-transition: background 300ms ease-in;
+-ms-transition: background 300ms ease-in;
+-o-transition: background 300ms ease-in;

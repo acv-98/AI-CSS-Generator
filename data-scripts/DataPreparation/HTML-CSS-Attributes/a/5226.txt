@@ -1,0 +1,5 @@
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=40);
+  margin-top: -13px;
+  display: block;
+  opacity: 0.4;
+    margin-top: 0 !important;

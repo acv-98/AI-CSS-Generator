@@ -1,0 +1,2 @@
+		margin: 5px 0 20px 20px;
+		float: right;

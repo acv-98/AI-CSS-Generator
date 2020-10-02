@@ -1,0 +1,6 @@
+	width: 975px;
+	height: 113px;
+	background-image: url(images/header-bg.jpg);
+	background-position: left;
+	background-repeat: repeat-y;
+	background-color: #282828;

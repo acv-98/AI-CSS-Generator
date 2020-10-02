@@ -1,0 +1,10 @@
+	border-bottom: 0;
+	border-top: 1px solid #ddd;
+	margin-top: -1px;
+	margin-bottom: 0;
+	-webkit-border-radius: 0 0 4px 4px;
+	-moz-border-radius: 0 0 4px 4px;
+	border-radius: 0 0 4px 4px;
+	border-top-color: #ddd;
+	border-bottom-color: transparent;
+	border-color: transparent #ddd #ddd #ddd;

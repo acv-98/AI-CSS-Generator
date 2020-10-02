@@ -1,0 +1,1 @@
+ background: #fff; font-size: 0.857em; text-align: center;  margin: 0 !important; list-style: none !important;  margin: 0 !important; padding: 10px 20px !important; border-bottom: 1px solid #eee; list-style: none !important;  background: #F9F9F9 

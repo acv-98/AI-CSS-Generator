@@ -1,0 +1,12 @@
+	color:#eaeaea;
+	padding:2px;
+	text-decoration:none;
+	background:#FF8A00;
+	padding-top:50px;
+	float:left;
+	padding-bottom:3px;
+	margin-right:20px;
+	font-size:1.2em;
+	text-transform:capitalize;
+	display:inline;
+	border-bottom:3px solid #FF8A00;

@@ -1,0 +1,14 @@
+	background:url(images/footer.gif) repeat-x 0 0;
+	height:191px;
+	padding:20px 0 0 0;
+	width:252px;
+	margin:0 25px 0 0;
+	font-size:15px;
+	line-height:18px;
+	color:#fff;
+	text-transform:uppercase;
+	border-bottom:1px solid #fdc461;
+	text-decoration:underline;
+	float:left;
+	margin-left:22px;
+	margin-right:22px;

@@ -1,0 +1,20 @@
+ background: #9e5406; 
+figure.effect-bubba img {
+	opacity: 0.7;
+	-webkit-transition: opacity 0.35s;
+	transition: opacity 0.35s;
+	opacity: 0.4; figure.effect-bubba figcaption::before,
+	position: absolute;
+	top: 30px;
+	right: 30px;
+	bottom: 30px;
+	left: 30px;
+	content: '';
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+	border-right: 1px solid #fff;
+	border-left: 1px solid #fff;
+	padding-top: 30%;
+ padding-top: 5%;  padding-top: 5%;  padding-top: 5%; 

@@ -1,0 +1,25 @@
+  width:200px;
+  padding-left:0px;
+  text-align:center;
+  margin-top:60px;
+  position:relative;
+  
+  font-size:56px;
+  color:black;
+  padding-top:50px;
+  font-weight:bold;
+  text-transform:uppercase;
+  line-height:1.2;
+  background-color: black;
+  height: 1px;
+  border:0;
+  overflow:hidden;
+  float:left;
+  -moz-border-radius:4px;
+  -webkit-border-radius:4px;
+  border-radius: 4px;
+    -webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;

@@ -1,0 +1,10 @@
+	width: 115px;
+	padding-right: 15px;
+	border-right: 1px solid #454545;
+	float: left;
+	font-family: 'CharisSILItalic';
+	font-size: 52px;
+	line-height: 42px;
+	display: block;
+	text-transform: uppercase;
+	padding-top: 7px;

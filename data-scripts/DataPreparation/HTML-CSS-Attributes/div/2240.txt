@@ -1,0 +1,3 @@
+	background:url(../images/textbg.jpg) center center no-repeat;
+	padding:30px;
+        background-size:cover;

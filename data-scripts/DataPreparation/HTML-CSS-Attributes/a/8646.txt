@@ -1,0 +1,1 @@
+    color: #ed1b2e !important;

@@ -1,0 +1,8 @@
+	float: right;
+	width: 212px;
+	height: 54px;
+	border: none;	
+	color : #686868;
+	background: url(images/text_area.png) no-repeat;
+	margin: 0 0 5px 0;
+	padding: 5px;

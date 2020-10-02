@@ -1,0 +1,2 @@
+	color: #C30;
+	background: url(images/menu_hover.png) repeat;

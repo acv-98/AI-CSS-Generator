@@ -1,0 +1,8 @@
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 700;
+  font-size: 55px;
+  margin-left: 20px;
+  margin-top: 15px;
+    font-size: 45px;
+    margin-left: 20px;
+    margin-top: 15px;

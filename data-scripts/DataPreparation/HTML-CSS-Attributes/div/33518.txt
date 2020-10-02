@@ -1,0 +1,9 @@
+display: none !important;	border-radius: 0 0 0 5px;
+	text-transform: uppercase;
+	display: inline-block;
+	background: #000 !important;
+	padding: 10px;
+	color: #fff;
+	position: absolute;
+	bottom: 0;
+	

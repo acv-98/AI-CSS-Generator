@@ -1,0 +1,7 @@
+	float: right;
+	display: inline;
+	width: 78%;
+  display: inline;
+  float: right;
+  width: 79%;
+width: 70%;width: 72%;width: 75%;width: 75%;

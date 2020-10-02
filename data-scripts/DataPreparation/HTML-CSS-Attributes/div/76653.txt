@@ -1,0 +1,11 @@
+  overflow: hidden;
+  zoom: 1;
+  width: 10000px;
+  display: table-cell;
+  vertical-align: top;
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-size: 16px;
+  color: #ff6600;
+  margin-bottom: 0px;
+  margin-top: 0;

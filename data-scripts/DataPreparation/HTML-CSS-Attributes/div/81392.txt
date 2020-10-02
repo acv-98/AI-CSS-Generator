@@ -1,0 +1,6 @@
+	display: inline;
+	float: left;
+	margin-top: 50px;
+	padding: 0 20%;
+	width: 100%;
+		padding: 0 10%;

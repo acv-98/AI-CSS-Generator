@@ -1,0 +1,7 @@
+    display: block;
+    width: 100%;
+        float: none;
+        display: block;
+        text-align: center;
+        padding-left: 30px;
+        padding-right: 30px;

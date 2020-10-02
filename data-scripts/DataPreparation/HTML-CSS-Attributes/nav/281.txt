@@ -1,0 +1,14 @@
+ background: #444;  margin-left: 15px;  border: 0;  padding-top: 10px; padding-bottom: 10px;  border-color: #444; 	
+	margin-bottom: 0;
+	background: #444;
+	border: 0;
+	-o-transition: all .6s; -moz-transition: all .6s; -webkit-transition: all .6s; -ms-transition: all .6s; transition: all .6s;
+ background: #444; background: rgba(0, 0, 0, 0.2);  margin-right: 0; ul.navbar-nav {
+	font-size: 15px;
+	color: #fff;
+	text-transform: uppercase;
+ padding-top: 20px; padding-bottom: 20px; color: #fff; opacity: 0.8;  color: #fff; opacity: 1;  color: #fff; outline: 0; opacity: 1; .navbar-text a {
+	line-height: 28px;
+	opacity: 0.8;
+ opacity: 1; .navbar-toggle {
+	margin-top: 13px;

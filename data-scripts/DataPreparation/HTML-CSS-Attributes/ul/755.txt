@@ -1,0 +1,18 @@
+  list-style: none;
+  padding: 0;
+  margin: 0 0 50px;
+  display: inline-block;
+  float: left;
+  background: #e5e5e5;
+  color: #64686d;
+  position: relative;
+  box-shadow: 0 -3px 0 0 #ff2525 inset;
+  -webkit-box-shadow: 0 -3px 0 0 #ff2525 inset;
+  content: " ";
+  bottom: -17px;
+  left: 50%;
+  margin-left: -10px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #ff2525 transparent transparent transparent;
+  border-radius: 4px 0 0 4px;

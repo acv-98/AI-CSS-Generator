@@ -1,0 +1,7 @@
+        max-width: 50%;
+        margin: 0 auto;
+        padding-bottom: 15px;
+    color:#656e74;
+    font-size:0.875rem;
+    font-family: 'open_sansregular';
+    text-decoration: underline;

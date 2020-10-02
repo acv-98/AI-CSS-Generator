@@ -1,0 +1,12 @@
+	height: 41px;
+	float: left;
+	line-height: 29px;
+	color: #5d5d5d;
+	font-family: Segoe UI;
+	font-size: 14px;
+	text-decoration: none;
+	padding: 0 11px;
+	margin: 5px 10px 0 0;
+	-webkit-box-shadow: 0px 1px 0px #060506;
+	-moz-box-shadow: 0px 1px 0px #060506;
+	box-shadow: 0px 1px 0px #060506;

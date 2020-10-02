@@ -1,0 +1,27 @@
+   font: 14px/24px opensans-regular, sans-serif;
+   color: #fff;
+   margin-top: 12px;
+   margin-bottom: 0;
+   display: block;
+   font-family: montserrat-bold, sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   float: left;
+   text-align: right;
+   width: 16.66667%;
+   padding-right: 36px;
+ color: #B9BBBC; .post .post-meta a:hover,
+ color: #11ABB0; .post .post-meta .date {
+ content: "Published";  content: "Categories";  display: block;  display: none; .post .post-image {
+ margin-top: 6px;       display: inline;
+      content: "/";
+      padding-left: 5px;
+      padding-right: 5px;
+      float: none;
+      width: 100%;
+      text-align: center;
+ display: inline    .post .post-meta .date:before,
+ content: none    .post .post-meta .date {
+      font: 13px/18px opensans-bold, sans-serif;
+      color: #3D4149;
+      margin-right: 5px;

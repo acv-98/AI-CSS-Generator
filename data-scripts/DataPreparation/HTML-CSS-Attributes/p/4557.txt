@@ -1,0 +1,1 @@
+width:50%; float:right; text-align:right; font-size:12px; letter-spacing:0.5px

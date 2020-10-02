@@ -1,0 +1,9 @@
+		height: auto;
+		grid-template-columns: 1fr;
+		grid-template-rows: auto;
+		justfiy-items: center;
+		border-bottom: none!important;
+		display: grid;
+		width: 100vw;
+		border-top: 20px solid #dcd06f;
+  		grid-template-rows: 1fr 1fr;

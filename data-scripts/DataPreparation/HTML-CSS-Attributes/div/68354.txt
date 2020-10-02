@@ -1,0 +1,14 @@
+  position: absolute;
+  background: #ffffff;
+  width: 295px;
+  padding: 28px 40px 42px;
+  top: 50%;
+  margin-top: -84px;
+  left: 50%;
+  margin-left: -188px;
+    width: 240px;
+    margin-left: -150px;
+    padding: 20px 30px 30px;
+    margin-top: -62px;
+    font-size: 24px;
+    line-height: 32px;

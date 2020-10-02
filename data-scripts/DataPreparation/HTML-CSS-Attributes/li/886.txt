@@ -1,0 +1,2 @@
+	background:url(../images/login-field-bg.png) no-repeat;
+	height:35px;

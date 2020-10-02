@@ -1,0 +1,5 @@
+border-bottom:none;
+.div2 p {
+	line-height:20px;
+	text-align:left;
+	padding-bottom:20px;

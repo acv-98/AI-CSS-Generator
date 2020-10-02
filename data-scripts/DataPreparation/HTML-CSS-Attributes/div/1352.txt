@@ -1,0 +1,7 @@
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	background-image: url(images/main-right-bottom.gif);
+	background-repeat: no-repeat;
+	width: 352px;
+	height: 13px;

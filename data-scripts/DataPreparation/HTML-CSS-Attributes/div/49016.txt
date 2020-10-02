@@ -1,0 +1,3 @@
+        margin-bottom: 25px;
+    font-family: 'open_sansregular';
+    font-size: 15px;

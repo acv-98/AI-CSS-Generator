@@ -1,0 +1,7 @@
+border: 2px solid #BBC3C2; float: left;  border-radius: 40px;height: 71px; background: #FFFFFF.submit-bottom form input[type=text]{border: medium none;
+margin-left: 24px;
+font-size: 14px; color:#8C9494; font-family: 'Raleway', sans-serif; font-weight: 400;
+border: none; padding: 21px 55px; background: #5DCA88; color:#fff; font-size: 20px;font-family: 'Proxima Nova Regular'; font-weight: 700; text-transform: uppercase;border-radius: 40px;	
+	 Submit CLOSE
+	9) footer Start
+width: 200px;width: 200px;display:blockmargin-right: 34px;margin-top: 7px;display: block;margin-top: 20px;margin-right: 34px;margin-top: 7px;width: 330px;display: block;margin-top: 20px;

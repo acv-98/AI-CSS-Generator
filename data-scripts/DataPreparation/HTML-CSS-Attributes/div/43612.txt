@@ -1,0 +1,10 @@
+ font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #585555; font-style: normal; font-weight: normal;  font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #B77A2B; font-style: normal; font-weight: normal;  color: #000000;  width:60%; 
+.boxed #wrapper {
+    padding: 0px;
+    width: 100%;
+    font-size: 18px;
+    font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif;
+    line-height: 22px;
+    text-align: center;    
+    margin-top: 58px;
+ width: 20%; height:16px;  width: auto;  position:relative; top:-1px; 

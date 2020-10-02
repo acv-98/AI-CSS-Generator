@@ -1,0 +1,1 @@
+background:url(../images/bubble2.png) 0 7px no-repeat;

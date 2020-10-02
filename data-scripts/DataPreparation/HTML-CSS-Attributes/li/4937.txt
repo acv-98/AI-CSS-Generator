@@ -1,0 +1,6 @@
+	background: #d0a772;
+	color: #ffffff;
+	border-radius: 4px;
+    background: #cfa671;
+    color: #fff;
+    box-shadow: 2px 20px 45px 5px rgba(0,0,0,.2);

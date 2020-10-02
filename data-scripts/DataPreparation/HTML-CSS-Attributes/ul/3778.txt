@@ -1,0 +1,4 @@
+    right: 0;
+    left: auto;
+    margin-right: -15px;
+    float: right !important;

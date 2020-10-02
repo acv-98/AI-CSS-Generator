@@ -1,0 +1,4 @@
+  height: auto;
+    color: #f5f3dc;
+    background-color: #01584c;
+height:auto;overflow:visible;.navbar .nav-collapse .nav li>a

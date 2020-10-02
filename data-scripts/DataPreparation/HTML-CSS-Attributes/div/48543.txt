@@ -1,0 +1,15 @@
+-webkit-animation-duration:1000ms;animation-duration:1000ms;-webkit-animation-fill-mode:both;animation-fill-mode:both
+  margin-top: 0;
+  top: 50%;
+  z-index: 9999;
+  position: absolute;
+  -webkit-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+  right: 20px;
+  margin-right: -10px;
+  left: 20px;
+  margin-left: -10px;
+  color: #444;
+  bottom: 0;
+  margin-bottom: -2.5em;

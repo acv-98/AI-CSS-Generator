@@ -1,0 +1,3 @@
+ color: #cbcbcb; 
+ margin-left: 20px; 				padding-right: 15px;
+				top: -10px;

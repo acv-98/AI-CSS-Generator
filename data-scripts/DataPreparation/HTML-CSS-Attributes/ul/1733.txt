@@ -1,0 +1,4 @@
+  position: absolute;
+  content: "";
+  right: 0;
+  width: 20px;

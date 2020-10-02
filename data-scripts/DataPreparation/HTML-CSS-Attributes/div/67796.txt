@@ -1,0 +1,5 @@
+		left: -25%;
+		display: block;
+		-webkit-transform: translate3d(25%, 0, 0);
+		        transform: translate3d(25%, 0, 0);
+  height: 240px;

@@ -1,0 +1,5 @@
+	float: left;
+	width: 200px;
+	padding-right: 45px;
+	color: #bab8b1;
+	margin: 0 0 10px 0;

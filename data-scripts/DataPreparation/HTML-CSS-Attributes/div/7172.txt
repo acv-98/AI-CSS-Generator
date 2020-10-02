@@ -1,0 +1,5 @@
+ width:100%; padding-bottom:30px; margin-bottom:30px; color:#ffc01d; text-transform:uppercase; color:#fff; font-size:16px; color:#9ac5f5; padding-bottom:20px;
+SERIVES SECTION 
+ float:left;BOX SECTION 
+ border:none; color:#fff  color:#fff; padding-bottom:10px; color:#fff; text-decoration:none; color:#ffc01d;color:#fff;FOOTER SECTION 
+ float:left; width:300px; margin-bottom:30px;margin-top:20px;list-style:none;  border-bottom:#104f94 solid 1px; color:#85aedb; text-decoration:none; line-height:40px; font-size:14px;color:#ffc01d; float:left; margin-right:20px; text-decoration:underline; color:#ffc01d; color:#85aedb; font-size:14px; padding-top:6px;

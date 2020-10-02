@@ -1,0 +1,14 @@
+	padding: 20px 25px;
+	list-style: none outside none;
+	margin: 0 0 20px;
+	background: url("../images/icons/tick20.png") no-repeat scroll left center transparent;
+	line-height: 20px;
+	text-align: center;
+	border: 1px solid #DBD8D8;
+	color: #999999;
+	display: inline-block;
+	font-size: 110%;
+	height: 16px;
+	text-transform: uppercase;
+	width: auto;
+	text-decoration: none;

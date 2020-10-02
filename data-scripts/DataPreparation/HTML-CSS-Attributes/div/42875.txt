@@ -1,0 +1,13 @@
+	border: 2px solid #202020;
+	padding: 20px 20px 40px 20px;
+	margin-top: 60px;
+	border-bottom: 2px solid #202020;
+	margin-bottom: 20px;
+	font-family: 'Raleway', sans-serif;
+	display: block;
+	background: transparent;
+	border-radius: 0;
+	color: #202020;
+	width: 140px;
+	height: 50px;
+	border-color: transparent;

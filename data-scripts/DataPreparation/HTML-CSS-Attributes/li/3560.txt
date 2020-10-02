@@ -1,0 +1,4 @@
+	width: 480px;
+	padding: 15px;
+	border: 5px solid #d40000;
+	background: #fefefe;

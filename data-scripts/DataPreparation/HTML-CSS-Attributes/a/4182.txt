@@ -1,0 +1,10 @@
+	display: block;
+    float: left;
+    height: auto;
+   margin: 5% 0 2% 8%;
+    padding: 0;
+    width: 40%;
+	margin: 5% 0 0 8%;
+	width: 80%;
+    margin: 44px 0 0;
+	padding: 0;

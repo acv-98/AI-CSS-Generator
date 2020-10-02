@@ -1,0 +1,13 @@
+	font-style: italic;
+	font-size: 18px;
+	color: #fff;
+	padding:
+	font-family:'FontAwesome'; 
+	content:"\f10d"; 
+	font-weight: bold; 
+	padding-right: 30px; 
+	padding-left: 30px; 
+	max-width: 150px;
+	margin-bottom: 20px;
+	border-radius: 90px;
+	display: inline-block;

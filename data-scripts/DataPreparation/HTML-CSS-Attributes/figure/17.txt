@@ -1,0 +1,5 @@
+    padding: 0px 15px;
+    text-align: left;
+    display: inline-block;
+    width:80%;
+    color:#f9d423;

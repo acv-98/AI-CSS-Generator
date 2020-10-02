@@ -1,0 +1,8 @@
+  color: #228896;
+  font-size: 30px;
+  margin-bottom: 2em;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: block;
+    margin-bottom: 1em;

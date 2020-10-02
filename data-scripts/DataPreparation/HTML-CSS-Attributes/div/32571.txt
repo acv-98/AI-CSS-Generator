@@ -1,0 +1,6 @@
+	color: #8dc63f;
+		margin-bottom:20px;
+	font-size:24px;
+    font-family: 'nautilus_pompiliusregular';
+	font-family: 'Roboto', sans-serif;
+	line-height: 25px;

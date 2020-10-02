@@ -1,0 +1,7 @@
+        margin-top: 0%;
+        width:100%;
+        padding: 0% 2%;
+    left: 52%;
+    overflow: hidden;
+    font-weight: 700;
+    color: #231f20;

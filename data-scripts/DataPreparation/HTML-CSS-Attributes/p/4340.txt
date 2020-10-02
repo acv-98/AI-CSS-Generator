@@ -1,0 +1,5 @@
+	background: #eaeaea; 
+	padding: 5px 10px; 
+	margin-bottom: 15px;
+	border: 1px solid #FFF;
+	outline:1px solid #dcdcdc;

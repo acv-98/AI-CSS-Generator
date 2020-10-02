@@ -1,0 +1,11 @@
+	background: rgba(248,199,45,.8);
+ 	border: 0px;
+ 	position: absolute;
+ 	bottom: 0px;
+ 	width: 100%;
+ 	margin: 0px;
+ 	border-radius: 0px;
+ 
+		position: relative;
+		background: rgb(248,199,45);
+		top:0px;

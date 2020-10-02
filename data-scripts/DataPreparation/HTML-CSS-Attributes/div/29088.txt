@@ -1,0 +1,17 @@
+	width: 975px;
+	clear: both;
+	background-image: url(images/main-bg.gif);
+	background-repeat: repeat-y;
+	float: left;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-right: 60px;
+	padding-bottom: 20px;
+	position: relative;
+	margin-right: 7px;
+	background-color: #bbbbbb;
+	color: #333;
+	top: 0px;
+	left: 0px;
+	height: 13px;
+	bottom: 0px;

@@ -1,0 +1,5 @@
+  float: left;
+  margin-right: 10px;
+  display: block;
+  height: 60px;
+  width: 60px;

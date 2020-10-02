@@ -1,0 +1,2 @@
+	font:30px/36px Georgia, "Times New Roman", Times, serif;
+	color:#a4a4a4;

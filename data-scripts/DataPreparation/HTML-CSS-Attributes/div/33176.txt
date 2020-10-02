@@ -1,0 +1,1 @@
+padding-top: 70px; text-align: center;margin: 0 auto;

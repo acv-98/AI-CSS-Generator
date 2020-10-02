@@ -1,0 +1,8 @@
+	background-attachment: fixed !important;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+        background-position: center top !important;
+  height: auto;
+  margin: 0 auto;
+  width: 100%;

@@ -1,0 +1,1 @@
+ background: url(images/light.png) no-repeat center 0; 

@@ -1,0 +1,9 @@
+  position: relative;
+  -webkit-transform: scale(1.5) rotate(-15deg);
+  transform: scale(1.5) rotate(-15deg);
+  opacity: 0.8;
+  bottom: 0;
+  height: 100%;
+  margin-top: 0;
+  margin-left:0;
+  margin-bottom:0;

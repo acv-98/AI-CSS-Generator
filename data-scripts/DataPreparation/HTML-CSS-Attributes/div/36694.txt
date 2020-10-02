@@ -1,0 +1,16 @@
+ height: 170px;width: 170px; margin: 0 auto; color:#5DCA88;font-size: 170px
+   HTML5 display definitions
+ * Correct `block` display not defined in IE 6/7/8/9 and Firefox 3.
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+    display: block;

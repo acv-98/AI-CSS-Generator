@@ -1,0 +1,9 @@
+	padding:0;
+	margin:0;
+	line-height:18px;
+	padding-bottom:11px;
+	background:url('images/li-separator.gif') no-repeat center bottom;
+	float:left;
+	margin-right:10px;
+	font-size:10px;
+	color:#166f9a;

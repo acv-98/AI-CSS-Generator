@@ -1,0 +1,10 @@
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+	content: '\0020';
+	zoom: 1;
+	line-height:0;
+	font-size:0;

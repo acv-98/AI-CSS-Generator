@@ -1,0 +1,6 @@
+	margin:40px 20px 0 10px;
+	border-radius:5px 0px 0px 0px !important;
+ width:226px;
+ margin:40px 10px 0 10px;
+ float: none;
+ padding:0;

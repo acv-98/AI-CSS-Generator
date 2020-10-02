@@ -1,0 +1,8 @@
+	text-indent:-99999px;
+	width:80px;
+	padding:0 0 0 500px;
+	background:url(../images/separator-blog.gif) repeat-x left 25px;
+	float:left;
+	height:40px;
+	display:block;
+	margin:0 5px 0 0;

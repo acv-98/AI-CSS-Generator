@@ -1,0 +1,17 @@
+	background: url(../images/bg-content-strips.png) repeat-x;
+	background-position: 0 -71px;
+	display: inline-block;
+	height: 331px;
+	max-height: 390px;
+	padding: 20px 10px;
+	color: #5f5b3e;
+	font-family: 'DeliusSwashCapsRegular';
+	letter-spacing: 1px;
+	line-height: 42px;
+	margin: 0;
+	float: left;
+	font-size: 12px;
+	width: 290px;
+	text-align: justify;
+	text-shadow: 1px 1px #f9faf5;
+	font-weight: normal;

@@ -1,0 +1,1 @@
+background:#1c1c1c; float:right; width:190px; padding:30px 40px 40px 40px; color:#9f9fa6;color:#e2e2e4;

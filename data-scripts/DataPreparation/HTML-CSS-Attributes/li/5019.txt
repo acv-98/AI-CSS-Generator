@@ -1,0 +1,7 @@
+	left: auto;
+	right: 0;
+	color: #444;
+	padding: 6px 15px;
+      display: block;
+      margin-top: 0; 
+      top: 100%;

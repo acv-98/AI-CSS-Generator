@@ -1,0 +1,9 @@
+	max-width: 270px;
+	text-align: center;
+	margin-top: 20px;
+	font-weight: 400;
+	color: #e84545;
+	font-size: 13px;
+	margin-bottom: 20px;
+	display: inline-block;
+	float: none;

@@ -1,0 +1,2 @@
+display:inline;margin-right:10px; text-decoration:none; color:#fff; padding-right:5px; text-decoration:none; color:#d65a3d; padding-right:5px;
+FOOTER CLASSES

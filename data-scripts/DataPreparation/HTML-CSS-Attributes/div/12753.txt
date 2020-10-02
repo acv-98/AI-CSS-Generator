@@ -1,0 +1,11 @@
+	padding: 0px 40px;
+	margin: 10px 20px 10px 0px;
+	padding-right: 20px;
+	display: inline-block;
+	border-right: 1px solid rgba(255, 255, 255, 0.39);
+	background-color:#fff;
+	border-radius:4px;
+	color:#85AD90;
+	text-decoration:none;
+		text-align: center;
+		padding: 0px 40px;

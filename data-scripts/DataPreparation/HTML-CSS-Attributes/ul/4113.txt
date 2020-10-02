@@ -1,0 +1,4 @@
+	margin-bottom:50px;
+	color:#eaeaea;
+	text-indent:20px;
+	line-height:2.5;

@@ -1,0 +1,1 @@
+float:left; width:300px; height:120px; padding-top:50px; text-align:center; background:url(../images/logobg.png) no-repeat center;position:absolute; color:#ffffff; font-size:35px;font-weight:normal; color:#ffffff; font-size:14px;

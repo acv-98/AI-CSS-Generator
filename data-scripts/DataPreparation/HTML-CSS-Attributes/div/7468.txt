@@ -1,0 +1,2 @@
+ width:960px; margin:0 auto; width:300px; float:left; padding-bottom:30px; color:#ffffff; margin-bottom:20px; color:#ffed71; text-decoration:underline; font-style:italic; padding-top:30px; display:block; color:#fff; text-decoration:none; float:left; padding-right:20px; text-decoration:underline; color:#ffffff;padding-top:30px; list-style:none; background:url(../images/line-bg.jpg) repeat-x bottom; line-height:38px; text-decoration:none; color:#ffffff;color:#ffed71;
+COLS CLASSES

@@ -1,0 +1,1 @@
+width:213px; float:left;font-size:18px; color:#ffffff; font-weight:normal;color:#e5e2d3;

@@ -1,0 +1,11 @@
+	color:#6D9C91;
+	margin-bottom:30px;
+	text-align:center;
+	list-style:none;
+	margin-left: 0;
+	padding-left:0;
+	
+	display:inline-block;
+	background:#eee;
+	text-decoration:none;
+	background-color:#6D9C91;

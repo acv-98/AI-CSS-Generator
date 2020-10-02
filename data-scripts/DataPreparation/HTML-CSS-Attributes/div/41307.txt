@@ -1,0 +1,15 @@
+   margin-top: 30px;
+   padding-top: 30px;
+   background: #EFF1F0;
+	border-radius: 3px;
+   width: 16.66667%;
+   float: left;
+   height: 72px;
+   font: 18px/30px notosans-bold, sans-serif;
+   margin-bottom: 6px;
+ padding-top: 18px;    .post .bio .gravatar {
+      float: none;
+      width: 72px;
+      margin: 0 auto 18px auto;
+      padding-left: 0;
+      text-align: center;

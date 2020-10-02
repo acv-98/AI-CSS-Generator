@@ -1,0 +1,7 @@
+		width:100%;
+		background:#eaeaea;
+		padding:2.857em 0;
+		content:"";
+		display:block;
+		clear:both;
+display:none;

@@ -1,0 +1,1 @@
+text-align:centerdisplay:inline-block; width:30%; float:none; margin:0 1%margin:0 0 25px; padding:0 2%; width:100%

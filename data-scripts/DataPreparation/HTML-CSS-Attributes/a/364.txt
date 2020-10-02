@@ -1,0 +1,12 @@
+	display:block;
+	float:left;
+	margin:0 0 16px;
+	padding:0 0 0 20px;
+	font-size:13px;
+	line-height:20px;
+	font-weight:normal;
+	text-transform:none;
+	color:#f48f2b;
+	text-decoration:none;
+	text-align:center;
+	background:url(../images/li_p.jpg) no-repeat left center;

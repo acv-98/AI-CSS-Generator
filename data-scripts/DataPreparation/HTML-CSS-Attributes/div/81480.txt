@@ -1,0 +1,10 @@
+	width: 975px;
+	float: left;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-right: 60px;
+	padding-bottom: 20px;
+	margin-top: 10px;
+	margin-right: 7px;
+	background-color: #7c7c7c;
+	color: #FFFFFF;

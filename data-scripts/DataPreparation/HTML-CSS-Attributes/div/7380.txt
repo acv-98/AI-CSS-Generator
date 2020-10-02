@@ -1,0 +1,1 @@
+width:130px; float:left;display:block; border-bottom:1px solid #364658; color:#576679; font-family:'Open Sans', sans-serif; font-size:13px; line-height:40px;color:#96577a;border-bottom:none;

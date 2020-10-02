@@ -1,0 +1,6 @@
+  display: none;
+  font-family: "montserrat-bold", sans-serif;
+  font-size: 1.4rem;
+  color: #FFFFFF;
+  letter-spacing: .2rem;
+  text-transform: uppercase;

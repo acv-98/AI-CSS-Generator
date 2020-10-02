@@ -1,0 +1,18 @@
+    padding: 20px 40px;
+    -webkit-box-shadow: 0px 2px 20px 2px rgba(0, 0, 0, 0.09);
+            box-shadow: 0px 2px 20px 2px rgba(0, 0, 0, 0.09);
+    border-radius: 7px;
+      font-size: 16px;
+      color: #08294c;
+      line-height: 2;
+      padding-bottom: 90px;
+        font-size: 30px;
+        color: #08294c;
+        margin-bottom: 5px;
+        background: url("../assets/images/testimonial1.png") left center no-repeat;
+        padding: 5px 100px;
+      margin-top: 40px;
+        display: inline-block;
+          font-size: 19px;
+          color: #0f81f8;
+          margin-right: 5px;

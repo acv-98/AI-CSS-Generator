@@ -1,0 +1,9 @@
+	overflow:hidden;
+	display:inline-block;
+	font-size:11px;
+	line-height:16px;
+	color:#6a4c31;
+	text-transform:uppercase;
+	font-weight:bold;
+	padding:3px 0 16px 0;
+	margin-top:7px;

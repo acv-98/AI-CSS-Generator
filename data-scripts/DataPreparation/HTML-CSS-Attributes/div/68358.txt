@@ -1,0 +1,5 @@
+	width: 960px;
+	margin: 0px auto;
+	position: relative;
+	margin-bottom: 20px;
+	background: url(../img/divider-ver.png) repeat-y center 0px;

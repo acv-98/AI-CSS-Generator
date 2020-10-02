@@ -1,0 +1,3 @@
+padding: 0 !important;.featured-content .block .block-content .gallery li {
+width: 20%;
+padding: 0 !important;padding-right: 30px;

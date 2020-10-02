@@ -1,0 +1,8 @@
+padding: 40px 0 !important; background: url(../img/dot.jpg) repeat-x 0 60px !important;top: -64px !important;font-size: 28px !important; line-height: 32px !important; padding: 0 10px !important;font-size: 12px !important;display: none !important;  
+padding: 30px 0 !important; background: url(../img/dot.jpg) repeat-x 0 49px !important;top: -64px !important;font-size: 21px !important; line-height: 32px !important;font-size: 10px !important;background: url(../img/dot.jpg) repeat-x 0 75px; padding: 55px 0; border-bottom:1px solid #d7dee0; text-align: center; display: inline-block;background: #fff; padding: 0 20px; color: #6f7678; font-size: 34px; font-family: 'open_sansextrabold'; text-transform: uppercase;color: #2bbbdf; font-size: 14px; font-family: 'open_sansregular';border-radius: 5px;width: 100%;background: #f7f7f7; padding: 15px 0; text-align: center; border-bottom: 3px solid #2bbbdf;color: #869093; font-family: 'open_sansregular'; margin-top: 35px; margin-bottom: 0;.featured-slider .carousel-control {
+position: absolute;
+right: 0px;
+font-weight: 100;
+-webkit-border-radius: 23px;
+-moz-border-radius: 23px;
+opacity: 1.0;

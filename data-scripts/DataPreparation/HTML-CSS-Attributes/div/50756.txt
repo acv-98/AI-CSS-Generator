@@ -1,0 +1,12 @@
+	width:200px;
+	float:right;
+	padding-top:19px;
+	padding-left:90px;
+	padding-right:1px;
+	height:28px;
+	background:#9a9a9a url('images/search-button.gif') no-repeat 0 center;
+	border:0;
+	cursor:pointer;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;

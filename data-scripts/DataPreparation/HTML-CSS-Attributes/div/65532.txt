@@ -1,0 +1,5 @@
+.main_service_area .signle_service_left h2{
+    font-size: 7.964375rem;
+    line-height: 10rem;
+    color: #e1e1e1;
+    max-width: 60%;   

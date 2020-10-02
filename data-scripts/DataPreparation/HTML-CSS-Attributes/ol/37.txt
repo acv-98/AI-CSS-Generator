@@ -1,0 +1,6 @@
+	display: inline-block;
+	margin-left: 20px;
+	border: 1px solid #777;
+	color: #555;
+	padding: 8px 20px;
+	background: #222;

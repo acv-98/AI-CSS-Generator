@@ -1,0 +1,13 @@
+	display:block;
+	float:right;
+	margin:-10px 0;
+	padding:10px 0 0;
+	width:106px;
+	height:28px;
+	font-weight:normal;
+	text-decoration:none;
+	color:#fff;
+	font-size:30px;
+	text-align:center;
+	background:url(../images/comment.gif) no-repeat left top;
+	border:1px solid #dedede;

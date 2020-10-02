@@ -1,0 +1,11 @@
+	width: 240px;
+	height: 295px;
+	padding: 50px 0px 0px 0px;
+	float: left;
+	background: url(../images/featuredbg.gif) right repeat-y;
+	font-family: Georgia;
+	color: #fb5eea;
+	font-size: 14px;
+	margin: 0px 0px 15px 0px;
+	text-align: center;
+	line-height: 140%;

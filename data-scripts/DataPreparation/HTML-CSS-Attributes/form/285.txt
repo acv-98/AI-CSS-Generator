@@ -1,0 +1,15 @@
+  border: 1px solid #a5d549;    
+	border: 1px solid #4568DC;    
+	background: transparent;
+	color: #333;
+	font-size: 15px;
+	border-radius: 0;
+	height: 45px;
+	margin-bottom: 24px;
+	padding: 10px;
+	background-color: #fff;
+    outline: 0;
+    box-shadow: none;    
+	float: left;
+	margin-left: 0;
+		width: 100%;

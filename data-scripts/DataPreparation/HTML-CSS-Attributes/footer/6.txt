@@ -1,0 +1,18 @@
+	margin-top: 30px;
+	display: inline-block;
+	float: none;
+	border: 1px solid #e8ecee;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	color: #c6cacc;
+	font-size: 14px;
+	height: 32px;
+	line-height: 32px;
+	margin-right: 5px;
+	text-align: center;
+	width: 32px;
+	background-color: #e84545;
+	border-color: #e84545;
+	padding-top: 50px;
+	margin-bottom: 80px;

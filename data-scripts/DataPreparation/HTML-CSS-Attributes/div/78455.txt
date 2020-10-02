@@ -1,0 +1,1 @@
+ background:url('../images/slider-caption-bg.png'); position:absolute;  color:#fff;  margin:0 0 0.7em; font-weight: normal;  font-size: 12px; 

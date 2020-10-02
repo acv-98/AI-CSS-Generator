@@ -1,0 +1,4 @@
+	background:url(images/slide-info-bg.gif) no-repeat 0 27px;
+	width:430px;
+	min-height:172px;
+	height:auto !important;

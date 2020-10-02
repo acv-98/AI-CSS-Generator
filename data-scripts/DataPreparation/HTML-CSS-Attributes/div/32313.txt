@@ -1,0 +1,7 @@
+	width:90%;
+	float:none;
+	margin:5px auto 5px auto;
+	padding:0px 0px 13px 30px;
+	background-image: url(../images/orange-cross.png);
+	background-repeat: no-repeat;
+	font-size:10pt;

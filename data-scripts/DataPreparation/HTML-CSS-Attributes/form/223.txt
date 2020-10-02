@@ -1,0 +1,6 @@
+      min-width: 430px;
+      display: inline-block;
+    margin-bottom: 0;
+    width: auto;
+    margin-top: 0;
+    position: relative;

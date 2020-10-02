@@ -1,0 +1,10 @@
+	color: #888;
+	font-size: 1.55em;
+	font-weight: 400;
+	margin: 0.45em 0 0.5em 0;
+	line-height: 1.5em;
+	border:1px solid #EEE;
+	border-right:0px;
+	border-left:0px;
+	padding:5em 0;
+		font-size: 1.7em;

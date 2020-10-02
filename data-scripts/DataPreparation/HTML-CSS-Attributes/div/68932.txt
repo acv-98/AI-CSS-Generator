@@ -1,0 +1,21 @@
+   display: inline-block;
+   vertical-align: middle;
+   margin: 0 auto;
+   width: 85%;
+   padding-bottom: 30px;s
+   text-align: center;
+ width: 100%; header .banner-text h1 {
+   font: 90px/1.1em 'opensans-bold', sans-serif;
+   color: #fff;
+   letter-spacing: -2px;
+   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+   border-color: #2F2D2E;
+      font: 80px/1.1em 'opensans-bold', sans-serif;
+      letter-spacing: -1px;
+      margin: 0 auto 12px auto;
+ padding-bottom: 12px;    header .banner-text h1 {
+      width: 80%;
+      padding-bottom: 12px;
+      padding-top: 6px;
+ font: 68px/1.1em 'opensans-bold', sans-serif;    header .banner-text h3 {
+ padding-top: 24px; 

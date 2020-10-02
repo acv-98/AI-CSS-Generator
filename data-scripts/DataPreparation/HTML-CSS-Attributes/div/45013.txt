@@ -1,0 +1,23 @@
+  background: #FFFFFF;
+  border: 1px solid #EEEEEE;
+  border-bottom: 0;
+  position: relative;
+  padding-bottom: 0;
+  display: block;
+  -webkit-animation: fadeIn 300ms;
+  animation: fadeIn 300ms;
+  padding-top: 10px;
+  left: 0;
+  top: 0;
+  margin-left: 0;
+  width: 94px;
+  height: 140px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 18px;
+  border-color: transparent;
+  border-width: 0;
+.masonery_area .single-blog .post-thumb{
+  margin-top: 5px;
+  border-top:0;
+    margin-top: 0;

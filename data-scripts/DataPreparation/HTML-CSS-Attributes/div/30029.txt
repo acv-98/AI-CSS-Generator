@@ -1,0 +1,9 @@
+	display: block;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	letter-spacing:-2px;
+	font-weight:700;
+	top: 0px;
+	padding-left: 150px;
+		margin-bottom:30px;

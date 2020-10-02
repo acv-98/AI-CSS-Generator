@@ -1,0 +1,2 @@
+background: url(../img/icons/social/deviantart.png) no-repeat;	background: url(../img/icons/social2/deviantart.png) no-repeat 0 0;
+	background-color: #d0de21;

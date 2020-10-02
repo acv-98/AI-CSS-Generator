@@ -1,0 +1,6 @@
+	background:url(../images/bg-img.gif) 0 0 no-repeat;
+	width:150px;
+	height:6px;
+	position:absolute;
+	top:-6px;
+	left:-152px;

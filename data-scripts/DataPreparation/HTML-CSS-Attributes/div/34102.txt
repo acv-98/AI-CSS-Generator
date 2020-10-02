@@ -1,0 +1,6 @@
+	float:left;
+	width:460px;
+	padding-left:36px;
+	margin:0 0 50px 0;
+	background:url(../images/portfolio-img-bg.jpg) no-repeat;
+	height:310px;

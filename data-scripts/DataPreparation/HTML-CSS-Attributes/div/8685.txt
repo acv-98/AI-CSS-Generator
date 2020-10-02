@@ -1,0 +1,10 @@
+	margin: 0 auto;
+	width:940px;
+	height:229px;
+	overflow:hidden;
+	position:relative
+	display:block;
+	right:0px;
+	top:14px;
+	background:url(../images/carousel-control.png) right top no-repeat;
+	text-indent:-5000px

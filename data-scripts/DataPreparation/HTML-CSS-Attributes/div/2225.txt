@@ -1,0 +1,3 @@
+    color: #e7a331;
+    padding: 5px;
+    display: inline-block;

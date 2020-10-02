@@ -1,0 +1,1 @@
+	background: url(../images/top-social-icons.png) no-repeat -207px 0px;

@@ -1,0 +1,8 @@
+  
+ color: #ecc731;  background: url(sidebar-divider.png) no-repeat; 	font-size: 14px;
+	font-family: Tahoma, arial;
+	margin-bottom: 20px;
+	font-weight: normal;
+ font-size: 12px; #sidebar .cat-list a{
+	line-height: 40px;
+	text-decoration: none;

@@ -1,0 +1,3 @@
+						background:url(../images/slider_bg.png) no-repeat; 
+						height:358px;
+						margin:20px 0 0px 0px;

@@ -1,0 +1,11 @@
+	text-align: center;
+	float: none;
+	margin: 0 auto;
+	display: inline-block;
+	background: #ffffff;
+	margin-top: 20px;
+	font-size: 14px;
+	color: #636363;
+	margin-right: 10px;
+	text-decoration: underline;
+	padding: 15px 0px;

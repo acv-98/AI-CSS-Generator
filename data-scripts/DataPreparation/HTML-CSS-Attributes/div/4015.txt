@@ -1,0 +1,9 @@
+  display: none;
+  visibility: hidden;
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+    visibility: visible !important;
+  background: #E8CE0E;
+  color: #fff;

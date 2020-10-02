@@ -1,0 +1,7 @@
+ left: 0%;  left:30%;  left:-70%; 
+  clear:both;
+  float:left;
+  width:100%;
+  position:relative;
+  padding:0;
+  overflow:hidden;

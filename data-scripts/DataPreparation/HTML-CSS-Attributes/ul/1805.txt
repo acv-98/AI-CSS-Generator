@@ -1,0 +1,17 @@
+	float:right;
+	list-style:none;
+	padding:20px 0 0 0;
+	margin:0;
+	width:330px;
+	background:url(images/slider_details_bg.jpg) no-repeat center;
+	height:272px;
+	font-size:12px;
+	color:#fff;
+	display:block;
+	line-height:45px;
+	text-decoration:none;
+	font-weight:bold;
+	position:relative;
+	left:-10px;
+	z-index:999;
+	outline:none;

@@ -1,0 +1,9 @@
+	position: relative;
+	display: inline-block;
+	padding: 9px;
+	white-space: nowrap;
+	line-height: 28px;
+	font-size: 14px;
+	font-weight: 300;
+	cursor: pointer;
+	color: #FFF;

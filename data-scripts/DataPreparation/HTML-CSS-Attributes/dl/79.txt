@@ -1,0 +1,7 @@
+	width:270px;
+	font-weight:bold;
+	margin-bottom:5px;
+	overflow:hidden;
+	font-style:normal;
+	float:left;
+	text-align:right;

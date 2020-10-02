@@ -1,0 +1,13 @@
+   margin-left: 36px;
+   margin-right: 20px;
+   margin-top: 13px;
+   float: left;
+   width: auto; 
+   z-index: 991; 
+   position: relative; 
+   display: block;
+	padding: 0;
+	border: none;
+	outline: none;
+   height: 18px;   
+ margin-right: 36px; 

@@ -1,0 +1,9 @@
+    font-size: 54px;
+    color: #232323;
+    display: block;
+    font-weight: 600;
+    margin: 20px 0;
+    padding: 0;
+    line-height: 1;
+    margin-top: 15px;
+    text-decoration: underline !important;

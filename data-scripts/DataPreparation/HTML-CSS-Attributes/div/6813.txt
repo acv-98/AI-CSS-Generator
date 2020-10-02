@@ -1,0 +1,13 @@
+	float:right;
+	width:220px;
+	height:90px;
+	padding:30px;
+	background:url(../images/blue-bg.png);
+	font-weight:normal;
+	font-size:18px;
+	color:#ffffff;
+	text-transform:uppercase;
+	padding-bottom:20px;
+	border: 0 solid green;
+	padding-left: 10px;
+	line-height:32px;

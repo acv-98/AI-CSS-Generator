@@ -1,0 +1,5 @@
+ margin-bottom: 60px; 
+.tm-page-2-p {
+	font-size: 22px;
+	line-height: 1.6;
+ margin-bottom: 30px; 	

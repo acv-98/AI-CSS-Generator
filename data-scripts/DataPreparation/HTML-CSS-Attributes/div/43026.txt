@@ -1,0 +1,2 @@
+background:none.carousel-indicators
+color:#09ccolor:#444color:#252525

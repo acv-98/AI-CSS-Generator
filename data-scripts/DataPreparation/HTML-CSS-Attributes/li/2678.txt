@@ -1,0 +1,7 @@
+    outline: 0;
+	border-top: 3px solid #6cb670;
+	background-color: #2F383D;
+	color: #6CB670;
+	margin-bottom: 25px;
+    background-color: #6CB670;
+    color: #fff;

@@ -1,0 +1,4 @@
+	font-size:0.01em;
+	width:496px;
+	height:2px;
+	background: url(../images/ass_divider_wid.jpg) 0 0 repeat-x;

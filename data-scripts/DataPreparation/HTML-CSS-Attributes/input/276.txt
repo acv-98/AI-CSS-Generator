@@ -1,0 +1,1 @@
+width:180px; height:36px; border:none; float:left; background:none repeat scroll 0 0 transparent; text-indent:5px;font-family: 'Open Sans', sans-serif; font-size:13px; color:#fff;

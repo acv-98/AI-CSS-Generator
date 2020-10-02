@@ -1,0 +1,16 @@
+  height: 45px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
+  width: 1%;
+  white-space: nowrap;
+  vertical-align: middle;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+  position: relative;
+  margin-left: -4px;
+  z-index: 2;
+border-radius: 0 20px 20px 0; background: #34b091; color: #fff; font-family: 'source_sans_problack'; text-transform: uppercase; border: none; padding: 6px 5px; font-size: 12px; line-height: 23px;background: #454855; color: #34b091; transition:all 1s;

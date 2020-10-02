@@ -1,0 +1,6 @@
+	position: absolute;
+	width: 266px;
+	height: 13px;
+	top: -13px;
+	left: 0;
+	background: url(images/sidebar_top.png) no-repeat;

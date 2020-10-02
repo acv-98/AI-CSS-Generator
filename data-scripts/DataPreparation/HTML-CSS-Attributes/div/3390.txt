@@ -1,0 +1,8 @@
+float:left;
+width:622px;
+background:#FFEEFE;
+border-left:1px solid #FFD3FA;
+border-right:1px solid #FFD3FA;
+border-bottom:1px solid #FFD3FA;
+margin-left:15px;
+display:inline;

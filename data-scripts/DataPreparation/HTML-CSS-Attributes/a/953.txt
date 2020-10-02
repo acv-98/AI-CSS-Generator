@@ -1,0 +1,5 @@
+	text-decoration:none;
+	color:#5698be;
+	font-size:18px;
+	text-transform:uppercase;
+	background:url(../images/menu-top-arrow.png) no-repeat top center;

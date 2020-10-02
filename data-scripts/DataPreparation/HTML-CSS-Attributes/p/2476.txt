@@ -1,0 +1,12 @@
+	background-image:url(../images/infoalert.png);
+	border:1px solid #CCCCCC;
+	background-color:#E0E0E0;
+	padding:15px 15px 15px 45px;
+	background-repeat: no-repeat;
+	background-position: 10px 10px;
+	border-radius:3px;
+	box-shadow:0px 1px 5px #999;
+	margin: 10px 0px;
+	font-family:sans-serif;
+	font-weight:bold;
+	font-size:11pt;

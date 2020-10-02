@@ -1,0 +1,3 @@
+	width: 90px;
+	padding-left: 100px;
+	margin-left: 0px;

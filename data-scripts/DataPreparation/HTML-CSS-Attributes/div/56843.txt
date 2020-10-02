@@ -1,0 +1,7 @@
+	margin-left:80px;
+	padding-top:10px;
+	width:200px;
+	height:80px;
+	color:#cecece;
+	text-decoration:underline;
+	font-size:.8em;

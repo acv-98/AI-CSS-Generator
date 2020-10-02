@@ -1,0 +1,2 @@
+	border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; -o-border-radius: 8px;
+ text-decoration: none; color: #066995; .flexslider { margin-top: 24px; width: 950px; height: 377px;  overflow: hidden;

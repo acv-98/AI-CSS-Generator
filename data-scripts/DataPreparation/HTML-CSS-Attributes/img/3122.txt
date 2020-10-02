@@ -1,0 +1,4 @@
+  -ms-flex-item-align: start !important;
+  align-self: flex-start !important;
+  width: 100%;
+  padding: 3px;

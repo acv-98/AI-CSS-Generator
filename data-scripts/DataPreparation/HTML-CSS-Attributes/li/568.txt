@@ -1,0 +1,2 @@
+background: url(../img/icons/social/picasa.png) no-repeat;	background: url(../img/icons/social2/picasa.png) no-repeat 0 0;
+	background-color: #444;

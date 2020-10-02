@@ -1,0 +1,12 @@
+	width: 260px;
+	float:left;
+	margin-bottom:40px;
+	margin-top:40px;
+	font-weight:normal;
+	color:#b42626;
+	font-size:24px;
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.9);
+	text-align:center;
+	padding-bottom:10px;
+	height:10px;
+	background:url(../images/left-panel-top.png);

@@ -1,0 +1,12 @@
+-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box
+.lt-ie9 .small-block-grid-2 {
+    list-style: none
+    text-transform: uppercase;
+    color: #000;
+    font-size: 1.8em;
+    border-bottom: 1px solid #f0f0e9;
+    font-weight: normal;
+    line-height: 2em;
+    margin-top: 0;
+    padding-bottom: 20px;
+    font-family: 'oswaldregular', sans-serif;

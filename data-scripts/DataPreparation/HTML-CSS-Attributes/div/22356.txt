@@ -1,0 +1,9 @@
+	margin-left: 24px;
+	margin-right: 24px;
+	margin-bottom: 60px;
+	position: relative;
+	display: none;
+	left: 0px;
+	right: auto;
+	bottom: -30px;
+	text-align: left;

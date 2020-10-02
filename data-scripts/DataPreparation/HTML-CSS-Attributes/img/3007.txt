@@ -1,0 +1,17 @@
+	max-height: 100%;
+	width: auto;
+	right: 0%;
+	top: 0px;
+    filter: alpha(opacity=0); 
+    opacity: 0;
+	z-index: 6;
+	-webkit-transition: all 1s cubic-bezier(0.2,0.1,0.1,0.9) 0.3s;
+	-moz-transition: all 1s  cubic-bezier(0.2,0.1,0.1,0.9) 0.3s;
+	-ms-transition: all 1s  cubic-bezier(0.2,0.1,0.1,0.9) 0.3s;
+	-o-transition: all 1s  cubic-bezier(0.2,0.1,0.1,0.9) 0.3s;
+	transition: all 1s  cubic-bezier(0.5,0.1,0.1,0.9) 0.3s;
+   -moz-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000) 0.3s; 
+    -ms-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000) 0.3s; 
+     -o-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000) 0.3s; 
+        transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000) 0.3s;		
+	left: -340%;

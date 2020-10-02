@@ -1,0 +1,20 @@
+	height:180px !important;
+	padding-left:15px !important;
+	padding-right:30px !important;
+	width:800px;
+	margin-left:-45px !important;
+	margin-right:-15px !important;
+	background:#fff;
+	color:#000;
+	position:absolute;
+	top:0;
+	right:-4px;
+	cursor:pointer;
+.jcarousel-skin-tango .jcarousel-prev-horizontal{
+	left:6px;
+Template Name:Akono HTML Template
+Description:A Business/Portfolio HTML Template
+Author:Chris Creed
+URL:http://www.chris-creed.com
+@import "reset.css";
+#wrap{

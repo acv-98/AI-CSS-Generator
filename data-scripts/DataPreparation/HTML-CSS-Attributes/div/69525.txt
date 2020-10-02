@@ -1,0 +1,9 @@
+  position: relative;
+  z-index: 2;
+  font-size: 54px;
+  font-weight: 300;
+  color: #fff;
+  line-height:76px;
+  padding-bottom:120px;
+  text-align: center;  font-size: 40px;  line-height: 60px;padding-bottom: 50px;  margin: 0 auto;  text-align: center;  margin-top: 50px;
+  text-align: center;  font-size: 40px;  line-height: 60px;padding-bottom: 50px;  margin: 0 auto;  text-align: center;  padding-bottom: 65px;

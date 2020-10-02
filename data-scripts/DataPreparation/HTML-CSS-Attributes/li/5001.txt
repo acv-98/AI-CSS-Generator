@@ -1,0 +1,2 @@
+	background: url(../img/icon-skype.png) no-repeat 0 7px;
+	padding-left: 45px !important;

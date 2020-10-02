@@ -1,0 +1,9 @@
+	margin:0 0 16px;
+	padding:6px 20px;
+	background:url(../images/white_bg.jpg) repeat left top;
+	display:block;
+	float:right;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#c4c3c3;

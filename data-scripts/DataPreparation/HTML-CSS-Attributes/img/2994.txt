@@ -1,0 +1,26 @@
+  float: left;
+  display: block;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  left: -100%;
+	background:#ef6603;
+  color: white;
+  cursor: pointer;
+  font-size: 80px;
+  font-weight: bold;
+  padding:10px;
+  height: 10px;
+  z-index: 20;
+	
+  -webkit-transition-duration: 0.4s;
+  -moz-transition-duration: 0.4s;
+  -ms-transition-duration: 0.4s;
+  -o-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  opacity: 1;
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  transform: scale(1.2);

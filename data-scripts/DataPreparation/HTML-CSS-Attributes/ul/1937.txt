@@ -1,0 +1,9 @@
+	margin-top: 0;
+	background: #3d3d3d none repeat scroll 0 0;
+	border-radius: 50%;
+	color: #ffffff;
+	width: 26px;
+	height: 26px;
+	padding: 4px 0;
+	display: inline-block;
+	float: none;

@@ -1,0 +1,11 @@
+	font-weight:bold;
+	background-color: #fff;
+    background: -moz-linear-gradient(top, #fff, #fff);
+    filter: progid:DXImageTransform.Microsoft.Gradient(StartColorStr='#fff', EndColorStr='#fff', GradientType=0);
+	padding: 6px 16px;
+	display: block;
+	border-left: 1px solid #DDD;
+	border-top: 1px solid #DDD;
+	border-right: 1px solid #DDD;
+	text-decoration: none;
+	background-position: right 5px;

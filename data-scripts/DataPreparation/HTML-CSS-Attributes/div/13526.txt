@@ -1,0 +1,10 @@
+  width: 380px;
+  *width: 40.37234042553192%;
+  float: none;
+  margin-left: 0;
+    width: 470px;
+    *width: 40.11774868157847%;
+ min-height: 250px;  min-height: 200px;  min-height: 200px;  min-height: 150px;  width: 470px; .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 380px; #ie8 .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 380px;     .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 290px; 

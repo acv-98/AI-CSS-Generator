@@ -1,0 +1,5 @@
+	border: 1px solid white;
+	color: white;	
+	font-style: italic;	
+	width: 100%;
+	height: 100%;

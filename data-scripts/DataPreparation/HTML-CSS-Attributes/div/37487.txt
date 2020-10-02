@@ -1,0 +1,15 @@
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  padding: 10px 100px;
+    padding: 10px 0;
+  margin-top: 150px;
+    margin-top: 50px;
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 15px 40px 0 rgba(0, 0, 0, 0.08);
+  width: 150px;
+  transform: rotate(20deg);
+  font-family: "Lato-Regular";
+  font-size: 24px;
+  color: #1d3ede;

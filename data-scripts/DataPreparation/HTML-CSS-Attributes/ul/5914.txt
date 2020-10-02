@@ -1,0 +1,40 @@
+display:none;	#asyncslider_slides_nav li a {
+		width:9px;
+		height:9px;
+		background:url(../images/async/assets/bullets.png) no-repeat transparent;
+		float:left;
+		margin:0 0 0 2px;
+		position:relative;
+		z-index:1000000000;
+		display:block;
+width:531px;width:283px;width:104px; left:-41px;z-index:1;top:153px;  left:422px;z-index:12;top:189px;  left:125px;z-index:4;top:24px;  position:absolute;top:230px;  position:relative; 	
+		.asyncslider div, .asyncslider span,.asyncslider  applet, .asyncslider object, .asyncslider iframe, .asyncslider h1, .asyncslider h2, .asyncslider h3, .asyncslider h4, .asyncslider h5, .asyncslider h6, .asyncslider p, .asyncslider blockquote, .asyncslider pre, .asyncslider a, .asyncslider abbr, .asyncslider acronym, .asyncslider address, .asyncslider big, .asyncslider cite, .asyncslider code, .asyncslider del, .asyncslider dfn, .asyncslider em, .asyncslider img, .asyncslider ins, .asyncslider kbd, .asyncslider q, s, .asyncslider samp, .asyncslider small, .asyncslider strike, .asyncslider strong, .asyncslider sub, .asyncslider sup, .asyncslider tt, .asyncslider var, .asyncslider b, .asyncslider u, .asyncslider i, .asyncslider center, .asyncslider dl, .asyncslider dt, .asyncslider dd, .asyncslider ol, .asyncslider ul, .asyncslider li, .asyncslider fieldset, .asyncslider form, .asyncslider label, .asyncslider legend, .asyncslider table, .asyncslider caption, .asyncslider tbody, .asyncslider tfoot, .asyncslider thead, .asyncslider tr, .asyncslider th, .asyncslider td, .asyncslider article, .asyncslider aside, .asyncslider canvas, .asyncslider details, .asyncslider embed, .asyncslider figure,.asyncslider  figcaption, .asyncslider footer, .asyncslider header, .asyncslider hgroup, .asyncslider menu, .asyncslider nav, .asyncslider output, .asyncslider ruby, .asyncslider section, .asyncslider summary, .asyncslider time, .asyncslider mark, .asyncslider audio, .asyncslider video {
+	color: #ffffff;
+	text-shadow: 1px 1px 1px #353535;
+	font-size:13px;
+	line-height:17px;
+ left:-40px;z-index:1;top:139px;  left:300px;z-index:4;top:175px; left:20px;z-index:4;top:10px;  position:relative; font-size:16px;line-height:20px;margin-bottom:-10px;font-size:11px;left:90px;width:270px;left:10px;width:180px;left:300px;width:80px;top:120px;display:none;display:none;display:block;padding:0;margin:0;	ul.slidecontrols {
+		top:4px;
+float:right;background:#f4f3f3;padding:0 6px 0 6px;margin:0 -6px 0 -6px;	ul.slidecontrols li a.next,ul.slidecontrols li a.prev {
+		transition: all 0.23s cubic-bezier(0.75,0.16,0.98,0.48) 0s;
+		background-position:left top;
+		margin-right:2px;
+background-color:#3aa9d2;	.slidecontrols li a.next, .slidecontrols li a.prev {
+		cursor: pointer;
+		text-indent: -9999em;
+background-color:#3aa9d2;background-color:#3aa9d2;background-color:#cecece;top:-25px;position:absolute;width:16px;height:16px; 	.footer ul.slidecontrols li a.next {
+		right:0;
+position:absolute;	.footer ul.slidecontrols li a.prev {
+width: 100%; display: block;content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;height: 1%;display: block;margin:0; padding: 0;zoom: 1;position:relative;height:550px;height:440px;height:500px;	body .slug-pattern {
+		min-width:340px;
+height:650px;	.header .container {
+		padding-top:6px;
+top:-10;margin-bottom:0;	.header .logo {
+padding:0;margin:0;margin:0;padding:0;	.clients {
+		margin-bottom:7px;
+background-image:url(../images/icons/sm_icons/round/icon-slideshare.png);top:-25px;margin-bottom:0;display:none;top:-25px;margin-bottom:0;		.clients .client {
+			width:100%;
+			text-align:center;
+			margin-bottom:20px;
+			border-top:none; 
+display:none;

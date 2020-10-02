@@ -1,0 +1,1 @@
+ margin:0; padding:0; height:237px; background:url(images/header_bg.jpg) repeat-x center top; margin:0 auto; padding:0; width:970px;

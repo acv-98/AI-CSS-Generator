@@ -1,0 +1,4 @@
+	height:23px;
+	background:url(../images/headingbg2.jpg) left top no-repeat;
+	padding:5px 0px 0px 22px;
+	margin:0px 0px 18px 0px;

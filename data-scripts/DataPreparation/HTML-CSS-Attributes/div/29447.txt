@@ -1,0 +1,13 @@
+	top: -1px;
+	left: 932px;
+	bottom: 0;
+	padding-left: 42px;
+	padding-right: 56px;
+	position: absolute;
+	font: normal 30px/36px Arial, Helvetica, sans-serif;
+	color: #fff;	
+	padding-top: 193px;
+	width: 203px;
+	background: #333131;
+	font-style: normal;
+	font-size: 24px;

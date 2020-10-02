@@ -1,0 +1,7 @@
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: .3em;
+  text-align: center;
+  line-height: 1.5;
+  color: #7b7b7b;
+  display: block;

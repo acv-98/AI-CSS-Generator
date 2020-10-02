@@ -1,0 +1,10 @@
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	cursor: pointer;
+	background: #333333;
+	color: #ffffff;
+	padding: 14px 20px;
+	border-radius: 100px;
+	overflow: hidden;

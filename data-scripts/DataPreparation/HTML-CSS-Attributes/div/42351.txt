@@ -1,0 +1,14 @@
+  padding-bottom: 20px;
+  width: 220px;
+  padding-right: 12px;
+  position: relative;
+  background-color: #ffffff;
+  color: #222;
+  font-size: 20px;
+  font-weight: bold;
+  top: 50%;
+  left: 3%;
+    width: 100%;
+    padding-bottom: 14px;
+    top: 30%;
+    left: 6%;

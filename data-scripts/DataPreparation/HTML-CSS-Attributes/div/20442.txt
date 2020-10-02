@@ -1,0 +1,13 @@
+        padding-top: 181px;
+        max-width: 60%;
+        margin: 0 auto;
+    color:#fff;
+    overflow: hidden;
+    background: #202242;
+    padding-bottom: 110px;
+    max-height: 178px;
+    margin-top:50px
+    font-size:2.25rem;
+    font-family: 'ralewaybold';
+    margin-bottom:20px;
+    line-height: 9.3rem;

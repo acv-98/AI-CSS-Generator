@@ -1,0 +1,18 @@
+margin:0 auto 25px auto;		width:100%;
+		text-align:center;
+		margin:0 auto 35px auto;
+		position:relative;
+		top:38px;
+		z-index:5;
+		background:url(../images/design/header-title-rg.png) left top no-repeat transparent;
+		height:122px;
+		left:230px;
+		font-size:37px;
+		font-style:italic;
+		font-family:"Open Sans";
+		font-weight:600;
+		color:#ffffff;
+		text-shadow: 1px 1px 1px #1c1c1c;
+			display:none;
+			font-size:34px;
+			top:-16px;

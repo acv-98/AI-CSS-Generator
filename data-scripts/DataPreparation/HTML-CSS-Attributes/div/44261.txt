@@ -1,0 +1,15 @@
+	overflow: auto;
+	margin: auto;
+	position: absolute;
+	top: 31px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 1170px;
+	height: 254px;
+	//left: 367px;
+	//top: 55px;
+	content: '';
+	z-index: 30;
+	background: url(../images/horL.png) no-repeat;
+		display:none;

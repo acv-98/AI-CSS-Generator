@@ -1,0 +1,9 @@
+	float:left;
+	display:inline;
+	width:65px;
+	background:url(images/ico-subscribe.gif) no-repeat right 3px;
+	color:#939393;
+	font-family:"Times New Roman", Arial, sans-serif;
+	margin:27px 0 0 403px;
+	padding-right:14px;
+	text-transform:uppercase;

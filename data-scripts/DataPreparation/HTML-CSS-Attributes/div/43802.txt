@@ -1,0 +1,2 @@
+	max-width: 420px;
+	overflow: auto; 

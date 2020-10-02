@@ -1,0 +1,5 @@
+	width:960px;
+	background: url(../images/vertical-bars-background-sec.png) no-repeat;
+	background-position:left top;
+	margin:0 auto;
+	text-align:left;

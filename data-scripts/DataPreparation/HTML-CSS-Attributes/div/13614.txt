@@ -1,0 +1,11 @@
+ font-size: 12px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400; 
+	width: 141px;
+	float: none;
+ width:176px;  width:119px;  font-size: 10px !important  width: 157px  border: 1px solid #DFDCDC; width: 82%;  margin-bottom: 20px;  width: 95%;  width: 73%;  width: 93%;     height: 46px;
+    float: left;
+    border-left: 1px solid #dfdcdc;
+    box-shadow: none;
+    border-radius: 0px;
+    margin: 1px;
+    width: 221px;
+    padding-top: 15px;

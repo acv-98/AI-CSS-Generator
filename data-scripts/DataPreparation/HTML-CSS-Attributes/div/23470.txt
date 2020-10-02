@@ -1,0 +1,7 @@
+ background:  #000 !important;color:  #fff !important; border: none !important;
+#bodycomparison {
+	position: relative;
+	overflow: hidden;
+	font-size: 72px;
+	height: 90px;
+	white-space: nowrap;

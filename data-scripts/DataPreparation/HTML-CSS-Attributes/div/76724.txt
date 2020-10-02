@@ -1,0 +1,5 @@
+	height: 5px;
+	cursor: w-resize;
+	left: -17px;
+	top: -10px;
+	width: 28px;

@@ -1,0 +1,8 @@
+	background-color: #ee5057;
+	border-color: #ee5057;
+	border-radius: 0;
+	cursor: pointer;
+	font-size: 0.7rem;
+	font-weight: 600;
+	padding: 13px 30px;
+	text-transform: uppercase;

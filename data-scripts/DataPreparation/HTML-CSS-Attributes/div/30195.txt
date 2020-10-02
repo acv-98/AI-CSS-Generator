@@ -1,0 +1,8 @@
+	behavior:url("../js/PIE.htc");
+	position:relative
+	padding:27px 33px 36px
+	border:1px solid #eaeaea;
+	background:url(../images/block-news-tail.gif) 0 0 repeat-x #f9f9f9;
+	border-radius:18px;
+	-moz-border-radius:18px;
+	-webkit-border-radius:18px

@@ -1,0 +1,10 @@
+	color: #F7C221;
+		display: block;
+		padding: 50px 0;
+		position: relative;
+		background-color: #FFF;
+		margin:40px 0;
+		color:#999999;
+		font-size:16px;
+		text-transform:uppercase;
+		font-weight:500;

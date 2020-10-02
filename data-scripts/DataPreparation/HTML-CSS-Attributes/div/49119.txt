@@ -1,0 +1,7 @@
+    width: 100%;
+    text-align: center;
+    height: 1px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background: #e4e4e4;
+    display: inline-block;

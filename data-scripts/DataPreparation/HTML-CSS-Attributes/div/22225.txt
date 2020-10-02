@@ -1,0 +1,4 @@
+	background:#f6f6f6;
+	text-align:center;
+	padding:20px 0 0;
+		margin-bottom:20px;

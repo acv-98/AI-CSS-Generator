@@ -1,0 +1,5 @@
+display:inline-block;height:1%;display:block;    content:".";
+    display:block;
+    line-height:0;
+    clear:both;
+    visibility:hidden;

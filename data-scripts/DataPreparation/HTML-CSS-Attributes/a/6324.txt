@@ -1,0 +1,15 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slide-btn-more.png', sizingMethod='image');
+	width:125px;
+	height:40px;
+	font-size:13px;
+	line-height:40px;
+	color:#fff;
+	font-weight:bold;
+	text-align:center;
+	display:block;
+	position:absolute;
+	bottom:14px;
+	left:0;
+	text-decoration:none;
+	margin:40px 0 0 auto;

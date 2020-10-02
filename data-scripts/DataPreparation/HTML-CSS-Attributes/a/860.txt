@@ -1,0 +1,12 @@
+	display:inline-block;
+	font-size:15px;
+	color:#fff;
+	text-transform:uppercase;
+	text-decoration:none;
+	padding:0 21px;
+	height:36px;
+	line-height:34px;
+	font-weight:400;
+	background:url(../images/button1_bg.gif) top repeat-x;
+	letter-spacing:-1px
+	background-image:url(../images/button2_bg.gif)

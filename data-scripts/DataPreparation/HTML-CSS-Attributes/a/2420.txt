@@ -1,0 +1,12 @@
+text-decoration:none;
+visibility:visible;
+left:0;
+right:0;
+top:0;
+bottom:0;
+transform:scale(1);
+-moz-transform:scale(1);
+-ms-transform:scale(1);
+-o-transform:scale(1);
+-webkit-transform:scale(1);
+opacity:1;

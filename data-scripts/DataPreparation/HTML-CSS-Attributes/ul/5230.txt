@@ -1,0 +1,2 @@
+  margin-right: -18px;
+margin-right: 1%;margin-right: -16px;

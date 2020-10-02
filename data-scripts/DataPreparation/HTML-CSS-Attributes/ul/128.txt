@@ -1,0 +1,8 @@
+	background: #5C9CC7;
+  list-style: none;
+  margin: 0;
+  display: inline-block;
+  background: #e6e6e6;
+  color: #333;
+  padding: 5px 10px;
+  text-decoration: none;

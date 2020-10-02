@@ -1,0 +1,28 @@
+				padding: 1.5em 1.25em 1.5em 1.25em;
+				background-color: rgba(255,255,255,0.9);
+					display: none;
+					width: 100%;
+					left: 0% !important;
+					text-align: center;
+					height: 10em;
+					background-size: cover;
+						left: 50%;
+							left: -50%;
+				border: solid 2px #e5e6e7;
+				color: inherit;
+					background-color: rgba(145,146,147,0.035);
+					background-image: url('images/arrow.svg');
+				overflow: hidden;
+					position: relative;
+					-moz-transition: all 1s ease;
+					-webkit-transition: all 1s ease;
+					-o-transition: all 1s ease;
+					-ms-transition: all 1s ease;
+					transition: all 1s ease;
+					
+					-moz-transform: translateZ(0);
+					-webkit-transform: translateZ(0);
+					-o-transform: translateZ(0);
+					-ms-transform: translateZ(0);
+					transform: translateZ(0);
+				border-color: inherit;

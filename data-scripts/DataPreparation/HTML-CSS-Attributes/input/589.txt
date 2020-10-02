@@ -1,0 +1,4 @@
+	float: left;
+	width: 65%;
+	text-align: left;
+	margin-right: 2px;

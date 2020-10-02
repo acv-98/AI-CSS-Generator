@@ -1,0 +1,29 @@
+ padding-left: 38px; #journal .entry .post-content p {
+   font: 16px/30px opensans-regular, sans-serif;
+   margin-left: 3px;
+   font-size: 14px;
+   margin-bottom: 24px;
+   width: 75%;
+  margin-top: 18px;
+  font-family: opensans-light, sans-serif;
+ font-family: opensans-bold, sans-serif; .post .bio {
+   margin-top: 48px;
+   padding-top: 29px;
+   border-top: 1px solid #E0E0E0;
+   background: #838A91;
+   color: #fff;
+   display: inline-block;
+   -webkit-transition: all 200ms ease-in-out;
+	-moz-transition: all 200ms ease-in-out;
+	-o-transition: all 200ms ease-in-out;
+	-ms-transition: all 200ms ease-in-out;
+	transition: all 200ms ease-in-out;
+   -moz-border-radius: 2px;
+   -webkit-border-radius: 2px;
+   -khtml-border-radius: 2px;
+	border-radius: 2px;
+ background: #11ABB0;  margin-left: 10px;  font-size: 18px;    .post .entry-header h1 {
+      padding-right: 18px;
+      font-size: 43px;
+      padding-left: 20px;
+      margin-top: 6px;

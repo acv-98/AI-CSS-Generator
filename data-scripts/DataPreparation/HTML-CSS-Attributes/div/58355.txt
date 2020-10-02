@@ -1,0 +1,1 @@
+background:url(images/bg-tail.jpg) center top repeat-y;position:relative;min-height:100%;height:auto !important;height:100%

@@ -1,0 +1,4 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slide-img.png', sizingMethod='image');
+	width:517px;
+	padding:31px 0 0 0;

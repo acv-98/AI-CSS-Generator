@@ -1,0 +1,7 @@
+    border:0;
+    font-size:14px;
+    text-transform:uppercase;
+    color:#fff;
+	line-height: 55px;
+    background-color: transparent;
+    border-top: 3px solid #4bcaff;

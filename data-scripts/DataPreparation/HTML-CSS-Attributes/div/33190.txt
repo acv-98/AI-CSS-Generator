@@ -1,0 +1,15 @@
+display: block !important;display: block !important; padding: 5px !important;margin-bottom: 0 !important;display: none;display: none; width: 100%;background: #3e3c4a;font-weight: normal;padding: 10px;height: 42px; color: #fff; border-radius: 0px; cursor: pointer; outline: 0; border:none !important;position:relative; width: 100%;    .mini-menu label:after {
+    content:'<>';
+    font:11px "Consolas", monospace;
+    color:#fff;
+    -webkit-transform:rotate(90deg);
+    -moz-transform:rotate(90deg);
+    -ms-transform:rotate(90deg);
+    transform:rotate(90deg);
+    right:14px; top:14px;
+    padding:0 0 2px;
+    position:absolute;
+    pointer-events:none;
+    width: 25px; height: 25px;
+    background:#3e3c4a;
+    display:block;

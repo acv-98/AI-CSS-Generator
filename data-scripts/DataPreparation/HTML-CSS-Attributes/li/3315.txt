@@ -1,0 +1,2 @@
+	color:#497e04
+	background:url(../images/menu_icon1_active.gif) bottom center no-repeat

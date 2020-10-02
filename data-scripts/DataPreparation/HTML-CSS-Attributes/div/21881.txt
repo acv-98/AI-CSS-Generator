@@ -1,0 +1,16 @@
+	display: -ms-flexbox;
+	-ms-flex-direction: column;
+	    -webkit-box-orient: vertical;
+	    -webkit-box-direction: normal;
+	    -webkit-flex-direction: column;
+	        flex-direction: column;
+	margin-top: 25px;
+	padding: 40px 20px; 	padding: 50px; 		-ms-flex-direction: row;
+		    -webkit-box-orient: horizontal;
+		    -webkit-box-direction: normal;
+		    -webkit-flex-direction: row;
+		        flex-direction: row;		
+		-webkit-flex-wrap: wrap;
+		    -ms-flex-wrap: wrap;
+		        flex-wrap: wrap;
+	padding: 80px 50px 60px;  margin-top: 0; 	padding: 100px 50px 100px; 

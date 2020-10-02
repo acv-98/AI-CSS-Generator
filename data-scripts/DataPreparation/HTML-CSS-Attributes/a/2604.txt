@@ -1,0 +1,4 @@
+	width:12px;
+	background:url(../images/marker_1.gif) right 6px no-repeat;
+	display:inline-block;
+	text-decoration:none;

@@ -1,0 +1,11 @@
+	float:left;
+	width:620px;
+	height:90px;
+	padding:30px;
+	background:url(../images/header-panesl-bg.png);
+	box-shadow: 0 1px 0px 0px rgba(140, 140, 140, 0.1);
+	font-weight:normal;
+	font-size:18px;
+	color:#ffffff;
+	text-transform:uppercase;
+	padding-bottom:15px;

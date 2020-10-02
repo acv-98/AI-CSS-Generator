@@ -1,0 +1,3 @@
+		height: 80px;
+		display: none;
+	background-color: #ffffff;

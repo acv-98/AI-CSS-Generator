@@ -1,0 +1,1 @@
+	background:url(../images/right_menu.gif) top right no-repeat;

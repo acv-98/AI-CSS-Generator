@@ -1,0 +1,2 @@
+font-family: sans-serif;.work_meta p span{display: inline-block;
+font-family: oswald;

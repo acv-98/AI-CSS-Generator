@@ -1,0 +1,2 @@
+	float: right;
+	color: #988878;

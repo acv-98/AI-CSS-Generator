@@ -1,0 +1,8 @@
+  margin-top: 16px;
+  margin-right: 4px;
+  font-size: 14px;
+  font-weight: 300;
+  padding: 5px 15px;
+  background: #bbbbbb;
+  color: #fff;
+  border-radius: 3px;

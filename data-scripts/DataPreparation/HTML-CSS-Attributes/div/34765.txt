@@ -1,0 +1,11 @@
+    border: 1px dashed #d7d7d7;
+    padding: 19px;
+    margin-bottom: 30px;
+    padding-bottom: 0;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1;
+    display: block;
+    background: -webkit-linear-gradient(#3ac5c8, #0b509e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;

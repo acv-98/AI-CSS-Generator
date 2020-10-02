@@ -1,0 +1,6 @@
+	text-shadow:1px 1px 0px white,2px 2px 0px #CCC;
+	font-size:23px;
+	margin-bottom:15px;
+	margin-top:15px;
+	color:#000000;
+	font-weight:400;

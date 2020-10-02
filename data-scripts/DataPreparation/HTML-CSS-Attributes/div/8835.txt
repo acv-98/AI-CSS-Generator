@@ -1,0 +1,12 @@
+	height: 380px;
+		width: 560px;
+		padding-top: 60px;
+		padding-right: 420px;
+		font-weight: 400;
+		margin-top: 15px;
+		line-height: 1;
+	display: block;
+		position: relative;
+		color: #03C462;
+		margin-bottom: 10px;
+	overflow: hidden;

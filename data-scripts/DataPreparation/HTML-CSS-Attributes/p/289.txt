@@ -1,0 +1,4 @@
+	font:bold 24px Trajan Pro, Arial, Helvetica, sans-serif;
+	color:#000;
+	text-transform:uppercase;
+	padding:35px 0 25px 0;

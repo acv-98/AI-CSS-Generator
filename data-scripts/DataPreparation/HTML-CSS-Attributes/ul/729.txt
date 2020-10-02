@@ -1,0 +1,8 @@
+	display:inline-block;
+	float:left;
+	line-height:24px;
+	margin:0px 28px 0px 4px;
+	font-size:18px;
+	color:#fff;
+	text-transform:uppercase;
+	letter-spacing:-1px;

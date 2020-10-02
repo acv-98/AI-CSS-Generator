@@ -1,0 +1,5 @@
+  content: "\f10c";
+    font-size: 8px;
+    vertical-align: middle;
+    margin-right: 10px;
+    color: #FFCC33;

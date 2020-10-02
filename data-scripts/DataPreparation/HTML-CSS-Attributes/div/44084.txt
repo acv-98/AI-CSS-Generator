@@ -1,0 +1,1 @@
+ background: #fff  background: #fff url(images/box-left-bg.png) repeat-y top left; 

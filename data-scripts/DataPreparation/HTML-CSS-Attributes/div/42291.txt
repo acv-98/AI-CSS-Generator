@@ -1,0 +1,4 @@
+	background: url(../images/line-1.gif) 0 0 repeat-x #f6f6f6;
+	padding:15px 0 36px 0;
+	text-align:center;
+	margin-top:-7px;

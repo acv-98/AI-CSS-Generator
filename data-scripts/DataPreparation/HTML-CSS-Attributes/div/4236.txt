@@ -1,0 +1,11 @@
+  text-align: center;
+  margin-bottom: 30px;
+  width: 100px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  font-size: 24px;
+  color: #bfbfbf;
+  font-weight: normal;
+  display: block;

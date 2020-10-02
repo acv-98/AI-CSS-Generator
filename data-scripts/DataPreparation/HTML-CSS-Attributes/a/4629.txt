@@ -1,0 +1,1 @@
+display:block; background-repeat:no-repeat; background-position:left top; width:32px; margin:3px; height:32px; text-indent:-9000px;

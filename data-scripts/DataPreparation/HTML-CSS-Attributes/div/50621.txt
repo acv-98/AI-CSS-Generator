@@ -1,0 +1,9 @@
+	background:url(images/footer.jpg) left top repeat-x;
+	color:#b3adad;
+	padding:24px 4px;
+	font-size:10px;
+	font-family:Verdana, Arial, Sans-Serif;
+	text-decoration:none;
+	margin:0;
+	line-height:normal;
+	float:left;

@@ -1,0 +1,16 @@
+ margin-top: 20px;
+ margin-bottom: 30px 	clear: left;
+ height: auto; min-height: 150px; margin-bottom: 30px;  background:#000; .section.services .related_img img {
+	width: 100%;
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	display:block; 
+	height:auto;
+	overflow:hidden;
+	position:relative;
+	background-color: #dbdcdc;
+	padding: 5px;
+	margin: 0 auto;
+	max-width: 140px;
+	text-align: center;

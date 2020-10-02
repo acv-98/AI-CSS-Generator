@@ -1,0 +1,9 @@
+	border-bottom: 1px solid #e85441;
+	background-color: #423d60;
+	padding: 0 34px 17px;
+	padding-right: 44px;
+	padding-left: 0;
+	padding-bottom: 61px;
+	position: relative;
+	right: 23px;
+	bottom: 10px;

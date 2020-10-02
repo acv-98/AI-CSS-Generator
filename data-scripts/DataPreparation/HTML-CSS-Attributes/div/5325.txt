@@ -1,0 +1,19 @@
+	background:rgba(33, 191, 252, 0.35);
+	width:48%;
+	padding:2%;
+	border-bottom:5px solid #02b6fc;
+	color:#fff;
+	font-size:3.6em;
+	text-shadow: -1px 0px 1px rgba(214, 214, 214, 0.59);
+	-webkit-text-shadow: -1px 0px 1px rgba(214, 214, 214, 0.59);
+	-moz-text-shadow: -1px 0px 1px rgba(214, 214, 214, 0.59);
+	-o-text-shadow: -1px 0px 1px rgba(214, 214, 214, 0.59);
+	text-transform:uppercase;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin:0;
+	font-weight: 100;
+	line-height:1.5em;
+	margin-bottom:5%;
+		display: none;
+		font-size: 2.5em;
+		

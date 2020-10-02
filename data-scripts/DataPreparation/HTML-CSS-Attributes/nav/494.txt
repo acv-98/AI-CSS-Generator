@@ -1,0 +1,13 @@
+	margin: 0 0 0 -20px;
+	padding: 0;
+	text-align: center;
+	display: inline-block;
+	list-style: none;
+	cursor: pointer;
+	line-height:1.6em;
+	-webkit-transition: all 400ms ease-out 0s;
+	   -moz-transition: all 400ms ease-out 0s;
+		 -o-transition: all 400ms ease-out 0s;
+		    transition: all 400ms ease-out 0s;
+	color: #111;
+	font-size: 32px;

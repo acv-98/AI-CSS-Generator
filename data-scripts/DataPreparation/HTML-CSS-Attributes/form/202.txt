@@ -1,0 +1,7 @@
+  display: inline-block;
+  margin-bottom: 0;
+  padding-left: 0;
+  vertical-align: middle;
+  float: left;
+  margin-right: 3px;
+  margin-left: 0;

@@ -1,0 +1,12 @@
+	max-width: 100%;
+	 -moz-box-sizing: border-box;
+ -webkit-box-sizing: border-box;
+ -o-box-sizing: border-box;
+ box-sizing: border-box;
+	margin-bottom: 25px;
+ margin-top: 4px;
+ position: relative;
+	border-width: 1px;
+	margin-top: 0px;
+		border-width: 2px;
+		margin-top: 5px;

@@ -1,0 +1,10 @@
+.single_page_content h1{font-size: 30px;
+line-height: 40px;
+font-weight: bold;font-size: 22px;font-size: 20px;font-size: 18px;font-size: 15px;.single_page_content blockquote{background: none repeat scroll 0 0 #dbeaf9;
+margin: 15px 0 15px 25px;
+padding: 20px;
+.single_page_content ul{list-style: square outside none;
+.single_page_content a.btn{background: none repeat scroll 0 0 #666;
+color: #fff;
+display: inline-block;
+background:#333

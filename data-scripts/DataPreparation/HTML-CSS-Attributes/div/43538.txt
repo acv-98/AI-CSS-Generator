@@ -1,0 +1,1 @@
+width:530pxwidth:250pxwidth:350pxwidth:730px; margin:0 auto

@@ -1,0 +1,9 @@
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	color: #4c4c4c;
+	margin: 20px 0;
+	line-height:21px;
+height:60px;.one_parag:hover{
+	background-color: #ededed;
+	box-shadow:inset 0 0 1px #00bbff;

@@ -1,0 +1,10 @@
+	margin:0;
+	padding:8px 10px;
+	float:left;
+	width:158px;
+	font-size:12px;
+	line-height:16px;
+	color:#a9a9a9;
+	background:none;
+	outline:none;
+	border:none;

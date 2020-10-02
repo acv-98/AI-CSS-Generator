@@ -1,0 +1,13 @@
+  margin-top: 80px;
+    padding: 0px 30px 50px 30px;
+  list-style: none;
+  display: inline-block;
+  color: #757575;
+  text-transform: uppercase;
+  background-color: #272727;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  transition: all 0.8s;
+  cursor: default;

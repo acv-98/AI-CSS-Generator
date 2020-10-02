@@ -1,0 +1,13 @@
+ border-color: #eeeeee;  border-color: #f29a03; 	width: 100%;
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	display:block; 
+	height:auto;
+	overflow:hidden;
+	position:relative;
+	background-color: #dbdcdc;
+	padding: 5px;
+	margin: 0 auto;
+	max-width: 140px;
+ width: auto; display:block; height:auto; overflow:hidden; position:relative; border: 8px solid #eeeeee; background-color: #cdcfd0; max-width: 100% 

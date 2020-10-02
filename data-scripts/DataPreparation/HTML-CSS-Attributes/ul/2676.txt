@@ -1,0 +1,7 @@
+	width: 65%;
+	float: left;
+	margin-left: 1.5%;
+	text-transform:uppercase;
+	color:#000 !important;
+	padding:10px;
+    width: 100%;

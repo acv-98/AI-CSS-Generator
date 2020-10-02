@@ -1,0 +1,5 @@
+	float:left; 
+	padding:0; 
+	margin:44px 0 33px 0; 
+	width:209px; 
+	font: normal 28px Tahoma, Geneva, sans-serif;

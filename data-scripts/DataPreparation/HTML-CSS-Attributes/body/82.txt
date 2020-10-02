@@ -1,0 +1,10 @@
+	background-color: #222222;	
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: 300;		
+	padding: 30px 15px;
+	overflow-x: hidden;
+ display: none; .header { 
+	max-width: 420px;
+	text-align: left;
+ font-size: 1.6em; 

@@ -1,0 +1,6 @@
+  margin-bottom: 20px;
+  display: table;
+  content: " ";
+  clear: both;
+    padding-left: 3%;
+    padding-right: 3%;

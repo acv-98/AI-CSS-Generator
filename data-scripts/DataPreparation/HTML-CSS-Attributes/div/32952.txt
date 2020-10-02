@@ -1,0 +1,1 @@
+	background:url(../images/circle-red.png) no-repeat;

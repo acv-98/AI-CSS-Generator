@@ -1,0 +1,7 @@
+	float: right;
+	padding-right: 10%;
+	padding-top: 5px;
+	text-decoration: none;
+	color: #d99735;
+	border: 0px;
+	text-align: center;

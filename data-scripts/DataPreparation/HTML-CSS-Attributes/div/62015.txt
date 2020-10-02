@@ -1,0 +1,14 @@
+  float: none;
+  display: block;
+  text-align: center;
+  color: white;
+    text-align: center;
+    white-space: nowrap;
+    color: white;
+    position: relative;
+    line-height: 8em;
+    height: 8em;
+    float: left;
+    width: 30%;
+    padding-right: 3rem;
+    display: inline-block;

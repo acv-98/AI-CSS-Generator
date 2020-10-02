@@ -1,0 +1,6 @@
+			background: none;
+				padding-left: 0;
+		text-align: center;
+			margin: 6px;
+			font-weight: bold;
+			font-size: 1.2em;

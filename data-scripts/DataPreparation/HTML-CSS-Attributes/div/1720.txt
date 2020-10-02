@@ -1,0 +1,18 @@
+        font-size: 48px;
+        padding: 10em 0 !important;
+        width: 100%;
+        text-align: center;
+		font-size: 30px;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    color: #ffffff;
+    font-weight: 300;
+    text-transform: capitalize;
+    margin: 0;
+    line-height: inherit;
+    padding-bottom: 15px;
+    padding-top: 30px;
+    border: 0 !important;
+    vertical-align: middle;
+    background-color: #000000 !important;

@@ -1,0 +1,14 @@
+	float:right;
+	width:265px;
+	margin:0;
+	padding:0;
+	border:1px solid #dedede;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	background:#fff;
+	list-style:none;
+	font:normal 14px Arial, Helvetica, sans-serif;
+	color:#464646;
+	text-decoration:none;
+	border-bottom:1px dashed #ccc;

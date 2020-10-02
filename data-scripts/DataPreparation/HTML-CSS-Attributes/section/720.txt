@@ -1,0 +1,2 @@
+    min-height: 400px;
+    padding-top: 140px;

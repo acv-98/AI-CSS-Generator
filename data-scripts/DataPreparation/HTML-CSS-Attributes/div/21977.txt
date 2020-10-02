@@ -1,0 +1,9 @@
+	position:relative;
+	text-align:center;
+	font-size:34px;
+	font-weight:700;
+	margin-top:0;
+	margin-bottom:10px;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	color:rgba(0,0,0,.4);

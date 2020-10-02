@@ -1,0 +1,9 @@
+		margin-top: -60px;
+		-webkit-transition:  ease-out 0.6s;
+        -moz-transition: ease-out 0.6s;
+        -o-transition: ease-out 0.6s;
+        transition: ease-out 0.6s;
+       -webkit-transition: all 0.6s linear;
+       -ms-transition: all 0.6s linear;
+    	border: 2px solid #e67e22;
+       background: #e67e22;

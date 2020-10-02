@@ -1,0 +1,16 @@
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.5s ease 0s;
+    background-color: rgba(255, 242, 242, 0.8);
+    content: "";
+    opacity: 0;
+    transform: scale(1.5);
+    border-left: 2px solid #00cb86;
+    border-top: 2px solid #00cb86;
+    border-bottom: 2px solid #00cb86;
+    border-right: 2px solid #00cb86;
+    bottom: 19px;
+    right: 19px;

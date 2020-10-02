@@ -1,0 +1,13 @@
+  width: 193px;
+  float: left;
+  top: 33px;
+  margin-left: 47px;
+  font-style: normal;
+  padding-top: 12px;
+  display: block;
+  padding-left: 12px;
+  margin-bottom: 0;
+    float: none;
+    margin-left: 0 !important;
+    width: auto;
+    clear: both;

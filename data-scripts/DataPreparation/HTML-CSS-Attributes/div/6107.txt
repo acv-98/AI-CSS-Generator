@@ -1,0 +1,10 @@
+  color: #a5d549;
+  display: inline;
+  float: left;
+  width: 100%;
+  font-size: 20px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

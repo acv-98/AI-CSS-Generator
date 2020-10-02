@@ -1,0 +1,13 @@
+	margin: 0em;
+	padding: 0em;
+	list-style: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 1em;
+	color: #A0A09F;
+	font-style: italic;
+	border-top: 1px solid #303030;
+	line-height: 170%;
+	display: block;
+	text-decoration: none;
+	padding-top: 0em;

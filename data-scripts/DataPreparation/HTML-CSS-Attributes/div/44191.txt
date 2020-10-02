@@ -1,0 +1,14 @@
+    position: relative;
+    float: left;
+    top: 70px;
+    left: -1px;
+    right: 1px;
+    width: 45px;
+    height: 50px;
+    background-color: #e67e22;
+    border: 1px solid #e67e22;
+    z-index: 3000;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer;
+    color: #fff;

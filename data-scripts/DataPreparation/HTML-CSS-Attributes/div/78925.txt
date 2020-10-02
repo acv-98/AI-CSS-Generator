@@ -1,0 +1,15 @@
+	padding: 3em;
+	text-align: center;
+	margin: auto;
+	position: absolute;
+	top: 50%;
+	left: 0%;
+	right: 0%;
+	-webkit-transform: translate(0%,-50%);
+	    -ms-transform: translate(0%,-50%);
+	        transform: translate(0%,-50%);
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-style: normal;
+    	padding: 6em;

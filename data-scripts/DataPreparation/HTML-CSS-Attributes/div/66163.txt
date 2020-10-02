@@ -1,0 +1,5 @@
+ margin: 0 5px; font-size: 26px; 
+.contact-us-container {
+    margin-top: 20px;
+    padding-bottom: 50px;
+    text-align: left;

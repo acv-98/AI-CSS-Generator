@@ -1,0 +1,16 @@
+	float:left;
+	margin:0 auto;
+	background:url(../images/header_bg.png) repeat-x;
+	height:128px;
+	width:100%;
+	text-indent:-9999px;
+	overflow:hidden;
+	display:block;
+	margin-top:25px;
+	text-align:center;
+	padding:0 10px;
+	color:#0D112F;
+	font-size:16px;
+	font-weight:bold;
+	letter-spacing:-1px;
+	line-height:100px;

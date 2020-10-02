@@ -1,0 +1,14 @@
+    float: left;
+    position: relative;
+	display: none;
+	font-size: .9em;
+    padding: 10px 20px;
+    width: 694px;
+    background-color: #000;
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+	-khtml-opacity: 0.8;
+    opacity: 0.8;
+    color: #fff;
+    display: none;
+    font-size: 14px;

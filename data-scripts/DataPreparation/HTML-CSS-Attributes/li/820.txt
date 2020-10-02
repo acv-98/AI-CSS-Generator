@@ -1,0 +1,8 @@
+    background: #f1f1f1;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    width: 232px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    height: 38px;

@@ -1,0 +1,3 @@
+  float: left;
+  margin-right: 20px;
+  background: url(../img/pagination.png) no-repeat 0px 0px;

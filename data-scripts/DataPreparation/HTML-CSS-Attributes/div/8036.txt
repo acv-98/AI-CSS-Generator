@@ -1,0 +1,15 @@
+	margin:0 auto;
+	width:970px;
+	overflow:hidden;
+	color:#5c5c5c;
+	font-size:14px;
+	line-height:1.2em;
+	padding:16px 0;
+	font-family:'ColaborateThinRegular';
+	white-space:nowrap;
+	text-indent:inherit;
+	font-weight:normal;
+	border:none;
+	text-decoration:underline;
+	background-color:transparent;
+	float:left;

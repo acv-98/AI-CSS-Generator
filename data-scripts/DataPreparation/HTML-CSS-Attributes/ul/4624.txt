@@ -1,0 +1,14 @@
+ font-size: 16px; 
+	.thumb {
+		background-image: url("../images/works/thumb-shadow.png");
+		padding-bottom: 8px;
+		width: 220px;
+ margin-top: 3px;  padding: 3px 0; 				.tags-list .posts {
+					right: 0;
+					top: 7px;
+ position: absolute; .tags-list li,
+.home h2 span,
+.post-footer,
+.pagination .page,
+#content .back-to-top span,
+.work .gallery .photos,

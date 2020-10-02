@@ -1,0 +1,9 @@
+	background:url("../images/toggle_open.png") no-repeat;
+	width:18px;
+	height:19px;
+	position:absolute;
+	right: 4px;
+	top: 10px;
+	font-size:12px;
+	list-style-image:url(../images/list-check.png);
+	list-style-position:inside;

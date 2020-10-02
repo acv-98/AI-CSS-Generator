@@ -1,0 +1,2 @@
+ float:left; width:370px; margin-left:30px; border:none; color:#fff  color:#fff; padding-bottom:10px; color:#fff; text-decoration:none; color:#ffc01d;color:#fff;
+FOOTER SECTION 

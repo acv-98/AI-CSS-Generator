@@ -1,0 +1,6 @@
+	width:209px;
+	float:left;
+	margin:0px 0px 0px 0px;
+	background:#B7AE8F;
+	padding:15px 0px 16px 0px;
+	

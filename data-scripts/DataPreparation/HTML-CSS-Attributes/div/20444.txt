@@ -1,0 +1,10 @@
+        font-size: 2rem;
+        max-width: 60%;
+        margin: 0 auto;
+    background: #202242;
+    padding-top:115px;
+    padding-bottom: 110px;
+    max-height: 178px;
+    margin-top:50px
+    font-family: 'ralewaybold';
+    margin-bottom:20px;

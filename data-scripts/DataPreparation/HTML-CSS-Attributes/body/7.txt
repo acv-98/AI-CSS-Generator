@@ -1,0 +1,3 @@
+	padding-top: 41px;
+	padding-bottom: 78px;
+	border-bottom: 1px solid #a8a8a8;

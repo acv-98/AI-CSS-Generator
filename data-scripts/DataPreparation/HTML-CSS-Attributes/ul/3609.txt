@@ -1,0 +1,1 @@
+border-top:medium none; float:left; padding-bottom:0; padding-top:5px; width:49%.slider_tittle.logo_area

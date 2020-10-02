@@ -1,0 +1,6 @@
+  overflow: hidden;
+  background: transparent url(../img/load-indicator.gif) no-repeat scroll 50% 50%;
+  padding: 0px;
+  margin: 0;
+  position: absolute;
+  float: left;

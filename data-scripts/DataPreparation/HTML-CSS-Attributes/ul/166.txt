@@ -1,0 +1,8 @@
+  padding: 0 30px 20px 30px;
+  margin: 0;
+  list-style: none;
+  content: "\f111";
+  font-family: 'FontAwesome';
+  font-size: 6px;
+  color: #ff5821;
+  vertical-align: middle;

@@ -1,0 +1,28 @@
+ border-color: #cfcfcf;  right: 7px; 
+ margin-right: 18px;  margin-left: 18px; max-width:95%; .ls-layer .inner { 
+    width:100%; 
+ margin-right:10px !important;  width:86% !important;  width:18px;  margin-left:18px;  max-width:90%;  margin-top:0;  right:0; 	margin-right: 15px;
+	position: relative;
+	width: 60px;
+	padding: 3px;
+	border: 1px solid #CFCFCF;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+	cursor: pointer;
+	border-color: #CFCFCF;
+	bottom: 2px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	text-align: center;
+	padding-top: 25px;
+	margin-top: 10px;
+	margin-left: 30px;
+	height: 16px;
+	top: 50%;
+	left: 0;
+	right: 0;
+	display: block;
+	background: url('../images/slider-thumbnails/slider-thumbnails-arrows.png') no-repeat;
+	text-indent: -9999px;
+	background-position: left top;
+	float: right;

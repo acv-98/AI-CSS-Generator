@@ -1,0 +1,5 @@
+max-width:300px;
+margin:0 auto 100px
+border-radius:3px
+max-height:calc(0vh);
+margin-bottom:100px

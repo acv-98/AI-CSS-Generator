@@ -1,0 +1,7 @@
+  display: inline-block;
+  color: #000000;
+  vertical-align: top;
+  margin: 0 7px 0 0;
+  position: relative;
+	color:#fff;
+    font-size: 1.6;

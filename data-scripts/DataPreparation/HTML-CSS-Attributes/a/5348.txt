@@ -1,0 +1,3 @@
+	display:block;
+	background:url(file:///D|/wamp/www/TEMP/csstemplateheaven.com/images/bg-fade.png) no-repeat center center;
+	

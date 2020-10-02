@@ -1,0 +1,8 @@
+	width:100%;
+	overflow:hidden;
+	padding-bottom:40px;
+	float:left;
+	margin-right:53px;
+	display:block;
+	text-align:center;
+	padding-top:20px;

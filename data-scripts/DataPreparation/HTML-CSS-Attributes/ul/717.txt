@@ -1,0 +1,23 @@
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  padding-right: 0;
+    position: static;
+    float: none;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    padding-right: .5rem;
+    padding-left: .5rem;
+  color: rgba(0, 0, 0, 0.5);
+	-webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
+	clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%)!important;
+color:#f5bc04

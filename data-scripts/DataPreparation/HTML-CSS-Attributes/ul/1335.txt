@@ -1,0 +1,6 @@
+        width:195px;
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus{
+    border:0px;
+    background: url(../images/stabmenubghv.png) no-repeat top center;
+    height: 180px;
+    color:#fff;

@@ -1,0 +1,7 @@
+ background-color: #CE5754; .contact-social .tm-social-icon {
+    padding: 5px 0;
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;

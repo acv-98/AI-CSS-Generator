@@ -1,0 +1,10 @@
+	background:#151718 url(images/footer.gif) repeat-x 0 top;
+	font-size:9px;
+	font-family:verdana, arial, sans-serif;
+	padding-bottom:15px;
+	width:955px;
+	color:#8a8b8c;
+	text-decoration:none;
+	margin:0;
+	line-height:normal;
+	float:left;

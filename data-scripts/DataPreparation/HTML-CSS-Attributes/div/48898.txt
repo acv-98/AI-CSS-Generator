@@ -1,0 +1,3 @@
+	text-align:center;
+	padding-top:25px;
+	font-weight:700;

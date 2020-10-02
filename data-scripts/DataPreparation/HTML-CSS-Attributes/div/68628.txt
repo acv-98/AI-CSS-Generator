@@ -1,0 +1,6 @@
+	width:260px;
+	background:#151515;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	padding:15px 15px 20px 30px;

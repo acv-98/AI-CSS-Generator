@@ -1,0 +1,2 @@
+    background: #7c2dfe none repeat scroll 0 0;
+    overflow: hidden;

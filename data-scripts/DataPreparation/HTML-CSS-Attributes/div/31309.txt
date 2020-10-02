@@ -1,0 +1,2 @@
+    padding: 60px 65px;
+        padding: 0 40px;

@@ -1,0 +1,7 @@
+border: 1px solid #35A1FB;
+border-radius: 5px;
+color: #FFFFFF;
+cursor: pointer;
+font-size: 18px;
+padding: 10px 80px;
+background:#fff;border:1px solid #35A1FB;color:#35A1FB.wpcf7-text:focus,.wpcf7-email:focus,.wpcf7-textarea:focus{box-shadow: 0.1px 0.1px 10px 1px #35A1FB !important;

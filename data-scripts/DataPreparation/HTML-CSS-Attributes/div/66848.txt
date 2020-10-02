@@ -1,0 +1,2 @@
+	border-top-color: #a5d549;
+	text-align: left;

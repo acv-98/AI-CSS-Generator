@@ -1,0 +1,3 @@
+	font:12px Arial, Helvetica, sans-serif;
+	color:#BF5A14;
+	font-weight:100;

@@ -1,0 +1,6 @@
+	width:980px;
+	padding-top:14px;
+	padding-bottom:11px;
+	float:left;
+	display:inline;
+	color:#ff361a;

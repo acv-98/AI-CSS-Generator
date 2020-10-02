@@ -1,0 +1,16 @@
+  background: transparent;
+  color: #fff;
+  -webkit-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+  height: 44px;
+  border: 2px solid #fff;
+  border-radius: 3px;
+  font-weight: 500;
+  float: right;
+  font-size: 1em;
+  width: 30%;
+    color: #fff;
+    background: #121619;

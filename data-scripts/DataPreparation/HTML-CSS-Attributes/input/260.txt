@@ -1,0 +1,12 @@
+	display:block;
+	width:90px;
+	height:34px;
+	line-height:34px;
+	background:url(../images/button-bg.png) no-repeat;
+	font-size:18px;
+	color:#ffffff;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+	text-decoration:none;
+	text-align:center;
+	box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.1);
+padding:8px;background:#66a8ce; color:#ffffff; text-transform:uppercase; font-family:'Oswald', sans-serif;border:0px solid;margin-left:100px;margin-top:20px;

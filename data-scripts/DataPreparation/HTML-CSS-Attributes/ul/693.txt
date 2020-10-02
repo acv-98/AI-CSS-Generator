@@ -1,0 +1,11 @@
+  margin-left: -30px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  display: block;
+  float: left;
+  width: 46.1%;
+    width: 45.2%;
+    margin-left: 0;

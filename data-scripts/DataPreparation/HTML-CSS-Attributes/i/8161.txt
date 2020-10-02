@@ -1,0 +1,1 @@
+content:"\f082";content:"\f09a";  background: #4f7dd4;

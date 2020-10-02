@@ -1,0 +1,6 @@
+						background:#72737a;
+						border:none;
+						padding:5px;
+						float:left;
+color:#000;											 
+.sidebar-container {overflow:auto;

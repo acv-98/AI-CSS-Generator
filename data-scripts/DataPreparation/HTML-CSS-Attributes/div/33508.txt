@@ -1,0 +1,7 @@
+  display: inline-block !important;
+margin:0 !important;	border-top: 5px solid #5c5c5c;
+	padding: 0px -15px !important;
+	margin: 0 15px;
+	display: inline-block;
+	
+ text-align: left !important; padding-bottom: 0 !important; float: right; padding-top: 10px;

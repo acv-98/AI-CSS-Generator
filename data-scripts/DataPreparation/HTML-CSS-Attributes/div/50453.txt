@@ -1,0 +1,4 @@
+	width:280px;
+	height:175px;
+	position:relative;
+	padding:52px 77px 0 0;

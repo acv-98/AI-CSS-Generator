@@ -1,0 +1,5 @@
+  line-height: 20px;
+  color: white;
+  font-size: 18px;
+  margin-left: 20px;
+  display: block;

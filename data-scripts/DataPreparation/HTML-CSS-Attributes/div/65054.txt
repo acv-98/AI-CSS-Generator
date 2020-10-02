@@ -1,0 +1,4 @@
+	width: 100%;
+	min-height: 524px;
+	display: block;
+	background: url(../images/content_bg.jpg) repeat;

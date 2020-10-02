@@ -1,0 +1,9 @@
+ width:150px; height:150px; float:none; width:150px; height:150px; margin:0px auto; float:none; float:none; margin:0 0 20px 0;	float:left;
+	text-align:center;
+	border-radius:50%;
+	margin:0 0 15px 0;
+	width:220px;
+	height:220px;
+	font-size:18px;
+	color:#49b5e7;
+	display:block;

@@ -1,0 +1,2 @@
+.skill_bottom_item .separator_small{
+    margin: 20px auto;

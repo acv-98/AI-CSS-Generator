@@ -1,0 +1,5 @@
+	clear:both;
+    content:"";
+    display:table;
+    clear:both;
+	float:left;

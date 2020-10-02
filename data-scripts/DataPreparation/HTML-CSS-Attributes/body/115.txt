@@ -1,0 +1,14 @@
+	clear:both;
+	margin-bottom:32px;
+    content:"";
+    display:table;
+    clear:both;
+	border:1px solid #e2e2e2;
+	display:block;
+	width:100%;
+	height:auto;
+	font-size:24px;
+	line-height:1;
+	font-weight:300;
+	color:#333;
+		margin-bottom:64px;

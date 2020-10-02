@@ -1,0 +1,15 @@
+  width: 50%;
+    display: block;
+    width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+    height: 400px;
+  position: absolute;
+  right: 0px;
+  top: 0;
+  bottom: 0;
+    position: relative;
+    top: auto;
+    bototm: auto;

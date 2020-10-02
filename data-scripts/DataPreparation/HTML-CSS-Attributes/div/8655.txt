@@ -1,0 +1,1 @@
+padding:22px 0 0 10pxbackground:url(images/box1-bg.png) left top;width:100%padding:26px 30px 30px 30px

@@ -1,0 +1,6 @@
+	font-size: 2em;
+	color: #323A45;
+	font-family: 'Roboto', sans-serif;
+	padding: 3% 0 1%;
+		font-size: 1.5em;
+		padding: 3% 0;

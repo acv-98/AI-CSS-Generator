@@ -1,0 +1,5 @@
+  position: table;
+  overflow: hidden;
+  width: 130%;
+  left: -15%;
+  padding: 10% 0;

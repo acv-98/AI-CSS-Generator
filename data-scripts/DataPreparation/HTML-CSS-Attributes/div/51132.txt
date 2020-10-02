@@ -1,0 +1,9 @@
+	float:right;
+	padding:0px;
+	margin:34px 50px 0px 0px;
+	color:#F3E8D2;
+	font-weight:bold;
+display:inline;
+list-style-type:none;
+border-right:1px solid #F3E8D2;
+text-decoration:none;

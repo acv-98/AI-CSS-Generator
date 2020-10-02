@@ -1,0 +1,11 @@
+	position:static;
+	left:0px;
+	z-index:1;
+	display:block;
+	overflow:visible !important;
+	margin:0
+	width:270px;
+	height:249px;
+	margin-right:20px;
+	font-weight:normal;
+	border:#c4e7ef 10px solid;

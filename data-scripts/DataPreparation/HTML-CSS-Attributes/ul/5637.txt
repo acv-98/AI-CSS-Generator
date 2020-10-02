@@ -1,0 +1,14 @@
+  margin-top: 20px;
+  border-bottom: 1px solid #606060;
+  float: left;
+  margin-bottom: -1px;
+	display: block;
+  	color: #ffffff;
+  	font-size: 16px;
+  	padding: 10px 20px;
+  	border: 0;
+  	border-radius: 0;
+  background-color: transparent;
+  color: #00c6d7;
+  cursor: default;
+  border-bottom-color: transparent;

@@ -1,0 +1,8 @@
+ border-color: #dfdcdc;  font-size: 12px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  color: #919303;  color: #6C6D03;  background-position: 70px bottom;  background-position: 15px bottom 
+ background-position: 20px bottom;  background-position: 70% bottom  background: none;     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: url("../images/twitter-bg.png") no-repeat scroll 0 center transparent;
+    border-bottom: 1px dotted #CFCFCF;
+    line-height: 20px;
+    min-height: 20px;

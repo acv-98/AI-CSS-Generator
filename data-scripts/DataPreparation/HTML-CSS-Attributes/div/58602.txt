@@ -1,0 +1,6 @@
+	float:right;
+	width: 14px;
+	height: 12px;
+	display: inline-block;
+	background: url(../images/alertcloseico.png) no-repeat 0px 0px;
+	vertical-align: middle;

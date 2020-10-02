@@ -1,0 +1,1 @@
+float:left;width:916px; background:#eac366 url(../images/layout_bg.gif) repeat-x 0 0; border:3px solid #d49f4f; border-bottom:none

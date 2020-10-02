@@ -1,0 +1,7 @@
+	background:url("../images/styles/blackpaper/menu-left.png") no-repeat scroll 0 0 transparent;
+	float:left;
+	height:48px;
+	margin-top:-12px;
+	padding:0 0 0 9px;
+	line-height:48px;
+	width:9px;

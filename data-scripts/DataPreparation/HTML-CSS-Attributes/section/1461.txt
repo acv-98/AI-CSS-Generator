@@ -1,0 +1,9 @@
+    background: #333;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 150px 0;
+    font-size: 46px;
+    color: #fff;
+    margin: 0;

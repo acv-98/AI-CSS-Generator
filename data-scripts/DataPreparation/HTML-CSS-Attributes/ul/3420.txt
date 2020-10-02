@@ -1,0 +1,6 @@
+  border-bottom: 1px solid #ccc;
+  color: #000;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  line-height: 20px;
+  padding: 10px 0;

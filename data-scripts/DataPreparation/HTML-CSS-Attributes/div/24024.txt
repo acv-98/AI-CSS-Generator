@@ -1,0 +1,5 @@
+	background-color: #006599;
+	color: white;
+	color: white; .tm-site-name {
+	font-size: 4rem;
+	margin-top: 20px;

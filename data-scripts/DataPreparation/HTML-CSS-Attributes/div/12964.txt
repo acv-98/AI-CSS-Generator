@@ -1,0 +1,1 @@
+ background: url(../images/content.gif) repeat; padding: 20px; 

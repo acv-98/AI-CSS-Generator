@@ -1,0 +1,7 @@
+	float: left; 
+	display: inline; 
+	height: 25px; 
+	width: 1px; 
+	background: #ebebeb; 
+	position: relative; 
+	margin: 0 5px; 

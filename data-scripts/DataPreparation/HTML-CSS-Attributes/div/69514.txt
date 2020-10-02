@@ -1,0 +1,11 @@
+  padding: 10px 0;
+  display: inline-block;
+  float: right;
+  margin: 0;
+  border: 1px solid hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 100%);
+  font-size: 15px;
+  line-height: 27px;
+  font-weight: 300;
+  list-style: none;
+ background:#ffa200;

@@ -1,0 +1,2 @@
+ width:100%; float:left; background:#393939; padding:56px 0; color:#FFF; font-size:30px;font-family: 'MyriadPro'; margin:0; padding-bottom:17px; color:#FFF; font-size:15px;font-family: 'open_sansregular'; line-height:20px;max-width:300px;margin-bottom:15px; margin:0; padding:0; background:url(../images/list-icon.png) no-repeat left 6px; list-style:none; padding-left:16px; padding-bottom:8px; font-size:15px; color:#f8f8f8;  font-family: 'open_sansregular';text-decoration:underline; font-family: 'open_sansbold';	padding: 28px 0;
+	margin: 15px 0 0 0;

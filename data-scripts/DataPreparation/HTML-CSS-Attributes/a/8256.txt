@@ -1,0 +1,8 @@
+	float:right;
+	display:block;
+	background:url(../images/link1-tail.gif) repeat-x left top;
+	color:#fff;
+	text-decoration:none;
+	line-height:.92em;
+	padding:7px 15px 7px 15px;
+	font-style:normal;

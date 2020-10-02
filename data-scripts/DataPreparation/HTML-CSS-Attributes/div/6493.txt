@@ -1,0 +1,7 @@
+   color: #808080;
+    margin-top: 30px;
+    margin-left: 60px;
+    text-align:left;
+    font-weight:normal;
+    font-size:11px;
+    

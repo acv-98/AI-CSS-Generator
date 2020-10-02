@@ -1,0 +1,9 @@
+    display: inline-block;
+    font-size: 20px;
+    line-height: 1 !important;
+    margin: 0 !important;
+    padding: 15px 20px;
+    position: relative;
+    top: -25px;
+        width: 100%;
+    background-color: #ffffff;

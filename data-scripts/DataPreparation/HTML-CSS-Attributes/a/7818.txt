@@ -1,0 +1,15 @@
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  text-decoration: none;
+  display: block;
+    margin-left: -15px;
+  color: #777;
+  background-color: transparent;
+ margin-left: 15px;     	background-image: url(../img/logo@2x.png) !important; background-repeat: no-repeat !important; background-size: 167px 63px !important;
+ margin-left: 0; .navbar-brand {
+	width: 167px;
+	height: 106px;
+	text-indent: -99999px;

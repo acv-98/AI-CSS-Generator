@@ -1,0 +1,7 @@
+.features_item .f_item_icon{
+    float: left;
+    width:20%;
+    display: inline-block;
+    margin-right: 15px;
+    font-size:4rem;
+    color:#fc6a42;

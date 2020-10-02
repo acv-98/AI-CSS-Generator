@@ -1,0 +1,8 @@
+	list-style:none;
+	padding-top:5px;
+	float:left;
+	display:inline;
+	width:63px;
+	height:63px;
+	margin:0 6px 8px 0;
+	border:1px solid #4c3e37;

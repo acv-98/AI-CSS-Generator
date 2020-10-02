@@ -1,0 +1,2 @@
+font:12px/14px Arial, Helvetica, sans-serif; color:#6c8ea7; font-weight:bold
+float:left; width:108px; padding-top:5px; margin-left:0float:left; width:108px; padding-top:5px; margin-left:0; margin-bottom:0

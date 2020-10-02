@@ -1,0 +1,8 @@
+	padding:0;
+	text-decoration:none;
+	color:#7baf30;
+	background:url(images/commnet_bg.gif) no-repeat left center;
+	padding-left:25px;
+	margin:0;
+	border:1px solid #dedede;
+	float:left;

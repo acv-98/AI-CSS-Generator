@@ -1,0 +1,4 @@
+.feature .main_feature_content_area .main_feature_content .single_feature h3{
+    color:#f4d320;
+    font-size:1.875rem;
+    font-family: 'sanchezregular';

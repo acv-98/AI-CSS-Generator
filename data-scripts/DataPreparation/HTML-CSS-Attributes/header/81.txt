@@ -1,0 +1,14 @@
+    border: 0 none;
+    display: inline-block;
+    font-size: 14px;
+    height: 43px;
+    border-radius: 0;
+    vertical-align: middle;
+    width: auto;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    -webkit-box-shadow: inset 0px 0px 0px 1px #000000;
+    -moz-box-shadow: inset 0px 0px 0px 1px #000000;
+    box-shadow: inset 0px 0px 0px 1px #000000;
+        padding-left: 1rem;
+        padding-right: 1rem;

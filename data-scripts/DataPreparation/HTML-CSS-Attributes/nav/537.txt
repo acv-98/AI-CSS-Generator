@@ -1,0 +1,12 @@
+	position: fixed;
+    width: 100%;
+	top: 5px;
+	right: 10px;    
+    z-index: 1000;
+		position: absolute;
+		left: 0;
+    	bottom: 0;
+    	right: auto;
+    	top: auto;
+    	padding: 0;
+    	width: 100%;

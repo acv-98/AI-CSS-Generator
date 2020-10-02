@@ -1,0 +1,15 @@
+		width: 1.1em;
+		margin: 0;
+			display: inline-block;
+			float: none;
+			width: auto;
+				font-size: 4em;
+				width: 1.25em;
+		cursor: default;
+		opacity: 0.35;
+		overflow: hidden;
+		position: relative;
+			text-align: center;
+				display: inline-block;
+				height: 1.25em;
+				line-height: 1.25em;

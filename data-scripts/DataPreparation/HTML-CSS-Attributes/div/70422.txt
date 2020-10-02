@@ -1,0 +1,4 @@
+        text-align: center;
+        margin:20px auto;
+.main_work1_content_area .signle_work1_left {
+    width: 80%;

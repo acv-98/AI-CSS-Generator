@@ -1,0 +1,6 @@
+    background: url(../images/trailbg.jpg) no-repeat top center;
+    overflow: hidden;
+    background-size: cover;
+    color:#fff;
+    text-transform: none;
+    font-family: 'open_sansregular';

@@ -1,0 +1,7 @@
+    width: 100%;
+    position: absolute;
+    z-index: 22;
+    line-height: 3.2rem;
+    text-align: center;
+    font-size:1.5rem;
+    color:#fff;

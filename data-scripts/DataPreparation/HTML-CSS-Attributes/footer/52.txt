@@ -1,0 +1,16 @@
+        text-align: center;
+        padding: 10px;
+        line-height: 22px;
+    padding-bottom: 80px;
+    background: #f8f8f8;
+    color:#223d61;
+    overflow: hidden;
+    margin-bottom: 20px;
+    font-size: 14px;
+    border: 0px solid #ccc;
+    border-radius: 4px 0px 0px 4px;
+    width: 65%;
+    display: inline-block;
+    height: 34px;
+    margin-left: -4px;
+    outline: none;

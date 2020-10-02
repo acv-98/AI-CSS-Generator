@@ -1,0 +1,7 @@
+    border:1px solid #ddd;
+    padding: 30px;
+    font-size:50px;
+    font-weight: 700;
+    color:#000;
+    letter-spacing: 4px;
+    line-height: 2rem;

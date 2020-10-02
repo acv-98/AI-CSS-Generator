@@ -1,0 +1,7 @@
+	width:200px;
+	text-align:left;
+	background:0;
+	border-left:0;
+	font-weight:bold;
+ width: 248px;
+ display: none;

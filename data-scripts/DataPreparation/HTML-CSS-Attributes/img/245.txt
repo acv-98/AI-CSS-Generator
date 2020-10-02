@@ -1,0 +1,5 @@
+	background:none repeat scroll 0 0 #EEEEEE;
+	border:7px solid #FFFFFF;
+	margin:0 0 20px 0;
+	outline:1px solid #DDDDDD;
+	padding:5px;

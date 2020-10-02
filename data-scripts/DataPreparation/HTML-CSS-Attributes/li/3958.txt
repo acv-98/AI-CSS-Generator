@@ -1,0 +1,12 @@
+background-color:#f5f5f5background-color:#e8e8e8outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2pxcursor:not-allowed;pointer-events:none;opacity:.65;filter:alpha(opacity=65);-webkit-box-shadow:none;box-shadow:nonebackground-image:nonecolor:#fff;background-color:#333background-image:nonecolor:#d13f19;background-color:#fffbackground-image:nonecolor:#5cb85c;background-color:#fffbackground-image:nonecolor:#5bc0de;background-color:#fffbackground-image:nonecolor:#f0ad4e;background-color:#fffbackground-image:nonecolor:#d9534f;background-color:#ffftext-decoration:none;color:#262626;background-color:#f5f5f5z-index:2margin-right:2px;line-height:1.42857;border:1px solid transparent;border-radius:4px 4px 0 0float:leftborder:1px solid #dddborder-bottom-color:#fffdisplay:block;visibility:visiblecolor:#555;background-color:#e7e7e7color:#555;background-color:#e7e7e7color:#9d9d9dcolor:#fff;background-color:transparentpadding:8px 15px;margin-bottom:20px;list-style:none;background-color:#f5f5f5;border-radius:4pxcolor:#8d2a11;background-color:#eee;border-color:#ddddisplay:nonedisplay:block;max-width:100%;height:auto;margin-left:auto;margin-right:auto-webkit-animation:progress-bar-stripes 2s linear infinite;-o-animation:progress-bar-stripes 2s linear infinite;animation:progress-bar-stripes 2s linear infinitecolor:#777color:inheritcolor:#f7cabfcolor:inheritcolor:#fff;background-color:#31708f;border-color:#31708fcolor:inheritcolor:#fff;background-color:#a94442;border-color:#a94442.carousel-inner>.itemtransform:translate3d(-100%,0,0);left:0left:0left:100%display:inline-block;width:10px;height:10px;margin:1px;text-indent:-999px;border:1px solid #fff;border-radius:10px;cursor:pointer;background-color:#000 \9;background-color:transparentmargin-top:10px;text-align:center;-webkit-tap-highlight-color:transparent
+    margin-top:10px;
+    text-align:center;
+    -webkit-tap-highlight-color:transparent
+    background:#869791
+body {
+  font-family: 'Lato', arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.7;
+  font-weight: 300;
+  color: #2e2e2e;
+  border: 2px solid #f66d52;

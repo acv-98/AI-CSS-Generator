@@ -1,0 +1,1 @@
+background:transparent; padding-right:0; margin-right:0;  left:-45px; margin-right:0;#slider-navigation ul li a{ float:left; width:171px; height:79px; background:url(images/slide-button.png) no-repeat 0 0; position:relative; 

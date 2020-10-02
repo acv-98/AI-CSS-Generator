@@ -1,0 +1,11 @@
+	position: absolute;
+	top: 0;
+	left: 34px;
+	width: 225px;
+	height: 6px;
+	padding: 12px 10px;
+	border-left: 1px solid rgb(50,51,52);
+	border-right: 1px solid rgb(36,37,38);
+	overflow:hidden;
+	background: url("jplayer-black-and-yellow.png") 0 -192px repeat-x ;
+    width: 80px;

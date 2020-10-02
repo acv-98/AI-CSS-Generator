@@ -1,0 +1,17 @@
+  padding-left: 0;
+    background-position: 0 0;
+        background-position: -24px 0;
+        cursor: default;
+        position: absolute;
+        top: 50%;
+        left: 13px;
+        width: 13px;
+        height: 11px;
+        margin: -5px 0 0 0;
+        padding: 0;
+        overflow: hidden;
+        border: none;
+            background-position: -15px 0;
+        background-image: url(line@2x.png);
+        -webkit-background-size: 60px 13px;
+        background-size: 60px 13px;

@@ -1,0 +1,4 @@
+	float: left;
+	width: 250px;
+	padding: 0 30px;
+	background: url(images/vertical_divider.png) no-repeat center right;

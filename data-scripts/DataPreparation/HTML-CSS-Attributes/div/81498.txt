@@ -1,0 +1,9 @@
+    overflow: hidden;
+    border:1px solid #ff9a5e;
+    color:#ff9a5e;
+    width:60px;
+    height: 60px;
+    line-height: 60px;
+    font-size:2.225rem;
+    border-radius: 50%;
+    margin-bottom:1.875rem;

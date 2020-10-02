@@ -1,0 +1,7 @@
+	color: #EDF6FF;
+	font-size: 1.8em;
+	line-height:0em;
+	text-transform:uppercase;
+	margin-bottom: 20px;
+	font-weight: 300;
+	display: none;

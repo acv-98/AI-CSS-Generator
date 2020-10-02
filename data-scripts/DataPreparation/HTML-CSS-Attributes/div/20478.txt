@@ -1,0 +1,36 @@
+    display: none;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: 0;
+    width:100%;
+   
+	background-image: url("../images/sliderarrows.png");
+	width: 60px;
+	height: 60px;
+	float: left;
+	background-position: 13px 0px;
+	background-repeat: no-repeat;
+	cursor: pointer;
+    right:-50px;  
+ 	 background-image: url("../images/sliderarrows.png");
+	margin-top: 0.5em;
+	display:inline-block;
+	margin-right: 1em;
+	color: #FFF;
+	font-size: 0.72em;
+	text-transform: uppercase;
+	border:solid 2px #FFF;
+	border-radius: 5px;
+	padding: 0.8em 1.2em;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+    height:100%;
+    min-height:650px;
+ display:block; cursor: pointer;    #fwslider .slide_content_wrap {
+	max-width: 1280px;
+ display:block; cursor: pointer; display:block; cursor: pointer;		max-width: 1280px;
+		margin: 7.5% auto 0;
+		display:none;

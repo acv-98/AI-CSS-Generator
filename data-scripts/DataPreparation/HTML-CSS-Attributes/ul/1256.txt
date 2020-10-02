@@ -1,0 +1,6 @@
+    padding-bottom: 2px;
+    line-height: 18px;
+    margin-top: -3px;
+    padding-left: 33px;
+    background: url(../images/marker.png) 0 4px no-repeat;
+    font-size: 16px;

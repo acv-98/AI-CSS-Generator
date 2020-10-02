@@ -1,0 +1,1 @@
+width:77px;height:74px;background:url('images/twitter.png') left center no-repeat;position:absolute;top:-10px;left:30px;z-index:1;

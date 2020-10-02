@@ -1,0 +1,5 @@
+	margin:1em 0 0.5em;
+	color:#1e1e24;
+	font-size:0.7em;
+	text-transform:uppercase;
+	text-decoration:none;

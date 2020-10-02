@@ -1,0 +1,1 @@
+width:280px; float:left; margin-right:60px; width:220px; background:url(../images/leftpanel-bg.jpg)center; padding:40px 30px 40px 30px; color:#e00b15; font-size:20px; font-weight:normal;

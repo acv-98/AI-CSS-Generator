@@ -1,0 +1,5 @@
+    display: block;
+    margin: 0px auto 58px auto;
+    max-width: 100%;
+    width: auto;
+    height: auto;

@@ -1,0 +1,5 @@
+	width:100%;
+	background:url(../images/left-bot-corner.gif) no-repeat left bottom;
+	padding:0 28px 43px 0;
+	margin-right:12px;
+	color:#fff;

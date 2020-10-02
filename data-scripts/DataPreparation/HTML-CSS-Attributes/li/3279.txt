@@ -1,0 +1,1 @@
+color:#C0AB8F; background-color:inherit;color:#FFFFFF; background-color:rgba(0,0,0,.6); border-color:rgba(0,0,0,.6);color:#FFFFFF; background-color:#C0AB8F;

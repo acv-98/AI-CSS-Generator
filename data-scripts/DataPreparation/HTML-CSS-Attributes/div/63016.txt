@@ -1,0 +1,6 @@
+	clear:both;
+	padding:0;
+	margin:2px 5px;
+	height:5px;
+	border-bottom:1px dashed #ccc;
+	list-style:none;

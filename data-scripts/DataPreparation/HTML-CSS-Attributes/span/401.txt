@@ -1,0 +1,2 @@
+	background-position: top right;
+	right: 15px;

@@ -1,0 +1,5 @@
+  background-color: rgba(250, 250, 250, 1);
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color: #0099ff;
+    width: 50%;

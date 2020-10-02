@@ -1,0 +1,21 @@
+    display: inline-block;
+    padding: 10px;
+    background: #383E4C none repeat scroll 0 0;
+    border: 1px solid #646d7c;
+    color: #fff ;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    -webkit-transition: all 0.3s ease;
+            transition: all 0.3s ease;
+        background: #49505F;
+    float: none;
+ display: block;   .navbar-inverse {
+    width: 100%;
+    margin:0;
+    border-bottom: 1px solid #999;
+ border-bottom: none;    .navbar-inverse .navbar-nav>li>a {
+    background-color: #383E4C;
+ font-size: 16px;   .container {
+    margin-left: 0;
+    margin-right: 0;

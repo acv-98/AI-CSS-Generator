@@ -1,0 +1,10 @@
+    background: -webkit-linear-gradient(left, #000, blue);
+    position: relative;
+    opacity: 0;
+    transition-property: opacity;
+    left: 0;
+    z-index: 1;
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    height: 100%;

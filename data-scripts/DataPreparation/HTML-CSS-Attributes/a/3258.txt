@@ -1,0 +1,9 @@
+    display: block;
+    position: absolute;
+    bottom: -65px;
+    right: 10px;
+    height: 43px;
+    width: 43px;
+    background: url(../images/back-to-top.png);
+    text-indent: -9999px;
+    z-index: 9999;

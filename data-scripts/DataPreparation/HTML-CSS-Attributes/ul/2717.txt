@@ -1,0 +1,6 @@
+	background:url(../images/arrow1.gif) no-repeat 0 7px;
+	padding:0 0 6px 15px;
+	font-size:13px;
+	zoom:1;
+	color:#fff;
+	font-weight:bold;

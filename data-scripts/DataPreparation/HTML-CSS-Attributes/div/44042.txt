@@ -1,0 +1,9 @@
+     margin-left: 25px;
+     border-left: 1px solid #ced4da;
+     position: absolute;
+     top: 14px;
+     left: 0;
+     content: '';
+     width: 8px;
+     height: 1px;
+     background-color: #ced4da;

@@ -1,0 +1,2 @@
+	background-image: url(style/images/button-light-purple.png);
+	float: left;

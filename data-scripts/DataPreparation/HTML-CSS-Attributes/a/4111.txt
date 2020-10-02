@@ -1,0 +1,10 @@
+		border:1px solid #5e9048;
+		background:#75cf44;
+		
+		background-image: linear-gradient(bottom, rgb(80,153,46) 0%, rgb(117,207,68) 100%);
+			linear,
+			left bottom,
+			left top,
+			color-stop(0, rgb(80,153,46)),
+			color-stop(1, rgb(117,207,68))
+		);

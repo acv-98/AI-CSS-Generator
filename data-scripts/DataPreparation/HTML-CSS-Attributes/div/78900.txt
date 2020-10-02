@@ -1,0 +1,9 @@
+    border-radius: 10px;
+    opacity: 1;
+    filter: alpha(opacity=100);
+    cursor: pointer;
+    -webkit-transition: opacity 0.45s ease-in-out;
+    transition: opcaity 0.15s ease-in-out;
+     -moz-transition: opcaity 0.15s ease-in-out;
+     -o-transition: opcaity 0.15s ease-in-out;
+     -ms-transition: opcaity 0.15s ease-in-out;

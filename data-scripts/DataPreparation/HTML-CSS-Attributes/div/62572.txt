@@ -1,0 +1,1 @@
+ width: 310px; margin-right: 20px;  padding-top: 0;  width: 630px;  margin-left: 0;  padding-left: 0; 

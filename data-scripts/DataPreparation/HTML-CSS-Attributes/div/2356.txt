@@ -1,0 +1,6 @@
+        font-size: 14px;
+        bottom: 0;
+        padding: 1rem 0.8rem;
+        position: absolute;
+    color: #ffffff !important;
+    line-height: 1.3;

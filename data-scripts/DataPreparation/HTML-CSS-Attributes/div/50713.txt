@@ -1,0 +1,14 @@
+	float:left;
+	width:283px;
+	padding-left:24px;
+	padding-top:39px;
+	color:#addffd;
+	line-height:19px;
+	height:168px;
+	overflow:hidden;
+	text-align:justify;
+	text-decoration:underline;
+	background:url('images/button-big.gif') no-repeat 0 0;
+	font-size:0;
+	text-indent:-4000px;
+	background-position:0 -46px;

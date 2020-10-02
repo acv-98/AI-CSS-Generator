@@ -1,0 +1,9 @@
+ margin:0;  float:left; margin:0; padding:0; background:none; width:1023px; position: relative; list-style:none; border:0;     position: absolute;
+    bottom: 57px;
+    right: 125px;
+    width: 320px;
+    height: 65px;
+    margin: 0;
+    padding: 0;
+    background: rgba(255, 255, 255, 0.75); 
+font-family: "Yanone Kaffeesatz", serif; font-size: 24px; font-weight: normal; margin:0; padding:13px 0 0 10px; font-weight: 400; color: #111; font-family: "Droid Sans", serif; font-size: 12px; margin: 0; padding:3px 0 0 10px; color: #57595c;  color: #111;  color: #57595c; 

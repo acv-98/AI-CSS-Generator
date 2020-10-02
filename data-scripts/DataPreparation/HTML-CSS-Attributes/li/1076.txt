@@ -1,0 +1,3 @@
+	display:block;
+	background:#fff;
+	color:#000;

@@ -1,0 +1,1 @@
+padding-bottom:15px;margin:0padding:0 0 2px 9px;background:url(images/arrow.gif) no-repeat left 6pxpadding:2px 0 0 0;margin-bottom:-2px

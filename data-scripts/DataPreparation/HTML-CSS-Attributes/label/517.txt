@@ -1,0 +1,2 @@
+ #contact-form label.message {
+  margin-bottom: 18px;

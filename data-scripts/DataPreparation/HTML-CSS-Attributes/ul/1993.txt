@@ -1,0 +1,6 @@
+	margin-bottom: 20px;
+	width: 120px;
+	margin-right: 15px;
+	font-size: 12px;
+	line-height: 1.4;
+	font-style: italic;

@@ -1,0 +1,6 @@
+    margin-top: 38px;
+    overflow: hidden;
+    color: #85898d;
+    display: block;
+    line-height: 24px;
+    text-decoration:underline;

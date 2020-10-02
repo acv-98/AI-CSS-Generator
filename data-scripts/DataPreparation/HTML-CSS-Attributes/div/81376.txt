@@ -1,0 +1,11 @@
+	color: #555;
+	display: inline;
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 0.9;
+	letter-spacing: 3px;
+	font-style: italic;

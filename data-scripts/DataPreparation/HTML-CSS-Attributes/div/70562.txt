@@ -1,0 +1,8 @@
+text-align: center;
+h1{
+	font-family: 'Droid Serif', serif;
+	font-size: 22px;
+	line-height: 22px;
+	font-weight: normal;
+	color: #555;
+	margin-bottom: 10px;

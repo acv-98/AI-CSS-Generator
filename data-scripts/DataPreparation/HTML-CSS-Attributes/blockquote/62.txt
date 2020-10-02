@@ -1,0 +1,8 @@
+  background-color: #f9fbfc;
+  padding: 29px 26px 27px;
+  border-radius: 500px;
+  float: left;
+  margin-right: 14px;
+  margin-top: 3px;
+  font-style: italic;
+  margin-bottom: 23px;

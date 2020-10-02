@@ -1,0 +1,14 @@
+	behavior:url("../js/PIE.htc");
+	position:relative;
+	background:#b92103;
+	color:#fff;
+	font-family: 'Muli', sans-serif;
+	font-size:14px;
+	line-height:18px;
+	text-transform:uppercase;
+	padding:6px 15px 6px 15px;
+	display:inline-block;
+	border-radius:6px;
+	bottom:-16px;
+	left:431px;
+	z-index:100;

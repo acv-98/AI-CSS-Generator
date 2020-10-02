@@ -1,0 +1,4 @@
+  float: left;
+  line-height: 18px;
+  padding-left: 8px;
+  text-decoration: underline;

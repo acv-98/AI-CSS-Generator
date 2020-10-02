@@ -1,0 +1,2 @@
+ clear:both !important; width:210px;
+ width:220px; line-height: 1.81em; margin:2em 13px 0 0; float:left;  margin-bottom:20px !important;  font-size:2em;  font-size:1.8em;  margin-top:0; clear:none !important;  font-size:1.5em;  margin:5px 0 22px !important; font-family: "Yanone Kaffeesatz",serif;  clear:both  width:262px; height:139px; padding:3px; border:1px solid #ccc;  float: left; margin-right: 10px; 

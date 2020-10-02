@@ -1,0 +1,13 @@
+  padding: 1em 0;
+  background: #e6e6e6;
+  background-size: cover;
+  background-attachment: fixed;
+  font-size: 50px;
+  display: block;
+  color: #fff;
+  font-family: "Roboto", Arial, sans-serif;
+  width: 100%;
+  font-weight: 700;
+  margin-bottom: .5em;
+  text-transform: uppercase;
+  letter-spacing: 5px;

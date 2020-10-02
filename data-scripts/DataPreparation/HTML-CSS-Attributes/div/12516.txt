@@ -1,0 +1,13 @@
+	width:94%;
+	padding:50px 3% 50px 3%;
+	float:left;
+	margin:0 0 0 0;
+	max-width:100%;
+	height:auto;
+    width: 100%;
+    float: none;
+    height: auto;
+    max-width: 100%;
+	display:table;
+	background:#fff;
+	border-bottom:1px solid #e7e7e7;

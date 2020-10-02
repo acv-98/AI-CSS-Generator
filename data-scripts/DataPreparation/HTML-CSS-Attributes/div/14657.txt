@@ -1,0 +1,1 @@
+color:#EAEAEA; background-color:#3C3733;

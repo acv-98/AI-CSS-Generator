@@ -1,0 +1,5 @@
+	background-image:url("../images/sprite.gif");
+	background-repeat:no-repeat;
+	background-position:0 -76px;
+	width:37px;
+	height:26px;

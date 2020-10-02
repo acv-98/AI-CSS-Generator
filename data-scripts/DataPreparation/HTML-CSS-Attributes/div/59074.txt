@@ -1,0 +1,7 @@
+  border-bottom: 3px solid #a5d549;  
+  background-color: #fff;
+  display: inline;
+  float: left;
+  margin-bottom: 30px;
+  padding-bottom: 15px;
+  width: 100%;

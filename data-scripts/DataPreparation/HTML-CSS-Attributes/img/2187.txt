@@ -1,0 +1,5 @@
+  display: block;
+  transition-duration: 300ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  opacity: 1;

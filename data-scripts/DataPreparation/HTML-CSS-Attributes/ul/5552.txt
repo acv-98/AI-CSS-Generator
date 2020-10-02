@@ -1,0 +1,5 @@
+	margin-top:-7px
+	font-style:italic;
+	padding-left:12px;
+	background:url(../images/marker_1.gif) 1px 8px no-repeat;
+	color:#faf3ed

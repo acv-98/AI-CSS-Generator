@@ -1,0 +1,18 @@
+  padding: 0 5px;
+  margin-left: -3px;
+  top: 50%;
+  right: 0;
+  margin-top: -5px;
+  border-left-color: #000000;
+  border-width: 5px 0 5px 5px;
+  border-right-width: 0;
+  bottom: -10px;
+  left: -100%;
+	text-align:left !important;
+	background: url(../images/arrow-pleft.png) #eee no-repeat center center;	
+	margin-right:2px;	
+	display: inline-block;
+	width: 22px;
+	height: 22px;
+	cursor: pointer;
+	background-color:#eb4800;

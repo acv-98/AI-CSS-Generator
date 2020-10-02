@@ -1,0 +1,2 @@
+ padding:10px 0 0 35px; background:url('images/bg/sep-testimonials.png') no-repeat left 15px; margin-left:165px; 
+ margin: 0   padding:0 0 0 25px;  margin-left:175px; 

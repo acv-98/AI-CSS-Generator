@@ -1,0 +1,2 @@
+ width:auto; float:none; position:static; margin:0; margin-top:20px;
+ margin-left:190px; min-height:193px;  color: #ac670c; margin: 5px 0 10px; 

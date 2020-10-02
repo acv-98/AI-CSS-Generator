@@ -1,0 +1,17 @@
+	list-style: none;
+	width: 100%;
+	padding: 15px 30px;
+	border: 1px solid rgba(0,0,0,0);
+	color: #666;
+	display: block;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	text-decoration: none;
+ text-decoration: none; .tm-banner-title, 
+.tm-section-title, 
+.tm-banner-text {
+	font-weight: 300;
+	margin-top: 0;
+		float: left;
+		padding: 10px;
+		width: 25%;

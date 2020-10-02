@@ -1,0 +1,9 @@
+	color:#bfd6e4;
+	margin-top:10px;
+	font-size:11px;
+	margin-bottom:10px;
+	border:1px solid #dcdcdc;
+	background:#efefef url(../images/blog.png) 97% center no-repeat;
+	padding:5px 0px 20px 10px;
+ background:#efefef;
+ padding:20px 0px 50px 10px;

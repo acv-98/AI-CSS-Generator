@@ -1,0 +1,9 @@
+	padding-top:1px;
+	list-style:none;
+	display:block;
+	border-bottom:1px dotted #dcdcdc;
+	padding-bottom:12px;
+	margin-bottom:11px;
+	font-weight:normal;
+	color:#565656;
+	line-height:18px;

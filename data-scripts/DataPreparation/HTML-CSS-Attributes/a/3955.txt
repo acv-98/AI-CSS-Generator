@@ -1,0 +1,12 @@
+	border-radius: 2.5rem;
+    display: inline-block;
+    font-size: 1.4rem;
+    font-weight: 400;    
+    padding: 0.8rem 3rem;
+	min-width: 180px;
+	width: auto;
+	height: 60px;
+    text-align: center;    
+		font-size: 1.4rem;
+		height: 50px;
+		padding-top: .5rem;

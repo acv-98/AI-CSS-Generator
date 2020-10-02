@@ -1,0 +1,1 @@
+ font-size: 10px; float: left;  list-style: none; list-style-position: outside;  float: left; padding: 0 21px 0 18px; background: url(images/footer-nav-border.png) no-repeat right 20px;  padding-right: 0px; background: transparent;  color: #737373;  color: #0aade2; text-decoration: none; 

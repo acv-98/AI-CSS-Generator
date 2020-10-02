@@ -1,0 +1,13 @@
+	background:url(images/btn-more2.gif) no-repeat 0 0;
+	width:104px;
+	height:34px;
+	font-size:12px;
+	line-height:34px;
+	color:#fff;
+	font-weight:bold;
+	text-align:center;
+	margin:8px 0 0 0;
+	position:absolute;
+	bottom:0;
+	left:0;
+	display:block;

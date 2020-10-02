@@ -1,0 +1,1 @@
+background:url('images/icons/nav/burst.png') top center no-repeat;

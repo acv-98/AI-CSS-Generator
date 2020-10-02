@@ -1,0 +1,8 @@
+	text-transform:uppercase;
+	font-size:30px;
+	letter-spacing:5px;
+	
+	position: relative;
+	z-index: 4;
+					padding-top:30px;
+					padding-bottom:30px;

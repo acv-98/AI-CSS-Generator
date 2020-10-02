@@ -1,0 +1,5 @@
+	width:20px;
+	height:20px;
+	display:inline-block;
+	background:url(../images/pagenate.png) no-repeat 0px 0px;
+	border:none;

@@ -1,0 +1,9 @@
+    overflow: hidden;
+    margin-bottom:80px;
+    display: inline-block;
+    width:100%;
+    padding: 20px;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+    font-weight: 700;
+    color:#231f20;

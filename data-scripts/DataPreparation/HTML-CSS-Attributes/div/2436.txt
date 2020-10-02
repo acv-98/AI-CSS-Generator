@@ -1,0 +1,4 @@
+	float:right;
+	margin-top:10px;
+	width:30%;
+	border:10px solid #f0f0f0;

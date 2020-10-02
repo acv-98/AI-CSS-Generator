@@ -1,0 +1,9 @@
+  width: 360px;
+  margin: 7% auto;
+    width: 90%;
+    margin-top: 20px;
+  background: #fff;
+  padding: 20px;
+  color: #444;
+  border-top: 0;
+  text-align: center;

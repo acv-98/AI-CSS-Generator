@@ -1,0 +1,10 @@
+	position: relative;
+	overflow: hidden;
+	display: block;
+	background-color: #05bca9;
+	width: 120px;
+	height: 3px;
+	content: '\0020';
+	left: 50%;
+	bottom: 0;
+	margin-left: -60px;

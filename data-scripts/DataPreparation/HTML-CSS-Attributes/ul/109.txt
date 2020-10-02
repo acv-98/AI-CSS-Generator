@@ -1,0 +1,4 @@
+  margin: 20px 0 0;
+  background: transparent;
+  text-shadow: none;
+  color: #fff;

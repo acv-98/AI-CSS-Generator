@@ -1,0 +1,4 @@
+	width:90%;
+	-moz-animation: css 15s ease-out;
+	-webkit-animation: css 15s ease-out;
+	background-color: #334d66;

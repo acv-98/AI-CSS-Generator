@@ -1,0 +1,7 @@
+        padding: 15px 30px;
+        width: 85%;
+        margin: 20px 0 0 0;
+    background: #f53f2c;
+    color: #fff;
+    border: 2.5px solid #f53f2c;
+    margin-top: 0;

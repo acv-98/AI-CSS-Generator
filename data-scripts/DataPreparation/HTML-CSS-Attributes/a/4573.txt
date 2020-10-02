@@ -1,0 +1,2 @@
+	background:url("../images/sprite.png") no-repeat scroll 46px -231px transparent;
+	display: none;

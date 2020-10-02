@@ -1,0 +1,15 @@
+  background-color: #a5d549;
+  display: inline;
+  float: left;
+  margin-top: 30px;
+  padding: 20px 0;
+  width: 100%;
+  color: #333;
+  font-size: 25px;
+  font-weight: 300;
+  margin-bottom: 10px;
+  position: relative;
+  content: "";
+  height: 2px;
+  left: 0;
+  top: 42px;

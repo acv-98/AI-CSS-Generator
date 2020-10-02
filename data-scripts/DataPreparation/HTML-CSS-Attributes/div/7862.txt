@@ -1,0 +1,1 @@
+ background:url('images/icons/socials/flickr.png') no-repeat  background:url('images/icons/small-socials/flickr.png') no-repeat 

@@ -1,0 +1,17 @@
+	background:url(../images/left-column.png) repeat-y top;
+	width:277px;
+	float:left;
+	display:block;
+	position:relative;
+	line-height:50px;
+	height:50px;
+	margin:0 auto;
+	color:#0D112F;
+	font-size:14px;
+	padding-top:20px;
+	margin-top:10px;
+	overflow:hidden;
+	top:-45px;
+ *top:-30px;
+	background-position:top 5px;
+	margin-bottom:-20px;

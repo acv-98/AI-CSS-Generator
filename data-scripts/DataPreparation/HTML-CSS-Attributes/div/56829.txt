@@ -1,0 +1,6 @@
+	width:900px;
+	overflow:hidden;
+	background:url(../images/banner_bg.png) no-repeat;
+	margin:20px 0 0 0;
+	height:40px;
+	text-indent:-9999px;

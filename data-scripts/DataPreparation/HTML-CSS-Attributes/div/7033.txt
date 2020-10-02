@@ -1,0 +1,1 @@
+ padding:10px; background:#00c0ff; font-size:22px; font-weight:normal; color:#ffffff;text-transform:uppercase; display:inline-block;

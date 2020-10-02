@@ -1,0 +1,4 @@
+	position: relative;
+	text-align: left;
+	padding-top: 5px;
+	overflow: hidden;

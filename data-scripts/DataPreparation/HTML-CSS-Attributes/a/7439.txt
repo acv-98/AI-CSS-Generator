@@ -1,0 +1,6 @@
+	position:absolute;
+	margin-top: 132px;
+	margin-left: 19px;
+	width:22px;
+	height:22px;
+	background:url("../images/portfolio_next.png") no-repeat top;

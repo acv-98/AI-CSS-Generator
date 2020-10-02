@@ -1,0 +1,1 @@
+ display:inline; clear: left; float:left;  background: url(../images/tp_bg3.jpg) no-repeat; width:950px; height:60px; padding:0 0 0 50px; 

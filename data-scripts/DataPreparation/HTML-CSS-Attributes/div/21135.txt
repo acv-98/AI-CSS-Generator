@@ -1,0 +1,31 @@
+	background-color: #9b59b6;
+    background-color: #3288C4;
+    border-radius: 3px;
+    color: #fff;
+    font: 400 11px/18px "Open Sans", sans-serif;
+    margin: 0 auto;
+    padding: 4px 0;
+    text-align: center;
+    width: 34px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    -webkit-transition: opacity .25s ease, bottom .25s ease;
+            transition: opacity .25s ease, bottom .25s ease;
+    content:"";
+    height: 0;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 4px solid #3288C4;
+    display: none;
+    font-size: 11px;
+-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;outline:0 * Nivo Lightbox Default Theme v1.0
+ * http://dev7studios.com/nivo-lightbox
+ *
+ * Copyright 2013, Dev7studios
+ * Free to use and abuse under the MIT license.
+ 
+.nivo-lightbox-theme-default.nivo-lightbox-overlay { 

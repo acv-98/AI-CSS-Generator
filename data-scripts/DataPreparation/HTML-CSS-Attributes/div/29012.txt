@@ -1,0 +1,8 @@
+	width: 100%;
+	padding-bottom: 6px;
+	margin-top: 40px;
+	font-size: 1.1em;
+    font-family: 'Oxygen', sans-serif;	
+	color: #898989;
+	line-height: 1.7em;
+	margin-bottom: 20px;

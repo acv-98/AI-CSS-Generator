@@ -1,0 +1,2 @@
+margin-bottom:30px; height:190px; padding:40px 30px 0 30px; background:url("img/cols-bg.png") no-repeat;font-family:Arial,Helvetica; line-height:normal;width:286px; margin-left:30px; float:left;.cols .col1-3 p:last-child, 
+margin-bottom:0;margin-left:0;

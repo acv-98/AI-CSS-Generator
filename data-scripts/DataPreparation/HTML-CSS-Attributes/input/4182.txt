@@ -1,0 +1,1 @@
+	background:url(images/continueshop.png) no-repeat;

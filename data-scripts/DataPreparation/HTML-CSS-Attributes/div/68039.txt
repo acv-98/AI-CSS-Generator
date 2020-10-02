@@ -1,0 +1,12 @@
+	float:left;
+	width:943px;
+	font-family:"Trebuchet MS", Arial, Helvetica, Sans-Serif;
+	font-size:17px;
+	color:#ffd900;
+	text-transform:uppercase;
+	text-shadow:1px 1px 0px #000;
+	line-height:57px;
+	background:url('images/more-bg.gif') repeat-y 0 0;
+	margin-top:13px;
+	text-decoration:underline;
+	padding-left:21px;

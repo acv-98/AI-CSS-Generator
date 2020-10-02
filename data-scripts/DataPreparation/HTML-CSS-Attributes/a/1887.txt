@@ -1,0 +1,15 @@
+	display:inline-block;
+	border:1px solid #e0f0f4;
+	width:95px;
+	text-align:center;
+	font-size:25px;
+	color:#39baf8;
+	line-height:45px;
+	border-radius:15px;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	position:relative;
+	text-decoration:none
+	font-weight:normal;
+	height:45px;
+	background:url(../images/bg_button.gif) top repeat-x #f3fafb;

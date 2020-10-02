@@ -1,0 +1,13 @@
+  background: url("../img/testimonials-bg.jpg") no-repeat center center;
+    width: 82px;
+    height: 82px;
+    margin: 0 auto;
+    vertical-align: middle;
+    overflow: hidden;
+    border-radius: 50%;
+      width: 82px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 300;
+    font-style: italic;
+    text-transform: uppercase;

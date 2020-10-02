@@ -1,0 +1,10 @@
+  background-color: #bfba55;
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  position: relative;
+  -webkit-animation: sk-innerCircle 1s linear infinite;
+  animation: sk-innerCircle 1s linear infinite; 
+  display: block;
+  top: 5px;
+  left: 5px; 

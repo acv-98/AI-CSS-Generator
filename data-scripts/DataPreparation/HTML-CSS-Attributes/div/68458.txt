@@ -1,0 +1,11 @@
+.social-icons ul {
+	margin-top:16px;
+	margin-right:8px;
+	display:block;
+	height:48px;
+	width:48px;
+	padding:10px 0;
+	color:#333;
+	border-radius:50%;
+	text-align:center;
+	background:#3b5998;

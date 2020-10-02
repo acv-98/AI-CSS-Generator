@@ -1,0 +1,5 @@
+	width:556px;
+	float:left;
+	padding:0px 24px 45px 24px;
+	margin:0px;
+	background: url(../images/content_bg.jpg) left bottom no-repeat;

@@ -1,0 +1,2 @@
+	margin-left: 54px;
+	margin-bottom: 30px;

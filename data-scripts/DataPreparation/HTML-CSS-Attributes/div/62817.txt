@@ -1,0 +1,4 @@
+	background:url(../images/headerbg.jpg) 0 0 no-repeat;
+	width:850px;
+	height:434px;
+	float:left;

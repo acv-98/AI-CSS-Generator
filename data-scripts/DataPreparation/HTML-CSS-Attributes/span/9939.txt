@@ -1,0 +1,4 @@
+	background:transparent url(../images/printing.png) no-repeat;
+    width: 120px;
+    height: 120px;
+	display:block;

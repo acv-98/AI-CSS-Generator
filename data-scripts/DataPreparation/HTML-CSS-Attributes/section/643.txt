@@ -1,0 +1,4 @@
+    height: 70px;
+    overflow: hidden;
+    width:70%;
+    padding: 10px;

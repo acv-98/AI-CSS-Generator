@@ -1,0 +1,3 @@
+	color:#fff;
+	text-align:right;
+	text-decoration:none;

@@ -1,0 +1,5 @@
+padding: 30px !important;  
+  .hidden-desktop {
+    display: inherit !important;
+padding: 30px !important;overflow: hidden; padding: 60px 0; text-align: center;.logo{
+    margin:0 auto;

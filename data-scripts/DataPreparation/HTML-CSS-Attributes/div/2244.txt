@@ -1,0 +1,14 @@
+    padding: 0px;
+	top: 28px;
+    left: 14px;
+	width: 90%;
+    height: 80%;
+    background: rgba(0, 0, 0, .5);
+    margin: 0 auto;
+    top:-100%;
+    position: absolute;
+	transition:.6s;
+	text-transform:uppercase;
+	color:#fff;
+	font-size:1.3125rem;
+	line-height:2rem;

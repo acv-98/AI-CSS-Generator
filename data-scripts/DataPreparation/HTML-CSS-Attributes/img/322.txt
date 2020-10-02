@@ -1,0 +1,2 @@
+   border: 3px double #e1e1e1;
+height: 60px;

@@ -1,0 +1,2 @@
+ width:100%; overflow:hidden; display:inline; display:block; float:left; width:156px; height:55px; line-height:52px; font-size:16px; text-transform:uppercase; font-weight:bold; color:#fff; text-decoration:none; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; text-align:center; margin-right:2px; background:url(images/nav-bg1.png) no-repeat left top; background:url(images/nav-bg2.png) no-repeat left top; background:url(images/nav-bg2.png) no-repeat left top;
+ text-align:center; padding-bottom:25px; display:inline; padding:0 48px 0 45px; color:#e3dad2;

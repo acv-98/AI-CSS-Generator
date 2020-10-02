@@ -1,0 +1,8 @@
+	display: block;
+	border: 1px solid #4F8B9D;
+	padding: 2px;
+	margin-bottom: 5px!important;
+	background: #FFFFFF;
+	font-size: 14px;
+	height: 22px;
+	width: 125px;

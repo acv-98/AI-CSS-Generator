@@ -1,0 +1,1 @@
+width:180px; height:38px; border:none; float:left; background:none repeat scroll 0 0 transparent; text-indent:5px;RIGHT-SECTION CLASSES

@@ -1,0 +1,5 @@
+	background:url(images/button.gif) no-repeat 0 0;
+	width:33px;
+	height:27px;
+	border:0;
+	cursor:pointer;

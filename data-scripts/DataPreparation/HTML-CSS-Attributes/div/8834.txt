@@ -1,0 +1,13 @@
+	zoom: 1;
+	display: block;
+	visibility: hidden;
+	clear: both;
+	width: 0;
+	height: 0;
+	font-size: 0;
+	line-height: 0;
+	content: ".";
+	float: none;
+	margin: 0;
+	padding: 0;
+	border: 0;

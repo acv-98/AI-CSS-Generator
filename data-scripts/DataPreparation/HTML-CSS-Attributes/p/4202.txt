@@ -1,0 +1,7 @@
+		font-size: 14px;
+  font-size: 18px;
+  margin: 0 auto;
+  max-width: 750px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 0;

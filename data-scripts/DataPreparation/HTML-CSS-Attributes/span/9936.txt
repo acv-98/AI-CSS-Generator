@@ -1,0 +1,2 @@
+  -webkit-animation-name: fadeOut;
+  animation-name: fadeOut;

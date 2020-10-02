@@ -1,0 +1,5 @@
+ width: 100%;  margin-left: 300px; 
+	.grid figure {
+		width: 31%;
+		height: auto;
+		margin: 1.1666%;

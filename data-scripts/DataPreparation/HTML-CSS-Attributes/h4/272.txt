@@ -1,0 +1,17 @@
+	right: 16px;
+	font-size: 14px;
+	padding: 18px 0px;
+	position: relative;
+	display: block;
+	text-decoration: none;
+	top: 0;
+	bottom: 0;
+	width: 26px;
+	height: 27px;
+	margin: auto;
+	content: '';
+	-webkit-transition-duration: .3s;
+	transition-duration: .3s;
+	-webkit-transform: rotate(45deg);
+	transform: rotate(45deg);
+	background: url(../images/plus-icon.png) center no-repeat;

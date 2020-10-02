@@ -1,0 +1,4 @@
+  background-color: rgba(0,0,0,0.6); 
+  padding: 90px 0;
+  float: left;
+  width: 100%;

@@ -1,0 +1,14 @@
+	margin-top: 1.5rem;
+	max-width: 1170px;
+	padding: 0 30px 1.5rem 30px;
+	display: block;
+	color: #ed254d;
+	font-family: "roboto-bold", serif;
+	font-size: 4rem;
+	line-height: 1;
+	margin-bottom: 2.4rem;
+		max-width: 600px;
+		padding: 0 15px;
+	list-style: none;
+	border-bottom: 1px solid rgba(63, 80, 96, 0.15);
+	margin-right: 5px;

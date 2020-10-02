@@ -1,0 +1,2 @@
+  width: 100%;
+.work_meta{background: none repeat scroll 0 0 #ddd;

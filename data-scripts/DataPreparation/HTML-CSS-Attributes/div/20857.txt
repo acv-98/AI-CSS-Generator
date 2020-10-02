@@ -1,0 +1,10 @@
+    color: #000;
+    border-color: #e2e2e2;
+    padding: 0.4rem 0.2rem 0.6rem;
+    text-transform: capitalize;
+    line-height: 1;
+    font-weight: 500;
+    position: relative;
+    margin: 0;
+    border-bottom: 1px dashed #dadada;
+    right: 0;

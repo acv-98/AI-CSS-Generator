@@ -1,0 +1,4 @@
+  color: #ffffff;
+  background-color: #FFF;
+  background-image: url(../images/parallax04.jpg);
+  padding: 97px 0 100px;

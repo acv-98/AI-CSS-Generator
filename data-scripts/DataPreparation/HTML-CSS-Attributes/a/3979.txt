@@ -1,0 +1,11 @@
+	display:inline-block;
+	width:89px;
+	line-height:26px;
+	height:26px;
+	color:#fff;
+	text-decoration:none;
+	background:url(../images/button_bg.png) 0 0 no-repeat;
+	text-align:center
+	background-position:bottom;
+	margin-top:17px;
+	background-image:url(../images/button_bg_form.png);

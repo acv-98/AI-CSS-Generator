@@ -1,0 +1,5 @@
+   background-color: #197C28;
+   color: #fff;
+ color: #1E732D; #main {
+	margin: 126px auto 0;
+	text-align: center;	

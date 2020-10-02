@@ -1,0 +1,8 @@
+	float: left;
+	font-size: 22px;
+	border-radius: 5px;
+	width: 55px;
+	height: 55px;
+	background-color: #F8F8F8;
+	line-height: 50px;
+	text-align: center;

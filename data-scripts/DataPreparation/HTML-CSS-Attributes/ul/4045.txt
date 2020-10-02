@@ -1,0 +1,1 @@
+list-style-type: none; font-size: 12px; padding-top:10px; width:280px; border-bottom:solid 2px #dedede background:url(images/bull.gif) no-repeat 0 3px; padding-left:15px; text-transform: uppercase; padding-bottom:10pxcolor:#f8379b; text-decoration: none;text-decoration: underline;

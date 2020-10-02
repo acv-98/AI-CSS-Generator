@@ -1,0 +1,11 @@
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: relative;
+  padding-left: 40px;
+  top: .3em;
+  left: 0;
+  font-size: 22px;
+  color: #000;
+  font-weight: 400 !important;
+    margin-bottom: 4em;

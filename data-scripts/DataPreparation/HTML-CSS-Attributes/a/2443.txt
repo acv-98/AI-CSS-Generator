@@ -1,0 +1,3 @@
+	padding: 10px;
+	width: 100%;	
+ text-decoration: none;  padding: 12px; 

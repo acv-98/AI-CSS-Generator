@@ -1,0 +1,1 @@
+ padding-bottom: 18px; margin-bottom: 16px; background: url(images/entry-title.png) repeat-x 0 bottom; 

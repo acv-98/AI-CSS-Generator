@@ -1,0 +1,2 @@
+ background: url(images/bullet.png) no-repeat 0 10px; padding-left: 8px; font-size: 10px; float: right;  
+ margin-right: 16px; position: absolute; bottom: 0; right: 45px;  margin-right: 20px;   background: url(images/bullet.png) no-repeat 0 8px; padding-left: 8px; font-size: 10px; float: right;   bottom:  20px; right:  10px;  margin-right: 20px; 	

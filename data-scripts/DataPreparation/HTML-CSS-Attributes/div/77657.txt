@@ -1,0 +1,6 @@
+display:none;.box {
+  background:none repeat scroll 0 0 #fff;
+  display:block;
+  padding:1.25em;
+  width:100%;
+display:block;display:block;

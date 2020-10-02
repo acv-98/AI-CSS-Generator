@@ -1,0 +1,1 @@
+display:nonedisplay:nonemargin-bottom:20pxwidth:250px; margin:20px 0px 10px 0pxlist-style:none outside none; margin:0; padding:0float:left; margin-right:7pxdisplay:block; padding:12px 13px

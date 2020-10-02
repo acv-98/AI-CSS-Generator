@@ -1,0 +1,6 @@
+	width:100%;
+	height:212px;
+	background:#7eb9c4;
+	overflow:scroll;
+	margin:50px 0;
+	text-align:center;

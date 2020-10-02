@@ -1,0 +1,3 @@
+    padding-top: 8px;
+    display: inline-block;
+    color: #0cb8b6;

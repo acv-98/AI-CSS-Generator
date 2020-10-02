@@ -1,0 +1,6 @@
+	background:url("../images/hour.png") no-repeat left 85%;
+	display:inline-block;
+	color:#a6a6a6;
+	font-size:11px;
+	padding:2px 5px 0 13px;
+	line-height:11px;

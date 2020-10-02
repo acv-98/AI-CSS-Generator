@@ -1,0 +1,5 @@
+	border-radius: 50%;
+	height: 107px;
+	margin: 35px auto 0;
+	width: 107px;
+	  margin: 20px auto 0;	  

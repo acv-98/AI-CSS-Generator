@@ -1,0 +1,7 @@
+	width:364px;
+	float:left;
+	padding-left:134px;
+	color:#fff;
+	font:normal 60px/85px Trebuchet MS, Arial, Helvetica, sans-serif;
+	height:94px;
+	text-transform:uppercase;

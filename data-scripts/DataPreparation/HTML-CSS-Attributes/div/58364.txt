@@ -1,0 +1,1 @@
+background:url(images/right-top-corner.png) no-repeat right top;padding-right:10px

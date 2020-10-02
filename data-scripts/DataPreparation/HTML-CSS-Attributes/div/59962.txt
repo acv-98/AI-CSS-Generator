@@ -1,0 +1,11 @@
+padding-left:80px;padding-left:800px;padding-left:880px;padding-left:64px;padding-left:640px;padding-left:768px;padding-left:0;		.container_12 .suffix_1,
+		.container_12 .suffix_2,
+		.container_12 .suffix_3,
+		.container_12 .suffix_4,
+		.container_12 .suffix_5,
+		.container_12 .suffix_6,
+		.container_12 .suffix_7,
+		.container_12 .suffix_8,
+		.container_12 .suffix_9,
+		.container_12 .suffix_10,
+padding-left:0;

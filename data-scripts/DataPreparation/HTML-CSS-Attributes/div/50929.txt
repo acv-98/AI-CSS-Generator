@@ -1,0 +1,9 @@
+	background:url(images/slide-banner.png) no-repeat 0 0;
+	width:559px;
+	height:283px;
+	font-size:20px;
+	line-height:29px;
+	color:#9a423c;
+	text-transform:uppercase;
+	text-align:center;
+	padding:85px 0 0 30px;

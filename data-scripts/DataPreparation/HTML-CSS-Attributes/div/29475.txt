@@ -1,0 +1,1 @@
+float:leftpadding-left:20pxpadding:51px 0 0 60px

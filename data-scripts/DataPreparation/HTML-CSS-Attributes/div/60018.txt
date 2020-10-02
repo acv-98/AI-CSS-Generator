@@ -1,0 +1,1 @@
+background:none;width:100%;height:67px;position:fixed;background:url('../images/bg/bottom.png') bottom center;bottom:0px;left:0px;z-index:1;

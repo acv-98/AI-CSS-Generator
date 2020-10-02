@@ -1,0 +1,11 @@
+    margin-bottom: 40px;
+    text-align: center;
+    display: inline;
+    background: transparent url(../images/social-icons.png) no-repeat 0 0;
+    height: 32px;
+    width: 32px;
+    position: relative;
+    -webkit-transition: none 200ms ease-in;
+    -o-transition: none 200ms ease-in;
+    -moz-transition: none 200ms ease-in;
+    background-position: 0 0

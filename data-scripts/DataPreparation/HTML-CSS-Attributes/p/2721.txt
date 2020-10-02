@@ -1,0 +1,3 @@
+	text-align:right;
+	background:#e58a42;
+	padding:10px;

@@ -1,0 +1,10 @@
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	padding: 15px 20px;
+	z-index: 99;
+	margin: 0;
+	font-size: 1.1em;
+	font-weight: normal;
+	opacity: 0;
+	color: #ffffff;

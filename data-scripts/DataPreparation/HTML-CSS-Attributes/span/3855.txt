@@ -1,0 +1,13 @@
+	width: 66px;
+	height: 13px;
+	position: relative;
+	margin-top: 12px;
+	padding: 9px;
+	background-color: black;
+	display: inline-block;
+	color: white;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font: 12px/100% Arial, Helvetica, sans-serif;
+	top: 1px;

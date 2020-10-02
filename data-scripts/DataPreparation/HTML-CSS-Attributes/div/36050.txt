@@ -1,0 +1,5 @@
+	display: block;
+	float: right;
+	width: 128px;
+	height: 128px;
+	background: url(images/twitter.png) no-repeat;

@@ -1,0 +1,9 @@
+	float:left;
+	color:#fff;
+	font-size: 2.1em;
+	padding: 0.45em 1em 0.55em 1em;
+	background: #EB6841;
+	border-bottom: 5px solid #BA3A14;
+	border-right: 5px solid #CD542F;
+		font-size: 1.9em;
+		padding: 0.45em 0.5em 0.55em 0.5em;

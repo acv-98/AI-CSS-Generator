@@ -1,0 +1,4 @@
+     font-size: 13px;
+     font-weight: 400;
+     margin-right: 0;
+     color: #d8302f;

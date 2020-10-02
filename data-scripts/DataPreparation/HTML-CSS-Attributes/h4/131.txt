@@ -1,0 +1,10 @@
+	border-bottom:1px solid #f2f2f2;
+	padding-bottom:20px;
+	line-height:1.1em;
+	margin-bottom:10px;
+	font-weight:700;
+	font-size:32px;
+	color:#0e161d;
+	letter-spacing:-2px;
+ margin-bottom: 20px; .heading {
+	position: relative;

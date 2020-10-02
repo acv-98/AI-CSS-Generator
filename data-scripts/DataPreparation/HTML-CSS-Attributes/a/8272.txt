@@ -1,0 +1,2 @@
+ padding-bottom:0 !important; background:none; width:160px; background:url(images/nav-right-act.gif) no-repeat right top;
+ background:url(images/nav-act.gif) left top repeat-x;  background:url(images/divider-left-act.gif) no-repeat left 10px; background:url(images/nav-right-act.gif) no-repeat right top !important; width:160px;

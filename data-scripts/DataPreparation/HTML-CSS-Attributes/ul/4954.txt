@@ -1,0 +1,14 @@
+  color: #292a2c;
+  background-color: #f9f8f8;
+		padding: 10px 10px;
+  margin: 0;
+  vertical-align: middle;
+  border: none;
+  padding: 10px 15px;
+  font-size: 12px;
+  margin-left: 5px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  pointer-events: none;

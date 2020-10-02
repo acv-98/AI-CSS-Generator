@@ -1,0 +1,7 @@
+     float: left;
+     width: 100%;
+     background: #f9f9f9;
+     border: 1px solid #ebebeb;
+     margin-bottom: 20px;
+     padding: 10px 20px;
+     font-weight: 300;

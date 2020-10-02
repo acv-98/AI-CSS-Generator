@@ -1,0 +1,9 @@
+padding-left: 60px !important;    margin-left: -30px;
+    float: none;
+  list-style: none;
+  *zoom: 1;
+  display: table;
+  line-height: 0;
+  content: "";
+  clear: both;
+  margin-bottom: 20px;

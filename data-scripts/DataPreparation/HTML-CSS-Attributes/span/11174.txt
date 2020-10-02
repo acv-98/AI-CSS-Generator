@@ -1,0 +1,17 @@
+  height: 45px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
+  width: 1%;
+  white-space: nowrap;
+  vertical-align: middle;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+  position: relative;
+  margin-left: -4px;
+  z-index: 2;
+    display: none;
+margin:0 auto

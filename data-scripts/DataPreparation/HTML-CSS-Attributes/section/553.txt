@@ -1,0 +1,58 @@
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 1px solid #eee;
+        padding-top: 60px;
+        font-size: 2.5em;
+.item-no .countTheme Name: Polmo
+Theme URI: http://jeweltheme.com/
+Author: Jewel Theme
+Author URI: http://jeweltheme.com/
+Description: Polmo OnePage HTML5 Template by Jewel Theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: html, themplate, polmo, jwtheme, business
+Table of Contents 
+------------------------------------------------------------------------ /
+* 1 - Google Font
+* 2 - General styles
+* 3 - Header Styles
+* 4 - Services Section Styles
+* 5 - About Section Style
+* 6 - Subscribe Section Styles
+* 7 - Portfolio Section Styles
+* 8 - Sponsors Section Styles
+* 9 - Blog Section Styles
+* 10 - Testimonial Section Styles
+* 11 - Contact Section Styles 
+* 12 - Blog Posts Page Styles
+* 13 - Main Content Styles
+* 14 - Blog Single Post Styles
+* 15 - Sidebar Styles
+* 16 - Footer Section Styles
+*    16.1 - Footer Top
+*    16.2 - Footer Bottom
+* 17 - Scroll To Top
+Table of Contents End
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+html,
+body {
+    background: #ffffff;
+    font-family: 'Lato', 'Belgrano', sans-serif;
+    -webkit-font-smoothing: subpixel-antialiased !important;
+    -moz-font-smoothing: subpixel-antialiased !important;
+    -ms-font-smoothing: subpixel-antialiased !important;
+    -0-font-smoothing: subpixel-antialiased !important;
+    text-rendering: optimizeLegibility !important;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-overflow-scrolling: touch;
+    -moz-overflow-scrolling: touch;
+    -ms-overflow-scrolling: touch;
+    -o-overflow-scrolling: touch;
+    overflow-scrolling: touch;
+    background-size: cover;
+    color: #ffffff;
+    font-weight: 400;
+    text-transform: uppercase;
+background:#fff;font-family:Lato,Belgrano,sans-serif;font-size:16px;-webkit-font-smoothing:subpixel-antialiased!important;-moz-font-smoothing:subpixel-antialiased!important;-ms-font-smoothing:subpixel-antialiased!important;-0-font-smoothing:subpixel-antialiased!important;text-rendering:optimizeLegibility!important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-overflow-scrolling:touch;-moz-overflow-scrolling:touch;-ms-overflow-scrolling:touch;-o-overflow-scrolling:touch;overflow-scrolling:touch

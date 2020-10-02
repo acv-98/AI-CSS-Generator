@@ -1,0 +1,8 @@
+    padding-bottom: 80px;
+    background: #0D3542;
+    color:#e8e8e8;
+    overflow: hidden;
+    margin-bottom:70px;
+    font-size:0.8125rem;
+    max-width: 80%;
+    line-height: 1.325rem;

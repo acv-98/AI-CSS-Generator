@@ -1,0 +1,11 @@
+	color: #8E999C;
+	font-size: 0.875em;
+	line-height: 1.5em;
+	text-align:center;
+	font-weight: 600;
+	margin: 0.2em 0;
+	display: block;
+	text-decoration:none;
+	border-radius:5px;
+	padding-bottom:5%;
+	margin-bottom: 16%;

@@ -1,0 +1,18 @@
+		position:relative;
+		left:-7px;
+		margin-top:12px;
+		margin-bottom:3px;
+		width:974px;
+		height:2px;
+		background-color:#e1e0e0;
+		padding:0;
+		top:0;
+		display:block;
+			position:relative;
+			left:-6px;
+			width:782px;
+left:-17px;		.body .callout h4 {
+			line-height:25px;
+			margin-bottom:9px;
+			text-align:center;
+display:none;left:-7px;

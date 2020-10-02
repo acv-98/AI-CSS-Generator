@@ -1,0 +1,6 @@
+	list-style:none;
+	margin:0 0 10px 0;
+	padding:5px 80px;
+	background:url("../images/orangeCheck.jpg") no-repeat;
+	font-size:1.5em;
+	color:#ba3f23;

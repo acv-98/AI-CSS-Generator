@@ -1,0 +1,1 @@
+ background: url('images/icons/user.png') no-repeat left center; height: 25px; padding-left: 25px; line-height: 27px; 

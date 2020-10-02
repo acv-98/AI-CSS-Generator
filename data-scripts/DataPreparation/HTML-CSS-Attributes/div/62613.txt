@@ -1,0 +1,14 @@
+	background-color: #fff;
+	padding-bottom: 80px;
+.block1 {
+	overflow: hidden;
+	top: 45px;
+	left: 12px !important;
+	padding-top: 14px;
+	font: 300 30px/20px 'Open Sans', sans-serif;
+	color: #000;
+	margin-bottom: 9px;
+	font-weight: 600;
+	font-size: 48px;
+	line-height: 30px;
+	display: block;

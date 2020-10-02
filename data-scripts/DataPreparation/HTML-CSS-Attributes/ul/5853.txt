@@ -1,0 +1,16 @@
+  padding: 10px 7px 10px;
+  background: #fff;
+  left: 0;
+  -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+  -ms-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+  -o-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+  letter-spacing: 0;
+  font-size: 16px;
+  line-height: 34px;
+  color: #575757 !important;
+  text-transform: none;
+  margin-top: 9px;
+  padding-left: 20px;
+  display: block !important;

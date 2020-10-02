@@ -1,0 +1,9 @@
+    width: 55px;
+    transition: all 0.3s ease-in-out;
+	width: 70px;
+	transition: all 0.3s ease-in-out;
+	color: #fff;
+	font-size: 24px;
+	font-style: italic;
+	display: inline-block;
+	vertical-align: middle;

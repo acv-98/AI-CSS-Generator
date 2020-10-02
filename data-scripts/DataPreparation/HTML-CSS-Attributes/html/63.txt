@@ -1,0 +1,5 @@
+display: block;
+.flexslider {
+	background: #888888;
+	position: relative;
+	zoom: 1;

@@ -1,0 +1,18 @@
+	height:1%;
+	margin:0 0 0 237px;
+	color:#ef0288;
+	overflow:hidden;
+	float:left;
+	background:url(../images/interface.gif) no-repeat left -50px #ff0090;
+	font-family:Arial;
+	font-size:14px;
+	padding:0 13px 0 20px;
+	line-height: 20px;
+	font-weight:normal;
+	width:auto;
+	border:0;
+	list-style:none;
+	background-color:#f0f2f1;
+	text-align:center;
+	display:block;
+	text-decoration:none;

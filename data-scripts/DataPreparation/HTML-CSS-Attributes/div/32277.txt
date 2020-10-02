@@ -1,0 +1,6 @@
+width:36%;width:100%;	width:30%;
+	float:right;
+	font-size:9pt!important;
+	margin:7px 0px;
+	color:#de770c;
+	cursor:pointer;

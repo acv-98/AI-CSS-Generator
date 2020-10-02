@@ -1,0 +1,2 @@
+	background:url(../images/box1_bot_right.gif) top right no-repeat;
+	height:24px;

@@ -1,0 +1,9 @@
+  float: none;
+  margin: 25px auto 0px;
+  width: 252px;
+color: #fff;
+font-size: 16px;
+margin-left: -10px;
+margin-top: -10px;
+padding: 8px 10px;
+text-transform: uppercase;

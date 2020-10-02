@@ -1,0 +1,11 @@
+ padding-top: 25px; 
+ padding-top: 60px; text-align: center;  font-size: 36px; padding: 0 20px;  padding: 0 20px;     
+    margin: 0 auto;
+    text-align: left;
+    color: #fff;
+	text-align: center;
+	padding-top: 100px;
+	margin: 40px 0 10px 0;
+    font-size: 22px;
+    line-height: 36px;
+	margin-top: 40px;

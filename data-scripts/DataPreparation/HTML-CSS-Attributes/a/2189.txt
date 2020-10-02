@@ -1,0 +1,5 @@
+    margin-right: 0;
+    margin-left: auto;
+    -ms-flex-item-align: end;
+        -webkit-align-self: flex-end;
+            align-self: flex-end;

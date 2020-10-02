@@ -1,0 +1,10 @@
+	display: inline-block;
+	height: 2em;
+	margin-top: 1.25em;
+	padding: 0em 1.25em;
+	background: #FE3602 url(images/img06.png) repeat-x;
+	border-radius: 5px;
+	line-height: 2em;
+	text-decoration: none;
+	font-size: 1em;
+	color: #FFFFFF;

@@ -1,0 +1,24 @@
+	width: 50%;
+	float: left;
+	margin: 0;
+	padding: 7% 4%;
+	overflow: hidden;
+	min-height: 12em;
+	-webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
+	-moz-transition: -moz-transform 0.5s, opacity 0.5s;
+	transition: transform 0.5s, opacity 0.5s;
+	
+	content: " ";
+	display: table;
+	clear: both;
+	text-align: left;
+	opacity: 0;
+	-webkit-transform: translateX(-80px);
+	-moz-transform: translateX(-80px);
+	transform: translateX(-80px);
+	-webkit-transition-delay: 0.2s;
+	-moz-transition-delay: 0.2s;
+	transition-delay: 0.2s;
+		max-width: 120%;
+		float: none;
+		width: 100%;

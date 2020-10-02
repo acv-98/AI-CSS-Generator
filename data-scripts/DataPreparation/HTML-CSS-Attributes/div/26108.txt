@@ -1,0 +1,7 @@
+	display: block;
+	padding: 2px 0 0 24px;
+	color: #9b9c11;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	background: url(images/link_button.jpg) center left no-repeat;

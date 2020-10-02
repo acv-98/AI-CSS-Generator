@@ -1,0 +1,2 @@
+	color: #FF6600;
+	padding-right: 10px;

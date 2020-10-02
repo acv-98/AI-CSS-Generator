@@ -1,0 +1,5 @@
+background: none; color:#3C3D42
+	header close
+	3) slider Start
+background: #5DCA88	 testimonial CLOSE
+	9) Submit Start

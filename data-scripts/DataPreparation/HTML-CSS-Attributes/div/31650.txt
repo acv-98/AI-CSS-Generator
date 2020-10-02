@@ -1,0 +1,4 @@
+    width:60%;
+    display: inline-block;
+    background-color: transparent;
+    color:#fff;

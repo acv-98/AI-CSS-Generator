@@ -1,0 +1,1 @@
+border-radius:0; margin-bottom:20px; margin-left:-10px; width:103.4%color:#fffcolor:#eeecolor:#fff; content:"/ "width:105%width:103.5%width:105%width:107%width:108%background-color:#12a3df

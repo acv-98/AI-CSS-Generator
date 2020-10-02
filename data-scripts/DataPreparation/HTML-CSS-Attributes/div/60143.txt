@@ -1,0 +1,8 @@
+	width: 265px;
+	float: right;
+	content: '';
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+	margin-bottom: 50px;

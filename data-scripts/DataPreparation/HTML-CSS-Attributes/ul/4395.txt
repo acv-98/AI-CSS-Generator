@@ -1,0 +1,9 @@
+	list-style:disc;
+	margin:10px 0 0 20px;
+	padding-top:0;
+	padding-left:15px;
+	width:auto;
+	border:none;
+	float:none;
+	height:auto;
+	line-height:33px;

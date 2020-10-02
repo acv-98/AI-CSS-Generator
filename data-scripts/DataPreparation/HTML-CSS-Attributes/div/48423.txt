@@ -1,0 +1,1 @@
+width:520px; height:373px; background:url("img/window.png") no-repeat; float:left; position:relative;position:absolute; left:11px; top:37px;

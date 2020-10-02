@@ -1,0 +1,6 @@
+	outline: none;
+	border: 1px solid #CACACA;
+	background: #FFF;
+	padding: 5px 10px;
+	font-size: 0.85em;
+	 padding: 5px 7px;

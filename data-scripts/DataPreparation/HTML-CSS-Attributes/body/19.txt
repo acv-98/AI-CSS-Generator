@@ -1,0 +1,5 @@
+	font:14px/24px Arial, sans-serif;
+	background:url(../images/styles/blackpaper/topbackground.jpg) repeat-x;
+	color:#666666;
+	margin:20px 0 0;
+	height:598px;

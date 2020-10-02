@@ -1,0 +1,10 @@
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  background: rgba(31, 118, 189, 0.8);
+  width: 100%;
+  color: #fff;
+  text-transform: uppercase;
+  height: 125px;
+  padding: 25px 0;
+  font-weight: bold;

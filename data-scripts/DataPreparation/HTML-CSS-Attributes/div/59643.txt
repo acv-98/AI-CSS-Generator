@@ -1,0 +1,11 @@
+  float: none;
+  text-align: center;
+max-width:100%.search input[type="text"] {
+  width: 192px;
+.logo a h1{color: #fff;
+font-family: oswald;
+font-size: 30px;
+font-weight: bold;
+line-height: 40px;
+color: #ffd500;.search{background: none repeat scroll 0 0 #2c2c2b;
+border: 1px solid #595957;

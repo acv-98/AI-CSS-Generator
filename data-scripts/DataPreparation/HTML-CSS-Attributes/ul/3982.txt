@@ -1,0 +1,5 @@
+  display: inline-block;
+  font-size: 15px;
+  color: #e6e6e6;
+  padding-right: 13px;
+  padding-left: 13px;

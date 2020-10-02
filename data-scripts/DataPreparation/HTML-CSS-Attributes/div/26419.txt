@@ -1,0 +1,6 @@
+	padding:0;
+	margin:0;
+	background:url(images/header_bg.jpg) no-repeat center 64px;
+	float:left;
+	width:670px;
+	border:1px solid #d8dbdc;

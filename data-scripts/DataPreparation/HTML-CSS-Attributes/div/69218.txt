@@ -1,0 +1,8 @@
+
+.left-list-f .panel-title>a::before {
+	display: none;
+	background-color: transparent;
+	border: none;
+	box-shadow: none;
+	margin: 0px;
+	font-size: 13px;

@@ -1,0 +1,7 @@
+    list-style: none;
+    font-size: 0.9375em;
+      padding-bottom: 5px;
+      font-size: 1.1875em;
+      font-weight: 700;
+      text-decoration: none;
+font-family:"Playfair Display SC",serif;color:#333

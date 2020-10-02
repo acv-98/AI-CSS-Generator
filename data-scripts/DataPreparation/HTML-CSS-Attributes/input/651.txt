@@ -1,0 +1,6 @@
+	margin : 0;
+	font : bolder 12px Arial, Sans-serif;
+	border : 2px solid #ccc;
+	padding : 2px 3px;
+	background : #fff;
+	color : #131212;

@@ -1,0 +1,4 @@
+    min-height: 600px;
+    background-image: url('../max-image/brochures.jpg');
+    background-size: cover;
+    z-index: 2;

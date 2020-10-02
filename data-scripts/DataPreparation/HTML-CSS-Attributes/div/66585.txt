@@ -1,0 +1,7 @@
+ background: url(images/green-box.gif) no-repeat 0 0;  height: 57px; .green-box h2 span {
+	display: block;
+	height: 26px;
+	background: url(images/h2-project.gif) no-repeat 0 0;
+	margin-left: 48px;
+	position: relative;
+	top: 15px;

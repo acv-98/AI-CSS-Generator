@@ -1,0 +1,13 @@
+	line-height: 80px;
+    font-weight: bold;
+    font-size: 14px;
+	font-size: 11px;
+    line-height: 40px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    background: #2196F3;
+    color: #FFF;
+    margin: 0 10px;
+    margin-left: 30px;
+    border-radius: 20px;

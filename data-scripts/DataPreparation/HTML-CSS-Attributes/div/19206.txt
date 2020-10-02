@@ -1,0 +1,29 @@
+	background: url(../img/home-bg.jpg) no-repeat;
+	background-attachment: fixed;
+	background-position: left top;
+	background-size: 100% 750px;
+	color: white;
+	display: -webkit-flex;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	height: 750px;	
+	background-size: 1800px 750px; 	background-attachment: scroll;  margin-bottom: 45px; #tm-section-1,
+.tm-section-1-inner,
+.tm-site-name,
+.tm-intro-text {
+	-ms-flex: 0 1 auto;
+		-webkit-flex: 0 1 auto;
+	border: 2px solid white;
+	border-radius: 50px;
+    padding: 15px 60px;    
+	background-color: white;
+	font-size: 24px;
+		height: 100vh;
+		min-height: 600px;

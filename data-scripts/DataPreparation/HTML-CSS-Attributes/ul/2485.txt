@@ -1,0 +1,11 @@
+	text-align: center;
+	left: -100%;
+	-webkit-transition: all .3s;
+	transition: all .3s;
+	-webkit-transition-delay: .25s;
+	transition-delay: .25s;
+	opacity: 0;
+	color: #fff;	
+	font-size: 26px;	
+	margin-right: 10px;
+			text-align: left;

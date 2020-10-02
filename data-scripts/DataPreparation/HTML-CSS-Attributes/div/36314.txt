@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	width:980px;
+	float:left;
+	padding-left:40px;
+	padding-right:40px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	margin-bottom:16px;
+	border:4px solid #dbdada;
+	text-align:right;
+	list-style:none;
+	color:#66625a;
+	text-decoration:none;
+	background:url(images/fbg_ul_Li.gif) no-repeat left center;

@@ -1,0 +1,26 @@
+	margin-top: 12px;
+	text-align:center;
+	letter-spacing: 1px;
+	font-family: 'Roboto', 'sans-serif';
+	font-size:37px;
+	font-weight:400;
+	color:#2f2f2f;
+	margin-left: -5px;
+	line-height: 23px;
+	width:100%;
+	position:relative;
+background-color:rgba(0,0,0,0.38);opacity:0.92;.portfolio_block .hover_img .zoom {
+	display:block;
+	z-index:100;
+	left:0;
+	top:0;
+	height:100%;
+	background: rgba(0,0,0,0);
+.portfolio_block.project_descr {
+	padding:37px 10px 14px;
+	border:0;
+	border-bottom:2px solid #ededed;
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+border-bottom-color:#765692;.portfolio_block .project_descr h4 {
+	margin-bottom:11px;

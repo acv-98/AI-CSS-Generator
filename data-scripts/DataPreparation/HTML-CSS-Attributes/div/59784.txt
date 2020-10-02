@@ -1,0 +1,7 @@
+  text-align: center;
+  background: #ffffff;
+  padding: 30px;
+  font-size: 18px;
+  color: #757575;
+  padding-top: 15px;
+  font-style: italic;

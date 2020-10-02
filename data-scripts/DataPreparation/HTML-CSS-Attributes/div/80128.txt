@@ -1,0 +1,10 @@
+	position: absolute;
+	bottom:7.6em;
+	left: 1.2em;
+	border-radius: 30em;
+	-webkit-border-radius: 30em;
+	-moz-border-radius: 30em;
+	-o-border-radius: 30em;
+		bottom: 8.6em;
+		left: 0.5em;
+		width: 55%;

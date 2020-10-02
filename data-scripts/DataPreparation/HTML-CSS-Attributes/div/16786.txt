@@ -1,0 +1,6 @@
+	overflow:hidden;
+	padding-bottom:12px;
+	font-size:14px;
+	color:#85a09d;
+	line-height:16px;
+	text-transform:uppercase;

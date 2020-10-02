@@ -1,0 +1,8 @@
+                display: block;
+                position: absolute;
+                width: 55px;
+                height: 55px;
+                cursor: pointer;
+                background:url(../images/a21.png) center center no-repeat;
+                overflow: hidden;
+ background-position: -3px -33px;  background-position: -123px -33px;  background-position: -243px -33px; 

@@ -1,0 +1,17 @@
+	text-decoration:none;
+	width:100%;
+	padding:0;
+	border-bottom:1px solid #fff;
+	background:url(../images/menu-row-tail.gif) center top repeat-x #e6e6e6;
+	border-left:1px solid #fff;
+	border-right:1px solid #fff;
+	min-height:58px;
+	overflow:hidden;
+	float:left;
+	position:relative;
+	display:block;
+	font-family: 'Adamina', serif;
+	font-size:20px;
+	line-height:2.5em;
+	letter-spacing:-1px;
+	color:#000;

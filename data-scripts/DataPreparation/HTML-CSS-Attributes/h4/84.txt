@@ -1,0 +1,4 @@
+	font-weight:700;
+ margin-bottom: 30px; .heading {
+	position: relative;
+	

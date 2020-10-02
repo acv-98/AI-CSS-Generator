@@ -1,0 +1,15 @@
+    background-color: #f1f6f7;
+    border-radius: 0;
+    height: 30px;
+    margin: 20px 0;
+    overflow: visible;
+    font-size: 15px;
+    line-height: 31px;
+    padding-left: 20px;
+    text-align: left;
+    color: #fff;
+    display: block;
+    font-weight: 400;
+    margin-top: -15px;
+    position: relative;
+    width: 60px;

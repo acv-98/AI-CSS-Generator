@@ -1,0 +1,17 @@
+    width: 50%;
+    float: left;
+    padding: 15px;
+    position: relative;
+    font-family: Montserrat,arial;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #FFB03B;
+    bottom: 6px;
+    border-bottom: 1px dotted rgba(0,0,0,.3);
+    margin-left: .6rem;
+    margin-right: .6rem;
+    font-weight: 600;
+    right: 0;
+    top: 0;
+    display: block;
+    font-size: 1.2rem;

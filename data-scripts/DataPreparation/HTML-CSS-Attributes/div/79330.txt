@@ -1,0 +1,11 @@
+padding-top: 5px;
+background-color: rgba(0, 0, 0, 0.5);
+min-height: 330px;
+margin-top: 150px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+margin-bottom: 30px;
+            margin-left: 10px; 
+            margin-right: 10px; 
+            color: #159238;
+            background-color: #159238;

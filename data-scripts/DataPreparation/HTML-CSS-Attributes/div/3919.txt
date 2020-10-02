@@ -1,0 +1,20 @@
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+	-webkit-perspective: 800px;
+	-moz-perspective: 800px;
+	-o-perspective: 800px;
+	-ms-perspective: 800px;
+	perspective: 800px;
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	box-shadow: 
+		0 0 0 5px #f6f6f6,
+		inset 0 0 3px rgba(115,114, 23, 0.8);
+		0 0 0 0 rgba(0,0,0,0.8), 

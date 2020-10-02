@@ -1,0 +1,8 @@
+float:left    margin-bottom: 0;
+    border: 0 !important;
+    border-right: 0 !important;
+    margin-right: 0;
+	background: #00aced;
+	display: block;
+	color: #ffffff !important;
+	padding: 5px 15px;

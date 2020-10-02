@@ -1,0 +1,13 @@
+ margin:0 ; margin:0 0 12px 30px; font-size:12px; line-height:18px; margin-left:0px;	font-size:15px;
+	margin:0 0 14px 68px;
+	padding-left:0;
+	font-weight:400;
+	float:left;
+	width:102px;
+	margin-right:12px;
+	line-height:28px;
+	font-style:normal;
+	color:#222222;
+	font-family: 'FontAwesome';
+	display:block;
+	overflow:hidden;

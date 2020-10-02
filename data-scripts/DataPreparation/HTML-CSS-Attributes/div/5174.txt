@@ -1,0 +1,8 @@
+	margin: 45px 0;
+	font-size: 18px;
+	font-weight: 400;
+	color: #444;
+	margin-bottom: 10px;
+	width: 85%;
+	float: right;
+	margin-top: -36px;

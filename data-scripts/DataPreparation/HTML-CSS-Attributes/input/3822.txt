@@ -1,0 +1,7 @@
+	background:url(../images/spotlight.gif) no-repeat right center;
+	border:0;
+	cursor:pointer;
+	height:38px;
+	width:20px;
+	margin:0;
+	padding:0;

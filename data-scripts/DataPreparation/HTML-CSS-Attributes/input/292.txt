@@ -1,0 +1,1 @@
+ width:720px; height:35px;background:url(../images/bg3.jpg);border:none; outline:none; color:#385278; font-family: 'Rokkitt', serif; font-size:18px; width:900px; height:40px; background:url(../images/bg3.jpg); text-indent:5px; border:none; color:#a5a5a6; font-family: 'Rokkitt', serif; font-size:17px;

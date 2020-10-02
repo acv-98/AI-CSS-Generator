@@ -1,0 +1,4 @@
+    float: left;
+    width: 90px;
+    height: 90px;
+    border-radius: 6px;

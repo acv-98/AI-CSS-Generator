@@ -1,0 +1,7 @@
+	width:542px;
+	height:34px;
+	color:#d6d7d7;
+	margin:0 0 30px 35px;
+	padding:8px 0 8px 13px;
+	background:url(../images/read_more.png) no-repeat;
+	font-size:12px;

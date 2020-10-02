@@ -1,0 +1,6 @@
+ margin-top: 60px;  top: -11px;  padding-left: 15px; 			.pagination .next a {
+				background: url("../images/posts/next.png") 100% 1px no-repeat;
+				padding-right: 30px;
+ background-position: 100% -17px;  padding-right: 15px; 			.pagination .prev a {
+				padding-left: 30px;
+ background-position: 0 -17px; 

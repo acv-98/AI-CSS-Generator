@@ -1,0 +1,4 @@
+    float: left;
+    width: 100%;
+    color: #ffffff !important;
+    margin-top: 0;

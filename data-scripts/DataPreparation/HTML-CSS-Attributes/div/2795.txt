@@ -1,0 +1,15 @@
+  position: absolute;
+  display: inline-block;
+  right: 15px;
+  margin-top: 5px;
+  margin-right: 34px;
+  z-index: 1061;
+  content: '';
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-bottom: 7px solid rgba(204, 204, 204, 0.2);
+  bottom: -4px;
+  left: 9px;
+  top: -3px;
+  border-top: 7px solid rgba(204, 204, 204, 0.2);
+     background-color: #b0b435;

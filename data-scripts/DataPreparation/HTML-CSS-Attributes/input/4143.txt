@@ -1,0 +1,6 @@
+	display:block;
+	background:#333;
+	border:none;
+	padding:8px;
+	font:bold 12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#fff;

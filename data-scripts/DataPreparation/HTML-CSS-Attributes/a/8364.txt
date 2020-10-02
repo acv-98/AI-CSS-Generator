@@ -1,0 +1,5 @@
+            padding-right: 1em; float:left;
+              vertical-align: middle;
+              border:5px solid #BBB;
+              margin-top:0.8em;
+ boder:0px;  padding-right:0em;  padding-right:0em;  padding-right:0em; 

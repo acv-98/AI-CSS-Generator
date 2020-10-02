@@ -1,0 +1,8 @@
+	border-radius: 0;
+	color: rgba(255,255,255,0.75);
+    background-color: rgba(0, 0, 0, 0.24);
+    border: 1px solid rgba(204, 204, 204, 0.43);
+ border-color: #2C9798; 	padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    width: 100%;
+    border-color: #F3F3F3;

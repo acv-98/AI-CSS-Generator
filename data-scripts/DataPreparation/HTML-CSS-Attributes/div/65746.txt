@@ -1,0 +1,16 @@
+	position:absolute;
+	top:0;
+	left:0;
+	font-weight:300;
+	font-size:13px;
+	color:#ffffff;
+	-webkit-border-top-left-radius:3px;
+	-webkit-border-bottom-left-radius:4px;
+	-moz-border-radius-topleft:3px;
+	-moz-border-radius-bottomleft:3px;
+	border-top-left-radius:3px;
+	border-bottom-left-radius:3px;
+	display:block;
+	padding:0 20px;
+	height:35px;
+	line-height:35px;

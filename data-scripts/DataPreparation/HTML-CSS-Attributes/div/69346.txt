@@ -1,0 +1,9 @@
+	color: #333;
+	font-size: 12px;
+	padding: 10px 0px;
+	border-right: 1px solid #333;
+	float: left;
+	padding-bottom: 21px;
+	margin: 0px;
+	display: inline-block;
+	font-weight: 400;

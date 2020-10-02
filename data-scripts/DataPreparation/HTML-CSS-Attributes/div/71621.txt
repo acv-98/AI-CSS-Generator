@@ -1,0 +1,10 @@
+	padding-bottom: 20px;
+	border-bottom: 1px dashed #666;
+	margin-bottom: 20px;
+	float: left;
+	position: relative;
+	width: 83px;
+	height: 53px;
+	top: 0;
+	left: 0;
+	background: url(images/news_image_frame.png) no-repeat;

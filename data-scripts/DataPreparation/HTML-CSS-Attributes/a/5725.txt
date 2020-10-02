@@ -1,0 +1,7 @@
+color:#000
+.picHeading1
+{ 
+padding:168px 0px 0px 245px;
+margin:0px;
+float:left;
+font:18px ZapfHumnst BT, Arial, Helvetica, sans-serif;

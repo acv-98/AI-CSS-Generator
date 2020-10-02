@@ -1,0 +1,9 @@
+	width: 455px;
+	float: left;
+	clear: both;
+	display: block;
+	position: relative;
+	height: 100%;
+	text-align: center;
+	text-decoration: none;
+	z-index: 100;

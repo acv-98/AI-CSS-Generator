@@ -1,0 +1,7 @@
+	width:301px;
+	margin:0 auto 20px auto;
+	background:url(images/hbox1.jpg) no-repeat;
+	height:10px;
+	padding: 0 10px 0 10px;
+	display:block;
+	padding-top:10px;

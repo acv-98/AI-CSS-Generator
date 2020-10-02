@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	float:left;
+	width:620px;
+	margin-bottom:0;
+	padding-bottom:8px;
+	font-size:30px;
+	line-height:1.2em;
+	color:#353c3e;
+	background:url(../images/dash.gif) repeat-x left bottom;
+	font-weight:normal;
+	text-decoration:underline;
+	border:1px solid #dedede;

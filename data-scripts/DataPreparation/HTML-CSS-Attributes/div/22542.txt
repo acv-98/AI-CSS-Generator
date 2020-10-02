@@ -1,0 +1,8 @@
+    width:100%;
+    height: 100%;
+    position:absolute;
+    left:45%;
+    top:35%;
+    cursor:pointer;
+    font-size:2.5rem;
+    color:#f38181;

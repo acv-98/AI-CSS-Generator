@@ -1,0 +1,8 @@
+	border-color:#D2691E;
+	color: #D2691E;
+	padding: 10px 15px;
+	font-size: 20px;
+	display: inline-block;
+	text-transform: uppercase;
+	text-decoration: none;
+font-size: 18px;

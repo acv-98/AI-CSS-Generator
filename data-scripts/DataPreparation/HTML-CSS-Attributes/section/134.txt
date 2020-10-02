@@ -1,0 +1,5 @@
+ padding-bottom: 60px; 
+.tm-tours-box-1 {
+	width: 100%;
+	max-width: 532px;
+	margin-bottom: 50px;

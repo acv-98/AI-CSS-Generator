@@ -1,0 +1,9 @@
+	padding:0.3em 0 2.3em;
+	position:relative;
+	background: url(../images/works-bg.png) no-repeat;
+	background-size: 100% 100%;
+	min-height: 535px;
+	width: 100%;
+	bottom: -3%;
+	z-index: -1;
+		min-height: 300px;

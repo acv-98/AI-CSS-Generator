@@ -1,0 +1,11 @@
+	margin-top:0px;
+	_background-position: 0 -104px;
+	background:url("../images/icons.gif");
+	background-position: 0 -124px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:20px;
+	   *margin-top:0px;
+	   
+	opacity:0.8;
+	filter:alpha(opacity=80);

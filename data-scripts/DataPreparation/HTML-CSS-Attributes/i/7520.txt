@@ -1,0 +1,8 @@
+    border-radius: 24px;
+    -moz-border-radius: 24px;
+    -webkit-border-radius: 24px;
+    width: 20px;
+    height: 20px;
+	padding:6px;
+    font-size: 16px;
+    line-height: 20px;

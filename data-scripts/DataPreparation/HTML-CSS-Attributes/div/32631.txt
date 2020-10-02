@@ -1,0 +1,2 @@
+ width: 450px; height: 220px; position:relative; overflow: hidden; float: right; padding-top: 30px;  
+ width: 380px; height: 190px;  width: 380px; height: 190px; float:none; display:block;  width: 300px;  float:none; display:block; padding-top: 12px; 

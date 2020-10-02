@@ -1,0 +1,5 @@
+	font-size: 80px;
+	color: #FFF;
+	line-height: 210px;
+	text-align: center;
+  content: "\e000";

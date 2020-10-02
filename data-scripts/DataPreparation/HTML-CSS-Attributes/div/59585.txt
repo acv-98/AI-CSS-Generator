@@ -1,0 +1,1 @@
+ background: url(../img/main-logo.png) no-repeat center center; width: 94px; height: 85px; position: absolute; top: 30px; left: 10%;  display: hidden; 

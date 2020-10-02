@@ -1,0 +1,6 @@
+	display:none;	
+   display: none;
+   min-height: 200px;
+   border: 1px solid #ccc;
+   padding: 15px;
+   background: #fff;

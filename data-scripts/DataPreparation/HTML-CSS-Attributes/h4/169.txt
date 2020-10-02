@@ -1,0 +1,15 @@
+	color: #D2691E;		
+  color: #D2691E;		
+  border-bottom: 1px solid #ccc;
+  font-family: 'Varela', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  display: block;
+  text-decoration: none;
+  padding-bottom: 10px;
+  margin-right: 5px;
+font-size: 17px;

@@ -1,0 +1,6 @@
+	padding-top: 7px;
+	margin: 0 -10px;
+	overflow: hidden;
+	margin-bottom: 6px;
+	border: 1px solid #d1d1d1;
+	height: 29px;

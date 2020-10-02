@@ -1,0 +1,11 @@
+	background: #74c9be; 
+	display:block;
+	text-align: left;
+	text-transform:capitalize; 
+	font-size: 30px;
+	font-family: 'Ruda', sans-serif;
+	font-weight: 400;
+	color:white; 
+	padding-left:10px; 
+	padding-right:10px; 
+	margin-right:5px;

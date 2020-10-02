@@ -1,0 +1,5 @@
+  font-size: 18px;
+  text-transform: uppercase;
+  font-family: "Roboto Mono", serif;
+  color: #000;
+  margin-bottom: 50px;

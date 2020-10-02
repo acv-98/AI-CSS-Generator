@@ -1,0 +1,4 @@
+	background: #fff;
+	border: 1px solid #f7f7f7;
+	padding: 20px;
+		margin-bottom: 50px;

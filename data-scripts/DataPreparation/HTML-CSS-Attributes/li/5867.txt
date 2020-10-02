@@ -1,0 +1,2 @@
+	background:url(images/bg-comment.png) no-repeat;
+	color:#fff;

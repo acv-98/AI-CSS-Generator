@@ -1,0 +1,17 @@
+	font-style: normal;
+	clear: both;
+	padding: 0;
+	float:left;
+	font-size: 13px;
+	margin-left: 10px;
+	font-family: "SortsMillGoudyItalic";
+	color: #a4a4a4;
+	background:none;
+	width:555px;
+	line-height:20px;
+	position:relative;
+	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	-moz-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	border: 1px solid #d5d5d5;
+	background-color: #f4f4f4;

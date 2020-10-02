@@ -1,0 +1,2 @@
+  background: #f4f4f4;
+font-family:"Playfair Display SC",serif;color:#333

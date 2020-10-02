@@ -1,0 +1,4 @@
+	width:960px;
+	clear:both;
+	background:url(../images/line.png) no-repeat;
+	height:2px;

@@ -1,0 +1,10 @@
+	width:100%;
+	overflow:hidden;
+	vertical-align:top;
+	margin:18px 0 0 -8px;
+	background:url(../images/divider1.gif) repeat-x left top;
+	padding-top:20px;
+	margin-top:0;
+	float:left;
+	margin-right:9px;
+	margin-bottom:10px;

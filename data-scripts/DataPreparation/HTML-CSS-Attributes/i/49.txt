@@ -1,0 +1,6 @@
+    border: 1px dashed #f65aa7;
+    margin-bottom: 25px;
+    color: #f65aa7;
+    padding: 35px 0;
+    font-size: 45px;
+    background-color: #f65aa7;

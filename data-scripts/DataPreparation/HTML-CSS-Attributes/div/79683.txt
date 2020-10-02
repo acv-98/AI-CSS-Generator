@@ -1,0 +1,6 @@
+	margin-left: auto;
+	margin-right: auto;
+	width: 1212px;
+	padding-left:101px;
+	padding-right:101px;
+	left:101px;

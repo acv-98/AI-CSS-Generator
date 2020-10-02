@@ -1,0 +1,5 @@
+	text-transform: capitalize;
+	font-size: 2em;
+	color: #202227;
+	margin-bottom: 2%;
+	line-height: 1.8em;

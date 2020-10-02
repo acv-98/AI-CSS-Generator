@@ -1,0 +1,5 @@
+	float:left;
+	margin:26px 25px 0 0;
+	font:30px/32px 'ProximaNovaRgBoldItalic', Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-shadow: 1px 1px 3px #5e748e;

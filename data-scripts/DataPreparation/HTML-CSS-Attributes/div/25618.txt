@@ -1,0 +1,4 @@
+	width: 590px;
+	height: 36px;
+	margin-bottom: 20px;
+	background: url(images/content_bottom.jpg) no-repeat;

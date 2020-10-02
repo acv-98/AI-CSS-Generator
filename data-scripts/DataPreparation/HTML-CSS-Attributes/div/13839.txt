@@ -1,0 +1,14 @@
+    float: left;
+    position: absolute;
+    width: 40%;
+    height: 100%;
+    background: rgba(0,0,0,.8);
+    z-index: 1;
+    padding: 60px;
+    border: none;
+    border-bottom: solid #fff 2px;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 15px;
+	color:#fff;border-color:#fff;
+float: left;position: absolute;width: 40%;height: 100%;background: rgba(0,0,0,.8);z-index: 1;padding: 15px 30px;float: left;position: absolute;width: 40%;height: 100%;background: rgba(0,0,0,.8);z-index: 1;padding: 15px 30px;

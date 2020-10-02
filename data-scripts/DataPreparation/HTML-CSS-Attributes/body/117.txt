@@ -1,0 +1,18 @@
+	position:relative;
+	margin:16px 0;
+	font-size:20px;
+	line-height:48px;
+	font-weight:300;
+	border-bottom:1px solid #e2e2e2;
+	content:"";
+	bottom:-2px;
+	left:0;
+	height:3px;
+	width:80px;
+	background:#333;
+   Project Details
+.project-details {
+	padding:0;
+	list-style:none;
+.project-actions {
+	margin-top:32px;

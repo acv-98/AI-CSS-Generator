@@ -1,0 +1,9 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/button-big.png', sizingMethod='scale');
+	text-align:center;
+	font-size:17px;
+	font-weight:bold;
+	padding:5px 15px;
+	color:#fff;
+	text-decoration:none;
+	display:inline-block;

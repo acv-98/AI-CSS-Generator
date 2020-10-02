@@ -1,0 +1,4 @@
+	float: left;
+	width: 440px;
+	background: url(images/section_w440_bg.jpg) repeat-y;
+	padding: 0 20px;

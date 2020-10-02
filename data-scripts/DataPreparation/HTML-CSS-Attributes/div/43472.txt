@@ -1,0 +1,8 @@
+ text-align: center;  padding: 0 20px; 
+	margin: 15px 0 0 0;
+	font-size: 18px;
+    line-height: 32px;
+    color: #fff;
+	color: #fff;
+	border-bottom: 1px dashed #eee;
+ border: 0; 

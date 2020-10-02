@@ -1,0 +1,1 @@
+width:930px; margin:0 auto

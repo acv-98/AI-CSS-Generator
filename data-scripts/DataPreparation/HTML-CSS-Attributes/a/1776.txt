@@ -1,0 +1,66 @@
+  margin-left: -20px;
+  list-style: none;
+  *zoom: 1;
+  display: table;
+  line-height: 0;
+  content: "";
+  clear: both;
+  float: left;
+  margin-bottom: 20px;
+  padding: 4px;
+  border: 1px solid #ddd;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+  -webkit-transition: all 0.2s ease-in-out;
+     -moz-transition: all 0.2s ease-in-out;
+       -o-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+  border-color: #0088cc;
+  max-width: 100%;
+  margin-right: auto;
+  color: #555555;
+    margin-left: -30px;
+    float: none;
+ font-size: 13px; font-family: 'Muli', sans-serif; color: #585555; font-style: normal; font-weight: 400;  font-size: 12px; font-family: 'Muli', sans-serif; color: #000; font-style: normal; font-weight: 400;  border-color: #dfdcdc;  border-color: #cccccc;  background-color: #193654; background-image: url('http://yit.com/libra/wp-content/themes/libra/images/header-pattern.png'); background-repeat: repeat; background-position: top left; background-attachment: scroll; 	display: none;
+	position: absolute;
+	left:50%;
+	bottom: 60px;
+	z-index: 100;
+	height: 170px;
+	cursor: pointer;
+	margin-bottom: 100px;
+	
+	border:5px solid #fff;
+    -webkit-box-shadow:1px 1px 7px rgba(0, 0, 0, 0.50);
+ position: static;     .testimonial-quote-style .testimonial-name {
+        float: none;
+        text-align: center;
+        margin-right: 0;
+        padding-top: 15px;
+        padding-bottom: 0;
+        width: 100%;
+        clear: both;
+        position: static;
+ width: 96.5% !important; padding:1.5%;  max-width:90%;  margin-left:22px;  margin-top:0;  right:0;  background: none  max-width: 97%;  visibility: hidden !important  float: none  margin-left: 0px !important;  float: none;  width: 96%; margin-bottom: 20px;  width:18px; 	margin-right:10px; 	margin-left:0px;     display: block;
+    max-width: 100%;
+    top: 0;
+    left: 0;
+    background: url("../images/thumb-testimonial.png") no-repeat scroll center center transparent;
+    height: 94px;
+    -webkit-border-radius: 0px;
+    margin-bottom: 10px;
+ width: 385px;     background-color: #dedede;
+    right: 0px;
+    bottom: -15px;
+    margin-top: 60px;
+    padding-right: 0;
+ width: 210px; #ie8 .sidebar-no .section.blog .sticky .the-content.span3,
+ position: relative; .section.blog .post .date {
+ width: 260px;  width: 210px;     .sidebar-no .section.blog .sticky .the-content.span3,
+ width: 156px;  margin-bottom: 17px;  background:none; height: auto; margin-bottom:30px; margin-left:auto; margin-right:auto;    border: 10px solid rgba(255,255,255,0.07); border-bottom:0px;  margin-right:12px; position:relative; width:68px;  width:60px; max-width:none; vertical-align:baseline; padding:3px; border:1px solid #CFCFCF; opacity:0.6; filter: alpha(opacity=60);  cursor:pointer; border-color:#CFCFCF; opacity:1; filter: alpha(opacity=100); position:absolute;bottom:2px;padding-left:10px;padding-bottom:5px;padding:10px;text-align:center;padding-top:25px; margin-top:10px; margin-left:30px;  position:relative; padding-top:20px; background: url('../../../images/slider/slider-thumbnails-shadow.png') center top no-repeat;  width:30px; height:16px; position:absolute; top:50%; margin-top:5px;  left:0;  right:0;  cursor:pointer; .slider.thumbnails .showcase-thumbnail-button-backward .showcase-thumbnail-horizontal span, 
+ display:block; width:11px; height:16px; background:url('../images/slider-thumbnails-arrows.png') no-repeat; text-indent:-9999px;  background-position:left top;  background-position:right top; float:right; background-image:url("../images/white-opacity-80.png");bottom:10px;color:#000000;display:none;left:10px;margin:10px;padding:8px 15px;position:absolute;right:10px;text-align:left; font-size:24px; margin:0; padding:0;  background-image: url("../images/plus.png"); background-repeat: no-repeat; position: absolute; bottom: -40px; background-position:-32px 0;background-color:#fff;color:#000;text-align:center;padding:5px 8px;background-image:url('../images/white-opacity-80.png'); width:auto; height:auto; border:0 !important; padding:0; display:block; max-width:100%; height:auto !important;  margin: 0 auto;  height: auto !important;  max-width:95%;  margin-top: 20px; border-top: 1px solid #223d5a; padding-top: 40px;  margin-bottom: -130px;  margin: 0; position: relative; border: none; @media (min-width: 768px) and (max-width: 979px)  { 
+ margin-right:9px;  margin-left:18px; margin-top:0; 

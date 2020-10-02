@@ -1,0 +1,2 @@
+	line-height:18px;
+	margin:7px 0 6px 0;

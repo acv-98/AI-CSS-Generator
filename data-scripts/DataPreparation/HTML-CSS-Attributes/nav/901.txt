@@ -1,0 +1,11 @@
+		width: 55%;
+		display: none;
+		color: rgba(255,255,255);
+		border-color: rgba(255,255,255);
+	background: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #ffffff;
+    margin-left: 15px;
+    color: #cd1713 !important;
+    text-transform: uppercase;

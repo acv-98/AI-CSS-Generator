@@ -1,0 +1,3 @@
+	padding-left:15px;
+	background:url(images/ul_li.gif) left center no-repeat;
+	font-size:14px;

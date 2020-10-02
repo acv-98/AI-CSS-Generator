@@ -1,0 +1,1 @@
+text-decoration:none; display:block; width:107px; height:35px; background:#ee3233; color:#ffffff; font-family: 'Pontano Sans', sans-serif;  line-height:35px; text-align:center; font-size:15px; background:#66a7c5;padding:4px 7px;background:#66a7c5; color:#ffffff; text-transform:uppercase; font-family:'Oswald', sans-serif;border:0px solid;margin-left:100px;margin-top:20px;

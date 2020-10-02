@@ -1,0 +1,4 @@
+		width: 100%;
+    background-color: rgba(131, 167, 165, 0.71);
+    padding: 0px;
+    margin:0px;

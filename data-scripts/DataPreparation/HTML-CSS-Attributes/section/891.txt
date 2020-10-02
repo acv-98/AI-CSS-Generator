@@ -1,0 +1,8 @@
+    color: #ffffff;
+    background-color: rgba(41, 41, 41, 0.68);
+    width: 80%;
+    margin: auto;
+    background-size: cover;
+    padding-top: 250px;
+    line-height: 6rem;
+    padding-bottom: 25px;

@@ -1,0 +1,17 @@
+	list-style: none;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+	display: inline-block;
+	vertical-align: top;
+	height: 250px;
+	border: none;
+	outline: none;
+	position: relative;
+	top: auto;
+	content: " ";
+	pointer-events: none;
+	border-bottom-color: #fdfbfc;
+	border-width: 15px;
+	left: 50%;

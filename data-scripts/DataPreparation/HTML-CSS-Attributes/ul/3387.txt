@@ -1,0 +1,5 @@
+   line-height: 30px;
+   margin-bottom: 12px;
+   font-family: notosans-bold, sans-serif;
+   display: block;
+   color: #313131;

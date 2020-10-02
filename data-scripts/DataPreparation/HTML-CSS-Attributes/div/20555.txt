@@ -1,0 +1,10 @@
+    bottom: 200px;
+    left: 42%;
+    position:absolute;
+    color:#fff;
+    transition:.5s;
+    -webkit-transition:.5s;
+    -moz-transition:.5s;
+    text-transform:uppercase;
+    font-size:18px;
+    font-weight:500;

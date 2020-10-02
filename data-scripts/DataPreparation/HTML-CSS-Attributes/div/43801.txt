@@ -1,0 +1,4 @@
+ display: none; 
+.header { 
+	max-width: 420px;
+	overflow: auto; 

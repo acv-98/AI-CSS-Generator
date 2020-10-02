@@ -1,0 +1,1 @@
+      background: url("../assets/images/testimonial2.png") left center no-repeat;

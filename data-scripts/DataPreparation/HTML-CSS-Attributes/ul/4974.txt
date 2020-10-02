@@ -1,0 +1,11 @@
+	background:#bb0e0e
+	color:#bb0e0e !important
+	padding:0 25px;
+	overflow:hidden;
+	float:left;
+	display: block;
+	font-size:40px;
+	text-decoration:none;
+	line-height:54px;
+	height:57px;
+	letter-spacing:-1px;

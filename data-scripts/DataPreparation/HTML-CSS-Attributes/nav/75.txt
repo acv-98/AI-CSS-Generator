@@ -1,0 +1,9 @@
+    background-color: transparent; 
+    border-color: transparent; 
+	transition:.6s;
+    color: #777;
+    text-transform: uppercase;
+    font-size: 14px;
+	color:#e84c3d;
+	background-color:transparent;
+	

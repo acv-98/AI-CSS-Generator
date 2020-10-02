@@ -1,0 +1,9 @@
+	margin-right: 0px;
+	-webkit-box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.1);
+	background: #fff;
+	padding: 12px;
+	color: #1c95fd;
+	font-size: 12px;
+	padding-top: 15px;
+	margin-bottom: 20px;

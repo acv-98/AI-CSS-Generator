@@ -1,0 +1,17 @@
+	position:relative;
+	margin:0 auto;
+	width:952px;
+	height:38px;
+	padding:26px 0 0 0;
+	color:#c1c8d3;
+	background:url(../images/bg_footer.jpg) top center no-repeat blue;
+	line-height:normal;
+	white-space:nowrap;
+	text-indent:inherit;
+	font-weight:normal;
+	border:none;
+	text-decoration:underline;
+	background-color:transparent;
+	float:left;
+	margin-left:55px;
+	margin-right:55px;

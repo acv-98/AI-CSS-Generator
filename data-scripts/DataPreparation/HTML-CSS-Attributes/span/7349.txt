@@ -1,0 +1,14 @@
+	display: block;
+	float: left;
+	width: 29px;
+	height: 28px;
+	text-indent: -9999px;
+	background-image: url(../images/social-icons.png);
+	background-repeat: no-repeat;
+	margin-right: 10px;
+	-webkit-transition: all 0.4s;
+	-moz-transition: all 0.4s;
+	-o-transition: all 0.4s;
+	-ms-transition: all 0.4s;
+	transition: all 0.4s;
+	background-position: 0 -29px;

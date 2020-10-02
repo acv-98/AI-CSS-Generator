@@ -1,0 +1,12 @@
+	padding-top: 42px;
+	overflow: hidden;
+	margin-top: 4px;
+	margin-right: 20px;
+	float: left;
+	border: 5px solid #bfdde8;
+	border-top-width: 8px;
+	border-bottom-width: 8px;
+	padding-bottom: 10px;
+	color: #585858;
+	font-size: 14px;
+	display: block;

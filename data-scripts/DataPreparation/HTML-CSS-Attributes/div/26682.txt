@@ -1,0 +1,3 @@
+	clear: both;
+	width: 910px;
+	padding: 0 30px;

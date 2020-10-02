@@ -1,0 +1,3 @@
+	padding:0 34px;
+	background:#fff;
+	padding-bottom:45px

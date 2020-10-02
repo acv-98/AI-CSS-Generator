@@ -1,0 +1,6 @@
+	background:url(../images/bottom-shadow.gif) no-repeat left top;
+	display:block;
+	height:20px;
+	width:960px;
+	position:absolute;
+	bottom:-100px;

@@ -1,0 +1,1 @@
+ border-color: #cfcfcf;  border-color: #cfcfcf;  position:relative; height: 12px; border-top:1px solid #CFCFCF; margin-top:15px;  position:absolute; top:-12px; right:0;  background: #fff; padding: 0 0 0 15px; float: right; font-size: 11px  text-transform: uppercase; color: #d38304; 

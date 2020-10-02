@@ -1,0 +1,7 @@
+	position: relative;
+	border-top: 0;
+	border-bottom: 4px solid #000000;
+	content: "";
+	top: auto;
+	bottom: 100%;
+	margin-bottom: 1px;

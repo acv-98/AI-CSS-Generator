@@ -1,0 +1,1 @@
+	background:url(../images/box1_bot_left.gif) top left no-repeat;

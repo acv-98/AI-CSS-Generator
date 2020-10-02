@@ -1,0 +1,8 @@
+	display: block;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	background-color: #8C8C8C;
+	color: white;
+	text-transform: uppercase;
+	transition: all 0.3s ease;

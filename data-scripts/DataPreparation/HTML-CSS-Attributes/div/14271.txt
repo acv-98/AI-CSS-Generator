@@ -1,0 +1,2 @@
+	clear:both;
+	line-height:0;

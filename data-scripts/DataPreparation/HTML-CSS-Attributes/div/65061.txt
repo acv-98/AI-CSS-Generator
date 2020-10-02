@@ -1,0 +1,4 @@
+	float: left;
+	color: #bebebe;
+	font-size: 11px;
+	margin: 0 25px 0 0;

@@ -1,0 +1,13 @@
+	padding-left: 0;
+	display: inline;
+	float: left;
+	width: 100%;
+	border-bottom: 1px solid #ccc;
+	border-top: none;
+	margin-top: 0;
+	padding-top: 0;
+	list-style: none;
+	color: #323232;
+	font-size: 18px;
+	font-weight: 600;
+	margin-right: 10px;

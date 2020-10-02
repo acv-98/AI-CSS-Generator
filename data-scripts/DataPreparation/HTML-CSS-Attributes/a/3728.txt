@@ -1,0 +1,4 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-nav-hover.png', sizingMethod='image');
+	text-decoration:none;
+	z-index:1;

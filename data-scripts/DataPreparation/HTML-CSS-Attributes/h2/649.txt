@@ -1,0 +1,4 @@
+	font-size:18px;
+	text-align:left;
+	color:#2f2f2f;
+	margin-bottom:10px;

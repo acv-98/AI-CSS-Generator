@@ -1,0 +1,3 @@
+  border: 1px solid rgba(15, 116, 143, 0.8);
+  margin-top: 37px;
+  background-color: rgba(15, 116, 143, 0.8);

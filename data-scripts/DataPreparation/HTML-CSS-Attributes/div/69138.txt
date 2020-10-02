@@ -1,0 +1,7 @@
+    background: none repeat scroll 0 0 transparent;
+    display: block;
+    float: left;
+    list-style-type: none !important;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;

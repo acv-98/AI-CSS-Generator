@@ -1,0 +1,8 @@
+position:relative;
+max-width:500px;
+margin:0 auto
+margin-top:0;
+margin-bottom:30px;
+font-size:30px
+height:50px;
+transform:translateY(-50%)

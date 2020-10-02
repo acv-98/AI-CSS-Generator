@@ -1,0 +1,10 @@
+	color: #fff;
+	display: inline;
+	float: left;
+	max-width: 70%;
+	font-size: 24px;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+		max-width: 65%;
+		margin-bottom: 15px;
+		font-size: 20px;

@@ -1,0 +1,7 @@
+  background-color: #42969e;
+  border: 1px solid #FFFFFF;
+  color: #ffffff;
+  display: block;
+  line-height: 40px;
+  min-height: 40px;
+  text-align: center;

@@ -1,0 +1,8 @@
+
+.lug .modal-body ul li {
+	display: inline-block;
+	margin-right: 15px;
+	font-size: 18px;
+	color: #333333;
+	width: 26px;
+	height: 26px;

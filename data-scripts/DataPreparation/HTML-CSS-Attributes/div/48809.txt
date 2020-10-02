@@ -1,0 +1,9 @@
+  display: inline;
+  float: left;
+  width: 100%;
+  text-align: center;
+  background-color: #555;
+  border: 1px solid #888;
+  border-radius: 50%;
+  margin: -50px auto 5px;
+  padding: 0;

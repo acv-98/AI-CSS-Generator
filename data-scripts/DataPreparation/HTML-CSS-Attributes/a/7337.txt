@@ -1,0 +1,7 @@
+  background: #65c31f;
+  color: #fff;
+  text-shadow: none;
+  border-color: #57af17;
+  font-weight: bold;
+  background-color: #65c31f;
+  background-image: -moz-linear-gradient(#94d52d, #65c31f);

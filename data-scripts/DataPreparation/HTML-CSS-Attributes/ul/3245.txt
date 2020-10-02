@@ -1,0 +1,16 @@
+  padding: 0;
+  list-style: none;
+  display: inline;
+  height: 40px;
+  width: 40px;
+  border: 1px solid #ebebeb;
+  text-align: center;
+  color: #2e2e2e;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  background: #f86942;
+  vertical-align: middle;
+  font-size: 18px;

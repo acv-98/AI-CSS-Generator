@@ -1,0 +1,3 @@
+	color:#005ae1;
+	text-decoration:none;
+	padding:0 20px 0 20px;

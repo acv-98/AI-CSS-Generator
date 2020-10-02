@@ -1,0 +1,9 @@
+.about_bottom_content h4{
+	font-size:24px;
+	font-family: 'coolveticaregular';
+	color:#999999;
+	margin-bottom:40px;
+	margin-left: 20px;
+.features{
+	background:url(../images/featuresbg.jpg) no-repeat top center;
+	background-size:cover;

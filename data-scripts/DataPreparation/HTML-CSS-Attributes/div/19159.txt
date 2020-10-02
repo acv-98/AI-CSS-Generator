@@ -1,0 +1,4 @@
+background:url(../images/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;display:block;height:33px;width:50pxdisplay:none
+  background: #9b218e;
+  color: #fff;
+  text-shadow: none;

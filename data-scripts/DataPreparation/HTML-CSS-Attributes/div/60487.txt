@@ -1,0 +1,9 @@
+  text-align: center;
+  display: block;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #2c2c2c;
+  background: white;
+  padding: 14px 20px;
+  border-bottom: 1px solid #d5d5d5;

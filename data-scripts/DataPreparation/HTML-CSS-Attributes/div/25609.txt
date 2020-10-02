@@ -1,0 +1,17 @@
+	padding: 20px 30px;
+	background: #fff;
+	width: 270px;
+	height: 15px;
+	margin-bottom: 30px;
+	display: block;
+	color: #000000;
+	font-size: 12px;
+	font-variant: normal;
+	line-height: normal;
+	float: right;
+ 	height: 30px;
+	cursor: pointer;
+	text-align: center;
+	vertical-align: bottom;
+	white-space: pre;
+	outline: none;

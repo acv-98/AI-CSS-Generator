@@ -1,0 +1,27 @@
+			.home h2 span {
+				padding: 0 30px;
+				top: -9px;
+ padding: 35px 0 50px;  padding: 71px 0 90px; 				.home .about h3 {
+					font-size: 48px;
+					line-height: 50px;
+ margin: -20px 0 0 -20px;  margin: 20px 0 0 20px;  margin: -20px 0 0 -20px; 				.home .more .text {
+					margin: 20px 0 0 20px;
+					width: 300px;
+				.home .blog .text p {
+						margin: 20px 0 0 20px;
+						width: 220px;
+							line-height: 20px;
+							margin-bottom: 15px;
+					background-image: url("../images/icons/24/tweet.png");
+					background-position: 0 3px;
+					margin-left: 20px;
+					padding-left: 35px;
+ margin-top: 10px;  color: #999; .message h2,
+ color: #333; .post-header h2,
+#content .post-header h2 a,
+.text h2, #content .text h2 a,
+ text-align: center; #content .badge:hover,
+#content .tags-list a:hover,
+#content .text h3 a:hover,
+#content .pagination a:hover,
+#content a.back-to-top:hover,

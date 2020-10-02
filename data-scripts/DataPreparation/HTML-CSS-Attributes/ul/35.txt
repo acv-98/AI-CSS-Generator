@@ -1,0 +1,1 @@
+width:100%;overflow:hidden;padding-bottom:2pxpadding-bottom:0float:left;margin-right:20px

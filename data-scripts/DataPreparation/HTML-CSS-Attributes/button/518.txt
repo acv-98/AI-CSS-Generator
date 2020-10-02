@@ -1,0 +1,8 @@
+    font-size: 17px;
+    padding: 10px 35px;
+    color: #807D7D;
+    font-weight: 300;
+    margin-top: 0;
+    transition: all 0.3s ease;
+    background-color: rgba(47,47,47,0.5);
+        margin-top: 0;

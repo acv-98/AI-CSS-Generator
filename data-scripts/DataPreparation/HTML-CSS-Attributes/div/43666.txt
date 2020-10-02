@@ -1,0 +1,6 @@
+ display: none; 	background: url("../images/woman.png") no-repeat scroll right bottom transparent;
+	bottom: 0;
+	height: 120%;
+	position: absolute;
+	right: 0;
+	width: 100%;

@@ -1,0 +1,5 @@
+	color: #3D3E41;
+	text-transform: uppercase;
+	font-size: 1.7em;
+	font-weight: 700;
+	padding: 0em 0;

@@ -1,0 +1,8 @@
+ font-size: 14px; font-family: 'Droid Sans', sans-serif; font-style: normal; font-weight: 400;     z-index: 999; 
+    position:relative; 
+    color: #282627;
+    font-size: 14px;
+ color: inherit !important; font-size: 14px; #yit-widget-area {
+    margin: 0 auto;
+    top: -90px;
+    overflow: hidden

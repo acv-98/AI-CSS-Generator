@@ -1,0 +1,8 @@
+ color:#1963f8;
+.ramsh-menu.navbar-default .navbar-nav > li > a:hover,a.fa.fa-angle-down:hover,.navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > .active > a:hover, 
+{
+    color:#1963f8;
+ color:#5f0612; color:#06195f; color:#3e5f06; color:#47bf05; color:#f17a06; color:#f8198d;	display: inline-block;
+	margin-left: 20px;
+	content: ' | ';
+ color:#117d8b; color:#c304ec;

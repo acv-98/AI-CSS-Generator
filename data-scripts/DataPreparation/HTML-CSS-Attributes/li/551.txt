@@ -1,0 +1,2 @@
+	background: url(../img/icons/social2/ember.png) no-repeat 0 0;
+	background-color: #fb9d00;

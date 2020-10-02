@@ -1,0 +1,15 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/button-big.png', sizingMethod='images');
+	float:right;
+	display:inline;
+	margin:13px 30px 0 0;
+	width:91px;
+	height:19px;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	cursor:pointer;
+	position:relative;
+	font-family:Georgia, Serif;
+	color:#08657f;
+	padding-left:7px;

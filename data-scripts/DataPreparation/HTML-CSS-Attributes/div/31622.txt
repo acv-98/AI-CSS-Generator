@@ -1,0 +1,6 @@
+    height:10px;
+    width:0px;
+    background:#ff6863;
+    position: absolute;
+    left:0px;
+    top:0px;

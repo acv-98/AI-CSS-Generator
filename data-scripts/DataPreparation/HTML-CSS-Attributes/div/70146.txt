@@ -1,0 +1,4 @@
+  padding: 20px 10px;
+  width: 372px;
+  float: none;
+width: 670px ;padding: 10px;width: 194px;font-size:12px;padding: 10px;width: 320px;width: 300px;background: url("images/32x32.png") no-repeat scroll 252px -1px #FFFFFF;float: none;text-align: left;font-size: 16px;margin-bottom: 5px;text-align:left;font-size:13px;font-weight:bold;background: none repeat scroll 0 0 #35A1FB;color: #FFFFFF;font-weight: bold;margin-top: -10px;padding: 10px;#fbcomments, .fb-comments, .fb-comments iframe[style], .fb-comments span {

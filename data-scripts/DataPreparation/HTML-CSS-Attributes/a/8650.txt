@@ -1,0 +1,1 @@
+    color: #6f1683 !important;

@@ -1,0 +1,2 @@
+ padding:30px 0
+ padding-top:10px background-color:#333333; padding-top:101px; padding-bottom:104px; text-align:center padding-top:34pxcolor:#b6b6b6; font-size:14px; line-height:17px; display:inline-block;font-weight:300; padding-left:6px border-right:1px solid #b6b6b6; padding-right:8px text-decoration:none; color:#6bb551 padding:0; margin:0; color:#b6b6b6; font-size:13px; line-height:17px; font-weight:300; padding-top:7px; letter-spacing:1pxcolor:#b6b6b6; color: #e84545; font-size: 11px; margin: 0 2px;

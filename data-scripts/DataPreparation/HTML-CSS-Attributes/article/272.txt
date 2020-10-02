@@ -1,0 +1,4 @@
+	float:left;
+	width:346px;
+	background:#f4f4f4;
+	height:100%;

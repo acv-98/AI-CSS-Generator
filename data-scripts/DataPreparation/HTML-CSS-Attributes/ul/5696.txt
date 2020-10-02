@@ -1,0 +1,2 @@
+    font-size: 0.9375em;
+font-family:"Playfair Display SC",serif;color:#333

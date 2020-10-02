@@ -1,0 +1,2 @@
+background: url(../img/icons/social/googleplus.png) no-repeat;	background: url(../img/icons/social2/google.png) no-repeat 0 0;
+	background-color: #dd4b39;

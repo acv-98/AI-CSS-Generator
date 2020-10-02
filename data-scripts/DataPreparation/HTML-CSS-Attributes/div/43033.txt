@@ -1,0 +1,16 @@
+	position:absolute;
+	top:260px;
+	height:500px;
+	width:500px;
+	left:0;
+	right:0;
+	margin:auto;
+	z-index:22;
+	transform:rotate(45deg);
+	overflow:hidden;
+	-webkit-animation: fill2 .8s .4s both ease;
+	-moz-animation: fill2 .8s .4s both ease;
+	animation: fill2 .8s .4s both ease;
+	content: ' ';
+	bottom:0;
+	background:#CCC;

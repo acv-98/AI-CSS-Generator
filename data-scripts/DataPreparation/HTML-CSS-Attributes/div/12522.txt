@@ -1,0 +1,8 @@
+	float:none;
+	display:table;
+	margin:0 auto 0 auto;
+	width:110px;
+	text-align:center;
+	font-family: 'open_sansregular';
+	font-size:13px;
+	color:#000;

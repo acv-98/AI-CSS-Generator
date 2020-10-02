@@ -1,0 +1,1 @@
+width:208px;background:url(images/form-box-tail.gif) repeat-y left top;margin-bottom:20pxbackground:url(images/form-box-top.gif) no-repeat left topmin-height:170px;height:auto!important;height:170px;background:url(images/form-box-bot.gif) no-repeat left bottompadding:26px 20px 40px 30pxcolor:#fffmargin-bottom:10pxmargin-bottom:6pxcolor:#fbcec6

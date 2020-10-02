@@ -1,0 +1,5 @@
+width:565px;
+height:436px;
+float:left;
+display:inline;
+background:url(../images/top1.jpg) no-repeat;

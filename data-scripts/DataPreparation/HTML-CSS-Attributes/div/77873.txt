@@ -1,0 +1,5 @@
+    border: 1px dashed #333333;
+    border-radius: 50%;
+    width: 90px;
+    padding-left: 30px;
+    margin-top: 30px;

@@ -1,0 +1,8 @@
+	float: left;
+	display: block;
+	width: 100%;
+	text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+width: 50%; margin-bottom: 22px;margin-bottom: 25px;width: 100%;

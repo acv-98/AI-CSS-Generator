@@ -1,0 +1,1 @@
+width:970px; background:#1c263c; margin:0 auto;

@@ -1,0 +1,4 @@
+	color:#555;
+	font-size:12px;
+	font-weight:600;
+	vertical-align: inherit;

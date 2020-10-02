@@ -1,0 +1,16 @@
+    width: 140px;
+    font-size: .9em;
+    margin: 5px 0 20px 0;
+    padding: 0;
+   text-align: right;
+   color: #555;
+   list-style: none;
+   border-top: 1px solid #F1F1F1;
+	list-style: none;
+	border-bottom: 1px solid #F1F1F1;
+	margin: 0;
+	color: #147DB6;
+ height: 1%;  background: url(../images/tag.gif) no-repeat 2px center;  background: url(../images/user.gif) no-repeat 2px center;  background: url(../images/clock.gif) no-repeat 2px center;  background: url(../images/comment.gif) no-repeat 2px center;  background: url(../images/permalink.gif) no-repeat 2px center;  color: #147DB6;  color: #333; .post-bottom-section {
+   position: relative;
+   overflow: hidden;
+   border-bottom: 1px solid #eeeeee;

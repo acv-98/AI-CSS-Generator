@@ -1,0 +1,6 @@
+    font-size: 15px;
+    color: #061e37;
+    max-width: 370px;
+    text-shadow: none;
+    margin-right: auto;
+    margin-left: auto;

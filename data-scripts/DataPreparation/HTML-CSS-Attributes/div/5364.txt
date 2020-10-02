@@ -1,0 +1,2 @@
+ margin:0 auto; padding:0 40px; width:890px; background-color:#fff;
+ padding:32px 40px; border-bottom-left-radius:12px; border-bottom-right-radius:12px; -moz-border-radius-bottomleft:12px; -moz-border-radius-bottomright:12px; -webkit-border-bottom-left-radius:12px; -webkit-border-bottom-right-radius:12px;

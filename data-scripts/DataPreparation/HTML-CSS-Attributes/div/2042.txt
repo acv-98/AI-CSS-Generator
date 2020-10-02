@@ -1,0 +1,5 @@
+ padding: 35px 30px; 
+.cd-hero-slider h2.tm-contact-info {
+	color: black;
+	font-size: 1.4em;
+ padding: 30px 40px;  padding: 30px; 

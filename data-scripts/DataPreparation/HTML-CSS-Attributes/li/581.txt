@@ -1,0 +1,7 @@
+background: url(../img/icons/social/youtube.png) no-repeat;
+.social-bookmarks {
+	padding: 0!important;
+	margin: 0!important;
+	list-style-type: none!important;
+	background: url(../img/icons/social2/youtube.png) no-repeat 0 0;
+	background-color: #f45750;

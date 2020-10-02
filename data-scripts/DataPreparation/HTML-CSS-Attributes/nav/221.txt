@@ -1,0 +1,4 @@
+	background:transparent;
+	border:transparent;
+	padding-top:10px;
+	color:#31404a;

@@ -1,0 +1,1 @@
+float:left; width:971px; background:url(../images/middle_curve_1.gif) repeat-y 0 0;

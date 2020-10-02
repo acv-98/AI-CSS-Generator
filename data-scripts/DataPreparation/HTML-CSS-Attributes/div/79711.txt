@@ -1,0 +1,5 @@
+    padding: 73px 0 76px;
+    text-align: center;
+    color: #24124d;
+    font: 60px/60px 'Open Sans', sans-serif;
+    background: url(../images/slogan_bg.jpg) center 0 no-repeat;

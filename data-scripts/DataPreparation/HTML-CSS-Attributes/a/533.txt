@@ -1,0 +1,6 @@
+float:left;
+margin:0px 0 0 0px;
+font:11px Tahoma;
+color:#C4B6BF;
+text-decoration:none;
+display:inline;

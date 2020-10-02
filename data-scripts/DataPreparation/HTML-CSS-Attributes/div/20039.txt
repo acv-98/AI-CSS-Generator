@@ -1,0 +1,10 @@
+.main_team .team_item .team_author h4{
+    font-size:24px;
+    font-weight: 800;
+    margin-bottom: 0px;
+    color:#ddd;
+    padding: 5px;
+    transition: all 0.6s;
+    bottom:-40px;
+    width:64%;
+    background-color: #c1c1c1;

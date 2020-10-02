@@ -1,0 +1,5 @@
+    bottom: -94px;
+    padding: 0;
+    position: absolute;
+    z-index: 0;
+    right: -295px;

@@ -1,0 +1,31 @@
+	z-index: 990;
+	text-align: center;
+	position: relative;
+float:left;position:relative; .sf-menu>li {
+	display: inline-block;
+	float: none;
+	font-size: 28px;
+	line-height: 24px;
+	margin-left: 73px;
+	background: url(../images/menu_sep.png) 0 0 no-repeat;
+	width: 9px;
+	height: 9px;
+	left: -37px;
+	top: 19px;
+	content: '';
+	pointer-events: none;
+  float: none;
+  position: static;
+	padding: 10px 24px 11px;
+	color: #fff;
+	background-color: #979aa0;
+	background-position: 0 0;
+	right: -10px;
+	bottom: 5px;
+.sf-menu li ul,.sf-menu li.sfHover>ul {
+	padding-top: 12px;
+	padding-bottom: 14px;
+	font-family: 'Open Sans', sans-serif;
+.sf-menu li ul li a {
+	padding-left: 0;
+.sf-menu li.sfHover li.sfHover ul li a {

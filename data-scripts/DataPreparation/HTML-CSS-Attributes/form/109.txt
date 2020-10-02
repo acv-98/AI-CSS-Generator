@@ -1,0 +1,4 @@
+	border-radius:0;
+	background:#FFF;
+	margin-bottom:20px;
+	min-height:108px;

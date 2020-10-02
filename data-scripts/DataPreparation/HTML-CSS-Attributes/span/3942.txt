@@ -1,0 +1,6 @@
+  color: #999999;
+  text-align: left;
+  font: 0/0 a;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;

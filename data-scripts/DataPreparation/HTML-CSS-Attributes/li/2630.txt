@@ -1,0 +1,2 @@
+	color: #bfdfd5;
+	bottom: -21px;

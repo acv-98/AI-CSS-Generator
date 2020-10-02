@@ -1,0 +1,10 @@
+  padding: 13px;
+  background: #eeeeee;
+  border: 2px solid #eeeeee;
+  transition: border-color 400ms;
+  -webkit-transition: border-color 400ms;
+  margin: -15px -15px 0 -15px;
+  border-bottom: 1px solid #dbdbdb;
+  border-color: #45aed6;
+ margin-bottom:25px; text-align:center; text-align:center; display:block;	
+ margin-bottom:25px; text-align:center; text-align:center; display:block;

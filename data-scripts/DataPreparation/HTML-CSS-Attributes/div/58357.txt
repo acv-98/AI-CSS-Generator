@@ -1,0 +1,1 @@
+background:url(images/tail-right-bottom.gif) right bottom repeat-x;position:absolute;height:459px;right:0;bottom:0;width:50%

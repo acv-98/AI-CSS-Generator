@@ -1,0 +1,1 @@
+ border-color: #19344E; background-color: #102438; font-size: 8px; font-family: 'Open Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: 700;  color: #E5F99A; 

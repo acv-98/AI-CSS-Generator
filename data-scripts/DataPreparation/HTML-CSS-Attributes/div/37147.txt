@@ -1,0 +1,4 @@
+	width:22%;
+	position:relative;
+	margin-right:4%;
+	float:left;

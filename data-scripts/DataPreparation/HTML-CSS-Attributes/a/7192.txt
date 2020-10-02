@@ -1,0 +1,10 @@
+	background: url(../images/btn.jpg) 0 0 repeat-x #fe8948;
+	display: inline-block;
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	line-height:1em;
+	padding: 11px 30px 12px 30px;
+	color: #fff;
+	text-transform:uppercase;
+	margin-top: 33px;
+cursor:pointer;footer {

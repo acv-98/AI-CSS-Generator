@@ -1,0 +1,10 @@
+	text-align:left;
+	margin:0 15px 0 30px;
+	position:relative;
+	left:0;
+	top:0;
+	width:100%;
+	list-style-type:none;
+	float:left;
+	height:100%;
+	padding:10px 40px 20px 0px;

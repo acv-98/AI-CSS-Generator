@@ -1,0 +1,10 @@
+  position: relative;
+  padding-top: 50px;
+  top: 0;
+  content: "";
+  border-left-style: solid;
+  border-left-width: 1px;
+  height: 100%;
+  border-left-color: #dab074;
+  left: 50%;
+  margin-left: -2px;

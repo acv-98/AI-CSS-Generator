@@ -1,0 +1,4 @@
+    color: #fff;
+    padding: 4px 0;
+    margin-top: -14px;
+    overflow:hidden;

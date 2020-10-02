@@ -1,0 +1,1 @@
+ background-color: #282f35; padding: 70px 0; text-align: center; 

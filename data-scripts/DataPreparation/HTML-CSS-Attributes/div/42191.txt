@@ -1,0 +1,17 @@
+	margin-top: 10px;
+	
+	color: #FFF;
+	display: inline-block;
+	zoom: 1;
+	padding: 3px 10px;
+	font-size: 12px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	background: #869791;
+	opacity: 0.5;
+	text-decoration: none;
+	width: 12px;
+	height: 12px;
+	filter: Alpha(Opacity=1);
+	transition: all 0.5s;

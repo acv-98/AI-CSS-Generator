@@ -1,0 +1,7 @@
+    margin-top:30px;
+    overflow: hidden;
+    display: block;
+    color:#fefefe;
+    font-size:3.125rem;
+    margin-bottom:40px;
+    line-height: 4rem;

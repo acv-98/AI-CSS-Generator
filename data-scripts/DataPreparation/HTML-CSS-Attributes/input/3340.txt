@@ -1,0 +1,5 @@
+	background-color: rgba(0, 0, 0, 0.4);
+	color: white;
+	border-radius: 0;
+	font-size: 1.15rem;
+	padding: .9rem 1.25rem;

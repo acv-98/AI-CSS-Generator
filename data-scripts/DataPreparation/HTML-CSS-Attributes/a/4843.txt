@@ -1,0 +1,17 @@
+    width: 83px;
+    height: 83px;
+    border-radius: 500px;
+    background-color: #2a394e;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    display: block;
+    color: #fff;
+    margin: 1px auto 0;
+    position: relative;
+    z-index: 30;
+    padding-top: 22px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;

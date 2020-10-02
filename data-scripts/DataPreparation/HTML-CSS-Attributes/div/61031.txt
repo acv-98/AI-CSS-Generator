@@ -1,0 +1,4 @@
+	margin-bottom: 60px;
+	border-bottom: 1px solid #eeeeee;
+	padding-bottom: 10px;
+	display: inline-block;

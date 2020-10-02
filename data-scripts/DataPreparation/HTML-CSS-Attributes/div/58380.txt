@@ -1,0 +1,7 @@
+	position:absolute;
+	left:15px;
+	top:15px;
+	background-image:url("../images/crayon.png");
+	background-repeat:no-repeat;
+	width:23px;
+	height:23px;

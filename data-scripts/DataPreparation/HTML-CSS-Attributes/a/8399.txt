@@ -1,0 +1,12 @@
+-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box
+.lt-ie9 .small-block-grid-2 {
+    list-style: none
+    background: #bec676;
+    text-shadow: none;
+    text-transform: uppercase;
+    color: #000;
+    padding:18px 60px;
+    border-radius: 5px;
+    box-shadow: 0 5px -5px #8a9051;
+    float: right;
+    margin-top:10px;

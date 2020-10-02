@@ -1,0 +1,6 @@
+	margin:0px;
+	padding:0px;
+	width:300px;
+	border-bottom:1px solid #E5E5E5;
+	list-style:none;
+	float:left;

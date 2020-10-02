@@ -1,0 +1,13 @@
+	width:977px;
+	height:321px;
+	overflow:hidden;
+	position:relative;
+	z-index:11;
+	list-style:none;
+	float:left;
+	padding-left:17px;
+	text-align:right;
+	background:#fff;
+	border:1px solid #aea7a7;
+	bottom:0;
+	right:0;

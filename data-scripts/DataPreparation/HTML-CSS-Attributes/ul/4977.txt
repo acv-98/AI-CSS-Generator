@@ -1,0 +1,10 @@
+	list-style:none;
+	margin:0;
+	overflow:hidden;
+	width:100% !important;
+	height:366px;
+	position:relative
+	float:left;
+	padding:0;
+	cursor:pointer;
+	background:url(../images/bg_content_right.jpg) top right no-repeat;

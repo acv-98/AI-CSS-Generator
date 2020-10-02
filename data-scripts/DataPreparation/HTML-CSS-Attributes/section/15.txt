@@ -1,0 +1,11 @@
+	background-image: url(../img/heading-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	text-align: center;
+	position: relative;
+	padding: 60px 0px;
+	margin-top: 110px;
+		padding: 60px 0px;
+		text-align: center;
+		margin-top: 0px;

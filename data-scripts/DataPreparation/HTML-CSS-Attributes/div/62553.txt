@@ -1,0 +1,9 @@
+  margin: -15px -15px 15px;
+  position: relative;
+ max-width:100%;#blog .blog-post.blog-large .post-format {
+  width: 66px;
+  height: 66px;
+  line-height: 60px;
+  right: 20px;
+  bottom: -33px;
+ width:100%; padding-top:0px;

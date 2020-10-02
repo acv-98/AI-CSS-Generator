@@ -1,0 +1,9 @@
+  width: 100%;
+  float: left;
+  margin-left: 3%;
+  padding: 1.65em;
+    width: 100%;
+    float: none;
+    margin-left: 0;
+    margin-bottom: 1.65em;
+-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box

@@ -1,0 +1,4 @@
+    min-height: 800px;
+    
+    background-image: url('../max-image/bussines-2.jpg');
+    background-size: cover;

@@ -1,0 +1,4 @@
+      margin-bottom: 20px;
+        font-family: "Geometria-Medium";
+        font-size: 16px;
+        color: #254B74;

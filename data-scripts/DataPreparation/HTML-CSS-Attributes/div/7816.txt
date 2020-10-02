@@ -1,0 +1,7 @@
+  float: left;
+  background: #03C4EB;
+  padding: 16px;
+  border-radius: 50%;
+  transition: 0.5s;
+  color: #fff;
+  font-size: 24px;

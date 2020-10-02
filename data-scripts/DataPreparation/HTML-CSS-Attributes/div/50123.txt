@@ -1,0 +1,1 @@
+width:609px; background:#fff; border:solid 1px #dcdcdc; padding-top:12px; padding-left:12px; padding-bottom:10px; margin-bottom:6pxwidth:143px; float: left; display: inline; margin-right:9px color:#0f89df; text-decoration: none; color:#ff00d2; float: left; display: inline;display: block; padding:4px; border:solid 1px #dedede;

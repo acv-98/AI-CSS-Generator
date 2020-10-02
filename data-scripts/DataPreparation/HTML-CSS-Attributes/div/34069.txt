@@ -1,0 +1,11 @@
+	float:left;
+	margin:0 0 35px 27px;
+	width:282px;
+	height:192px;
+	margin-right:-3px;
+	font-size:14px;
+	-webkit-box-shadow:0 0 10px #aaa;
+	-moz-box-shadow:0 0 10px #aaa;
+	box-shadow:0 0 10px #aaa;
+	color:#555;
+	padding:0;

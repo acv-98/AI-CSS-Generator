@@ -1,0 +1,15 @@
+  color: #D2691E;
+  border-color: #D2691E; 
+	text-align: right;	
+	display: inline-block;
+  display: inline-block;
+  font-size: 18px;
+  height: 30px;
+  margin-left: 5px;
+  text-align: center;
+  width: 35px;
+  line-height: 28px;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+margin-top: 20px;text-align: center; text-align: center;

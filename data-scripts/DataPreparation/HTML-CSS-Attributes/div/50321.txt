@@ -1,0 +1,8 @@
+  width: 90px;
+  height: 90px;
+  float: left;
+  position: relative;
+  left: 13px;
+  top: 13px;
+  padding: 4px;
+  background: #fff;

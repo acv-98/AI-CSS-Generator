@@ -1,0 +1,6 @@
+	width:460px;
+	padding:12px 0 0 40px;
+	color:#333333;
+	margin:8px 0;
+	font:bold 14px/1.4em Arial, Helvetica, sans-serif;
+	font-weight:bold;

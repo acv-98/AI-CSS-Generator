@@ -1,0 +1,9 @@
+	overflow:hidden;
+	font-size:0;
+	line-height:0;
+	width:918px;
+	height:8px;
+	margin-left:11px;
+	background:url(../images/line-hor.gif) repeat-x left top;
+	z-index:1;
+	position:relative;

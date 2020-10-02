@@ -1,0 +1,11 @@
+		font-size: 18px;
+	padding: 0px 15px 40px 15px;
+	background: #ffffff;
+	text-align: left;
+	margin-top: 40px;
+	padding-bottom: 20px;
+	font-weight: 600;
+	display: block;
+	margin-bottom: 15px;
+	color: #ffffff;
+	box-shadow: 0 7px 10px #e6e6e6;

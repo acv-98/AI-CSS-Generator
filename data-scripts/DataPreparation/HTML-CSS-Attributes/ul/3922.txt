@@ -1,0 +1,4 @@
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'open_sanssemibold';
+    background-color:transparent;

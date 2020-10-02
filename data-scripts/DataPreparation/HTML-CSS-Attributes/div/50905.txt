@@ -1,0 +1,4 @@
+	width:968px;
+	margin:0 auto;
+	position:relative;
+	padding:54px 0 0;

@@ -1,0 +1,8 @@
+	width: 100%;
+	border: none;
+	height: 40px;
+	text-transform: uppercase;
+	font-style: italic;
+	font-size: 12px;
+	font-weight: 600;
+ background: #f5d11d; 

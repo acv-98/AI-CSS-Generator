@@ -1,0 +1,1 @@
+position:absolute;right:25px;bottom:-10px;font-size:0.4em;font-variant: small-caps;background:#000;color:#F1FBFF;

@@ -1,0 +1,7 @@
+	background-color:#f8f8f8;
+	border:1px solid #ebebeb !important;
+	padding:4px;
+	-moz-box-shadow:0 0px 3px #e7e7e7;
+	box-shadow: 0 0px 3px #e7e7e7;
+	-webkit-box-shadow: 0 0px 3px #e7e7e7;
+	-o-box-shadow: 0 1px 3px #e7e7e7;

@@ -1,0 +1,7 @@
+	width:400px;
+	font-family:Arial;
+	font-size:11px;
+	color:#F4E9D3;
+	padding:30px 0px 0px 0px;
+	margin:0px;
+	font-weight:bold;

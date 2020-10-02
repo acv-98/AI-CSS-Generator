@@ -1,0 +1,3 @@
+	background-image:url(../images/bg_title2.gif)
+	color:#9ecf39
+	background-position:0 -23px

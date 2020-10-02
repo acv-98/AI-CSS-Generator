@@ -1,0 +1,6 @@
+        top: 60px;
+        left: 80px;
+        -webkit-transform: rotate(351deg) scale(.7);
+        -moz-transform: rotate(351deg) scale(.7);
+        -o-transform: rotate(351deg) scale(.7);
+        -ms-transform: rotate(351deg) scale(.7);

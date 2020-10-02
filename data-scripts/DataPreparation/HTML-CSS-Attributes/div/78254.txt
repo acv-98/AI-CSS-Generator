@@ -1,0 +1,5 @@
+ height: 72px;  
+ padding-left: 20px; padding-right: 20px;  	.slider, #carousel, #carousel > div {
+		width: 708px;
+		height: 436px;
+ padding: 12px 0 0px 0; 

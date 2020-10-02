@@ -1,0 +1,13 @@
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  margin: 0;
+  content: " ";
+  display: table;
+  clear: both;
+  border-radius: 50%;
+  width: 40px;
+  float: left;
+  margin-left: 45px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 12px;

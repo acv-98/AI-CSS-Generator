@@ -1,0 +1,4 @@
+	-webkit-animation-name:fadeInLeftBig;
+	-moz-animation-name:fadeInLeftBig;
+	-o-animation-name:fadeInLeftBig;
+	animation-name:fadeInLeftBig;

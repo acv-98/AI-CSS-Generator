@@ -1,0 +1,10 @@
+	padding: 0 15px 20px 15px;
+    margin-top: 20px;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 14px;
+    color: #5d5d5d;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 rgba(255,255,255,.7);
+    line-height: 24px;
+    font-style: italic;

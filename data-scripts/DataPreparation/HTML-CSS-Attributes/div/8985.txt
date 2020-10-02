@@ -1,0 +1,17 @@
+  transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  display: none;
+  cursor: pointer;
+  font-size: 20px;
+  position: absolute;
+  right: 22px;
+  top: 0;
+  width: 30px;
+  -webkit-transition: all 300ms ease-in;
+  -moz-transition: all 300ms ease-in;
+  transition: all 300ms ease-in;
+  height: 4px;
+  margin-bottom: 6px;
+  border-radius: 1000px;
+  background: #C9C9DA;
+    display: block;

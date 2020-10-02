@@ -1,0 +1,9 @@
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  padding:14px 40px;
+  border: 1px solid #6e6d6c;
+  border-radius: 4px;
+  margin-top: 40px;
+		font-size: 12px;
+		padding: 10px 30px;

@@ -1,0 +1,25 @@
+    overflow: hidden;
+    position: relative;
+    height: 208px;
+    width: 1000px !important;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    left: 0;
+    display: block;
+    clear: none !important;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    transition: opacity .5s ease-in-out;
+    -moz-transition: opacity .5s ease-in-out;
+    -webkit-transition: opacity .5s ease-in-out;
+    margin-left: -3px;
+    margin-top: -3px;
+    border: 1px solid #dcdedf;
+    background-color: #ffffff;
+    text-align: right;
+    z-index: 9998 !important;
+ height: 181px !important; margin: 15px 20px 0px 0px;     .sidebar-left .section-portfolio-slider div.section-portfolio-carousel ul.section-portfolio-slides li,
+ margin: 15px 20px 0px 20px;  margin: 15px 20px 0px 0px !important;  padding: 0px;  padding: 3px;  height: 127px !important; margin: 10px 20px 0px 0px;  margin: 10px 20px 0px 15px;  margin: 10px 20px 0px 0px !important;  margin-top:5px;  padding: 0px;  padding: 3px;  position: absolute; left:0px; right:0px; padding: 0px 52px;     .section-portfolio-slider,
+ height: 127px !important; width: 100%;  width: 104px; right:0px; margin: 10px 10px 0px 0px; float:left;  margin: 10px 10px 0px 0px;  margin: 10px 10px 0px 0px !important;  margin-top:5px; 

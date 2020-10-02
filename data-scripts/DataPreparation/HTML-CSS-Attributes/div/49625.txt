@@ -1,0 +1,3 @@
+  display: inline-block;
+ color: #78909C;
+    float: left;

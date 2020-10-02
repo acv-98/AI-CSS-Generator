@@ -1,0 +1,14 @@
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  right: 0;
+  padding: 30px;
+  z-index: 9;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 10px;
+  text-decoration: none;
+  padding-left: 8em;
+  line-height: 28px;

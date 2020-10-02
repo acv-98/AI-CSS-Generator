@@ -1,0 +1,6 @@
+	float: left; 
+	display: inline; 
+	color: #8f8f8f; 
+	background: url(images/icon-sitemap.gif) no-repeat 0 center; 
+	padding-left: 14px; 
+	line-height: 25px;

@@ -1,0 +1,7 @@
+	font-family: "montserrat-bold", sans-serif;
+	font-size: 1.8rem;
+	font-style: normal;
+	color: #151515;
+	line-height: 3rem;
+	display: block;
+	margin: 0 5px;

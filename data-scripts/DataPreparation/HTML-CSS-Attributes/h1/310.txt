@@ -1,0 +1,2 @@
+  margin: 0 0 5px;
+margin-bottom: 0;    .featured-blocks .media .media-body .btn{color: #fff; padding: 9px 10px; border-radius: 5px; background: #c85b5f; text-transform: uppercase; border:none; text-shadow: none; font-family: 'source_sans_problack';

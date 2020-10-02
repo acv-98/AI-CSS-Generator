@@ -1,0 +1,2 @@
+	background:url(../images/nav-left.gif) no-repeat 0 0;
+	color:#d60c0c;

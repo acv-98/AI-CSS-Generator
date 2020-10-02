@@ -1,0 +1,9 @@
+	margin-top: 60px;
+	font-family: 'Roboto', 'sans-serif';
+	font-size:30px;
+	font-weight:700;
+	text-transform:uppercase;
+	color:#fff;
+	letter-spacing: 0.5px;
+	cursor:pointer;
+	text-decoration:none;

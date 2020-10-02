@@ -1,0 +1,18 @@
+		width:33%;
+		margin: 0;
+		padding: 0;
+	display:inline-block;
+	float: left;
+	position: relative;
+	background: url('../img/logo.png') no-repeat;
+	height: 42px;
+		zoom:1;
+ *display: inline;
+	_height: 19px;
+ width: 16.0%;
+ text-align: center;
+ margin: 0 auto;
+ clear: both;
+ float: none;
+ background: url(../img/logo.png) no-repeat;
+ background-size: cover;

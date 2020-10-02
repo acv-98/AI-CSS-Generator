@@ -1,0 +1,6 @@
+	margin-top: 50px;
+        margin: 20px 0 30px;
+		left: 41.8%;
+        left: 39%;
+        bottom: 0;
+        position: inherit;

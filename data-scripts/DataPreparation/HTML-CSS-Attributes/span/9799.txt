@@ -1,0 +1,3 @@
+	background-color:#4c5264;
+	border-radius: 0px;
+	height: 3px;

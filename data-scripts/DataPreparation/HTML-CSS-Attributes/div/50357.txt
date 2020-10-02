@@ -1,0 +1,15 @@
+	padding:20px 0 21px 6px;
+	width:259px;
+	float:left;
+	display:inline;
+	margin-right:25px;
+	background:#fef8f8;
+	border:1px solid #dbdfe3;
+	font-size:15px;
+	padding-bottom:2px;
+	font-style:italic;
+	height:91px;
+	position:relative;
+	margin-left:-5px;
+	color:#000;
+	text-decoration:underline;

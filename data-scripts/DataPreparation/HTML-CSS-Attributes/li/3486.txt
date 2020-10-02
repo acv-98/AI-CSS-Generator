@@ -1,0 +1,3 @@
+	background-position: 0 0;
+	border-color: #a92c11;
+	color: #c53d1d;

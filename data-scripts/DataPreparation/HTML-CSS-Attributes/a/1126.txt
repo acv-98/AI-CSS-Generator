@@ -1,0 +1,14 @@
+	color: #fff;
+	display: block;
+	font-weight: 300;
+	font-size: 15px;	
+	margin-bottom: 0;
+	position: absolute;
+	left: 20px;
+	bottom: 15px;
+	color: #66FFFF; 	color: #fff; .home {
+	background-color: rgba(16, 165, 205, 0.8);
+	background-image: url(../images/menu-bg-home.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	font-size: 3em;	

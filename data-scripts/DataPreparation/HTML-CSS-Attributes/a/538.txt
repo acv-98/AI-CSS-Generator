@@ -1,0 +1,13 @@
+	display:inline-block;
+	background:url(../images/bg_button1.gif) top repeat-x #b3b3b3;
+	font-size:11px;
+	color:#000;
+	text-decoration:none;
+	text-transform:uppercase;
+	line-height:34px;
+	padding:0 20px;
+	behavior:url("../js/PIE.htc");
+	position:relative;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;

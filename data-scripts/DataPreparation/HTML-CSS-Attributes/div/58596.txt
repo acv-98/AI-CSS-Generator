@@ -1,0 +1,7 @@
+	color:#6DAAFF;
+	font-size:1.5em;
+	font-weight:700;
+	padding-bottom:0.5em;
+	vertical-align:top;
+	width:90%;
+	line-height:1.7em;

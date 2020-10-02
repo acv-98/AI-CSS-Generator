@@ -1,0 +1,3 @@
+    font-family: "futura_ltbold",sans-serif;
+    margin: 10px 0 45px;
+    text-transform: uppercase;

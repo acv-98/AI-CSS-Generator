@@ -1,0 +1,12 @@
+	background: url(../images/code-back.gif) repeat-y left top;
+	border: none;
+	color: #fff;
+	display: block;
+	background-position:left top;
+	height:24px;
+	width: 24px;
+	text-indent:-9999em;
+	overflow:hidden;
+	position:absolute;
+	left:444px;
+	top:12px;

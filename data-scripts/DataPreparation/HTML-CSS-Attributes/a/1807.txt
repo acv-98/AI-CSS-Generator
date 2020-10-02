@@ -1,0 +1,2 @@
+    padding-left: 24px;
+    background: url(../images/comment_icon.png) 0 center no-repeat;

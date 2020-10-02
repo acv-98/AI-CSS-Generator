@@ -1,0 +1,5 @@
+	border-bottom:  1px solid #d7dee0;
+	color: #6f7678;
+	font-size: .875em;
+	padding: 15px 0px;
+	position: relative;

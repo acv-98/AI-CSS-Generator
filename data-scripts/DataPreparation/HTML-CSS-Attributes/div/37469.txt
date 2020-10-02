@@ -1,0 +1,21 @@
+  margin: 0 0 60px;
+  background: #fff;
+  padding: 0;
+  position: relative;
+  zoom: 1;
+  background-color: #371604;
+  overflow: hidden;
+  width: 100%;
+  min-width: 648px;
+  min-height: 270px;
+  display: block;
+  -webkit-backface-visibility: hidden;
+    background: #fff;
+    color: #93ca3a;
+    border: 2px solid transparent;
+ font-size: 30px;  font-size: 24px;  font-size: 26px;  font-size: 18px;     .templatemo-slider-btn { 
+        margin-top: 10px; 
+        width: 180px;
+        height: 40px;
+        padding-top: 8px;
+ font-size: 20px;  font-size: 14px;     .templatemo-slider-btn {

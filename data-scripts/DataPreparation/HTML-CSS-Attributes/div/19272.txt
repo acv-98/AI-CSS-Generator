@@ -1,0 +1,8 @@
+  text-align: left;
+  white-space: nowrap;
+  text-transform: lowercase;
+  color: #777777;
+  font: 0/0 a;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;

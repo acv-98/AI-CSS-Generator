@@ -1,0 +1,3 @@
+	float:left;
+		float: none;
+		text-align: center;

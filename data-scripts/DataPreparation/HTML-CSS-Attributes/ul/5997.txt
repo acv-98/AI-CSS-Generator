@@ -1,0 +1,11 @@
+	position:absolute;
+	top:0;
+	right:20px;
+	margin:0;
+	font-size:120%;
+	display:block;
+	float:left;
+	padding:55px 10px 10px 10px;
+	text-decoration:none;
+	background:url("../design/transparent.png");
+	color:#FFF;

@@ -1,0 +1,1 @@
+margin:0 0 5px 0; padding:0; overflow:hidden; width:95%; clear:both;padding:10px;font-size:14px; line-height:1.5em;margin-bottom:1.5em;

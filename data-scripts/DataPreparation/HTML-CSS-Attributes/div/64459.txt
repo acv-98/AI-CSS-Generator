@@ -1,0 +1,5 @@
+	display:inline-block;
+	width:900px;
+	height:100%;
+	margin:0 0 0 7px;
+	background:url(../images/c_page_repeat.png) repeat-y;

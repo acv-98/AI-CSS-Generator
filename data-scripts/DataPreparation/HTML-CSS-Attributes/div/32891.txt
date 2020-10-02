@@ -1,0 +1,11 @@
+	float: none;
+	margin: 0 auto;
+	width: 154px;
+	max-width: none;
+	display: block;
+	height: 32px;
+	overflow: hidden;
+	padding: 0;
+	background: url(../images/icons.png) no-repeat;
+	text-indent: -99999px;
+	background-position: 0 0;

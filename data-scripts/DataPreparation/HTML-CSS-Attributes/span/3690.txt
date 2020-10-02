@@ -1,0 +1,12 @@
+    font-size: 13px;
+    display: inline-block;
+    float: left;
+    padding: .8em 0;
+    opacity: .7;
+        font-size: 14px;
+        position: absolute;
+        width: 100%;
+        left: 122%;
+        top: -10px;
+        right: 122%;
+        text-align: right;

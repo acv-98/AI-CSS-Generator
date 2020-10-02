@@ -1,0 +1,16 @@
+content: url(../img/plus-sign.png) !important; content: url(../img/minus-sign.png) !important;      height: 0;
+    overflow: hidden;
+  position: relative;
+  -webkit-transition: height 0.35s ease;
+     -moz-transition: height 0.35s ease;
+       -o-transition: height 0.35s ease;
+          transition: height 0.35s ease;
+        
+        margin-right: 15px;
+        color:#000;
+        display:inline-block;
+        content: url(../img/minus-sign.png);
+           
+          content: url(../img/plus-sign.png);
+background: #f7f7f7;border-radius: 0;.featured-accordion .collapse.in {
+border-top: 0;

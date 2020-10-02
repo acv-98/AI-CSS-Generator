@@ -1,0 +1,17 @@
+	background-color: white;
+	width: 255px;
+	height: 380px;
+	padding: 30px;
+	text-align: center;
+	display: block;
+	margin: 0 auto 30px;
+	border-radius: 50%;
+	transition: all 0.3s ease;
+	font-size: 17px;
+	font-style: italic;
+	text-transform: uppercase;
+	margin-bottom: 15px;
+		width: 215px;
+		padding: 24px 15px;
+		margin: 0 auto 30px;
+		max-width: 300px;

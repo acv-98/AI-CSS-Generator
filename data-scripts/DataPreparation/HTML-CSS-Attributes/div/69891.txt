@@ -1,0 +1,5 @@
+	margin:0 auto;
+	width:890px;
+	padding:48px 40px 24px;
+	background:url(images/fbg_rbg.jpg) no-repeat center top;
+	color:#fff;

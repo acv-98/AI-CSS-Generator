@@ -1,0 +1,5 @@
+padding:0;margin:0;	ul.slidecontrols {
+		z-index:10000;
+		position:relative;
+		top:4px;
+background-color:#cecece;margin-right: 5px

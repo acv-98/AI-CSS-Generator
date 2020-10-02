@@ -1,0 +1,5 @@
+	background-image: url(../images/3.jpg);
+	color: #fff;
+	font-style: italic;
+	font-size: 32px;
+	margin-bottom: 40px;

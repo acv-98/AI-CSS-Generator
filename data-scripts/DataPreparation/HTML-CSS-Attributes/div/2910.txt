@@ -1,0 +1,1 @@
+	background: url(images/header_bg_03.jpg) no-repeat;

@@ -1,0 +1,11 @@
+	position:absolute;
+	bottom:-49px;
+	right:-120px;
+	z-index:111;
+	display:inline-block;
+	font-size:12px;
+	line-height:15px;
+	color:#fff;
+	text-decoration:underline;
+	background:url(../images/portfolio-next.gif) right 4px no-repeat;
+	padding-right:15px;

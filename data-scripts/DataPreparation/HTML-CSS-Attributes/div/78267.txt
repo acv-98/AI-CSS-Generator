@@ -1,0 +1,2 @@
+ float: left;  list-style: none; list-style-position: outside; line-height: 11px;   float: left; border-right: 1px solid #181818;  padding: 0 8px; text-shadow: rgba(0,0,0,0.7) 0px 1px 1px;  padding-left: 0;  color: #717171;  color: #fff; 
+ float: none; display: block; padding-bottom: 12px;  padding-bottom: 12px;  padding: 0 3px; border-right: 0; font-size: 11px; line-height: 11px; 

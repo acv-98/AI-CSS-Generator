@@ -1,0 +1,5 @@
+	margin:0 -22px;
+	padding:14px 22px;
+	text-align:left;
+	border-top:1px solid #dfdede;
+	background:url(images/spec_bg.gif) repeat-x center top;

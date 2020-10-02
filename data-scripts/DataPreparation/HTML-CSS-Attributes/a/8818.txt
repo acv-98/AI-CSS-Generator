@@ -1,0 +1,3 @@
+	font-size: 11px;
+	background: url('../img/redBulletPoint.png') center right no-repeat;
+	padding-right: 15px;

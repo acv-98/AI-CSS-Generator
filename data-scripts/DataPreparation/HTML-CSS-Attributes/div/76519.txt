@@ -1,0 +1,7 @@
+background:none
+color:#fffe90color:#fffe90.bottomMenu a
+{
+	color:#FFFFFF;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;

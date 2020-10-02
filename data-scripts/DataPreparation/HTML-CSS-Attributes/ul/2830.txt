@@ -1,0 +1,6 @@
+	display: inline-block;
+	margin-bottom: 0;
+	text-align: left;
+	width: 100%;
+	margin-right: 80px;
+	  padding-left: 30px;

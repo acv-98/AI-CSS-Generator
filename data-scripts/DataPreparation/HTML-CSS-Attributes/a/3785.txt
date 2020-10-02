@@ -1,0 +1,6 @@
+    padding: .5rem 2.4rem;
+    font-size: 1.2rem;
+    border-radius: 0;
+ border-color: transparent; .btn-primary:hover {
+    background-color: #0e7fb9;
+    border-color: transparent;

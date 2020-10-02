@@ -1,0 +1,16 @@
+	width: 36px;
+	height: 36px;
+	display: block;
+	position: absolute;
+	right: 0;
+	top: 0;
+	padding: 0;
+	margin: 0;
+	line-height: 36px;
+	text-align: center;
+	cursor: pointer;
+    opacity: 0;
+	color: transparent;
+	border: none;
+	outline: none;
+	z-index: -1;

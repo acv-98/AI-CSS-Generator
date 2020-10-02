@@ -1,0 +1,7 @@
+	clear: both;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #999;
+	font-size: 12px;
+	font-weight: bold;
+	color: #e04034;

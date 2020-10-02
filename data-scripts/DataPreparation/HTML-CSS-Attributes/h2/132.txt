@@ -1,0 +1,4 @@
+	font-size:70px;
+	color:#fff;
+	font-weight:700;
+		font-size:35px;

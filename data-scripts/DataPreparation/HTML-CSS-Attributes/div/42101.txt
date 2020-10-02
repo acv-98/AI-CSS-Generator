@@ -1,0 +1,6 @@
+  background-color: rgba(250, 250, 250, 0.03);
+  padding: 30px 80px 30px 30px;
+  margin-right: -50px;
+    background-color: rgba(250, 250, 250, 0.03);
+    padding: 20px;
+    margin-right: 0px;

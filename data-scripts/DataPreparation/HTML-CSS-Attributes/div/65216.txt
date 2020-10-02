@@ -1,0 +1,8 @@
+	font-size:0.75em;
+	width:1000px;
+	margin:0 auto;
+	min-height:747px;
+	height:auto!important;
+	background:url(../images/header-bg.jpg) no-repeat left top;
+	position:relative;
+	margin-bottom:-24px;

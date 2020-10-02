@@ -1,0 +1,12 @@
+	border-right: none;
+	border-bottom: 1px solid #eeeeee;
+	padding-top: 22px;
+	padding-left: 11px;
+	padding-right: 11px;
+	padding-bottom: 10px;
+	background: #fff;
+	font-size: 15px;
+	font-weight: 700;
+	margin-bottom: 0px;
+	color: #626262;
+	line-height: 24px;

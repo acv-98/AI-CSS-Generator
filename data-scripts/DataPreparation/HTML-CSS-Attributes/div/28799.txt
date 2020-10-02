@@ -1,0 +1,13 @@
+		padding:10px 0px 12px 0px;
+		text-align:center;
+		margin:0px;
+		display:inline;
+		background: url(../images/topgreymenuborder.png) no-repeat;
+		background-position:left;
+background:none	
+	.mainmenu li a {
+		color:#DDDDDD;
+		text-decoration:none;
+color:#fff;	#greenHeader
+	{width:946px;
+	margin-top:20px;

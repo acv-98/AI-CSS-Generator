@@ -1,0 +1,1 @@
+width:505pxwidth:195pxwidth:195pxmax-height:92px; width:80pxwidth:310pxmin-height:146px; width:110pxheight:350px; overflow:visibledisplay:block; position:relative; width:100%; margin:0; padding:0;margin:0; padding:0;max-width:100%;width:670pxwidth:250px

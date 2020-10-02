@@ -1,0 +1,5 @@
+	position:relative;
+	margin-top:60px;
+	margin-bottom:15px;
+	letter-spacing:2px;
+	margin-right:8px;

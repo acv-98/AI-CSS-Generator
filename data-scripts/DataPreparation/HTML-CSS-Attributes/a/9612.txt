@@ -1,0 +1,8 @@
+  position: absolute;
+  color: #00c3ff;
+  top: 59%;
+  font-size: 24px
+  right:0;
+    top: inherit;
+    bottom: -40px;
+    right: 46%;

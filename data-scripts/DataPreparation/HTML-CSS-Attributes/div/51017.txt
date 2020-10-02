@@ -1,0 +1,11 @@
+        left: 21%;
+    position: absolute; 
+    width:55px;
+    height: 55px;
+    line-height: 55px;
+    display: inline-block;
+    border-radius: 50%;
+    top: 10%;
+    right: 6%;
+    background-color: #ffffff;
+    z-index: 4;

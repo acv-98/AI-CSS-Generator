@@ -1,0 +1,2 @@
+width:280px; float:left; border:#24314c solid 1px; padding:30px 30px 30px 30px; background:#202b43; margin-bottom:30px; overflow:auto; border-bottom:#25314c solid 1px; padding-bottom:20px;padding-left:0px; list-style: url(../images/arrow-small.jpg) inside; border-bottom:#25314c solid 1px;line-height:35px;text-decoration:none; font-family: 'Open Sans', sans-serif; font-size:13px; color:#54657b;color:#9cff00;
+background:#9cff00; padding:30px 30px 30px 30px;

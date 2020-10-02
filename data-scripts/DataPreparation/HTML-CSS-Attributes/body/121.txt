@@ -1,0 +1,5 @@
+ background-color: #ffffff;  left: 0; padding-left: 4%;  right: 0; padding-right: 4%;  padding: 0;     margin-left:-20px;
+    margin-right:-20px;
+    	margin-right: 0;
+    	margin-left: 0;
+ max-width:90%;  margin-left:-20px !important; margin-right:-20px !important;  max-width:95%; @media (min-width: 768px) and (max-width: 979px)  { 

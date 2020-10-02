@@ -1,0 +1,1 @@
+background-color: #efefef;border: 1px solid #efefef;color: #939393;padding: 10px;text-align: center;

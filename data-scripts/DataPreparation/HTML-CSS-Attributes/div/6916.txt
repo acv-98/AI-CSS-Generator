@@ -1,0 +1,4 @@
+	float:left;
+	width:250px;
+	height:2px;
+	background:url(../images/h-dots.png) repeat-x;

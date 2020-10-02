@@ -1,0 +1,7 @@
+	float: right;
+	position: absolute;
+	bottom: 25px;
+	right: 0;
+	margin-left: 1px;
+	background: none;
+	padding: 0;

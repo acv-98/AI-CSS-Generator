@@ -1,0 +1,8 @@
+width:400px;max-width:500px;height:auto;position:absolute;bottom:0;float:left;left:0;padding-right:0;float:right;right:0;padding-left:0; margin: 0 0 0 0px; 
+.ei-slider{
+	position: relative;
+	width: 100%;
+	max-width: 1920px;
+	height: 400px;
+	margin: 0 auto;
+	background: #fdfdfd url('../images/bg/elastic-slider-bg.png') repeat-x top left;

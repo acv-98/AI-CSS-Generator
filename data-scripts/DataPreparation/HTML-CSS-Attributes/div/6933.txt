@@ -1,0 +1,5 @@
+	float:left;
+	width:230px;
+	background:url(../images/v-dots-footer.png) repeat-y;
+	padding-left:30px;
+	padding-bottom:30px;

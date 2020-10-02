@@ -1,0 +1,3 @@
+    padding: 10px 0 10px 37px;
+    color: #777;
+    font-size: 14px;

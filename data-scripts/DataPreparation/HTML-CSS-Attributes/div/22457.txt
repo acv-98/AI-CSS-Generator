@@ -1,0 +1,7 @@
+	width: 190px;
+	margin-right: 35px;
+		width: 130px;
+		margin-right: 15px;
+	    width: 50px;
+	    margin-right: 15px;
+		display: none;

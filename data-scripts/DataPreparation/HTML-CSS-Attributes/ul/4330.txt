@@ -1,0 +1,7 @@
+  border-top: 1px solid #d5d5d5;
+  border-bottom: 1px solid #d5d5d5;
+  display: inline-block;
+  padding: 12px 0;
+  margin-right: 50px;
+  font-family: "Roboto Slab", serif;
+    margin-bottom: 10px;

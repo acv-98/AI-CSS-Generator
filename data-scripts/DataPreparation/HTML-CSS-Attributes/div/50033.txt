@@ -1,0 +1,2 @@
+    padding: 0px 0px 80px;
+    text-align:center;

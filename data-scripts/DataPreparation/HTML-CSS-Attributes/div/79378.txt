@@ -1,0 +1,7 @@
+    font: bold 22px/30px 'Marvel', sans-serif;
+    color: #5f604b;
+    border-bottom: 1px solid #b7b7b6;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin-bottom: 8px;

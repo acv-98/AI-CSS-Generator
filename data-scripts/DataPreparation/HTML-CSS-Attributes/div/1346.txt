@@ -1,0 +1,10 @@
+	width: 376px;
+	height: 230px;
+	float: left;
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-right: 80px;
+	color: #28292d;
+	font-size: 14px;
+	margin-bottom: 7px;
+	font-weight: normal;

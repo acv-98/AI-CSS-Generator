@@ -1,0 +1,9 @@
+	padding-top: 65px;
+	text-transform: lowercase;
+	color:#CCCCCC;
+	font-size: 36px;
+	height: 40px;
+	font-weight:normal;
+		color:#CCCCCC;
+		font-weight:normal;
+	margin: 0px;

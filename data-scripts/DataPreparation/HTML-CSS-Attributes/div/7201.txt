@@ -1,0 +1,1 @@
+ width:630px; padding-right:40px; border-right:#f2f2f2 solid 1px; float:left; padding-bottom:30px;

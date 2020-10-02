@@ -1,0 +1,2 @@
+ overflow:hidden; background:#1a202c;margin:0 auto; width:960px; background:#d13f31; height:85px; margin-top:80px;list-style:none; float:left; width:auto; display:block; height:85px; line-height:85px; padding-left:30px; padding-right:30px; font-size:14px; font-family: 'Oswald', sans-serif; color:#ffffff; border-right:#dd503f solid 1px; text-transform:uppercase;background:#e1ece7; color:#1a202c;background:#e1ece7; color:#1a202c;
+HEADER CLASSES

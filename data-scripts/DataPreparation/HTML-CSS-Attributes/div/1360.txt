@@ -1,0 +1,6 @@
+
+    margin: 0 auto!important;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+   
+    padding: 35px;

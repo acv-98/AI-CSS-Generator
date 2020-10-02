@@ -1,0 +1,15 @@
+  margin-bottom: 41px;
+  padding-bottom: 21px;
+  border-bottom: 1px solid #ccc;
+    font-size: 28px;
+  color: #444444;
+  line-height: 1.2em;
+  text-transform: uppercase;
+  display: block;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  font-style: normal;
+  text-align: center;

@@ -1,0 +1,6 @@
+	float:left;
+	width:190px;
+	padding-left:3px;
+	padding-top:8px;
+	display:block;
+	padding-bottom:6px;

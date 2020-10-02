@@ -1,0 +1,6 @@
+	background:url(../images/cont-bot.jpg) no-repeat left top;
+	width:368px;
+	height:199px;
+	position:absolute;
+	left:0;
+	top:-199px;

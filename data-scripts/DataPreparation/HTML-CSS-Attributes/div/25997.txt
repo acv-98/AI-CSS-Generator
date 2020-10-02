@@ -1,0 +1,17 @@
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+	content: '.';
+	    content: "."; 
+	    display: block; 
+	    height: 0; 
+	    clear: both; 
+	    visibility: hidden;
+display: inline-block;height: 1%;display: block;.gallery li	{
+	list-style-type:none;
+	float:left;
+	margin-right:5px;
+		clear:both; 

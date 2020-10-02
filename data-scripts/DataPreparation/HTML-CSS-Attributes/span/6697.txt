@@ -1,0 +1,6 @@
+	display: inline-block;
+	font-size:58px;
+	line-height:51px;
+	color: #6E9BCA;
+	font-weight: bold;
+ 	font-size: 45px;

@@ -1,0 +1,11 @@
+	background-color: #3d444a;
+	border-top: 1px solid #4e595f;
+	font-size: 13px;
+	margin: 20px 0 0;
+	padding: 0 20px 10px;
+	border-right: 1px solid #4e595f;
+	display: inline-block;
+	padding-right: 10px;
+    border-right: 0;
+    margin-right: 5px;
+	color: #6CB670;

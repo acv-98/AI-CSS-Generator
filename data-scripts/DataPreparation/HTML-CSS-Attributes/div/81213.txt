@@ -1,0 +1,39 @@
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+          box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+  padding: 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  color: inherit;
+  margin-top: 0;
+  font-size: 16px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-width: 1px 0;
+  border-top-width: 0;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-left: 0;
+  border-right: 0;
+  border-color: #ddd;
+  border-top-color: #ddd;
+  border-bottom-color: #ddd;
+	    margin: 40px;
+ border-color: #333 .price.panel-default > .panel-heading {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #FFF;
+    background-color: #333333;
+    border-color: inherit;
+ padding: 30px 15px  border-bottom: 1px solid     margin-top: -20px;
+    position: relative;
+    z-index: 1;
+    margin-left: -5px;
+    margin-right: -5px;
+ border-color: #ffcc33  background-color: #ffcc33  margin-top: 20px .featured .panel-body,
+ border-color: #ffcc33 

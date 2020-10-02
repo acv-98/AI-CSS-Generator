@@ -1,0 +1,10 @@
+min-height:20px;padding-left:20px;float:left;margin-left:-20px;padding-top:5px;display:inline-block;padding-top:5px;margin-bottom:0;vertical-align:middle;margin-left:10px;padding-top:5px;color:#c09853;color:#b94a48;color:#468847;color:#3a87ad;padding-left:0;margin-bottom:0;vertical-align:middle;float:left;margin-right:3px;margin-left:0;margin-top:5px;  margin-top: 9px;
+  padding: 6px 10px 6px 25px;
+  font-size: 13px;
+  line-height: 18px;
+  color: #555;
+  background-color: #f9f9f9;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+  cursor: pointer;

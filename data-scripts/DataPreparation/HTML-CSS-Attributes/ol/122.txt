@@ -1,0 +1,11 @@
+	font-style: normal;
+	clear: both;
+	padding: 0;
+	list-style:none;
+	margin:0;
+	background: none;
+	border-bottom: 1px solid #454545;
+	font-family: 'PTSansRegular';
+	margin-top: 25px;
+	border-top: 1px solid #454545;
+	width:470px;

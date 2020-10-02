@@ -1,0 +1,9 @@
+	font-size: 40px;
+	color: #000;
+	margin-bottom: 40px;
+	text-transform: uppercase;	
+	-webkit-transition: all .3s;
+	transition: all .3s;
+	text-align: center;
+	border-bottom: 1px solid #ebebeb;
+    		margin-bottom: 30px;

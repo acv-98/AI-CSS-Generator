@@ -1,0 +1,10 @@
+    background: #cad0d1;
+    border: 1px solid #bcc1c2;
+    cursor: pointer;
+    display: block;
+    height: auto;
+    padding: 5px;
+    margin:0;
+    
+ background: #f2f4f5;  float:left;  float:right; margin-right: 0.3%; .sidebar-left .contact-form li.submit-button input.alignright,
+ margin:0 auto;  margin-right: 0.6%;  margin-right: -0.5%; 

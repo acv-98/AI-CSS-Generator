@@ -1,0 +1,13 @@
+		margin: 0 auto;
+		padding: 10% 0;
+		width: 95%;
+	background-color: #FFFFFF;
+	min-height: 84px;
+	overflow: hidden;
+	color: #000000;
+	display: block;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	text-transform: uppercase;

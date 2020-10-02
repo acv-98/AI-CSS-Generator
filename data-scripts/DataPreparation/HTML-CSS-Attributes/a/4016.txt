@@ -1,0 +1,16 @@
+  background: #4eb7c0;
+	border-bottom:1px solid #e6e6e6;
+	padding:10px 0 10px;
+	text-align:center;
+	color:#999;
+	font-size:12px;
+	font-weight:600;
+	background: #333;
+	display: inline-block;
+	border-radius: 1000px !important;
+	-moz-border-radius: 1000px !important;
+	-webkit-border-radius: 1000px !important;
+	-o-border-radius: 1000px !important;
+	-ms-border-radius: 1000px !important;
+	width: 72px !important;
+	line-height: 16px !important;

@@ -1,0 +1,2 @@
+  display: block;
+  line-height: 1.3;

@@ -1,0 +1,4 @@
+    display: block;
+    height: 130px;
+    line-height: 130px;
+    vertical-align: middle;

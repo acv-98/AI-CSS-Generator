@@ -1,0 +1,9 @@
+	float:left;
+	margin:0 0 16px;
+	padding:10px 24px;
+	font-size:14px;
+	font-weight:normal;
+	text-transform:uppercase;
+	color:#fff;
+	text-decoration:none;
+	background:url(../images/readmore.gif) repeat-x left top;

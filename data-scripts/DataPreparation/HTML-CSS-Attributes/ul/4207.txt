@@ -1,0 +1,17 @@
+  background-color: #25c9da;
+  border-color: #25c9da;
+	border: 1px solid #e2e6e7;
+	color: #555;
+	display: inline-block;
+	float: left;
+	font-size: 12px;
+	margin-bottom: 8px;
+	margin-right: 8px;
+	padding: 10px 12px;
+	text-transform: uppercase;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s
+	text-decoration: none;
+	outline: none;

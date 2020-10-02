@@ -1,0 +1,10 @@
+ width:100%; margin-right:0; 	float: left;
+	line-height: 1.81em;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	display: inline;
+	margin-right: 3%;
+	width: 22.75%;
+	clear: none !important;
+	font-size: 1.4em;
+	color: #244455;

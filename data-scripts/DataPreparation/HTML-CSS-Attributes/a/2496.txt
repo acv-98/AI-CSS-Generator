@@ -1,0 +1,3 @@
+background:none;width:25px; z-index: 999;top:left:-25px;  background-image: none;
+  filter: none;
+  left: 20px;

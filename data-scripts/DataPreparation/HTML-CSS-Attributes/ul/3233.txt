@@ -1,0 +1,8 @@
+	list-style:none;
+	list-style-image:none;
+	margin:0;
+	padding:0;
+	width:300px;
+	display:inline-block;
+	padding-top:8px;
+	vertical-align:top;

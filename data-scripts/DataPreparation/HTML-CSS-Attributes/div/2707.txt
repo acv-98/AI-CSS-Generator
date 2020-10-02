@@ -1,0 +1,5 @@
+         margin-bottom: 30px;
+     opacity: 1;
+     transition-delay: 0.3s;
+     transform: translate(0, 0) 
+     border-bottom: 2px solid #b0b435;

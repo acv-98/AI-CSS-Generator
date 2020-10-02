@@ -1,0 +1,9 @@
+background:none;width:25px; z-index: 999;right:-25px;
+.block-text {
+    background-color: #fff;
+    border-radius: 4px;
+    margin: 0 0 40px;
+    padding: 15px 18px;
+  background-image: none;
+  filter: none;
+  right: 20px;

@@ -1,0 +1,3 @@
+	background: transparent url(../images/icon-postlink.png) no-repeat left center;
+	width: 16px;
+	padding-left: 20px;

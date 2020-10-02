@@ -1,0 +1,6 @@
+    color: #fff;
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    width: 70%;
+    opacity: 0;

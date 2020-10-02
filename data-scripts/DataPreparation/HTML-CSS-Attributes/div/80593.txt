@@ -1,0 +1,27 @@
+		position:relative;
+		display:block;
+		margin-bottom:49px;
+		padding:0px;
+		list-style:none;  
+		float:left;
+		text-decoration:none;
+		font-weight:bold;
+		z-index:100;
+		border-bottom:none;
+		outline:none;
+		background-color:#ececec;
+		top:2px;
+		color:#a7a7a7;
+		font-size:11px;
+		line-height:17px;
+		border-top:1px solid #3783a0;
+		left:0;
+border-right:none;border-left:none;	.tabbed-area .tcontent {  
+ display:none; 	
+color:#3783a0;border-top:1px solid #2f86a8;width:95%;* Custom Input Fields Require Adjustments
+margin:0;padding:0;padding:0;margin:12px 0 15px 0;	.body .sidebar .tabbed-area .tcontent .blogs img {
+		margin-top:3px;
+		max-width:47px;
+		max-height:42px;
+		margin-right:3px;
+display:block;line-height:14px;margin-top:0;margin-top:10px;padding:10px 20px 10px 20px;padding-bottom:10px;

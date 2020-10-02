@@ -1,0 +1,25 @@
+    margin: 17px 0 0 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 75%;
+    padding: 8px 15px;
+    background: #222;
+    border: 0;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #aaa;
+    -o-transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -ms-transition: all .2s;
+ color: #aaa;  color: #aaa;  color: #aaa; .social-links {
+    padding-top: 40px;
+    border-top: 1px dotted #4d4d4d;
+    text-align: center;
+ margin-left: 138px;  margin-left: 0;  margin-right: 0;  width: 87%;  margin-left: 149px;  margin-left: 50px; margin-right: 50px;  width: 87%;  margin-left: 0;  color: #aaa;  color: #aaa;  color: #aaa;  margin-left: 138px;  margin-left: 0;  margin-right: 0;  width: 87%;  margin-left: 149px;  margin-left: 50px; margin-right: 50px;  width: 87%;  margin-left: 0;  color: #aaa;  color: #aaa;  color: #aaa;  margin-left: 138px;  margin-left: 0;  margin-right: 0;  width: 87%;  margin-left: 149px;  margin-left: 50px; margin-right: 50px;  width: 87%;  margin-left: 0;  color: #aaa;  color: #aaa;  color: #aaa;  margin-left: 138px;  margin-left: 0;  margin-right: 0;  width: 87%;  margin-left: 149px;  margin-left: 50px; margin-right: 50px;  width: 87%;  margin-left: 0; 

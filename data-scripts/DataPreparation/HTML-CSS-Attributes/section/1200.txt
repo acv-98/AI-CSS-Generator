@@ -1,0 +1,2 @@
+	background-attachment:fixed;
+		background-attachment:scroll; background-position: center center!important;

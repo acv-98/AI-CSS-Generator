@@ -1,0 +1,4 @@
+	width:660px;
+	height:298px;
+	float:left;
+	margin-top:50px;

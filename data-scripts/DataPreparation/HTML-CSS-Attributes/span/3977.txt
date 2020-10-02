@@ -1,0 +1,4 @@
+  display: block;
+  margin-bottom: 30px;
+  font-size: 18px !important;
+  color: rgba(255, 255, 255, 0.8);

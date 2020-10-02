@@ -1,0 +1,6 @@
+	visibility: hidden;
+	opacity: 0;
+	height: 0 !important;
+	margin-top: 20px;
+	width: 100%;
+	border: 2px solid #ff9c00;

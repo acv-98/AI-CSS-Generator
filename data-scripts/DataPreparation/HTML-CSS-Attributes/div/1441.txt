@@ -1,0 +1,3 @@
+    min-height: 600px;
+    background-image: url('../max-image/brochures-2.jpg');
+    background-size: cover;

@@ -1,0 +1,14 @@
+position: absolute; width: 720px; height: 100px; left: 14%; bottom: -40px; overflow: hidden;background:#fff;border-radius:5px; .jssort07 .i {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 99px;
+	height: 66px;
+	filter: alpha(opacity=80);
+	opacity: .8;
+	border: 1px solid #000;
+	transition: border-color .6s;
+	-moz-transition: border-color .6s;
+	-webkit-transition: border-color .6s;
+	-o-transition: border-color .6s;
+	border-color: #fff;

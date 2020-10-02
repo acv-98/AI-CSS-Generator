@@ -1,0 +1,1 @@
+	background:url("../images/chat-icon.gif") no-repeat left center;

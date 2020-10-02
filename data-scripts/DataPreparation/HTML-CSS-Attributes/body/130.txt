@@ -1,0 +1,7 @@
+    padding-top: 10px;
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+         width: 100% !important;
+        float: none !important;
+        margin-right: 0 !important;
+        margin-bottom: 20px !important;

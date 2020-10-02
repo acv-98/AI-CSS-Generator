@@ -1,0 +1,4 @@
+    width: 1000px !important;
+    height: 208px !important;
+ width: 100% !important;  height: 130px !important;  height: 55px !important;  height: 104px !important;  height: 46px !important;     .section-portfolio-slider,
+ height: 181px !important; height: 76px !important;  height: 34px !important;  height: 127px !important; height: 76px !important;  width: 104px !important; margin: 0 10px 0 0;  height: 127px !important;

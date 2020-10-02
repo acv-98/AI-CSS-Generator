@@ -1,0 +1,5 @@
+    margin-bottom:40px;
+    display: inline-block;
+    color:#fff;
+    font-size:1rem;
+    font-family: 'ralewayregular'; 

@@ -1,0 +1,3 @@
+	text-decoration:none;
+	color:#fff;
+	background:url(../images/shum.gif) repeat left top;

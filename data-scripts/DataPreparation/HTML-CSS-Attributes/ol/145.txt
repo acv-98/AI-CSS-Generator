@@ -1,0 +1,6 @@
+    margin-bottom: 2px;
+    background: rgba(255, 255, 255, 0.5) none repeat scroll 0 0;
+    border: 0 none;
+    height: 11px;
+    width: 11px;
+    bottom: 2px;

@@ -1,0 +1,6 @@
+  padding:3px;
+	width:100%;
+	position:relative;
+	padding:0;
+	overflow:hidden;
+  padding:3px;

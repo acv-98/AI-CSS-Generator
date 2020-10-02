@@ -1,0 +1,17 @@
+  display: block;
+  padding: 3px 20px;
+  font-size: 12px;
+  line-height: 1.42857143;
+  color: #777;
+  white-space: nowrap;
+    padding: 5px 15px 5px 25px;
+    border-color: #080808;
+     font-size: 17px;
+     color: #222;
+     padding: 0;
+     line-height: 30px;
+     font-weight: 600;
+     float: left;
+     width: 100%;
+     margin-bottom: 5px !important;
+     text-transform: uppercase;

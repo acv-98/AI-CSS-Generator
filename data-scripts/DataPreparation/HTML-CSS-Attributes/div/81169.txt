@@ -1,0 +1,23 @@
+left: 22%;text-align: center;	#itemsWorkTwo .box .hover-text i.fa {
+	    top: 0%;
+left: 16%;	#tf-footer .pull-left,
+    #tf-footer .pull-right {
+	    float: none !important;
+	    text-align: center;
+left: 3%;display: none;	a.goto-btn {
+	    margin-right: auto;
+ padding: 10% 0 5% 0 background: url(../img/bg/02.jpg);    position: relative;
+    width: 395px;
+    background: url(../img/header4.png);
+    height: 540px;
+    background-repeat: no-repeat;
+    z-index: 2;
+    left: 5%;
+ padding: 15% 0 #tf-home.app .owl-theme .owl-controls .owl-page span {
+    border: 2px solid transparent;
+    opacity: 1;
+    margin-top: 60px;
+ border: 2px solid #FFCC33 .bcg {
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;

@@ -1,0 +1,2 @@
+margin:0 0 50px 0;font-size:32px;
+margin:0 0 30px 0; padding:0 0 8px 0; border-bottom:1px solid; font-size:16px; text-transform:uppercase;color:#FFFFFF; border-color:#3C3C3C;

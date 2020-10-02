@@ -1,0 +1,13 @@
+    float: left;
+    width: 80%;
+    margin: 5px 10% 0;
+    padding: 40px 0 40px;
+    border-radius: 0;
+    text-align: center;
+    position: relative;
+    z-index: 2;
+    color: #222;
+    opacity: 1;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 20px;

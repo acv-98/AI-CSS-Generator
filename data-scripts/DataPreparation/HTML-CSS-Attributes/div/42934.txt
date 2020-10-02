@@ -1,0 +1,6 @@
+		min-width: 350px!important;
+		max-width: 500px!important;
+		background-color: rgba(255,255,255, .05);
+margin-bottom: 50px;max-width: 70%;.third_section {
+	background-image: url(./images/background1_web.jpg);
+	background-size: cover;

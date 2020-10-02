@@ -1,0 +1,8 @@
+	text-align: right;
+	position: relative;
+	top: 32px;
+	right: 22%;
+	font-size: 1em;
+	color: #fff;
+		right: 19%;
+		font-size: 0.82355em;

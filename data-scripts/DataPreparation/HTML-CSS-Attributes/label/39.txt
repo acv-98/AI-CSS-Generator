@@ -1,0 +1,3 @@
+	font-family: "raleway-bold", sans-serif;
+	color: #FFFFFF;
+	margin-right: 5px;

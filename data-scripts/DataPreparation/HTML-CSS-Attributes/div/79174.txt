@@ -1,0 +1,11 @@
+	height: 378px;
+	width:600px;
+	margin-bottom:40px;
+	position:relative;
+	z-index:1;
+	display: block;
+	left:0;
+	top:0;
+	font-size:0;
+	line-height:0;
+	text-decoration:none;

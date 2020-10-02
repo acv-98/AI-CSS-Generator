@@ -1,0 +1,5 @@
+    margin-bottom:90px;
+    color:#333333;
+    font-size:1rem;
+    max-width: 80%;
+    padding-bottom: 90px;

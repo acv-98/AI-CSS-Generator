@@ -1,0 +1,6 @@
+  display: block;
+  border-color: #428bca;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 9px;
+  color: #333333;

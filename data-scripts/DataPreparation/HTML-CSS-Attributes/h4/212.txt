@@ -1,0 +1,5 @@
+  font-size: 20px;
+  color: #273f59;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 20px;

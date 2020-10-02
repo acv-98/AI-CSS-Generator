@@ -1,0 +1,6 @@
+  margin-bottom: 0.25rem !important;
+	font-weight: bold;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 0rem !important;

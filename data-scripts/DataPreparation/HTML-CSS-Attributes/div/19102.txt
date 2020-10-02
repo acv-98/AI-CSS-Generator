@@ -1,0 +1,22 @@
+ width:495px; margin: 6px 0 0 30px; margin:6px 0 0 0;	
+   
+	 
+ width:auto; float:none; font-size:15px;	width:648px;
+	background:#f9f9f9;
+	position:relative;
+	padding:40px 30px;
+	float:left;
+	margin:35px 0 0 30px;
+	font-family: 'Lato',sans-serif;
+	font-style: italic;
+	font-size:18px;
+	font-weight: 300;
+	color:#888888;
+	text-align:center;
+    display: inline-block;
+    font-size: 22px;
+    left: -9px;
+    position: relative;
+    top: -8px;
+	display: inline-block;
+	right: -9px;

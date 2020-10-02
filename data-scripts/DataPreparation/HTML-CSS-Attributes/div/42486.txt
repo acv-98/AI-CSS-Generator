@@ -1,0 +1,2 @@
+position:absolute; top:0; left:50%; width:0; height:0; margin-left:-15px; border:15px solid; content:"";
+color:#CBCBCB; background-color:#333333;background:transparent; border-color:transparent; border-top-color:#FFFFFF;

@@ -1,0 +1,10 @@
+	padding: 0px;
+	margin: 0px;
+	background: #ffffff;
+	-webkit-box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 6px 10px -5px rgba(0, 0, 0, 0.1);
+	margin-bottom: 20px;
+	color: #333;
+	font-size: 15px;
+	margin-right: 5px;
+	margin-left: 5px;

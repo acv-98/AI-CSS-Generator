@@ -1,0 +1,10 @@
+	width: 100px;
+	height: 100px;
+	background: url(../images/img-sprite.png)-267px -2px;
+	float: left;
+	position: absolute;
+	text-align: center;
+	margin: 0 auto;
+	top: -50px;
+	left: 37%;
+		left: 33%;

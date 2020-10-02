@@ -1,0 +1,4 @@
+	width:315px;
+	border:1px solid #E5E5E5;
+	background:url(../images/service.jpg) right bottom no-repeat;
+	float:left;

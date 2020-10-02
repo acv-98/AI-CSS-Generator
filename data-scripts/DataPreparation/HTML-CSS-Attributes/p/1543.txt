@@ -1,0 +1,2 @@
+width:500px; color:#ffffbe; font-weight:bold; padding:13px 0 0 39pxcolor:#ffffbe; text-decoration:none; padding:0color:#ffffbe; text-decoration:underline;
+float:left; width:auto; padding:0 0 0 0; position:absolute; left:113px; top:146px

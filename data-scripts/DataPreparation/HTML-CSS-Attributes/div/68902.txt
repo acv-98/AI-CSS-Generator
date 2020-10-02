@@ -1,0 +1,2 @@
+    border-bottom: 15px solid #cc3467;
+    border-left: 15px solid #cc3467;

@@ -1,0 +1,7 @@
+	float:left;
+	margin:0 0 16px;
+	font-size:12px;
+	font-weight:bold;
+	text-transform:uppercase;
+	color:#3f3f3f;
+	text-decoration:none;

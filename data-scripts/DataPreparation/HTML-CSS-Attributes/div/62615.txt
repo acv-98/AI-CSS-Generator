@@ -1,0 +1,3 @@
+	font: bold 24px/20px 'Open Sans', sans-serif;
+	color: #585858;
+	margin-bottom: 9px;

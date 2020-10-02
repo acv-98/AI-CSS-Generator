@@ -1,0 +1,7 @@
+  display: none !important;
+    display: none !important;
+	position: absolute;
+	pointer-events: none;
+	width: 0;
+	height: 0;
+	overflow: hidden;

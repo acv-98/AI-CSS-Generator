@@ -1,0 +1,14 @@
+	position:absolute;
+	top:-60px;
+	left:50%;
+	width:100px;
+	text-transform:uppercase;
+	background:#75cdd2;
+	height:24px;
+	color:#fff;
+	display:none;
+	line-height:22px;
+	padding:5px;
+	margin:-12px 0 0 -55px;
+	text-align:center;
+	text-decoration:none;

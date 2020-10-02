@@ -1,0 +1,11 @@
+	font-family: 'Droid Sans', Verdana, Arial, sans-serif;
+	line-height: 1.6em;
+	text-decoration: none;
+	font-size: 14px;
+	color: #666;
+	background-image: url(../images/star.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	padding-top: 2px;
+	padding-bottom: 60px;

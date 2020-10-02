@@ -1,0 +1,7 @@
+ padding-top: 10px; padding-bottom: 10px; 	font-size: 15px;
+	color: #fff;
+	text-transform: uppercase;
+ padding-top: 20px; padding-bottom: 20px; color: #fff; opacity: 0.8;  color: #fff; opacity: 1;  color: #fff; outline: 0; opacity: 1; .navbar-text a {
+	margin: 0 8px;
+	line-height: 28px;
+	opacity: 0.8;

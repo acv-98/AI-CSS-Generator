@@ -1,0 +1,8 @@
+  float: left;
+  padding: 25px 15px;
+  font-size: 30px;
+  line-height: 20px;
+  text-decoration: none;
+    margin-left: -15px;
+  color: #000000;
+  background-color: transparent;

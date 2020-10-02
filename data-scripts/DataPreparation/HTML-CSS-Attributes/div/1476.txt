@@ -1,0 +1,4 @@
+      width: 100%;
+      min-height: 500px;
+      background-image: url('../service/post-card.jpg');
+      background-size: cover;

@@ -1,0 +1,18 @@
+	font-family: Arial;
+	font-size: 46px;
+	font-weight: bolder;
+	line-height: 46px;
+	width: 100%;
+	background: none;
+	margin: 0 auto;
+	max-width: 960px;
+	padding: 74px 0 0;
+	color: #000000;
+	display: block;
+	text-align: center;
+	text-transform: uppercase;
+	overflow: hidden;
+	border: 5px solid #000000;
+	float: left;
+	height: 47px;
+	border-left: none;

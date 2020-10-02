@@ -1,0 +1,12 @@
+  margin-top: 20px;
+  display: table;
+  content: " ";
+  clear: both;
+  width: 49.9%;
+  float: left;
+  height: 100px;
+    margin-top: 50px;
+    width: 45.9%;
+    margin-left: 2%;
+    height: 160px;
+    display: block;

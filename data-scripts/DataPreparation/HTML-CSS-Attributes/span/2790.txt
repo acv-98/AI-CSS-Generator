@@ -1,0 +1,2 @@
+	bottom: 220px;
+	left: 230px;

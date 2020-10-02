@@ -1,0 +1,4 @@
+	color:#70c92f;
+	font-size:38px;
+	font-family: 'coolveticaregular';
+    padding: 5px 15px;

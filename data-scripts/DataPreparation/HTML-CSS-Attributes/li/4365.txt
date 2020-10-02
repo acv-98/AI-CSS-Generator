@@ -1,0 +1,7 @@
+	margin-bottom: 20px;
+	display: block;
+	font-size: 14px;
+	font-weight: bold;
+	padding-bottom: 10px;
+	text-indent: 10px;
+	border-bottom: 1px solid #cccccc;

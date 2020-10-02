@@ -1,0 +1,2 @@
+ background:#eeeef0; overflow:hidden; margin-bottom:60px; clear:both;width:1000px; margin:0 auto;float:left; padding-top:80px; font-size:45px; float:right; font-size:20px; color:#c3c3c3; padding-top:30px;float:left; padding-top:80px; margin-right:5px;
+MAIN COLUMAS CLASSES

@@ -1,0 +1,8 @@
+     float: left;
+     width: 100%;
+     padding-top: 50px;
+     padding-bottom: 75px;
+         float: left;
+         width: 100%;
+         padding-top: 0;
+         padding-bottom: 75px;

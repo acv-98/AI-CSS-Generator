@@ -1,0 +1,4 @@
+    margin-top: 40px;
+    width: 435px;
+    float: left;
+    display: block;

@@ -1,0 +1,10 @@
+    width: auto !important;
+    height: auto !important;
+    line-height: 1 !important;
+    padding: 0 !important;
+    color: #e3e3e3 !important;
+    background-color: transparent !important;
+    margin-right: 10px !important;
+    vertical-align: middle;
+    font-size: 24px !important;
+    padding-bottom: 5px;

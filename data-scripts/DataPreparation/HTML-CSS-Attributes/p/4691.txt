@@ -1,0 +1,10 @@
+	margin:0;
+	padding:24px 20px;
+	font-size:11px;
+	color:#6e6e6e;
+	text-align:left;
+	display:block;
+	float:left;
+	text-decoration:none;
+	background:url(../images/page_p.gif) no-repeat center center;
+	border:none;

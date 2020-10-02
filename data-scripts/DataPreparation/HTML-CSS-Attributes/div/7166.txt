@@ -1,0 +1,1 @@
+ width:960px; margin:0 auto; width:960px; margin-bottom:60px; overflow:hidden;PANEL  

@@ -1,0 +1,12 @@
+ margin-top: 30px;form input.form-control,
+form button.form-control,
+form textarea.form-control ,
+form select.form-control {
+    border: 0px;
+    background-color: transparent;
+    border-bottom: 3px solid #233842;
+    border-radius: 0px;
+    height: 45px;
+ margin-top: 30px;#templatemo_contact form input.form-control,
+#templatemo_contact form button.form-control,
+#templatemo_contact form textarea.form-control ,

@@ -1,0 +1,14 @@
+  position: absolute;
+  top: 0;
+  right: 15px;
+  z-index: 999999;
+  padding: 10px 35px 16px 0;
+  content: "";
+  display: block;
+  width: 35px;
+  height: 3px;
+  border-radius: 1px;
+  background: #fff;
+  -webkit-transition: all 300ms ease-in-out;
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);

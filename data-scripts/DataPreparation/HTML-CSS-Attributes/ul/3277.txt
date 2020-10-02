@@ -1,0 +1,16 @@
+	list-style:none;
+	padding:0;
+	margin:0;
+	width:246px;
+	height:350px;
+	background:url(../images/pagination-bg.jpg) no-repeat left top;
+	margin-bottom:-5px;
+	background-repeat:no-repeat;
+	background-position:left -85px;
+	background-image:url(../images/thumb-sprite.png);
+	text-decoration:none;
+	display:block;
+	color:#464646;
+	font-size:30px;
+	line-height:1.2em;
+	padding-left:40px;

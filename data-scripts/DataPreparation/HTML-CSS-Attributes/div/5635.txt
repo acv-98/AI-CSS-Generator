@@ -1,0 +1,5 @@
+	width:1020px;
+	padding:0;
+	margin:0 auto;
+	font-size:0.875em;
+	line-height:1.785em

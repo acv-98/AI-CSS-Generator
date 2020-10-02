@@ -1,0 +1,9 @@
+  margin-top: 80px;
+  margin-bottom: 80px;
+  position: relative;
+  padding-left: 40px;
+  font-size: 20px;
+  left: 0;
+  top: 0;
+  color: #1fb5f6;
+  list-style: none;

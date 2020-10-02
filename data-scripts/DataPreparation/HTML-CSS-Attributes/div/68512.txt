@@ -1,0 +1,14 @@
+        width: 50% !important;
+    background-color: #111;
+    padding: 40px;
+    color: #ffffff;
+    float: left;
+    font-size: 150px;
+    display: block;
+    margin: 0 0 15px;
+    line-height: 50px !important;
+    font-weight: bold;
+	position: relative;
+	z-index: 1;
+	color: #ffffff;
+	font-size: 38px;

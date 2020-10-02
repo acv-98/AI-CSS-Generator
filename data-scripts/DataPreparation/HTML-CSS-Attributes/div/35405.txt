@@ -1,0 +1,4 @@
+ width: 31.91489%;  margin-left: 34.04255%;  width: 23.40426%;  width: 87.23404%;  margin-left: 38.29787%;  margin-left: 6.38298%;  margin-left: -2%;  margin-left: 2%; width: 23%;     position: relative;
+    width: 100%;
+    height: auto;
+    opacity: 1;

@@ -1,0 +1,6 @@
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+  background-image: none;
+	background-color: #70E5E5;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.2);

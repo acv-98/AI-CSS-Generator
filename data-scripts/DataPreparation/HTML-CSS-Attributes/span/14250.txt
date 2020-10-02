@@ -1,0 +1,2 @@
+text-transform: uppercase; cursor: pointer;
+color: #ff7378; 

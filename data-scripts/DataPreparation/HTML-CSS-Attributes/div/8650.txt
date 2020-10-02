@@ -1,0 +1,1 @@
+float:left;width:275px;margin-right:30pxpadding-bottom:20px

@@ -1,0 +1,54 @@
+	background:url(../images/duplicate.png) no-repeat 10px 2px !important; 
+	padding-left:33px !important;
+	width:18px;	
+	height:18px;
+	cursor:pointer;
+	margin-left:16px;
+	margin-top:3px;
+	border-color:#bbb;
+	color:#464646;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  filter: alpha(opacity=50);
+  -moz-opacity: 0.5;
+  -khtml-opacity: 0.5;
+  opacity: 0.5;
+	display:block;
+	float:left;
+	 margin-right:5px;
+	text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4) !important;
+	font-weight:bold;
+	background-color: #c82626 !important;
+ border-color:#420707 !important;#button_close_slider_edit{
+	text-align:center;
+	background-image:url(../images/close.png) !important;
+	background-repeat:no-repeat !important;
+	background-position:10px 3px !important; padding-left:33px !important;	
+	border-radius:3px !important; -webkit-border-radius:3px !important; -moz-border-radius:3px !important; * Bootstrap v2.1.1
+ *
+ * <a href="http://yithemes.com/"><img src="http://yithemes.com/cdn/images/various/footer_yith_grey.png" alt="Your Inspiration Themes" style="position:relative; top:9px; margin: -22px 5px 0 0;"></a>&nbsp;Copyright 2012 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * Designed and built with all the love in the world @twitter by @mdo and @fat.
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section {
+  display: block;
+ font-size: 14px; font-family: 'Open Sans', sans-serif; color: #3f4950; font-style: normal; font-weight: 400; 	margin-right:2px;
+  margin:0.5em 0; 
+position:relative;top:0.25em;.jcarousel-skin-tango .jcarousel-container {
+    
+ margin-top: 4px; margin-left: 8px;  float: none; margin-top: 0px;  height: 40px; background: url('../images/price.readmore.png') no-repeat left 0; float: none;  font-size: 14px; font-weight:normal; line-height: 40px; background: url('../images/price.readmore.png') no-repeat right -40px; padding:0 40px; background-position:left -80px;background-position:right -120px; background-position:right -200px; color: #303E0E; text-shadow:0 1px 0 #C7DD90;   background-position:left -240px; margin: 0 20px 0 0; padding: 0; display: inline-block; float: left; line-height:32px; *line-height:28px; margin: 0 -20px 0 0!important; padding: 0 20px; height:100%; border: none; cursor: pointer; color: #3f4950; font-size: 12px; text-shadow: 0 1px 0 #fff; text-decoration:none text-decoration: none;.well {
+    background-color: #F5F5F5;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
+    margin-bottom: 20px;
+    min-height: 20px;
+    padding: 19px;

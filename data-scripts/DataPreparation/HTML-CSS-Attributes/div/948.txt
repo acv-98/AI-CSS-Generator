@@ -1,0 +1,1 @@
+	background:url(../images/bg_bot_repeat.jpg) top repeat-x;

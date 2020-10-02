@@ -1,0 +1,6 @@
+  background-color: #D4D4D4;
+  color: #696969;
+  font-size: 20px;
+  margin-bottom: 0;
+  padding: 10px 0;
+  text-transform: capitalize;

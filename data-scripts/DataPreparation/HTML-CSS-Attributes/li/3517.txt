@@ -1,0 +1,2 @@
+	color:#02327c;
+	background:url(../images/bg-secondary-menu.gif) repeat-x;

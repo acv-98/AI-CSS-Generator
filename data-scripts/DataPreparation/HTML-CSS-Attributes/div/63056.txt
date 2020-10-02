@@ -1,0 +1,9 @@
+    clear: both;
+    float: left;
+    width: 100%;
+	background:#ffffff;
+	float: left;
+    font-family: 'oswald';
+	color: #fff;
+	padding: 20px;
+	font-size: 45px;

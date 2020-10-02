@@ -1,0 +1,12 @@
+	font-size:11px;
+	line-height:12px;
+	background:#ececec;
+	border-top:solid 1px #e5e5e5;
+	margin:0 auto;
+	width:930px;
+	border-left:solid 1px #dfdfdf;
+	border-right:solid 1px #dfdfdf;
+	padding:15px;
+	color:#7f7f7f;
+	text-decoration:none;
+	float:left;

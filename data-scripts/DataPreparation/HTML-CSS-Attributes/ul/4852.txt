@@ -1,0 +1,10 @@
+	border-radius:6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	margin:0;
+	padding:0;
+	list-style:none;
+	color:#fff;
+	text-decoration:none;
+	margin-left:-12px;
+	background-color:#52aec6;

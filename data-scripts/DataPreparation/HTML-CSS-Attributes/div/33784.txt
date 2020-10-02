@@ -1,0 +1,10 @@
+    background: url("../assets/images/video-player-bg.png") left center no-repeat;
+    height: 450px;
+    background-size: cover;
+      font-size: 80px;
+      color: #0f81f8;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translate(-50%, -50%);
+              transform: translate(-50%, -50%);

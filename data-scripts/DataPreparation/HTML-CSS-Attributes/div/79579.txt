@@ -1,0 +1,4 @@
+    border: 1px solid #eee;
+    padding: 3rem;
+    margin-top: 6rem;
+    display: block;

@@ -1,0 +1,6 @@
+  background-color:#78ADC9; 
+  display: inline;
+  padding: 60px 0;  
+  float: left;  
+  width: 100%;
+  color: #fff;

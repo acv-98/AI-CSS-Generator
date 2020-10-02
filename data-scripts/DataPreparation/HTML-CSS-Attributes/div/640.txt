@@ -1,0 +1,1 @@
+	background: url(images/rss_icon.png) right bottom no-repeat;

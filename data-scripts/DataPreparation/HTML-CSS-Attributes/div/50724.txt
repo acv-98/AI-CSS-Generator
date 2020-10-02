@@ -1,0 +1,8 @@
+	float:left;
+	width:318px;
+	padding-left:5px;
+	padding-top:5px;
+	overflow:visible;
+	height:150px;
+	text-align:justify;
+	margin-right:0;

@@ -1,0 +1,6 @@
+		width: 95px;
+		font-size: 24px;
+	margin-bottom: 20px;
+	line-height: 1.0em;
+	display: block;
+	float: right;

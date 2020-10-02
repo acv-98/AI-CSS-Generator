@@ -1,0 +1,1 @@
+float: left;overflow: hidden;width:200px; padding:5px; margin-right:20px;

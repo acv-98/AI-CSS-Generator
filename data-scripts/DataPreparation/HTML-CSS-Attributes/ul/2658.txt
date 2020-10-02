@@ -1,0 +1,9 @@
+	color: #414558;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	padding-left:3px;
+	border-bottom:1px solid #fff;
+	background: url(../images/raster.png) left no-repeat;

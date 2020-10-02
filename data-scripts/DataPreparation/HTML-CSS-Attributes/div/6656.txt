@@ -1,0 +1,7 @@
+	text-align:center;
+	border:1px solid #ddd;
+	padding:40px 15px;
+	margin-top:20px;
+	line-height:45px;
+	height:45px;
+	color:#67267a;

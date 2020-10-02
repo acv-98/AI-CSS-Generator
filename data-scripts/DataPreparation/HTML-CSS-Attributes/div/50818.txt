@@ -1,0 +1,4 @@
+	list-style:none;
+	display:block;
+	border-bottom:1px dotted #69615f;
+	margin-bottom:11px;

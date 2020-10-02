@@ -1,0 +1,17 @@
+	display: block;
+	width: 139px;
+	height: 23px;
+	background: url(../images/btn.gif) no-repeat top left;
+	float: left;
+	text-transform: uppercase;
+	color: #5c5c5c;
+	font-size: 9px;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 6px;
+	border: 4px solid #FFFFFF ;
+	outline: 1px solid #c5c5c5;
+	margin: 10px 0px;
+	overflow: hidden;
+	padding-bottom: 50px;
+	padding-left: 1px;

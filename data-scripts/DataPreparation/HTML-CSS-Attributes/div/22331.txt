@@ -1,0 +1,4 @@
+		width: 760px;
+		height: 11px;
+		margin-left: 0px;
+		background: url(../img/shadow-main-tablet.png) no-repeat top center;

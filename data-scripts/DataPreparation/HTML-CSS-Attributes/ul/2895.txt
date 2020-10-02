@@ -1,0 +1,1 @@
+display:block; height:28px; font: bold 16px "Trebuchet MS", Arial, Helvetica, sans-serif;display:block; background:url(images/catgory1.jpg) no-repeat; width:254px; height:22px; padding:4px 10px 0 10px; text-shadow: #000 1px 1px 1px; color:#555;color:#555;background:url(images/catgory2.jpg) no-repeat; color:#fff;

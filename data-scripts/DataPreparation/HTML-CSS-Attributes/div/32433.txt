@@ -1,0 +1,15 @@
+		width:100%;
+		overflow:hidden;
+		border:1px solid #505a68;
+		background:#798493;
+		font-weight:bold;
+		padding:0.5em;
+		
+		-webkit-border-radius: 2em;
+		-moz-border-radius: 2em;
+		border-radius: 2em;
+				
+		box-sizing: border-box; 
+		-moz-box-shadow:   	0 1px 1px rgba(255,255,255,0.36);
+		-webkit-box-shadow: 0 1px 1px rgba(255,255,255,0.36);
+		box-shadow:         0 1px 1px rgba(255,255,255,0.36);

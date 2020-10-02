@@ -1,0 +1,7 @@
+    max-width: 1760px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+ max-width: 800px; 	.tm-section {
+		padding-top: 5%;
+    	padding-bottom: 4%;

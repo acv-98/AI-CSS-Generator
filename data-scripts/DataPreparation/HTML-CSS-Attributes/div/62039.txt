@@ -1,0 +1,13 @@
+    color: #555;
+    float: left;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 12px 0;
+    background: #f6f6f6 none repeat scroll 0 0;
+    margin-left: -30px;
+    margin-top: 82px;
+    overflow: hidden;
+    padding: 18px 25px 25px 30px;
+        margin-top: 40px;
+        margin-left: 0;
+        padding: 18px 25px 25px;

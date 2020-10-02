@@ -1,0 +1,4 @@
+    font-size: 18px;
+    color: #061e37;
+    font-family: Roboto-Light;
+    font-weight: bold;

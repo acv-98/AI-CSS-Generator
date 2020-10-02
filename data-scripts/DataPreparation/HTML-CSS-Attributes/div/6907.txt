@@ -1,0 +1,8 @@
+	float:left;
+	background:#c2c2c2;
+	width:200px;
+	height:35px;
+	line-height:35px;
+	border: 0 solid green;
+	color:#8b8b8b;
+	padding-left:10px;

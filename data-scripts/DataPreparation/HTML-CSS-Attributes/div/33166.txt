@@ -1,0 +1,15 @@
+color: #bcbcbc; font-size: 25px;.icon1 {
+ width: 50px;
+ 
+ background: #2d6e84;
+ position: relative;
+ display: inline-block;
+ content: "";
+ top: -15px;
+ left: 0;
+ height: 0;
+ border-left: 25px solid transparent;
+ border-right: 25px solid transparent;
+ border-bottom: 15px solid #2d6e84;
+ bottom: -15px; left: 0;
+ border-top: 15px solid #2d6e84;

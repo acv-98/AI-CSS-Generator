@@ -1,0 +1,16 @@
+  color: #fff;
+  border: 1px solid #FFFFFF;
+  background: #f48e5c;
+  -webkit-box-shadow: 0 0 0px 2px #f48e5c;
+  -moz-box-shadow: 0 0 0px 2px #f48e5c;
+  box-shadow: 0 0 0px 2px #f48e5c;
+  width: 90px;
+  height: 90px;
+  margin: 0 auto;
+  border-radius: 100%;
+  text-align: center;
+  -webkit-transition: .2s all;
+  -o-transition: .2s all;
+  transition: .2s all;
+  padding-right: 22px;
+  font-size: 30px;

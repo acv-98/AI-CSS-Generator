@@ -1,0 +1,12 @@
+		font-size: 18px;
+		display: none;
+	background: #076799;
+	padding: 30px;
+	position: absolute;
+	left: 110%;
+	width: 100%;
+	top: 0;
+	height: 100%;
+	transition: all .35s ease-in-out;
+	opacity: 0;
+	color: #ffffff;

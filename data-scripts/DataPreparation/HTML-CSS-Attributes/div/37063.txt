@@ -1,0 +1,11 @@
+	color:#000;
+	font-size: 1em;
+	padding-bottom: 5px;
+	margin: 0;
+	width: 48%;
+	float: left;
+	display: block;
+	text-transform: uppercase;
+	border: 1px solid #EEE;
+	outline-color:#00BFF0;
+	font-family: 'Open Sans', sans-serif;

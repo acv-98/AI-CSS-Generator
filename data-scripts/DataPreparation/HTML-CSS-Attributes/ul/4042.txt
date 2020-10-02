@@ -1,0 +1,12 @@
+	display: block;
+	margin-left: 30px;
+	background: url(../img/bullet.png) no-repeat 0px 3px;;
+	margin-bottom: 0.3em;
+	text-indent: 18px;
+	font-size: 14px;
+	line-height: 1.5em;;
+	color: #665d4e;
+	text-decoration: none;
+	font-weight: bolder;
+	
+	margin-top: 26px;

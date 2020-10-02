@@ -1,0 +1,9 @@
+	color: #d33b33;
+        display: none;
+        text-align: left;
+        padding: 5px 0;
+        width: 100%;
+        margin-bottom: 0;
+        border-bottom: none;
+        color: #6f6f6f;
+        height: auto !important;

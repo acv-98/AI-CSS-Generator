@@ -1,0 +1,8 @@
+	color: #1baab9;
+	list-style:none;
+	margin-left:0;
+	padding-left:24px;
+  background-image: url("../img/glyphicons-halflings.png");
+  background-repeat: no-repeat;
+	background-position: -456px -69px;
+	text-decoration:none;

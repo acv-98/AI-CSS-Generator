@@ -1,0 +1,6 @@
+	width:700px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:30px;
+	text-align:left;
+	color:#555555;

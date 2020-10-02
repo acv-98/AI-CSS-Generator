@@ -1,0 +1,15 @@
+  background-color: #D2691E;
+  border: medium none;
+  color: #fff;
+  display: inline;
+  float: left;
+  font-size: 18px;
+  font-weight: bold;
+  height: 50px;
+  text-transform: uppercase;
+  width: 20%;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+	opacity: 0.75;
+width: 24%;font-size: 15px;width: 29%;font-size: 15px;font-size: 11px;

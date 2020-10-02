@@ -1,0 +1,26 @@
+  padding: 70px 45px;
+  background: #fff;
+  margin-top: 50px;
+    margin-top: 0;
+  padding-top: 110px;
+  padding-bottom: 110px;
+  display: block;
+  font-size: 30px;
+  color: #999caa;
+  margin-bottom: 30px;
+  position: relative;
+  padding-left: 20px;
+  top: 7px;
+  left: 0;
+  width: 9px;
+  height: 2px;
+  content: " ";
+  margin-right: 10px;
+line-height:1.4@font-face {
+	font-family: 'Simple-Line-Icons';
+	src:url('fonts/Simple-Line-Icons.eot');
+		url('fonts/Simple-Line-Icons.woff') format('woff'),
+		url('fonts/Simple-Line-Icons.ttf') format('truetype'),
+		url('fonts/Simple-Line-Icons.svg#Simple-Line-Icons') format('svg');
+	font-weight: normal;
+	font-style: normal;

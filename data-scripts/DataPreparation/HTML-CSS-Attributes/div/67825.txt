@@ -1,0 +1,1 @@
+ background: url(../img/contact.jpg) center no-repeat / cover; 

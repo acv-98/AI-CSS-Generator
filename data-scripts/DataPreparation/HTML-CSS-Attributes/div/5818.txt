@@ -1,0 +1,9 @@
+	width:730px;
+	background:url(../images/bg-content.png);
+	padding:20px 30px 200px;
+	margin:0 0 20px;
+	font-family:arial;
+	font-size:30px;
+	color:#F6008A;
+	font-weight:normal;
+	line-height:24px;

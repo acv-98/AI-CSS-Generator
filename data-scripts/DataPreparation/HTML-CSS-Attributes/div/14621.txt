@@ -1,0 +1,9 @@
+        width:15%;
+        float: left;
+        margin-right: 10%;
+    height: 56px;
+    line-height: 56px;
+    color:#444;
+    background: url(../images/info_iconbg.png) no-repeat;
+    font-size: 1.5rem;
+    padding-left: 15px;

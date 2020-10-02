@@ -1,0 +1,1 @@
+  background: url(../images/icons/icon-open-map.png) left no-repeat;

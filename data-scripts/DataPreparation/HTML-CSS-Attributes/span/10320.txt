@@ -1,0 +1,5 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/tr-corner.png', sizingMethod='image');
+	position:absolute;
+	top:0;
+	left:585px;

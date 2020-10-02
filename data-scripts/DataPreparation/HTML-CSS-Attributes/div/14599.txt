@@ -1,0 +1,11 @@
+        width: 22px;
+        height: 22px;
+        line-height: 22px;
+        font-size: .675rem;
+    margin-top:40px;
+    border:1px solid #fff;
+    color:#fff;
+    text-align: center;
+    display: inline-block;
+    transition: all .6s;
+    background: #fff;

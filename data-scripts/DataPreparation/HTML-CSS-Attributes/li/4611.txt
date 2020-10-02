@@ -1,0 +1,10 @@
+	margin-right:0;
+	background:none;
+	width:150px;
+	padding:10px 15px;
+	line-height:15px;
+	border-top-width:0;
+	border-bottom:1px solid #72afe6;
+	color:#fff;
+	text-shadow:none;
+	background-color:rgb(77, 141, 196);

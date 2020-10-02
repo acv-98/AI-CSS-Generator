@@ -1,0 +1,7 @@
+-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both
+ * Bootstrap v3.3.1 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ *  Font Awesome 4.2.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+background-color:rgba(0,0,0,0.5); left:15px; padding:5px 8px; position:absolute; top:10px; width:auto !important; z-index:5color:#fff !important; margin-bottom:0color:#fff !importantbottom:15px; color:#fff; font-size:20px; left:0; line-height:23px; margin:0 20px; padding:20px 0; position:absolute; right:0; text-align:center; width:auto; z-index:5color:#fff.slider_tittle

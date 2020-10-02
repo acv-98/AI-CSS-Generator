@@ -1,0 +1,22 @@
+	position: absolute;
+	z-index: 2000;
+	top: 50%;
+	width: 40px;
+	height: 40px;
+	border: 8px solid #ddd;
+	text-indent: -90000px;
+	margin-top: -40px;
+	cursor: pointer;
+	
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+	border-color: rgba(150,150,150,0.9);
+	left: 5%;
+	border-right: none;
+	border-top: none;
+	right: 5%;
+	border-left: none;
+	border-bottom: none;

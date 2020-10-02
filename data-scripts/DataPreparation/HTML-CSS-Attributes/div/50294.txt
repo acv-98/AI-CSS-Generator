@@ -1,0 +1,14 @@
+	position:absolute;
+	top:-27px;
+	width:281px;
+	height:154px;
+	padding:72px 30px 42px 29px;
+	color:#565d54;
+	text-decoration:underline;
+	font-family:"Comic Sans MS", Arial, sans-serif;
+	font-size:18px;
+	line-height:18px;
+	list-style:none;
+	background:url(images/bullet.gif) no-repeat 0 9px;
+	padding-top:15px;
+	right:-137px;

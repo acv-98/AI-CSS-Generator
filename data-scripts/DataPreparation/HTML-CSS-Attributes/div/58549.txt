@@ -1,0 +1,18 @@
+	float:left;
+	display:inline-block;
+	border-radius: 30em;
+	-webkit-border-radius: 30em;
+	-moz-border-radius: 30em;
+	-o-border-radius: 30em;
+	vertical-align: middle;
+	color: #FFF;
+	margin-left: 1em;
+	font-weight: 600;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+		width: 70%;
+		color: #FFF;
+		font-weight: 600;
+		font-size: 0.7em;

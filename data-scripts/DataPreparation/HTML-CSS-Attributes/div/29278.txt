@@ -1,0 +1,9 @@
+    min-height: 140px;
+    padding: 20px;
+    background-color: #4380B8;
+        max-height: 60px;
+        text-align: right;
+        position: relative;
+        color: #fff;
+        font-weight: 800;
+        line-height: 25px;

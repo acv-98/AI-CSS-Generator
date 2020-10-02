@@ -1,0 +1,49 @@
+   margin-bottom: 12px;
+   border-top: 1px dotted #d8d8d8;
+   padding-top: 36px;
+   position: relative;
+ padding-right: 16.66667%;  font: 31px/42px raleway-bold, sans-serif; #journal .entry-header .permalink {
+   top: 18px;
+   right: 60px;
+   z-index: 999999;
+   color: #fff;
+   display: block;
+   text-align: center;
+   background-color: #9199A1;
+   width: 48px;
+   height: 48px;
+	border-radius: 100%;
+   -webkit-transition:all .3s ease-in-out;
+   -moz-transition:all .3s ease-in-out;
+   -o-transition:all .3s ease-in-out;
+   transition:all .3s ease-in-out;
+   font-size: 24px;
+   line-height: 48px;
+   margin-top: 12px;
+   font-family: notosans-bold, sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+  padding-right: 16.66667%; #journal .entry .post-content p {
+   margin-left: 3px;
+ color: #313131; .post .entry-header h1 a:hover,
+ color: #11ABB0; .post .post-meta {
+   padding-right: 30px;
+ display: none;    #journal .entry-header .entry-title,
+   #journal .entry .post-content {
+     width: 75%;
+     padding-right: 30px;
+ margin-left: 25%;  width: 25%;  text-align: center;  padding-right: 20px;       display: none;
+      z-index: 1;
+      padding: 0 30px;
+      margin-bottom: 6px;
+      right: 0;
+      text-align: center;
+      margin-top: 18px;
+      margin-left: 0;
+ text-align: center;    #journal .entry .post-meta time,
+   #journal .entry .post-meta .dauthor {
+      content: "/";
+      padding-left: 5px;
+      padding-right: 5px;
+ font: 32px/42px raleway-semibold, sans-serif;       font-size: 28px;
+      line-height: 36px;

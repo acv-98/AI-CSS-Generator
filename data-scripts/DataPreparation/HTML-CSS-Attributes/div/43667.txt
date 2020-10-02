@@ -1,0 +1,14 @@
+ display:block; vertical-align:baseline; width:100%; text-align:left;  margin-top:10px;  width:auto; font-size:1.5em; margin-bottom:10px; 	background: none repeat scroll 0 0 #EBECED;
+	border: 1px solid #DDDDDD;
+	clear: both;
+	padding: 20px;
+	position: relative;
+	margin-bottom: 20px;
+	display: table;
+	width: 97%;
+	color: #555657;
+	float: left;
+	font-size: 20px !important;
+	line-height: 18px;
+	vertical-align: middle;
+	text-align: right;

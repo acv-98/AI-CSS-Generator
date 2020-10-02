@@ -1,0 +1,3 @@
+margin: 0;list-style: none; display: inline-block;color: #f85c5e; font-size: 13px; line-height: 20px; font-family: 'open_sansbold';text-decoration: none; color: #fff;
+   Responsive Tweaks starts here
+  .navbar .btn-navbar{background: #f85c5e; color: #fff; margin-top: 20px; margin-bottom: 3px; float: none !important;

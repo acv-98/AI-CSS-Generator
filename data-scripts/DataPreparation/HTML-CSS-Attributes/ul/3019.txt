@@ -1,0 +1,7 @@
+	margin:20px 0 40px 0;
+	float:left;
+	list-style:none;
+	margin-right:10px;
+	background:#333;
+	text-shadow:none;
+		margin-bottom:10px;

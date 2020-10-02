@@ -1,0 +1,4 @@
+	font-size: 0.85em;
+	color: #414A5A;
+	font-weight: 600;
+	line-height: 1.8em;

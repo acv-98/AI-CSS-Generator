@@ -1,0 +1,6 @@
+	float:left;
+	padding-right:43px !important;
+	width:80px !important;
+	font-size:40px;
+	line-height:1.2em;
+	text-decoration:none;

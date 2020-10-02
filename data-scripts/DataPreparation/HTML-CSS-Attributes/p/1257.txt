@@ -1,0 +1,6 @@
+    font-weight: 300;
+    margin: 0 10px;
+    color: #666;
+    padding: 0;
+	color: #171717;
+	font-weight: bold;

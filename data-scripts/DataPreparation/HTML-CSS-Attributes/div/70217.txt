@@ -1,0 +1,1 @@
+ margin:0 auto; padding:20px 456px 0 56px; width:492px; height:285px; background:#fff url(images/hbg_img.jpg) no-repeat top center; float:right; padding-top:32px;

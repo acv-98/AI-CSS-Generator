@@ -1,0 +1,1 @@
+ background: #dad2cb; border:1px solid #bdb0a5; border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px; color:#816d58; font:bold 9px/1 helvetica,arial,sans-serif; padding: 4px 5px 4px;  text-align:center; width:36px;  background:#cfdee7; border:1px solid #fff;  color:#816d58; text-decoration:none; text-transform:uppercase; 

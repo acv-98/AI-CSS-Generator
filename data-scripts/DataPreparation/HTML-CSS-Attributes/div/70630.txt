@@ -1,0 +1,8 @@
+  text-align: center;
+  padding: 0 2em;
+  margin-bottom: 40px;
+  float: left;
+  width: 100%;
+    padding: 0 0em;
+  font-size: 22px;
+  color: #52d3aa;

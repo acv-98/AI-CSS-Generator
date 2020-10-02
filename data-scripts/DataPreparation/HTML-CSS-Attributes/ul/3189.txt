@@ -1,0 +1,6 @@
+    font-size: 12px;
+    margin-bottom: 10px;
+    color: #333;
+    margin-left: 15px;
+    padding-left: 18px;
+    background: url('../img/list.png') no-repeat;

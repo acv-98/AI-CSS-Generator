@@ -1,0 +1,2 @@
+clear:both;padding:0 20px;margin:20px 0;margin-top:1em;margin-bottom:1em;color:#20201f;font-size:1.214em;border-bottom:1px solid #bebaba;font-weight:normal;padding-bottom:0.357em;margin-top:0;letter-spacing:-1px;
+margin-top:20px;margin-bottom:20px;

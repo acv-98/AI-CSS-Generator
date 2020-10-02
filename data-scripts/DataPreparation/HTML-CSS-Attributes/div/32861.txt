@@ -1,0 +1,19 @@
+ margin-top: 30px; 
+.slider-1-nav span {
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	margin: 0 7px;
+	background: #ddd;
+	-moz-border-radius: 12px; -webkit-border-radius: 12px; border-radius: 12px;
+    cursor: pointer;
+    vertical-align: middle;
+ background: #8ec1cd; nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 998;
+	font-size: 18px;
+	color: #fff;
+    line-height: 32px;
+    text-align: center;

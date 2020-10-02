@@ -1,0 +1,1 @@
+margin-top:50px; background:#e18868; padding-top:20px;margin:0 auto; width:960px;width:960px; text-align:center; height:60px; line-height:60px; margin:0 auto; padding-bottom:10px; color:#633039;color:#fff;color:#633039;

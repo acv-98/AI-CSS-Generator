@@ -1,0 +1,4 @@
+	margin:0 auto;
+	padding:12px 20px 0;
+	width:930px;
+	height:324px;

@@ -1,0 +1,18 @@
+	margin-bottom: 50px;
+	max-width: 555px;
+	overflow: hidden;
+ float: left; .tm-home-box-3-info {
+    height: 225px;
+    max-width: 305px;
+    float: right;
+    border: 1px solid #CCC;
+	border-left: none;
+ padding: 40px 30px 44px; 		margin-left: auto;
+		margin-right: auto;
+ padding-bottom: 47px; 		float: none;
+		max-width: 250px;
+		border: 1px solid #CCC;
+		border-top: none;
+	    padding-top: 30px;
+	    padding-bottom: 34px;
+ max-width: 250px; 

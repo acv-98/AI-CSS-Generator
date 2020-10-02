@@ -1,0 +1,6 @@
+	background:url(../images/spiral.gif) no-repeat center;
+	display:block;
+	height:51px;
+	position:relative;
+	top:-29px;
+	width:960px;

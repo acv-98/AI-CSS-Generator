@@ -1,0 +1,12 @@
+	margin: 0em;
+	padding: 0em;
+	list-style: none;
+	font-style: italic;
+	border-top: 1px solid #E6E6E6;
+	text-decoration: none;
+	color: #8F8F8F;
+	display: inline-block;
+	border-radius: 5px;
+	line-height: none;
+	font-weight: bold;
+	padding-top: 0;

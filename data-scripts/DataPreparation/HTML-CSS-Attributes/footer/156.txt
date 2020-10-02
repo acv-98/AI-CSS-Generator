@@ -1,0 +1,18 @@
+        width: 140px;
+        font-size: 18px;
+        margin-right: 2px;
+        float: right;
+        margin-left: 17px;
+        margin-top: 10px;
+        text-align: center;
+        background: #e355fd;
+        border-radius: 20px;
+        display: none;
+    padding: 105px 0
+    height: 220px;
+.wrapper footer.footer .text p {
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 40px;

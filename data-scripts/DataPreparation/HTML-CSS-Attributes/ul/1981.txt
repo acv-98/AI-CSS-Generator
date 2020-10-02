@@ -1,0 +1,18 @@
+		margin-left: 24px;
+		width: 160px;
+	display: block;
+	padding-bottom: 70px;
+	float: left;
+	margin-bottom: 21px;
+	line-height: 0em;
+	background: url(../img/plus.png) no-repeat center center;
+	-webkit-box-shadow: 3px 3px 0px rgba(0,0,0,.2); 
+	-moz-box-shadow: 3px 3px 0px rgba(0,0,0,.2); 
+	box-shadow: 3px 3px 0px rgba(0,0,0,.2);
+	max-width: 100%;
+	
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	opacity: 0.15;

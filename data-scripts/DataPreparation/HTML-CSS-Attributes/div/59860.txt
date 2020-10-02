@@ -1,0 +1,5 @@
+	color:#50c0e9;
+	text-align:center;
+	margin-bottom:30px;
+	float:right;
+	margin-right:30px;

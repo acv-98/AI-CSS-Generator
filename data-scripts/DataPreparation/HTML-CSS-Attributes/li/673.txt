@@ -1,0 +1,2 @@
+background: url(../img/icons/social/evernote.png) no-repeat;	background: url(../img/icons/social2/evernote.png) no-repeat 0 0;
+	background-color: #77ba2f;

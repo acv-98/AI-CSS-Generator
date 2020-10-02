@@ -1,0 +1,16 @@
+    overflow:hidden;
+    padding:18px 11px 0 17px;
+    height:390px;
+    width:450px;
+    float:left;
+    color:#4e4e4e;
+    font-size:21px;
+    line-height:normal;
+    font-family:"HelveticaNeueLT Pro Bdcn", sans-serif;
+    text-align:right;
+    ]padding:0 20px 10px 0;
+    margin:0;
+    display:block;
+    font-weight:bold;
+    background:url(../images/button_bg.png) 0 0 no-repeat;
+    position:relative;

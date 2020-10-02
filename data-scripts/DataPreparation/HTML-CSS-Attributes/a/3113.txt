@@ -1,0 +1,4 @@
+  background: none repeat scroll 0 0 #999;
+  cursor: default;
+	background: #92c500;
+	color: #fff;

@@ -1,0 +1,8 @@
+	float:left;
+	margin:0 30px 10px 0;
+	margin-right:0;
+	margin-bottom:4px;
+	text-transform:uppercase;
+	clear:both;
+	padding-right:25px;
+	color:#c0c0c0;

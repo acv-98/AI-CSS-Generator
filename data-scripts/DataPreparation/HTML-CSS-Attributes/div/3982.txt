@@ -1,0 +1,11 @@
+	margin: 0 16px 0px 0px !important;
+	cursor: pointer;
+	min-width: 10px;
+	margin-left: 0 !important;
+	padding-top: 36px;
+	font-size: 24px;
+	color: #79302b;
+	margin-bottom: 17px;
+	background: url(../images/hor_separator.png) center 50px no-repeat;
+	padding-left: 10px;
+	padding-bottom: 3px;

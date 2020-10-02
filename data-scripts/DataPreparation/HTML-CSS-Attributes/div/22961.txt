@@ -1,0 +1,16 @@
+  color: #78ADC9;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+    border-top: 1px solid rgba(160, 160, 160, 0.2);
+      color: #ffab40;
+      margin-right: 20px;
+      -webkit-transition: color .3s ease;
+      -moz-transition: color .3s ease;
+      -o-transition: color .3s ease;
+      -ms-transition: color .3s ease;
+      transition: color .3s ease;
+  float: left;
+  padding: 15px;
+  width: 100%;
+margin-right: 0px;

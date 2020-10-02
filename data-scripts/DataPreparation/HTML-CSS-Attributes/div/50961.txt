@@ -1,0 +1,6 @@
+	color:#fff;
+	font-size:22px;
+	font-style:italic;
+	line-height:22px;
+	padding-top:10px;
+	text-decoration:underline;

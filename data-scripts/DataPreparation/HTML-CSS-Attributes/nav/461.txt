@@ -1,0 +1,17 @@
+  background-color: #fff;
+  border: none;
+  margin-bottom: 0px;
+  float: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 26px;
+  line-height: 50px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #46bae2!important;
+  transition: all 0.5s;
+  margin-left: 30px;
+  border-color: #f2745f;
+  right: 15px;
+    float: none;
+    border-color: transparent;
+    background-color: #f2745f;

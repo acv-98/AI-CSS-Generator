@@ -1,0 +1,11 @@
+	width:586px;
+	font:12px/20px Arial, Helvetica, sans-serif;
+	color:#fff;
+	padding:0 20px;
+	padding-left:40px;
+	background:#171717;
+	white-space:nowrap;
+	text-decoration:none;
+	display:inline-block;
+	margin-bottom:4px;
+	line-height:40px;

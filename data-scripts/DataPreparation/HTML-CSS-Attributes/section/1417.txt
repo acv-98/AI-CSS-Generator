@@ -1,0 +1,13 @@
+        padding-right: 0px;
+        margin: 0 auto 100px;
+        padding-top: 0;
+    height: 365px;
+    color: #121212;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #853bfe;

@@ -1,0 +1,7 @@
+  font-family: 'Montserrat', sans-serif;
+  color: #28262b;
+    padding-left: 12%;
+  margin-left: 0;
+    font-size: 1.875rem;
+    line-height: 1;
+    position: relative;

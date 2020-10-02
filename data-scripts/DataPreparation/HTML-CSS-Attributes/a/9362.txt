@@ -1,0 +1,13 @@
+    color: #fff;
+    font-size: 30px;
+    font-weight: 100;
+    position: relative;
+    text-decoration: none;
+    padding: 10px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+    width: 100%;
+    background: #f7f7f7;

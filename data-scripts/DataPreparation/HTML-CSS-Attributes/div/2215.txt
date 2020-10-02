@@ -1,0 +1,14 @@
+	border-left:2px solid #ada5ad;
+	padding:0 0 0 69px;
+	margin-bottom:100px;
+	padding-bottom:0;
+	font-size:14px;
+	font-weight:300;
+	color:#UIzards;
+	line-height:normal;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	font-family: 'Crimson Text', serif;
+	font-style:italic;
+		padding:0;
+		margin-bottom:50px;

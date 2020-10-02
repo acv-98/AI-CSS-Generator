@@ -1,0 +1,11 @@
+	float:right;
+	width:245px;
+	margin:0;
+	padding:0;
+	list-style:none;
+	background:#f9f9f9 url(images/ul_li.gif) 10px 10px no-repeat;
+	font:normal 14px Arial, Helvetica, sans-serif;
+	color:#464646;
+	border:1px solid #eeeeee;
+	text-decoration:none;
+	border-bottom:1px dashed #6d6d6d;

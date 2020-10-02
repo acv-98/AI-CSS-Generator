@@ -1,0 +1,1 @@
+padding:25px 30px 25px 30pxbackground:url(images/box2-tail.gif) repeat-y left top;width:208pxbackground:url(images/box2-top.gif) no-repeat left topbackground:url(images/box2-bot.gif) no-repeat left bottom;min-height:432px;height:auto!important;height:432pxcolor:#7a2d2e

@@ -1,0 +1,4 @@
+	width:284px;
+	height:397px;
+	background:url(../images/banner1-bg.jpg) 0 0 no-repeat;
+	float:left;

@@ -1,0 +1,4 @@
+    padding-left: 50px;
+    max-height: 470px;
+    overflow-y: scroll;
+      margin-top: 40px

@@ -1,0 +1,3 @@
+  float: right;
+  width: 75%;
+  color: #000;

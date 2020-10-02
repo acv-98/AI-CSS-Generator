@@ -1,0 +1,3 @@
+	color: #B9B9B9;
+	text-transform: uppercase;
+	font-size:15px;

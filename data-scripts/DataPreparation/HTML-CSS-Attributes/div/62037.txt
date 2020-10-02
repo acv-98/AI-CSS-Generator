@@ -1,0 +1,16 @@
+    bottom: 95px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    left: 15px;
+    line-height: 24px;
+    right: auto;
+    text-align: left;
+    text-shadow: none;
+    width: 570px;
+    margin: 0;
+    text-transform: uppercase;
+        bottom: 165px;
+        width: 450px;
+        font-size: 15px;
+        line-height: 18px;

@@ -1,0 +1,2 @@
+	width: 19.5%;
+	font-size: 0.9em;

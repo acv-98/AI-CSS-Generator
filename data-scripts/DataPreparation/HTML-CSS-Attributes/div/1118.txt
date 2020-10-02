@@ -1,0 +1,6 @@
+  margin-bottom: 4em;
+  font-size: 24px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  position: relative;
+  font-weight: 900;

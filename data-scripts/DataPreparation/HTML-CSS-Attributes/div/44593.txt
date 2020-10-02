@@ -1,0 +1,12 @@
+	padding: 10px; 
+	font-size: 14px;
+	line-height: 1.5em;
+	margin-bottom: 1.5em;
+	display: block;
+	overflow: hidden;
+	float: left;
+	width: 460px;
+	position: relative;
+	bottom: 0px;
+	left: 10px;
+	background: white;

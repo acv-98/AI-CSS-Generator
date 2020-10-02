@@ -1,0 +1,4 @@
+	clear:both;
+	border-bottom:1px #ddd dotted;
+	padding-top:40px;
+	margin-bottom:55px;

@@ -1,0 +1,4 @@
+	background:url(images/bg_btn_gold.png) no-repeat top left;
+	margin-left:20px;
+	padding:0;
+	text-shadow:1px 1px 1px #B6A359;

@@ -1,0 +1,14 @@
+   -webkit-transition: background-color .3s ease-in;
+   -moz-transition: background-color .3s ease-in;
+   -o-transition: background-color .3s ease-in;
+   transition: background-color .3s ease-in;
+	padding:5px 10px;
+	font-family: 'BebasNeueRegular',Arial, Helvetica, sans-serif;
+	font-size:16pt;
+	color: white;
+	border:1px solid #d5d5d5;
+	background-color:#dbdada;
+	float:right;
+	text-align:right;
+	margin-right:10px;
+	padding-top:0px !important;

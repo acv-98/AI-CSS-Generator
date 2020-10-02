@@ -1,0 +1,17 @@
+  border-right: 1px solid rgba(0, 0, 0, 0.06);
+    border-right: 0;
+    margin-bottom: 80px;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-size: cover;
+  width: 88px;
+  height: 88px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  font-style: italic;
+  line-height: 1.6em;
+  color: #555555;

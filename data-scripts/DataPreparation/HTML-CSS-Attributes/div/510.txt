@@ -1,0 +1,5 @@
+	background:url(../images/slider.jpg) 0 bottom repeat-x;
+	margin-bottom:38px;
+	padding-bottom:3px;
+	overflow:hidden;
+	min-height:357px;

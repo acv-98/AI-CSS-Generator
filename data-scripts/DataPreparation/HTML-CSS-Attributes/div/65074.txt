@@ -1,0 +1,13 @@
+    float: left;
+    font-size: 12px;
+    line-height: 15px;
+    margin-right: 20px;
+    width: 330px;
+    padding-top:60px;
+    margin-bottom: 15px;
+        display: inline-block;
+        float: none;
+        margin-right: 15px;
+        padding: 0;
+        text-align: left;
+        width: 60%;

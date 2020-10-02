@@ -1,0 +1,8 @@
+padding:38px 0; margin:18px 0.serviceBlock i {
+float: left;
+color: #00B8FF;
+font-size: 6em;
+text-align: center;
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;

@@ -1,0 +1,13 @@
+	display: block;
+	background-color: #ac2135;
+	width: 34px;
+	margin-right: 8px;
+	float: left;
+	color: #fff;
+	margin-top: -1px;
+	padding-top: 2px;
+	height: 36px;
+	text-align: center;
+	font: 24px/18px 'Pathway Gothic One', sans-serif;
+	margin-bottom: 8px;
+	font-size: 14px;

@@ -1,0 +1,6 @@
+  overflow: hidden;
+  *overflow: visible;
+  zoom: 1;
+	color: #94c045;
+	text-decoration:none;
+  color: #494949;

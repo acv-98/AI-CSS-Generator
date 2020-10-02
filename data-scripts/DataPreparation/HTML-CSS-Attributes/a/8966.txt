@@ -1,0 +1,14 @@
+  background-color: rgba(0, 0, 0, 0.5);
+  display: block;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  float: left;
+  width: 35%;
+  margin-right: 40px;
+    margin-right: 20px;
+    width: 42%;
+    max-width: 100%;
+    margin-bottom: 20px;

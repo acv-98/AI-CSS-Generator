@@ -1,0 +1,1 @@
+padding-top: 30px !important;margin: 0 -20px !important; padding: 0 20px !important; padding-top: 30px !important;text-align: center; padding-top: 65px; background: #fafafa; border-radius: 3px 3px 0 0;

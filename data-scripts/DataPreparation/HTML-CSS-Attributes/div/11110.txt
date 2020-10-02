@@ -1,0 +1,17 @@
+ behavior:url(../js/PIE.htc); position:relative;
+	overflow: hidden;
+	margin-bottom: 15px;
+	padding-top: 1px;
+	margin-top: 23px;
+	border-top: 1px solid #dedbdb;
+	text-align: center;
+	display: block;
+	background-color: #38afe5;
+	border-radius: 500px;
+	color: #fff;
+	width: 39px;
+	height: 30px;
+	font-size: 11px;
+	line-height: 11px;
+	float: left;
+	margin-right: 13px;

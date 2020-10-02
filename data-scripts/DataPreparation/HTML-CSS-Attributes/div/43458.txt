@@ -1,0 +1,4 @@
+    margin: 0 auto;
+    padding-bottom: 60px;
+    color: #888;
+    text-align: center;

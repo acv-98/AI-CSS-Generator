@@ -1,0 +1,48 @@
+	font-size:15px;
+	font-family:"Open Sans";
+	font-weight:bold;
+	font-style:italic;
+	color:#368fb1;
+	text-shadow: none;
+	padding:5px 19px 5px 28px;
+		background: url(../images/design/button-cut.png) no-repeat scroll top right #404040;
+		display: block;
+		float: left;
+		text-decoration:none !important;
+		height: 36px;
+		padding-right: 8px; 
+		margin-bottom:5px;
+		line-height: 26px;
+		font-weight:bold;
+		font-size:12px;
+		color:#ffffff;
+		font-family:Helvetica,arial,freesans,clean,sans-serif;
+background-position: bottom left; background: transparent url(../images/design/buttons/cbutton-denim-blue-cut.png) no-repeat scroll top right;padding-right: 4px;height:22px; 	a.button.color span { 
+		font-style:normal;
+		text-shadow: 0px 1px 1px #333333;
+        filter: dropshadow(color=#333333, offx=0, offy=1);
+background-position:bottom right;background-position:bottom left;    position:absolute;
+	top:370px;
+	left:0;
+	margin-left:0;
+	width: 7px;
+	text-indent: -9999px;
+	border: 0;
+	margin-right:3px;
+	background-position: 0 0;
+float:right;clear:both;top:50px;position:relative;left:0;top:70px;position:relative;left:0;top:70px;position:relative;@media only screen and (min-width: 768px) and (max-width: 959px) {
+left:0;top:70px;position:relative;float:right;clear:both;top:50px;position:relative;top:100px;left:0;float:right;position:relative;display:block;	.body .callout-hr, .body .hr{
+		position:relative;
+		left:-7px;
+		margin-top:12px;
+		width:974px;
+display:inline-block;margin:0;position:relative;top:7px;	.body .blog {
+		max-width:678px;
+color:#f1f1f1;	.body .blog p {
+		padding-bottom:0;
+margin-top:6px;margin-top:6px;margin-right:0;			text-align:center;
+			position:relative;
+			display:inline-block;
+float:none;		.body .callout .button-wrap .wrapper {
+			margin-left:6px;
+left:145px;left:85px;

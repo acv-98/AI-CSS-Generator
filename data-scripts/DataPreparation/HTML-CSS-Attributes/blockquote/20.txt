@@ -1,0 +1,15 @@
+	behavior:url("../js/PIE.htc");
+	position:relative
+	font-size:12px;
+	line-height:18px;
+	padding:0 0 15px 0;
+	display:inline-block;
+	background:url(../images/quote-before.png) no-repeat 0 0;
+	content:"";
+	width:18px;
+	height:14px;
+	margin:0 5px 0 0;
+	border-radius:6px;
+	box-shadow:1px 1px 0 0 #fff;
+	right:20px;
+	bottom:-22px;

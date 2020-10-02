@@ -1,0 +1,1 @@
+ padding: 0px 20px 40px 40px; font-style: italic; color: #7a8387; font-size: 16px; 

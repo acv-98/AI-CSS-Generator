@@ -1,0 +1,2 @@
+padding:0px 0 8px 15px; font-size:11px; line-height:22px; color:#fff; text-transform:uppercase; background:url(../images/marker-1.gif) 0 8px no-repeat;color:#fff;text-decoration:underline;text-decoration:none;
+float:left; width:190px; margin-right:40px;

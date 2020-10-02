@@ -1,0 +1,11 @@
+  display: none;
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+	background-color:transparent;
+  background: hsl(0, 0%, 0%) none repeat scroll 0 0;
+  margin: 0 auto;
+  text-align: right;
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 0%);

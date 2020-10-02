@@ -1,0 +1,11 @@
+  max-width: 1245px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 70px;
+  font-size: 16px;
+  color: #636262;
+  padding-bottom: 25px;
+  border-bottom: 1px #C1C1C1 dashed;
+  display: block;
+   text-align: center;
+  font-family: Roboto-Light;

@@ -1,0 +1,11 @@
+ display: none;	    margin-right: auto;
+	    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    border-bottom: 2px solid transparent;
+    padding: 10px 0;
+    transition: all 0.5s;
+    color: #ffffff;
+ margin-right: 30px .ipad-wrapper .app-wrap {
+    position: relative;
+    width: 395px;

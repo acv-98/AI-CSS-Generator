@@ -1,0 +1,14 @@
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 66px;
+	margin-top: 0;
+	margin-left: 30px;
+	padding-left: 36px;
+	border-left: 1px solid rgba(150, 150, 150, 0.2);
+	float: left;
+	position: relative;
+	top: -1px;
+	display: inline-block;
+	margin-right: 15px;
+	color: #FFFFFF;
+		display: none;

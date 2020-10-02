@@ -1,0 +1,7 @@
+  color: #a5d549;
+  border-bottom: 1px solid #ddd;
+  display: block;
+  margin-bottom: 0;
+  padding: 8px 0;
+  float: right;
+  margin-left: 15px;

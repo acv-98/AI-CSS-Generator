@@ -1,0 +1,1 @@
+ position: relative; color: #000; height: 62px; margin-bottom: 15px;  font-family: Georgia, serif; font-size: 16px; text-transform: uppercase;  position: absolute; left: 0; top: 0; font-size: 48px;  position: absolute; left: 60px; top: 20px;   position: absolute; left: 60px; top: 40px; 

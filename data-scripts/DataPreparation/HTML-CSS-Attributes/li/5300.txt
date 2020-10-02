@@ -1,0 +1,4 @@
+	text-decoration:none;
+	color:#fff;
+	background:#95cef1;
+	border:1px solid #ebe8e8;

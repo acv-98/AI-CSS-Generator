@@ -1,0 +1,6 @@
+  display: block;
+  height: 70px;
+  width: 85px;
+	opacity: 0.8;
+  margin-right: 10px;
+margin-right: 0px;width: 45px;height: 45px;height: 45px;width: 45px;

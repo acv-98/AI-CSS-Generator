@@ -1,0 +1,5 @@
+  font-size: 32px;
+  color: #199EB8;
+  float: left;
+  padding: 0 0 10px 50px;
+  line-height: 24px;

@@ -1,0 +1,5 @@
+	padding-bottom: 0;
+	margin-bottom: 18px;
+	font: 24px/26px 'Dosis', sans-serif;
+	padding-top: 1px;
+	line-height: 20px;

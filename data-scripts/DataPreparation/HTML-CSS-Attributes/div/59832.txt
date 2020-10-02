@@ -1,0 +1,9 @@
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 30px;
+  border: 5px solid #ffffff;
+  border-radius: 50%;
+  margin-top: -110px;
+  margin-bottom: 5px;
+  font-size: 13px;
+  color: #9e9e9e;

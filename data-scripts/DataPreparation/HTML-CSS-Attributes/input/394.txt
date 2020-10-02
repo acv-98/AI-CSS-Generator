@@ -1,0 +1,6 @@
+  margin-right: 20px !important;
+  color: #ffffff !important;
+  font-size: 65px !important;
+  font-weight: bold !important;
+  width: 77px !important;
+  font-family: 'Open Sans', sans-serif !important;

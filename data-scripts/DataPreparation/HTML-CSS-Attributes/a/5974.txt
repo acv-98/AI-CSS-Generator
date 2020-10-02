@@ -1,0 +1,3 @@
+  border: 2px solid #FA5555;
+  background: #FA5555;
+  color: #fff;

@@ -1,0 +1,2 @@
+	height:116px;
+	overflow:hidden;

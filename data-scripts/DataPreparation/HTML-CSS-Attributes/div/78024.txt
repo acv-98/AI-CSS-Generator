@@ -1,0 +1,9 @@
+	margin-left:40px;
+  font-size: 14px;
+  color: #8a8d94;
+  margin: 0;
+  font-weight: 300;
+  border-bottom: 1px solid #2c2d2e;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  display: block;

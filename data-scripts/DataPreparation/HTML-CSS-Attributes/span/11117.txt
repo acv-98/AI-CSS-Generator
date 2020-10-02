@@ -1,0 +1,1 @@
+	background: url('../img/coffee-day.png') no-repeat left 7px;

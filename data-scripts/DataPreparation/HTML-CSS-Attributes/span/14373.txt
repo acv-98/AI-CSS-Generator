@@ -1,0 +1,6 @@
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  width: 30px;
+  background: #2185d5;

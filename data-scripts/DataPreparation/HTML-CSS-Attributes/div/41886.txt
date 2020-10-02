@@ -1,0 +1,10 @@
+     padding: 9px 30px;
+     border: none;
+     margin: 10px 0 10px;
+     font-size: 16px;
+     text-transform: none;
+     letter-spacing: 0px;
+     background: #d8302f;
+     border-radius: 0px;
+     transition: ease all 1s;
+     color: #fff;

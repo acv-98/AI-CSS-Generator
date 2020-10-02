@@ -1,0 +1,4 @@
+  width: 100%;
+  display: block;
+  margin-bottom: 30px;
+  height: 239px;

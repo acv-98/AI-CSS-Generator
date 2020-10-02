@@ -1,0 +1,4 @@
+    display: flex;
+    margin: 0 5px;
+        display: grid;
+        margin: 3px 0; 

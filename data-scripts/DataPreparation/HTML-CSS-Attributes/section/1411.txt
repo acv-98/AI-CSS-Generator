@@ -1,0 +1,1 @@
+ width: 74.2331288%; min-width: 726px; overflow: hidden; float: left; display: block; height: 100%; min-width: 556px;  width: 100%  width: 100%  width: 100% 

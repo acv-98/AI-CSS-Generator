@@ -1,0 +1,7 @@
+  background: none repeat scroll 0 0 #a5d549;
+  float: left;  
+  display: inline;  
+  width: 100%; 
+  text-align: center;
+  margin-bottom: 40px;  
+  height: 5px;    

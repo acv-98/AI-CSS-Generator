@@ -1,0 +1,4 @@
+ margin-right: 0px; 	
+	#contactForm{ 
+		width: 528px;
+		margin-right: 24px;

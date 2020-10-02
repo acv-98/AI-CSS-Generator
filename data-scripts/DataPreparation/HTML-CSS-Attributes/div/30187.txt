@@ -1,0 +1,4 @@
+	width:100%;
+	min-height:85px;
+	position:relative;
+	z-index:1

@@ -1,0 +1,47 @@
+  background-position: 0      0;
+  width: 16px;
+  display: block;
+  height: 2px;
+  background-color: #f5f5f5;
+  -webkit-border-radius: 1px;
+     -moz-border-radius: 1px;
+          border-radius: 1px;
+  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+  margin-top: 3px;
+color: #2d6e84; font-size: 35px;.icon {
+ 
+ position: relative;
+ content: "";
+ top: -25px;
+ left: 0;
+ border-left: 40px solid transparent;
+ border-right: 40px solid transparent;
+ border-bottom: 25px solid #f9b701;
+ bottom: -25px; left: 0;
+ border-top: 25px solid #f9b701;
+color: #bcbcbc; font-size: 25px;.icon1 {
+margin-top: 5px;	.icon2{ border-radius: 23px;
+		color: #2d6e84;
+		font-size: 10px;
+		display: inline-block !important;
+		cursor: pointer;
+		width: 15px !important;
+		height: 14px !important;
+		border-radius: 50%;
+		text-align: center;
+		position: relative;
+		z-index: 1;
+		padding: 12px;
+		background: #f9b701;
+		margin-bottom: 7px;
+		float: left;
+		margin-right: 15px;
+  font-size: 1.3333333333333333em;
+  padding-top: 3px;
+  margin-bottom: -4px;
+  padding-bottom: 3px;
+  vertical-align: middle;
+  line-height: .75em;
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf000;');

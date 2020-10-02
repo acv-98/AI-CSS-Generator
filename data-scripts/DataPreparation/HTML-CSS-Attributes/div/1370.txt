@@ -1,0 +1,6 @@
+    margin: 70px auto;
+    color: #ececec;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+    font-size: 32px;

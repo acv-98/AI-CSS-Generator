@@ -1,0 +1,18 @@
+	margin: 0 auto;
+    text-align: center;
+	color:#FFF;
+	font-size: 16px;
+	line-height: 1.5;
+	font-weight:300;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	padding:0;
+	background-color: #85AD90;
+	height: 40px;
+	width: 40px;
+	display: inline-block;
+	text-align: center;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;

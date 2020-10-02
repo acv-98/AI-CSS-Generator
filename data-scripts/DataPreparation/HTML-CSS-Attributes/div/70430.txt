@@ -1,0 +1,11 @@
+  text-align: center !important;
+    display: block;
+    padding: 3rem 2rem;
+    position: relative;
+    text-align: center;
+    border: 6px solid #000000;
+    -webkit-box-shadow: inset 0px 0px 0px 1px #000000;
+    -moz-box-shadow: inset 0px 0px 0px 1px #000000;
+    box-shadow: inset 0px 0px 0px 1px #000000;
+        margin-top: 2rem;
+    border-color: #f9ca27;

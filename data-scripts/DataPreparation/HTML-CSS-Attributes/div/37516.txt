@@ -1,0 +1,11 @@
+    padding-bottom: 64px;
+    padding-top: 64px;
+    width: 3px;
+    background-color: #2a394e;
+    left: 50%;
+    position: absolute;
+    display: block;
+    margin-left: -1px;
+    top: 0;
+    bottom: 36px;
+    content: '';

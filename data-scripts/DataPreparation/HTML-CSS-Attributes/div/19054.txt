@@ -1,0 +1,2 @@
+ background-size:400px;	
+ background-size:327px;background-size: 90% auto; -webkit-background-size: 90% auto;padding-bottom: 68%;	background:#f9f9f9;

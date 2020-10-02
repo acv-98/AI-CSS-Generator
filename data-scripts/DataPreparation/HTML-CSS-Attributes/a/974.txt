@@ -1,0 +1,2 @@
+background:url(../images/nav-h.png) no-repeat; color:#d98c70;
+2 PANELS CLASSS

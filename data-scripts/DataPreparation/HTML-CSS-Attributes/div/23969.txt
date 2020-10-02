@@ -1,0 +1,3 @@
+	background: url(../images/bg-content-borders.png) no-repeat;
+	background-position: -652px bottom;
+	padding-bottom: 11px;

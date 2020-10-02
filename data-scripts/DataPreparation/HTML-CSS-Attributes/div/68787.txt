@@ -1,0 +1,7 @@
+    overflow: hidden;
+    width: 100%;
+    margin-top: 50px;
+    display: inline-block;
+.heretohelp{
+    background: url(../images/heretohelpbg.jpg) no-repeat top center;
+    background-size: cover;

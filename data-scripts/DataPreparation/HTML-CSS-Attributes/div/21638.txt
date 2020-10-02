@@ -1,0 +1,27 @@
+ background: white !important; padding-bottom: 10px !important; 
+    width: 94% !important;
+    float: none !important;
+    margin-right: 0px !important;
+    padding: 0px !important;
+  margin-bottom: 15px;
+  background: none;
+  -webkit-border-top-left-radius: 0px;
+  -moz-border-radius-topleft: 0px;
+  border-top-left-radius: 0px;
+  -webkit-border-top-right-radius: 0px;
+  -moz-border-radius-topright: 0px;
+  border-top-right-radius: 0px;
+  -webkit-border-bottom-left-radius: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  border-bottom-left-radius: 0px;
+  -webkit-border-bottom-right-radius: 0px;
+  -moz-border-radius-bottomright: 0px;
+  border-bottom-right-radius: 0px;
+  max-width: 1000px;
+  background-color: #fff;
+  padding-top: 4px;
+padding: 1.25% 2.04%;width: 28%;.home-row .widget h2 {
+  margin-top: 0;
+  font-size: 25px;
+  padding-right: 4px;
+  color: #d48303;

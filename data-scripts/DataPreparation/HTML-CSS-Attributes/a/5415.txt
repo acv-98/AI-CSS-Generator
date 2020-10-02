@@ -1,0 +1,14 @@
+	display: inline-block;
+	width: 42px;
+	height: 42px;
+	margin: 5px;
+    padding: 11px 0 0 0;
+    font-size: 20px;
+    line-height: 20px;
+    color: #fff;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+ color: #fff; background: #888;  background: #6686b7;  background: #54c0dd;  background: #ff5e63;  *  Font Awesome 4.0.3 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+@media (min-width: 992px) and (max-width: 1199px) {

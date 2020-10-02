@@ -1,0 +1,7 @@
+	background: url(../images/menu-background-bottom.png) no-repeat bottom center;
+	float:left;
+	width:253px;
+	padding-bottom:10px;
+ *padding-bottom:0;
+	margin-bottom:-15px;
+	position:relative;

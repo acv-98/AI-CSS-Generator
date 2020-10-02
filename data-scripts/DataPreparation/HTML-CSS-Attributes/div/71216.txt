@@ -1,0 +1,8 @@
+    padding-left: 65px;
+    color: #333;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 10px;
+    float: left;
+    width: 100%;

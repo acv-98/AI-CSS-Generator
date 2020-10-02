@@ -1,0 +1,1 @@
+text-shadow:1px 1px 1px #000;text-shadow:1px 1px 1px #042332;text-shadow:1px 1px 1px #1f3707;text-shadow:1px 1px 1px #340817;text-shadow:1px 1px 1px #2c0336;text-shadow:1px 1px 1px #470313;background:url("img/reflection.png") no-repeat 50% 0; height:600px;

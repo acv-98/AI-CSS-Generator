@@ -1,0 +1,8 @@
+	border:1px solid #e0e5e3;
+	background:url(../images/box1_bot.gif) bottom repeat-x #f9fffd;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	padding:5px 25px;

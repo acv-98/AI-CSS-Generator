@@ -1,0 +1,30 @@
+		-moz-box-sizing: border-box;
+		box-sizing:border-box;
+		background:#fdfdfd;
+		border-radius: 100%;
+		padding: 2px;
+		position: relative;
+		max-width:205px;
+		z-index:10000;
+		margin:0 40px 31px 0;
+		transition: all 0.13s cubic-bezier(0.75,0.16,0.98,0.48) 0s;
+margin-right:0;	.circles .columns .icon {
+		width:100%;
+		padding-top:22px;
+		background-color:#fdfdfd;
+border-color:#3f98b9;	.circles .columns .icon .content {
+		text-align:center;
+		font-size:16px;
+		font-weight:600;
+		color:#393939;
+		margin-bottom:4px;
+		font-family:"Open Sans";
+		height:4px;
+		line-height:14px;
+		padding-bottom:39px;
+		display:block;
+background:url(../images/design/drops/buoy.png) no-repeat;background:url(../images/design/drops/gear.png) no-repeat;background:url(../images/design/drops/cart.png) no-repeat;background:url(../images/design/drops/client.png) no-repeat;background:url(../images/design/drops/globe.png) no-repeat;background:url(../images/design/drops/iphone.png) no-repeat;background:url(../images/design/drops/lab.png) no-repeat;background:url(../images/design/drops/pushpin.png) no-repeat;background:url(../images/design/drops/tags.png) no-repeat;background:url(../images/design/drops/tools.png) no-repeat;background:url(../images/design/drops/trophy.png) no-repeat;background:url(../images/design/drops/truck.png) no-repeat;background:url(../images/design/drops/tv.png) no-repeat;background:url(../images/design/drops/umbrella.png) no-repeat;background:url(../images/design/drops/virus.png) no-repeat;margin-right:0;		.footer .content {
+			background:url(../images/design/footer-bg-768.png) top left repeat-y transparent;
+			width:788px;
+max-width:197px;height:197px;height:100%;margin-right:0;max-width:300px;height:300px;margin-right:0;vertical-align:middle;vertical-align:middle;position:relative;top:65px;height:100%;vertical-align:middle; float: left; display: inline; margin-left: 10px; margin-right: 10px;  margin-left: 0;  margin-right: 0;     .container .one.column,
+ width: 40px;   width: 100px;  width: 160px;  width: 220px;  width: 280px;  width: 340px;  width: 400px;  width: 460px;  width: 520px;  width: 580px;  width: 640px;  width: 700px;  width: 760px;  width: 820px;  width: 880px;  width: 940px;  margin-left: 10px; margin-right: 10px;   margin-left: 0; margin-right: 10px;  margin-right: 0; margin-left: 10px;  width: 28px;  width: 76px;  width: 124px;  width: 172px;  width: 220px;  width: 268px;  width: 316px;  width: 364px;  width: 412px;  width: 460px;  width: 508px;  width: 556px;  width: 604px;  width: 652px;  width: 700px;  width: 748px; 

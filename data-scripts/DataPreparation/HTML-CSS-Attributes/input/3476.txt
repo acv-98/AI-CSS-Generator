@@ -1,0 +1,7 @@
+	float:left;
+	margin:0 0 0 5px;
+	padding:0;
+	border:1px solid #000;
+	background:#ea7d1b;
+	color:#fff;
+	font:normal 12px Arial, Helvetica, sans-serif;

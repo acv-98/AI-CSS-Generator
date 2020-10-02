@@ -1,0 +1,1 @@
+float:left; width:111px; font:16px/18px "Futura Hv BT", Arial, Helvetica, sans-serif; color:#3b1f11; padding:16px 0 0 29pxfloat:right; width:443px; font:bold 18px/20px "Adobe Garamond Pro", Arial, Helvetica, sans-serif; color:#fcd35d; background:#e45950; border-left:2px solid #da3e37; border-bottom:2px solid #da3e37; padding:12px 0 9px 33px

@@ -1,0 +1,4 @@
+ padding: 40px;  padding: 80px 40px 30px 80px;	
+	.tm-img-container-1 {
+		margin-bottom: 10px;
+		width: 33.3334%;

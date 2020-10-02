@@ -1,0 +1,12 @@
+	margin:0;
+	padding:24px 20px 48px;
+	font-size:11px;
+	line-height:16px;
+	color:#959595;
+	text-align:left;
+	background:url(../images/article_bg.jpg) repeat left top;
+	display:block;
+	float:left;
+	width:28px;
+	text-decoration:none;
+	border:none;

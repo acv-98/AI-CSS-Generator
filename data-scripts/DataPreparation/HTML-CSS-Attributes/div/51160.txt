@@ -1,0 +1,8 @@
+    float: right;
+    color: #2a2828;
+    overflow: hidden;
+    font-size: 36px;
+    line-height: 38px;
+    margin-left: 23px !important;
+        float: none;
+        margin-bottom: 20px;

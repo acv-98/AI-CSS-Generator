@@ -1,0 +1,7 @@
+	float:left;
+	overflow:hidden;
+	text-indent:-9999px;
+	background:url(../images/logo.gif) no-repeat;
+	width:218px;
+	height:103px;
+	display:block;

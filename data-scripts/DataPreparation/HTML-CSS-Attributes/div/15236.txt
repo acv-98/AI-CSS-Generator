@@ -1,0 +1,9 @@
+	margin:0px;
+	padding:0px;
+	display:block;
+	background:url(../images/disc1.jpg) 0px 4px no-repeat;
+	list-style:none;
+	color:#565656;
+	text-decoration:underline;
+	width:48%;
+	float:left;

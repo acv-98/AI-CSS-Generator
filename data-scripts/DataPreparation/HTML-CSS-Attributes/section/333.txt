@@ -1,0 +1,6 @@
+    background: #202242;
+    padding: 90px 0px;
+    overflow: hidden;
+    font-size:2.25rem;
+    font-family: 'ralewaybold';
+    color:#fff;

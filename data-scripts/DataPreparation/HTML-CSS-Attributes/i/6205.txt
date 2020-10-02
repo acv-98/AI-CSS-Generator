@@ -1,0 +1,7 @@
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+  color: #D2691E;
+  display: table;
+  float: none;
+  margin: 0 auto;
+  font-size: 40px;

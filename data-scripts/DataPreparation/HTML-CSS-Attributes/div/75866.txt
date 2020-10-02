@@ -1,0 +1,1 @@
+background: url(../images/heading_dots_grey.png) repeat-x center

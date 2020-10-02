@@ -1,0 +1,1 @@
+display:block; margin-bottom:20pxdisplay:block; line-height:23px; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5sopacity:0.75margin-bottom:5px; width:100%.logo_area

@@ -1,0 +1,17 @@
+ zoom: 1; 
+@import url("reset.css");
+@import url("form.css");
+body {
+	background: #444;
+	font: 13px/22px Helvetica, Arial, sans-serif;
+    content: "";
+    display: table;
+ clear: both;  * jQuery Nivo Slider v2.5.2
+ * http://nivo.dev7studios.com
+ *
+ * Copyright 2011, Gilbert Pellegrom
+ * Free to use and abuse under the MIT license.
+ * 
+ * March 2010
+.nivoSlider {
+	position:relative;

@@ -1,0 +1,6 @@
+	width:948px;
+	height:398px;
+	margin:0 auto;
+	position:relative;
+	z-index:2;
+	overflow:visible !important;

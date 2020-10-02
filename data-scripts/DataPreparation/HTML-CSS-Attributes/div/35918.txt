@@ -1,0 +1,4 @@
+    border-top:2px solid #534a4a;
+    color:#c5c5c5;
+    padding: 0px 5px;
+    transition: all 0.3s;

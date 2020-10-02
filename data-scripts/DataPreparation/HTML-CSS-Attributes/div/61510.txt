@@ -1,0 +1,8 @@
+border-radius:0; display:nonemargin:0px 0 30px;margin:-10px 0 10px; font-size:16px; text-transform:uppercase;
+.tpl6 h3
+{
+	color:#fff;
+	margin:0;
+	padding:40px 5px 0;
+	font-size:16px;
+	text-transform:uppercase;

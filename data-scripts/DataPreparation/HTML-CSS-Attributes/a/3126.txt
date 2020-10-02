@@ -1,0 +1,8 @@
+border-color:#fff	background:#0D4667;
+	color:#fff;
+	opacity:1;
+	-webkit-border-radius: 0.2em;
+	-moz-border-radius: 0.2em;
+	border-radius: 0.2em;
+    zoom: 1;
+ *display: inline;

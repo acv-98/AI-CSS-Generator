@@ -1,0 +1,1 @@
+background:url(../images/banner_inner.gif) no-repeat 0 44pxfont:24px/26px Georgia, "Times New Roman", Times, serif; color:#221E21; font-style:italic; padding:0; margin:0

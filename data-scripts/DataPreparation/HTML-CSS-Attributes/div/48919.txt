@@ -1,0 +1,25 @@
+	margin:0;
+	padding:2px 0;
+	float:left;
+	width:auto;
+	height:40px;
+	color:#404040;
+	text-shadow:1px 1px 0 #fff;
+	text-decoration:none;
+	padding-top:16px;
+	padding-right:48px;
+	padding-bottom:16px;
+	padding-left:48px;
+	background-attachment:scroll;
+	background-image:url(../images/nav_r.png);
+	background-repeat:no-repeat;
+	background-position:right center;
+.topnav ul li.current_page_item a {
+.topnav ul li ul {
+	top:35px;
+	margin-top:8px;
+	margin-right:0;
+	margin-bottom:0;
+	margin-left:0;
+.topnav ul li ul li {
+	display:block;

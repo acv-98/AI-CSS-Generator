@@ -1,0 +1,6 @@
+  background-color: rgba(59,58,54,0);
+  border-bottom: 1px solid rgba(226,226,226,0);
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  z-index: 3;

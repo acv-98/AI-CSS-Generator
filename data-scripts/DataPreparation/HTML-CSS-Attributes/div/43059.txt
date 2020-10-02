@@ -1,0 +1,15 @@
+	position:relative;
+	margin-top:27px;
+	height:16px;
+	width:16px;
+	border-radius:0;
+	-webkit-transform:rotate(-45deg);
+	-moz-transform:rotate(-45deg);
+	-ms-transform:rotate(-45deg);
+	-o-transform:rotate(-45deg);
+	transform:rotate(-45deg);
+	background:transparent;
+	opacity:.6;
+	-webkit-transition:all .3s ease;
+	-moz-transition:all .3s ease;
+	transition:all .3s ease;

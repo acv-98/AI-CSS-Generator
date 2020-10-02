@@ -1,0 +1,8 @@
+ 	font-size: 7px;
+	padding-top: 10px;
+	margin-top: 2px;
+	text-align: center;
+	border-top: 2px solid #F6F6FB;
+	margin-left:58px;
+	margin-right: 58px;
+	color: #F6F6FB;

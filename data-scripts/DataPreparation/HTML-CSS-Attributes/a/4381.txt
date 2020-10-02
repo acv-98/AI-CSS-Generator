@@ -1,0 +1,7 @@
+	float:left;
+	display:block;
+	background:url(../images/read-more-button-orange.jpg) no-repeat;
+	width:109px;
+	height:38px;
+	text-indent:-9999px;
+	margin:0 0 0 -4px;

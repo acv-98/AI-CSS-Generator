@@ -1,0 +1,4 @@
+	margin:23px 0 0 -8px;
+	background:url(../images/line-2.png) 0 0 no-repeat;
+	width:14px;
+	height:441px;

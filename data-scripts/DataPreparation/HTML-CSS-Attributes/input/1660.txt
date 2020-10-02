@@ -1,0 +1,7 @@
+	background-color:#d46116;
+	padding: 10px 22px;
+	font-family: 'BebasNeueRegular',Arial, Helvetica, sans-serif;
+	font-size:16pt;
+	float:right;
+	border:0px;
+	color:white;

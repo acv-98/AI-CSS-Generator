@@ -1,0 +1,6 @@
+	margin:10px;
+	color:#b9c0c6;
+	font-size:20px;
+	transition:.3s ease-in-out;
+	-webkit-transition:.3s ease-in-out;
+	-moz-transition:.3s ease-in-out;

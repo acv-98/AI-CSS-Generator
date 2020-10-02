@@ -1,0 +1,5 @@
+    background-color: #f3f3f3;
+    padding:40px 20px 55px 20px;
+    width:125px;
+    height: 125px;
+    margin: 0px auto;

@@ -1,0 +1,9 @@
+	display:none;
+	font-size:12px;
+	height:70px;
+	width:160px;
+	padding:25px;
+	color: #ffffff;
+	line-height: 1.3em;
+	z-index: 600;
+background:transparent url(../img/tooltip.png);background:transparent url(../img/tooltip-right.png);background:transparent url(../img/tooltip-bottom.png);background:transparent url(../img/tooltip-left.png);html{

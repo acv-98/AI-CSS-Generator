@@ -1,0 +1,13 @@
+	position: relative;
+	-moz-box-shadow: 0 14px 10px -10px rgba(0, 0, 0, 0.4);
+	-webkit-box-shadow: 0 14px 10px -10px rgba(0, 0, 0, 0.4);
+	box-shadow: 0 14px 10px -10px rgba(0, 0, 0, 0.4);
+	content: '';
+	z-index: -1;
+	bottom: 15px;
+	right: 10px;
+	-moz-transform: rotate(4deg) skewX(4deg);
+	-webkit-transform: rotate(4deg) skewX(4deg);
+	-o-transform: rotate(4deg) skewX(4deg);
+	-ms-transform: rotate(4deg) skewX(4deg);
+	transform: rotate(4deg) skewX(4deg);

@@ -1,0 +1,13 @@
+	float:left;
+	width:152px;
+	padding-top:8px;
+	font-size:10px;
+	color:#fff;
+	font-weight:bold;
+	height:11px;
+	background:url('images/stars.gif') no-repeat 0 0;
+	margin-left:2px;
+	display:inline;
+	position:absolute;
+	line-height:0;
+	text-indent:-4000px;

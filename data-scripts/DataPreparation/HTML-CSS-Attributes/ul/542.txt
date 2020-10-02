@@ -1,0 +1,11 @@
+	float: right;
+	width: 50%;
+	color: #FFF;
+	font-size: 0.8125em;
+	line-height:1.8em;
+	text-decoration: none;
+	list-style-image: url(../images/list_arrow.png);
+	margin: 0 20px 0px;
+	vertical-align: bottom;
+	padding:0;
+		padding: 0;

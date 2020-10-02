@@ -1,0 +1,10 @@
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 25px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  text-align:center;
+  color:#333;
+  text-transform:uppercase;
+  font-weight:600;

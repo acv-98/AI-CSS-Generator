@@ -1,0 +1,2 @@
+ display: inline-block; text-align:center; margin:0 auto; line-height:63px; font-size:16px; font-weight:400; padding:0 53px; color:#FFF; background-color:#6bb551; border-radius:4px; text-transform:uppercase
+background-color:#5ea246; text-decoration:none

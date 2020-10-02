@@ -1,0 +1,6 @@
+  color: #828282;
+  font-size: 0.9em;
+  text-align: justify;
+  margin: 0 10px;
+  border-top: 1px solid #ECECEC;
+  padding: 10px;

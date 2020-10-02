@@ -1,0 +1,6 @@
+	font-size: 0.875em;
+	color: #3D3E41;
+	line-height: 1.7em;
+	float:left;
+	width:48%;
+	margin-right:4%;

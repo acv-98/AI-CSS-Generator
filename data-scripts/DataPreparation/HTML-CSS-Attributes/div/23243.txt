@@ -1,0 +1,9 @@
+	width:1031px;
+	height:96px;
+	margin:auto;
+	background:url(img/twitter_img.png) no-repeat right;
+	display: inline;
+	font-size:48px;
+	font-weight:bold;
+	max-width:200px;
+	float:left;

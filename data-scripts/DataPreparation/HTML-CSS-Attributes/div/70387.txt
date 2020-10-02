@@ -1,0 +1,2 @@
+.main_bloginner_content .single_bloginner img{
+    width:100%;

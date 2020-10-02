@@ -1,0 +1,2 @@
+  padding: 9px;
+  border-radius: 3px;

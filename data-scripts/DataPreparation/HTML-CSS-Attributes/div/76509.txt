@@ -1,0 +1,2 @@
+	padding:170px 0px 0px 0px;
+font:24px Georgia, "Times New Roman", Times, serif; color:#fff; text-align:left; font-weight:100; margin:0px; padding:0 0px 10px 0px; text-decoration:nonecolor:#ccc9a2;

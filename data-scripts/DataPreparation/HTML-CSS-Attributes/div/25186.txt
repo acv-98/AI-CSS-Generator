@@ -1,0 +1,2 @@
+    max-width: inherit;
+    margin: auto;

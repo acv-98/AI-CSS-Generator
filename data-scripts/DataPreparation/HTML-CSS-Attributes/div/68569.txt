@@ -1,0 +1,10 @@
+	background: transparent url(../images/icon-cat.png) no-repeat left top;
+	padding-left: 20px;
+	float: left;
+	font-family: 'Droid Serif', serif;
+	padding-bottom: 2px;
+	padding-right: 5px;
+	color: #575757;
+	font-style: italic;
+	line-height: 1;
+	font-size: 11px;

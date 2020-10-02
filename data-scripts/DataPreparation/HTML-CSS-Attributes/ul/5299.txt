@@ -1,0 +1,11 @@
+	list-style:none;
+	margin-top:20px;	
+	padding:10px;
+	transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+	display:inline;
+	font-size:25px;	
+	color:#d0d0d0;	
+  color: #00abf0;

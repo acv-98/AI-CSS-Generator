@@ -1,0 +1,5 @@
+	text-decoration:none;
+	float: left;
+	margin-right:21%;
+    margin-right:15%;
+	margin-bottom: 20px;

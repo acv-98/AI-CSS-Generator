@@ -1,0 +1,9 @@
+	width: 500px;
+	margin-right: 5px;
+	background: url(../images/slider.png) no-repeat bottom center;
+	height: 286px;
+	float: left;
+	margin-left: 20px;
+	font-size: 14px;
+	line-height: 32px;
+	text-align: justify;

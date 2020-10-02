@@ -1,0 +1,11 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/free.png', sizingMethod='image');
+* {
+	padding:0;
+	margin:0;
+	outline:0;
+	width:84px;
+	height:88px;
+	position:absolute;
+	top:8px;
+	right:10px;

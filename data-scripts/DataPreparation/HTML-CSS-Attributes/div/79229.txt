@@ -1,0 +1,11 @@
+		clear: both;
+		color: #ccc;
+		background:#222;
+		font: 100 normal 22pt/1.5em Georgia,Times,Serif;
+		margin:10px 0 0 0;
+		padding:20px ;
+			margin: 0;
+			padding: 0;
+				border-bottom: 1px dotted #eee;
+				color:#eee;
+				font-style: normal;

@@ -1,0 +1,8 @@
+	display:block;
+	color:#222!important;
+	font: bold 14px Comfortaa;
+	text-shadow:#fff 1px 1px 1px;
+	padding:8px;
+	background:#fff;
+	clear:both;
+	margin-bottom:15px;

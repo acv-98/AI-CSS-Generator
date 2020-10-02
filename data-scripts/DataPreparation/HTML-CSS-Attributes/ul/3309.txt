@@ -1,0 +1,12 @@
+	padding:0;
+	list-style:none;
+	color: #555;
+	margin-bottom: 20px;
+	font-size: 1.5em;
+	line-height: 1.2;
+	font-weight: normal;
+	margin-top: 0px;
+	letter-spacing: -1px;
+	text-transform: uppercase;
+	list-style-image: url(../images/marker.png);
+	text-decoration:none;

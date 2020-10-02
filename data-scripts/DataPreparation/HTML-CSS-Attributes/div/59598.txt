@@ -1,0 +1,1 @@
+ position: relative; height: 600px;  padding: 0 60px; text-align: justify; 

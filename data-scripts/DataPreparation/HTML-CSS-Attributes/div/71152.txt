@@ -1,0 +1,8 @@
+    font-size: 16px;
+    margin: 0 1px;
+    color: #fff;
+    width: 31px;
+    float: left;
+    text-align: center;
+    border: solid transparent 1px;
+    border-radius: 100%;

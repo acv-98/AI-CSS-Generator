@@ -1,0 +1,5 @@
+	display: block;
+	float: left;
+	margin:0 0 0 2.6%;
+		float: none;
+		margin:0;

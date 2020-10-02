@@ -1,0 +1,10 @@
+ font-size: 12px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400; 	width: 200px;
+ border-radius: 0  width:150px;  line-height: 9px  border:  none; float: none; clear: both;  display: block; padding: 3px 5px 0px; margin: 5px auto 0px;width: auto;     float: right;
+    height: 46px;
+    border-left: 1px solid #dfdcdc;
+    width: 200px;
+    background-image: none;
+    background-color: #dfdddd;
+    padding: 3px 0px 0px;
+    margin: 0px;
+    line-height: 46px;

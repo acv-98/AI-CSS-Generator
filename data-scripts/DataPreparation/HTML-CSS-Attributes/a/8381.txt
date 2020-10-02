@@ -1,0 +1,13 @@
+ color: #00010d; 
+h1,h2,h3,h4,h5,h6,
+#footer .title,
+ color: #00010d;  color: #2d3b31;  color: #ebe6d6;  color: #00010d; 	display: block;
+	font-family: 'Yanone Kaffeesatz', arial, serif;
+	font-size: 20px;
+	line-height: 1.4em;
+	margin: 0px 0px 10px 0px;
+	text-decoration: none;
+	color: #282d34;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #c4c7c8;
+	padding-bottom: 10px;

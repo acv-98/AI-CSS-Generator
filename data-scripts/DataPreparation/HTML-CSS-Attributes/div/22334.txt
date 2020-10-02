@@ -1,0 +1,15 @@
+ 
+.tweet .tweet_list, .query .tweet_list {
+    -webkit-border-radius: .5em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+  	
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding: .5em;
+       background-color: #EAE9E7;
+      padding-right: .5em;
+      float: left;
+        vertical-align: middle;

@@ -1,0 +1,8 @@
+margin: 0 auto;
+width: 63%;
+.search_icon{background: url("images/search.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+border: medium none;
+height: 31px;
+margin-left: -16px;
+text-indent: -99999px;
+float:left

@@ -1,0 +1,5 @@
+  font-size: 30px;
+  color: #fff;
+  font-family: Roboto-Light;
+  font-weight: bold;
+  margin-bottom: 40px;

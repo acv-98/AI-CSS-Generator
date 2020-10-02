@@ -1,0 +1,10 @@
+  position: relative;
+  z-index: 99;
+  overflow: hidden;
+  display: none;
+  height: 100%;
+  float: left;
+   width:300px
+margin-bottom:26px.es-nav {
+  right: 0;
+  bottom: -30px;

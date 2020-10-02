@@ -1,0 +1,13 @@
+	position: relative;
+	z-index:1;
+	width:940px;
+	margin:0 auto;
+	display: block;
+	height: 347px;
+	background:url(../images/img-border2.jpg) 0 0 no-repeat;
+	left:0;
+	top:0;
+	padding:11px;
+	font-size:0;
+	line-height:0;
+	text-decoration:none;

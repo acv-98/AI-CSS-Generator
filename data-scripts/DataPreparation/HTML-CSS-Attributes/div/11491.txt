@@ -1,0 +1,9 @@
+	padding: 2.1rem 4rem 2.1rem 3rem;
+	position: relative;
+	margin-bottom: 3rem;
+	border-radius: 3px;
+	font-family: "poppins-regular", sans-serif;
+	font-size: 1.5rem;
+	right: 1.8rem;
+	top: 1.8rem;
+	cursor: pointer;

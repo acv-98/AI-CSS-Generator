@@ -1,0 +1,14 @@
+	top: 20px !important;
+	position: fixed;
+	left: 90%;
+	text-align: right;
+	z-index: 16;
+	width: 50px;
+	-webkit-transition: top .5s ease-in-out, left .5s;
+	transition: top .5s ease-in-out, left .5s;
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  border: none;
+  color: #fff;
+  font-size: 30px;
+	outline: none;
+    		left: 85% !important;

@@ -1,0 +1,10 @@
+	position: relative;
+	width: 612px;
+	height: 230px;
+	padding-bottom:12px;
+	margin-top: 7px;
+	bottom:0px;
+	left: 0px;
+	background: url(../img/post-shadow.png) no-repeat  center bottom ;
+	z-index: -1;
+	border: 2px solid white;

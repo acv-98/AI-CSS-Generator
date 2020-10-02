@@ -1,0 +1,3 @@
+	color:#55b6ef;
+	height:291px;
+	padding-top:24px;

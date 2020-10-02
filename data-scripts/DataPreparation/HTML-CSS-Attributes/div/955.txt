@@ -1,0 +1,6 @@
+	background:url(../images/text.gif) center 108px no-repeat;
+	height:141px;
+	overflow:hidden;
+	position:relative;
+	padding-top:108px;
+	margin-top:64px;

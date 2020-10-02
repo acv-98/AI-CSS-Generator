@@ -1,0 +1,1 @@
+font:bold 13px 'Droid Sans',sans-serif; text-transform:none; color:#777;font-size:12px;margin:17px 31px 8px 0; float:right;background:url("../images/list.png") no-repeat left center; margin-bottom:9px; padding-left:13px;color:#e53258;color:#2595d7;

@@ -1,0 +1,11 @@
+width:117px;
+float:left;
+padding:10px 25px 0px 40px;
+	background-image: url(../images/services_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+font-size:15px;
+font-weight:bold;
+color:#D4B822;
+text-decoration:none;
+text-align:left;

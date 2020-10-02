@@ -1,0 +1,7 @@
+	background:url(../images/buttons.gif) no-repeat;
+	background-position:0 -89px;
+	display:inline-block;
+	height:73px;
+	width:187px;
+	margin-bottom:5px;
+	margin-right:13px;

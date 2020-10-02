@@ -1,0 +1,16 @@
+  border-bottom: 0;
+  display: block;
+  padding: 8px 15px;
+  font-size:13px;
+  color:#333333;
+  text-shadow: none;
+  background-color: #eee;
+  *background-color: #eee;
+  background-image: none;
+  background-repeat: repeat-x;
+  *border: 0;
+  border-color: none;
+  font-weight:600;
+  outline:0;
+	margin-right:10px;
+  text-decoration:none;

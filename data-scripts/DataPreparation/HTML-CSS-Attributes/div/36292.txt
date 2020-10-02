@@ -1,0 +1,10 @@
+	padding: 10px;
+		font-size: 1.5em;
+		margin-bottom: 10px;
+		line-height: 1.5em;
+		list-style-position: inside;
+		padding: 2px 0;
+		background-color: #eeeeee;
+		border-width: 1px 0;
+		border-style: solid;
+		border-color: #e0e0e0;

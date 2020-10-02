@@ -1,0 +1,5 @@
+	font-size: 50px; .mega {
+	letter-spacing: -2px;
+	line-height: 25px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding: 4px 5px;

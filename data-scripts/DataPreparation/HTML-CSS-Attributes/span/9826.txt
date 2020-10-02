@@ -1,0 +1,5 @@
+	background: url("images/rss.png") no-repeat;
+	display: block;
+	height: 16px;
+	padding-left:22px;
+	margin-right:10px;

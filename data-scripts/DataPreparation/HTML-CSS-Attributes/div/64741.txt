@@ -1,0 +1,5 @@
+  margin-bottom: 0;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  border-top-color: #ddd;
+  border-bottom-color: #ddd;

@@ -1,0 +1,7 @@
+         display: none;
+         float: none;
+         text-align: center;
+     margin-left: 10px;
+     color: #ffffff;
+     font-size: 14px;
+     line-height: 30px;

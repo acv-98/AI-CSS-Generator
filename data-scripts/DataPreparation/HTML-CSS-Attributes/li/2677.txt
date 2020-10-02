@@ -1,0 +1,3 @@
+    cursor: not-allowed;
+    background-color: #2E373C;
+    color: #9aa8b3;

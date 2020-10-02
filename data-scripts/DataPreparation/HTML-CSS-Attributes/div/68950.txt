@@ -1,0 +1,18 @@
+	width: 95%;
+	float: left;
+	padding: 0;
+	text-align: left;
+  	margin-top: 36px;
+   list-style: none;
+   position: relative;
+  	margin-bottom: 60px;
+  	background: #ccc;
+  	height: 42px;
+  	border-radius: 3px;
+	font: 15px 'opensans-bold', sans-serif;
+   color: #313131;
+	text-transform: uppercase;
+   letter-spacing: 2px;
+	font-weight: normal;
+	top: -36px;
+ width: 100%; 

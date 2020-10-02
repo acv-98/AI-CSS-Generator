@@ -1,0 +1,4 @@
+padding: 1.25% 2.04%;width: 28%;.home-row .widget h2 {
+  margin-top: 0;
+  font-size: 25px;
+  border-bottom: 1px solid #bcbcbc;

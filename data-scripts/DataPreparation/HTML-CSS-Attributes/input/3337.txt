@@ -1,0 +1,11 @@
+	display:block;
+	float:left;
+	background:transparent;
+	border:none;
+	height:28px;
+	width:163px;
+	margin-right:7px;
+	font:1em "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#fff;
+	padding-top:3px;
+	padding-left:2px;

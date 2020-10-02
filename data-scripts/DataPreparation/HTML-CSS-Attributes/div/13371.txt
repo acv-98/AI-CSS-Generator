@@ -1,0 +1,4 @@
+ max-width: 772px; 
+#google-map {
+    height: 479px;
+    width: 100%;    

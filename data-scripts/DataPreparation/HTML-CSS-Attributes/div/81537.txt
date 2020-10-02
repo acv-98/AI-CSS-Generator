@@ -1,0 +1,4 @@
+    background: url(../images/testbg.jpg) no-repeat top center;
+    background-size:cover;
+    position: relative;
+    color:#fff;

@@ -1,0 +1,5 @@
+    background-color: #ffffff;
+    padding: 3rem;
+        padding: 3rem 1rem;
+    background-image: none;
+    border: 1px solid #e2e2e2;

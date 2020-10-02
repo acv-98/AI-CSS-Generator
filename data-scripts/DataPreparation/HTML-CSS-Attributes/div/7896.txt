@@ -1,0 +1,1 @@
+ height:19px; position:absolute; right:20px; bottom:25px;  display:block; width:19px; height:19px; background:url('../images/icons/pag-slider.png') no-repeat; margin-left:3px; float:left; text-indent:-9999px; outline:none;  background-position:0 -19px;  

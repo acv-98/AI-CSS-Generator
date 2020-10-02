@@ -1,0 +1,4 @@
+   padding-right: 32px;
+   float: left;   
+ padding-right: 18px;       padding-right: 30px;
+      float: none;

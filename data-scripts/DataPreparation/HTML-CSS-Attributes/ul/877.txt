@@ -1,0 +1,1 @@
+padding-bottom:15pxpadding:0 19px 0 22px;background:url(images/marker.gif) no-repeat left 2pxfont-size:.86em;text-decoration:nonetext-decoration:underline

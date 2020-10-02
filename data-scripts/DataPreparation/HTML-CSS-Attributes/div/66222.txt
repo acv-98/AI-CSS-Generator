@@ -1,0 +1,6 @@
+ width: 25%; 	
+ float: none; width: auto; margin-top: 15px; margin-bottom: 15px; padding-right: 0; text-align: center;     float: left;
+    width: 20%;
+    padding-right: 25px;
+    margin-bottom: 10px;
+    text-align: right;

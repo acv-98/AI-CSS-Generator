@@ -1,0 +1,9 @@
+  background-color: #a5d549;  
+  color: #fff;
+  display: inline;
+  float: left;
+  font-size: 20px;
+  width: 100%;
+  content: "";
+  height: 2px;
+  margin: 8px auto;

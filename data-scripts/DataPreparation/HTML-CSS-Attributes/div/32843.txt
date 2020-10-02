@@ -1,0 +1,14 @@
+ width: auto; padding: 0 15px; 	
+	padding: 160px 0;
+	width: 700px;
+	margin: 0 auto;
+	color: #fff;
+ color: #fff; text-decoration: none; .top-content-text p {
+	opacity: 0.9;
+	margin-top: 40px;
+    font-size: 22px;
+    line-height: 36px;
+    font-style: italic;
+	padding-top: 30px;
+	padding-bottom: 7px;
+ background: none; border: 1px solid #fff; .what-we-do-box {

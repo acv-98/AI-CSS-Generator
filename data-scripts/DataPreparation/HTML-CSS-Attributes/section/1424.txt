@@ -1,0 +1,20 @@
+        word-spacing: -1px;
+        color: #e355fd;
+        font-size: 20px;
+        text-align: center;
+        width: 30px;
+        letter-spacing: -1px;
+        margin-left: 30px;
+        display: block;
+        padding: 20px 0;
+    background: #fff none repeat scroll 0 0;
+    box-shadow: -9px 1px 15px rgba(0, 0, 0, 0.15);
+    border: none;
+    border-bottom: 1px solid #aba8a8;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    height: 130px
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    line-height: 15px;

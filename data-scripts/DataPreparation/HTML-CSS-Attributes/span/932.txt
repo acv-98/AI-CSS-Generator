@@ -1,0 +1,9 @@
+	font-size: 3em;
+	color:#00BFF0;
+	font-weight: 600;
+	margin: 3.4% 0;
+	font-family: 'Open Sans', sans-serif;
+	font-style: normal;
+	text-transform: none;
+		margin: 1% 0;
+		font-size: 2em;

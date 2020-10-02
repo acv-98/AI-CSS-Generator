@@ -1,0 +1,12 @@
+  padding-top: 18px;
+  padding-left: 25px;
+  font-weight: normal;
+  position: relative;
+  content: '';
+  font-family: 'FontAwesome';
+  color: #e087d1;
+  font-size: 14px;
+  line-height: 18px;
+  left: 0;
+  top: 1px;
+  margin-top: 10px;

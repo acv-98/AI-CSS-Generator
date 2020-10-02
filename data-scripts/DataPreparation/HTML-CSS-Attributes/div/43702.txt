@@ -1,0 +1,5 @@
+ max-width: 100%; margin-right: 0px; 
+	display: block;
+	height: auto;
+	max-width: 940px;
+	width: auto;

@@ -1,0 +1,6 @@
+	color: #999999;
+	font-family: serif;
+    left: 15px;
+    opacity: 0.1;
+    position: absolute;
+    top: 15px;

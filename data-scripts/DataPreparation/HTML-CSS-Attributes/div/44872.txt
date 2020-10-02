@@ -1,0 +1,7 @@
+	width: 520px;
+	float: right;
+	padding: 0px 30px;
+	position: absolute;
+	bottom: 0;
+	margin-bottom: 25px;
+	text-align: center;

@@ -1,0 +1,2 @@
+ position: absolute; bottom: 10px; right: 10px; z-index: 100; 
+ float: left; display: inline; font-size: 0; line-height: 0; text-indent: -4000px; width: 10px; height: 10px; margin-left: 2px;  background: url(images/slider-nav.gif) no-repeat right 0;  background-position: 0 0; 

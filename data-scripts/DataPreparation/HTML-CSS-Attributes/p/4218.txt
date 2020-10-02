@@ -1,0 +1,5 @@
+	font-family:Arial, Helvetica, Sans-Serif;
+	font-size:40px;
+	color:#adff00;
+	text-shadow:none;
+	font-weight:bold;

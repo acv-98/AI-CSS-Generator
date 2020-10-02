@@ -1,0 +1,8 @@
+        top: 250px;
+        right: -240px;
+        font-size: 11rem;
+    font-weight: 300;
+    transform: rotate(90deg);
+    position: absolute;
+    color: #ddd;
+    z-index: 0;

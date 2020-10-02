@@ -1,0 +1,5 @@
+    font-size: 8.36rem;
+    font-family: 'ralewaybold';
+    color: #202242;
+    line-height: 9.3rem;
+    margin-bottom: 20px;

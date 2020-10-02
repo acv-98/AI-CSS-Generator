@@ -1,0 +1,10 @@
+	float: left;
+	margin: 0 0 0 20px;
+	width: 492px;
+	font-family:"Droid Serif", arial, sans-serif;
+	font-size: 11px;
+	font-style: italic;
+	text-align: left;
+	margin-left: 6px;
+	color: #2594EF;
+	font-weight: bold;

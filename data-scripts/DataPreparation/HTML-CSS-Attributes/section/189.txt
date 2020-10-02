@@ -1,0 +1,2 @@
+    font-weight: 300;
+    padding-top: 60px;

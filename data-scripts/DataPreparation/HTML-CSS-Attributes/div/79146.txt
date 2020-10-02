@@ -1,0 +1,9 @@
+  border-top: 1px solid #F7F7F0;
+  color: #B3AFA8;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  padding-left: 0;
+  padding-right: 0;
+	margin-right:5px;
+	background:none;
+	color:#FE980F;

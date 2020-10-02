@@ -1,0 +1,9 @@
+  color: #3498db;
+  display: inline-block;
+  font-size: 16px;
+  padding: 5px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

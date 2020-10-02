@@ -1,0 +1,14 @@
+	position:absolute;
+	bottom:-27px;
+	right:-2px;
+	list-style-type:none;
+	float:left;
+	width:19px;
+	height:19px;
+	padding-right:5px;
+	background:url('images/slider-nav.gif') no-repeat 0 0;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	cursor:pointer;
+	background-position:0 bottom;

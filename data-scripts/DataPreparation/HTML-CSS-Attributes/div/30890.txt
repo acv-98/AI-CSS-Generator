@@ -1,0 +1,5 @@
+width:554px;
+float:left;
+display:inline;
+margin:0px 0px 0px 5px;
+background:url(../images/l_bg.gif) repeat-x #F2F1F1;

@@ -1,0 +1,1 @@
+	border:#fff 4px solid;

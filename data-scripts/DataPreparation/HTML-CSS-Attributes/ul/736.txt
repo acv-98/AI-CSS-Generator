@@ -1,0 +1,14 @@
+        float: none !important;
+    margin-top: 2px;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+	background: #00aeef;
+	color: #fff !important;
+	border-color: #00aeef !important;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: #ffffff !important;
+    opacity: 1;

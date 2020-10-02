@@ -1,0 +1,9 @@
+	border-top:5px solid #4eb478;
+	padding-top:40px;
+	background:#222;
+		padding-left: 20px;
+		padding-right: 20px;
+		margin-left: -20px;
+		margin-right: -20px;
+		text-align:center;
+		float:none;

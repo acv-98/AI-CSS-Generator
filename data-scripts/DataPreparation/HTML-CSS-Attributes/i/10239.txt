@@ -1,0 +1,2 @@
+  content: "\f003";
+  font-size: 14px;

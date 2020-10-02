@@ -1,0 +1,15 @@
+	width:590px;
+	border-bottom:1px solid #f2f2f2;
+	min-height:210px;
+	height:auto !important;
+	background:none;
+	margin:0 0 10px 0;
+	list-style:none;
+	display:inline;
+	float:left;
+	padding:0 17px 0 0;
+	text-align:center;
+	color:#005ec8;
+	text-decoration:underline;
+	font-size:13px;
+	line-height:16px;

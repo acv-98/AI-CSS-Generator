@@ -1,0 +1,13 @@
+	padding-bottom:12px;
+	color:#1e1e1e;
+	line-height:20px;
+	font-size:17px;
+	text-transform:uppercase;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:400;
+	text-decoration:none;
+	font-style:italic;
+	margin-bottom:18px;
+	max-width:100%;
+	border-bottom:1px #dadada dotted;
+	border-top:1px #dadada dotted;

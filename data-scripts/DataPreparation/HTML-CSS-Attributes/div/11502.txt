@@ -1,0 +1,17 @@
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-backface-visibility: visible;
+  -ms-backface-visibility: visible;
+  backface-visibility: visible;
+  -webkit-animation-name: flip;
+  animation-name: flip;
+  padding: 15px 0;
+  border-bottom: none;
+  color: #fff;
+    bottom: 22px;
+  margin-top: 21px;
+  background-color: #fff;

@@ -1,0 +1,8 @@
+  float: left;
+  font-weight: normal;
+  margin-bottom: 0;
+  font-size: 18px;
+  margin-right: 10px;
+  margin-left: 25px;
+    font-size: 16px;
+    margin-right: 0px;

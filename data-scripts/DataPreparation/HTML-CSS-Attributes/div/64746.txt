@@ -1,0 +1,9 @@
+    margin-top: 7px;
+    font-family: 'Lobster', cursive;
+    font-size: 38px;
+    line-height: 42px;
+    font-weight: 400;
+    color: #555;
+ color: #e75967;  color: #555;  color: #e75967; .call-us {
+    text-align: right;
+ text-align: center; 

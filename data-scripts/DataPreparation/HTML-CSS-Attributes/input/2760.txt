@@ -1,0 +1,1 @@
+width:205px; font-size: 11px; line-height: 13px; margin-top:4px; margin-left:18px; padding-left:2px; border:0; color:#b3b19d; text-transform: uppercase; background:#fff

@@ -1,0 +1,8 @@
+	padding:32px 24px 12px 40px;
+	font-size:11px;
+	color:#959595;
+	text-align:right;
+	background-color:#b7cec8;
+	border:1px solid #b7cec8;
+	text-decoration:none;
+	float:left;

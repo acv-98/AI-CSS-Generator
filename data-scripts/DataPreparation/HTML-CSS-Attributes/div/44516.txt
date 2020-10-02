@@ -1,0 +1,5 @@
+	padding:0;
+	background:#97c950;
+	margin:0;
+	text-align:center;
+	width:540px;

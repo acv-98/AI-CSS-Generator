@@ -1,0 +1,7 @@
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+	position:relative;
+    height: 300px;
+    width: 350px;
+    max-width: 100%;

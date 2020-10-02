@@ -1,0 +1,10 @@
+	padding:27px 0 27px 2px;
+	overflow:hidden
+	float:left;
+	padding-left:31px
+	font-size:35px;
+	color:#ddd9cf;
+	font-weight:400;
+	text-decoration:none;
+	line-height:1.2em;
+	letter-spacing:-1px

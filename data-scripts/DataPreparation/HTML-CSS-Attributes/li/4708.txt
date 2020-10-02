@@ -1,0 +1,1 @@
+width:151px; background:url(../images/btn_1.jpg) 0 0 no-repeat; width:151px; background:url(../images/btn_1_over.jpg) 0 0 no-repeat;

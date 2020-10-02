@@ -1,0 +1,14 @@
+	padding-bottom: 76px;
+	bottom: 53px;
+  display: block;
+  font: 48px/52px 'Marvel', sans-serif;
+  color: #ffffff;
+  background-color: #ec9e9e;
+  padding: 39px 0 75px;
+  position: relative;
+  content: '';
+  width: 135px;
+  height: 3px;
+  bottom: 55px;
+  left: 50%;
+  margin-left: -68px;

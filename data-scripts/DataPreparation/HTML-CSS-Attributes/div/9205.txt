@@ -1,0 +1,11 @@
+	margin:35px 0;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	padding:20px;
+	background:url("../design/transparent.png");
+	float:left;
+	width:80px;
+	display:block;
+	font:italic 160%/1.2 "georgia", serif;
+	color:#FFF;

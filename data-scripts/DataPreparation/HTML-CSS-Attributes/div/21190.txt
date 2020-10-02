@@ -1,0 +1,2 @@
+	background-color: #0CB8B6;
+	float: left;

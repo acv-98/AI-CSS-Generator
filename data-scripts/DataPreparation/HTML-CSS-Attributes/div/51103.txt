@@ -1,0 +1,4 @@
+	font: 24px/33px 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	color: #626262;
+	margin-bottom: 19px;

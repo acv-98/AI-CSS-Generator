@@ -1,0 +1,2 @@
+	width: 975px;
+	height: 134px;

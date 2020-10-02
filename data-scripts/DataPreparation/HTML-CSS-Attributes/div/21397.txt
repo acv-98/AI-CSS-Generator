@@ -1,0 +1,2 @@
+  border: 0.0625rem solid #13b1cd;
+  border-color: #b99769;

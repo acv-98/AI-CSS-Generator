@@ -1,0 +1,4 @@
+float:left;
+color:#E5E5E5;
+font:bold 11px/18px Trebuchet MS;
+margin-top:9px;

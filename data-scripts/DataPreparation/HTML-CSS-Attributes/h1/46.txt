@@ -1,0 +1,3 @@
+  padding: 15px 0;
+  height: inherit;
+  display: block;

@@ -1,0 +1,13 @@
+	width: 590px;
+	height: 325px;
+	position:relative;
+	margin: 110px -52px 0 0;
+	padding:27px 75px 0 27px;
+	background:url(../img/bkg_info_banner.png);
+	font-size: 50px;
+	margin-bottom: 27px;
+	text-shadow: 2px 2px 1px #000;
+	color: #947790;
+	line-height: 30px;
+	display: block;
+	float:right;

@@ -1,0 +1,12 @@
+	margin:6px 6px 30px 6px;
+	background:#f5f6fc;
+	border-radius:20px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	box-shadow:0 0 6px rgba(0, 0, 0, .7);
+	-moz-box-shadow:0 0 6px rgba(0, 0, 0, .7);
+	-webkit-box-shadow:0 0 6px rgba(0, 0, 0, .7);
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	padding:28px 43px 23px 47px;
+	color:#000;

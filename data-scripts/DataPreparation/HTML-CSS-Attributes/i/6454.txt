@@ -1,0 +1,1 @@
+ color: #e84545; font-size: 11px; margin: 0 2px;

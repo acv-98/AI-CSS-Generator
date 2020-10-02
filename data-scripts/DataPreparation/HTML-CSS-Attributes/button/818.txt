@@ -1,0 +1,5 @@
+    background-color: #25CBF5;
+    border-color: #25CBF5;
+    border-radius: 2px;
+    line-height: 26px;
+    padding: 0;

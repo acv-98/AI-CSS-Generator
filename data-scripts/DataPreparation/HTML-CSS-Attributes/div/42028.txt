@@ -1,0 +1,1 @@
+background:#f3f3f3;width:504pxbackground:url(images/box3-top.gif) no-repeat left topbackground:url(images/box3-bot.gif) no-repeat left bottompadding:25px 25px 20px 30pxmargin-bottom:9px

@@ -1,0 +1,9 @@
+	height: 95px;
+	width: 95px;
+	text-align: center;
+	line-height: 98px;
+	color: #FFFFFF;
+	border-radius: 100px;
+	background-color: #23AD21;
+	margin: 0 2px 4px;
+	font-size: 24px;

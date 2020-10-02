@@ -1,0 +1,8 @@
+	float:left;
+	width:270px;
+	height:auto;
+	margin:0 14px;
+	padding:0 10px 20px 10px;
+	background:url(images/home_block_bg.gif) no-repeat center bottom;
+	clear:both;
+	font-weight:bold;

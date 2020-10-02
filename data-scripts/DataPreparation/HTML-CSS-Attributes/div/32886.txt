@@ -1,0 +1,11 @@
+	padding-top: 30px;
+	padding-bottom: 20px;
+	margin: 0;
+	font-size: 18px;
+    line-height: 32px;
+	max-width: 700px;
+    width: 95%;
+    height: 52px;
+    margin-bottom: 5px;
+ height: 162px;  width: 95%;  border-color: #8ec1cd; footer {
+	text-align: right;

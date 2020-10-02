@@ -1,0 +1,1 @@
+margin:30px 0 0 -13pxwidth:170px; float:left; margin-left:32pxmargin-left:0width:188pxwidth:205pxwidth:190pxpadding-top:2px; font-size:95%; font-weight:300; line-height:180%; color:#e9eceffont-size:105%; font-weight:400

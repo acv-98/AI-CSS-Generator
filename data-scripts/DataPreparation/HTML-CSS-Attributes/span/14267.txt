@@ -1,0 +1,1 @@
+ float:left; width:63px; height:18px; background: url(../images/hme_map_bg.gif) no-repeat; margin:27px 0px 0px 10px;

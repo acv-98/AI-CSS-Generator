@@ -1,0 +1,11 @@
+  font-size: 161px;
+  margin-bottom: 0px;
+  line-height: 1.2em;
+  color: #888888;
+  display: block;
+  width: 33%;
+  border-bottom: 1px solid #ccc;
+  list-style-type: none;
+  background: url(../img/icon-award.png) no-repeat 0px 0px;
+  padding-left: 45px;
+  min-height: 40px;

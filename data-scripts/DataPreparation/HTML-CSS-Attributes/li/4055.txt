@@ -1,0 +1,10 @@
+  background: #869791;
+        border-bottom: 0px solid;
+        width: 35px;
+        height: 35px;
+    color: #00e0d0;
+    padding-bottom: 22px;
+    background: transparent;
+    border-radius: 100px;
+    opacity: 1;
+    overflow: hidden;

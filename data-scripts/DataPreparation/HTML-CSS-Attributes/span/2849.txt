@@ -1,0 +1,4 @@
+	float: left;
+	font-size: 14px;
+	display: block;
+	padding: 5px 17px;

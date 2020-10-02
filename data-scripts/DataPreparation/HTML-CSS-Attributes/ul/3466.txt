@@ -1,0 +1,7 @@
+     float: left;
+     width: 100%;
+     text-align: left;
+     font-size: 14px;
+     font-weight: 400;
+     color: #363636;
+     line-height: 28px;

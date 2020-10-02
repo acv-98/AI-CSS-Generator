@@ -1,0 +1,17 @@
+	background: url(../images/capt_bg.png) 0 0 repeat;
+	position: absolute;
+	text-align: center;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	font-family: 'Economica', sans-serif;
+	font-size: 42px;
+    line-height: 42px;
+    padding: 8px 0 17px;
+    color: #fff;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+    display: none;
+    padding-top: 20px;

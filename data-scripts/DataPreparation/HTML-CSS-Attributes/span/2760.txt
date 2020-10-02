@@ -1,0 +1,6 @@
+  font-size: 13px;
+  font-weight: 600;
+  margin-right: 15px;
+  position: relative;
+  top: -27px;
+  line-height: 69.22px;

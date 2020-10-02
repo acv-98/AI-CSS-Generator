@@ -1,0 +1,4 @@
+ background-color: transparent 
+#home
+	{
+      padding-top: 65px;

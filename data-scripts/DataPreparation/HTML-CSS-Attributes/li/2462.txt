@@ -1,0 +1,1 @@
+width:5px; height:24px; background:url(../images/spacer_menu.gif) 0 10px no-repeat

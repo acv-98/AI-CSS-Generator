@@ -1,0 +1,6 @@
+  left: 100%;
+  position: absolute;
+  top: 0;
+  visibility: hidden;
+  margin-top: -1px;
+  margin-left: 1px;

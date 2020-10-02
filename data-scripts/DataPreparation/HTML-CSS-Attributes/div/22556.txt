@@ -1,0 +1,6 @@
+        text-align: center;
+    color:#aaa79e;
+    font-size:0.8125rem;
+    line-height: 25px;
+    padding:40px;
+    max-width: 100%;

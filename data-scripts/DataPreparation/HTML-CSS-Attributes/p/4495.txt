@@ -1,0 +1,3 @@
+	float: right;
+	width: 180px;
+	color: #CCFF66;

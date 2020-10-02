@@ -1,0 +1,10 @@
+	text-align:right
+	position:relative;
+	display:inline-block
+	margin-left:55px
+	width:1px;
+	height:36px;
+	background-color:#818080;
+	left:-30px;
+	top:-5px;
+	content:''

@@ -1,0 +1,5 @@
+    margin-bottom: 2.5rem !important;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    width: 100%;

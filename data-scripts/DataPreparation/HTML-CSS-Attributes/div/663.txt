@@ -1,0 +1,9 @@
+	font-size: 3em;
+	margin-bottom: 1em;
+	margin-top: -0.7em;
+	font-weight: 100;
+	opacity: 0.3;
+	text-align: center;
+	float: right;
+	color: #fff;
+  	text-align: center;

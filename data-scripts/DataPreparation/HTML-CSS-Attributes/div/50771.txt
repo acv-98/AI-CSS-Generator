@@ -1,0 +1,5 @@
+	float:left;
+	display:inline;
+	width:896px;
+	position:relative;
+	list-style-type:none;

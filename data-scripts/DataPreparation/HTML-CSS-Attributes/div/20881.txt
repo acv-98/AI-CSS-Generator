@@ -1,0 +1,1 @@
+ width:758px; height:267px; position:relative; overflow:hidden; background:url(images/slide-bg.gif); padding:5px; 

@@ -1,0 +1,5 @@
+ margin: 0 15px; 
+.service { 
+	width: 280px; 
+	height: 164px; 
+	padding: 7px 15px;

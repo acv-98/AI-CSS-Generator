@@ -1,0 +1,10 @@
+	-webkit-perspective: 1000px;
+	perspective: 1000px;
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-animation: moveLeft 0.8s forwards;
+	animation: moveLeft 0.8s forwards;
+	z-index: -1;
+	opacity: 0;

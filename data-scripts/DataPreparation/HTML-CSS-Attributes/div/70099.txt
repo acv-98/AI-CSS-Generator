@@ -1,0 +1,2 @@
+	float:right;
+	padding:24px;

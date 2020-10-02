@@ -1,0 +1,14 @@
+	position: relative;
+	width: 100%;
+	background: #ffffff;
+	border: 1px solid #e7e7e7;
+	border-radius: 2px;
+	min-height: 51px;
+	padding-left: 21px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	right: 0;
+	top: 0;
+	color: #fff;
+	font-weight: 700;
+	margin: 5px 7px;

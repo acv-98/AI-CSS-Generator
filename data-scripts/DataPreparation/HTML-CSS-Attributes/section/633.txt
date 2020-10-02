@@ -1,0 +1,3 @@
+.ab_head{
+    width:100%;
+    display: table;

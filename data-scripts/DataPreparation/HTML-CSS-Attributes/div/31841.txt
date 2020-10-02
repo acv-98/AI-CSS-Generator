@@ -1,0 +1,1 @@
+	background:url(../images/bg_footer.gif) top repeat-x

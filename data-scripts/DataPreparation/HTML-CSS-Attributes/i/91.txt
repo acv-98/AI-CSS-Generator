@@ -1,0 +1,5 @@
+  width: 16px;
+  background-position: -408px -120px;
+ content: "\f07c";  content: "\f115"; ul.the-icons {
+	list-style:none;
+	margin-left:0;

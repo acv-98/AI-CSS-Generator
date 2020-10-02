@@ -1,0 +1,10 @@
+  color: #fff;
+  background-color: #0275d8;
+  border-color: #0275d8;
+  -webkit-box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+          box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+  background-image: none;
+    border-color: #DA5333 !important;
+    background-color: #DA5333 !important;
+    padding: 5px 15px !important;
+    font-size: 11px !important;

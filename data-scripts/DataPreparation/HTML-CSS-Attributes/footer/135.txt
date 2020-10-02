@@ -1,0 +1,2 @@
+	height:130px
+	color:#8606c5

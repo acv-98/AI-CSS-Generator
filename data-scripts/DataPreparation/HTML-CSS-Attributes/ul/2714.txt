@@ -1,0 +1,17 @@
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  list-style: none;
+  font-size: 16px;
+  height: 40px;
+  vertical-align: middle;
+  text-decoration: none;
+  border-bottom: none;
+  background: #4AE3B5;
+  color: #fff;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;

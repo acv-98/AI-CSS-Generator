@@ -1,0 +1,9 @@
+    background:#f4f4f4;
+    overflow:hidden;
+    padding:40px;
+    float:left;
+    font-size:15px;
+    font-weight:500;
+    text-transform:uppercase;
+    color:#6a6a6a;
+    text-align:center;

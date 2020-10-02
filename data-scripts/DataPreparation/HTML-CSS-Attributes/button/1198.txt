@@ -1,0 +1,14 @@
+  outline: none;
+  box-shadow: none;
+  background: rgba(0, 0, 0, 0);
+  border: 0 none;
+  border-radius: 0;
+  margin-right: 15px;
+  margin-top: 20px;
+  color: #FFFFFF;
+  float: left;
+  font-size: 10px;
+  padding: 1px 7px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+	margin-right: 0;

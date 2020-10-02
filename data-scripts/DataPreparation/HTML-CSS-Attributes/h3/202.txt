@@ -1,0 +1,7 @@
+		font-size: 16px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #28a9e2;
+    text-transform: uppercase;
+    margin: 0 0 5px 0;
+ color: #28a9e2;  color: #28a9e2; 

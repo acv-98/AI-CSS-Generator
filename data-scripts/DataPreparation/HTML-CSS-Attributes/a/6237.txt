@@ -1,0 +1,4 @@
+	color:#666;
+    color: #666;
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    background-color: transparent;

@@ -1,0 +1,7 @@
+	position:relative;
+	width:928px;
+	height:298px;
+	top:0;
+	left:0;
+	z-index:1;
+	margin:0 0 28px 0;

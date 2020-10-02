@@ -1,0 +1,4 @@
+.contact-widget .email-address .fa,
+.contact-widget .telephone .fa,
+.contact-widget .website .fa {
+	color:#888;

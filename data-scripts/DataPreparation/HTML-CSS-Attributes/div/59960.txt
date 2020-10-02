@@ -1,0 +1,3 @@
+    color: #c73430;
+    text-transform: uppercase;
+	min-width: 0;

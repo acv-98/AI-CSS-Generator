@@ -1,0 +1,4 @@
+	display: block; clear: left;
+	width: 230px; height: 52px; line-height: 52px; padding-left: 50px;
+	background: url('images/green-button.png') top left no-repeat;
+	color: #fff; font-size: 26px; font-weight: bold; text-transform: uppercase; text-shadow: 1px 1px 3px #475d05; text-decoration: none; text-align: left;

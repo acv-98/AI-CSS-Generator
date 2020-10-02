@@ -1,0 +1,11 @@
+	background-image: url(./images/background2_web.jpg);
+	background-size: cover;
+.second_section {
+	min-height: 700px;
+	height: auto!important;
+	  45deg,
+	  white,
+	  white 3px,
+	  rgba(0, 116 ,217, 0.01) 3px,
+	  rgba(0, 116 ,217, 0.01) 5px
+	);

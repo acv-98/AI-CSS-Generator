@@ -1,0 +1,12 @@
+    margin-top: -6px;
+    overflow: hidden;
+    display: block;
+    float: left;
+    width: 116px;
+    margin-right: 22px;
+    color: #fa6a4d;
+    font-size: 48px;
+    line-height: 52px;
+    margin-bottom: 0;
+    padding-top: 12px;
+    height: 3px;

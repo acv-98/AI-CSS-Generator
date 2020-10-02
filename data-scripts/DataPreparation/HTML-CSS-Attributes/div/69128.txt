@@ -1,0 +1,12 @@
+ display:block; vertical-align:baseline; width:100%; text-align:left;  font-size:34px;  margin-right:20px;     float: left;
+    height: 100%;
+    margin-left: 20px;
+    position: relative;
+    z-index: 1;
+    font-size: 30px;
+    line-height: 38px;
+    padding-top: 0;
+    color: #464444;
+    width: 80%;
+    display:table-cell;
+    vertical-align:middle;

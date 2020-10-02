@@ -1,0 +1,5 @@
+		float: none;
+		margin: 0 auto;
+    float: left;
+    margin: 10px 20px 20px 0;
+    margin-right: 30px;

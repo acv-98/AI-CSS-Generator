@@ -1,0 +1,10 @@
+  width: 100%;
+  height: auto;
+position:relative;font-family:Hind,sans-serif.mfp-bg {
+  top: 0;
+  left: 0;
+  z-index: 1042;
+  overflow: hidden;
+  position: fixed;
+  background: #0b0b0b;
+  opacity: 0.8;

@@ -1,0 +1,2 @@
+	margin-right:0;
+	background:#09C1FF url(images/bg_promo3.png) repeat-x bottom;

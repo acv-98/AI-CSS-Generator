@@ -1,0 +1,7 @@
+	background-image: none;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/button1.png', sizingMethod='image');
+	float:left;
+	width:50px;
+	height:46px;
+	padding-left:10px;
+	padding-top:3px;

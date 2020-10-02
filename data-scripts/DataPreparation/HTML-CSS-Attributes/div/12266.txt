@@ -1,0 +1,12 @@
+	position: relative;
+	line-height: 1;
+	overflow: hidden;
+	background: #FFFFFF;
+	vertical-align: bottom;
+		width: 80px;
+		height: 80px;
+		float: left;
+		margin-right: 30px;
+		position: relative;
+		top: 6px;
+		display: none;

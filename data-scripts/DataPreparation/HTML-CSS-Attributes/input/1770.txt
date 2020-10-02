@@ -1,0 +1,11 @@
+		float: none;
+		position: absolute;
+		right: 0;
+		top:0;
+	 float: right;
+	 border: none;
+	 background: #404040 url(../images/icon-search.png) center center no-repeat;
+	 height: 25px;
+	 width: 25px;
+	 text-indent: -99999px;
+	 cursor: pointer;

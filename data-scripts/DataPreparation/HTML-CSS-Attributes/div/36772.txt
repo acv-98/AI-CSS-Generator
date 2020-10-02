@@ -1,0 +1,7 @@
+	font: normal 11px Georgia, "Times New Roman", Times, serif; 
+	color:#d6e8f5; 
+	background:url(images/twitter.gif) right no-repeat; 
+	padding:10px 10px; 
+	margin:44px 0 0 0; 
+	width:150px; 
+	float:right; 

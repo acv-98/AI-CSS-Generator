@@ -1,0 +1,6 @@
+	text-align:center;
+	margin:1.8em 0;
+	display:inline-block;
+	color: #FFF;
+	text-decoration:none;
+   margin: 10px 0;

@@ -1,0 +1,4 @@
+	font-size: 37px;
+	font-weight: bold;
+	line-height: 30px;
+	margin-bottom: 5px;

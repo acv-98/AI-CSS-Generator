@@ -1,0 +1,8 @@
+  display: block;
+  float: left;
+  padding: 0 5px;
+  background: #f3f3f3;
+  border-bottom: 1px solid #bfbfbf;
+  font-weight: 600;
+  color: #343331;
+  background-color: #ff5821;

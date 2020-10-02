@@ -1,0 +1,1 @@
+ background:rgba(0,0,0,0.6); position:absolute;  color:#fff;  margin:0 0 0.7em; font-family: "Yanone Kaffeesatz", serif; font-weight: normal;  font-size: 12px; 

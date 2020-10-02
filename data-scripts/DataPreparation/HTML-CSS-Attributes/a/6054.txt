@@ -1,0 +1,1 @@
+background-image:url("img/black/icon-digg.png");background-image:url("img/blue/icon-digg.png");background-image:url("img/green/icon-digg.png");background-image:url("img/pink/icon-digg.png");background-image:url("img/purple/icon-digg.png");background-image:url("img/red/icon-digg.png");

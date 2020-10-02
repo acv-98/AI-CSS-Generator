@@ -1,0 +1,4 @@
+  color: #70cbce;
+  background: #70cbce;
+	border-color: #70cbce;
+	color: #70cbce

@@ -1,0 +1,5 @@
+	position:absolute;
+	left:120px;
+	top:130px;
+	background:url(../images/jplayer-prev.png) 0 4px no-repeat;
+	padding-left:16px;

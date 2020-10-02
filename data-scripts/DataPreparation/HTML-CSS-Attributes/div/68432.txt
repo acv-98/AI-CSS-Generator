@@ -1,0 +1,1 @@
+width:auto; float:left; border: solid 0px; margin-top:120px; padding:0px 7px;

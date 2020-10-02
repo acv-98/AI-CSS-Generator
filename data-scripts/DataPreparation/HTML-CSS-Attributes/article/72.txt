@@ -1,0 +1,10 @@
+	margin: 5px;
+	padding: 40px;
+	background-color: #ffffffc4;
+	max-width: 340px;
+	width: 100%;
+	margin-left: 100px;
+	
+	float: right;
+	opacity: 0.8;
+	display: inline-block;

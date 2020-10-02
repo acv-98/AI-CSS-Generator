@@ -1,0 +1,7 @@
+		padding:0 0 0 20px;
+    margin: 0;
+    overflow: inherit;
+    padding: 0 0 0 40px;
+    list-style: none;
+    padding-right: 0;
+    border: none;

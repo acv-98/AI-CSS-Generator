@@ -1,0 +1,6 @@
+	font-weight: 600;
+	width: 50%;
+	background: #333333;
+	color: #fff;
+	box-shadow: 2px 20px 45px 5px rgba(0,0,0,.2);	
+    color: #fff;

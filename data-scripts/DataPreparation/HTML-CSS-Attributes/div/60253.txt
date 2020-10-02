@@ -1,0 +1,31 @@
+ width: 732px; 	
+ width: 224px;  width: 252px;  width: 252px;  width: 436px;  width: 436px; 	background: #ea4c88;
+	color: #f1f1f1;
+	width: 960px;
+	padding-top: 20px;
+ width: 300px; .portfolio-thumbs figure{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	position: relative;
+	overflow: hidden;
+	line-height: 1.2em;
+	display: block;
+	max-width: 100%;
+	opacity: .999;
+		
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	margin-left: 17px;
+	font-weight: bold;
+	margin-top: 17px;
+	font-size: 11px;
+	font-style: normal;
+	bottom: 10px;
+	z-index: 999;
+ display: none; .project-heading{

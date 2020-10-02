@@ -1,0 +1,7 @@
+	height: 25px;
+	width: 25px;
+	display: block;
+	background: url(../images/img-sprite.png)no-repeat -64px -19px #6E9BCA;
+	opacity:0.9;
+	margin-right:10px;
+	cursor:pointer;

@@ -1,0 +1,3 @@
+    color: white;
+    font-size: 12px;
+    padding-right: 7px;

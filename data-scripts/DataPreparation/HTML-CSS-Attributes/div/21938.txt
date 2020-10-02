@@ -1,0 +1,5 @@
+		background:url(images/box-bottom.png) no-repeat left top;
+		height:9px;
+		overflow:hidden;
+		font-size:0;
+		line-height:0;

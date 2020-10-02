@@ -1,0 +1,5 @@
+	padding-bottom:15px;
+	border-bottom:1px solid #CCCCCC;
+	margin-bottom:15px;
+	font-size:18px !important;
+	margin-left:25px;

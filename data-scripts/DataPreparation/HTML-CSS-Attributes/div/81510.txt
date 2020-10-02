@@ -1,0 +1,6 @@
+  position: relative;
+  min-height: 1px;
+  padding-right: .9375rem;
+  padding-left: .9375rem;
+  float: left;
+  width: 100%;

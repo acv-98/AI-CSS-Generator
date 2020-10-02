@@ -1,0 +1,7 @@
+			background-size: 10em;
+			padding: 2.25em 1.5em;
+			background-color: #83d3c9;
+			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
+			background-position: bottom left, bottom right;
+			background-repeat: no-repeat, no-repeat;
+			color: white;

@@ -1,0 +1,4 @@
+    background: #fff;
+    overflow: hidden;
+    margin-top:20px;
+    display: inline-block;

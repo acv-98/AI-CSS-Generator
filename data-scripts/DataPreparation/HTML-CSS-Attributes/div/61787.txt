@@ -1,0 +1,15 @@
+  display: table;
+  padding-bottom: 45px;
+  vertical-align: middle;
+  padding-left: 20px;
+  width: 70px;
+  height: 70px;
+  margin-bottom: 15px;
+  background: #199EB8;
+  color: #fff;
+  font-size: 24px;
+  text-align: center;
+  line-height: 70px;
+  border-radius: 50%;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+    padding-bottom: 30px;

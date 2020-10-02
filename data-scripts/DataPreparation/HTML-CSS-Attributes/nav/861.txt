@@ -1,0 +1,2 @@
+ list-style: none; list-style-position: outside;  display: inline; background: url(images/nav-border.png) no-repeat right 0; padding: 0 10px;  background: transparent; padding-right: 0;  color: #c9c9c9; .footer-nav li a:hover ,
+ color: #696969; text-decoration: none; 

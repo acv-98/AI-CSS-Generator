@@ -1,0 +1,9 @@
+  margin-left: 5px;
+  padding-left: 37px;
+  padding-right: 37px;
+  display: inline-block;
+  font: 400 24px/30px 'Marvel', sans-serif;
+  color: #413d3d;
+  background: #f1f045;
+  text-decoration: none;
+  margin-top: 46px;

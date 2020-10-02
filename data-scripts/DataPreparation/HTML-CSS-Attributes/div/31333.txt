@@ -1,0 +1,15 @@
+	margin:0 0 24px;
+	padding:6px 20px;
+	border:1px solid #e6e5e5;
+	display:block;
+	float:left;
+	width:109px;
+	height:39px;
+	font-size:26px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#fff;
+	background:url(../images/comment.gif) no-repeat left top;
+	position:relative;
+	z-index:1;

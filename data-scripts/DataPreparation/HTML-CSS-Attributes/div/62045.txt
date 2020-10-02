@@ -1,0 +1,18 @@
+    color: #555;
+    float: left;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 12px 0;
+    background: #fff none repeat scroll 0 0;
+    margin-top: 115px;
+    padding: 32px 20px;
+    position: relative;
+    box-shadow: 0 0 4px -2px;
+    -moz-box-shadow: 0 0 4px -2px;
+    -webkit-box-shadow: 0 0 4px -2px;
+    opacity: 0.3;
+font-style: italic; font-size: 15px;.testimonial_item .fa {
+    left: 20px;
+    top: -37px;
+        margin-top: 50px;
+        margin-bottom: 100px;

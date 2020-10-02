@@ -1,0 +1,5 @@
+	border: 2px solid #cbd0d3;
+	border-radius: 0;
+	padding: 0 25px;
+	line-height: 45px;
+	height: 45px;

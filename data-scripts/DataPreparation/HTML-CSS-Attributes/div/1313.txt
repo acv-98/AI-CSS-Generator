@@ -1,0 +1,1 @@
+ background:#1d110b; width:100%; padding:21px 30px 30px 28px;

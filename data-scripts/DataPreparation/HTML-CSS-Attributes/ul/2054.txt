@@ -1,0 +1,21 @@
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+ float: none;  margin-left: 0; .cd-slider-nav a,
+.navbar-nav .nav-link {
+	background-color: transparent;
+	color: black;
+    display: table-cell;
+    font-weight: 400;
+    font-size: 1em;
+    width: 130px;
+    height: 40px;
+ background-color: rgba(255,255,255,0.7); .cd-slider-nav a, 
+ height: 50px; .tm-brand-icon { 
+	font-size: 3rem;
+	padding: 10px;
+		background: transparent;
+		display: -ms-flexbox;
+		height: 80px;
+		font-size: 1.2em;
+		width: 160px;

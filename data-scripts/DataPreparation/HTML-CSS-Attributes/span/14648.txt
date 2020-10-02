@@ -1,0 +1,7 @@
+	display: inline-block;
+	font-family: consolas, monospace;
+	font-size: 1.2em;
+	margin: 0 -0.22em 1em 0;
+	padding-left: 1em;
+	width: 100%;
+		width: 33.333%;

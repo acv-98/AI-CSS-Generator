@@ -1,0 +1,6 @@
+    margin-bottom: 23px;
+    margin-top: 4px;
+    background-color: #e5e5e7;
+    padding: 23px 22px 28px;
+    padding-left: 13px;
+    padding-right: 13px;

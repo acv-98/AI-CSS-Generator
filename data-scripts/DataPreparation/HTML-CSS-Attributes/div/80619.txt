@@ -1,0 +1,17 @@
+height:550px;height:440px;height:500px;	body .slug-pattern {
+		height:343px;
+		width:100%;
+		position:absolute;
+		z-index:1;
+		min-width:340px;
+		background:#2280a8;
+height:650px;	.header .container {
+		padding-top:6px;
+top:-10;margin-bottom:0;	.header .logo {
+		margin:0;
+		top:13px;
+top:-25px;margin-bottom:0;top:-25px;margin-bottom:0;		.clients .client {
+			width:100%;
+			text-align:center;
+			margin-bottom:20px;
+			border-top:none; 

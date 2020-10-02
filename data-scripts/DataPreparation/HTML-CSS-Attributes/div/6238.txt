@@ -1,0 +1,12 @@
+    float:right;
+    background:#FFF;
+    border:#dadada 1px solid;
+    padding:4px;
+    margin:4px 0 0 0;
+    overflow:hidden;
+    font-size:14px;
+    font-family:Verdana, Geneva, sans-serif;
+    color:#636363;
+    font-style:italic;
+    line-height:18px;
+    display:block;

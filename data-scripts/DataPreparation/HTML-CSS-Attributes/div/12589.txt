@@ -1,0 +1,17 @@
+	position: absolute;
+	text-align: center;
+	margin: 0 auto;
+	color: #fff;
+	background: rgba(0, 0, 0, 0.6);
+	padding: 30% 0 0 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: all 0.5s;
+	-webkit-transform: translateY(100%);
+	transform: translateY(100%);
+	font-size: 18px;
+	letter-spacing: 1px;
+	font-weight: 300;
+	text-transform: uppercase;
+	-webkit-backface-visibility: hidden;

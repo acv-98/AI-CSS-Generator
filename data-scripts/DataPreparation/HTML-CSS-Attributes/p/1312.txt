@@ -1,0 +1,1 @@
+ background: url(images/simple_ul_li.gif) left no-repeat; padding:2px 20px; margin:0; font: normal 12px verdana, Helvetica, sans-serif; color:#0072bd;

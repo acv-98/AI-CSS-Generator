@@ -1,0 +1,13 @@
+	text-transform:uppercase;
+	letter-spacing:1px;
+	font-family: "Roboto", sans-serif;
+	font-size:13px;
+	font-weight: 300;
+	line-height: 21px;
+	padding-right:12%;
+	margin:auto;
+	margin-bottom:7%;
+	width:800px;
+	height:450px;
+ width:290px;
+ height:163px;

@@ -1,0 +1,16 @@
+	height: 40px;
+	background: url('../images/price.readmore.png') no-repeat left 0;
+	float: none;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 40px;
+	padding: 0 40px;
+	background-position: left -80px;
+	margin: 0 20px 0 0;
+	display: inline-block;
+	*line-height: 28px;
+	border: none;
+	cursor: pointer;
+	color: #3f4950;
+	text-shadow: 0 1px 0 #fff;
+	text-decoration: none

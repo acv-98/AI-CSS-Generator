@@ -1,0 +1,6 @@
+	width:620px;
+	float:right;
+	padding:27px 27px 0px 27px;
+	margin:0px 0px 0px 0px;
+	
+border-bottom:1px solid #B2A88D;

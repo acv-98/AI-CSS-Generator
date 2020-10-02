@@ -1,0 +1,13 @@
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: none;
+	width: 700px;
+	height: auto;
+	content: ".";
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	zoom: 1;
+	position: relative;
+	background: none;

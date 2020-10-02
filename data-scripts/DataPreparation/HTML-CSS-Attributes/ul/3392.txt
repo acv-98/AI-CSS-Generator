@@ -1,0 +1,23 @@
+	behavior: url("../js/PIE.htc");
+	position:relative;
+	padding:33px 0 24px;
+	text-decoration:none
+	width:100%;
+	background:url(../images/menu-tail.png) center top repeat-x
+	float:left;
+	display:block;
+	font-size:28px;
+	line-height:2em;
+	font-weight:400;
+	margin:0 0 4px 0;
+	color:#151515;
+	text-align:center;
+	letter-spacing:-1px;
+	border-radius:0 0 8px 8px;
+	-moz-border-radius:0 0 8px 8px;
+	-webkit-border-radius:0 0 8px 8px
+	background-position:left top;
+	background-color: #171717;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.20);
+	-moz-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.8);
+	-webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 9)

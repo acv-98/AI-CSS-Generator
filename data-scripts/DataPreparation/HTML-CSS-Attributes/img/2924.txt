@@ -1,0 +1,2 @@
+ float: left; display: inline;  margin-right: 24px; margin-bottom:10px;   float: none; display: block; margin:0 auto 12px; 
+ float:none; display:block; margin: 0 auto;  

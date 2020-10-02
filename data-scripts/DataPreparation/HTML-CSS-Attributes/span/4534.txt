@@ -1,0 +1,1 @@
+font:12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#7c0914; font-weight:bold

@@ -1,0 +1,7 @@
+margin-right: 10px;.social-icon a i{background: #5d6461;
+border-radius: 500px;
+color: #2d312f;
+font-size: 20px;
+height: 42px;
+padding-top: 11px;
+margin-right:5px

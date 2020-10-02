@@ -1,0 +1,5 @@
+  -webkit-box-shadow: -1px -1px 58px -13px rgba(0, 0, 0, 0.9);
+  -moz-box-shadow: -1px -1px 58px -13px rgba(0, 0, 0, 0.9);
+  -ms-box-shadow: -1px -1px 58px -13px rgba(0, 0, 0, 0.9);
+  -o-box-shadow: -1px -1px 58px -13px rgba(0, 0, 0, 0.9);
+  box-shadow: -1px -1px 58px -13px rgba(0, 0, 0, 0.9);

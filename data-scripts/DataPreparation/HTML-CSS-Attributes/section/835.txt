@@ -1,0 +1,2 @@
+ display:none
+ display:none padding-top:87px padding-top:36px font-size:15px; line-height:27px; color:#5e5e64; font-weight:500

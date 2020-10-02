@@ -1,0 +1,12 @@
+.main_testimonial .head_title p{
+    color:#f5c239;
+    font-size: 1.125rem;
+    width:20%;
+    float:left;
+    margin-right: 5%;
+    display: inline;
+    overflow: hidden;
+    line-height: 2rem;
+    height: 2px;
+    background: #f38181;
+    margin-top: -10%;

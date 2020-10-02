@@ -1,0 +1,14 @@
+	display: none;
+	opacity: 0;
+	position: absolute;
+	background: #fefefe;
+    border: 1px solid #f0efef;
+	width: 100%;
+	height: 54px;
+	text-align: center;
+	padding: 15px 10px;
+	z-index: 999;
+	box-sizing: border-box;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;

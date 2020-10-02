@@ -1,0 +1,25 @@
+  margin-right: 5px;
+  float: right;
+    color: inherit;
+    background: transparent;
+    float: none;
+    margin: 7.5px -15px;
+    border: 0;
+    right: 0;
+    left: auto;
+    margin-right: -15px;
+  border-left: 1px solid #eee;
+  border-right-width: 0;
+-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.05);box-shadow:0 1px 1px rgba(0,0,0,0.05) * Skin: Blue
+ * ----------
+.skin-blue .main-header .navbar {
+  background-color: #3c8dbc;
+background-color:#3c8dbc.icheckbox_square,
+.iradio_square {
+    display: inline-block;
+    *display: inline;
+    vertical-align: middle;
+    padding: 0;
+    width: 22px;
+    height: 22px;
+    cursor: pointer;

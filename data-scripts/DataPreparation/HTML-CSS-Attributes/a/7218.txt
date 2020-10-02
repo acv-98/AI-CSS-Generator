@@ -1,0 +1,7 @@
+	background-color: #489cc7;
+	background-image: url("../images/forms/button-big.png");
+	font-size: 22px;
+	padding: 12px 20px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;

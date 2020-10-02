@@ -1,0 +1,2 @@
+	margin:0;
+	border:5px solid #565d62;

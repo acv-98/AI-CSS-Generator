@@ -1,0 +1,8 @@
+    color: #000 !important;
+    font-size: 16px;
+    font-weight: normal;
+    height: 38px;
+    line-height: 1.42857;
+    padding: 7px 0;
+    margin: 8px 0 9px !important;
+    padding-bottom: 10px;

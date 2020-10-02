@@ -1,0 +1,11 @@
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    font-size: 54px;
+    color: #ffffff;
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+    font-family: 'Droid Serif', sans-serif;
+    font-style: italic;
+        font-size: 28px;

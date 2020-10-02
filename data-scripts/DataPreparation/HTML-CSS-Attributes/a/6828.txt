@@ -1,0 +1,11 @@
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	display:block;
+	margin-right:4px;
+	float:left;
+	width:30px;
+	text-align:center;
+	color:#fff;
+	background:url(images/comment_bg.gif) no-repeat left top;
+	border:1px solid #dedede;

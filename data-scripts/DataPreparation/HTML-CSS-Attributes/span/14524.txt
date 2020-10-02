@@ -1,0 +1,7 @@
+	color:#FFFFFF;
+	display:block;
+	font-family:arial;
+	font-size:14px;
+	font-weight:bold;
+	margin:8px 0 0;
+	text-transform:uppercase;

@@ -1,0 +1,1 @@
+ width:32px; height:32px; display:block; background-position:-40px 0px; width:32px; height:32px; display:block; background-position:-40px -32px; 

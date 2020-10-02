@@ -1,0 +1,16 @@
+  margin-bottom: 2em;
+    margin-bottom: 3em;
+  font-size: 34px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #000;
+  position: relative;
+  padding-bottom: 10px;
+    font-size: 28px;
+  bottom: 0;
+  content: "";
+  width: 50px;
+  margin-left: -25px;
+  height: 2px;
+  left: 50%;
+  background: #FF5126;

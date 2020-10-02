@@ -1,0 +1,1 @@
+ position:relative; width:960px; margin-right:-20px; padding-bottom:5px;  list-style-type: none; text-align: center; float:left; border:dashed 1px #cfcfcf; width:194px; margin:0 18px 12px 0; padding:13px;  color:#890000 padding-top:15px;  color:#890000; font-size:14px;

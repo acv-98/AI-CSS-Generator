@@ -1,0 +1,7 @@
+	width:100%;
+	overflow:hidden;
+	padding:8px 0;
+	line-height:1.429em;
+	padding-bottom:20px;
+	float:left;
+	margin:-8px 16px 0 0;

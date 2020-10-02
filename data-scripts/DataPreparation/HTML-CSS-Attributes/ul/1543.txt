@@ -1,0 +1,2 @@
+font:11px/14px Tahoma, sans-serif; background:url(../images/arrow1.gif) 0 7px no-repeat; padding-left:10pxcolor:#be6f44; text-decoration:none; font-weight:boldcolor:#fff; text-decoration:none;
+margin-left:85pxmargin-left:85pxmargin-left:160px

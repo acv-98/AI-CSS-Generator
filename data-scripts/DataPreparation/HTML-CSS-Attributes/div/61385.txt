@@ -1,0 +1,3 @@
+		padding: 190px 100px 300px 100px;
+	background: url(../images/drivingbg.png) repeat-y 100% 100%;
+	background-size: contain;

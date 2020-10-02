@@ -1,0 +1,7 @@
+		font-size: 14px;
+    font-size: 14px;
+    color: #fff;
+    text-transform: uppercase;
+	font-family: 'montserratregular';
+	color:#666;
+    background-color: transparent;

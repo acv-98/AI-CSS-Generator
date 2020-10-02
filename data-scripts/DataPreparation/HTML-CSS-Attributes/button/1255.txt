@@ -1,0 +1,7 @@
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+  background-image: none;
+    padding: 11px 15px;
+    color: #ffffff;
+    background: #FFCC33;

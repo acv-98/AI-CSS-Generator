@@ -1,0 +1,7 @@
+	display: inline-block;
+	float: none;
+	margin: 0 auto;
+	padding: 8px 0px;
+	margin-right: 25px;
+.right-flag li a {
+	color: #626262;

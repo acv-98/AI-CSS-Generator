@@ -1,0 +1,6 @@
+	padding:0;
+	margin:0;
+	background:#fff url(images/hbg_bg.gif) repeat-x center 80px;
+	float:left;
+	width:678px;
+	border:1px solid #b7b7b7;

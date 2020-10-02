@@ -1,0 +1,8 @@
+	width:560px;
+	color:#000;
+	margin-bottom:6px;
+	border-top:#d6d6d6 1px solid;
+	text-align:left;
+	font-weight:bold;
+	padding-bottom:13px;
+	display:block;

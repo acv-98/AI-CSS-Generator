@@ -1,0 +1,3 @@
+	background-image:url(../img/icon2.png);
+	background-position:left top;
+	background-repeat:no-repeat;

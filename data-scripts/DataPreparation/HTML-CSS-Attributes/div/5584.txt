@@ -1,0 +1,6 @@
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  bottom: 58px;
+  right: 0px;
+  background: url(../img/slider-right.png) no-repeat;

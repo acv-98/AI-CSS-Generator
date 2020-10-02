@@ -1,0 +1,12 @@
+  position: relative;
+  background-color: inherit;
+  border: 0;
+  color: #d29948;
+    border-color: #dbb075;
+    margin-top: 15px;
+    margin-right: 5px;
+    outline: none;
+    background: #dbb075;
+    border-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;

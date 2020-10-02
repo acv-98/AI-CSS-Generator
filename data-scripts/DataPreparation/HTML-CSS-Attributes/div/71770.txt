@@ -1,0 +1,7 @@
+	padding: 2px 4px 2px 4px; 
+	margin: 2px;
+	text-decoration: none;
+	border: 1px solid #cc3300;
+	color: #cc3300;
+	background-color: #f4f1e9;	
+	font-weight: bold;

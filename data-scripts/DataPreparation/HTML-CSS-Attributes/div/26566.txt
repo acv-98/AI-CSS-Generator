@@ -1,0 +1,2 @@
+  padding-right: 2em !important;
+    padding-right: 15px !important;

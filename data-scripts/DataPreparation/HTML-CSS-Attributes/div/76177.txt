@@ -1,0 +1,6 @@
+	background:url(images/rightimg3.jpg) 10px 10px no-repeat;
+	width:250px;
+	height:90px;
+	padding:10px;
+	margin-bottom:0;
+	border:solid 1px #ac9f87;

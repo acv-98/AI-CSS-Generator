@@ -1,0 +1,8 @@
+    margin-bottom: 25px;
+    margin-top: -15px;
+    transition: all .5s ease 0s;
+    -webkit-transition: all .5s ease 0s;
+    -moz-transition: all .5s ease 0s;
+    -o-transition: all .5s ease 0s;
+    -ms-transition: all .5s ease 0s;
+        margin: 20px 10px;

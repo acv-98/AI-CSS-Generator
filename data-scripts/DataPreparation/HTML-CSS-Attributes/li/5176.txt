@@ -1,0 +1,2 @@
+	background:url(images/bg_navigation_arrow.png) no-repeat bottom;
+	color:#3FB2D2;

@@ -1,0 +1,2 @@
+float:none !important;width:100% !important;bottom:90px;bottom:0px;position:static;padding-left:0;
+border-left-radius:10px;-moz-border-radius-topleft:10px;-webkit-border-top-left-radius:10px;background:#fff;margin:0;position:absolute;right:0;bottom:0;width:67.1875%;padding:10px 15px;display:inline-block;display:block;margin:25px 2.34375% 20px 0;float:left;width:31.77%;text-align:center;padding:6px 0;border:solid #bababa;border-width:1px 0;margin-right:0;height:91px;width:auto;margin:0 0 0 88px;position:static;padding-top:20px;background:none;

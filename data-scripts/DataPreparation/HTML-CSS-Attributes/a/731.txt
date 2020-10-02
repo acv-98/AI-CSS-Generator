@@ -1,0 +1,18 @@
+    padding: 13px 40px;
+    outline: inherit;
+    color: #ffffff;
+    background-color: #032f3e;
+    border-color: #f56363;
+    display: inline-block;
+    min-width: 270px;
+    height: 60px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 1px;
+    margin: 0;
+    font-size: 20px;
+    font-weight: 300;
+    border-radius: 0px;
+    margin-top: 20px;
+    transition: .5s;
+    text-decoration: none;

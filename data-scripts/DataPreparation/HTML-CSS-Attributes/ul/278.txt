@@ -1,0 +1,9 @@
+	list-style-type: none;
+	display: inline-block;
+	letter-spacing: 1px;
+	font-family: 'BebasNeue Regular';
+	font-size: 12.7px;	
+	color: #E7E7E7;
+	margin-bottom: 0px;
+	padding-left: 26.1%;
+		float: right;

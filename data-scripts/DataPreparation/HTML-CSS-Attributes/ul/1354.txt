@@ -1,0 +1,10 @@
+	height:120px;
+	line-height:24px;
+	margin:24px 0;
+	padding:20px 20px 0 30px;
+	float:left;
+	width:100px;
+	color:#6d6d6d;
+	font-family:arial;
+	font-size:12px;
+	text-shadow:0 0 2px #fffe93;

@@ -1,0 +1,1 @@
+ padding: 0 0 15px 0; background: url(../images/line.gif) repeat-x left bottom; 

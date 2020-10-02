@@ -1,0 +1,4 @@
+ width: 43%; 
+ float:none; width:100%; margin:0; clear:both;     float: left;
+    margin-right: 3%;
+    width: 22.75%;

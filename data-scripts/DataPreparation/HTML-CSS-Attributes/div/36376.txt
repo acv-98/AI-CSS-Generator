@@ -1,0 +1,7 @@
+	float:left;
+	display:inline;
+	width:470px;
+	font-size:23px;
+	color:#768070;
+	font-family:"Trebuchet MS", Arial, sans-serif;
+	font-weight:normal;

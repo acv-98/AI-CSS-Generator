@@ -1,0 +1,6 @@
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  border-top-color: #dddddd;
+  border-bottom-color: #dddddd;
+padding: 10px !important;background: #f0f0f0;color: #989898; font-size: 14px;padding: 20px 15px;.block .panel-group .panel + .panel {
+margin-top: 10px;

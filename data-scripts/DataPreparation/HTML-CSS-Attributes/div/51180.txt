@@ -1,0 +1,12 @@
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    margin-top: -34px;
+    transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+    padding-bottom: 14px;
+    width: 241px;
+    display: inline-block;
+    border-bottom: 1px solid #fff;

@@ -1,0 +1,7 @@
+    border: 1px solid #eee;
+    background: #eee;
+    display: inline-block;
+    margin: 0 2px 5px 0;
+    padding: 3px 10px;
+    color: #333;
+    letter-spacing: 1px;

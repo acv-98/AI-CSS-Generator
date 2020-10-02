@@ -1,0 +1,6 @@
+	padding:0;
+	margin:0;
+	background:#f5f1e6 url(images/main_bg.gif) repeat-y center center;
+	float:left;
+	width:670px;
+	border:1px solid #b7b7b7;

@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	float:right;
+	width:680px;
+	margin-bottom:4px;
+	border:1px solid #dcdee2;
+	background:#ededed url(../images/article_bg.jpg) no-repeat center bottom;
+	color:#585757;

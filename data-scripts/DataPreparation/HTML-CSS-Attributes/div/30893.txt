@@ -1,0 +1,9 @@
+width:116px;
+float:left;
+display:inline;
+padding:15px 0px 0px 30px;
+background:url(../images/ultr_arr.gif) no-repeat left;
+padding-left:20px;
+margin-top:8px;
+font:11px/15px arial;
+color:#DFDFDF;

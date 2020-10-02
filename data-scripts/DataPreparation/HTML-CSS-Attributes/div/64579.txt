@@ -1,0 +1,7 @@
+	font-family:Helvetica, Arial, Tahoma, sans-serif;
+	font-size:11px;
+	line-height:11px;
+	color:#a7a6a6;
+	padding:7px 0 0 15px;
+	background:url("../images/hour.png") no-repeat left 85%;
+	float:right;

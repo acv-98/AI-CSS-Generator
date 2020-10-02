@@ -1,0 +1,4 @@
+  display: table;
+  content: " ";
+  clear: both;
+    float: left;

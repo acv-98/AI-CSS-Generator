@@ -1,0 +1,14 @@
+	behavior: url("../js/PIE.htc");
+	position:relative;
+	text-decoration:none;
+	display:inline-block;
+	padding-bottom:5px;
+	background:url(../images/button2-shadow.png) center bottom no-repeat;
+	cursor:pointer;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:2em;
+	font-weight:bold;
+	text-transform:uppercase;
+	color:#fff;
+	border-radius:22px;

@@ -1,0 +1,1 @@
+border-bottom: 1px dotted #d8d8d8; margin: 20px 0; clear: both

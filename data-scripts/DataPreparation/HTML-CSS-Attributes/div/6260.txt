@@ -1,0 +1,6 @@
+	clear:both;
+	height:30px;
+	float:left;
+	background:url(../images/input-bg.gif) no-repeat left top;
+	width:264px;
+	margin-bottom:11px;

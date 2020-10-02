@@ -1,0 +1,7 @@
+    margin: 15px 30px 0 30px;
+    padding: 0 10px 10px 10px;
+    border-bottom: 1px dotted #ddd;
+    text-align: left;
+    line-height: 30px;
+    font-size: 16px;
+    color: #555;

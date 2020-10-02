@@ -1,0 +1,1 @@
+border:2px solid #ffd62c; border-radius:0 10px; color:#bbb7b7; display:inline-block; float:left; outline:medium none; padding:8px 10px; text-transform:uppercase; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5sbackground-color:#ffd62c; border-color:#ffd62c; text-decoration:none; color:#fff; outline:none

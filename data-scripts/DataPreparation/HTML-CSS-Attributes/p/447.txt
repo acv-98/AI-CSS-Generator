@@ -1,0 +1,1 @@
+border-bottom:#f06368 solid 1px;

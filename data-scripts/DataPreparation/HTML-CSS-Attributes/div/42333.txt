@@ -1,0 +1,4 @@
+	float: left;
+	color: #e0b328;
+	font-size: 14px;
+	font-weight: bold;

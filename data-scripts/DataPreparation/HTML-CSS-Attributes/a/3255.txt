@@ -1,0 +1,9 @@
+	display: block;
+	float: right;
+	font-size: 1.8rem;
+	font-weight: 300;
+	color: white;
+	background-color: #983333;
+	padding: 15px 30px;
+	cursor: pointer;
+	border: none;

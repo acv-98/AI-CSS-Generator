@@ -1,0 +1,2 @@
+  color: #00b1ba;
+    margin-top: 30px;

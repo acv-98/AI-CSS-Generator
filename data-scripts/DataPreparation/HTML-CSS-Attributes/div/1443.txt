@@ -1,0 +1,2 @@
+    background-image: url('../max-image/post-card-3.jpg');
+ background-size: cover;

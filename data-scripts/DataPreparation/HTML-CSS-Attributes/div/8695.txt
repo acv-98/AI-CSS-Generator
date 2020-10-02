@@ -1,0 +1,3 @@
+	padding-left:30px;
+	background:url(../images/quote.png) 0 3px no-repeat;
+	position:relative

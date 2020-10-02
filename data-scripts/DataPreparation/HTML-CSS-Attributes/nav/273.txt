@@ -1,0 +1,12 @@
+	margin-bottom: 0;
+	background-color: #f6f6f6;
+	border-radius: 0px;
+	padding: 10px 0;
+	border-bottom: 2px solid #fff;
+	color: #555;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	-webkit-transition: background .3s ease-in-out;
+	-moz-transition: background .3s ease-in-out;
+	transition: background .3s ease-in-out;
+	outline: 0;

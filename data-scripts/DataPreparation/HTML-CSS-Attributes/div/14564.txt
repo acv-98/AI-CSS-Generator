@@ -1,0 +1,7 @@
+    padding-top: 250px;
+    color: #fff;
+    margin-bottom:20px;
+    max-width: 60%;
+    padding-bottom: 30px;
+    font-size:1.125rem;
+        

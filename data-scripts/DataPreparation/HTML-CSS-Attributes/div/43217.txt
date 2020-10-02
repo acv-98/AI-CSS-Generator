@@ -1,0 +1,4 @@
+	margin:0 auto;
+	width:920px;
+	padding:16px 20px;
+	background:#ededed url(../images/fbg_bg.jpg) no-repeat center bottom;

@@ -1,0 +1,12 @@
+  display: inline;
+  float: left;
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  color: #fff;
+  padding: 5px 8px;
+  font-weight: bold;
+  left: 0;
+  top: 15px;
+    max-width: 100%;
+    width: 100%;

@@ -1,0 +1,2 @@
+ background-image: url(images/meta.gif); 		.sidebar ul li a {
+			color: #666666;

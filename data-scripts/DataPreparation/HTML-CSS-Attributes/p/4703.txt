@@ -1,0 +1,1 @@
+padding-left:25px;background-image:url('images/icons/chat.png');margin-right:0;background-position:9px center; color:#777777; float:right; margin-right:20px; width:3em; 

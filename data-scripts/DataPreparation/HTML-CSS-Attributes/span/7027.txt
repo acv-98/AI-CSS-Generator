@@ -1,0 +1,5 @@
+  color: #888888;
+  font-size: 14px;
+  display: block;
+  margin-bottom: 6px;
+  border-bottom: 1px solid #ccc;

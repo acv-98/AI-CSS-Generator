@@ -1,0 +1,10 @@
+	max-width: 1200px;
+	margin: 0 auto; 
+ max-width: 1230px; .tm-navbar-container {
+	background-color: rgba(0,0,0,0.33);
+	height: 80px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    transition: all 0.3s ease;

@@ -1,0 +1,16 @@
+		background:url(../images/design/side-shadows-960.png) left top no-repeat transparent;
+		width:1031px;
+		height:309px;
+		position:absolute;
+		z-index:0;
+		left:-18px;
+		top:0;
+		overflow:hidden;
+			background:url(../images/design/side-shadows-768.png) left top no-repeat transparent;
+			width:832px;
+			height:541px;
+			position:absolute;
+			z-index:0;
+			left:-21px;
+			top:15%;
+			overflow:hidden;

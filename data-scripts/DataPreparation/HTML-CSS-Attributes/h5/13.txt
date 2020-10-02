@@ -1,0 +1,6 @@
+  margin-bottom: 0.25rem !important;
+    color: #000000 !important;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 0rem !important;

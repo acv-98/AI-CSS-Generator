@@ -1,0 +1,6 @@
+	position:absolute;
+	width:118px;
+	height:128px;
+	top:0;
+	left:471px;
+	background:url(../images/discount.png) 0 0 no-repeat;

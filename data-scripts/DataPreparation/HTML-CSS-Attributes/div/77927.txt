@@ -1,0 +1,5 @@
+	background: url(../img/black/bkg_banner.jpg) center no-repeat;
+	width: 100%;
+	height: 428px;
+	position:relative;
+	padding: 33px 0 0;

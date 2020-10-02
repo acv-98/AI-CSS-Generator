@@ -1,0 +1,16 @@
+  position: relative;
+  text-align: center;
+  vertical-align: text-top;
+  list-style: none outside none;
+  border: 1px solid rgba(0, 0, 0, 0.08) !important;
+  bottom: 0px;
+  -webkit-transform: scale(1.2) translateY(-7.5%);
+  -moz-transform: scale(1.2) translateY(-7.5%);
+  -ms-transform: scale(1.2) translateY(-7.5%);
+  transform: scale(1.2) translateY(-7.5%);
+  height: 100%;
+  width: 100%;
+  opacity: 0.7;
+  -webkit-transition: opacity 0.5s 0.2s;
+  -moz-transition: opacity 0.5s 0.2s;
+  transition: opacity 0.5s 0.2s;

@@ -1,0 +1,14 @@
+    background: #e26fa5 none repeat scroll 0 0;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    font-size: 15px;
+    color: #fff;
+    padding: 10px 22px;
+    border-bottom: 5px solid #d83f87;
+    margin-top: 4px;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+        margin-bottom: 20px;

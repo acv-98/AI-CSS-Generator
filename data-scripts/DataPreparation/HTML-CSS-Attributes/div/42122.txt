@@ -1,0 +1,15 @@
+  color: #fff;
+  margin-bottom: 5em;
+  font-size: 30px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  position: relative;
+  bottom: -10px;
+  left: 0;
+  right: 0;
+  width: 60px;
+  height: 2px;
+  background: #F85A16;
+  content: '';
+  display: block;
+  letter-spacing: 2px;

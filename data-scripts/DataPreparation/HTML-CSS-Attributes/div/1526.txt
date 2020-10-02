@@ -1,0 +1,10 @@
+	text-align:center;
+	margin:3em 0 2em;
+	width: 32px;
+	height: 32px;
+	display: inline-block;
+	background: url(../images/social-icons.png) no-repeat 8px 0px;
+	list-style:none;
+	margin-right: 1.2em;
+		margin:0;
+		padding:0;

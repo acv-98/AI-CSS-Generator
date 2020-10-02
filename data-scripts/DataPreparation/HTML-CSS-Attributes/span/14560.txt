@@ -1,0 +1,4 @@
+    width: 92%;
+	width: 90%;
+	display: inline-block;
+	vertical-align: top;

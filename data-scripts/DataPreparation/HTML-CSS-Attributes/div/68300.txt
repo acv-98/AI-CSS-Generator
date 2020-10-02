@@ -1,0 +1,1 @@
+ float: left;  background: url(images/star.png) no-repeat 0 0; margin-left: 4px; float: left; width: 20px; height: 20px;    background: transparent; 

@@ -1,0 +1,11 @@
+    float: left;
+    position: relative;
+    width: 100%;
+    background: rgba(20, 173, 124, 1);
+    bottom: 25px;
+    color:#fff;
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 16px;
+    padding: 15px 0;
+    text-align: center;  

@@ -1,0 +1,6 @@
+	background-color: #ebebeb;
+	height: 70px;
+	margin-right: 15px;
+	max-width: inherit;
+	width: 70px;
+	border-radius: 50%;

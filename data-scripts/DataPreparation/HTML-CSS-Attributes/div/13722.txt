@@ -1,0 +1,17 @@
+ font-size: 17px; font-family: 'Open Sans', sans-serif; color: #aca12a; font-style: normal; font-weight: 400;  font-size: 11px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  font-size: 17px; font-family: 'Open Sans', sans-serif; color: #aca12a; font-style: normal; font-weight: 400;  font-size: 11px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;         width: 1170px;
+        height: 390px;
+	width:960px; 
+	margin:0 auto;
+	font-family:'OstrichSansMedium'; 
+	color:#ffffff; 
+	font-size:34px;
+	padding: 0 15px; 
+	line-height:24px;
+	display:block;
+	list-style:none; 
+	font-weight:bold; 
+	text-decoration:none;
+	border:none;
+	position: relative;
+		width: 780px !important;
+		height: 585px !important;

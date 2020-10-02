@@ -1,0 +1,3 @@
+		padding: 190px 100px 300px 100px;
+	background:url(../images/drivingbg.jpg) no-repeat top center;
+	background-size:cover;

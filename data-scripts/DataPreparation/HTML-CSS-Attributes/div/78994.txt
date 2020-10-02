@@ -1,0 +1,7 @@
+  font-style: italic;
+  color: #ffffff;
+  margin-bottom: 37px;
+  padding-top: 57px;
+  font-size: 34px;
+  line-height: 36px;
+  font-weight: normal;

@@ -1,0 +1,8 @@
+ margin-bottom: 30px;  margin-bottom: 0; 
+.tm-services-col-right {
+	display: -webkit-box;
+	-webkit-box-align: stretch;
+	-webkit-align-items: stretch;
+	    -ms-flex-align: stretch;
+	        align-items: stretch;
+ margin-bottom: 0; 	padding-right: 0;  padding-left: 0; 

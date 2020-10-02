@@ -1,0 +1,8 @@
+	width:100%;
+	padding:0;
+	position: relative;
+	border-bottom: #e6e6e6 1px solid;
+	padding-bottom: 9px;
+	height: 1px;
+	bottom: -1px;
+	right:0;

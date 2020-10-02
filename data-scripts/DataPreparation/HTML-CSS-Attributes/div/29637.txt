@@ -1,0 +1,15 @@
+	_width:610px;
+	font-family:arial;
+	color:#FFFFFF;
+	font-size:20px;
+	font-weight:bold;
+	margin:0;
+	padding:20px 0 0;
+	line-height:20px;
+	text-decoration:none;
+	text-align:justify;
+ *margin:10px 0 0 5px;
+	background:url(../images/bg-label.gif) no-repeat 0 40px;
+	position:relative;
+	text-transform:uppercase;
+	top:40px;

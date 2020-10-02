@@ -1,0 +1,8 @@
+	display:block;
+	border:1px solid #666666;
+	background: #efefef;
+	width:250px;
+	padding:5px;
+	font-size:14px;
+	color:#000000;
+background:#FFFFFF; border: solid 1px #000000;.form .text:focus {

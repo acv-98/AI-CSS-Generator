@@ -1,0 +1,4 @@
+	border: 1px solid #d7dee0;
+	font-size: .875em;
+	margin-bottom: 15px;
+	padding: 10px 20px;

@@ -1,0 +1,6 @@
+	color:#868593;
+	text-decoration:none;
+	font-family:arial;
+	font-size:14px;
+	margin:0 225px 0 0;
+	float:left;

@@ -1,0 +1,6 @@
+  top: 0;
+  position: relative;
+  bottom: 104px;
+  fill: white;
+  stroke: white;
+  stroke-width: 0;

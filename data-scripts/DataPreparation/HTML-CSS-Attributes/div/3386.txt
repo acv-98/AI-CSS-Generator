@@ -1,0 +1,6 @@
+float:left;
+width:245px;
+background:url(../images/lp_tile.gif) repeat-x;
+height:34px;
+display:inline;
+margin:13px 0 0 2px;

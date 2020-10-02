@@ -1,0 +1,10 @@
+		overflow: hidden;
+		margin: 0em;
+		padding: 0em;
+		list-style: none;
+		border-top: 1px solid #212124;
+		padding-left: 1em;
+		background: url(images/list-bullet.png) no-repeat left 50%;
+		text-decoration: none;
+		color: #909090;
+		padding-top: 0;

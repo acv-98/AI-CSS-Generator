@@ -1,0 +1,9 @@
+  padding: 9px;
+  color: #333;
+	padding-bottom: 50px;
+	font-weight: 700;
+	text-shadow: none;
+	color: #EEE;
+	font-size: 0.96em;
+	line-height: 1.5em;
+		padding: 1em 0 1em;

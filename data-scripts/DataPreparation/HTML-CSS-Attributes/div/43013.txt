@@ -1,0 +1,1 @@
+background-color:rgba(0,0,0,0.5); left:15px; padding:5px 8px; position:absolute; top:10px; width:auto !important; z-index:5color:#fff !important; margin-bottom:0color:#fff !important

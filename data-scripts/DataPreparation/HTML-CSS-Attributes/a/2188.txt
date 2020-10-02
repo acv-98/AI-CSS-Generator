@@ -1,0 +1,4 @@
+	background: transparent;
+    border: 2px solid #4EA7FF;    
+    color: #4EA7FF;
+    background: #4EA7FF;

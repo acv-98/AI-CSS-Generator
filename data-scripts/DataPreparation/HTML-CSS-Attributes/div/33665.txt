@@ -1,0 +1,7 @@
+	background-color:#fff;
+	display:block;
+	padding:20px 15px;
+	color:#333;
+	text-transform:uppercase;
+	clear:both;
+	position: relative;

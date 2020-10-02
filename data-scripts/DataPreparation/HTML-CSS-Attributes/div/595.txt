@@ -1,0 +1,4 @@
+	margin:0 0 12px;
+	padding:16px 20px;
+	background:#dbe2ec url(../images/gadget_bg.gif) repeat-x left bottom;
+	border:2px solid #fff;

@@ -1,0 +1,11 @@
+  color: #78ADC9;
+  display: inline;
+  float: left;
+  width: 100%;
+  padding-top: 0 !important;
+  font-size: 20px;
+  line-height: 25px;
+  margin-bottom: 5px;
+  margin-top: 0;
+  text-align: center;
+font-size: 16px;font-size: 15px;font-size: 16px;

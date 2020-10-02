@@ -1,0 +1,2 @@
+ width: 20%;  width: 80%; 	
+ width: 25%;  width: 75%;  float: none; width: auto; text-align: center;  float: none; width: auto; margin-top: 30px; text-align: center;  margin-top: 20px; text-align: center; 

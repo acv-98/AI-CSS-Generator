@@ -1,0 +1,4 @@
+  margin-right: 25px;
+  margin-top: 6px;
+  border-left: 3px solid #dab074;
+    margin-right: 20px;

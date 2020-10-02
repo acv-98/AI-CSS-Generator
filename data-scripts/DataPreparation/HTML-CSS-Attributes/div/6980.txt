@@ -1,0 +1,1 @@
+width:100%; height:auto; background:#22a8f0; overflow:hidden;width:670px; margin:0 auto; margin-top:50px; margin-bottom:50px;color:#ffffff;

@@ -1,0 +1,6 @@
+	background-color: #659a22;
+	background-image: -moz-linear-gradient(top, #9ac92c, #659a22);
+	background-repeat: repeat-x;
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#9ac92c', endColorstr='#659a22', GradientType=0);
+	border-color: #51a351 #51a351 #387038;
+	text-shadow:1px 1px #659a22 !important;

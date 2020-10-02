@@ -1,0 +1,2 @@
+        border-color: #fff;
+        background-color: transparent;

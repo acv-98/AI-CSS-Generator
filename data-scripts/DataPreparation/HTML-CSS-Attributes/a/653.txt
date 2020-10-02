@@ -1,0 +1,7 @@
+	font:normal 11px/16px Tahoma, Arial, Helvetica, sans-serif;
+	color:#576370;
+	height:20px;
+	background:url(../images/orange_dot.jpg) 0 +6px no-repeat;
+	text-decoration:none;
+	display:block;
+	padding:0 0 0 10px;

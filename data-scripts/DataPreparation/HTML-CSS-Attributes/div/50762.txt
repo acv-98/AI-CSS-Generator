@@ -1,0 +1,13 @@
+	width:278px;
+	height:255px;
+	float:left;
+	background:url('images/box-bg.gif') no-repeat 0 0;
+	padding-right:34px;
+	color:#646464;
+	line-height:19px;
+	position:relative;
+	overflow:hidden;
+	padding-bottom:10px;
+	display:inline;
+	text-align:justify;
+	padding-top:12px;

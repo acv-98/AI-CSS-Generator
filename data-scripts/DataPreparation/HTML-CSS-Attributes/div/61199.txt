@@ -1,0 +1,11 @@
+	display: inline;
+	float: left;
+	margin-top: 20px;
+	width: 100%;
+	border: 1px solid #e1e1e1;
+	border-top-color: #0091ea;
+	font-size: 14px;
+	padding: 12px 15px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;

@@ -1,0 +1,1 @@
+ color:#8B9091; float:left; letter-spacing:1px; margin-right:2em; padding:0 0 1em; width:3em; 

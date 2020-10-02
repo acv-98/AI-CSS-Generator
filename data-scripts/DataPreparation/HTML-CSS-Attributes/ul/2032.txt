@@ -1,0 +1,7 @@
+  margin-left: 0;
+  list-style-type: none;
+  padding: 0;
+  color: #535b60;
+  font-weight: 600;
+  margin-top: 10px;
+  font-size: 0.9em;

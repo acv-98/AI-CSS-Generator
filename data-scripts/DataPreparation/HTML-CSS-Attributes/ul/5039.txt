@@ -1,0 +1,15 @@
+	margin-top:-24px;
+	width:100%;
+	overflow:hidden;
+	vertical-align:top;
+	line-height:1.571em;
+	padding-top:24px;
+	float:left;
+	margin-right:17px;
+	color:#a5a5a5;
+	display:block;
+	text-decoration:none;
+	height:1%;
+	background:url(../images/marker.gif) no-repeat left 5px;
+	padding-bottom:20px;
+	margin-bottom:-6px;

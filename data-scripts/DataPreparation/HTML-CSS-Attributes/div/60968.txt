@@ -1,0 +1,10 @@
+	position: absolute;
+	top: 15px;
+	right: 10px;
+	width: 112px;
+	border-left: 1px solid #d9d9d9;
+	padding-left: 10px;
+	height: 25px;
+	float: right;
+	margin: 3px 0px;
+	overflow: hidden;

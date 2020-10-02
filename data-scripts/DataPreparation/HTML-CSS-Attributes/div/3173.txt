@@ -1,0 +1,8 @@
+    font-size: 90px;
+    line-height: 90px;
+    margin-top: 0;
+    color: #ffffff;
+    font-weight: bold;
+    top: -0.2em;
+    vertical-align: super;
+    padding: 30px 8px 0;

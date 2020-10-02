@@ -1,0 +1,7 @@
+		margin-right: 0px;
+    flex-direction: row-reverse;
+    -webkit-flex-direction: row-reverse;
+    float: left;
+	padding: 30px 35px;
+	background: #f1f1f1;
+	color: #ffffff;

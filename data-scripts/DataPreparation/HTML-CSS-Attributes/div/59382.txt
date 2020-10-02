@@ -1,0 +1,6 @@
+	width: 25%;
+	margin-bottom: 0;
+	padding: 0;
+	display:none;
+	float:left;
+	overflow:hidden;

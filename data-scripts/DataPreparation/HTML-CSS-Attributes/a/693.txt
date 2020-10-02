@@ -1,0 +1,3 @@
+	color:#a2cf58;
+	background:url(images/hover.gif) top repeat-x;
+	font-weight:bold;

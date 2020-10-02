@@ -1,0 +1,1 @@
+width:800px; height:102px; background:url(../images/b_input2.png) 0 0 no-repeat; padding:15px 15px; font:14px/16px 'Droid Sans',Arial,sans-serif; color:#103140; text-transform:uppercase; border:none; clear:both; margin-bottom:20px;

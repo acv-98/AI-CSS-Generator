@@ -1,0 +1,4 @@
+	padding-bottom:20px;
+	margin-right:0;
+	background:none;
+	padding-right:0;

@@ -1,0 +1,7 @@
+	margin: 0 35px 0 5px;
+	padding: 16px;
+	border: 2px solid #95e1d3;
+	font-size: 65px;
+	color: #95e1d3;
+		font-size: 45px;
+		margin: 0 15px 0 5px;

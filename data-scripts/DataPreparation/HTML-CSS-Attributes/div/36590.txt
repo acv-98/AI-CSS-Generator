@@ -1,0 +1,5 @@
+ margin:0px; font-family: 'ProximaNovaBold', Arial, Helvetica, sans-serif; font-size:22px; color:#fff; padding-bottom:15px; margin:0px; padding:0px; list-style:none; margin:0px; padding-bottom:10px; color:#fff; font-size:18px; font-family: 'ProximaNovaRegular'; text-decoration:none; color:#6bbfff; margin:0px; font-family: 'ProximaNovaRegular'; font-size:18px; color:#fff; line-height:25px; padding-bottom:35px;
+.social
+{
+	width:130px;
+	float:left;

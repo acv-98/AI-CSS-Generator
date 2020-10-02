@@ -1,0 +1,10 @@
+	text-align: right;
+	padding-top: 49px;
+	font-size: 0;
+	line-height: 0;
+	margin-top: 0; 
+	background-color: #e06091;
+	display: inline-block;
+	min-width: 90px;
+	color: #fff;
+	margin-left: 5px;

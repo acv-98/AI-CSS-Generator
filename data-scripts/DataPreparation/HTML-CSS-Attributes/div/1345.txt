@@ -1,0 +1,7 @@
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 968px;
+	height: 8px;
+	background-image: url(images/middle-top.gif);
+	background-repeat: no-repeat;

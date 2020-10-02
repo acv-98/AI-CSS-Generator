@@ -1,0 +1,1 @@
+ background: none repeat scroll 0 0 #243960; box-sizing: border-box; float: left; margin: 0 0 30px; padding: 2.5% 3%; width: 100%;margin-right:4%;width:67%; width:100%; float:left;width:100%;width:100%;margin-right:0;width:100%;margin-top:10px;

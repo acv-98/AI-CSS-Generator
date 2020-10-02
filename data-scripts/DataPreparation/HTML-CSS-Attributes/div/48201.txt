@@ -1,0 +1,13 @@
+	width: 100%;
+	padding:10px;
+	background: #3a9cc8;
+	position: relative;
+	transition: all .7s ease 0s;
+	-webkit-transition: all .7s ease 0s;
+	-moz-transition: all .7s ease 0s;
+	-o-transition: all .7s ease 0s;
+	-ms-transition: all .7s ease 0s;
+	font-size: 30px;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+  		font-size: 26px;

@@ -1,0 +1,25 @@
+-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both
+@charset "UTF-8";
+ * animate.css -http://daneden.me/animate
+ * Version - 3.5.2
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2017 Daniel Eden
+animation-duration:1s;animation-fill-mode:both * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+    Version: 1.0
+.customwidget li i,
+.navbar-nav span {
+    color: #db00ce !important;
+        display: block !important;
+    border-color: transparent;
+    margin: 10px 0;
+    width: 100%;
+    z-index: auto;
+    position: static;
+    float: none;
+    padding: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;

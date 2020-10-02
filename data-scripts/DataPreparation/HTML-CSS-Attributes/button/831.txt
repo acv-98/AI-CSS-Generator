@@ -1,0 +1,7 @@
+  color: #ffffff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff2aabd2', GradientType=0);
+  background-repeat: repeat-x;
+  background-position: 0 -15px;

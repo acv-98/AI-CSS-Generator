@@ -1,0 +1,17 @@
+		left: 50%;
+		margin-left:-20px;
+		position:inherit;
+		width:40px;
+		height:40px;
+		margin-top:40px;
+		opacity:0;
+		background:url(images/zoom.png);
+		background-size:40px 40px;
+		transition:all 0.3s ease 0.1s;
+		-moz-transition:all 0.3s ease 0.2s;
+    	-webkit-transition:all 0.3s ease 0.2s;
+    	-ms-transition:all 0.3s ease 0.2s;
+		-o-transition:all 0.3s ease 0.2s;	
+		-webkit-transition: opacity .3s .2s, margin-top .3s .2s;
+		-ms-transition: opacity .3s .2s, margin-top .3s .2s;
+		

@@ -1,0 +1,11 @@
+        margin: 20px 0;
+    
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif; 
+    color: #ffffff;
+    text-transform: uppercase;
+    border: 1px solid #f65aa7;
+    width: 65px;
+    margin-left: 0;
+    margin-right: 0;

@@ -1,0 +1,11 @@
+    background:url(../img/accordion.png) no-repeat scroll right -114px #333;
+    color: #fff;
+    cursor: pointer;
+    padding: 16px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;

@@ -1,0 +1,13 @@
+.content_title {background: url("images/latest_post_bg.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+height: 73px;
+font-size: 16px;
+margin-bottom: 0;
+padding: 8px;
+font-size: 25px;line-height: 30px;font-size: 16px;.rectangle_large{width: 336px;height: 280px;
+box-shadow: 1px 1px 13px -2px #DDDDDD;
+-webkit-box-shadow: 1px 1px 13px -2px #DDDDDD;
+-moz-box-shadow: 1px 1px 13px -2px #DDDDDD;
+-o-box-shadow: 1px 1px 13px -2px #DDDDDD;
+margin-left: 30px;margin-bottom:5px;color:#222;.content ul li a{color: #222;
+display: block;
+text-decoration:underline;font-weight:bold;.btn{display: inline-block;

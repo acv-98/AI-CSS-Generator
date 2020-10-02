@@ -1,0 +1,1 @@
+ background-image:url("images/socials.png"); background-position:-150px -30px; background-size:270px 60px background-position:-150px 0px; background-size:270px 60px; background-color:#86ae24

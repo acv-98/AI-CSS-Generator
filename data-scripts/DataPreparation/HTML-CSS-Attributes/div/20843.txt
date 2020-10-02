@@ -1,0 +1,17 @@
+    background-color: #ffffff;
+    padding: 3rem 2rem;
+    border-radius: 5px;
+    color: #000;
+    border-color: #e2e2e2;
+    font-weight: bold;
+    position: relative;
+    display: block;
+    margin-bottom: 3rem;
+    background-image: none;
+    width: 33.3333%;
+    float: left;
+    border-right: 5px solid #ffffff;
+    border-bottom: 5px solid #ffffff;
+    list-style: none;
+    font-size: 15px;
+    line-height: 1;

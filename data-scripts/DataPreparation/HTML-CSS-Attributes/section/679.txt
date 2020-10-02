@@ -1,0 +1,9 @@
+	background-color:#f2f2f2;
+	margin-top:20%;
+	text-transform:uppercase;
+	letter-spacing:1px;
+	font-family: "Roboto", sans-serif;
+	font-size:13px;
+	font-weight: 300;
+	line-height: 21px;
+ margin-top: 5%;

@@ -1,0 +1,17 @@
+-moz-transition-duration:.4s;-o-transition-duration:.4s;-webkit-transition-duration:.4s
+ * Owl Carousel v2.1.0
+ * Copyright 2013-2016 David Deutsch
+ * Licensed under MIT (https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE)
+.owl-carousel {
+    display: none;
+    width: 100%;
+    -webkit-tap-highlight-color: transparent;
+    position: relative;
+    z-index: 1;
+	-moz-transform: translateY(10px)rotate(45deg);
+	-ms-transform: translateY(10px)rotate(45deg);
+	-webkit-transform: translateY(10px)rotate(45deg);
+	transform: translateY(10px)rotate(45deg);
+	background: #8399ca;
+	color: #fff;
+    color: #fff;

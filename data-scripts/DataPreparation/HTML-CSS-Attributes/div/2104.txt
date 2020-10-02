@@ -1,0 +1,16 @@
+	margin: 12px 0 0;
+	line-height: 24px;
+	display: table;
+	width: 100%;
+	padding: 0;
+	margin-bottom: 80px;
+	background: url(../img/intro-bg.jpg) no-repeat right top;
+	background-color: #e5e5e5;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	font-size: 94px;
+	color: #fff;
+	padding-top: 250px;
+	padding-bottom: 200px;

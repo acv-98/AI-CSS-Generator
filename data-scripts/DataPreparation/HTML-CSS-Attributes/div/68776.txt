@@ -1,0 +1,6 @@
+    font-size:1.625rem;
+    color:#222222;
+    line-height: 2rem;
+    width:75%;
+    margin:0 auto;
+	font-family: 'amblelight';

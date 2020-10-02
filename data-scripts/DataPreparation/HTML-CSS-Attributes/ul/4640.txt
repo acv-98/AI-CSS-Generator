@@ -1,0 +1,18 @@
+	background:url(../images/img_top1.gif) center 0 no-repeat
+	position:absolute;
+	top:0
+	float:left;
+	padding-right:1px;
+	width:95px
+	color:#fff;
+	text-align:center;
+	display:block;
+	line-height:42px;
+	text-decoration:none;
+	border-radius:6px 6px 0 0;
+	-moz-border-radius:6px 6px 0 0;
+	-webkit-border-radius:6px 6px 0 0;
+	box-shadow:0 0 3px #d0d0d0;
+	-moz-box-shadow:0 0 3px #d0d0d0;
+	-webkit-box-shadow:0 0 3px #d0d0d0;
+	overflow:hidden

@@ -1,0 +1,25 @@
+background-position:0 -10px;	.asyncslider {
+		height:410px;
+		background:url(../images/design/rb-960.png) left top no-repeat transparent;
+		position:relative;
+		margin:auto;
+		z-index:331;
+		color:#3783a0; 
+		padding:10px 8px 10px 8px;  
+		background-color:transparent;
+		border:1px solid #dbdbdb;
+		border-top:1px solid #3783a0;
+		border-bottom:3px solid #f4f3f3;
+		top:0;
+		left:0;
+color:#217b9d;color:#3783a0;border-top:1px solid #2f86a8;color:#3796ba;	background-position: 0 0;
+		width:13px;
+		line-height:0;
+		overflow:hidden;
+		background-position:left -29px;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		border-radius: 4px;
+		-webkit-box-shadow: inset 1px 1px 1px 1px rgba(205, 205, 205, .1);
+        box-shadow: inset 1px 1px 1px 1px rgba(205, 205, 205, .1);
+	font-weight:bold;

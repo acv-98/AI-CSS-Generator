@@ -1,0 +1,2 @@
+ 
+ background: transparent url(images/box-right-bg.png) repeat-y top right; 

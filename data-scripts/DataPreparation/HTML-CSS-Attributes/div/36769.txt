@@ -1,0 +1,3 @@
+ .block_header { 
+	margin:0 auto; 
+	width:966px; 

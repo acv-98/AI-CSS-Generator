@@ -1,0 +1,1 @@
+height:530px; background:#252b33; margin-top:-50px; border-top:4px solid #a8aaad;

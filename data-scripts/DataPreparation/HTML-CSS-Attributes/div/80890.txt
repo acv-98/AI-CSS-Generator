@@ -1,0 +1,7 @@
+	background: #fff;
+	color: #414141;
+color:#fff; background:#72b626;background:#aaa; text-decoration:nonecolor:#fff; background:#080808;background:#aaa;input[type="button"] {
+		background: #080808;
+		color: #fff;
+background-color: rgba(0,0,0,.15);background-color: rgba(0,0,0,.1);background-color: rgba(0,0,0,.25);background-color: rgba(0,0,0,.2);background-color: rgba(0,0,0,.35); padding: 15px 0;background-color: rgba(0,0,0,.3); padding: 35px 0;.color-custom {
+	margin-top:-57px;

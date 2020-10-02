@@ -1,0 +1,12 @@
+width: 511px;margin-top:25px;.home_wide_add{border: 1px solid #8ECBFE;
+padding: 5px;
+.home_single_sidebar{-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+-moz-border-right-colors: none;
+-moz-border-top-colors: none;
+background: none repeat scroll 0 0 #E9F5FF;
+border-color: -moz-use-text-color #DDDDDD #35A1FB;
+border-image: none;
+border-style: none solid solid;
+border-width: medium 1px 5px;
+text-align: center;

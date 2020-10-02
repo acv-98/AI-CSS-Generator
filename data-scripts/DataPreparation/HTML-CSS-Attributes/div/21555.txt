@@ -1,0 +1,5 @@
+    margin-bottom: 15px;
+    overflow: hidden;
+    color: #6CB670;
+    text-decoration: underline;
+    padding-top: 4px;

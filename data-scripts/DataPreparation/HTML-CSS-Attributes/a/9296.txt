@@ -1,0 +1,10 @@
+	background-color:#242531;
+	display:block;
+	text-transform:uppercase;
+	width:124px;
+	height:140px;
+	text-decoration:none;
+	text-align:center;
+	font:normal 20px/140px Palatino Linotype, Helvetica, Arial, sans-serif;
+	color:#76b2ff;
+	float:left;

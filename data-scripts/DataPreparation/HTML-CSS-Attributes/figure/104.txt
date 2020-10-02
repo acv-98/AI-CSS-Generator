@@ -1,0 +1,1 @@
+width:100%display:blockwidth:100%color:#333; font-family:"Oswald",sans-serif; font-size:23px; font-weight:300; margin-top:10px; margin-bottom:10pxcolor:#d083cf

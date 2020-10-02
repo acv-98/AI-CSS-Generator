@@ -1,0 +1,7 @@
+	border-radius:0 0 4px 4px;
+	-moz-border-radius:0 0 4px 4px;
+	-webkit-border-radius:0 0 4px 4px;
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	background:url(../images/bg_form.gif) repeat;
+	padding:30px 35px 28px;

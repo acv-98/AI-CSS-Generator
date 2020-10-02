@@ -1,0 +1,25 @@
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-right: -20px;
+  float: left;
+  width: 33%;
+  text-align: center;
+  background: #fff;
+  border:1px solid #E8EAEE;
+  
+  position: relative;
+background-color: #000;
+font-size: 20px;
+  top: 0;
+  left: 0;
+  height: 100%;
+  opacity: 0;
+  background-color: rgba(177, 166, 255, 1);
+  vertical-align: middle;
+  -webkit-transition: opacity 300ms;
+  -moz-transition: opacity 300ms;
+  -o-transition: opacity 300ms;
+  transition: opacity 300ms;
+  display: inline-block;
+  margin-top: -20px;

@@ -1,0 +1,15 @@
+	list-style:none outside none;
+	margin-left:0;
+	margin-right:0;
+	overflow:hidden;
+	padding:0;
+	width:100%;
+	color:#534741;
+	text-shadow: 0px 1px 0px #a6d9ed;
+	background: url('../images/border_line.gif') repeat-x bottom left;
+	border-bottom:1px solid #4da0c2;
+	border-top:1px solid #82c9e6;
+	float:left;
+	list-style-type:none;
+	padding-left:12px;
+	font-weight:bold;

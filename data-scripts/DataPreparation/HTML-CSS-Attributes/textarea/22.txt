@@ -1,0 +1,2 @@
+	width:65%;
+	margin-top:0px;

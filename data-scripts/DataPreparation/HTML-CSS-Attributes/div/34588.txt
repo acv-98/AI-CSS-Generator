@@ -1,0 +1,13 @@
+	background: #dc5c00;
+	position:absolute;
+	text-shadow:none;
+	width:270px;
+	bottom:0;
+-webkit-border-bottom-right-radius: 4px;
+-webkit-border-bottom-left-radius: 4px;
+-moz-border-radius-bottomright: 4px;
+-moz-border-radius-bottomleft: 4px;
+	float:left;
+	color:#fff;
+	margin:20px 0 0 10px;
+	padding-top:10px;

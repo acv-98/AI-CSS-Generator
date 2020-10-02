@@ -1,0 +1,9 @@
+-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box
+.lt-ie9 .small-block-grid-2 {
+    list-style: none
+	font-weight:bold;
+	font-size:14px;
+	font-family:'PT Sans Caption', sans-serif;
+	margin:10px 0px 10px 0px;
+	float:right;
+	text-transform:uppercase;

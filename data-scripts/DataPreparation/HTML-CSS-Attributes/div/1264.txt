@@ -1,0 +1,13 @@
+	padding: 0;
+	background: rgba(0, 0, 0, 0.1);
+	border: none;
+	width: 100%;
+	color: #777777;
+	margin-bottom: 1.8rem;
+	display: none;
+	font-family: "roboto-bold", sans-serif;
+	font-size: 1.4rem;
+	margin-right: 5px;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		text-align: center;

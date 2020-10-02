@@ -1,0 +1,6 @@
+	float:left;
+	display:block;
+	font-size:14px;
+	line-height:28px;
+	width:79px;
+	color:#000;

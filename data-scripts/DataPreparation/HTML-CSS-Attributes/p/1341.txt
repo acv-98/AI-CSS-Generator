@@ -1,0 +1,4 @@
+ font: 20px/36px opensans-light, sans-serif; 
+ font-size: 18px;    .post .entry-header h1 {
+      padding-right: 18px;
+      font-size: 43px;

@@ -1,0 +1,9 @@
+	display:block;
+	height:242px;
+	width:980px;
+	position:absolute;
+	overflow:hidden;
+	left:0;
+	top:0;
+	font-size:1.4em;
+	line-height:24px;

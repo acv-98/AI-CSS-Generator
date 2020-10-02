@@ -1,0 +1,15 @@
+  border-bottom: 1px solid #25c9da;
+  color: #25c9da;  
+  background-color: #f8f8f8;
+  display: inline;
+  float: left;
+  margin-bottom: 0;
+  margin-top: 30px;
+  padding: 20px;
+  width: 100%;
+  font-weight: bold;
+  padding-bottom: 10px;
+  margin-right: 10px;
+  font-size: 14px;
+  line-height: 19px;
+margin-right: 0px;width: 45px;height: 45px;font-size: 12px;line-height: 18px;

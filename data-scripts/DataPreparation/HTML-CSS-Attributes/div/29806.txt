@@ -1,0 +1,12 @@
+ 		#content .latest .post h2 {
+			font-size: 2em;
+			clear: both;
+			height: 20px;
+			padding-top: 10px;
+			border-top: 1px solid #AEAEAE;
+			font-family: Georgia;
+			color: #AEAEAE;
+ float: left; 		float: left;
+		width: 145px;
+			background: none;
+			padding-bottom: 20px;

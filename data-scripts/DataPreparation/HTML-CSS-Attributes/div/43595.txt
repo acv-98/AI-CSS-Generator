@@ -1,0 +1,2 @@
+	margin-top: 17px;
+ max-width: 100%; 

@@ -1,0 +1,7 @@
+	background:url(../images/h1-separator.png) no-repeat center center;
+	display:block;
+	float:left;
+	width:320px;
+	height:9px;
+	overflow:hidden;
+	margin:3px 17px;

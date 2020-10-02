@@ -1,0 +1,6 @@
+	background:url(../images/bg_top.gif) top repeat-x #eceded;
+	position:fixed;
+	z-index:2;
+	top:0;
+	left:0;
+	width:100%

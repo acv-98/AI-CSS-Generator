@@ -1,0 +1,14 @@
+		padding: 20px;
+	position: relative;
+	background: #3a3a3a;
+	opacity: .6;
+	-webkit-transform: translateY(0);
+	transform: translateY(0);
+	content: "";
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(90, 64, 145, 0.80);
+	-webkit-transition: all .5s;
+	transition: all .5s;

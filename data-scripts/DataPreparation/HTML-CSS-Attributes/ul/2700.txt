@@ -1,0 +1,15 @@
+	color: #64572a;
+	text-decoration: none;
+	outline: none;
+	padding: 0;  font-size: 1.6rem; @media (min-width: 768px) {
+ padding: 0; 	display: inline-block;
+	font-size: 2.1rem;
+	overflow: auto;
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+ font-size: 1.6rem; 	.navbar-nav .nav-link {
+	    padding-left: 1.5rem;
+	    padding-right: 1.5rem;
+ font-size: 1.6rem; 	
+ margin-left: 0; 	padding-top: 0.9rem;
+	padding-bottom: 0.9rem;

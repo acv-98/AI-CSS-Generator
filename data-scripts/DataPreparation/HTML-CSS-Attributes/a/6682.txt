@@ -1,0 +1,4 @@
+	display:inline-block;
+	background:url(../images/marker_1.gif) 0 0 no-repeat;
+	width:17px;
+	height:17px;

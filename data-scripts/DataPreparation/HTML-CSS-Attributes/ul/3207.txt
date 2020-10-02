@@ -1,0 +1,10 @@
+ padding-left: 28px;	
+	.widget-cols>li{
+		width: 160px;
+		margin-left: 0px;
+		margin-right: 24px;
+ padding-left: 0px;		margin-bottom: 20px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	float: left;

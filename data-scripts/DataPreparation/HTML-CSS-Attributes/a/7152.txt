@@ -1,0 +1,1 @@
+	background:url(../images/icon3.png) no-repeat

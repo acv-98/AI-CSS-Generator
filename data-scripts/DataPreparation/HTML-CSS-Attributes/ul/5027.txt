@@ -1,0 +1,18 @@
+	clear:both;
+	margin:0;
+	padding:0;
+	list-style:none;
+    content:"";
+    display:table;
+    clear:both;
+	position:relative;
+	float:left;
+	
+	display:block;
+	font-family:"Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-weight:300;
+#main-menu ul.horizontal-navigation > li.active a {
+	background:rgb(255,255,255);
+		margin-left:8px;
+		padding:8px;

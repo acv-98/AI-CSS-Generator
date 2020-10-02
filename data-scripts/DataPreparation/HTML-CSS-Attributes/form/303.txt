@@ -1,0 +1,5 @@
+	border:1px solid #ef716d;
+	text-align:left;
+	margin-right: 0.5em;
+	color:#262626;
+	font-size:13px;

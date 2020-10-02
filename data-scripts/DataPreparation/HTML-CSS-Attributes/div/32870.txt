@@ -1,0 +1,9 @@
+ padding-left: 40px; padding-right: 40px;  padding-left: 15px; padding-right: 15px; 	padding: 20px 0;
+	font-size: 18px;
+	color: #aaa;
+    line-height: 22px;
+ color: #aaa;  color: #8ec1cd; .portfolio-box {
+	position: relative;
+	width: 255px;
+	margin: 30px 15px 0 15px;
+	overflow: hidden;

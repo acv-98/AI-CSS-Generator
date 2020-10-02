@@ -1,0 +1,4 @@
+     border-radius: 100%;
+     box-shadow: none;
+         width: 140px;
+         margin: 0 auto;

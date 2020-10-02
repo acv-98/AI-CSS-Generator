@@ -1,0 +1,12 @@
+	display:block;
+	background:url(images/readmorebtn.gif) no-repeat;
+	height:27px;
+	width:122px;
+	text-align:center;
+	padding:5px 0 0 0;
+	color:#5b6435!important;
+	font:bold 16px Comfortaa;
+	text-decoration:none;
+	text-shadow:#e0e5c9 1px 1px 1px;
+	padding-top:10px;
+	margin-bottom:15px;

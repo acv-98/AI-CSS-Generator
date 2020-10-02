@@ -1,0 +1,2 @@
+	background:url('images/box-b.gif') no-repeat 0 bottom;
+	padding-bottom:8px;

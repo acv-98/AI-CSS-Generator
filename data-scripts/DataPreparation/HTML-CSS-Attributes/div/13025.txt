@@ -1,0 +1,8 @@
+	margin:0 auto;
+	margin-bottom:20px;
+	width:12px;
+	height:12px;
+	background:#e4e4e4;
+	border-radius:100%;
+	-moz-border-radius:100%;
+	-webkit-border-radius:100%;

@@ -1,0 +1,13 @@
+	position: absolute;
+	top: 50%;
+	margin-top: -17px;
+	width: 34px;
+	height: 34px;
+	line-height: 34px;
+	font-size: 14px;
+	background-color: #171717;
+	display: inline-block;
+	text-align: center;
+	opacity: 0.8;
+	margin-right: -39px;
+	right: 50%;

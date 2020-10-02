@@ -1,0 +1,11 @@
+	border-bottom: none;
+	border-top: 1px #ccc solid;
+ list-style-type: none; .children .comment .avatar {
+	height: 35px;
+	width: 35px;
+	margin: 20px 0 0 50px;
+ margin-left: 40px; .comment-author cite {
+	font-weight: bold;
+	font-style: normal;
+	color: #2C2D31;
+	padding: 0;

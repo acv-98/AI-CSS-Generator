@@ -1,0 +1,24 @@
+display:block 
+  #search input {
+    width: 200px;
+		display:none;	
+max-width: 100%;width:100%
+outline: none;.slides,
+.flex-control-nav,
+margin: 40px 0 55px; padding: 0;background:#000;max-width: 100%; display: block;	position: relative;	
+ zoom: 1;zoom: 1;position: relative;	width:20%;
+	overflow:hidden;
+	font-family: 'Dorsa', sans-serif;
+	color:#fff;
+	font-size:100px;
+	line-height:104px;
+	top:50%;
+	left:50%;
+	margin:-50px 0 0 -10px;
+	opacity:1;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	list-style: none outside none;
+	max-width: 770px;

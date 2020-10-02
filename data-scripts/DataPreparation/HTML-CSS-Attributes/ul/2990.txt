@@ -1,0 +1,2 @@
+text-decoration:none;text-decoration:underline;
+margin:-5px 0;line-height:30px; padding-left:28px; background:url("../images/marker_2.jpg") 0 5px no-repeat;color:#4e4e4e;

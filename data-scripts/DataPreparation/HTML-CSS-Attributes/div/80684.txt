@@ -1,0 +1,14 @@
+  margin: 5px;
+  padding: 10px;
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+  font-size: 100%;
+  line-height: 1.4em;
+  float: left;
+font-size: 12px; margin: 0; padding: 12px 0.box h2 {
+  font-weight: 200;
+  margin-bottom: 0; font-size: 14px; font-family:Georgia, "Times New Roman", Times, serif; padding: 0px;
+background: #F2F0F0; border-bottom: 1px solid white; padding: 8px; border-bottom: 1px solid #D9D4D4; border-top: 1px solid #FCFAFA; overflow: hidden;font-size: 11px; padding: 0px;.rtl .box {
+  text-align: right; 
+  direction: rtl;

@@ -1,0 +1,6 @@
+	width: 420px;
+	position: absolute;
+	top:60px;
+	background:transparent;
+	margin-top:6px;
+	margin-left:-40px;

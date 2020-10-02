@@ -1,0 +1,8 @@
+ background-image: url('../images/slide2.jpg'); 
+.sliderContainer .slideSelectors {
+	position: absolute;
+	bottom: 0px;
+	left: 178px;
+	z-index: 1;
+	width: auto !important;
+	height: 11px;

@@ -1,0 +1,1 @@
+	background: url("../images/icons/small-socials/digg.png") no-repeat scroll 0 0 transparent;

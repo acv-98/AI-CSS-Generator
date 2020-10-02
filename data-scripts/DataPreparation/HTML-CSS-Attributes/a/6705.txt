@@ -1,0 +1,5 @@
+  font-size: 12px;
+  letter-spacing: 3px;
+  color: #ffffff !important;
+  border-radius: 25px;
+  background: #272727;

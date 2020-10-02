@@ -1,0 +1,14 @@
+	float:left;
+	width:380px;
+	padding:28px 60px 0 29px;
+	color:#6b7174;
+	line-height:18px;
+	padding-bottom:19px;
+	display:block;
+	height:36px;
+	font-size:13px;
+	font-weight:bold;
+	text-decoration:none;
+	background:url(images/slider-button.gif);
+	text-align:center;
+	cursor:pointer;

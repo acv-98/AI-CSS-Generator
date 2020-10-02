@@ -1,0 +1,14 @@
+    padding-top: 41px;
+    margin-left: -1px;
+    margin-bottom: 1px;
+    display: block;
+    float: left;
+    position: relative;
+    color: #fff;
+    font: 48px/48px 'BenchNine', sans-serif;
+    padding-left: 1px;
+    width: 100%;
+        width: 468px;
+        clear: left;
+        float: none !important;
+        margin-bottom: 1px;

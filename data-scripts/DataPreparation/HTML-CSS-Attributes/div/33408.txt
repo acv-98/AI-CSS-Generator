@@ -1,0 +1,1 @@
+float: none !important;font-size: 25px !important; text-align: center !important; font-family: 'fjalla_oneregular'; float: left; padding: 20px;font-size: 30px; line-height: 32px; color: #403b32; text-transform: uppercase; font-weight: normal;

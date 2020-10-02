@@ -1,0 +1,1 @@
+padding-right:40px;padding-right:400px;padding-right:440px;padding-right:480px;padding-right:520px;padding-right:560px;padding-right:600px;padding-right:640px;padding-right:680px;padding-right:720px;padding-right:760px;

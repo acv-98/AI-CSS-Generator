@@ -1,0 +1,7 @@
+    margin: 10px;
+    display: block;
+    width: 100%;
+    height: auto;
+  margin-left:0;
+  padding-left: 0;
+  max-width: 100%;

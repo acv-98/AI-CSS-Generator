@@ -1,0 +1,4 @@
+		padding-left: 74px;
+		line-height: 30px;
+			display: inline-block;
+			margin-left: 5px;

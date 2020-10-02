@@ -1,0 +1,1 @@
+display:inline; float:left; width:50%border-right:2px solid #ffa500

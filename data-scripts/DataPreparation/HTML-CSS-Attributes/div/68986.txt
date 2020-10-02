@@ -1,0 +1,6 @@
+	clear:both;  *zoom: 1;
+  display: table;
+  line-height: 0;
+  content: "";
+  clear: both;
+height:0px;overflow:hidden;margin:0px;clear:both;    clear: both;

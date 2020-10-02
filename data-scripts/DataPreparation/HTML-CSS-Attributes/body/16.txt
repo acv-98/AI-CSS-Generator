@@ -1,0 +1,8 @@
+ display:none; 
+Theme Name: Twenty Ten
+Used to style the TinyMCE editor.
+html .mceContentBody{
+	direction:rtl;
+	unicode-bidi:embed;
+	float:right;
+ display:block  display:block 

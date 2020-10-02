@@ -1,0 +1,8 @@
+  display: inline;
+  float: left;
+  margin-top: 30px;
+  width: 100%;
+  background-color: #c1a35f;
+  border: 1px solid #ccc;
+  padding: 0 15px;
+  height: 50px;

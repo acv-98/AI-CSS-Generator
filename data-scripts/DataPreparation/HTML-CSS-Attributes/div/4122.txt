@@ -1,0 +1,4 @@
+width:305px;width:304px;
+Others
+float:left; width:262px; padding:25px 22px 25px 21px;margin:0; font-size:100%; font-weight:bold; text-transform:uppercase;margin:10px 0 20px 0; margin-left:-20px; margin-right:-22px; padding:20px;Porlet: News
+color:#ccad00;border-top:1px solid #d0d0d0; border-bottom:1px solid #d0d0d0; background:#f5f5f5;

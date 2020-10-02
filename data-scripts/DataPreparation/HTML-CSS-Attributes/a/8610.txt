@@ -1,0 +1,4 @@
+	background:url(../images/buy_button.png) no-repeat;
+	width:240px;
+	height:82px;
+	float:right;

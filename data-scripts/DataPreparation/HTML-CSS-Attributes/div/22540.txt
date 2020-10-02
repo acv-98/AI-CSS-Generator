@@ -1,0 +1,3 @@
+.blog .main_blog_content .single_blog .single_blog_content .single_blog_bottom_content a{
+    margin-right:15px;
+    color:#999999;

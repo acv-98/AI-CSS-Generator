@@ -1,0 +1,6 @@
+  background-color: #fafdfe;
+  border-top: 1px solid #5c5c5c;
+  border-bottom: 1px solid #5c5c5c;
+  padding-bottom: 65px;
+  margin-top: 70px;
+  margin-bottom: 12px;

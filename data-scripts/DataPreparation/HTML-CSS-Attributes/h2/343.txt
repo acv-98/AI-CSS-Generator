@@ -1,0 +1,4 @@
+	color: #8dc63f;
+		font-size: 34px;
+	font-family: 'nautilus_pompiliusregular';
+	font-weight: bold;

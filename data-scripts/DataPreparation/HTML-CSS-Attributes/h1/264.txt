@@ -1,0 +1,11 @@
+font-size: 34px; text-align:left; font-weight: normal
+.dropcap_red, 
+.dropcap_black {  
+            border-radius: 100px 100px 100px 100px;
+            display: block;
+			float: left;
+			font-size: 18px;
+			line-height: 35px;
+			margin: 4px 8px 0 0;
+			text-align: center;
+			width: 35px;

@@ -1,0 +1,20 @@
+	color: #06b872;
+	margin-bottom: 40px;
+	overflow: hidden;
+	padding: 150px 0px 150px 0px;
+	min-height: 400px;
+	font-weight: 400;
+	text-transform: uppercase;
+	box-sizing: border-box;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 33px;
+	width: 150px;
+	height: 150px;
+	border: 2px solid #ffffff;
+	border-radius: 100%;
+	text-align: center;
+	
+	margin-top: 3px;
+	font-size: 5em;
+		margin-bottom: 50px;

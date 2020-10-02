@@ -1,0 +1,6 @@
+	color: #81b4eb;
+    font-size: 1.9rem;
+    font-weight: 300;
+    margin-bottom: 5%;    
+	    font-size: 1.8rem;
+	    margin-bottom: 1rem;

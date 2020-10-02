@@ -1,0 +1,4 @@
+     width: 60px;
+     border: 2px solid #010101;
+     text-align: center;
+     border-color: #d33b33;

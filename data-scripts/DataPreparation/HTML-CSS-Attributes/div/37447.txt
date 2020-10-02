@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	height:59px;
+	background:url(../images/menu_bg.jpg) no-repeat center top;
+	list-style:none;
+	float:left;
+	display:block;
+	font-size:13px;
+	line-height:17px;
+	font-weight:bold;
+	color:#a9a9a9;
+	text-decoration:none;
+	text-transform:uppercase;

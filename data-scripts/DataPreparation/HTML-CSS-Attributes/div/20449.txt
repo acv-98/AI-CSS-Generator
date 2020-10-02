@@ -1,0 +1,5 @@
+        font-size: 1.5rem;
+        max-width: 60%;
+        margin: 0 auto;
+    font-family: 'ralewaybold';
+    margin-bottom:20px;

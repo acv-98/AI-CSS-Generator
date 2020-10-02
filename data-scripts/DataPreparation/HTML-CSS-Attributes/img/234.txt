@@ -1,0 +1,4 @@
+	margin:10px auto;
+	padding:0;
+	background:none;
+	border:0;

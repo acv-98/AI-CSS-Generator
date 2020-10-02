@@ -1,0 +1,18 @@
+  margin-top: -1px;
+  min-width: 180px;
+  background-color: rgba(0,0,0,.85);
+  -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
+  -moz-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
+  border: 0;
+  padding: 0;
+  border-top: 0;
+  border-radius: 0;
+  left: 0;
+  position: absolute;
+  top:0;
+  color: #fff;
+  border-color: #EBEBEB;
+      display: block;
+      -webkit-animation: fadeInUp 400ms;
+      animation: fadeInUp 400ms;

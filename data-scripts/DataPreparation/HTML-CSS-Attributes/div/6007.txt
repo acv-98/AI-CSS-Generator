@@ -1,0 +1,18 @@
+	max-width: 254px;
+	width: 100%;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #b1b1b1;
+    padding: 20px;
+    border-left: 1px solid #E4E4E4;
+    border-right: 1px solid #E4E4E4;
+	display: block;
+	padding-top: 20px;
+	text-align: center;
+	background-color: #8C8C8C;
+	color: white;
+	transition: all 0.3s ease;
+ margin: 0 auto 30px; 	.tm-about-box-1 {
+		margin: 0 auto 30px;
+		width: 100%;

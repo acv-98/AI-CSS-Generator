@@ -1,0 +1,9 @@
+	overflow:hidden;
+	padding-top:8px;
+	margin-left:40px;
+	margin-right:40px;
+	width:190px;
+	float:left;
+	text-align:center;
+	margin-bottom:4px;
+	margin-top:11px;

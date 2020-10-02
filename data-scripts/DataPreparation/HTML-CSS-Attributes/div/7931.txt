@@ -1,0 +1,1 @@
+ position: relative; width: 700px; margin-top: 27px;  position: absolute; bottom: 0; right: 0; background: #fff; padding: 5px 30px 5px 20px; font-size: 30px; margin-bottom:0;  border: none; padding: 0; 

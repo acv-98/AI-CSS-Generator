@@ -1,0 +1,14 @@
+			background: url(images/details.gif) repeat-x 0 0;
+			float: left;
+			font-size: 0.9em;
+			padding: 10px;
+			border-width: 0 1px;
+			border-style: solid;
+			border-color: #B5B5B5;
+				text-decoration: none;
+				display: block;
+				float: left;
+				padding-right: 10px;
+				border-right: 1px solid #D6D6D6;
+				padding-left: 10px;
+				border-left: 1px solid #ffffff;

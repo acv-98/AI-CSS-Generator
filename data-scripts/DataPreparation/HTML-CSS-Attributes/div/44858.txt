@@ -1,0 +1,17 @@
+	max-width: 960px;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	margin-top: 40px;
+	border-right: 1px solid #e7e7e7;
+	height: 85px;
+	position: absolute;
+	z-index: 5;
+	background-color: #f6f6f6;
+	display: block;
+	border-bottom: 3px solid #6093e7;
+	padding-top: 40px;
+	font-size: 40px;
+	font-weight: 400;
+	color: #FFF;

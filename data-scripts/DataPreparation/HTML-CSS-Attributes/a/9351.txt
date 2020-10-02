@@ -1,0 +1,10 @@
+	padding: 0 0 0 0;
+	width:100%;
+	overflow:hidden;
+	position:relative;
+	float:left;
+	margin-right:30px;
+	margin-bottom:30px;
+	height:124px;
+	display:block;
+	outline: none;

@@ -1,0 +1,10 @@
+		overflow: hidden;
+	position: relative;
+	margin-bottom: 30px;
+	display: block;
+	top: 0;
+	background: #fff;
+	padding: 30px 25px;
+	border: 1px solid #ddd;
+	transition-duration: .5s;
+	height: 100%;

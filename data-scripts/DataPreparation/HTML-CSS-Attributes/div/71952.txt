@@ -1,0 +1,8 @@
+    padding-bottom: 0px;
+    padding-top: 25px;
+    display: block;
+    float: left;
+    width: 90px;
+    font-size: 48px;
+    line-height: 44px;
+    margin-right: 15px;

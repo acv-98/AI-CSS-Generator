@@ -1,0 +1,4 @@
+	border:12px solid #fff;
+	border-top-width:13px;
+	border-bottom-width:13px;
+	margin-bottom:10px;

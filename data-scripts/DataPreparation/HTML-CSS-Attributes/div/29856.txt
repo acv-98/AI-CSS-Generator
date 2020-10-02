@@ -1,0 +1,6 @@
+ padding: 45px 40px;  padding: 35px 20px;  padding: 45px 40px;  padding: 30px; 
+	.grid figure {
+		width: 325px;
+		height: 325px;
+		margin: 11px;
+ padding: 45px; 	.grid figure { 

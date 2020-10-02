@@ -1,0 +1,7 @@
+	background:url(../images/next-btn.gif) no-repeat 50px 0;
+	color:#797061;
+	display:inline-block;
+	height:17px;
+	line-height:17px;
+	padding-left:9px;
+	padding-right:23px;

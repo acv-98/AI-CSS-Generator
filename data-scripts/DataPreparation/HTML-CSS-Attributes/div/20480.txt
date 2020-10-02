@@ -1,0 +1,4 @@
+ display:block; 	max-width: 1280px;
+	margin: 9.5% auto 0;
+ display:block;  display:block; 		max-width: 1280px;
+		margin: 7.5% auto 0;

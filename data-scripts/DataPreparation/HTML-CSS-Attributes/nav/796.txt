@@ -1,0 +1,2 @@
+	right: -240px;
+		right: -190px;

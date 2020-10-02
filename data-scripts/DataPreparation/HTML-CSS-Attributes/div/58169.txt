@@ -1,0 +1,10 @@
+    text-align: center;
+    margin-top: 0;
+    font-weight: 600;
+    font-size: 30px;
+	line-height: 25px;
+	margin-bottom: 40px;
+        font-size: 22px;
+         font-size: 16px;
+		 font-weight: 500;
+         font-weight: 300;

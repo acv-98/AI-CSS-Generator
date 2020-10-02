@@ -1,0 +1,4 @@
+    font-size: 30px;
+    color: #061e37;
+    font-weight: bold;
+      color: #fff;

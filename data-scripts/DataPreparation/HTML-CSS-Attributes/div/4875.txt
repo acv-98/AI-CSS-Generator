@@ -1,0 +1,3 @@
+	width:977px;
+	height:304px;
+	background:url(images/middle_banner_bg.gif) no-repeat center;

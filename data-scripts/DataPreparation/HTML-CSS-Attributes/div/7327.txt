@@ -1,0 +1,1 @@
+background:url(../images/bg2.jpg); padding-top:60px; padding-bottom:60px; margin-bottom:50px; margin-top:40px;

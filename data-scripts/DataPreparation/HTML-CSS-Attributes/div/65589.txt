@@ -1,0 +1,13 @@
+ padding: 5px 0 5px 10px;  font: 20px "Trebuchet MS", Arial, sans-serif; color: #404040; margin-bottom: 7px;  color: #be3f24;  padding-bottom: 10px; 
+.post .more { 
+	display: block;
+	height: 11px;
+	background: url(images/latest-news-actions.gif) no-repeat 0 0;
+	padding-left: 15px;
+	line-height: 11px;
+	font-size: 11px;
+	color: #c24426; 
+	text-decoration: underline; 
+ text-decoration: none;  list-style: none outside; padding: 20px 0 0 0; .post li { 
+	padding-bottom: 5px; 
+ text-decoration: none; 	Footer

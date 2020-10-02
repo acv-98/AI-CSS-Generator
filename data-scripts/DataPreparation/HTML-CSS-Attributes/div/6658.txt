@@ -1,0 +1,7 @@
+	text-transform:uppercase;
+	color:#67267a;
+	font-size: 1.125rem;
+	font-family: 'open_sansbold';
+	font-weight:500;
+	margin-top:25px;
+	

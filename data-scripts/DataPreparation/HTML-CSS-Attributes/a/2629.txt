@@ -1,0 +1,5 @@
+    color:#ffae19;
+    display: none;
+    position: absolute;
+    right: 30px;
+    padding-right: 63px;

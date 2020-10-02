@@ -1,0 +1,15 @@
+  z-index: 99;
+  border-left: none;
+  padding-left: 0;
+  font-size: 26px;
+  line-height: 46px;
+  margin-bottom: 0;
+  display: none;
+  -webkit-backface-visibility: hidden;
+  width: 100%;
+  content: "\0020";
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  zoom: 1;
+  -moz-user-select: none;

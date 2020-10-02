@@ -1,0 +1,16 @@
+	position: fixed;
+	right: 15%;
+	top: 50px;
+	color: #fff;
+	font-size: 25px;
+	border: 2px solid #fff;
+	padding: 5px 14px;
+	z-index: 999;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+		margin-top: 5px;
+		font-size: 15px;
+		padding: 10px 6px;
+		right: 5%;
+		top: 30px;

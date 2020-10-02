@@ -1,0 +1,10 @@
+    color: #fff !important;
+    background: #4099FF;
+    border-color: #4099FF;
+    font-size: 14px;
+    line-height: 26px;
+    float: left;
+    display: block;
+    margin-right: 5px;
+    margin-left: 10px;
+    background-color: #00aced;

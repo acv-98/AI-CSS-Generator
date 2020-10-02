@@ -1,0 +1,25 @@
+    background-color: #383E4C;
+    border-color: #383E4C;
+    display: inline-block;
+    padding: 10px;
+    color: #fff ;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    -webkit-transition: all 0.3s ease;
+            transition: all 0.3s ease;
+        background: #49505F;
+    float: none;
+    text-align: center;
+ display: block;   .navbar-inverse {
+ background-color: #333;   .navbar-inverse .navbar-collapse, 
+  .navbar-inverse .navbar-form {
+    width: 100%;
+    margin:0;
+    padding-right: 0px;
+    padding-left: 0px;
+    border-bottom: 1px solid #999;
+ border-bottom: none;    .navbar-inverse .navbar-nav>li>a {
+ font-size: 16px;   .container {
+    margin-left: 0;
+    margin-right: 0;

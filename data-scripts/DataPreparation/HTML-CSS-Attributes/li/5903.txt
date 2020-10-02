@@ -1,0 +1,1 @@
+	background:url("../images/icon-mobile-apps.gif") no-repeat left center;

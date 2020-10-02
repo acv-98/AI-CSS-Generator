@@ -1,0 +1,3 @@
+	background:url(images/nav-a.gif) no-repeat 0 0;
+	color:#091e47;
+	background-position:right 0;

@@ -1,0 +1,17 @@
+  padding-right: 10px;
+  float: left !important;
+  margin-right: .3em;
+  border-right: 1px solid #e7e7e7;
+  position: relative;
+  content: "";
+  width: 9px;
+  height: 9px;
+  top: 50%;
+  margin-top: -5px;
+  background: #FFF;
+  -webkit-transform: rotate(45deg);
+  right: -5px;
+  border-left: 0 none;
+  border-bottom: 0 none;
+    clear: both;
+    width: 100%;

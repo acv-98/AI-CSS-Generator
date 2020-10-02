@@ -1,0 +1,12 @@
+  border: 5px solid #a5d549;
+  left: 47%;
+  position: relative;
+  top: 44%;
+  content: '';
+  width: 80px;
+  height: 80px;
+  border-radius: 500px;
+  -webkit-animation: pulse-outer 0.8s ease-in infinite;
+  -moz-animation: pulse-outer 0.8s ease-in infinite;
+  animation: pulse-outer 0.8s ease-in infinite;
+    left: 46%;  

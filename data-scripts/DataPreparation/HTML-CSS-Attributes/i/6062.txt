@@ -1,0 +1,5 @@
+	width: 20px;
+	height: 22px;
+	background: url(../images/hand.png)0px 2px;
+	display: inline-block;
+	margin-right: 3px;

@@ -1,0 +1,14 @@
+		padding: 20px;
+		background-color: rgba(255,255,255,0.9);
+line-height: 0;margin-top: 40px;line-height: 50%;	.contact_item1 {
+		grid-column-start: 2;
+		grid-column-end: 4;
+		grid-row-start: 2;
+		grid-row-end: 4;
+			grid-row-end: auto;
+			min-width: 288px;
+zoom: 80%;		text-align: justify;
+    	text-justify: inter-word;
+    	font-size: 120%;
+    	margin-top: 40px;
+overflow: hidden;

@@ -1,0 +1,8 @@
+  padding: 10px 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.09);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+  color: #4CB648;
+  margin-right: 10px;
+  background: #f7f7f7;
+  font-size: 13px;
+  margin-bottom: 0;

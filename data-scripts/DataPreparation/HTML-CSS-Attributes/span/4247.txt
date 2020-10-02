@@ -1,0 +1,1 @@
+ width:272px; background:url(../images/til_lf.gif) #FFCA81 repeat-x; float:left; padding:15px 0 12px 43px; 

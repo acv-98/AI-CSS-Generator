@@ -1,0 +1,4 @@
+	text-decoration:none;
+	color:#41b5ff;
+	background:url(images/hover.gif) bottom center no-repeat;
+	border:1px solid #d3edff;

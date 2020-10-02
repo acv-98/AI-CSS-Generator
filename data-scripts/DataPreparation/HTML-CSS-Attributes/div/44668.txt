@@ -1,0 +1,7 @@
+	display: block;
+	width: 260px;
+	height: 140px;
+	padding: 10px;
+	margin-bottom: 8px;
+	background: url(images/image_frame_280x140.png);
+	background-repeat: no-repeat;

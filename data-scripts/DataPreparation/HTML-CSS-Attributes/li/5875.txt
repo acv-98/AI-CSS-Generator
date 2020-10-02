@@ -1,0 +1,15 @@
+	margin:0;
+	_margin:0 0 0 10px!important;
+	background:url(../images/bg-feat-menu-selected-left.gif) no-repeat left top;
+	color:#191C21;
+	padding:0 32px;
+	display:block;
+	_display:inline-block;
+	height:37px;
+	font-family:Times New Roman;
+	font-size:18px;
+	text-decoration:none;
+	text-align:center;
+	font-weight:bold;
+	position:static;
+	border:0;

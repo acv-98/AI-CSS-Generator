@@ -1,0 +1,7 @@
+	display: block;
+	margin: 20px 0;
+	font-size: 15px;
+	text-transform: uppercase;
+	color: #666;
+	text-decoration: underline;
+	line-height: 18px;

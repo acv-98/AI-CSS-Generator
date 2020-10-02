@@ -1,0 +1,15 @@
+ margin-bottom: -20px  text-decoration: none .group.top-nav nav a:hover { 
+	color: #FF6C40; -webkit-transition: all .25s ease-in-out;
+   -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+     -o-transition: all .2s ease-in-out;
+        transition: all .2s ease-in-out; 
+ color: #FF6C40 .top-nav .item-nav li a {
+    font-family: "Lato", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #A4A4A4;
+ padding-bottom: 10px     footer .btn {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;

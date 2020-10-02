@@ -1,0 +1,1 @@
+border-top:1px solid #CCC; float:center; margin:10px 0 30px; padding-top:20px; width:100%;

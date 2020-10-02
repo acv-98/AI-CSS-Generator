@@ -1,0 +1,14 @@
+  position: relative;
+  z-index: 150;
+  width: 36px;
+  float: left;
+  margin-top: 19px;
+  margin-left: 15px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.9);
+  height: 4px;
+  -webkit-box-shadow: 0 0 20px black;
+  box-shadow: 0 0 20px black;
+  margin-bottom: 9px;
+  -webkit-transition: background-color 100ms ease-in-out;
+  transition: background-color 100ms ease-in-out;

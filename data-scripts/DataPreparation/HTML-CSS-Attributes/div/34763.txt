@@ -1,0 +1,16 @@
+    font-size: 21px;
+    margin: 0;
+    padding: 0 0 15px;
+    position: relative;
+    cursor: pointer;
+    display: block;
+    z-index: 1;
+    margin-bottom: 0;
+    width: 75px;
+    height: 75px;
+    border-radius: 500px;
+    text-align: center;
+    line-height: 75px;
+    background-color: #ffffff;
+    color: #232323;
+    margin-top: 0;

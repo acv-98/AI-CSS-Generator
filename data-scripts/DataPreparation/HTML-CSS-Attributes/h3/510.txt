@@ -1,0 +1,7 @@
+  overflow: visible;
+  margin-bottom: 10px;
+  width: 100%;
+  float: none;
+  padding-top: 5px;
+  color: #7f7f7f;
+    overflow: hidden;

@@ -1,0 +1,5 @@
+	color: #0091ea;
+	font-size: 14px;
+	position: absolute;
+	left: 5px;
+	top: 15px;

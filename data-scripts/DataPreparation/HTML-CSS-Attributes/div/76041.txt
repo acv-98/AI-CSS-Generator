@@ -1,0 +1,15 @@
+	width:100%;
+	margin-left: 0;
+	position: relative;
+	height: 40px;
+	background-color: #fff;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+ 	 width: 0;
+	 height: 100%;
+	 background-color: #F8BC3A;
+	 border-radius: 10px;
+ 	-webkit-border-radius: 10px;
+		width: 77%;

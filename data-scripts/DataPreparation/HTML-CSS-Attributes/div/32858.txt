@@ -1,0 +1,2 @@
+ float: none; width: auto;  float: none; width: auto; 	padding-top: 30px;
+	padding-bottom: 25px;

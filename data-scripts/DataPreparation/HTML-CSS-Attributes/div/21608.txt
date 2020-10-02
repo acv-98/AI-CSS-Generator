@@ -1,0 +1,11 @@
+  width: 1000px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 0;
+  height: 100%;
+  top: 0;
+  background: url('../images/bg/slider-shadow.png') no-repeat;
+  right: -63px;
+  background-position: center right;
+  left: -63px;
+ background: url('images/shadows/960_r.png'); width: 960px; height: 20px; position: absolute; bottom: 38px; display: none !important; top:0bottom:-10px;

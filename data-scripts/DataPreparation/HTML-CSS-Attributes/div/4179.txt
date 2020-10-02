@@ -1,0 +1,4 @@
+    background: url(../images/service1.jpg) no-repeat left top;
+    height: 337px;
+    margin-top: 50px;
+	background: url(../images/service2.jpg) no-repeat right top;

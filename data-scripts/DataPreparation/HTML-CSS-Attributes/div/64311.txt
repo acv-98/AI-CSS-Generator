@@ -1,0 +1,2 @@
+	padding:0 0 8px;
+	background:url(../images/slider_bg.png) no-repeat center bottom;

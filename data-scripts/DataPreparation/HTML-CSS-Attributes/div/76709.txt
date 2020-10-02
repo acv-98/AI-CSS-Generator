@@ -1,0 +1,10 @@
+  display: inline;
+  float: left;
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+  top: -65px;
+    text-align: left;
+    top: -75px;

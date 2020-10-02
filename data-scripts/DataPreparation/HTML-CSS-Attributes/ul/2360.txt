@@ -1,0 +1,12 @@
+ padding-left: 0; .filter-wrapper li {
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 10px;
+ margin-right: 0; .filter-wrapper li a {
+	background-color: white;
+    color: #666;
+    font-weight: 400;
+    padding: 6px 20px;    
+    text-decoration: none;
+    transition: all 0.4s ease-in-out;
+	color: white;

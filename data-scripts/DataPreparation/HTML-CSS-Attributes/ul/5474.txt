@@ -1,0 +1,3 @@
+float:left; display:block; width:100%; margin-bottom:10pxborder:1px solid #ddd; padding:4px; margin-right:5px; float:leftmargin-top:18pxmargin-right:10px; min-height:120px; width:31%margin-right:0pxwidth:32%; text-align:left; margin-right:22pxmargin-right:0px
+@media(max-width:1199px ){
+margin-right:17pxmargin-right:8pxmargin-right:13pxmargin-right:8pxmargin-right:0px; width:100%width:100%

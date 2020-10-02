@@ -1,0 +1,16 @@
+	font-size:18px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:5px;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#DADADA;
+	border-top-width:1px;
+	border-right-width:1px;
+	border-left-width:1px;
+	border-top-style:solid;
+	border-right-style:solid;
+	border-left-style:solid;
+	border-top-color:#FFF;
+	border-right-color:#FFF;
+	border-left-color:#FFF;

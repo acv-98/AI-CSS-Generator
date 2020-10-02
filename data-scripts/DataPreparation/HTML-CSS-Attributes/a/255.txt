@@ -1,0 +1,13 @@
+	width:17px;
+	height:12px;
+	display:inline-block;
+	background:url(../images/arrow.png) no-repeat 0px 0px;
+	margin-left: 0.5em;
+	border: 1px solid #E74C3C;
+	font-size: 1.3em;
+	padding: 0.5em 1em 0.5em 0.5em;
+	color:#E74C3C;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;

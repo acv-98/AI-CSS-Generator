@@ -1,0 +1,3 @@
+  height: 1px;
+  clear: both;
+  display: block;

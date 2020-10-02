@@ -1,0 +1,11 @@
+	float: left;
+	width: 16.66667%;
+	clear: both;
+		width: 16.66667%;
+		clear: both;
+		float: none !important;
+		margin-left: 0;
+		margin-right: 0;
+	padding: 0 20px;
+		padding: 0 18px;
+	margin-bottom: 3.9rem;

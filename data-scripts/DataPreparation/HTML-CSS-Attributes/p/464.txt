@@ -1,0 +1,2 @@
+  line-height: 26px;
+  margin-bottom: 15px;

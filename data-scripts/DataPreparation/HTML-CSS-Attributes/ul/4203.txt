@@ -1,0 +1,21 @@
+  border-left: 1px solid #25c9da;
+  border-top: 1px solid #25c9da;
+  left: auto;
+  right: 15px;
+  top: 74px;
+	background: none repeat scroll 0 0 #fff;
+	content: "";
+	display: block;
+	height: 20px;
+	right: 15px;
+	margin-top: -43px;
+	position: absolute;
+	top: 32px;
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	transform: rotate(45deg);
+	width: 20px;
+	z-index: -99
+float: none !important;display: inline-block;display: none;

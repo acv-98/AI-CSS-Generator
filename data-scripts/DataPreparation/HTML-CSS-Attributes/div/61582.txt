@@ -1,0 +1,16 @@
+    font-size:32px;
+	color:#fff;
+	margin-top:280px;
+	font-size:40px;
+	font-family: 'latolight';
+	
+    background: #191c21;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    text-align: center;
+    padding-top: 13px;
+    color: #4bcaff;
+    margin: 0 10px;
+	transition:.3s;
+	 color: #fff;

@@ -1,0 +1,12 @@
+	float:right;
+	width:540px;
+	height:120px;
+	margin:0 auto;
+	list-style:none;
+	outline:none;
+	margin-top:38px;
+	display:block;
+	line-height:44px;
+	text-align:center;
+	background:url(../images/link-devider.png) no-repeat right;
+	color:#9a9a9a;

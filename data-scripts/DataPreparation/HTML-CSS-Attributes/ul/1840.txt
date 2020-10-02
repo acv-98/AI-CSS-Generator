@@ -1,0 +1,19 @@
+	margin-left: 0;
+	padding-left: 0;
+	margin-top: 10px;
+	text-align: left;
+	list-style: none;
+	display: inline-block;
+    color: #fff;
+	width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+	color: #fff;
+    -webkit-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+	border-radius: 3px;
+background: #3873ae;background: #62c6f8;background: #d74980;background: #8da356;background: #000;background: #51a6d3;background: #4893ce;background: #82e6ff;background: #f769a0;background: #adc376;background: #333;background: #71c6f3;.carousel-inner > .item {
+  margin-left:0;
+  padding-left: 0;
+  width: 100%;

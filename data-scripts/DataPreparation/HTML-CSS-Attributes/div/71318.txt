@@ -1,0 +1,1 @@
+padding-top:20px; padding-bottom:5px; position:relative;margin:0 auto; position:relative; max-width:940px; padding:0 20px;max-width:auto; margin:0;width:100%; padding:0;

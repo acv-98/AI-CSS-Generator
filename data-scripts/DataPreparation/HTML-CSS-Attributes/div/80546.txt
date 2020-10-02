@@ -1,0 +1,60 @@
+color:#3796ba;background-color:#3aa9d2;margin:0 auto 25px auto;height:60px;margin-top:20px;margin-top:49px;* Things Hidden in IE7
+height:550px;height:440px;		width:100%;
+		position:relative;
+		min-width:340px;
+		z-index:99999;
+height:500px;	body .slug-pattern {
+		height:343px;
+		background:#2280a8;
+		padding-top:6px;
+		margin:auto;
+		margin-bottom:15px;
+		top:-17px;
+top:-10;margin-bottom:0;	.header .logo {
+		display:none;
+		float:right;
+		max-width:960px;
+padding-top:0;position:relative;	.header .nav .standard ul.tabs li {
+		list-style:none;
+		font-family: 'Open Sans';
+		color:#efefef;
+		font-size:14px;
+		font-weight:600;
+		font-style:normal;
+		transition: all 0.2s ease 0s;
+		text-shadow: 1px 1px 1px #000000;
+position:relative;line-height:0;	.header .nav a.active span.indicator {
+		line-height:0;
+		overflow:hidden;
+		left:48%;
+		border-top:2px solid #3aa9d2;
+		margin-top:19px;
+		clear:both;
+		opacity:0.97;
+		text-align:center;
+		border-bottom:1px solid #252628;
+		background-position:left -30px;
+border:none;	.header .submenu ul.deep-child .tr {
+top:-60px;margin-bottom:0;top:-66px;margin-bottom:-104px;			background: url(../images/design/nav-shadow-768.png) top left no-repeat transparent;
+			height:45px;
+			width:759px;
+max-width:219px;position:relative;width:100%;position:relative;			top:-10px;
+top:-25px;margin-bottom:0;font-size:14px;width:90%;top:4px;position:relative;			margin-bottom:0;
+			padding-bottom:0;
+			display:none;
+			text-align:center;
+max-width:100px;top:2px;position:relative;width:100%;top:0px;position:relative;		.header .nav .mini .logo img {
+			font-size:34px;
+			margin-top:8px;
+			border:none;
+			background-color:#f4f3f3;
+			color:#4e4e4e;
+			font-family:"Open Sans";
+			-webkit-border-radius: 2px;
+			-moz-border-radius: 2px;
+			border-radius: 2px;
+			-webkit-box-shadow:  1px 1px 2px 0px #000000;
+        	box-shadow:  1px 1px 2px 0px #000000;
+background:none;top:-25px;margin-bottom:0;		.clients .client {
+			border-top:none; 
+background:none;

@@ -1,0 +1,2 @@
+    color: #d73533;
+  content: "\f0d2";

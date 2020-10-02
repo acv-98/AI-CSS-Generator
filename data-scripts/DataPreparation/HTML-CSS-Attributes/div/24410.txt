@@ -1,0 +1,5 @@
+  border-top: 0px;
+  background: transparent;
+  color: #444444;
+  background-color: #d2d6de;
+  box-shadow: none;

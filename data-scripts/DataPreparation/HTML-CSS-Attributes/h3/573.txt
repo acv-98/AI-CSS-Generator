@@ -1,0 +1,8 @@
+	font-size: 0.85em;
+	color:#485460;
+	font-weight: 600;
+	line-height: 1.8em;
+	margin-top:2em;
+		font-size: 1.2em;
+		margin-top: 27px;
+		width:100%;

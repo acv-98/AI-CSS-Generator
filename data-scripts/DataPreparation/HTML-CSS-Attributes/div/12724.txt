@@ -1,0 +1,5 @@
+    font-size: 34px;
+    text-transform: uppercase;
+    font-weight: 300;
+    line-height: 25px;
+    margin: 20px 100px 60px 100px;

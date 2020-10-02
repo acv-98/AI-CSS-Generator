@@ -1,0 +1,13 @@
+    width: 940px;
+    padding: 3px 0 0 0;
+	margin:0 auto;
+	margin-left: 0;
+    margin-right: 20px;
+    position: absolute;
+    top: -37px;
+    right:0;
+    height: 21px;
+    cursor: pointer;
+    background: transparent url(../../../img/jcarousel_arrows.png) no-repeat -24px 0;
+    background-image: url(prev-horizontal.png);
+    background-position: -24px 0;

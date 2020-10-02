@@ -1,0 +1,8 @@
+    width: 45%;
+      display: block;
+      width: 100%;
+      padding-right: 0;
+      overflow: hidden;
+      height: 250px;
+      position: relative;
+      bottom: 10em;

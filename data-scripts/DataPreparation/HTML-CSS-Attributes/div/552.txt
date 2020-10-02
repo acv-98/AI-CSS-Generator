@@ -1,0 +1,4 @@
+	width:100%;
+	min-height:105px;
+	background:url(../images/row-top.gif) center top repeat-x #fff;
+	border-bottom:5px solid #f2f2f2

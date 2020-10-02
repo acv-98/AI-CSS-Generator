@@ -1,0 +1,11 @@
+	float:left;
+	width:270px;
+	padding-top:25px;
+	padding-left:4px;
+	text-align:left;
+	font-size:18px;
+	padding-bottom:8px;
+	margin-bottom:8px;
+	border-bottom-width:1px;
+	border-bottom-style:dashed;
+	border-bottom-color:#AB4E0B;

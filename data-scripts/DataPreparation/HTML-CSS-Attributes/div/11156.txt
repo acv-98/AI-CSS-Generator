@@ -1,0 +1,6 @@
+ background: #c66995; 
+.btn-primary {
+    background: #69c6ba;
+    border: none;
+    border-radius: 0;
+    outline: none;

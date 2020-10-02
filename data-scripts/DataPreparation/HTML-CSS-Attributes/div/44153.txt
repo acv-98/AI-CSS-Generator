@@ -1,0 +1,8 @@
+        width: 100%; 
+        position: relative; 
+        min-height: 460px; 
+        text-align: center; 
+        margin: 10px 0;
+       background: #000 url(../img/our-process-mobil.svg) no-repeat center top; 
+        background: #27ad60 url(../img/process/our-process-theme2.svg) no-repeat center; 
+       margin-bottom: 150px;

@@ -1,0 +1,16 @@
+	clear:both;
+	position:relative;
+	margin-bottom:32px;
+	padding-left:112px;
+	
+	top:0;
+	left:0;
+	height:80px;
+	width:80px;
+	border:1px solid #e2e2e2;
+	display:block;
+		margin-bottom:64px;
+		padding-left:182px;
+		height:150px;
+		width:150px;
+		display:block;

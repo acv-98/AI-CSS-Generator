@@ -1,0 +1,14 @@
+	width:100%;
+	height:auto;
+	overflow:hidden;
+	background:url(../images/top-bg.png);
+	padding-top:40px;
+	padding-bottom:40px;
+	margin:0 auto;
+	margin-top:40px;
+	float:left;
+	box-shadow: 0 1px 0px 0px rgba(140, 140, 140, 0.1);
+	font-weight:normal;
+	font-size:18px;
+	color:#ffffff;
+	text-transform:uppercase;

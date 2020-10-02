@@ -1,0 +1,9 @@
+  	font: 15px/30px 'montserrat-regular', sans-serif;
+  	padding: 30px 20px 6px 20px;
+   margin-bottom: 0px;
+  	text-align: center;
+   text-transform: uppercase;
+   letter-spacing: 2px;
+  	display: block;
+  	margin-bottom: 6px;
+   font-size: 26px;

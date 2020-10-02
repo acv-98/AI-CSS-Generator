@@ -1,0 +1,2 @@
+  margin-bottom: 17px;
+  color: #287e7d;

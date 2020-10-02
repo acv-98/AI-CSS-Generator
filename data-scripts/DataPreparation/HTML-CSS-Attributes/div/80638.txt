@@ -1,0 +1,11 @@
+		position:relative;
+		width:100%;
+		margin-bottom:15px;
+		border:1px solid #f4f3f3;
+		padding:0;
+		height:5px;
+		left:0;
+		background:url(../images/design/diag-hr.png) left top repeat-x transparent;
+		top:-11px;
+		margin-top:20px;
+z-index:200;z-index:201;

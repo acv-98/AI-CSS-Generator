@@ -1,0 +1,13 @@
+	background-color: transparent;
+	display: block;
+	position: relative;
+	height: 4px;
+	width: 38px;
+	content: "";
+	top: 16px;
+	-webkit-transform: rotate(-45deg);
+	        transform: rotate(-45deg);
+	-webkit-transition: -webkit-transform 0.3s ease-out 0s;
+	transition: -webkit-transform 0.3s ease-out 0s;
+	z-index: -1;
+	 background-color: #fff;

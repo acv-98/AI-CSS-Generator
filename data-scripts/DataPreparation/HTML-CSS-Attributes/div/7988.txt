@@ -1,0 +1,4 @@
+ color: #fff; 
+.tm-page-1-content { 
+	padding-top: 1vh;
+	align-items: center;

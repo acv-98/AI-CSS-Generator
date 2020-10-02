@@ -1,0 +1,17 @@
+  padding-right: 15px;
+  padding-left: 0;
+  text-align: right;
+  border-right: 5px solid #eee;
+  border-left: 0;
+  content: '';
+  right: 0;
+  left: auto;
+  float: right !important;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1;
+    font-family: Arial
+    color: #999 !important;
+    letter-spacing: 2px;
+    padding-left: 10px;
+    text-transform: uppercase;

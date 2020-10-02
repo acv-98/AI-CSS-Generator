@@ -1,0 +1,10 @@
+	display:block;
+	margin:-10px 0;
+	padding:10px 12px;
+	float:right;
+	font-weight:normal;
+	text-decoration:none;
+	color:#faff89;
+	background:url(../images/comm.gif) repeat-x left top;
+	padding-left:4px;
+	border:1px solid #dedede;

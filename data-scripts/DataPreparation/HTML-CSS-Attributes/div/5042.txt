@@ -1,0 +1,12 @@
+  padding: 30px 10px 10px 20px;
+  text-align: center;
+  text-decoration: none !important;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+  color: #484c50;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  float: right;
+  width: 85%;

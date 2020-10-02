@@ -1,0 +1,17 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/widget-more.png', sizingMethod='image');
+	min-height:192px;
+	height:auto !important;
+	padding:0 0 55px 0;
+	margin:13px 0 0 -10px;
+	position:absolute;
+	bottom:0;
+	margin-right:0;
+	width:654px;
+	font-size:23px;
+	line-height:23px;
+	color:#ffc600;
+	border-bottom:1px solid #414141;
+	list-style:none;
+	text-decoration:underline;
+	display:block;

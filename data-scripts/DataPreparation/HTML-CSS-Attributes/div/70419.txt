@@ -1,0 +1,12 @@
+        top: -740px;
+        display: none;
+        padding-top:0px;
+.main_work1_area .main_work1_content{
+    color: #989898;
+    background: transparent;
+    font-size:1.125rem;
+    margin-top: 10px;
+    text-align: center;
+    -webkit-tap-highlight-color: transparent;
+    position: relative;
+    border-radius:50%;

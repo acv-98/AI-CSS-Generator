@@ -1,0 +1,10 @@
+  margin-bottom: 10px;
+  padding-bottom: 0;
+  overflow: hidden;
+  float: left;
+  font-size: 18px;
+  list-style: none;
+  height: 12px;
+  line-height: 11px;
+  color: #6f6f6f;
+  border-left: 0;

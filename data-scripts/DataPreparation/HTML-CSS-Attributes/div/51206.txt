@@ -1,0 +1,8 @@
+	clear: both;
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	border-bottom: 1px dashed #363636;	
+	position: relative;
+ width: 108px; height: 108px; border: 5px solid #fff; float: left; margin-right: 30px;  float: right; width: 450px;  display: block; margin-top: 15px; background: url(../images/comment.jpg) no-repeat bottom left; padding: 3px 0 0 25px; #sidebar {
+	float: right;
+	width: 280px;

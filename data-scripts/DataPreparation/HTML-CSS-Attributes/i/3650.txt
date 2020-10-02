@@ -1,0 +1,6 @@
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	background-image: url(../img/coming-soon-social.png);
+	background-repeat: no-repeat;
+	background-position: -768px 0;

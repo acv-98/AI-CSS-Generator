@@ -1,0 +1,13 @@
+	margin-top:6px;
+	width:960px;
+	height:50px;
+	background:url(images/slider-navigation.jpg);
+	list-style:none;
+	padding:17px 0 0 18px;
+	float:left;
+	display:inline;
+	padding-right:2px;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	background-position:right top;

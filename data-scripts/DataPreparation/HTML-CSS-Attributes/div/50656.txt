@@ -1,0 +1,5 @@
+	list-style:none;
+	padding-left:2px;
+	dispaly:block;
+	margin-bottom:11px;
+	background:url(images/ul-bullet.gif) left center no-repeat;

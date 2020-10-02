@@ -1,0 +1,6 @@
+  -webkit-animation-name: lightSpeedIn;
+  animation-name: lightSpeedIn;
+  -webkit-animation-timing-function: ease-out;
+  animation-timing-function: ease-out;
+	font-weight: 300;
+	color: rgba(255, 255, 255, 0.5);

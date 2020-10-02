@@ -1,0 +1,12 @@
+    color: #FF5800;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    line-height: 20px;
+    border-top: 4px solid transparent;
+    border-left: 4px solid;
+    height: 0;
+    vertical-align: middle;
+    width: 0;
+    margin-right: 5px;

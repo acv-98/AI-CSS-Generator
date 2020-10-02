@@ -1,0 +1,7 @@
+        display: none;
+    float: left;
+    position: relative;
+    z-index: 1;
+    height: 56px;
+    font-size: 1.5rem;
+    line-height: 56px;

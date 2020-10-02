@@ -1,0 +1,2 @@
+	padding:0 0 24px;
+	background:no-repeat center bottom;

@@ -1,0 +1,7 @@
+-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box
+.lt-ie9 .small-block-grid-2 {
+    list-style: none
+ width: 8.33333%; .lt-ie9 .large-2, 
+ width: 83.33333%; .lt-ie9 .large-11, 
+ width: 91.66667%; .lt-ie9 .large-12,
+ width: 100%; 

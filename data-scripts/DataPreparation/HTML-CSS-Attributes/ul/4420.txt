@@ -1,0 +1,7 @@
+	display: table;
+	width: 100%;
+	list-style: none;
+	margin: 0 15px;
+	vertical-align: middle;
+		margin: 0 10px;
+		width: 29%;

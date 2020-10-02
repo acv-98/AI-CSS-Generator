@@ -1,0 +1,9 @@
+-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box
+.lt-ie9 .small-block-grid-2 {
+    list-style: none
+	padding: 15px 0;
+	margin: 0;
+    list-style-image: url('../images/bullet.png');
+    list-style-position: inside;
+    padding: 15px 5px;
+    border-bottom: 1px solid #f0f0e9;

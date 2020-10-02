@@ -1,0 +1,4 @@
+  margin-top: 20px !important;
+  padding: 0 10px;
+  font-size: 0.9em;
+  font-weight: 600;

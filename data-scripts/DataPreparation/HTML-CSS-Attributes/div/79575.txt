@@ -1,0 +1,9 @@
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #aaa;
+    padding-right: 3px;
+    border-top: 1px solid #eaeaea;
+    font-weight: bold;
+    line-height: 1;
+    font-family: Arial

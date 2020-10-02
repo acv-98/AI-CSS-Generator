@@ -1,0 +1,3 @@
+	background:url(images/nav-h.gif) repeat-x 0 0;
+	text-decoration:none;
+	background-position:0 -19px;

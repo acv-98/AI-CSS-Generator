@@ -1,0 +1,1 @@
+width:22%;position:relative; margin-right:4%; margin-bottom:20px; float:left; color:#414141;

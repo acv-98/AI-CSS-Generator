@@ -1,0 +1,7 @@
+	height: 16px;
+	width: 245px;
+	padding: 2px 5px;
+	margin: 0 0 10px 0;
+	font-size: 12px;
+	font-variant: normal;
+	line-height: normal;

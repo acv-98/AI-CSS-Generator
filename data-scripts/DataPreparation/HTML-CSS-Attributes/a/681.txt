@@ -1,0 +1,14 @@
+	background:#417630;
+	height:40px;
+	width:40px;
+	color:#fff;
+	font-size:22px;
+	line-height:40px;
+	text-align:center;
+	text-decoration:none;
+	position:fixed;
+	bottom:10px;
+	right:10px;
+	z-index:9999;
+	opacity:0.5;
+	

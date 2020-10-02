@@ -1,0 +1,2 @@
+  display: inline;
+  float: right;  

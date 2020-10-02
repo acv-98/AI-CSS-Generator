@@ -1,0 +1,12 @@
+
+.left-f-box h2 {
+	color: #fff;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	padding: 0 0 0 10px;
+	text-transform: uppercase;
+	border-left: solid #007dea 4px;
+	margin-bottom: 20px;
+	line-height: normal;
+	padding-bottom: 10px;

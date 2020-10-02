@@ -1,0 +1,14 @@
+   position: relative;
+   padding: 0 20px;
+   min-height: 1px;
+   float: left;
+    float: none;
+    margin: 0 auto;
+ padding: 0; 	   width: auto !important;      
+	   float: none;
+	   margin-left: 0;
+	   margin-right: 0;
+      padding: 0 30px;
+	width: 33.33333%;  width: 50%; 		text-align: center;
+		width: 100%; 
+		float: none;

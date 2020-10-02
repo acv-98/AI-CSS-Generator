@@ -1,0 +1,4 @@
+	background:#ccd4aa;
+	border: solid 1px #e1e7c8!important;
+	padding:3px;
+	margin-bottom:10px;

@@ -1,0 +1,2 @@
+ height:auto;
+ background:url(../images/coming-bg.jpg) no-repeat; background-size:cover; height:100%; 

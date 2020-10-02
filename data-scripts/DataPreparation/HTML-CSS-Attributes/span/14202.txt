@@ -1,0 +1,3 @@
+  background-color: hsl(42, 93%, 51%);
+  color: hsl(0, 0%, 100%);
+  border-radius: 10px;

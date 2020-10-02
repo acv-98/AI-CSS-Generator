@@ -1,0 +1,2 @@
+	background-image:url(../images/nav-act-tail.gif);
+	color:#000;

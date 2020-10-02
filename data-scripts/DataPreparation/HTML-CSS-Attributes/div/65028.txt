@@ -1,0 +1,5 @@
+  float: left;
+  width: 80%;
+  font-size: 18px;
+  font-weight: 700;
+    width: 60%;

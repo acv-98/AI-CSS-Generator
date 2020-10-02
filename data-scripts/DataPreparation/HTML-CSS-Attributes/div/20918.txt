@@ -1,0 +1,4 @@
+ margin: 5px; 
+   https://css-tricks.com/snippets/css/css-hacks-targeting-firefox/
+@-moz-document url-prefix() { 
+  	.grid figure {

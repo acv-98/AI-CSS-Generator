@@ -1,0 +1,4 @@
+    color: #354242;
+    background-color: #fff;
+    text-align: center;
+    border: 0px;

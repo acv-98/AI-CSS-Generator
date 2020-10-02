@@ -1,0 +1,5 @@
+        text-align: center;
+        margin: 0 auto;
+        max-width: 60%;
+        font-size: 0.875rem;
+        font-family: 'ralewaylight';

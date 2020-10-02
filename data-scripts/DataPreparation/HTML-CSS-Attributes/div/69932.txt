@@ -1,0 +1,4 @@
+  margin-left: 0;
+margin-left: -15px;.single_content{margin-bottom: 15px;
+max-height: 440px;
+min-height: 440px;

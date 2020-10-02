@@ -1,0 +1,2 @@
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#657D90;

@@ -1,0 +1,17 @@
+	background: #6e9bca;
+	width: 25px;
+	height: 7px;
+	display: block;
+	position: absolute;
+	top: 78px;
+	float: left;
+	margin: 3% 0 1.5% 0;
+	border: none;
+	margin-left: 1.5%;
+	text-transform:uppercase;
+	color:#000 !important;
+	padding:10px;
+	content: url(../images/home-icon.png) no-repeat 50%;
+	vertical-align: sub;
+    margin: 2.7% 0 1% 0;
+    width: 72%;

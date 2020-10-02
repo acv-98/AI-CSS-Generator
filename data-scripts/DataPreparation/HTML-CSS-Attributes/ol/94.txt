@@ -1,0 +1,7 @@
+	display: inline-block;
+	margin-left: 20px;
+	color: #C54DAA;
+	padding: 10px 20px;
+	border: 1px solid #C54DAA;
+	text-transform: uppercase;
+	background: #C54DAA;

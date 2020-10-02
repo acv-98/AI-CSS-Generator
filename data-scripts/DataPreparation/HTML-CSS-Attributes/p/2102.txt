@@ -1,0 +1,6 @@
+  font-size: 15px;
+  width:300px;
+  margin-top:20px;
+  text-align:center;
+  font-weight: 400;
+  color: #FFF;

@@ -1,0 +1,32 @@
+ display:none;	  .navbar-inner {
+  min-height: 50px;
+  padding-right: 20px;
+  padding-left: 20px;
+  background-color: 333f45;
+ 
+  *zoom: 1;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+     -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+ display:none;  body {
+    padding-top: 0;
+  margin-bottom: 0;
+  -webkit-border-radius: 15px;
+     -moz-border-radius: 15px;
+          border-radius: 15px;
+  font-family: 'Fjalla One', sans-serif;
+  height:36px;
+ font-size: 16px;
+  color:#5a8fac;
+  font-weight:normal;
+  text-shadow: 0 1px 0 #000;
+  font-size: 13px;
+  line-height: 1;
+		 
+  border-color: #111111;
+  -webkit-transition: none;
+     -moz-transition: none;
+       -o-transition: none;
+          transition: none;
+  outline: 0;
+ float:right;

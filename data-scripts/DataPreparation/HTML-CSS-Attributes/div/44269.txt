@@ -1,0 +1,10 @@
+	position:relative;
+	padding:37px 10px 14px;
+	color:#979797;
+	border:0;
+	border-bottom:2px solid #ededed;
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+border-bottom-color:#765692;.portfolio_block .project_descr h4 {
+	margin-bottom:11px;
+	font-size:15px;

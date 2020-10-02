@@ -1,0 +1,8 @@
+height:13px
+Slider elastic 
+              
+color:#2c2b2b;color:#000;background:none;border-left-color:transparent;.home-sections .tabs-container .border-box{
+	border:none !important;
+	background:none;
+	padding-top:20px;
+background:#fff;border-bottom:1px solid #fff;color:inherit;

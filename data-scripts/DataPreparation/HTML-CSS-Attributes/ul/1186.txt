@@ -1,0 +1,16 @@
+    -webkit-border-radius: .5em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+      text-transform: uppercase;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding: 15px .5em;
+	
+	border-top: 1px solid #615e57;
+	border-bottom: 1px solid #1c1c1c;
+	color: #ecc731;
+	padding-right: .5em;
+	float: left;
+	vertical-align: middle;

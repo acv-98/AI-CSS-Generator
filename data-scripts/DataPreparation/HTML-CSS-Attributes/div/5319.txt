@@ -1,0 +1,18 @@
+	margin-top:10px;
+	background: none;
+	font-size: 0.8125em;
+	padding: 3px 10px;
+	color: #F00;
+	cursor: pointer;
+	outline: none;
+	-webkit-appearance: none;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-o-border-radius: 2px;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-decoration: none;

@@ -1,0 +1,7 @@
+	background-position: -264px -56px;
+	cursor: default !important;
+	color: #fff;
+	border-left: 1px solid #2d2d2d;
+	border-right: 1px solid #2d2d2d;
+	border-top: 1px solid #2d2d2d;
+	border-bottom: 1px solid #2d2d2d;

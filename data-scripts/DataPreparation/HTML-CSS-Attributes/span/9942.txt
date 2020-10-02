@@ -1,0 +1,10 @@
+	background: url(../images/slider-icons.png) no-repeat -97px 0px;
+	background-position: top right;
+	right: 15px;
+	border:2px solid #fff;	
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+		background: url(../images/slider-icons1.png) no-repeat -97px 0px;
+		background-position: 6px -1px;

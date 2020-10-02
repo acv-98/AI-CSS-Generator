@@ -1,0 +1,12 @@
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    float: left;
+    cursor: not-allowed;
+    background-color: #2E373C;
+    color: #9aa8b3;
+	background-color: #30393e;
+	color: #9aa8b3;
+	display: block;
+	padding: 8px 18px;
+		margin: 0 10px 10px 0;

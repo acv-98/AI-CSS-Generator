@@ -1,0 +1,6 @@
+	background:url(../images/bg-block-b.gif) repeat-x 0 100%;
+	overflow:hidden;
+	width:454px;
+	display:block;
+	content:"";
+	clear:both;

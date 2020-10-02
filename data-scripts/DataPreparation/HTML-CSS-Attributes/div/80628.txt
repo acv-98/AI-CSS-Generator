@@ -1,0 +1,1 @@
+padding-top:28px;padding-top:28px;background:url(../images/design/drops/pushpin.png) no-repeat;background:url(../images/design/drops/pushpin-trans.png);

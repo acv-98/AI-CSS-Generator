@@ -1,0 +1,18 @@
+background-color:#f9f9f9;
+border:1px solid #c0c0c0;
+height:25px;
+font-size:14px;
+padding:5px 10px;
+margin:0px 20px 0px 0px;
+width:360px;
+	background-color:#f9f9f9;
+	border:1px solid #c0c0c0;
+	height:25px;
+	width:420px;
+	font-size:14px;
+	padding:5px 10px;
+	color:#626262;
+	margin:0 20px 0 0;
+	float:left;
+	border-radius:5px;
+	font-family:'Open Sans', sans-serif;

@@ -1,0 +1,6 @@
+	float:left;
+	margin:10px 0 0 0;
+	background:url(../images/blue-bullet.png) no-repeat;
+	height:21px;
+	position:relative;
+	padding:0px 0 18px 35px;

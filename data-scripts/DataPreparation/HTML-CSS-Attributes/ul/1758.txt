@@ -1,0 +1,8 @@
+  list-style-type: none;
+  margin-left: 74px;
+  border-bottom: none;
+  border-top: 1px #6b3b25 solid;
+  height: 35px;
+  width: 35px;
+  margin-bottom: 18px;
+    margin-left: 0px;

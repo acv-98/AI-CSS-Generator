@@ -1,0 +1,8 @@
+	display: inline-block;
+	margin: 2em 1em 1em 0em;
+	padding: .5em 1em;
+	background: #000000;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: .80em;
+	color: #FFFFFF;

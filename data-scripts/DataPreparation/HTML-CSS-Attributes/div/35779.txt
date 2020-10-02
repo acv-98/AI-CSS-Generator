@@ -1,0 +1,7 @@
+	position:absolute;
+	padding:0 50px;
+	float:left;
+	width:auto;
+	height:124px;
+	background:url(../images/logo_bg.gif) repeat-x left top;
+	z-index:1001;

@@ -1,0 +1,15 @@
+	background: white;
+	padding: 40px;
+	overflow: hidden;
+	float: left;
+	width: 50%;
+	border-right: 1px solid #B1B1B1;
+	padding-right: 30px;
+ padding-left: 30px; 		float: none;
+		width: 100%;
+		border-right: none;
+		border-bottom: 1px solid #B1B1B1;
+		padding-right: 0;
+		padding-bottom: 30px;	
+		padding-left: 0;
+		padding-top: 30px;		

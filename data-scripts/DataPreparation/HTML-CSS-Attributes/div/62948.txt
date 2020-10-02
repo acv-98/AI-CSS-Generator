@@ -1,0 +1,12 @@
+	padding-right:0;
+	margin:0;
+	background:none;
+	border-top:1px solid #ccc;
+	border-left:1px solid #ccc;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	margin-bottom:8px;
+	float:right;

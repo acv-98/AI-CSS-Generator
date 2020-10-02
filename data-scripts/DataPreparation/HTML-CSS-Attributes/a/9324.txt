@@ -1,0 +1,3 @@
+  color: inherit;
+  width: 84px;
+	color: #ed2c35;

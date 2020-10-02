@@ -1,0 +1,17 @@
+    background: #eef1f3;
+    padding: 0 0 15px 0;
+    margin: 30px 0px;
+    list-style: none;
+    text-align: center;
+  
+          -webkit-transform: scale(1.1);
+       -moz-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+         -o-transform: scale(1.1);
+            transform: scale(1.1);
+    color: #434749;
+    border-top: 1px dashed #000;
+background-color: #6F6F6F;
+line-height: 20px;
+font-size: 20px;
+font-weight: 600;

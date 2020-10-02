@@ -1,0 +1,14 @@
+  color: #fed136;
+  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+    font-size: 2em;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  line-height: 20px;
+  text-decoration: none;
+  display: block;
+    margin-left: -15px;
+  background-color: transparent;

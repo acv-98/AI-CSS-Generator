@@ -1,0 +1,4 @@
+  border-radius: 0;
+  width: auto;
+    height: 58px;
+    margin-bottom: 1.57rem;

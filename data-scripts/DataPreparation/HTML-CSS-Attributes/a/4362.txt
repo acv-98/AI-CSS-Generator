@@ -1,0 +1,20 @@
+font-size:15px;
+	left: 10%;
+	opacity: 1;
+top: 270px;
+color: #fff;
+margin-left: 23px;
+display: inline;
+text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+background: #333;
+text-transform: uppercase;
+line-height: 2;
+padding-left: 20px;
+padding-right: 20px;
+font-family: OpenSansBold;
+	
+	-webkit-animation: fromRightAnim3 0.4s ease-in-out 1.2s both;
+	-moz-animation: fromRightAnim3 0.4s ease-in-out 1.2s both;
+	-o-animation: fromRightAnim3 0.4s ease-in-out 1.2s both;
+	-ms-animation: fromRightAnim3 0.4s ease-in-out 1.2s both;
+	animation: fromRightAnim3 0.4s ease-in-out 1.2s both;

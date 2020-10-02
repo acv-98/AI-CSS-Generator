@@ -1,0 +1,15 @@
+  width: 100%;
+  background-color: #d89b4e;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  border-radius: 3px;
+  margin-top: 5px;
+  border-bottom: 3px solid #a56617;
+  box-shadow: none;
+  padding: 10px;
+  outline: none;
+  opacity: .8;
+    width:50%;

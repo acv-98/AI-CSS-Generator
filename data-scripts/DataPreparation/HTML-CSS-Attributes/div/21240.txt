@@ -1,0 +1,8 @@
+  padding-right: .9375rem;
+  padding-left: .9375rem;
+  margin-right: auto;
+  margin-left: auto;
+  content: " ";
+  display: table;
+  clear: both;
+    width: 750px;

@@ -1,0 +1,2 @@
+	padding: 2em 1.5em 1em 1.5em;
+	text-shadow: 1px 1px 1px #212121;

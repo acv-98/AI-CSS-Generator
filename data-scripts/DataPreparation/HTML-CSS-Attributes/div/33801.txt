@@ -1,0 +1,8 @@
+        font-size: 30px;
+        color: #08294c;
+        margin-bottom: 5px;
+        background: url("../assets/images/testimonial1.png") left center no-repeat;
+        padding: 5px 100px;
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;

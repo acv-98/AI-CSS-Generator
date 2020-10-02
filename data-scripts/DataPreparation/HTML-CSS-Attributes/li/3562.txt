@@ -1,0 +1,6 @@
+	float: left;
+	clear: both;
+	font:bold 15px/22px Georgia, "Times New Roman", Times, serif;
+	width: 100%;
+	color: #333;
+	margin: 0 0 5px 0;

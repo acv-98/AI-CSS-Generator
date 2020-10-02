@@ -1,0 +1,6 @@
+	height:11px;
+	padding:0;
+	margin:0;
+	font-size:0px;
+	line-height:0px
+	background:url(../images/bg_content.gif) top repeat-x #363636

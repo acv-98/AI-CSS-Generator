@@ -1,0 +1,15 @@
+     position: absolute;
+     bottom: 0px;
+     left: 0px;
+	 right: 0px;
+	 margin: 0 auto;
+	 text-align: center;
+	 display: inline-block;
+     background: #000000;
+     display: inline-block;
+     font-size: 18px;
+     color: #ffffff;
+     width: 34px;
+     height: 34px;
+     text-align: center;
+     line-height: 34px;

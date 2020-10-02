@@ -1,0 +1,4 @@
+	font: bold 18px/18px 'Open Sans Condensed', sans-serif;;
+	color: #000;
+	padding-top: 2px;
+	margin-bottom: 31px;

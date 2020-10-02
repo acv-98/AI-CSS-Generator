@@ -1,0 +1,8 @@
+	width:531px; 
+	margin:5px 15px; 
+	float:left; 
+	padding:5px 10px; 
+	list-style:none; 
+	background:url(images/ul_li.gif) left no-repeat; 
+	font: normal 11px Georgia, "Times New Roman", Times, serif; 
+	color:#5c5c5c; 

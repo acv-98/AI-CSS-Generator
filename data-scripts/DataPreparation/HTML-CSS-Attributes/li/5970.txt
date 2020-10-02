@@ -1,0 +1,10 @@
+ background: #da2713;  background: #ea3723; 
+		.pennant
+		{
+			position: relative;
+			display: inline-block;
+			background-color: #d52349;
+			width: 9em;
+			padding: 1.5em 0 0.5em 0;
+			border-top-left-radius: 5px;
+			border-top-right-radius: 5px;

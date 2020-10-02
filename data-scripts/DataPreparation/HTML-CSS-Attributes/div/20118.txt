@@ -1,0 +1,5 @@
+.teams_item h4{
+    font-size:16px;
+    margin-bottom: 0px;
+    color:#7b8895;
+    transition: all 0.6s;

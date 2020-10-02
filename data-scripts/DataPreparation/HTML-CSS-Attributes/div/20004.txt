@@ -1,0 +1,12 @@
+        font-size:24px;
+    font-weight: 400;
+    content: "";
+    position: absolute;
+    left:0;
+    bottom:0;
+    width: 0;
+    height: 0;
+    border-bottom: 140px solid #f5f5f5;
+    border-right: 690px solid transparent;
+    right:0;
+    border-left: 690px solid transparent;

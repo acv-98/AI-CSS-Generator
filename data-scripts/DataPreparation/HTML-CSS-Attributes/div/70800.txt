@@ -1,0 +1,1 @@
+float:left; display:inline; width:100%; padding:10px 0color:#fff; font-size:13pxcolor:#ffd62c; text-decoration:none; border-bottom:1px solid #ffd62cfloat:none; width:100%; text-align:center

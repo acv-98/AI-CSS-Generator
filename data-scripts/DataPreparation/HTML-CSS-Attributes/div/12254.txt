@@ -1,0 +1,4 @@
+	padding: 6px 36px 30px;
+	font: 15px/24px "raleway-heavy", sans-serif;
+	color: #000000;
+	margin-bottom: 12px;

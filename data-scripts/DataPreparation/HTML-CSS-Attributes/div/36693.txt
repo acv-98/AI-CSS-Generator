@@ -1,0 +1,2 @@
+overflow: hidden;color: #636C6C; font-size: 24px; font-family: 'Raleway', sans-serif; font-weight: 700; margin: 0px;margin: 0px;padding-bottom: 30px; padding-top:50px;color:#AFB8B8; font-size: 16px;font-family: 'Raleway', sans-serif; font-weight: 400; line-height: 24px;margin: 0px;
+padding-top: 30pxpadding-bottom: 10px; padding-top:0px;font-size: 22px;padding-bottom: 10px; padding-top:0px;font-size: 22px;padding-bottom: 10px; padding-top:0px;font-size: 22px;

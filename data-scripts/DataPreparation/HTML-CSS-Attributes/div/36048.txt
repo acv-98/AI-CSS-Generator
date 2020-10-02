@@ -1,0 +1,7 @@
+	float: left;
+	width: 380px;
+	height: 180px;
+	padding: 14px;
+	margin-right: 40px;
+	background: url(../images/banner_img_frame.png) no-repeat;
+	border: none;

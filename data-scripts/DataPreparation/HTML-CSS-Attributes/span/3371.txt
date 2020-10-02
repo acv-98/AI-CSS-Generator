@@ -1,0 +1,4 @@
+	color:#6d6d6d;
+	display:block;
+	font-size:14px;
+	font-weight:bold;

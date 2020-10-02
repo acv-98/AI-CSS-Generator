@@ -1,0 +1,9 @@
+	position:absolute;
+	left:0;
+	height:0%;
+	width:100%;
+	background:#E0E0E0;
+	z-index:199;
+	-webkit-animation: anim-down 2.5s cubic-bezier(.785,.135,.15,.86);
+	-moz-animation: anim-down 2.5s cubic-bezier(.785,.135,.15,.86);
+	animation: anim-down 2.5s cubic-bezier(.785,.135,.15,.86);

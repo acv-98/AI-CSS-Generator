@@ -1,0 +1,18 @@
+vertical-align: -20px !important;
+  .hidden-desktop {
+    display: inherit !important;
+vertical-align: -20px !important;content: url(../img/plus-sign.png) !important; content: url(../img/minus-sign.png) !important;  margin-right: 6px !important;  padding: 0;
+  cursor: pointer;
+        text-decoration: none;
+    
+        
+        vertical-align: -18px;
+        margin-right: 15px;
+        border-bottom: 0;
+        line-height: 0;
+        color:#000;
+        display:inline-block;
+        content: url(../img/minus-sign.png);
+           
+          content: url(../img/plus-sign.png);
+background: #f7f7f7;   Responsive Tweaks starts here

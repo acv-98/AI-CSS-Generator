@@ -1,0 +1,1 @@
+text-align: center;font-size: 36px; color:#636C6C; font-family: 'Raleway', sans-serif; font-weight: 700; margin: 0px; color: #AFB8B8; font-size: 16px; font-family: 'Raleway', sans-serif; font-weight: 400; margin: 0px; padding-top:24px font-size: 15px;font-size: 15px;font-size: 25pxfont-size: 15px;font-size: 30px

@@ -1,0 +1,7 @@
+	background: #1baab9;
+	list-style:none;
+	margin-left:0;
+	float:left;
+	margin-right:10px;
+	text-shadow:none;
+	color:#fff;

@@ -1,0 +1,5 @@
+	width:45%;
+	display:inline-block;
+    font-size: 14px;
+    border: 0px solid #ccc;
+    border-radius: 4px 0px 0px 4px;

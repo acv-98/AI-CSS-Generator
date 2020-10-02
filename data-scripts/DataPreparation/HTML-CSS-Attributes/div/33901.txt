@@ -1,0 +1,16 @@
+padding: 10px;
+width: 680px;
+float: right;
+display: inline;
+text-align: justify;
+color: #FDF7F7;
+font-size: 14px;
+font-weight: normal;
+letter-spacing: normal;
+font-family: Georgia, "Times New Roman", Times, serif;
+clear: both;
+line-height: 36px;
+margin: 0px;
+position: absolute;
+font-style: normal;
+margin-top: -20px;

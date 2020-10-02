@@ -1,0 +1,11 @@
+	background-image: url(../img/blue/sprites.png);
+	overflow: hidden;
+	display: block;
+	height: 16px;
+	margin-left: 0px;
+	margin-top: 18px;
+	margin-bottom: 20px;
+	width: 17px;
+	float: left;
+	background-position: -90px -31px;
+	text-indent: -9000px;

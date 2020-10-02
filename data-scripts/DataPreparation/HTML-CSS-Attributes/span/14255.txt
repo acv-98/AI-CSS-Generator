@@ -1,0 +1,5 @@
+    padding-left:22px;
+    background: url('../images/tel.png') no-repeat 0 2px;
+    margin-right: 5px;
+    margin-left: 5px;
+        background-position: 1px;

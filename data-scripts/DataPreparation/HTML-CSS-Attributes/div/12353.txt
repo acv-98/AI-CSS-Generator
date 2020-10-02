@@ -1,0 +1,2 @@
+ width: 205px; 	
+ width: 210px;  width: auto; left: 30px; right: 30px; 

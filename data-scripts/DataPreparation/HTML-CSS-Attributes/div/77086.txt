@@ -1,0 +1,7 @@
+  float: left;
+  margin-left: 40px;
+  margin-right: 12px;
+  width: 22%;
+  border-bottom: 1px solid #FFBD20;
+  border-top: 1px solid #FFBD20;
+  background:#FFBD20;

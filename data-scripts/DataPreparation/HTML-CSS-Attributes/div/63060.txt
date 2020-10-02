@@ -1,0 +1,11 @@
+	background: none repeat scroll 0 0;
+	border: 1px solid #EFEFEF;
+    color: #000000;
+    margin-top: 5px;
+    opacity: 0.8;
+    padding: 32px;
+    position: relative;
+	color: #cd2c00;
+	float: right;
+	margin-top: 0px;
+	font-weight: bold;

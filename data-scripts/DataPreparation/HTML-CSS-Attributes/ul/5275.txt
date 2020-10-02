@@ -1,0 +1,10 @@
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-shadow: 1px 1px 0px rgba(0,0,0, .3);
+	background: url(images/img08.jpg) repeat-x left top;
+	display: block;
+	line-height: 160%;
+	text-decoration: none;
+	color: #C1C1C1;
+	padding-top: 0px;

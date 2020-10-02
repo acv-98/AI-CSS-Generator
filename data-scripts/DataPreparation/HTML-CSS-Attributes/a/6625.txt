@@ -1,0 +1,19 @@
+  background-color: #25c9da;
+  border: 2px solid #25c9da;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border-radius: 100%;
+	color: #fff;
+	display: inline-block;
+	font-size: 25px;
+	height: 68px;
+	line-height: 55px;
+	margin-right: 15px;
+	padding: 5px 10px;
+	text-align: center;
+	width: 68px;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s
+	background-color: #fff;

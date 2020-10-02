@@ -1,0 +1,8 @@
+	position: absolute;
+	bottom: 0;
+	margin: auto;
+	content: "\f103";
+	font-family: FontAwesome;
+	color: #DDD;
+	font-size: 36px;
+	margin-left: -10px; 

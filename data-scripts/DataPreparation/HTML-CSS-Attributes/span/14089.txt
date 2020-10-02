@@ -1,0 +1,7 @@
+	background-image: none;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/promo.png', sizingMethod='image');
+	width:175px;
+	height:174px;
+	position:absolute;
+	top:0;
+	right:0;

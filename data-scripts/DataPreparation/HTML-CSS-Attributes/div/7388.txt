@@ -1,0 +1,2 @@
+ overflow:hidden; width:600px; margin:0 auto; font-size:14px; font-weight:normal;padding-bottom:20px; margin-bottom:30px; padding-top:10px; width:278px; border:none;  background:#26313f; float:left; margin-bottom:30px;  padding:10px; padding-bottom:20px; padding-bottom:20px; padding-bottom:10px; border-bottom: 1px solid #333f4e;  color:#96577a; display:block; font-size:14px;background:#96577a; padding:7px; text-decoration:none; font-family:"Trebuchet MS"; color:#ffffff; font-weight:normal; font-size:13px; background:#576679; padding-bottom:10px;
+CONTACT FORM CLASSS

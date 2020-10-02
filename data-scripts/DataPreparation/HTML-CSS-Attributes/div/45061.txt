@@ -1,0 +1,3 @@
+  overflow: hidden;
+  margin-bottom: 30px;
+  font-size: 18px;

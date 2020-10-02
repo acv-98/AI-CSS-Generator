@@ -1,0 +1,6 @@
+	width: 140px;
+	float: left;
+	background: url('../images/ico-arrow.gif') 0px 10px no-repeat;
+	font-size:12px;
+	color:#fff;
+	text-decoration:none;

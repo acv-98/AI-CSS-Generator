@@ -1,0 +1,5 @@
+	width:920px;
+	height:429px;
+	margin:0 auto;
+	position:relative;
+	z-index:2;

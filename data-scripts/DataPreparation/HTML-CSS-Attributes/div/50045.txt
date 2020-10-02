@@ -1,0 +1,5 @@
+    max-width:425px;
+    padding:70px 0;
+    margin:0 auto;
+    color:#83a7a5;
+    font-size:32px;

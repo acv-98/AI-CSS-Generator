@@ -1,0 +1,18 @@
+	margin: 20px 0;
+	text-align: center;
+	list-style: none;
+ *zoom: 1;
+	display: table;
+	line-height: 0;
+	content: "";
+	clear: both;
+	padding: 5px 14px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	text-decoration: none;
+	float: right;
+	color: #999999;
+	cursor: default;

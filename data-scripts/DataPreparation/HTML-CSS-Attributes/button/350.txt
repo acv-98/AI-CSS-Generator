@@ -1,0 +1,4 @@
+  position: absolute;
+  right: 1rem;
+        top:17px;
+        cursor: pointer;

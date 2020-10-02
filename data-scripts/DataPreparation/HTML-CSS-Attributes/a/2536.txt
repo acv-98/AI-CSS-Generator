@@ -1,0 +1,6 @@
+  color: #b99769;
+  background: transparent;
+  border-width: 0.0625rem;
+  border-style: solid;
+  border-color: #b99769;
+  line-height: 1.4;

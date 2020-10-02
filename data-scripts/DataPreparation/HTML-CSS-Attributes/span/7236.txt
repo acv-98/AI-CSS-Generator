@@ -1,0 +1,3 @@
+	background-image: url(../images/icon-audio.png);
+	width: 9px;
+	background-position: center bottom;

@@ -1,0 +1,3 @@
+      text-align: right;
+        text-align: left;
+        padding-top: 20px

@@ -1,0 +1,2 @@
+	border-color:#fb5766;
+	background:url(../img/css/icons/error.png) 10px center no-repeat #fab;

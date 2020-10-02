@@ -1,0 +1,5 @@
+    background: url(../images/bg/footer-bg.png);
+	background-repeat: repeat;
+    padding: 80px 0px;
+    color: #f8f8f8;
+    font-size: 14px;

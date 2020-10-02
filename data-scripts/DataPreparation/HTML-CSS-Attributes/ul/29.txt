@@ -1,0 +1,5 @@
+float:right;@media screen and (max-width:800px) {
+	float: right;
+	text-align: right;
+  	float: none;
+  	text-align: center;

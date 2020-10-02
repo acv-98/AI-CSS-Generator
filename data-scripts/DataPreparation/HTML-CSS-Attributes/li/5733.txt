@@ -1,0 +1,24 @@
+  margin-right: -20px;
+  float: left;
+  padding: 0;
+  width: 33%;
+  text-align: center;
+  background: #fff;
+  border:1px solid #E8EAEE;
+  
+  position: relative;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  background-color: rgb(128, 188, 253);
+  top: 0;
+  left: 0;
+  height: 100%;
+  opacity: 0;
+  vertical-align: middle;
+  -webkit-transition: opacity 300ms;
+  -moz-transition: opacity 300ms;
+  -o-transition: opacity 300ms;
+  transition: opacity 300ms;
+  display: inline-block;
+  margin-top: -20px;

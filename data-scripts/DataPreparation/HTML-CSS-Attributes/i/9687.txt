@@ -1,0 +1,6 @@
+  color: #ffd500;
+		background-color: #1d1d1d;
+  background-color: #3b5998;
+  border-color: #3b5998;
+  font-size: 30px;
+  line-height: 65px;

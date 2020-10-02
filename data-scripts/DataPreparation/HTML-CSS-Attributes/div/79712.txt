@@ -1,0 +1,6 @@
+    display: block;
+    color: #fff;
+    padding: 107px 0 117px;
+    text-align: center;
+    font: 300 48px/60px 'Open Sans', sans-serif;
+    background-color: #fff !important;

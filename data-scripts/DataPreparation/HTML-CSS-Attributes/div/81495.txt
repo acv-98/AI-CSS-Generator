@@ -1,0 +1,6 @@
+    padding: 170px 20px 170px 20px;
+    position: relative;
+    width:100%;
+    margin:20px auto;
+    color:#fff;
+    margin-top:10%;

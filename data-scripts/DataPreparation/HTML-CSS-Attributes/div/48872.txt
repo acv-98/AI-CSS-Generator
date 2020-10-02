@@ -1,0 +1,17 @@
+	width:410px;
+	padding-left:55px;
+	float:left;
+	background-image:url(../images/voda39.jpg);
+	background-repeat:no-repeat;
+	background-position:left 3px;
+	color:#333;
+	padding-top:15px;
+	padding-bottom:13px;
+	margin-top:0;
+	margin-right:0;
+	margin-bottom:15px;
+	margin-left:0;
+	border-top-style:none;
+	border-right-style:none;
+	border-bottom-style:none;
+	border-left-style:none;

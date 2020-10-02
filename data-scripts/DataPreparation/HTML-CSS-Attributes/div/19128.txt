@@ -1,0 +1,15 @@
+    margin-left: -20px;
+    *zoom: 1;
+    display: table;
+    line-height: 0;
+    content: "";
+    clear: both;
+    width: 100%;
+    float: left;
+    min-height: 30px;
+    *margin-left: 2.709239449864817%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    *width: 99.94680851063829%;
+	margin-bottom:30px;

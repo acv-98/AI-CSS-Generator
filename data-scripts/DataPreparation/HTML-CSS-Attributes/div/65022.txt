@@ -1,0 +1,2 @@
+  border-bottom: 1px solid #3e4347;
+  margin-bottom: 10px;

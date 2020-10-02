@@ -1,0 +1,2 @@
+	background-image: url(../images/headbg.jpg);
+	background-size:100% 100%;	

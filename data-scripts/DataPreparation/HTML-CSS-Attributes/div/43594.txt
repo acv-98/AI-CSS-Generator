@@ -1,0 +1,12 @@
+ min-height: 40px; 
+	margin-left: 0px;
+ margin-top: 11px;  margin-bottom: 0px; .contact-info ul li {
+    line-height: 26px;
+    height: 25px;
+ list-style:none; margin-bottom:50px; margin-top:0px  border-bottom:1px solid #CFCFCF; margin-bottom:10px; padding-bottom:5px  display:block; height:40px; line-height:30px;  display:inline; line-height:1.71em; .widget_nav_menu ul li a, .widget_pages ul li a, .widget_categories ul li a, .portfolio-categories ul li, .widget_archive ul li a, .almost-all-categories ul li, .widget_links ul li a {
+    background-color: #f8f4f4;
+    border-left: 8px solid #CFCFCF;
+    color: #6d6a6a;
+    display: block;
+    margin-bottom: 5px;
+    padding-left: 6px;

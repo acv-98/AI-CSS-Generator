@@ -1,0 +1,6 @@
+ margin-left: 28px; 
+#journal {
+   background-color: #0f9095;
+   padding-top: 156px;
+   padding-bottom: 120px;
+   color: #7fe6ed;

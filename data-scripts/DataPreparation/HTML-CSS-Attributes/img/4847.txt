@@ -1,0 +1,7 @@
+float: right; margin-right: 10px
+#gallery {
+	
+	overflow: auto;
+	margin-left: -44px;
+	padding-bottom: 18px;
+	position:static;

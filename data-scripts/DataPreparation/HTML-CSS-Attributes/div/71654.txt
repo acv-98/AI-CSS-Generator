@@ -1,0 +1,1 @@
+.carousel-inner .active.left .carousel-inner .active.left .carousel-inner .active.left 

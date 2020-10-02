@@ -1,0 +1,11 @@
+	background:url(../images/testbg.jpg) no-repeat top center;
+	background-size:cover;
+color:#fff;
+    font-size: 18px;
+    font-family: 'OpenSans';
+    font-weight: 300;
+    letter-spacing: 4px;
+	color:#fff;
+	
+    background: rgba(39, 39, 39, 0.86);
+    padding: 50px 0px;

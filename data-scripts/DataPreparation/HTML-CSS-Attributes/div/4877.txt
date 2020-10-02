@@ -1,0 +1,5 @@
+	clear:both;
+	width:960px;
+	margin:auto;
+	padding:10px 0 20px 0;
+	background:url(images/center_bg_pages.gif) no-repeat center top;

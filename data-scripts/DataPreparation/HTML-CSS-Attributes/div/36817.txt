@@ -1,0 +1,2 @@
+	background:url(../images/header-box-right.gif) no-repeat right top;
+	height:81px;

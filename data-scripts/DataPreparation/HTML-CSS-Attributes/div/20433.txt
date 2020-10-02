@@ -1,0 +1,14 @@
+    font-size:0.875rem;
+    border: 1px solid #fff;
+    display: inline-block;
+    min-width: 125px;
+    padding: .7em;
+    height: 40px;
+    text-align: center;
+    color: #fff;
+    font-style: normal;
+    letter-spacing: 1px;
+    margin: 0;
+    border-radius: 0;
+    margin-top: 0px;
+    background:##ffe13e;

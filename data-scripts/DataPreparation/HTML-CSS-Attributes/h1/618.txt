@@ -1,0 +1,7 @@
+  position: relative;
+  width: 50px;
+  height: 3px;
+  background: #000;
+  margin-left: -25px;
+  left: 50%;
+  bottom: 0;

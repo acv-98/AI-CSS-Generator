@@ -1,0 +1,11 @@
+	padding:0px 0 26px 0px;
+	line-height:18px;
+	overflow:hidden;
+	display:block;
+	float:left;
+	background:url(../images/date-bg.png) 15px 0px no-repeat;
+	width:97px;
+	font-size:48px;
+	font-style:italic;
+	color:#fff;
+	text-decoration:underline;

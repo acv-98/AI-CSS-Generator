@@ -1,0 +1,1 @@
+	max-width: 1050px;  padding: 60px 5% 40px;  padding: 100px 0 60px; 

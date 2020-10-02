@@ -1,0 +1,2 @@
+  margin-left: -10px;
+margin-left: -20px;.single_related_post{margin-left: 20px;

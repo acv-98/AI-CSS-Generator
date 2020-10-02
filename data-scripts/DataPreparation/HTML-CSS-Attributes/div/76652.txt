@@ -1,0 +1,15 @@
+  margin-top: 15px;
+  overflow: hidden;
+  zoom: 1;
+  width: 10000px;
+  display: block;
+  max-width: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  vertical-align: top;
+  margin-bottom: 5px;
+  list-style: none;
+  height: 60px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  color: #ff6600;

@@ -1,0 +1,4 @@
+    color: #e74c3c;
+	font-weight: 400;
+	text-transform: none;
+	font-size: 1em;

@@ -1,0 +1,9 @@
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+	margin: 25px 0px;
+	width: 440px;
+	overflow: hidden;
+	float: left;
+	list-style: none;
+	text-decoration: none;

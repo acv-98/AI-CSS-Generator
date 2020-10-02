@@ -1,0 +1,14 @@
+      margin:0;
+      padding:0;
+      list-style:none;
+      display:none;
+      -webkit-backface-visibility:hidden;
+      content:".";
+      clear:both;
+      visibility:hidden;
+      line-height:0;
+      height:0;
+      zoom:1;
+    border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;	

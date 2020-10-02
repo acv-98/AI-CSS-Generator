@@ -1,0 +1,1 @@
+zoom:1; width:100%;overflow:hidden; margin:0 -32px -14px 0; position:relative; padding-bottom:0; float:left; padding:0 0 14px 0; background:none; margin-right:16px;

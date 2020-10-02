@@ -1,0 +1,1 @@
+color:#FFFFFF; background:url("../images/intro_bg.png") top left repeat-x #528037; border-bottom:1px solid #FFFFFF;

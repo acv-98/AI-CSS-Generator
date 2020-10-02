@@ -1,0 +1,10 @@
+	clear:both;
+	float:left;
+	z-index:100;
+	position:relative;
+	margin:100px 0 0;
+	color:#fff;
+	font-size:2em;
+	background:url(../images/dot.png);
+	padding:16px;
+	width:300px;

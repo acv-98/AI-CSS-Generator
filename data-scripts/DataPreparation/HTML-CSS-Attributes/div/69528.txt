@@ -1,0 +1,16 @@
+  margin: 0;
+  padding: 0;
+  border-right: 0 none;
+  padding-left: 18px;
+  text-align: left;
+  border-bottom: 0 none;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 20px;
+  list-style: outside none none;
+  margin-bottom: 20px;
+  width: 49%;
+  color:#555454;
+  margin-top: 100px;
+  margin-top: 30px;  border-right: none;  text-align: center;  width: 100%;  text-align: center;  border-bottom: 1px solid hsl(0, 0%, 80%);  margin-top: 30px;  border-right: none;  text-align: center;  width: 100%;  text-align: center;  border-bottom: 1px solid #cccccc;  font-size: 22px;  margin-top: 70px;

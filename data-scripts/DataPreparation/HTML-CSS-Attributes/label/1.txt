@@ -1,0 +1,4 @@
+	font-family: "roboto-bold", sans-serif;
+	font-size: 1.4rem;
+	color: #000000;
+	margin-right: 5px;

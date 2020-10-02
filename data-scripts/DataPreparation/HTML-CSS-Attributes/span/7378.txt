@@ -1,0 +1,6 @@
+  font-weight: normal;
+  line-height: 1;
+  color: #999;
+  font-size: 65%;
+  display: block;
+  content: '\2014 \00A0';

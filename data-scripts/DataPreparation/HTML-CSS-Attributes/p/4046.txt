@@ -1,0 +1,4 @@
+	float:left;
+	margin:13px 0 0 10px;
+	font-size:11px;
+	padding:0;

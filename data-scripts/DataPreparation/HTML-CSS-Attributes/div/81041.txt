@@ -1,0 +1,7 @@
+	text-decoration:none;
+	color:#4eb7c0;
+  margin-bottom: 20px;
+  font-weight: 700;
+  letter-spacing: -1.5px;
+  text-decoration: none;
+  color: #353535;

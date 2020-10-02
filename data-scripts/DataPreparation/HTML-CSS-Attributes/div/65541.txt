@@ -1,0 +1,8 @@
+    margin-bottom:50px;
+    min-width:150px;
+    height:35px;
+    padding: .2rem;
+    border:1px solid #ddd;
+    background-color: transparent;
+    transition: .5s;
+    color: #223d61;

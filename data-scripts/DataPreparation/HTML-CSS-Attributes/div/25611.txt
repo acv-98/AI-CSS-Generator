@@ -1,0 +1,4 @@
+	width: 270px;
+	height: 15px;
+	margin-bottom: 30px;
+	background: url(images/sidebar_section_bottom.jpg)

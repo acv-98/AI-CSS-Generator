@@ -1,0 +1,19 @@
+ display: block; 
+.comment .comment-meta .date {
+    color: #676768;
+    font-size: 10px;
+    margin-bottom: 11px;
+ margin-bottom: 3px;  font-size: 22px; font-family: 'Open Sans', sans-serif; color: #a5a4a4; font-style: normal; font-weight: 400;  font-size: 48px; font-family: 'Arbutus Slab', sans-serif; color: #a5a4a4; font-style: normal; font-weight: 400;     background: rgb( 232, 232, 232 );
+    margin-top: 0px;
+    padding-top: 7px;
+    padding-bottom: 4px;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+ display: block; .section.blog .post .date .month {
+    font-family: 'Open Sans', Verdana, Arial, sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 22px;
+ font-size: 42px !important;  font-size: 15px !important;  font-size: 28px !important; 

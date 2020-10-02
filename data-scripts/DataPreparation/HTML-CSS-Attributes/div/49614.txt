@@ -1,0 +1,5 @@
+ position: absolute;
+ left: 45%;
+ top: 50%;
+ -webkit-transform: translateY(-50%);
+ transform: translateY(-50%);

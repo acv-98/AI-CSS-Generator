@@ -1,0 +1,11 @@
+    visibility: hidden
+    overflow: inherit !important
+    width: 490px
+    -moz-box-shadow: inset 0 0 1px 0 rgba(255,255,255,0.7);
+    -webkit-box-shadow: inset 0 0 1px 0 rgba(255,255,255,0.7);
+    box-shadow: inset 0 0 1px 0 rgba(255,255,255,0.7);
+    max-width: 200px
+    background: none
+    background-image: url(../images/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: right top;

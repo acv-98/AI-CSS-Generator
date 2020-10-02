@@ -1,0 +1,7 @@
+	width:980px;
+	border-bottom:1px dashed #413e3e;
+	padding-bottom:21px;
+	padding-top:14px;
+	float:left;
+	display:inline;
+	padding-right:12px;

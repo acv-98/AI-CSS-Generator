@@ -1,0 +1,10 @@
+    width: 100%;
+    margin: 0 0 24px 0;
+    overflow: hidden;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #999;
+    padding: 8px 17px;
+    text-decoration: none;

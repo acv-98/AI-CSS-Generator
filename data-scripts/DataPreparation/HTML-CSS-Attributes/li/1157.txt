@@ -1,0 +1,5 @@
+	color:#fff;
+	font-size:15px;
+	text-transform:uppercase;
+	letter-spacing:5px;
+	margin:10px 0;

@@ -1,0 +1,18 @@
+	z-index: 2;
+	position: absolute;
+	left: 46%;
+	bottom:50px;
+	float: left;
+	margin: 0 2px 0 0;
+	list-style-type: none;
+	display: block;
+	text-indent: -9999px;
+	width: 15px;
+	height: 15px;
+	background:#ffa540;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	-o-border-radius:20px;
+		bottom: 40px;
+		left: 45%;

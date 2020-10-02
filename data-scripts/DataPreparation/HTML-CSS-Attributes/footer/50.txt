@@ -1,0 +1,23 @@
+    background-color: #090c1e;
+    font-size: 16px !important;
+    position: absolute;
+    bottom:30px;
+    left: auto;
+    right: auto;
+    text-align: center;
+    width: 100%;
+    color:rgba(255,255,255,1);
+    border:0;
+    padding-top:0;
+    margin-top: 2rem;
+    display: block;
+    border-top:1px solid rgba(255,255,255,0.1);
+    height: 40px;
+    line-height: 42px;
+    border-radius: 500px;
+    margin-bottom: 2rem
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;

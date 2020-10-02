@@ -1,0 +1,5 @@
+    height: 15px;
+    width: 100%;
+    margin: auto;
+    background: url(../images/separetor3.png) no-repeat bottom center;
+    display: inline-block;

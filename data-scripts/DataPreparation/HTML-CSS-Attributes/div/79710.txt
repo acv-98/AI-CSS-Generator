@@ -1,0 +1,12 @@
+    padding: 95px 0 94px;
+    padding-top: 78px;
+    padding-bottom: 77px;
+    padding-left: 178px;
+    display: block;
+    background-color: #5a4275;
+    color: #fff;
+    font: 300 48px/60px 'Open Sans', sans-serif;
+    margin-bottom: 8px;
+    margin-left: -75px;
+    font-size: 68px;
+    font-weight: normal;

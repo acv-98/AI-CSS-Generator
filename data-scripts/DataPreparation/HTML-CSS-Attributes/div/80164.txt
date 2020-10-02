@@ -1,0 +1,5 @@
+	margin-left: 0;
+	display: block;
+	float: left;
+		float: left;
+		margin: 1% 0 1% 0%;

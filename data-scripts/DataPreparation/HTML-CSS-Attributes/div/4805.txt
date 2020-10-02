@@ -1,0 +1,2 @@
+	background:url("../images/display_bg.jpg") repeat-x;
+	padding:5px 0 35px 0;

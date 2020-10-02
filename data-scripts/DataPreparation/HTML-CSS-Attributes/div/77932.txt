@@ -1,0 +1,8 @@
+	width: 1000px;
+	height: 94px;
+	font-size: 50px;
+	color: #272c38;
+	display: inline;
+	float:left;
+	margin: 20px 0 0 10px;
+	font-weight: bold;

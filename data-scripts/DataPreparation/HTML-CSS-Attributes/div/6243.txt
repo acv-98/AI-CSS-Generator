@@ -1,0 +1,6 @@
+    padding:19px 0 0 10px;
+    text-transform:uppercase;
+    font-size:14px;
+    color:#444;
+    font-weight:normal;
+    background:url(../images/icon_hat.jpg) 0 0 no-repeat;

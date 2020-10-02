@@ -1,0 +1,6 @@
+	position: absolute;
+	height: 6px;
+	width: 100%;
+	top: 130px;
+	background: url(../img/borders/torn-top.png) repeat-x bottom ;
+	z-index: 130;

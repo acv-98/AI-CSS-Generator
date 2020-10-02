@@ -1,0 +1,6 @@
+	width:100%;
+	text-align:center;
+	height:85px;
+	line-height:85px;
+	background:url(../images/panel-bg.png);
+	margin-top:-5px;

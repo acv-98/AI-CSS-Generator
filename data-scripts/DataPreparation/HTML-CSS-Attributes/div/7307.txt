@@ -1,0 +1,1 @@
+background:url(../images/btn-footer-more-n.gif) no-repeat; width:90px; height:40px; color:#e18868; display:block; text-align:center; line-height:40px; font-size:17px; font-weight:bold; margin-bottom:60px;background:url(../images/btn-footer-more-h.gif) no-repeat;  color:#633039;

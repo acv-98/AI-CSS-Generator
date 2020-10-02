@@ -1,0 +1,7 @@
+	width: 1px;
+	height: 900px;
+	display: block;
+	background: #FD3B01;
+	position: absolute;
+	top: 10%;
+	left: 7.5%;

@@ -1,0 +1,14 @@
+	background: none;
+	border-top: 1px dashed #C46271;
+	padding: 20px 0px 20px 0px;
+	margin: 0px;
+	letter-spacing: -1px !important;
+	font-size: 1.2em !important;
+	font-weight: 700;
+	line-height: 180%;
+	float: left;
+	margin-right: 20px;
+	font-style: italic;
+	color: #A2A2A2;
+	padding-top: 0px;
+	font-family: Georgia, "Times New Roman", Times, serif;

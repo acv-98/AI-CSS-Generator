@@ -1,0 +1,17 @@
+  right: -100%;
+  width: 100%;
+  top: 800px;
+  z-index: 6;
+  -webkit-transition-property: right top -webkit-transform;
+  -moz-transition-property: right top -moz-transform;
+  -o-transition-property: right top -o-transform;
+  -ms-transition-property: right top -ms-transform;
+  transition-property: right top transform;
+  text-align:center;
+  margin:0 auto;
+  margin-top:30px;
+  -webkit-transition-duration: 4s;
+  -moz-transition-duration: 4s;
+  -ms-transition-duration: 4s;
+  -o-transition-duration: 4s;
+  transition-duration: 4s;

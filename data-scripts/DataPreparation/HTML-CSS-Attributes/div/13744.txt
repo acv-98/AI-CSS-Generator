@@ -1,0 +1,4 @@
+	margin:0 auto;
+	width:890px;
+	padding:24px 40px;
+	color:#eeeacf;

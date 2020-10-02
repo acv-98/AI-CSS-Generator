@@ -1,0 +1,8 @@
+	margin:40px 0px;
+	cursor:pointer;
+	background:none!important;
+	font-size:48px;
+	text-transform:none;
+	margin-top:-5px;
+	font-style:italic;
+	color:#666;

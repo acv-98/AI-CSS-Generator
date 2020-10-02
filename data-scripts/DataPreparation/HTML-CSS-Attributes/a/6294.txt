@@ -1,0 +1,10 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/widget-more.png', sizingMethod='image');
+	width:144px;
+	height:53px;
+	display:block;
+	position:absolute;
+	left:16px;
+	bottom:6px;
+	margin:13px 0 0 -10px;
+	right:-10px;

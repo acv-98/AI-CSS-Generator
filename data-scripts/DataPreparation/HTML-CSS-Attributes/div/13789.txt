@@ -1,0 +1,8 @@
+    float: right;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: transparent;
+    width: auto;
+    height: auto;
+float: left;position: relative;top: 8px;right: 0;background: transparent;width: auto;height: auto;float: left;position: relative;top: 8px;right: 0;background: transparent;width: auto;height: auto;        float: none;

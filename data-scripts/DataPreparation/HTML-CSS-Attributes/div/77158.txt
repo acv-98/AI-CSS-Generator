@@ -1,0 +1,6 @@
+	position: absolute;
+	top: 0px;
+	right: 0;
+	-webkit-transition: opacity 0.25s cubic-bezier(0.39, 0.58, 0.57, 1) 0.1s;
+	transition: opacity 0.25s cubic-bezier(0.39, 0.58, 0.57, 1) 0.1s;
+	opacity: 0;

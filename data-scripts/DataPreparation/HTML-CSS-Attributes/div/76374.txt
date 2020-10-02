@@ -1,0 +1,5 @@
+	margin:0 auto;
+	padding:0;
+	width:930px;
+	height:399px;
+	background:#c0e4e6 url(images/main_bg.jpg) top center repeat-x;

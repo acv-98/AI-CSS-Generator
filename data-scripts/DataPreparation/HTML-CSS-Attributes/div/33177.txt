@@ -1,0 +1,1 @@
+padding: 20px !important; margin-bottom: 0 !important;font-size: 28px !important; line-height: 26px !important;background: #f76e5d; padding: 30px 30px; display: inline-block; text-transform: uppercase; margin-bottom: -10px;color: #e0dfe5; font-size: 49px;line-height: 28px;	

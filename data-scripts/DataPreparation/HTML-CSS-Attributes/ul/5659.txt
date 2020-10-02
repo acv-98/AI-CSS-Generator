@@ -1,0 +1,12 @@
+color:#000;
+background:url('images/icons/nav/home.png') top center no-repeat;background:url('images/icons/nav/folder.png') top center no-repeat;background:url('images/icons/nav/bookmark.png') top center no-repeat;background:url('images/icons/nav/burst.png') top center no-repeat;background:url('images/icons/nav/calendar.png') top center no-repeat;background:url('images/icons/nav/email.png') top center no-repeat;background:url('images/icons/nav/bag.png') top center no-repeat;background:url('images/icons/nav/diap.png') top center no-repeat;background:url('images/icons/nav/pen.png') top center no-repeat;background:url('images/icons/nav/people.png') top center no-repeat;                             
+#nav .menu ul li:hover, #nav .menu ul li.current_page_item, #nav ul li.home:hover, #nav ul li.home.current-menu-item,
+#nav .menu ul li.page-item-2:hover,  #nav .menu ul li.page-item-2.current_page_item,  #nav ul li.folder:hover,    #nav ul li.folder.current-menu-item,
+#nav .menu ul li.page-item-3:hover,  #nav .menu ul li.page-item-3.current_page_item,  #nav ul li.bookmark:hover,  #nav ul li.bookmark.current-menu-item,
+#nav .menu ul li.page-item-4:hover,  #nav .menu ul li.page-item-4.current_page_item,  #nav ul li.burst:hover,     #nav ul li.burst.current-menu-item,
+#nav .menu ul li.page-item-5:hover,  #nav .menu ul li.page-item-5.current_page_item,  #nav ul li.calendar:hover,  #nav ul li.calendar.current-menu-item,
+#nav .menu ul li.page-item-6:hover,  #nav .menu ul li.page-item-6.current_page_item,  #nav ul li.email:hover,     #nav ul li.email.current-menu-item,
+#nav .menu ul li.page-item-7:hover,  #nav .menu ul li.page-item-7.current_page_item,  #nav ul li.bag:hover,       #nav ul li.bag.current-menu-item,
+#nav .menu ul li.page-item-8:hover,  #nav .menu ul li.page-item-8.current_page_item,  #nav ul li.diap:hover,      #nav ul li.diap.current-menu-item,
+#nav .menu ul li.page-item-9:hover,  #nav .menu ul li.page-item-9.current_page_item,  #nav ul li.pen:hover,       #nav ul li.pen.current-menu-item,
+#nav .menu ul li.page-item-10:hover, #nav .menu ul li.page-item-10.current_page_item, #nav ul li.people:hover,    #nav ul li.people.current-menu-item

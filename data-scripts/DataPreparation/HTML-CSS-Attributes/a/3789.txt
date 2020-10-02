@@ -1,0 +1,6 @@
+  border-color: #fff;
+  background: none;
+  color: #fff;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;

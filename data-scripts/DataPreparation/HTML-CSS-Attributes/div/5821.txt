@@ -1,0 +1,5 @@
+	padding:37px 0 10px;
+	font-family:arial;
+	font-size:14px;
+	color:#918889;
+	text-align:center;

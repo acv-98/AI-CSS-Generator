@@ -1,0 +1,6 @@
+	font-size: 1.1em;
+	line-height: 1.5em;
+	text-align: center;
+	color: #555;
+	margin-bottom:2%;
+		font-size: 1em;

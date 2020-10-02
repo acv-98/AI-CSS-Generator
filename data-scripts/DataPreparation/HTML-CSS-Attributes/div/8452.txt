@@ -1,0 +1,8 @@
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  display: inline;
+  float: left;
+  height: 120px;
+  padding-top: 47px;
+  text-align: center;
+  width: 100%;

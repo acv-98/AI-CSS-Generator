@@ -1,0 +1,11 @@
+    background-color: #fff;
+    border-radius: 4px;
+    margin: 0 0 40px;
+    padding: 15px 18px;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #585858;
+    bottom: -44px;
+    left: 50%;
+    margin-left: -60px;

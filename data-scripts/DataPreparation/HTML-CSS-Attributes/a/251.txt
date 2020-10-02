@@ -1,0 +1,11 @@
+	background: none;
+	border: 2px solid #FFF;
+	font-size: 1.5em;
+	font-weight: 300;
+	padding: 0.4em 1em 0.4em 1em;
+	width:17px;
+	height:12px;
+	display:inline-block;
+	margin-left: 0.5em;
+	color:#E74C3C;
+		font-size: 1.3em;

@@ -1,0 +1,2 @@
+	background:url(../images/border-1.jpg) center bottom no-repeat;
+	padding-bottom:8px;

@@ -1,0 +1,17 @@
+    display:  none;
+    background: rgba(29, 82, 99, 0.22);
+    padding: 10px 15px;
+    width: 100%;
+    color: #fff;
+		padding: 10px 15px;
+		width: 96%;
+	font-size: 1em;
+	font-family: 'Lato', sans-serif;
+	margin: 10px 0;
+	border: 1px solid #E1E2E2;
+	color:#555;
+	background: #FFF;
+	float: left;
+	outline: none;
+		background: rgba(50, 142, 172, 0.37);
+		font-size:0.8125em;

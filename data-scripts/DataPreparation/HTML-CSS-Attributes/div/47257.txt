@@ -1,0 +1,8 @@
+	background:url(../images/plazmaboxbottom.jpg) left bottom no-repeat;
+	padding:7px 10px 5px 10px;
+	margin:0px;
+ margin-bottom:20px.plazmaText
+{
+	width:355px;
+	text-align:justify;
+	float:left;

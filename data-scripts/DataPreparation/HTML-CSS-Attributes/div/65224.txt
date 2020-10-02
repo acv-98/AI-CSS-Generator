@@ -1,0 +1,4 @@
+	min-height:242px;
+	background:url(../images/box-tail.gif) repeat-x left top #ff6f1d;
+	height:auto!important;
+	padding:8px 26px 8px 26px;

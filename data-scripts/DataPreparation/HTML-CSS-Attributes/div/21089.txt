@@ -1,0 +1,8 @@
+    font-size: 14px;
+    color: #8a8d94;
+    margin: 0;
+    text-align:center;
+    font-weight: 300;
+    float: left;
+	text-align:center;
+    text-decoration: underline;

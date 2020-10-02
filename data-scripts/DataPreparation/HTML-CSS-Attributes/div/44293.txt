@@ -1,0 +1,13 @@
+	width:822px; height: 204px;
+	background-image:url(images/header-bg.jpg);
+	background-repeat: no-repeat; background-position: top center;
+	margin-left: auto; margin-right: auto;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-right: 0px;
+	padding-top: 0px;
+	margin-top: 0px;
+	padding-bottom: 4px;
+	margin-bottom: 0px;
+	display: inline;
+	

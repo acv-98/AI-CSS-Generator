@@ -1,0 +1,22 @@
+ margin-top:30px;list-style:none;color:#cf0f1e; font-family:Economica-Bold; font-size:34px; margin-bottom:30px; margin-left:45px;.sliderwrapper .slides p{color:#454242; font-family:arial; width:530px; line-height:2em; font-weight:bold; font-size:18px;
+float:right; margin-right:150px;.sliderwrapper .slider {
+	position: relative;
+	width: 100%;
+	height: 420px;
+	overflow: hidden;
+	
+	 * Prevent blinking issue
+	 * Not tested. Experimental.
+	-webkit-backface-visibility: hidden;
+	-webkit-transform-style: preserve-3d;
+	float: left;
+	clear: none;
+.sliderwrapper .slider-arrow {
+	display: block;
+	margin-bottom: -20px;
+	padding: 20px;
+	background:url(MOdOWu1.png);
+ bottom: 60%; right: 0px; background:url(../images/arrowright.png) no-repeat;  bottom: 60%; left: 0px;  background:url(../images/arrowleft.png) no-repeat;.sliderwrapper .slider-nav {
+	bottom: 40px;
+	border-radius:40px;
+ background: #ff5a0b;  background: #ff5a0b; .bestdisheswrapper{height:442px; background:url(../images/www3.jpg) no-repeat center center fixed; background-size:cover; border-top:3px solid rgba(255,153,0,0.2);

@@ -1,0 +1,11 @@
+  border-top-color: #f4f4f4;
+  border-color: #307095;
+  color: #fff !important;
+  background-color: #d33724 !important;
+  padding: 15px;
+  text-align: right;
+  margin-bottom: 0;
+  margin-left: 5px;
+  display: table;
+  content: " ";
+  clear: both;

@@ -1,0 +1,28 @@
+	height: 54px;
+    display: block;
+    padding: 3rem 2rem;
+    position: relative;
+    text-align: center;
+    border: 6px solid #000000;
+    -webkit-box-shadow: inset 0px 0px 0px 1px #000000;
+    -moz-box-shadow: inset 0px 0px 0px 1px #000000;
+    box-shadow: inset 0px 0px 0px 1px #000000;
+    width: 100% !important;
+    letter-spacing: 0 !important;
+    background-color: #ffffff !important;
+    margin-bottom: 1rem
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 15px;
+    opacity: 1;
+        margin-top: 2rem;
+    border-color: #f9ca27;
+        width: 100%;
+        display: block;
+        font-size: 16px;
+        border: 0 none !important;
+        padding: 1.3rem 1rem !important;
+    border-radius: 0;
+    height: 56px;
+    padding-left: 1.5rem;
+    line-height: 1;
+    vertical-align: middle;

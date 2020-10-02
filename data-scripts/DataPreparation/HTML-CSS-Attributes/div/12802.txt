@@ -1,0 +1,15 @@
+	display:block;
+	width:15px;
+	height:21px;
+	background:url(../images/pic-1.png) 0 0 no-repeat;
+	position:absolute;
+	top:30px;
+	left:-1px;
+	z-index:2;
+	right:0;
+	padding-bottom:5px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:5px;
+	overflow:hidden;
+	color:#7c7c7c;

@@ -1,0 +1,8 @@
+	margin-bottom:50px;
+	width: 22%;
+	float:left;
+	padding-top:10px;
+	padding-left:80px;
+	
+	font-family: 'oswaldbold';
+	font-size:22px;

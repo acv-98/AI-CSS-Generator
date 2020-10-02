@@ -1,0 +1,7 @@
+	margin:0;
+	padding:0;
+	list-style:none;
+	display:block;
+	color:#929292;
+	text-decoration:none;
+	background:no-repeat left center;

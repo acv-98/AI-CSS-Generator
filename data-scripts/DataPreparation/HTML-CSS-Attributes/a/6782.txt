@@ -1,0 +1,10 @@
+ background: #ea4c88 url(../img/plus.png) center center no-repeat; 
+#posts-list .feature-image,
+	display: block;
+	
+	margin-bottom: 12px;
+	-webkit-box-shadow: 2px 2px 0px rgba(0,0,0,.2); 
+	-moz-box-shadow: 2px 2px 0px rgba(0,0,0,.2);
+	box-shadow: 2px 2px 0px rgba(0,0,0,.2); 
+	opacity: 0.15;
+	float: left;

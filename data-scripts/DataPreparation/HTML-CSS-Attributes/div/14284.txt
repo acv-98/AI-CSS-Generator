@@ -1,0 +1,4 @@
+	border-radius:8px;
+	overflow:hidden;
+	position:relative;
+	z-index:1;

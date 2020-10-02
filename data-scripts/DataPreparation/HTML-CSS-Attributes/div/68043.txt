@@ -1,0 +1,11 @@
+	width:278px;
+	float:left;
+	color:#c9c9c9;
+	line-height:15px;
+	background: url('images/col-separator.gif') no-repeat right center;
+	min-height:250px;
+	height:auto !important;
+	padding:7px 25px 7px 8px;
+	padding-bottom:14px;
+	padding-top:10px;
+	list-style:none;

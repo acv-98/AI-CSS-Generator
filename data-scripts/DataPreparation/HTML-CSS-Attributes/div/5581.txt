@@ -1,0 +1,22 @@
+    display: none;
+    margin-left: -10px;
+    width: 100%;
+  
+    height: 16px;
+    background: #e37655 url(../img/arrows-mobile.png) no-repeat;
+    left: 0px;
+    right: 0px;
+    background-position: 0px -16px;
+  padding: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+  position: relative;
+  float: left;
+  bottom: 58px;
+  top: 0px;
+  border: 0;
+  text-align: center;
+  text-indent: -9999px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #e37655;
+  border-bottom: 1px dotted #e37655;

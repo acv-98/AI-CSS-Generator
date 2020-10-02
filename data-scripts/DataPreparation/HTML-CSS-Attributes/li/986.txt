@@ -1,0 +1,4 @@
+	color:#248bcc;
+	background:url(images/menu_a.gif) left no-repeat;
+	border:1px solid #ebe8e8;
+	text-decoration:none;

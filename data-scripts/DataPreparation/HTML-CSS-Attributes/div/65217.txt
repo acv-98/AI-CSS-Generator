@@ -1,0 +1,17 @@
+	height:77px;
+	padding:0 0 0 45px;
+	width:100%;
+	overflow:hidden;
+	padding-top:25px;
+	float:left;
+	font-size:13px;
+	line-height:1.2em;
+	text-transform:uppercase;
+	padding-right:45px;
+	color:#fff;
+	text-decoration:none;
+	background-repeat:repeat-x;
+	background-position:0 0;
+	background-image:url(../images/nav-act-tail.gif);
+	font-style:normal;
+	font-weight:normal;

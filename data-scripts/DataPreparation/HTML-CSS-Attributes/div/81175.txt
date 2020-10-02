@@ -1,0 +1,28 @@
+	margin-top: 10px;
+	text-align: center;
+	color: #FFF;
+	display: inline-block;
+	zoom: 1;
+	padding: 3px 10px;
+	font-size: 12px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	background: #869791;
+	opacity: 0.5;
+	text-decoration: none;
+	width: 12px;
+	height: 12px;
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+    background: #ffffff !important;
+    border: 2px solid transparent;
+    opacity: 1;
+    margin-top: 60px;
+    text-align: center;
+ border: 2px solid #FFCC33 .bcg {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;

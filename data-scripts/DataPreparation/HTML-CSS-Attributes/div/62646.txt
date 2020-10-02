@@ -1,0 +1,13 @@
+	background-color: #ecf0f1;
+	display: inline;
+	float: left;
+	text-align: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+	padding: 15px;
+	-webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+	color: #fff;
+	opacity: 1;

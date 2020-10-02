@@ -1,0 +1,7 @@
+	color: #8dc63f;
+    display: table-cell;
+    vertical-align: middle;
+    margin: 1px 0px;
+    padding: 4px;
+    opacity: 1;
+    margin-right: 7px;

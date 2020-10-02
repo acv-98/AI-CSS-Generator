@@ -1,0 +1,3 @@
+	padding:30px 0 40px 0;
+	color:#f8f8f8;
+		padding:180px 0 40px 0;

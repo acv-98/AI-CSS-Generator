@@ -1,0 +1,1 @@
+display:block; float:left; background-color:#222; color:#eee; font-size:12px; padding:5px 10px; margin-left:5px; margin-bottom:10px; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5stext-decoration:nonebackground-color:#09c

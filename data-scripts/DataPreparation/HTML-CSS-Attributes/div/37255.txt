@@ -1,0 +1,5 @@
+	font:20px/26px Georgia, Times, serif;
+	color:#3e4548;
+	text-align:center;
+	margin-top:20px;
+	margin-bottom:20px;

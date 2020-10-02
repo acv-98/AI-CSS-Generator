@@ -1,0 +1,17 @@
+	color: #4eb478;
+	list-style-type: none;
+	list-style-position: outside;
+	display: block;
+	overflow: hidden;
+	margin-bottom: 10px;
+	position: relative;
+	line-height:1.5em;
+	padding:0;
+	padding-left: 20px;
+	font-weight:600;
+	font-size:18px;
+	font-family: "FontAwesome";
+	left: 0;
+	top: 1px;
+	content: "\f00c";
+ margin:0 0 20px 0;padding:0;  list-style:none outside;  padding:0 0 0 15px;  margin:4px 0 5px 30px; font-size:90%;   margin-bottom:6px;  line-height:21px; margin: 0 0 12px 5px;  line-height:21px; 

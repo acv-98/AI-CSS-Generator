@@ -1,0 +1,11 @@
+	height:276px;
+	position:relative;
+	width:886px;
+	overflow:hidden;
+	float:left;
+	background:url(images/slider-post.gif);
+	list-style:none;
+	display:inline;
+	padding:10px 6px 0 6px;
+	line-height:17px;
+	color:#787878;

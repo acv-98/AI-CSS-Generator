@@ -1,0 +1,12 @@
+		margin-bottom: 2.5em;
+		padding: 2.25em 1.5em;
+			display: none;
+			padding: 0 1.5em;
+			background-size: 10em;
+		text-align: center;
+		padding-bottom: 3em;
+			background-color: #83d3c9;
+			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
+			background-position: bottom left, bottom right;
+			background-repeat: no-repeat, no-repeat;
+			color: white;

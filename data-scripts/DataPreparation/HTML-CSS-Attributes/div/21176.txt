@@ -1,0 +1,6 @@
+	background-color:#bfbdbd;
+	color:#faf7f7;
+	font-size:12px;
+	padding:2px 10px 1px;
+	text-decoration:none;
+	text-transform:uppercase;

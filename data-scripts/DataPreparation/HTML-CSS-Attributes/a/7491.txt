@@ -1,0 +1,7 @@
+	padding:4px 12px;
+	background-color:#52aec6;
+	text-decoration:none;
+	color:#fff;
+	border-radius:6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;

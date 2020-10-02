@@ -1,0 +1,5 @@
+      background-color: transparent;
+      border: 0;
+      position: absolute;
+      top: 8px;
+      right: 15px;

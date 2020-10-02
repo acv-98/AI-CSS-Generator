@@ -1,0 +1,1 @@
+ padding:0; margin:0; background-color:#e1e0d5; margin:0; padding:0; float:left; width:630px; margin:0; padding:0 0 16px 0; margin:0; padding:16px 0 0 0; border:1px solid #dedede; margin:10px 16px 0 0; padding:0; float:left;

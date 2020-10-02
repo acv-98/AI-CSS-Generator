@@ -1,0 +1,9 @@
+	clear:both;
+	display:block;
+	overflow:hidden;
+	height:0;
+	content:' ';
+	font-size:0;
+	line-height:0;
+	visibility:hidden;
+	width:0;

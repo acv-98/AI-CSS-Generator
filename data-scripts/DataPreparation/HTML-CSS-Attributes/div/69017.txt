@@ -1,0 +1,10 @@
+ position: relative; .images-slider-sc ul li a {
+    position: absolute;
+    background: transparent url(../images/elastislider_nav.png) no-repeat top left;
+    width: 18px;
+    height: 18px;
+    text-indent: -9000px;
+    cursor: pointer;
+    opacity: 0.8;
+    top: 26px;
+    left: 6px;

@@ -1,0 +1,1 @@
+width:22px; background:url(../images/spacer_m.gif) 0 0 no-repeat

@@ -1,0 +1,1 @@
+display:block;width:59px;height:20px;background:url('images/map-tab.png') no-repeat;position:absolute;bottom:-20px;right:30px;padding:0 25px 0 10px;line-height:15px;color:#221f1f;font-family:'Droid Sans', sans-serif;font-size:0.857em;text-shadow:1px 1px 2px #fff;

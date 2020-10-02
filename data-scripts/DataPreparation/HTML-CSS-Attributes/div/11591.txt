@@ -1,0 +1,3 @@
+	overflow:hidden;
+	border-top:#dddddd 1px solid;
+	padding-top:23px;

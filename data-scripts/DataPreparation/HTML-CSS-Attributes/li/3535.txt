@@ -1,0 +1,12 @@
+    border: 0;
+    color: #ffffff !important;
+    border-radius: 500px;
+    margin-left: 30px;
+    margin-top: 6px;
+    text-transform: capitalize;
+    border-top: 0 !important;
+    padding: 10px 30px 10px 20px;
+    padding-right: 5px;
+    font-size: 12px;
+    vertical-align: unset;
+    background: none !important;

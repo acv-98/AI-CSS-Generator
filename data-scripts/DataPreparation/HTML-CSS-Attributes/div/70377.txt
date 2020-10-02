@@ -1,0 +1,8 @@
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin-left: 5px;
+    font-size:0.8125rem;
+    color:#000;
+    background: #fff;
+    text-align: center;

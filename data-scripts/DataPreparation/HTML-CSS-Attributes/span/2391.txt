@@ -1,0 +1,4 @@
+	margin-bottom: 0;
+	position: absolute;
+	left: 20px;
+	bottom: 15px;

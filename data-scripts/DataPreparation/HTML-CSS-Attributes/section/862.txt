@@ -1,0 +1,8 @@
+    position: relative;
+    background: #ffffff;
+    margin-bottom:30px;
+    margin-top:20px;
+    display: inline-block;
+    width:100%;
+    color:#95e1d3;
+    font-size:2rem;

@@ -1,0 +1,14 @@
+    background:url('../images/footerbg.png');
+    padding: 20px 0 20px 0;
+    color: #c5c5c5;
+    padding-bottom: 20px;
+    font-size: 1.6em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 0;
+   border-right:1px solid #011021;
+   border-left:1px solid #1a78e7;
+   padding-left: 50px;
+   padding-right: 50px;
+      padding-left: 10px;
+      padding-right: 10px;

@@ -1,0 +1,4 @@
+  padding-top: 74px;
+  font-size: 72px;
+  margin-bottom: 26px;
+  color: #000000;

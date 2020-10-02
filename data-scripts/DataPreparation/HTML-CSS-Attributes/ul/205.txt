@@ -1,0 +1,15 @@
+	float: none;
+	display: inline-block;
+	margin: 0 auto;
+	text-align: center;
+  background: none;
+  color:#fff !important;
+		position: absolute;
+		width: 100%;
+		left: 0;
+		color:#fff;
+		background:#181a1c;
+		text-align:center;
+		float:none;
+		display:block;
+		padding:15px 0 !important;

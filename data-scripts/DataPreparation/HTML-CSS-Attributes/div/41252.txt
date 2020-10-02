@@ -1,0 +1,18 @@
+		margin: 0 auto;
+		max-width: none;
+		overflow: hidden;
+		padding: 10% 0;
+		position: relative;
+		width: 95%;
+		float: none;
+		text-align: center;
+	background-color: #3c0f38;
+	min-height: 234px;
+	color: #A3A3A3;
+	display: block;
+	font-family: audiowide-regular-webfont;
+	font-size: 23px;
+	font-weight: normal;
+	line-height: 23px;
+	text-transform: uppercase;
+	text-decoration: underline;

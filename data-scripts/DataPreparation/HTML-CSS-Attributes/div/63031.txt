@@ -1,0 +1,7 @@
+  margin-bottom: 1.5em;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  border-radius: 7px;
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.4);

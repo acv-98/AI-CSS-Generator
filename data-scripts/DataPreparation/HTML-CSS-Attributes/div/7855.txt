@@ -1,0 +1,1 @@
+ width: 53px; height: 53px; vertical-align: middle; font-size: 12px;  font-style:italic; font-size: 11px; 

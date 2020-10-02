@@ -1,0 +1,7 @@
+	margin-bottom: 0; 
+.tm-banner-title { 
+	font-size: 3.3em;
+	letter-spacing: 2px; 
+	font-size: 1.2em; 	.pad {
+		padding: 30px;
+		width: 100%;

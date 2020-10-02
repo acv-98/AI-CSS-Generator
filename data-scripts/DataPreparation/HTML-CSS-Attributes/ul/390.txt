@@ -1,0 +1,13 @@
+    right: 0;
+    left: auto;
+    float: right !important;
+    margin-right: -15px;
+        float: none !important;
+    margin-top: 2px;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    padding-bottom: 10px;
+    padding-top: 10px;

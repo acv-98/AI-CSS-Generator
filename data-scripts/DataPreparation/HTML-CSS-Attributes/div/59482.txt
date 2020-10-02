@@ -1,0 +1,13 @@
+	position: relative;
+	z-index: 2;
+	background: #010101;
+	content: "";
+	height: 100%;
+	left: 0;
+	top: 0;
+	width: 100%;
+	opacity: 0.8;	
+	font-size: 38px;
+	color: #ffffff;
+	font-family: 'Arbutus Slab', serif;
+	padding: 0px;

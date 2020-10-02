@@ -1,0 +1,16 @@
+  padding: 120px 0 75px;
+  text-align: left;
+  margin-bottom: 63px;
+  color: #727070;
+  font: 14px/14px 'Open Sans', sans-serif;
+  text-decoration: underline;
+  line-height: 20px;
+  border-top: 1px solid #4d4a4a;
+  position: relative;
+  background: #fff;
+  content: "";
+  display: block;
+  width: 33px;
+  height: 28px;
+  bottom: -28px;
+  right: 30px;

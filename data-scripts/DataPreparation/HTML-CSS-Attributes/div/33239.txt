@@ -1,0 +1,3 @@
+padding: 25px 0;.featured-blocks .block .block-content .btn{font-family: 'open_sansextrabold'; color: #fff; font-size: 14px; background: #2bbbdf; padding: 8px; 
+color: #fff; background: #6f7678; border: none;.featured-content .block .block-content .btn{font-family: 'open_sansextrabold'; color: #fff; font-size: 14px; background: #2bbbdf; padding: 8px; 
+color: #fff; background: #6f7678; border: none;

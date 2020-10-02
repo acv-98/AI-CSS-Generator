@@ -1,0 +1,7 @@
+    padding: 75px 25px;
+    margin: 0;
+    text-transform: capitalize;
+    background: #f0f0f0;
+    color: #393939;
+    margin-top: 20px;
+      padding: 45px 25px;

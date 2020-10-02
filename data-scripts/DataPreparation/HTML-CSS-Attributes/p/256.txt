@@ -1,0 +1,7 @@
+  margin-bottom: 0;
+  margin-left: 15px;
+  margin-top: 10px;
+  float: left;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: 400;

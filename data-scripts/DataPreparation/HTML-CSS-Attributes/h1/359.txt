@@ -1,0 +1,4 @@
+	font-size:32px;
+    color:#000;
+    font-family: 'oswaldregular',sans-serif;
+    text-transform: uppercase;

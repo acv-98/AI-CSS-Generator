@@ -1,0 +1,5 @@
+	line-height:24px;
+	padding-left:28px
+	color:#9d9d9d;
+	text-decoration:none
+	background:url(../images/facebook.png) 0 3px no-repeat

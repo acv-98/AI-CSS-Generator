@@ -1,0 +1,3 @@
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 1rem;

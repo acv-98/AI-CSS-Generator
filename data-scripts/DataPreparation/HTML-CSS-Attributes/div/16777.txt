@@ -1,0 +1,4 @@
+	width:950px;
+	margin:0 auto;
+	background:url(../images/header-bg.jpg) center 0 no-repeat;
+	box-shadow:0 -7px 7px rgba(0, 0, 0, 0.1);

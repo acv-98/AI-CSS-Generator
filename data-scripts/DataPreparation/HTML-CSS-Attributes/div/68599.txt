@@ -1,0 +1,8 @@
+	margin:0 auto;
+	position:relative;
+	width:1000px;
+	font-size:.875em;
+	height:327px;
+	background-repeat:no-repeat;
+	background-position:left bottom;
+	background-image:url(../images/header-bg.jpg);

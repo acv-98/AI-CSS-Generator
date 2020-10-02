@@ -1,0 +1,1 @@
+ float:left; background:#1491c1; width:300px; float:left;font-size:52px; text-align:center; padding:52px 0px 50px 0px;

@@ -1,0 +1,10 @@
+ color:#2B2828;  font-size:22px;  color:#2B2828;  font-size:22px;  color:#2B2828;  font-size:22px;  color:#2B2828;  font-size:22px;  color:#2B2828;  font-size:22px;  color:#2B2828;  font-size:22px;  color:#2B2828;  font-size:22px;  margin-left: 10px !important;  clear: both !important; padding-top: 5px !important;  margin-left: 10px !important; 
+#portfolio-bigimage .work-skillsdate{ 
+    position: absolute !important;
+    top: 0px !important;
+    bottom: auto !important;
+ clear: both !important; padding-top: 5px !important;   margin-top: 7px;
+  margin-bottom: 15px;
+  color: #000000;
+  margin-left: 240px;
+  padding-top: 35px;

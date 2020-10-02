@@ -1,0 +1,5 @@
+  font-size: 1.2em;
+  border-bottom: 1px dotted #828282;
+  margin: 0 20px;
+  padding-top: 10px;
+  color: #535b60;

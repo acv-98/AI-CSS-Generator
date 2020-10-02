@@ -1,0 +1,9 @@
+        border-right: 0px dashed #ddd;
+        padding-right: 0px;
+        max-width: 70%;
+        margin: 0 auto;
+        padding-bottom: 20px;
+        text-align: center;
+    font-size:2.1875rem;
+    font-family: 'latosemibold';
+        

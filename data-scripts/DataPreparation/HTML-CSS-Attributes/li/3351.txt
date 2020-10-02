@@ -1,0 +1,1 @@
+background:url(../images/btn_2.jpg) 0 0 no-repeat; background:url(../images/btn_2_over.jpg) 0 0 no-repeat;

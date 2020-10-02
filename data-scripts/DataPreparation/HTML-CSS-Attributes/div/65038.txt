@@ -1,0 +1,10 @@
+	font-size: 25pt;
+	padding: 0;
+	letter-spacing: 0;
+	color: #232323;
+	font-family: 'Open Sans Condensed', sans-serif;
+	width: 100%;
+	display: block;
+	overflow: hidden;
+	margin: 0px 0px 0px 0px;
+	border-bottom: 1px solid #c1c1c1;

@@ -1,0 +1,11 @@
+	font-weight: bold; 
+#page-wrapper {
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y: auto;
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 100%;
+	z-index: 2;
+	background: url(../images/raster.png) repeat;

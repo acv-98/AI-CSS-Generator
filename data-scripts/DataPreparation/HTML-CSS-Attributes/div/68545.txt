@@ -1,0 +1,13 @@
+    font-size: 18px;
+    color: #121212;
+    padding: 13px 0 0;
+    max-width: 55px;
+    margin-top: 7px;
+    display: block;
+    background-color: transparent;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 30px;
+    position: relative;
+	background: #C62828;
+	color: #ffffff;

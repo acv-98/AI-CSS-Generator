@@ -1,0 +1,15 @@
+    border: 1px solid #ededed;
+    box-shadow: 0 5px 14px rgba(0, 0, 0, 0.1);
+    background-color: #f2f3f5;
+    padding: 40px 30px;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+    color: #bcbcbc;
+    font-size: 16px;
+    outline: 0 none;
+    height: 55px;
+    resize: none;
+    width: 100%;
+    opacity: 1;
+    border-bottom: 2px solid #1f1f1f !important;
+	background: #bb9d52;

@@ -1,0 +1,2 @@
+ color:#74a035; background:url(images/menu_a.gif) repeat-x top; border-radus:4px; -moz-border-radius:4px; -webkit-border-radius:4px;
+ color:#74a035;

@@ -1,0 +1,15 @@
+	padding: 10px;
+	position: absolute;
+	bottom: -76px;
+	right: 15px;
+	z-index: 3;
+	background: #fff;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity .5s linear;
+	-moz-box-shadow: 0 1px 2px #ebebeb;
+	-webkit-box-shadow: 0 1px 2px #ebebeb;
+	box-shadow: 0 1px 2px #ebebeb;
+	height: 40px;
+	width: 275px;
+	border-color: #e8e8e8;

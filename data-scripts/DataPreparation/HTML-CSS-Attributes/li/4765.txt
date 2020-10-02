@@ -1,0 +1,2 @@
+	border-top:1px dotted #765c5c;
+	padding-top:5px;

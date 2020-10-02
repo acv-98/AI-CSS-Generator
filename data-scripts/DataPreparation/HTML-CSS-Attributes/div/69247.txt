@@ -1,0 +1,2 @@
+	padding-bottom: 70px;
+	background: #f4f9fd;

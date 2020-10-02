@@ -1,0 +1,2 @@
+	background:url(images/normalhtml.jpg) left top repeat-x;
+	height:255px;

@@ -1,0 +1,10 @@
+	color: #FFF;
+	font-size: 1em;
+	font-weight: 100;
+	margin: 7px;
+	text-transform: uppercase;
+	margin-bottom: 0;
+	text-align: center;
+	position: relative;
+	line-height:1.5em;
+   font-size: 1.4em;

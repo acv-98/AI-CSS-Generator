@@ -1,0 +1,10 @@
+	display: inline;
+	float: left;
+	padding: 5px 0 25px;
+	width: 100%;
+	color: #0277bd;
+	font-size: 48px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+		font-size: 35px;
+		padding: 5px 0 25px;

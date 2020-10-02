@@ -1,0 +1,15 @@
+    width: 100%;
+    margin-bottom: 32px;
+    overflow: hidden;
+    display: inline-block;
+    color: #666;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    padding: 8px 17px;
+    margin-right: 2px;
+    margin-left: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: all 0.4s ease-in-out;
+  background: #111112 !important;

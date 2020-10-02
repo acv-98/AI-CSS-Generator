@@ -1,0 +1,7 @@
+    background: transparent url(../images/icon-like.png) no-repeat left 13px;
+    float: right;
+    position: relative;
+    height: 8px;
+    padding: 6px 0 7px 14px;
+    cursor: pointer;
+    color: #797979

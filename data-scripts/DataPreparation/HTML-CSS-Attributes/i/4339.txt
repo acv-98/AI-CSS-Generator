@@ -1,0 +1,9 @@
+  background-position: -456px -72px;
+  float: right;
+  margin-top: 2px;
+  margin-right: -6px;
+  opacity: .25;
+  background-image: url(../img/glyphicons-halflings-white.png);
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf054;');
+  content: "\f054";
+content:"\f054";

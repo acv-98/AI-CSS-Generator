@@ -1,0 +1,1 @@
+left:0left:0; padding:20px 140px 20px 70px; text-align:right; -webkit-transform:translateY(-50%) translateX(-100%) scale(0.75); transform:translateY(-50%) translateX(-100%) scale(0.75)right:20pxpadding:20px 140px 20px 40px

@@ -1,0 +1,9 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/prev.png', sizingMethod='image');
+	position:absolute;
+	top:136px;
+	display:block;
+	width:18px;
+	height:27px;
+	z-index:5;
+	left:28px;

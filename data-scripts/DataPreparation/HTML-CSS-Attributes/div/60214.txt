@@ -1,0 +1,5 @@
+	width:250px;
+	height:164px;
+	border:#fff 10px solid;
+	background:#fff;
+	margin-top:8px;

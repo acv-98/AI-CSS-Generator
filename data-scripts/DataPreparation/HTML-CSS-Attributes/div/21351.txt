@@ -1,0 +1,5 @@
+  color: #b99769;
+  box-shadow: 0.625rem 0.625rem 0.9375rem 0 rgba(31, 31, 31, 0.075);
+  font-size: 1.375rem;
+  vertical-align: top;
+  line-height: 1.1;

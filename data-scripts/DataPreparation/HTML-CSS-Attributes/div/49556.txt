@@ -1,0 +1,7 @@
+  text-decoration: none;
+  color: #f3e4c8;
+  font-weight: bold;
+  padding: 5px 10px;
+  cursor: pointer;
+  background: #585246;
+  border-bottom: 1px solid #585246;

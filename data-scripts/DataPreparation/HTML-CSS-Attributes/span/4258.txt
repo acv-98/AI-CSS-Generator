@@ -1,0 +1,1 @@
+ width:656px; background:url(../images/spn_ln.gif) repeat-y; float:left; margin:18px 0 0 0; padding-bottom:5px;

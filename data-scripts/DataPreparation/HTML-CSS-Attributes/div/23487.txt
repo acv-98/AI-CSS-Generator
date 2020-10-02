@@ -1,0 +1,7 @@
+    background: #323232 url('../images/latest-project-descr-background.png') repeat-x;
+    padding: 10px 0;
+    margin: 5px 10px;
+    font-size: 10pt;
+    text-align: right;
+    text-transform: uppercase;
+    word-spacing: 15px

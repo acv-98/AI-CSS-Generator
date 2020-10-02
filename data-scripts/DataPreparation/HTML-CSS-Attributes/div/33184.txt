@@ -1,0 +1,12 @@
+margin-top: 30px !important;display: none;margin: 0 !important;  .social-icons .icon{
+    color: #383644;
+    background: #afa7af;
+    height: 30px;
+    width: 30px;
+    font-size: 20px;
+    border-radius: 22px;
+    padding: 5px;
+    float: left;
+    margin-top: 50px;
+    margin-right: 5px;
+list-style: none; display: inline-block; text-decoration: none; background: #2b2935; color: #fff;  transition:all 1s;

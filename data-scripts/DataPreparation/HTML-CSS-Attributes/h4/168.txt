@@ -1,0 +1,7 @@
+ margin-left: 0px; 	
+	.related-projects  figure{
+		margin-left: 0px;
+		margin-right: 24px;
+		width: 160px;
+ margin-left: 0px;  color: #444; 	font-weight: bold;
+	margin-bottom: 54px;

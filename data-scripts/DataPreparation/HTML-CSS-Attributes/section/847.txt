@@ -1,0 +1,4 @@
+	padding: 60px 5% 90px; 
+	max-width: 900px;
+ padding: 80px 5% 110px; 		padding-left: 15px;
+		padding-right: 15px;

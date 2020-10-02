@@ -1,0 +1,10 @@
+	overflow:hidden;
+	display:block;
+	width:100%;
+	background:#3d3325;
+	text-align:center;
+	color:#fff;
+	margin:20px 0px;
+	padding:0px 10px;
+	font-weight:700;
+	font-size:18px;

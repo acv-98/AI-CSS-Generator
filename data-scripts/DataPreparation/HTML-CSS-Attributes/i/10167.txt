@@ -1,0 +1,14 @@
+	position: relative;
+	z-index: 2;
+	-webkit-transition: all 0.08s ease-in;
+	-moz-transition: all 0.08s ease-in;
+	-ms-transition: all 0.08s ease-in;
+	-o-transition: all 0.08s ease-in;
+	transition: all 0.08s ease-in;
+	font-size: 58px;
+	text-align: center;
+	display: block;
+	color: #999999;
+	line-height: 1;
+	margin: 0 0 14px 0;
+	padding: 0;

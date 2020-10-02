@@ -1,0 +1,6 @@
+	background:url(../images/banner-bg.png) 0 0 no-repeat;
+	margin:10px 0 0 135px;
+	display:block;
+	width:333px;
+	height:152px;
+	margin-left:174px;

@@ -1,0 +1,5 @@
+	width:275px;
+	height:auto;
+	float:left;
+	margin-bottom:20px;
+	

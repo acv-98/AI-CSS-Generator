@@ -1,0 +1,2 @@
+ background-position:0 -74px; color:#fff;  background-position:right -74px;
+.tabs ul li a.active,

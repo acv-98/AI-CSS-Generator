@@ -1,0 +1,2 @@
+width:354px;
+background: url(../images/tile.gif) repeat-y;

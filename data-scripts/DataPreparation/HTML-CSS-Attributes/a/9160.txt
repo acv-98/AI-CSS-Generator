@@ -1,0 +1,9 @@
+    color: #1abc9c;
+    overflow: hidden;
+    position: absolute;
+    font-size: 27px;
+    line-height: 38px;
+   -webkit-transition: all 0.3s;
+   -moz-transition: all 0.3s;
+    transition: all 0.3s;
+       display: none;

@@ -1,0 +1,11 @@
+    margin: 40px 0;
+    position: relative;
+    width: 70px;
+    height: 70px;
+    background-color: #ee997b;
+    line-height: 70px;
+    font-size:2rem;
+    color:#fff;
+    border-radius: 50%;
+    z-index: 22;
+    text-align: center;

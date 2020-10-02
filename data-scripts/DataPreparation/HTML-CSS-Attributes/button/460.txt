@@ -1,0 +1,12 @@
+font-family:inherit;font-size:inherit;line-height:inherit
+ *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+	 General styles
+body {
+	background-color: white;
+	background-image: url(../img/bg.jpg);
+	background-position: left top;
+	background-repeat: repeat;
+	-webkit-font-smoothing: antialiased;
+    margin-top: 30px;
+	border: none;

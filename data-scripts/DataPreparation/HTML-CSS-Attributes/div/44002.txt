@@ -1,0 +1,15 @@
+     background: #d33b33;
+     position: absolute;
+     height: 70px;
+     width: 70px;
+     top: 50%;
+     font-size: 20px;
+     display: block;
+     color: #fff;
+     line-height: 90px;
+     text-align: center;
+     transition: all .3s ease-in-out;
+  margin: 0 auto;
+  z-index: 3;
+  left: 0;
+  right: 0;

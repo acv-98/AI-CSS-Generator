@@ -1,0 +1,16 @@
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -10%;
+  color: #4ec3cd;
+  display: block;
+  padding-top: 15px;
+  width: 60px;
+  height: 60px;
+  border: 2px solid #4ec3cd;
+  -moz-border-radius: 30px;
+  -o-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+  margin: auto;

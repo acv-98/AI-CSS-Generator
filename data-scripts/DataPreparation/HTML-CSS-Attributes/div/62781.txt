@@ -1,0 +1,16 @@
+	float:left;
+	position:relative;
+	padding:0 23px;
+	width:264px;
+	text-align:left;
+	white-space:nowrap;
+	margin-right:20px;
+	clear:both;
+	padding-bottom:30px;
+	display:block;
+	color:#2e2e2e;
+	font-size:35px;
+	line-height:20px;
+	height:33px;
+	background:url("../images/border-spacer.gif") no-repeat left center;
+	bottom:0;

@@ -1,0 +1,5 @@
+	background:#D7B327 url(images/bg_package_gold.png) repeat-x top;
+	text-shadow:1px 1px 1px #B6A359;
+	border:1px solid #D8B527;
+	margin-left:20px;
+	padding:0;

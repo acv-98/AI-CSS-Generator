@@ -1,0 +1,11 @@
+    margin-left: 8em;
+    padding-right: 12px;
+    padding-left: 12px;
+    display: inline-block;
+    background: #292929;
+    color: #ffffff;
+    background-color: transparent;
+      margin-left: inherit;
+      display: inline-block;
+      width: 50%;
+      padding: 10px;

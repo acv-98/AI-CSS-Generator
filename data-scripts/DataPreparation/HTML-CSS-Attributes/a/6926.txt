@@ -1,0 +1,4 @@
+	color: #0091ea;
+	display: inline-block;
+	margin-top: 60px;
+	font-size: 14px;

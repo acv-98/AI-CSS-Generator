@@ -1,0 +1,1 @@
+width:194px; float:right; margin-right:17px;font-family: 'Open Sans', sans-serif; font-size:14px; color:#96577a; text-transform:uppercase; line-height:80px;font-family: 'Open Sans', sans-serif; color:#838d9d; 

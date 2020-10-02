@@ -1,0 +1,1 @@
+border-radius: 0px 5px 5px 0; text-align: center; background: #ebebeb;    .site-name{overflow: hidden; display: inline-block; margin: 0 auto; text-align: center;

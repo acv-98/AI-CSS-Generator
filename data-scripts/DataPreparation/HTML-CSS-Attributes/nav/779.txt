@@ -1,0 +1,9 @@
+    margin-left: -280px;
+    right: 0;
+    left: -280px;
+        display: block !important;
+        height: auto !important;
+        content: "\f107";
+        margin-top: -10px;
+        border-bottom: solid 1px #e0e0e0;
+    color: #f43438 !important;

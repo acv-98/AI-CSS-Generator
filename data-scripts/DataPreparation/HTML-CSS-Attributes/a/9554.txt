@@ -1,0 +1,3 @@
+	padding-right:14px;
+	background:url(../images/line_ver1.gif) right 3px no-repeat;
+	margin-right:10px;

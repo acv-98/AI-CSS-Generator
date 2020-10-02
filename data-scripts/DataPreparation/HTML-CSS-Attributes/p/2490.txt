@@ -1,0 +1,2 @@
+	border-color:#83ba77;
+	background:url(../img/css/icons/success.png) 10px center no-repeat #d1feba;

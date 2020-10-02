@@ -1,0 +1,36 @@
+   position: relative;
+   padding: 0 18px;
+   min-height: 1px;
+   float: left;
+    float: none;
+    margin: 0 auto;
+ padding: 0; 	   width: auto !important;      
+	   float: none;
+	   margin-left: 0;
+	   margin-right: 0;
+      padding: 0 30px;
+ padding: 0; .item .item-wrap {
+   background: #fff;
+   overflow: hidden;
+   -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+   padding-right: 5px;
+   padding-left: 5px;
+ margin-bottom: 6px; footer h3 {
+   font: 13px/24px 'opensans-semibold', sans-serif;
+   margin-bottom: 0;
+   font-weight: normal;
+   color: #fff;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+ width: 50% !important;    footer .right-cols .columns:last-child { 
+      clear: left; 
+      float: left;      
+ margin-bottom: 36px;    #testimonials .quote-left,      
+   #testimonials .quote-right {    
+      font-size: 30px;
+      margin-top: -25px;
+ padding: 0 10px; 

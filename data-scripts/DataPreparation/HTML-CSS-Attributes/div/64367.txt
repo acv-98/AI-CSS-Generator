@@ -1,0 +1,8 @@
+  border: 1px solid #0eb493;
+  border-radius: 50%;
+  color: #0eb493;
+  float: left;
+  padding: 10px 13px;
+  margin: 0 auto 15px;
+  text-align: center;
+  width: 50px;

@@ -1,0 +1,8 @@
+	background: url(../images/prevnext.png) 0 bottom no-repeat;
+	display: block;
+	float: right;
+	width: 32px;
+	z-index: 999;
+	height: 30px;
+	margin-top: 8px;
+	background-position: 0 0;

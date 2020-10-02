@@ -1,0 +1,8 @@
+    float: left;
+    width: 265px;
+    margin-left: 20px;
+ font-size: 24px; font-weight: 400; line-height: 28px; .about-us_2 {
+    margin-top: 40px;
+ width: 217px; margin-left: 15px;  width: 158px; margin-left: 10px;  float: none; width: auto; margin-left: 50px; margin-right: 50px;  line-height: 36px;  font-size: 24px; font-weight: 400; line-height: 28px;  width: 217px; margin-left: 15px;  width: 158px; margin-left: 10px;  float: none; width: auto; margin-left: 50px; margin-right: 50px;  line-height: 36px;  font-size: 24px; font-weight: 400; line-height: 28px; .gallery-images {
+    padding-left: 50px;
+ margin-left: 50px; margin-right: 50px;  line-height: 36px; 

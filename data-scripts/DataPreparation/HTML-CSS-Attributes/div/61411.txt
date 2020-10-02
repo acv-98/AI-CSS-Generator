@@ -1,0 +1,4 @@
+	margin-top:30px;
+	font-size:14px;
+	font-weight:900;
+	line-height:0.9rem;

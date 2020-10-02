@@ -1,0 +1,2 @@
+ background:url(images/menu_a.jpg) no-repeat center center; color:#1ea1cc;
+ color:#1ea1cc; background:none;

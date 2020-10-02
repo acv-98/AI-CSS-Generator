@@ -1,0 +1,4 @@
+	color: #B9B9B9;
+	text-transform: uppercase;
+	font-size:1em;
+	line-height: 0.5em;

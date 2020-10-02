@@ -1,0 +1,8 @@
+  clear: both;
+  display: block;
+  line-height: 3 !important;
+  font-size: 20px;
+  position: relative;
+  float: left;
+  margin-right: 10px;
+    margin-top: 0px;

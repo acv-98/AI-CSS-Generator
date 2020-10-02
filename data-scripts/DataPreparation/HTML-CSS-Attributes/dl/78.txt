@@ -1,0 +1,1 @@
+ margin-top:13px; text-transform:uppercase; width:70px; display:block; float:left;white-space:nowrap;

@@ -1,0 +1,5 @@
+ margin-bottom: 15px; 
+ margin-bottom: 20px; 	.cd-hero-slider .cd-btn {
+		font-size: 1.3rem;
+		margin-top: 17px;
+ margin-bottom: 40px;  margin-bottom: 60px; 

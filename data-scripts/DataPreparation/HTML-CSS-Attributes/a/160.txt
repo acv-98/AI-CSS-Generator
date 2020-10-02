@@ -1,0 +1,8 @@
+	text-decoration:none
+	display:block;
+	width:230px;
+	height:66px;
+	text-indent:-5000px;
+	background:url(../images/logo.png) 0 0 no-repeat
+	color:#6e3bb9;
+	font-style:italic;

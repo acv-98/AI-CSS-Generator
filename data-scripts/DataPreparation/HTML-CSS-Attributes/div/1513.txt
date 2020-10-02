@@ -1,0 +1,17 @@
+  display: block;
+  max-width: 100%;
+  height: auto;
+  position: relative;
+  -webkit-transition: .6s ease-in-out left;
+          transition: .6s ease-in-out left;
+  line-height: 1;
+	margin: 0;
+	color: #666;
+	font-family: "trebuchet ms", sans-serif;
+	padding: 0.3em 0 0 0;
+    text-align: center;
+    height:290px !important;
+	border-radius:30em;
+	-webkit-border-radius:30em;
+	-moz-border-radius:30em;
+	-o-border-radius:30em;

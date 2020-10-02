@@ -1,0 +1,3 @@
+	font-size:12px;
+	list-style-image:url(../images/list-arrow.gif);
+	list-style-position:inside;

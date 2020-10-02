@@ -1,0 +1,1 @@
+text-align:leftdisplay:inline-blockdisplay:inline-block; background:none repeat scroll 0 0 #2e3d45; color:#ddd; line-height:12px; margin:0 2px 4px 0; padding:12px 17px; -webkit-transition:all 0.5s; -o-transition:all 0.5s; -moz-transition:all 0.5s; -ms-transition:all 0.5s; transition:all 0.5sbackground-color:#FFA500

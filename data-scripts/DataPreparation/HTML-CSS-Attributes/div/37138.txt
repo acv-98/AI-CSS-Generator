@@ -1,0 +1,9 @@
+	font-family: "ClassicRound-Medium";
+	color: #606060;
+	font-size: 15px;
+	text-transform: uppercase;
+	margin-bottom: -15px;
+	padding: 0;
+	padding-bottom: 15px;
+	line-height: 20px;
+	background: none;

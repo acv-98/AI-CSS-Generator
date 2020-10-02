@@ -1,0 +1,14 @@
+	padding:6% 0;
+	background:#222222;
+	font-family: 'Raleway', sans-serif;
+	color: #696969;
+	font-size: 0.8755em;
+	line-height: 1.9em;
+	padding-bottom: 13%;
+	text-decoration:none;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+		padding: 1% 0 0;
+		font-size: 1em;
+		padding-bottom: 2%;

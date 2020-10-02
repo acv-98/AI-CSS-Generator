@@ -1,0 +1,13 @@
+	width:900px;
+	margin:20px 0;
+	overflow:hidden;
+	float:left;
+	list-style-type:none;
+	height:355px;
+	padding:0;
+	border:1px solid #000000;
+	color:#ff7800;
+	font-weight:500;
+	margin-bottom:5px;
+	font-size:0.9em;
+	text-align:left;

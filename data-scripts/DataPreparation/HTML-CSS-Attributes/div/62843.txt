@@ -1,0 +1,9 @@
+	clear: both;
+	position: relative;
+	margin-bottom: 15px;
+	background:url(images/sidebox_bg.jpg) repeat-y;
+	bottom: 0px;
+	left: 0px;
+	width: 300px;
+	height: 10px;
+	padding: 20px;

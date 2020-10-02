@@ -1,0 +1,9 @@
+  background: url(../images/parallax.png) no-repeat center;
+  background-size
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  width: 100%;
+  overflow: hidden;
+  min-height:330px;
+  position:relative;

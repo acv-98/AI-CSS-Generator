@@ -1,0 +1,6 @@
+	    margin: 60px 0px !important;
+	    padding: 10px 0px;
+	    text-align: center;
+	    color: #fff;
+	    font-size: 60px;
+	   color: #fff;

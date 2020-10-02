@@ -1,0 +1,17 @@
+	overflow:hidden;
+	width:170px;
+	float:left;
+	margin-right:30px;
+	display:inline-block;
+	height:66px;
+	font-size:24px;
+	padding-left:6px;
+	line-height:40px;
+	color:#b09609;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-weight:normal;
+	background:url(../images/letter.png) 0 0 no-repeat;
+	text-align:center;
+	text-transform:uppercase;
+	padding-top:17px;
+	margin-top:6px;

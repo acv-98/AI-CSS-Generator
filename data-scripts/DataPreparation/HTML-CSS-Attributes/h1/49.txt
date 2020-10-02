@@ -1,0 +1,13 @@
+	text-align:center;
+	font-size:66px;
+	font-family:'Pacifico';
+	margin:0 0 50px 0;
+	padding-bottom:50px;
+	position:relative;
+	content:"";
+	width:100px;
+	height:10px;
+	left:50%;
+	margin-left:-50px;
+	border-bottom:1px double #fff;
+	bottom:0;

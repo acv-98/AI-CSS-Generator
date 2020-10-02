@@ -1,0 +1,11 @@
+ width: 25px; 
+.social-icon {
+	color: #fff;
+	cursor: pointer;
+	margin: 5px;
+	width: 35px;
+	height: 35px;
+	text-align: center;
+	padding-top: 10px;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;

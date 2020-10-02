@@ -1,0 +1,13 @@
+  width:300px;
+  font-size:15px;
+  padding-right:10px;
+  text-align:center;
+  margin:0 auto;
+  float:left;
+  line-height:90px;
+  color:#5f666e;
+  -webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;

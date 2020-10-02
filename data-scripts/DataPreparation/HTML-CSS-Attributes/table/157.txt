@@ -1,0 +1,1 @@
+background:#fff;border-bottom:1px solid #e0e0e0;text-align:center;height:80px;color:#636262;font-weight:bold;border-bottom:none;height:40px;line-height:40px;background-color:transparent;color:#636262;background:#c21200;color:#fff;border:1px solid #c21200;background:#4b4a4a;color:#fff;border:1px solid #4b4a4a;background:#07558c;color:#fff;border:1px solid #07558c;

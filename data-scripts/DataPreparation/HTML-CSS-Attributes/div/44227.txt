@@ -1,0 +1,3 @@
+background:url(../images/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;display:block;height:33px;width:50pxdisplay:none
+    Mobile Menu Core Style
+		transition-duration: 1s;

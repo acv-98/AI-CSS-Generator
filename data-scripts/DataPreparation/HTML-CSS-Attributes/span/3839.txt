@@ -1,0 +1,6 @@
+	line-height:1em;
+	vertical-align:baseline;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	bottom:5px;
+	color:rgba(0,0,0,.4);

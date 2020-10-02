@@ -1,0 +1,12 @@
+	float:left;
+	width:46px;
+	margin-right:20px;
+	text-align:center;
+	font-size:30px;
+	color:#13c5ff;
+	line-height:1.2em;
+	padding-bottom:20px
+	display:block;
+	margin-top:-8px;
+	margin-bottom:-22px;
+	letter-spacing:-2px

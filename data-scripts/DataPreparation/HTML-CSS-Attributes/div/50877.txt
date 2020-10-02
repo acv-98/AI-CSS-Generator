@@ -1,0 +1,3 @@
+	background:url(images/box-bor-b.gif) no-repeat 0 bottom;
+	min-height:210px;
+	height:auto !important;

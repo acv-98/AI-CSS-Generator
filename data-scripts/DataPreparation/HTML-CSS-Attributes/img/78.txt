@@ -1,0 +1,6 @@
+    width: 75px;
+    max-height: 75px;
+    background-color: #777777;
+        min-width: 55px;
+        min-height: 55px;
+    

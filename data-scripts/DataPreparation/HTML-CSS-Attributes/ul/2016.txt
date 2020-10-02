@@ -1,0 +1,9 @@
+	padding-top:66px
+	padding-left:25px;
+	position:relative
+	content:'';
+	left:0;
+	top:2px;
+	font:14px/24px FontAwesome;
+	color:#af9aae
+	margin-top:6px

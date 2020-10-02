@@ -1,0 +1,2 @@
+	padding:36px 0 0 50px;
+	width:320px;

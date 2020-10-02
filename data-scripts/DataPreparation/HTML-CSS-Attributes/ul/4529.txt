@@ -1,0 +1,12 @@
+			position: relative;
+			left: 0;
+			top: 0;
+			height: auto;
+			line-height: inherit;
+			margin: 0 0 1em 0;
+			cursor: default;
+				display: inline-block;
+				margin: 0 0 0 0.5em;
+				margin-left: 0;
+				font-size: 1.25em;
+					padding: 0.5em;

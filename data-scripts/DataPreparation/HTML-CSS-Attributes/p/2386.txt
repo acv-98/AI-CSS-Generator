@@ -1,0 +1,12 @@
+	zoom: 1;
+	width: 20%;
+	padding: 2%;
+	margin: 0;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	background:#bfd6e4;
+	color:#414558;
+	font-size: 12px;
+	line-height: 15px;
+ display:none;

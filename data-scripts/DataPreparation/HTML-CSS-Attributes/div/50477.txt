@@ -1,0 +1,2 @@
+	position:relative;
+	padding:35px 40px 40px 503px;

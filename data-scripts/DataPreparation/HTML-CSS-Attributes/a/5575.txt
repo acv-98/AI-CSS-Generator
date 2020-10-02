@@ -1,0 +1,11 @@
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+    color: #fff;
+    text-align: center;
+    display: block;
+    background-color: #79c4ca;
+    font: 36px/43px 'Dosis', sans-serif;
+    margin-bottom: 25px;
+    padding-top: 63px;
+    padding-bottom: 69px;
+    margin-top: 3px;
+    font-size: 30px;

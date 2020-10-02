@@ -1,0 +1,1 @@
+  box-shadow: 0 0.3125rem 1rem 0 rgba(34, 35, 36, 0.2);

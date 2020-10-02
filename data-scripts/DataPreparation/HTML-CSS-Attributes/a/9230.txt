@@ -1,0 +1,4 @@
+height:13px
+Slider elastic 
+              
+margin-top:-20px; background:url('images/icons/socials/twitter.png') no-repeat 

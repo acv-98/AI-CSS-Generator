@@ -1,0 +1,11 @@
+		background: #fff;
+		color: #666;
+		margin: 10px 0 20px 0;
+		padding: 20px 40px;
+			margin: 10px 0 0 -60px;
+					border: 2px solid #fff;
+					height: auto;
+					max-width: 450px;
+					color: #222;
+					font-size: 18pt;
+					border-color: #222;

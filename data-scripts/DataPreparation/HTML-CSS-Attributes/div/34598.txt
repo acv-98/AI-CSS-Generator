@@ -1,0 +1,8 @@
+	height: 120px;	height: 120px;	height: 160px;	height: 160px;	height: 160px;
+.psample {
+	overflow: hidden;
+	position: relative;
+	line-height: 1.3em;
+	display: block;
+	margin: 0;
+	margin-right: .5em;

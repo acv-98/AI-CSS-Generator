@@ -1,0 +1,4 @@
+	padding:35px 0 0 0;
+	font-size:92px;
+	line-height:110px;
+	margin:-40px 0 0 0;

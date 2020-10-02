@@ -1,0 +1,5 @@
+ width: 100%; 
+.tm-blue-bg {
+	background-color: #006599;
+	color: white;
+	    width: 100%;

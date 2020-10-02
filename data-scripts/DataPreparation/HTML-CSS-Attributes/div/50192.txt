@@ -1,0 +1,10 @@
+	font-size:20px;
+	color:#374f5f;
+	border-bottom:1px solid #c3cacf;
+	padding-bottom:10px;
+	margin-bottom:10px;
+	line-height:18px;
+	text-decoration:underline;
+	display:block;
+	font-weight:bold;
+	padding-top:8px;

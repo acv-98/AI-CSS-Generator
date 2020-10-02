@@ -1,0 +1,14 @@
+    color: #ffffff;
+    background-color: rgba(237, 237, 237, 0.80);
+    width: 100%;
+    height:auto;
+    background-size: cover;
+    padding-top: 250px;
+    padding-bottom: 25px;
+    font-size:4.5rem;
+    line-height: 5rem;
+    max-width: 60%;
+    margin: 0 auto;
+    margin-top: 80px;
+    text-align: center;
+    -webkit-tap-highlight-color: transparent;

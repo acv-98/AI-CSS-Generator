@@ -1,0 +1,4 @@
+    height: 100vh;
+    max-width: none;
+	width: 100%;
+	object-fit: cover;

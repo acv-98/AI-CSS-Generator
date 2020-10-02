@@ -1,0 +1,6 @@
+    background: #3f444a;
+    color:#fff;
+    transition: all 0.3s;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size:3rem;

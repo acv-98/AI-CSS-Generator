@@ -1,0 +1,1 @@
+bottom:15px; color:#fff; font-size:20px; left:0; line-height:23px; margin:0 20px; padding:20px 0; position:absolute; right:0; text-align:center; width:auto; z-index:5color:#fff.slider_tittle

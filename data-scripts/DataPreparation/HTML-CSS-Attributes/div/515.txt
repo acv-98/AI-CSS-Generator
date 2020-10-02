@@ -1,0 +1,5 @@
+	background:url(../images/block-1.jpg) 0 0 repeat;
+	position:relative;
+	padding:12px 0 25px 0;
+	margin:43px 0 0 4px;
+	float:left;

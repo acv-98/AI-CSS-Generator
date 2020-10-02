@@ -1,0 +1,1 @@
+ background:url(images/prev.gif); left:-10px; 

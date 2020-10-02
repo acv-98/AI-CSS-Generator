@@ -1,0 +1,2 @@
+ height: 50px; 
+ height: 50px; 	background: linear-gradient(to bottom, rgba(249,250,251,1) 0%, rgba(249,250,251,1) 0%, rgba(225,228,231,1) 100%);

@@ -1,0 +1,2 @@
+ color:#fff; background:url(images/menu_al.gif) no-repeat left top; background:url(images/menu_ar.gif) no-repeat right top; background:url(images/menu_a.gif) repeat-x top;
+ text-decoration:underline; color:#56b9f4;

@@ -1,0 +1,5 @@
+		padding: 10px 5px;
+		background: url(images/sidebar.gif) repeat-x 0 5px;
+		margin-bottom: 15px;
+		width: 290px;
+		float: left;

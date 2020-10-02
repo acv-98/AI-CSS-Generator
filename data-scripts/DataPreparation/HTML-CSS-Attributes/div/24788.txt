@@ -1,0 +1,38 @@
+  display: block;
+  max-width: 100%;
+  height: auto;
+  position: relative;
+  -webkit-transition: .6s ease-in-out left;
+       -o-transition: .6s ease-in-out left;
+          transition: .6s ease-in-out left;
+  line-height: 1;
+    -webkit-transition: -webkit-transform .6s ease-in-out;
+         -o-transition:      -o-transform .6s ease-in-out;
+            transition:         transform .6s ease-in-out;
+    -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+    -webkit-perspective: 1000;
+            perspective: 1000;
+    left: 0;
+    -webkit-transform: translate3d(100%, 0, 0);
+            transform: translate3d(100%, 0, 0);
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+    -moz-transition:all 200ms linear; 
+    -ms-transition:all 200ms linear; 
+   
+    width:100%;
+    height: 100%;
+    top: 0;
+    
+    background:#222 url("../images/plus.png") center center no-repeat;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+    z-index:99;
+    -moz-transform: scale(1.1); 
+    display: block;
+	font-weight: 400;
+	margin: 30px 0;
+	color: #d1d1d1;

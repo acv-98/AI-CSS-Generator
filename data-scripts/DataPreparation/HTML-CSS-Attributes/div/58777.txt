@@ -1,0 +1,19 @@
+   padding-right: 5px;
+   padding-left: 5px;
+   width: 33.33333%; ;
+ margin-bottom: 6px; footer h3 {
+   font: 13px/24px 'opensans-semibold', sans-serif;
+   margin-bottom: 0;
+   font-weight: normal;
+   color: #fff;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+ width: 50% !important;    footer .right-cols .columns:last-child { 
+      clear: left; 
+      float: left;      
+      width: 90% !important;
+      margin: 0 auto ;
+      margin-bottom: 42px; 
+      text-align: center;
+      padding: 0 30px;    
+ padding: 0 10px; 

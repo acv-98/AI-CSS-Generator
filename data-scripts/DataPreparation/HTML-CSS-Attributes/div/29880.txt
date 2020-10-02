@@ -1,0 +1,7 @@
+	list-style:none;
+	float:left;
+	padding:0 4px 5px 0;
+	background:#fff;
+	border:1px solid #eaeef1;
+	display:block;
+	padding-right:0;

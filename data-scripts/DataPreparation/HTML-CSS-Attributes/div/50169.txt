@@ -1,0 +1,7 @@
+	width:222px;
+	float:right;
+	padding-top:4px;
+	background:#fff;
+	border:1px solid #e4e4e4;
+	height:35px;
+	cursor:pointer;

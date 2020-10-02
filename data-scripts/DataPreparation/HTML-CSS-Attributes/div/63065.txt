@@ -1,0 +1,5 @@
+    font-family: 'oswald';
+	background:#333;
+	color: #fff;
+	padding: 20px;
+	font-size: 45px;

@@ -1,0 +1,1 @@
+display: none !important;height: auto !important; padding-top: 5px !important;text-align: center; background: #34b091; height: 52px;

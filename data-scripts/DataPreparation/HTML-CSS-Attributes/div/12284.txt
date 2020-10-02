@@ -1,0 +1,10 @@
+	width: 100px;
+	height: 23px;
+	background: url("../images/logoW@2x.png") no-repeat center;
+	background-size: 100px 23px;
+	margin: 0 auto 21px;
+	display: block;
+	filter: alpha(opacity=10);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+	opacity: 0.1;
+	zoom: 1;

@@ -1,0 +1,1 @@
+ width: 285px;  display: none; 

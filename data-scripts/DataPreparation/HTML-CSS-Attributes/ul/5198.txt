@@ -1,0 +1,1 @@
+ list-style:none; margin:10px 0 10px 5px; padding:0; width:230px; float:left; padding:5px; margin:0; font:normal 12px Arial, Helvetica, sans-serif; color:#2d75c0;

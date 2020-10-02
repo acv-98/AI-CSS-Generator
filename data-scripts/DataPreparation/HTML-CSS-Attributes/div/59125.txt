@@ -1,0 +1,15 @@
+  border: 1px solid #25c9da;
+  color: #25c9da;
+	float: left;
+	display: inline;
+	width: 100%;
+	text-align: right;
+	font-size: 15px;
+	height: 30px;
+	line-height: 29px;
+	margin: 0 3px;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+margin-top: 20px;text-align: center;

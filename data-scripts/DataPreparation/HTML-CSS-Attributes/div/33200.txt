@@ -1,0 +1,1 @@
+font-size: 14px !important;font-size: 12px !important;color: #f76e5d; font-size: 15px; font-family: 'fjalla_oneregular'; text-transform: uppercase;text-decoration: none; color: #3e3c4a;

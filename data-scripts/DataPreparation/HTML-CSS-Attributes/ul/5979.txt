@@ -1,0 +1,7 @@
+    content: ' / ';
+    margin-right: 3px;
+    margin-left: 3px;
+ content: ' '  color: #e5b112 .meta-detail {
+    background: #f4f4f4;
+    border-radius: 3px;
+    padding: 2px;

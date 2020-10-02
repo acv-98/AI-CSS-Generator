@@ -1,0 +1,14 @@
+  text-align: left;
+  width: 100%;
+  float: left;
+  padding: 20px;
+  display: block;
+  margin-top: 5px;
+  color: #7ac143;
+  font-size: 70px;
+    font-size: 40px;
+    width: 82%;
+  font-weight: 300;
+  margin-bottom: 20px;
+  letter-spacing: .2em;
+  text-transform: uppercase;

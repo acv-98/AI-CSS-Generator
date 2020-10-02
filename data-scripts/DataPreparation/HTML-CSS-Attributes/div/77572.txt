@@ -1,0 +1,2 @@
+	background:#ffe68f url(../images/postbg.jpg) 0 0 no-repeat;
+	width:300px;

@@ -1,0 +1,12 @@
+	color: #40A6CF;
+	text-transform: uppercase;
+	font-size: 0.875em;
+	font-weight: 600;
+	padding: 0.5em 0.3em;
+	display: block;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	background: #ffffff;
+	border-top: 0;

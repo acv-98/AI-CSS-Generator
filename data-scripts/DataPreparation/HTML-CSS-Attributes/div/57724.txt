@@ -1,0 +1,4 @@
+font-size:15px;
+font-weight:bold;
+color:#D4B822;
+text-decoration:none;

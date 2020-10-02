@@ -1,0 +1,12 @@
+  display: inline;
+  float: left;
+  width: 100%;
+  font-size: 14px;
+  margin-right: 5px;
+  border-left: 1px solid #ddd;
+  margin-left: 15px;
+  padding-left: 15px;
+    display: none;
+    font-size: 12px;
+    margin-top: 3px;
+    margin-right: 0;

@@ -1,0 +1,34 @@
+height:23px;padding-top:7px;padding:0;margin:0;max-width:651px;	.body .blog.post .description {
+		margin-top:15px;
+margin-bottom:15px;	.body .blog.post h6 {
+		font-size:16px;
+		font-family:Arial, Helvetica, sans-serif;
+		color:#515151;
+		clear:both;
+		margin-bottom:25px;
+		list-style:none;
+		float:left;
+		width:100%;
+		padding:10px;
+		background:#f6f6f6;
+		border:1px dashed #dfdede;
+		margin-right:10px;
+		height:40px;
+		overflow:hidden;
+		font-style:italic;
+		margin-left:55px;
+		line-height:20px;
+		position:relative;
+		min-height:100%;
+		background-color: #dfdede;
+		top:0;
+		left:-51px;
+		border-bottom:0;
+		border-left:0;
+		border-right:0;
+margin-bottom:21px;	.body .standard-form form input, .body .standard-form form textarea {
+		display:block;
+		text-indent:5px;
+		-webkit-box-shadow: inset 2px 2px 1px 1px #f1f1f1;
+        box-shadow: inset 2px 2px 1px 1px #f1f1f1;
+padding:0;margin:0;max-width:501px;width:95%;width:83%;max-width:421px;padding:0;margin:0;max-width:501px;width:95%;width:83%;width:298px;padding:0;margin:0;max-width:501px;width:90%;width:71%;left:7%;

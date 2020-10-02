@@ -1,0 +1,12 @@
+  margin-bottom: 20px;
+  font-size: 18px;
+  line-height: 22px;
+  position: relative;
+  padding-bottom: 20px;
+  content: "";
+  bottom: 0;
+  left: 0;
+  width: 30px;
+  height: 2px;
+  background: #e32929;
+  color: #ccc;

@@ -1,0 +1,13 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/box-quick.png', sizingMethod='image');
+	width:281px;
+	height:154px;
+	padding:72px 30px 42px 29px;
+	position:relative;
+	font-family:"Comic Sans MS", Arial, sans-serif;
+	font-size:18px;
+	line-height:18px;
+	color:#565d54;
+	margin:0 0 16px 0;
+	text-align:justify;
+	text-decoration:underline;

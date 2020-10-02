@@ -1,0 +1,7 @@
+    text-align:center;
+    width: 100%;
+    min-height: 100px;
+    padding: 30px 20px 30px 20px;
+    color:#fff;
+    font-size:60px;
+    font-weight:900;

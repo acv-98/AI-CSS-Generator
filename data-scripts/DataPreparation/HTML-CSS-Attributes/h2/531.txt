@@ -1,0 +1,6 @@
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 45px;
+  text-transform: uppercase;
+  padding: 20px 0px;
+  font-weight: 700;
+    font-size: 33px;

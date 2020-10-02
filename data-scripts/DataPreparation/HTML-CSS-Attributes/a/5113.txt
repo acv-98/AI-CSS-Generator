@@ -1,0 +1,3 @@
+   font: 16px/30px notosans-bold, sans-serif;
+   margin-left: 3px;
+   font-size: 14px;

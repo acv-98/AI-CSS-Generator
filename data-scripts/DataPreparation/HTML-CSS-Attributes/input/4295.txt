@@ -1,0 +1,7 @@
+	display:block;
+	cursor:pointer;
+	background:url(../images/search.gif) 0 0 no-repeat;
+	width:26px;
+	height:26px;
+	float:right;
+	margin-left:4px

@@ -1,0 +1,2 @@
+	margin:30px 0 0 -35px;
+	display:inline;

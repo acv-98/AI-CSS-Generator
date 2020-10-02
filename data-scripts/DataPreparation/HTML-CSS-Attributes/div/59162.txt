@@ -1,0 +1,8 @@
+  display: inline;
+  float: left;
+  margin-top: 30px;
+  border: 5px solid #fff;
+  height: 330px;
+  width: 460px;
+	display: block !important;
+width: 350px;width: 100%;

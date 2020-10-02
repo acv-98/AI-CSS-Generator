@@ -1,0 +1,16 @@
+	margin-top: 3px;
+	background: #FFF;
+	padding: 7px;
+	border: 1px solid #e7e7e7;
+	border-radius: 3px;
+	max-width: 420px;
+	width: 100%;
+	position: relative;
+	min-height: 51px;
+	padding-right: 128px;
+	font-size: 16px;
+	color: #646464;
+	right: 0px;
+	top: 0px;
+	font-weight: 700;
+	background-color: #007dea;

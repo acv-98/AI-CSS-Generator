@@ -1,0 +1,8 @@
+  color: #ffffff;
+  float: right;
+  font-size: 22px;
+  margin-top: 4px;
+  z-index: 9999999;
+  position: relative;
+  margin-right: 10px;
+  text-transform: uppercase;

@@ -1,0 +1,1 @@
+width:261px; height:261px; float:left; margin-right:20px; position:relative; background:url(../images/back_images2.gif) 0 0; padding:1px;

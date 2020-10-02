@@ -1,0 +1,5 @@
+    margin-bottom: 0px;
+    color:#aaaaaa;
+    font-size:12px;
+    display: inline-block;
+    width: 70%;

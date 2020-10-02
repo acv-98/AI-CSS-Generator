@@ -1,0 +1,10 @@
+		margin: 0 auto;
+		padding: 0 0 20px 0;
+		width: 50px;
+		text-align: center;
+		position: absolute;
+		right: 0;
+		left: 0;
+		bottom: 0;
+		font-size: 50px;
+		color: #FFF;

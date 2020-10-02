@@ -1,0 +1,8 @@
+	margin-top:-1px
+	font:14px Tahoma, Geneva, sans-serif;
+	line-height:30px
+	color:#4c4c4c;
+	text-decoration:none;
+	padding-left:10px;
+	background:url(../images/marker_3.gif) 0 6px no-repeat
+	background-position:0 -17px

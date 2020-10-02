@@ -1,0 +1,8 @@
+	clear: both;
+	margin: 0; padding: 0 20px 25px 20px;	
+	padding: 0;
+	background-color: #E27304; 
+	border: 1px solid #E7871C;	
+	font-weight: bold;
+	font-size: 11px;		
+	color: #fff;

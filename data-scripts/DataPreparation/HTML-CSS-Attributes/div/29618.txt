@@ -1,0 +1,12 @@
+	position: relative;
+	float: right;
+	width: 109px;
+	height: 33px;
+	display: block;
+	padding: 13px 0 0 0;
+	background: url(images/button.png) no-repeat;
+	color: #fff;
+	font-weight: bold;
+	font-size: 11px;
+	text-align: center;
+	text-decoration: none;

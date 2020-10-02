@@ -1,0 +1,4 @@
+		padding-bottom: 15px;
+	font-size: .875em;
+	position: relative;
+	padding-top: 15px;

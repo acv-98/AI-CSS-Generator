@@ -1,0 +1,11 @@
+	background:#292929;
+	padding:50px;	
+	margin-top:-8px;
+	font-size:13px;
+	line-height:30px;
+	color:#fff;
+	margin-bottom:50px;
+	text-decoration:none;
+	list-style:none;
+	margin-left:-40px;
+	cursor:pointer;	

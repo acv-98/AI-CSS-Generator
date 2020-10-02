@@ -1,0 +1,5 @@
+*zoom:1;clear:both;  display: table;
+  content: " ";
+  clear: both;
+    clear: both;
+    *zoom: 1;

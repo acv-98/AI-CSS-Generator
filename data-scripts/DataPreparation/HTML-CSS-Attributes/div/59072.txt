@@ -1,0 +1,7 @@
+margin-bottom: 0px;
+.footer_bootomRight{
+  float: left;
+  display: inline;
+  width: 100%;
+  text-align: right;
+text-align: center;

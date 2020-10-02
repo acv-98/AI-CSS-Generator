@@ -1,0 +1,5 @@
+	width:100%;
+	background:url(../images/header-box-tail.gif) repeat-x left top;
+	position:relative;
+	top:50px;
+	height:81px;

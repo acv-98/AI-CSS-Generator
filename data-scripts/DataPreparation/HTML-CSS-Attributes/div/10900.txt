@@ -1,0 +1,17 @@
+	text-align:right;
+	padding:3px 4px 9px 0;
+	margin:0 0 0 5px;
+	display:inline-block;
+	line-height:30px;
+	background-image:url(../img/top_socials.png);
+	background-repeat:no-repeat;
+	height:30px;
+	width:30px;
+	text-indent:-9999px;
+	list-style:none;
+	border:0 !important;
+	transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	background-position:0 0;

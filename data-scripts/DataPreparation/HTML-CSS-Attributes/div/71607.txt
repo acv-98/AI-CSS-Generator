@@ -1,0 +1,4 @@
+	background: url('../img/sidebarHeaderBG.png') 0 0 repeat-x;
+	height: 47px;
+	padding: 0 20px;
+	line-height: 47px;

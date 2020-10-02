@@ -1,0 +1,13 @@
+  float: left;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  text-decoration: none;
+    margin-left: -15px;
+  color: #777777;
+  background-color: transparent;
+	color: #29FF00;
+	font-weight: bolder;
+	font-size: 25px;
+    font-weight:900;
+	letter-spacing: 2px;

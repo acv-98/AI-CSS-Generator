@@ -1,0 +1,6 @@
+	padding: 30px 20px 30px 30px; 
+ padding: 30px; 	.banner-main-home img {
+		display: block;		
+		float: none;
+		margin: 50px auto;
+		padding-top: 50px;

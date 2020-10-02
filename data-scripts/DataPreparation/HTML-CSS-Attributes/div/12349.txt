@@ -1,0 +1,2 @@
+ width: 205px; 	
+ padding-left: 40px; padding-right: 40px;  width: 210px;  padding-left: 15px; padding-right: 15px;  padding: 0;  width: 100%; margin: 30px 0 0 0; padding: 0 30px;  -o-transform: none; -moz-transform: none; -webkit-transform: none; -ms-transform: none; transform: none;  width: auto; left: 30px; right: 30px;  max-width: 540px; margin: 0 auto; 

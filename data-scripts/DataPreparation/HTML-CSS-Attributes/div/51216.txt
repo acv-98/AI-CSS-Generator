@@ -1,0 +1,1 @@
+width:48.936%;width:460px;width:38.3333em;

@@ -1,0 +1,5 @@
+	list-style:none outside none;
+	margin-bottom:20px;
+	margin-top:10px;
+	background:url("../images/797.png") no-repeat scroll left center transparent;
+	padding:3px 0 0 10px;

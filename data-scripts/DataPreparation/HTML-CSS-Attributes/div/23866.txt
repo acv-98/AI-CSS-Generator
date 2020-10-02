@@ -1,0 +1,11 @@
+	font-weight: 900;
+	font-size: 40px;
+	line-height: 48px;
+	margin-bottom: 25px;
+	letter-spacing: -3px;
+	word-spacing: 10px;
+	color: #FFFFFF;
+	text-shadow: 1px 1px 1px rgb(0, 0, 0);
+		line-height: 95px;
+		font-size: 77px;
+		margin-bottom: 50px;

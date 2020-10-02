@@ -1,0 +1,2 @@
+	background:url(../images/bg-3.png) center bottom no-repeat;
+	width:100%;

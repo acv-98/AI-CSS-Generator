@@ -1,0 +1,7 @@
+	max-width: 75%;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	margin-bottom: 40px;
+	margin-top: 20px;
+	padding-top: 300px;
+	padding-bottom: 200px;

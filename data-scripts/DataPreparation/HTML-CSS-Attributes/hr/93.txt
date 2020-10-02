@@ -1,0 +1,3 @@
+  visibility: hidden;
+    border-color: transparent;
+    margin: 10px 0;

@@ -1,0 +1,10 @@
+  background: url(../images/contact_bg.jpg) repeat scroll 0 0;
+  position:relative;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	height:100%;
+	width:100%;
+	content:"";
+	background:rgba(1, 10, 28, 0.8);	

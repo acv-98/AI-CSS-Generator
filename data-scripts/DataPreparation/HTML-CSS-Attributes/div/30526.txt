@@ -1,0 +1,9 @@
+    width: 8px;
+    height: 50px;
+    margin-right:5px;
+    background-color: #FFF;
+    -webkit-animation: animate 1s infinite;
+    animation: animate 1s infinite;
+    float: left;
+    -webkit-animation-delay: 0.9s;
+    animation-delay: 0.9s;	

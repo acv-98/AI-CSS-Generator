@@ -1,0 +1,1 @@
+ width:260px; float:right; background:#523141;

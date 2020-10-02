@@ -1,0 +1,9 @@
+	padding:2%;
+	margin:0;
+	color:#00BFF0;
+	font-size:21px;
+	line-height:1.5em;
+	text-decoration:none;
+	background: #FFF;
+	max-width:100%;
+		font-size: 13px;

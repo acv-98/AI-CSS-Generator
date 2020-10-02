@@ -1,0 +1,10 @@
+  font-size: 3em;
+  border-width: 3px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+font-size:3em;	text-align: center;
+	font-size: 39px !important;
+	width: 80px !important;
+	height: 80px !important;
+	line-height: 80px !important;

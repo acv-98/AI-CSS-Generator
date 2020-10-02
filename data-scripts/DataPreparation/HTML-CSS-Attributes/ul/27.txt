@@ -1,0 +1,5 @@
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	border-bottom: 1px dashed #666;
+	color: #000000;

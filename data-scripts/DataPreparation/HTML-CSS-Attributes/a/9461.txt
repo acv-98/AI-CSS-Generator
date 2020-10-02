@@ -1,0 +1,8 @@
+    display:  none;
+    background: rgba(29, 82, 99, 0.22);
+    padding: 10px 15px;
+    width: 100%;
+    color: #fff;
+		padding: 10px 15px;
+		width: 96%;
+		background: rgba(50, 142, 172, 0.37);

@@ -1,0 +1,6 @@
+  position: absolute;
+  right: 1rem;
+    background: #000 none repeat scroll 0 0 !important;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;

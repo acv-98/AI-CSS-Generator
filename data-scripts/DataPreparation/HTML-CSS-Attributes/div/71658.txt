@@ -1,0 +1,1 @@
+margin-bottom: 0;border-bottom: 2px solid #fff;padding-right: 20px;position: relative;border-bottom: 0;

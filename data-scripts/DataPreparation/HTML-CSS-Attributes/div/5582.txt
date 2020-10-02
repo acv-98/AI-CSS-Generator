@@ -1,0 +1,12 @@
+    margin-left: -10px;
+    width: 100%;
+  position: relative;
+  height: auto;
+  overflow: hidden;
+  top: 0px;
+  left: 0px;
+  border: 0;
+  padding: 0;
+  z-index: 6;
+  display: none;
+  background: #ece9d6 url(../img/loading.gif) no-repeat 50% 50%;

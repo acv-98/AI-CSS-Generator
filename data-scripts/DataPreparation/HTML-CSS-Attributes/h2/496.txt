@@ -1,0 +1,4 @@
+  padding-bottom: 0;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;

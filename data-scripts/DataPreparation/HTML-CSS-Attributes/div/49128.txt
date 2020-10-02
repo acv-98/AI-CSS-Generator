@@ -1,0 +1,8 @@
+    font-family: source_sans_probold,Arial,Helvetica,Tahoma,sans-serif;
+    letter-spacing: 1.1px;
+    font-weight: 400!important;
+    font-size: 13px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #333;
+    margin-bottom: 15px;

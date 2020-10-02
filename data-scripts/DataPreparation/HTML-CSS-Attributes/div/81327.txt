@@ -1,0 +1,4 @@
+  width: 100%
+  padding-top:47px;
+    width: 100%;
+    display: none;

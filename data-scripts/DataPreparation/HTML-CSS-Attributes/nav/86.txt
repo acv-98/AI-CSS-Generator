@@ -1,0 +1,14 @@
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+  color: #777;
+    color: #777;
+    background-color: transparent;
+	background-color: rgba(248, 248, 248, 0);
+	border-color: rgba(231, 231, 231, 0);
+	text-transform: uppercase;
+	color: #eee;
+	font-weight: 400;
+	font-size: 15px;
+	padding: 5px 0;
+	letter-spacing: 0.5px;
+	margin: 0 40px 0 40px;

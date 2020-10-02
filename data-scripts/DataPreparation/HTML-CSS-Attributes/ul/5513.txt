@@ -1,0 +1,16 @@
+        height: 75px;
+        line-height: 25px;
+        overflow: hidden;
+        font-size: 13px;
+        margin: 0 auto;
+        width: 675px;
+        padding-right: 20px
+    background-color: transparent;
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 0;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.05);
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    color: rgb(120, 144, 156);
+    font-style: italic;

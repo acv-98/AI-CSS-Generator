@@ -1,0 +1,16 @@
+ margin-bottom:20px !important;  color: #f29a03                    
+ margin-bottom: 0;  margin-top: 0;     bottom: 25%;
+    color: white;
+    display: block;
+    font-family: 'Maven Pro',sans-serif;
+    font-size: 16px;
+    line-height: 15px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+	bottom: 12%;
+	color: white;
+	font-size: 11px;
+	line-height: 15px;
+	margin-bottom: 0px;
+ width: 48%; 

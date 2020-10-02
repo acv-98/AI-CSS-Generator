@@ -1,0 +1,11 @@
+	color: #2c3e50;
+	line-height: 80px;
+	font-weight: bold;
+	height: 80px;
+	padding: 0 15px;
+	letter-spacing: -0.025eml
+	font-size: 24px;
+	position: relative;
+	width: 160px;
+	top: 50%;
+	margin-top:-20px;

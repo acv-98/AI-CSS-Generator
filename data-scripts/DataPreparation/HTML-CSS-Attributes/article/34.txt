@@ -1,0 +1,1 @@
+  background: #cb5432 url(../img/icon-popup.png) no-repeat center center;

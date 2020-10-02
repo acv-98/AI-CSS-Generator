@@ -1,0 +1,19 @@
+	padding-bottom: 0;
+  color: #062033;
+  font-size: 22px;
+  line-height: 32px;
+  margin-bottom: 25px;
+.contact-form h3 {
+  font-weight: 700;
+  width: 100%;
+  border-color: -moz-use-text-color -moz-use-text-color #cccccc;
+  border-radius: 0;
+  border-style: none none solid;
+  border-width: 0 0 1px;
+  box-shadow: none;
+  float: left;
+  margin-right: 4%;
+border-bottom-color: #c0392b;
+  background: url("../img/envelop.png") no-repeat scroll 0 15px transparent;
+  padding: 10px;
+  text-align: right;

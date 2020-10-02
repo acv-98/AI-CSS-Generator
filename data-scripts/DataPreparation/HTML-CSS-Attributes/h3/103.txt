@@ -1,0 +1,4 @@
+  font-size: 40px;
+  line-height: 48px;
+  color: #45444b;
+  letter-spacing: 5px;

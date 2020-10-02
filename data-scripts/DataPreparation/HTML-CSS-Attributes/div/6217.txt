@@ -1,0 +1,12 @@
+  padding: 7em 0;
+  width: 65%;
+  padding-left: 40%;
+  padding-right: 10%;
+    padding-left: 30%;
+    padding-right: 15px;
+    padding-top: 0;
+    padding-bottom: 0;
+    width: 100%;
+  left: 38%;
+  position: relative;
+    left: 0;

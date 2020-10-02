@@ -1,0 +1,6 @@
+	position:relative;
+	z-index:5;
+	width:350px;
+	margin-right:-85px;
+	margin-left:-80px;
+		width:55%;

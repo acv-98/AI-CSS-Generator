@@ -1,0 +1,8 @@
+width:100%;clear:both; width: 100% !important; min-width: 100% !important; 
+width:100%;clear:both;  -webkit-box-shadow: 0 0 5px 0px rgba(70, 70, 70, 0.3);
+  -moz-box-shadow: 0 0 5px 0px rgba(70, 70, 70, 0.3);
+  box-shadow: 0 0 5px 0px rgba(70, 70, 70, 0.3);
+  max-width: 1000px;
+  padding: 0;
+  width: 1000px;
+ width:1000px; margin:0 auto;  float:left; margin-bottom:30px; position:relative;  float:left; margin-bottom:20px;  text-align:center;  margin-bottom:20px; width:auto; float: left; margin: 0 2.0833% 2.0833% 0; display: inline;  line-height: 1.81em; float:left; margin-bottom:20px; margin-top:20px;  margin-bottom:20px !important;  font-size:2em;  font-size:1.4em;  margin-top:0; clear:none !important;  font-size:1.2em;  margin:5px 0 22px !important; font-family:Arial,Helvetica,sans-serif;  clear:both  width:262px; height:139px; padding:3px; border:1px solid #ccc;  float: left; margin-right: 10px;  color:#244455 width:auto;

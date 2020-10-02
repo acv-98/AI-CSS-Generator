@@ -1,0 +1,2 @@
+ padding:5%
+ padding:5% background-color:#fb5353; padding-top:57px; padding-left:70px; padding-right:67px; padding-bottom:58px font-size:17px; line-height:30px; color:#FFF; padding-bottom:20px

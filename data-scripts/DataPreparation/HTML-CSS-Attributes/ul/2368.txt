@@ -1,0 +1,13 @@
+    float: left;
+    margin: 20px 0 5px -3px;
+    padding: 0;
+    list-style: none;
+    display: block;
+    font-family: "MerriweatherBold", Serif;
+    font-size: .75em;
+    line-height: 1em;
+    color: #3B3B3B;
+    border-left:  1px  solid #ADADAD;
+    text-shadow: 1px 1px 0 rgba(255, 255, 255, 1);
+    background: url(../images/rss.png) no-repeat right 0;
+    padding-right: 20px;

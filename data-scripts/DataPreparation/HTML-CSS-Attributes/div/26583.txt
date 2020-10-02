@@ -1,0 +1,10 @@
+	margin:0;
+	padding:0;
+	float:right;
+	height:54px;
+	list-style:none;
+	background:url(images/menu.gif) repeat-x center top;
+	display:block;
+	color:#919090;
+	text-decoration:none;
+	font-size:14px;

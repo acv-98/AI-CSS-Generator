@@ -1,0 +1,4 @@
+    height: 2px;
+    width: 80px;
+    margin: auto;
+    background: #ededed;

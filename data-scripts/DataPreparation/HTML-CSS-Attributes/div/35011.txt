@@ -1,0 +1,8 @@
+  margin-bottom: 2em;
+  font-size: 55px;
+  line-height: 1.5;
+  font-weight: 300;
+  color: #000;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 2px;

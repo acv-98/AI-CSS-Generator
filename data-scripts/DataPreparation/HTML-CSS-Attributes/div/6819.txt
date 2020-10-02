@@ -1,0 +1,11 @@
+ float:left; margin-right:40px;   color:#d13f31; padding-bottom:10px; overflow:hidden; line-height:22px; color:#9b9e9a; color:#d13f31; text-decoration:none;color:#66a8ce;
+Footer sytles start
+.footer {
+	width:100%;
+	height:auto;
+	overflow:hidden;
+	background:url(../images/top-bg.png);
+	padding-top:40px;
+	padding-bottom:40px;
+	margin:0 auto;
+	margin-top:40px;

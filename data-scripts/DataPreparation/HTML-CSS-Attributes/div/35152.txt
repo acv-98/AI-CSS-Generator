@@ -1,0 +1,7 @@
+	position:relative;
+	padding:35px;
+	background:url("../design/gradient-02.png") 0 100% repeat-x;
+	top:48px;
+	right:35px;
+	margin:0;
+	background-color:#FFF;

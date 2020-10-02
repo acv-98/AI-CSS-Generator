@@ -1,0 +1,8 @@
+	background-color: rgba(0, 0, 0, 0.2);
+	color: black;
+    font-size: 1.8rem;
+    font-weight: 400;
+	text-align: center;
+    padding: 30px;
+    width: 100%;
+ width: auto;  margin-top: 0; 

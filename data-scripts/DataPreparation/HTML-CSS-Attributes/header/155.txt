@@ -1,0 +1,13 @@
+    padding: 25px 0 30px;
+    background-color: #fff;
+    box-sizing: border-box;
+    color: #fff;
+    transition: background-color 0.5s ease 0s;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1111;
+        width: 100%;
+        position: relative;

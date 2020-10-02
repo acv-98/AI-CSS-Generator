@@ -1,0 +1,3 @@
+  color: #f39c12;
+  cursor: pointer;
+  content: "\e006";

@@ -1,0 +1,13 @@
+	position:relative;
+	padding-top: 20px;
+	text-align: center;
+	display: inline-block;
+	font-size: 19px;
+	line-height: 18px;
+	background-color: #f17c72;
+	border: 1px solid #b76058;
+	min-width: 107px;
+	color: #fff;
+	cursor: pointer;
+	border-color: #3c7f9f;
+	width: 13px;

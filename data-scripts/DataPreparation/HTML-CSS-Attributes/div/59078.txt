@@ -1,0 +1,6 @@
+  background-color: #fff;
+  float: left;
+  display: inline;
+  width: 100%; 
+  padding: 12px;
+  min-height: 500px;

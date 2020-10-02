@@ -1,0 +1,13 @@
+  margin-left: 2.142857142857143em;
+  list-style-type: none;
+  position: relative;
+  left: -2.142857142857143em;
+  width: 2.142857142857143em;
+  text-align: center;
+  line-height: inherit;
+  padding: 10px 15px;
+  border-right: 1px solid #ddd;
+  -webkit-box-shadow: 1px 0px 0px #ffffff;
+          box-shadow: 1px 0px 0px #ffffff;
+margin:0 auto  float: left;
+  display: block;

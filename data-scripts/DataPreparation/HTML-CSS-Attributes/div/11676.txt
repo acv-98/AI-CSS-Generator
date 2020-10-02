@@ -1,0 +1,1 @@
+ width:220px; float:left; padding:10px; margin:10px 0; border-right:1px solid #ddd; width:220px; float:left; padding:10px; margin:10px 0;

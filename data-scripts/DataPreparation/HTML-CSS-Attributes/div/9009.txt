@@ -1,0 +1,13 @@
+  background: #fff;
+  width: 66%;
+  margin: 54px auto 20px;
+  border: 1px solid #0099FF;
+  padding: 50px;
+  cursor: pointer;
+  float: right;
+  text-decoration: none;
+  font-size: 40px;
+    width: 90%;
+    padding: 30px;
+    margin-right: auto;
+    margin-left: auto;

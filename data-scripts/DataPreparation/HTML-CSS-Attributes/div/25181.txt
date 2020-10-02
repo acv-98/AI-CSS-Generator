@@ -1,0 +1,6 @@
+    padding-bottom: 130px;
+    text-align: center;
+    padding-top: 60px;
+    margin: auto;
+    max-width: 920px;
+    color: #747474;

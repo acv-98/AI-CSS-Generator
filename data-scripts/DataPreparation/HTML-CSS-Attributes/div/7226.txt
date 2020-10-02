@@ -1,0 +1,1 @@
+ width:630px;  border-bottom:#f2f2f2 solid 1px; overflow:hidden; padding-top:40px; margin-bottom:50px;width:300px; margin-bottom:50px; padding-bottom:10px;text-decoration:underline;padding-left:140px; line-height:18px;SEARC CLASSES

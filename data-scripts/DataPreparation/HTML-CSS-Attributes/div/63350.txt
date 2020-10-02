@@ -1,0 +1,8 @@
+	background:url(images/image.jpg) no-repeat top;
+	height:353px;
+	margin:0 auto;
+	padding:0;
+	width:970px;
+	padding-top:12px;
+	color:#fff;
+	padding-left:40px;

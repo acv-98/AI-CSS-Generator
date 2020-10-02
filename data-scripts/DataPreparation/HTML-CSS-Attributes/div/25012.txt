@@ -1,0 +1,6 @@
+	width:100%;
+    margin-top: 20%;
+.single_banner_text{
+	margin-top:35%;
+	color:#fff;
+	margin-bottom:20px;

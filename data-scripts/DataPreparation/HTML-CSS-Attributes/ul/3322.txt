@@ -1,0 +1,10 @@
+    margin: 2em 0 0;
+    position: relative;
+    margin-bottom: 1em;
+        margin: 3em 0 0;
+        content: "";
+        display: table;
+        clear: both;
+        width: 33.3333333333%;
+        float: left;
+        margin-right: 1.5%;

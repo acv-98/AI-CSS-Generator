@@ -1,0 +1,15 @@
+  color: #a5d549;
+  display: inline-block;
+  float: left;
+  padding: 10% 0;
+  text-align: center;
+  width: 100%;
+  font-size: 35px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 0;
+  background-color: transparent;
+    padding: 5% 0;
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 0;

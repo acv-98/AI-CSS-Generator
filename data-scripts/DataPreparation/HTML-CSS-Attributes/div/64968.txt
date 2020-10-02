@@ -1,0 +1,38 @@
+	display: block;
+	color: #202020;
+	font-weight: 300;
+	text-align: left;
+	font-size: 100px;
+	line-height: 100px;
+	text-transform: uppercase;
+	background: #fff;
+	position: absolute;
+	bottom: -365px;
+	left: calc(50% - 585px);
+	opacity: .5;
+	padding: 64px 0 80px;
+		left: calc(50% - 465px);
+		font-size: 70px;
+		line-height: 70px;
+		bottom: -220px;
+padding: 20px 50pxpadding: 15px 40pxpadding: 10px 20px left: calc(50% - 150px);	margin-bottom: 25px;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 5%;
+	height: 94px;
+	width: 94px;
+line-height: 94px;.camera_caption .bd-ra:hover {
+	right: 0;
+line-height: 94px; .camerarelative {
+	overflow: hidden;
+margin-top: 0;margin-top: 50px;		margin-top: 5%;
+		height: 64px;
+		width: 64px;
+		text-align: center;
+		background: #dcd6d6;
+		font-family: "FontAwesome";
+		color: #fff;
+		display: inline-block;
+line-height: 64px; font-size: 25px; 		padding: 0;
+		margin-bottom: 10px;
+ font-size: 20px;	.camera_caption .bd-ra {
+ display: none; 	.camera_caption h3 {

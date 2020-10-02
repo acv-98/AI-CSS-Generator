@@ -1,0 +1,1 @@
+padding-top:11pxfloat:left;font-size:17px;line-height:1.2em;text-transform:uppercase;padding:2px 42px 0 42px;background:url(images/divider.gif) repeat-y right toptext-decoration:none;color:#133439color:#e93434background:none;padding-right:0

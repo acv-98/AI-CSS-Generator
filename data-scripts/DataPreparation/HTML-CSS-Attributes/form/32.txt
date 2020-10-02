@@ -1,0 +1,12 @@
+	position:absolute;
+	right:0;
+	bottom:10px;
+	background: url(../images/interface.gif) no-repeat 0 -90px;
+	width:324px;
+	height:auto;
+	border:0;
+	float:left;
+	padding:11px 0 11px 40px;
+	color:#a1a1a1;
+	font-size:15px;
+	margin:7px 0 0 -355px;

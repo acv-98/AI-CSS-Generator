@@ -1,0 +1,5 @@
+  width: 370px;
+    width: 300px;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 33px;

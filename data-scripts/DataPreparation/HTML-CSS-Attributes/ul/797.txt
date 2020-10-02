@@ -1,0 +1,10 @@
+  color: #111111;
+  -webkit-transition: all 0.5s;
+	-moz-transition: all 0.5;
+  transition: all 0.5s;
+  background: transparent;
+    background: transparent;
+    color: #333333;
+	background: transparent;
+		margin-top: 10px;
+		color: #222222;

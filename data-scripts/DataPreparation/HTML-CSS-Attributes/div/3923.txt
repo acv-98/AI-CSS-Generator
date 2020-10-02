@@ -1,0 +1,1 @@
+	background: #48c4d2 url(../img/icons/social_big/twitter_white.png) no-repeat;

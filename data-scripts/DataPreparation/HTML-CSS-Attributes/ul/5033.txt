@@ -1,0 +1,6 @@
+	display: inline;
+	line-height: 1;
+	text-align: left;
+	background: none;
+	padding: 0;
+	padding-right: 3px;

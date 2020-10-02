@@ -1,0 +1,4 @@
+	padding:0 10px 0 10px;
+	font-size:10px;
+	color:#0072bc;
+	float:right;

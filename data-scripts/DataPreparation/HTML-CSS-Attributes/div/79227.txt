@@ -1,0 +1,6 @@
+	margin:0 0 10px 0;	padding:0;	
+	.postmeta {
+		font-family:verdana,Arial,Sans-Serif;
+		margin:5px 0;
+		padding:0;
+		font-size:12pt;

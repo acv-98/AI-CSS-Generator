@@ -1,0 +1,7 @@
+  padding: 15px;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  border-top-color: #dddddd;
+  border-bottom-color: #dddddd;
+  background: #564960;
+  color: #FFFFFF;

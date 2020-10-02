@@ -1,0 +1,8 @@
+	width:220px;
+	list-style:none;
+	display:block;
+	background:url(../images/line.png) repeat-x left bottom;
+	height:40px;
+	line-height:40px;
+	text-decoration:none;
+	color:#5fa1c7;

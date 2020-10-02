@@ -1,0 +1,1 @@
+margin-right:0width:69px; background:url(../images/btn_7.gif) 0 0 no-repeat; width:69px; background:url(../images/btn_7_over.gif) 0 0 no-repeat;

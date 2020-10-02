@@ -1,0 +1,1 @@
+    background: url(../images/background/about-bg.jpg) no-repeat bottom center;

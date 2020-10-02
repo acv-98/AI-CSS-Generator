@@ -1,0 +1,4 @@
+
+.creativity{
+    background: url(../images/creativitybg.jpg) no-repeat top center;
+    background-size: cover;

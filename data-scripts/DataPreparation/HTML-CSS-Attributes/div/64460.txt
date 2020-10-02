@@ -1,0 +1,11 @@
+	display:inline-block;
+	float:left;
+	width:560px;
+	font-size:18pt;
+	font-weight:100;
+	line-height:1.4em;
+	color:#fff;
+	padding:5px 5px;
+	background:url(../images/hover.png) 0 0 repeat;
+	list-style:none;
+	margin-left:10px;

@@ -1,0 +1,5 @@
+	background:url(../images/content-background-fade.png) no-repeat;
+	background-position:center top;
+	width:960px;
+	float:left;
+	padding-top:45px;

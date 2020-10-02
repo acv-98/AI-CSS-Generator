@@ -1,0 +1,18 @@
+	background:#292929;
+	padding:25px 135px 35px 40px;
+	position:relative;
+	font-size:34px;
+	line-height:40px;
+	font-family: 'Open Sans', sans-serif;
+	text-transform:uppercase;
+	margin:-5px 0 0 0;
+	font-weight:300;
+	letter-spacing:-1px;
+	z-index:2;
+	right:0;
+	bottom:0;
+	left:35px;
+	color:#fff;
+	top:120px;
+	text-align:center;
+	display:block;

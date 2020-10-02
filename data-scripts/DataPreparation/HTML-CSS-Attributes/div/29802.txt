@@ -1,0 +1,8 @@
+		padding-left: 65px;
+		background: url(images/rss.gif) no-repeat 0 0;
+		height: 70px;
+			text-transform: none;
+			padding: 14px 0 10px;
+				color: #676042;
+				margin: 0;
+			font-size: 0.9em;

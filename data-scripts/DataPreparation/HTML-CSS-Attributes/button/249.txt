@@ -1,0 +1,8 @@
+    padding: 10px 70px;
+    border-radius: 0;
+    text-transform: uppercase;
+    background: transparent;
+    color: #fff;
+    letter-spacing: 5px;
+    font-size: 24px;
+	margin:40px 0 70px 0;

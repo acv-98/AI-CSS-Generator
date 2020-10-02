@@ -1,0 +1,5 @@
+	background:url(../images/previous-button-orange.jpg) no-repeat;
+	width:109px;
+	height:38px;
+	margin:-5px 0 0 -6px;
+	display:block;

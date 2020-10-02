@@ -1,0 +1,9 @@
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    line-height: 41px;
+    text-align: center;
+    background-color: #fff;

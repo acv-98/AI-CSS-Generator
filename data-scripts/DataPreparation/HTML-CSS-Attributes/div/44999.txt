@@ -1,0 +1,17 @@
+  margin-top: 0;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  padding-left: 25px;
+  padding-right: 30px;
+  position: relative;
+  border-left: 0;
+  left: 5px;
+  top: 8px;
+  content: '"';
+  font-size: 40px;
+  color: #d99c4e;
+  font-family: 'Noto Sans', sans-serif;
+  transform:rotate(180deg);
+  line-height: 0;
+  right: 30px;
+  bottom: 14px;

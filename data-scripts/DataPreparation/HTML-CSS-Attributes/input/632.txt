@@ -1,0 +1,17 @@
+    border-radius: 50px;
+    overflow: hidden;
+    float: left;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0px 25px 0 25px;
+    color: #222;
+    width: 200px;
+    height: 40px;
+    margin-bottom: 0;
+    z-index: auto;
+    background-color: #fff;
+    box-sizing: border-box;
+    outline: 0 none;
+    resize: none;
+    box-shadow: none !important;
+    opacity: 1;

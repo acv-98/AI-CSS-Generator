@@ -1,0 +1,8 @@
+font-size: 12px !important;font-size: 12px !important; line-height: 26px !important;
+font-size: 9px !important; margin-bottom: 10px;color: #6f7678; font-family: 'open_sansbold'; font-size: 14px;text-decoration: none;float: left; margin-right: 25px;font-size:14px; color: #2bbbdf; line-height: 26px;font-family: 'open_sansregular'; border-radius: 4px 4px 0 0; color: #000 !important;border: 1px solid #eee;padding:20px;.accordion-heading .accordion-toggle {
+display: block;
+border-top: none;background: #f7f7f7;border-radius: 0;.featured-accordion .collapse.in {
+border:none;   Sidebar styles starts here
+   Footer styles starts here
+font-weight: normal;
+   Responsive Tweaks starts here

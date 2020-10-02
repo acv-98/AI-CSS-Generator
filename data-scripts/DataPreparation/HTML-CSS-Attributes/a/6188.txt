@@ -1,0 +1,15 @@
+	padding: 12px 55px 12px 55px;
+  font-weight: bold;
+  border-radius: 30px;
+  font-size: 15px;
+ color: #fff;
+ background-color: #7F56FD;
+ font-family: Roboto-Light;
+  color: #455a64;
+  margin-right: 15px;
+  background-color: #7F56FD;
+ display: inline-block;
+ margin-top: 40px;
+  display: inline-block;
+  padding: 12px 45px 8px 45px;
+  margin-bottom: 20px;

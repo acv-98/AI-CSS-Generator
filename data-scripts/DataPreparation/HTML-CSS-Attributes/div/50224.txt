@@ -1,0 +1,5 @@
+	float:left;
+	display:inline;
+	width:300px;
+	margin-right:60px;
+	margin-bottom:4px;

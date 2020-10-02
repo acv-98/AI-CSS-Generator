@@ -1,0 +1,3 @@
+	width:230px;
+	float:left;
+	color:#57565e;

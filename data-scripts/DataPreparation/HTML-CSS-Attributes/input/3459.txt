@@ -1,0 +1,10 @@
+	width:72px;
+	height:29px;
+	line-height:29px;
+	padding-bottom:2px;
+	text-align:center;
+	background:url(images/submit.gif);
+	border:0;
+	cursor:pointer;
+	color:#fff;
+	float:left;

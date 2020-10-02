@@ -1,0 +1,4 @@
+	margin:0 auto;
+	padding:0;
+	width:920px;
+	border-top:2px solid #9eaf06;

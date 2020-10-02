@@ -1,0 +1,1 @@
+background: url(images/header_bg.gif) top repeat-x; margin:0; padding:0;

@@ -1,0 +1,1 @@
+	background:url(../images/page4-banner.jpg) 0 0px no-repeat;

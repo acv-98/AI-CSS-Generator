@@ -1,0 +1,6 @@
+	background-color:#b8b8b8;
+		z-index:1;
+		display:block;
+		padding:100px 0;
+		position:relative;
+		background-color:#f7f7f7;

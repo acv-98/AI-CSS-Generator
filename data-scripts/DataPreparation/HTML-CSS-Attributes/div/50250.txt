@@ -1,0 +1,6 @@
+	float:left;
+	display:inline;
+	margin:4px 20px 0 14px;
+	font-size:11px;
+	color:#383838;
+	margin-right:4px;

@@ -1,0 +1,11 @@
+  margin-bottom: 68px;
+  border-top: 1px solid #FFFFFF;
+  padding-top: 15px;
+	width: 33%;
+	display: inline-block;
+	margin-bottom: 50px;
+	margin-top: 0;
+	float: left;
+	margin-left: 30px;
+	padding-right: 0;
+	padding-left: 30px;

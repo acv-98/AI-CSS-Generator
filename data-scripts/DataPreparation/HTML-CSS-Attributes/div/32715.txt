@@ -1,0 +1,14 @@
+  color: #a5d549;
+	display: inline;
+	float: left;
+	padding: 85px 0;
+	width: 100%;
+	color: #fff;
+	font-size: 40px;
+	padding-bottom: 5px;
+	background-color: transparent;
+	border-radius: 0;
+	padding-left: 0;
+	font-family: "Raleway",sans-serif;
+	text-decoration: none;
+	content: "/ ";

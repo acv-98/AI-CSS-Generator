@@ -1,0 +1,17 @@
+    padding: 13px 40px;
+    outline: inherit;
+    color: #ffffff;
+    background-color: #d6962c;
+    border-color: #d6962c;
+    margin-right: 15px;
+    border-radius: 0px;
+    font-size: 1.2rem;
+    width: 200px;
+    text-transform: none;
+    transition: .6s;
+    margin-top: 30px;
+	display:inline-block;
+	background:transparent;
+	line-height: 1.5em;
+	color:#fff;
+	border-radius:4px;

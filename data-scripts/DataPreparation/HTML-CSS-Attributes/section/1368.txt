@@ -1,0 +1,12 @@
+    border: 0;
+    padding: 0;
+    -webkit-box-shadow:0px 1.732px 5px 0px rgba(218, 213, 213, 0.42);
+            box-shadow:0px 1.732px 5px 0px rgba(218, 213, 213, 0.42);
+    margin-bottom: 50px;
+      -webkit-box-shadow: 2.5px 4.33px 11px 0px rgba(136, 136, 136, 0.24);
+              box-shadow: 2.5px 4.33px 11px 0px rgba(136, 136, 136, 0.24);
+        color: #00aafe;
+      width: 100%;
+      padding-left: 15px;
+    font-size: 16px;
+    font-weight: bold;

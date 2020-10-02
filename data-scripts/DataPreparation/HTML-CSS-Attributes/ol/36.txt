@@ -1,0 +1,1 @@
+ border-radius:0color:#fffcolor:#fffcolor:#fff.header_top_leftbackground-color:#ffa500; border:2px solid #ffa500

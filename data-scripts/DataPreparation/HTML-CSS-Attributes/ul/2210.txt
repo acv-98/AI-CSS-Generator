@@ -1,0 +1,13 @@
+  display: inline-block;
+  padding-right: .5em;
+  text-align: center;
+ padding-right: 0; .social li a {
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  color: #fff;
+  border-radius: 50%;
+  position: relative;
+  transition: all .8s ease;
+  font-size: 1.3em;
+  background: #D6D6D6;

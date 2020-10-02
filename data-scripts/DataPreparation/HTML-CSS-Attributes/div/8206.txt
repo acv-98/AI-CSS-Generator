@@ -1,0 +1,3 @@
+    background: url(../img/teamsprite.png) no-repeat;
+    background-position:  0px -88px;
+    color: #63c6ae;

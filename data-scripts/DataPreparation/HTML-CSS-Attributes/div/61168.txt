@@ -1,0 +1,6 @@
+	background-color: #004f7f;
+	display: inline;
+	padding: 20px 0;
+	float: left;
+	width: 100%;
+	text-align: center;

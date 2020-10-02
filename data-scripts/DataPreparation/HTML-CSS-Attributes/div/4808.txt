@@ -1,0 +1,3 @@
+	background:url("../images/content_seperator.gif") repeat-x;
+	height:2px;
+	margin:35px auto 20px auto;

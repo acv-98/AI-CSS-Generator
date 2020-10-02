@@ -1,0 +1,5 @@
+	font-weight: 300;
+	margin-bottom: 30px; 
+ margin-bottom: 15px;  margin-bottom: 12px; 	.tm-news-text {	
+		font-size: 0.9em; 
+		margin-bottom: 0.5em;

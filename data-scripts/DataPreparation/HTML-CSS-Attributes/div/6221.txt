@@ -1,0 +1,12 @@
+  position: relative;
+  overflow: hidden;
+  left: -110px;
+  content: "";
+  height: 120%;
+  background: #f6f9fc;
+  width: 100px;
+  -webkit-transform: skewX(-12deg);
+  -moz-transform: skewX(-12deg);
+  transform: skewX(-12deg);
+    display: none;
+  right: -120px !important;

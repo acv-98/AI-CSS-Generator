@@ -1,0 +1,5 @@
+    overflow: visible;
+    border: 0 !important;
+    color: rgba(255, 255, 255, 1) !important;
+    font-size: 34px;
+    vertical-align: middle;

@@ -1,0 +1,4 @@
+	font-size: 13px;
+	font-weight: 600;
+	color: #e86859;
+	display: inline-block;

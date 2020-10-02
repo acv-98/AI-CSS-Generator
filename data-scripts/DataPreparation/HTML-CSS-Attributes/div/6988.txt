@@ -1,0 +1,1 @@
+width:100%; height:auto; overflow:hidden; padding-top:20px;

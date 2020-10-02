@@ -1,0 +1,8 @@
+	border: medium none;
+	padding: 0 0 20px;
+	margin:0;
+	margin-bottom:20px;
+	color:#2387D9;
+	width: 100%;
+	display: block;
+	float: left;

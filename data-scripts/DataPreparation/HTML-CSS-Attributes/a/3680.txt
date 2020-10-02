@@ -1,0 +1,2 @@
+	color: #b78864;
+	background: url(images/menu_hover.png) no-repeat;

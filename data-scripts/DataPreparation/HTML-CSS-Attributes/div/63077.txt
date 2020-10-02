@@ -1,0 +1,4 @@
+	color: #6a890e;
+	font-size: 10px;
+	margin: 5px 0;
+	font-family: 'Anaheim';

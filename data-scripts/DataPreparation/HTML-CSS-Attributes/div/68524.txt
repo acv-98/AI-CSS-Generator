@@ -1,0 +1,5 @@
+    overflow: visible;
+    border: 0 !important;
+    font-size: 34px;
+    vertical-align: middle;
+    color: #ffffff;

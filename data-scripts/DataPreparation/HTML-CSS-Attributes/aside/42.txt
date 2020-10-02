@@ -1,0 +1,14 @@
+   position: relative;
+	padding: 18px 30px 18px 0px;
+	height: 1em;
+	opacity: 0.45;
+	position: absolute;
+	font-size: 80px;
+   font-family: Arial, Sans-Serif;
+	content: "\201C";
+	top:  33px;
+	left: 0;
+	bottom: -33px;
+	right: 0;
+   margin: 0;
+   content: none;

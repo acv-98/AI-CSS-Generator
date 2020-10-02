@@ -1,0 +1,12 @@
+  position: relative;
+  padding: 2.1rem 3rem 2.1rem 0px;
+  height: 1em;
+  font-size: 10rem;
+  font-family: Arial, Sans-Serif;
+  color: rgba(0, 0, 0, 0.3);
+  content: "\201C";
+  top: 33px;
+  left: 0;
+  bottom: -33px;
+  right: 0;
+  margin: 0;

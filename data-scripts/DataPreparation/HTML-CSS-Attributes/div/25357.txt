@@ -1,0 +1,13 @@
+    background: transparent url(../images/line.png) center top repeat-x;
+    margin: 0 -5px;
+    overflow: hidden;
+    position: relative;
+    padding: 10px 0;
+    font-size: 11px;
+    color: #797979
+    float: left
+    content: '';
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;

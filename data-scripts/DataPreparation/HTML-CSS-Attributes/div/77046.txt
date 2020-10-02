@@ -1,0 +1,1 @@
+ text-align:left;     float: left; width: 430px; margin:0 35px 0 0; padding:0;  float: left; width: 250px; margin:0 35px 0 0; padding:0;  float: left; width: 166px; margin:0; padding:0; 

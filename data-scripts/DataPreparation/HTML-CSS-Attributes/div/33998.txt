@@ -1,0 +1,1 @@
+ clear: both; border-top: 1px solid #eee; margin: 0px auto; max-width: 1180px; margin-top: 15px; margin-bottom: 15px; 

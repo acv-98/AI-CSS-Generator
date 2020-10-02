@@ -1,0 +1,1 @@
+width:95px; height:20px; background:url(../images/b_date.png) 0 0 no-repeat; padding:3px 0 0 15px; font:16px/18px 'Droid Sans',Arial,sans-serif; color:#60a56e; font-weight:bold; margin:0 0 7px 0;

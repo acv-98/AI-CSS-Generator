@@ -1,0 +1,20 @@
+behavior:url(../js/PIE.htc);position:relativebehavior:url(../js/PIE.htc)     border-radius:13px;
+	-moz-border-radius:13px;
+	-webkit-border-radius:13px;
+	position:relative;
+	padding-bottom:12px
+	 width:100%;
+	 border-radius:13px 13px 0 0;
+	background:#cd96c9;
+	display:block;
+	bottom:0;
+	left:0;
+	right:0;
+	font-size:20px;
+	line-height:22px;
+	color:#fff;
+	text-align:center;
+	border-radius:0 0 13px 13px;
+top:8px;
+background-position:0 bottomh1, h2, h3, h4, h5, h6 {
+	font-weight:normal

@@ -1,0 +1,7 @@
+  display: inline;
+  float: left;
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  margin-bottom: 0;
+  letter-spacing: 0.3px;

@@ -1,0 +1,4 @@
+	padding: 40px 0px;
+	font-size: 18px;
+	color: #343331;
+	font-weight: 700;

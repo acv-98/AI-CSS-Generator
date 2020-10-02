@@ -1,0 +1,8 @@
+  float: left;
+  padding: 20px 16px 0;
+  width: 69%;
+  color: hsl(0, 0%, 100%);
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 26px;
+  padding: 0 16px;

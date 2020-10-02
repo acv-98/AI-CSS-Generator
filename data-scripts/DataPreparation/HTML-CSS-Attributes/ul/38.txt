@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	list-style:none;
+	color:#b7b6b6;
+	width:220px;
+	background:repeat-x left bottom;
+	font-weight:bold;
+	text-decoration:none;

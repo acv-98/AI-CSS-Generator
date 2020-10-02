@@ -1,0 +1,3 @@
+	padding:10px 0;
+	background:rgba(186, 186, 186, .8);
+	border-radius:0;

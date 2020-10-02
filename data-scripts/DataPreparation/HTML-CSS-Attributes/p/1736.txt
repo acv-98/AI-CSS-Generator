@@ -1,0 +1,3 @@
+	color:#E91010;
+	font-size:0.875em;
+	font-weight:normal;

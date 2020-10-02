@@ -1,0 +1,1 @@
+	border-right:#c0cdd3 1px solid;

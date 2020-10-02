@@ -1,0 +1,5 @@
+	border-bottom:5px solid #f85f40;
+	border-right:5px solid #f85f40;
+	border-top:5px solid #f85f40;
+	border-left:5px solid #fff;
+	color:#f85f40;

@@ -1,0 +1,1 @@
+ width:570px; float:left; background:#523141; color:#533c47; font-weight:bold; margin-bottom:20px; border-bottom:#e1e1e1 solid 1px; padding-bottom:30px; margin-bottom:30px;border-bottom:none;RIGHT CLASSES

@@ -1,0 +1,9 @@
+    padding:0 41px 15px 19px;
+    overflow:hidden;
+    margin:0;
+    list-style:none;
+    line-height:24px;
+    font-size:13px;
+    color:#b4b4b4;
+    width:160px;
+    float:left;

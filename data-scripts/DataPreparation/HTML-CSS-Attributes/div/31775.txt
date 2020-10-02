@@ -1,0 +1,11 @@
+  position: relative;
+  z-index: 99999999;
+  float: right;
+  text-align: right;
+  bottom: -12em;
+    bottom: 0em;
+    text-align: center;
+    float: none !important;
+    margin: 0 auto;
+    display: block;
+  max-width: 100%;

@@ -1,0 +1,17 @@
+	float: left;
+	margin-right: 27px;
+	width: 170px;
+	margin-bottom: 6px;
+	height: 124px;
+	font-size: 12px;
+	line-height: 24px;
+	color: #2387D9;
+	background:#FFFFFF;
+	position: relative;
+	padding:0 7px 0 0;
+	margin-left:0;
+	font-weight: bold;
+	text-transform: capitalize;
+	border-top: 1px solid #EEEEEE;
+	padding-top:0px;
+	padding-bottom:0px;

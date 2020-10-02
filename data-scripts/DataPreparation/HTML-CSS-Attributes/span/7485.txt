@@ -1,0 +1,4 @@
+	font-family: "ClassicRound-Medium";
+	color: #606060;
+	font-size: 15px;
+	text-transform: uppercase;

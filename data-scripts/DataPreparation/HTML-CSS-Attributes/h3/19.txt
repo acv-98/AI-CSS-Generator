@@ -1,0 +1,1 @@
+  background: url(../images/type-4.png) no-repeat center center;

@@ -1,0 +1,13 @@
+	font-size: 14px;
+	padding: 18px 0px;
+	background: #f4f9fd;
+.faq-main-box h2 {
+	color: #07284b;
+	font-family: 'Raleway', sans-serif;
+	padding-bottom: 55px;
+	padding-left: 15px;
+	padding-right: 15px;
+	position: relative;
+	display: block;
+	text-decoration: none;
+	background-color: transparent;

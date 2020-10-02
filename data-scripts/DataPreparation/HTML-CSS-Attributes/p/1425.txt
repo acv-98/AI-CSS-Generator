@@ -1,0 +1,5 @@
+	font-family: "merriweather-light", serif;
+	font-size: 1.8rem;
+	line-height: 1.8;
+	color: #737373;
+		font-size: 1.7rem;

@@ -1,0 +1,10 @@
+	position:relative;
+	padding-top: 30px;
+	text-align: right;
+	margin: 0 !important;
+	cursor: pointer;
+	background: none;
+	padding-right: 0;
+	margin-left: 35px !important;
+	display: inline-block;
+	width: 13px;

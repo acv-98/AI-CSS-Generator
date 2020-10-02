@@ -1,0 +1,9 @@
+	min-height: 267px;
+	padding: 40px 0;
+		float: right;
+		padding-top: 55px;
+		font-size: 22px;
+	background: #03C462 url("../design/pattern-02.png") 0 100% repeat-x;
+	color: #FFF;
+		display: block;
+		margin: 0 auto;

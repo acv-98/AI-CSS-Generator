@@ -1,0 +1,9 @@
+	float: left;
+	height: 100px;
+	margin-right: 20px;
+	width: 100px;
+	  margin-right: 0;
+	  text-align: center;
+	  width: 100%;
+	  margin-bottom: 15px;
+		display: inline-block;

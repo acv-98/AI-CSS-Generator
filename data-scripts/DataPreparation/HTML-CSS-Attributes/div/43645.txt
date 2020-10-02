@@ -1,0 +1,11 @@
+	cursor: pointer;
+	height: 30px;
+	overflow: hidden;
+	position: absolute;
+	top: 30px;
+	width: 30px;
+	background: url("../images/icons/prev_button.png") no-repeat scroll 0 0 transparent;
+	left: 0;
+	text-indent: -100px;
+	background-position: left bottom;
+ background-position:left center; margin-right:10px;  display:none; float:left; padding-top:20px; 

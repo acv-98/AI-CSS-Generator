@@ -1,0 +1,12 @@
+	width:100%;
+	overflow:hidden;
+	float:left;
+	margin-right:30px;
+	line-height:1.571em;
+	background:url(../images/banner-tail.gif) repeat-y left top;
+	display:block;
+	min-height:114px;
+	height:auto !important;
+	padding:11px 15px 10px 17px;
+	color:#fff;
+	font-style:normal;

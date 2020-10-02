@@ -1,0 +1,8 @@
+	height: 30px;
+	margin: 0;
+	padding: 2px 3px; 
+	border: 1px solid #c96111;
+	background: #e2721b url(../images/button-bg.png) repeat-x;	
+	font: bold 11px 'Lucida Grande', Verdana, Helvetica, Sans-Serif;
+	text-decoration: none;	
+	color: #fff;

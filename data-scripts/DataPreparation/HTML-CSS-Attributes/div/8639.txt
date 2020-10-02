@@ -1,0 +1,4 @@
+ border-top: 7px solid #df9801; .box-icon {
+	width: 100%;
+	position: relative;
+	border-left: 2px solid #df9801;  color: #df9801;  margin-bottom: 0; 

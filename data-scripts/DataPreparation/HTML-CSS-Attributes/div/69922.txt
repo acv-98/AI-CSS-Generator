@@ -1,0 +1,7 @@
+  width: 220px;
+  float: none;
+  margin: 0 auto 15px;
+color: #6b6b6b;
+font-size: 17px;
+font-weight: bold;
+padding-bottom:15px;color: #898989;color: #000;

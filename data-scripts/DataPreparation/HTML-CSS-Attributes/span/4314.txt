@@ -1,0 +1,1 @@
+ background: url(images/slider-r.png) no-repeat 0 0; top: 28px; right: -2px; width: 7px; height: 244px; font-size: 0; line-height: 0; text-indent: -4000px; 

@@ -1,0 +1,6 @@
+	display: block;
+	color: #ed254d;
+	font-family: "roboto-bold", serif;
+	font-size: 4rem;
+	line-height: 1;
+	margin-bottom: 2.4rem;

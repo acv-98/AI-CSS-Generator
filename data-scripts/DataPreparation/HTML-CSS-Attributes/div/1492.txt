@@ -1,0 +1,17 @@
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+    width: 750px;
+    margin-right: 0;
+    margin-left: 0;
+  border-radius: 6px;
+  max-width: 100%;
+    padding-right: 60px;
+    padding-left: 60px;
+ content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; .clearfix:before,
+.row:before,
+  content: '\0020';
+  display: block;
+  overflow: hidden;
+  visibility: hidden;

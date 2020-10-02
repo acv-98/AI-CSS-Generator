@@ -1,0 +1,9 @@
+	background: #1baab9;
+	color: #1baab9;
+	text-decoration:none;
+	margin-bottom:20px;
+	padding:20px;
+	font-weight:bold;
+	width:100%;
+	height:150px;
+	border:none;

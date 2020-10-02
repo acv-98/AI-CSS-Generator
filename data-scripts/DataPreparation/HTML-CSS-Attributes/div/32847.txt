@@ -1,0 +1,4 @@
+	padding-top: 30px;
+	padding-bottom: 7px;
+ background: none; border: 1px solid #fff; .what-we-do-box {
+	margin-top: 30px;

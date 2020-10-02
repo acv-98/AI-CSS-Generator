@@ -1,0 +1,8 @@
+ padding: 30px 25px; 
+	.tm-services-row-2 {
+		-ms-flex-direction: row;
+		    -webkit-box-orient: horizontal;
+		    -webkit-box-direction: normal;
+		    -webkit-flex-direction: row;
+		        flex-direction: row;
+ padding: 45px;	

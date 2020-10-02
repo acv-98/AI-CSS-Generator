@@ -1,0 +1,9 @@
+        margin: 15px 0;
+    border-bottom: 1px solid #ededed;
+    font-size: 18px;
+    padding: 20px 0;
+    background-color: #ffffff;
+    color: #ffffff;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    opacity: 1;

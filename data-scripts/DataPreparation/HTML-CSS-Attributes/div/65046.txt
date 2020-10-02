@@ -1,0 +1,11 @@
+	display: block;
+	float: left;
+	width: 200px;
+	height: 36px;
+	margin: 17px 0 0 0;
+	background: url(../images/search.jpg) no-repeat;
+	color: #fff;
+	border: 0px none;
+	text-indent: -9999px;
+	padding: 0;
+	cursor: pointer;

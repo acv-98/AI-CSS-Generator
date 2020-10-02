@@ -1,0 +1,9 @@
+    display: inline-block;
+    padding: 12px 70px;
+    border-radius: 30px;
+    font-family: "Geometria-Medium";
+    background-color: #fff;
+    font-size: 16px;
+    color: #0f81f8;
+    -webkit-box-shadow: 3px 4px 7px rgba(0, 0, 0, 0.21);
+            box-shadow: 3px 4px 7px rgba(0, 0, 0, 0.21);

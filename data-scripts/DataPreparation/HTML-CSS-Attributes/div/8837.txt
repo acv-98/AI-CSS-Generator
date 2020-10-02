@@ -1,0 +1,9 @@
+		position: absolute; 
+		top: -25px; 
+		right: 0;
+		width: 230px;
+		height: 450px;
+		background: url("../design/iphone-bigger.png") 0 0 no-repeat;
+		display: block;
+		left: 16px;
+		bottom: -75px;

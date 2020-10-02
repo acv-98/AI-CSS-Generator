@@ -1,0 +1,5 @@
+    color: #f3bed0;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;

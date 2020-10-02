@@ -1,0 +1,7 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/shadow-b.png', sizingMethod='image');
+	width:980px;
+	height:20px;
+	position:absolute;
+	bottom:-20;
+	left:0;

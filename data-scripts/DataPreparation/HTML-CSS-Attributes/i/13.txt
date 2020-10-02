@@ -1,0 +1,22 @@
+-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both
+ *  Font Awesome 4.3.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ 
+//OWL Carousel
+ *  Owl Carousel - Animate Plugin
+.owl-carousel .animated {
+  -webkit-animation-duration: 1000ms;
+  animation-duration: 1000ms;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-name: fadeOut;
+  animation-name: fadeOut;
+        font-size: 1.1875rem;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 2px;
+    color:#fff;
+    background: #2E3192;
+    text-align: center;
+    border-radius: 50%;

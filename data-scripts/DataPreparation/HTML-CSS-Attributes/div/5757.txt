@@ -1,0 +1,15 @@
+	width:960px;
+	margin:0 auto;
+	font-size:.875em;
+	position:relative;
+	clear:both;
+	padding:0;
+	line-height:normal;
+	white-space:nowrap;
+	text-indent:inherit;
+	color:#5c5c5c;
+	font-weight:normal;
+	border:none;
+	text-decoration:underline;
+	background-color:transparent;
+	float:left;

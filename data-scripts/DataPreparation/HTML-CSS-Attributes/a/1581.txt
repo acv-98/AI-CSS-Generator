@@ -1,0 +1,7 @@
+	margin:30px;
+	display:block;
+	color:#FFF;
+	text-decoration:none;
+	width:200px;
+	padding:10px;
+	animation: arrowbounce 1s alternate infinite;

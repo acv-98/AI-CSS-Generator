@@ -1,0 +1,16 @@
+right: 5% !important;  padding: 0 5px;
+  margin-left: 3px;
+  top: 50%;
+  left: 0;
+  margin-top: -5px;
+  border-right-color: #000000;
+  border-width: 5px 5px 5px 0;
+  border-left-width: 0;
+  bottom: -10px;
+  content: " ";
+  right: 0;
+  background-image: -webkit-gradient(linear, 0 top, 100% top, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.5)));
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+right: 10%;	float: right;
+	display: block;

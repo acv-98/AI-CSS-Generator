@@ -1,0 +1,9 @@
+    display: block;
+    text-align: center;
+    font-size: 60px;
+    line-height: 60px;
+    color: #34393d;
+    margin-bottom: 32px;
+    position: relative;
+    top: -2px;
+        margin-bottom: 48px;

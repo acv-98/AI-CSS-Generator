@@ -1,0 +1,5 @@
+ max-width: 300px;     line-height: 24px;
+    padding-right: 7px;
+	padding-bottom: 10px;
+	width: 95%;
+	height: 26px;

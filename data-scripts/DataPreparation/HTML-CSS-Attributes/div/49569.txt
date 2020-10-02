@@ -1,0 +1,9 @@
+    width: 160px;
+  float: left;
+  font-size: 14px;
+  padding-left: 30px;
+  border-left: 1px solid #585246;
+  margin-bottom: 10px;
+  font-weight: bold;
+  display: block;
+  color: #cb5432;

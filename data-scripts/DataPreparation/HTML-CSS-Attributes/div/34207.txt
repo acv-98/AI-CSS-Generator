@@ -1,0 +1,3 @@
+	border-bottom: 1px solid #dbdbdb;
+	padding-top: 33px;
+	margin-right: 20px;

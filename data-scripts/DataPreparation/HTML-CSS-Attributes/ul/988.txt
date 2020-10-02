@@ -1,0 +1,10 @@
+	padding-top: 2px;
+	width: 34.5%;
+	float: left;
+	margin-top: 21px;
+	background: url(../images/marker1.png) 0 5px no-repeat;
+	font-size: 16px;
+	line-height: 19px;
+	color: #263555;
+	padding-left: 23px;
+	margin-bottom: 43px;

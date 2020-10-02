@@ -1,0 +1,10 @@
+    padding: 13px 40px;
+    outline: inherit;
+    color: #ffffff;
+    background-color: #f56363;
+    border-color: #f56363;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-left:5px;
+    margin-top:70px;
+    transition:all 500ms .1s ease-in-out;

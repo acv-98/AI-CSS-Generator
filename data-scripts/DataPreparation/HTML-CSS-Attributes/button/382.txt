@@ -1,0 +1,15 @@
+  text-shadow: 0 1px 0 #fff;
+  background-image: -webkit-linear-gradient(top, #fff 0%, #e0e0e0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe0e0e0', GradientType=0);
+  background-repeat: repeat-x;
+  border-color: #dbdbdb;
+  background-color: #e0e0e0;
+  background-position: 0 -15px;
+  color: #333;
+  text-transform:uppercase;
+  font-size:18px;
+  border-radius:30px;
+  margin-left:-10px;
+	background-color:#f9f9f9;
+	color:#ED502E;
+	border-color: #fff;	

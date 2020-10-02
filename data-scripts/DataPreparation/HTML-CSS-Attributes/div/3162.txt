@@ -1,0 +1,7 @@
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin: auto;
+        width: 100%;
+        margin: 15px 0;
+        max-width: 240px;

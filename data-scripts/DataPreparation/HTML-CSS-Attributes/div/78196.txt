@@ -1,0 +1,15 @@
+	margin:0;
+	padding:0;
+	border-top:1px solid #fff;
+	border-bottom:2px solid #e1e7ec;
+	background:#a4bcca;
+	width:920px;
+	color:#fff;
+	margin-bottom:24px;
+	padding-bottom:8px;
+	float:left;
+	list-style:none;
+	display:block;
+	text-decoration:none;
+	font-weight:bold;
+	line-height:1.8em;

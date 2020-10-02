@@ -1,0 +1,4 @@
+	position: relative;
+	width: 975px;
+	margin-left: auto;
+	margin-right: auto;

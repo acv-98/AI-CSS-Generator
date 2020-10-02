@@ -1,0 +1,1 @@
+  background-color: rgba(54, 62, 80, 0.75);

@@ -1,0 +1,6 @@
+  border: 1px solid #ccc;
+  padding: 15px;
+  width: 100%;
+  font-weight: normal;
+  margin-top: -10px;
+  display: block;

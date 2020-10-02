@@ -1,0 +1,2 @@
+ float: right; width: 475px; 
+ float: none; display: block;  width: 100%;  float: none; display: block;  width: 100%;  display: block; padding-bottom: 12px; 

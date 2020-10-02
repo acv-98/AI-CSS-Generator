@@ -1,0 +1,16 @@
+	margin-bottom: 15px;
+	background: none;
+	border: none;
+	border-bottom: 1px solid #ffffff;
+	width: 100%;
+	min-height: 55px;
+	color: #fff;
+	font-size: 22px;
+	font-weight: 300;
+	opacity: 1;
+	background-color: transparent;
+	border-radius: 0px;
+	outline: none !important;
+	line-height: 38px;
+	border-color: #0077e0;
+	padding: 0px;

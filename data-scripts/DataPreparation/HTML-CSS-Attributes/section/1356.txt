@@ -1,0 +1,8 @@
+  display: table;
+  content: "";
+  line-height: 0;
+  clear: both;
+  float: left;
+  width: 20%;
+    width: 33.33333333%;
+    float: none;

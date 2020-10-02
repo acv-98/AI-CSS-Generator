@@ -1,0 +1,10 @@
+    color: #333333;
+    border-radius: 8px;
+     margin: 20px;
+     padding: 15px 40px;
+    background-color: #9fd7ef;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;

@@ -1,0 +1,7 @@
+	list-style:none;
+	margin:5px 0;
+	padding:0;
+	background:none;
+	font:normal 11px Arial, Helvetica, sans-serif;
+	color:#959595;
+	text-decoration:none;

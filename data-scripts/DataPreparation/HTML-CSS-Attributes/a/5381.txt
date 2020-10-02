@@ -1,0 +1,12 @@
+        left: 120px;
+        right: 120px;
+        display: none;
+    top:70%;
+    background: none;
+    color: #CACACA;
+    font-size: 2.3em;
+    text-shadow: none;
+    margin-top: 30px;
+    bottom:0;
+    position: absolute;
+    z-index: 9999;

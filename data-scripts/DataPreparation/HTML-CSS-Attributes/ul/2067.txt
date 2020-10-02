@@ -1,0 +1,14 @@
+	position:absolute;
+	left:0;
+	background-color:#000;
+	font-family:"Trebuchet MS";
+	font-size:14px;
+	line-height:normal;
+	list-style:none;
+	display:block;
+	float:left;
+	margin:0;
+	color:#FFF;
+	padding-right:10px;
+	outline: none;
+	text-decoration: none;

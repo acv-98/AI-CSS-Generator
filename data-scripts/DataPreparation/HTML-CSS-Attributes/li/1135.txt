@@ -1,0 +1,12 @@
+	width:100%;
+	float:left;
+	padding:0px;
+	position:relative;
+	text-align:center;
+	margin:0 auto;
+	margin-bottom:20px;
+	height:12px;
+	background:#e4e4e4;
+	border-radius:100%;
+	-moz-border-radius:100%;
+	-webkit-border-radius:100%;

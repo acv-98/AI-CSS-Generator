@@ -1,0 +1,4 @@
+	padding-left:30px;
+	display:inline-block;
+	background:url(../images/marker_3.png) 0 1px no-repeat;
+	color:#dd00ff

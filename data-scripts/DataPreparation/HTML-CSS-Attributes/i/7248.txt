@@ -1,0 +1,14 @@
+		line-height: 84px;
+		display: none;
+		padding: 13px 20px;
+		max-width: 100%;
+    font-size: 30px;
+    line-height: 26px;
+    padding: 0;
+    width: auto;
+    height: 24px;
+    background-image: none;
+    color: #25CBF5;
+    display: block;
+    float: left;
+    margin-bottom: 15px;

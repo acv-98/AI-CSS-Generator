@@ -1,0 +1,3 @@
+	padding:0;
+	height:33px;
+	background:#fff url(../images/readmore.gif) repeat-x left center;

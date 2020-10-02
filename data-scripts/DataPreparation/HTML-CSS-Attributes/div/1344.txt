@@ -1,0 +1,18 @@
+	position: relative;
+	width: 968px;
+	background-color: #f7f7f7;
+	height: 266px;
+	padding: 6px 0px 0px 0px;
+	background-image: url(images/middle-bottom.gif);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	top: 0px;
+	left: 0px;
+	float: left;
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-right: 80px;
+	color: #28292d;
+	font-size: 14px;
+	margin-bottom: 7px;
+	font-weight: normal;

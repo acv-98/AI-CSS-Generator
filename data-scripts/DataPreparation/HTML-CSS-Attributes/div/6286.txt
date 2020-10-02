@@ -1,0 +1,7 @@
+	width:870px
+	background:#0e0c0a;
+	padding:25px 30px 32px
+	background-image:url(../images/line_vert2.gif)
+	margin-top:7px;
+	padding-top:30px;
+	padding-bottom:28px

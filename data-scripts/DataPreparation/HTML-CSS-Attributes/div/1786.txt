@@ -1,0 +1,7 @@
+  position: relative;
+  top: 0;
+  left: 0;
+  font-size: 40px;
+  color: #27E1CE;
+  padding-left: 70px;
+  font-weight: 700;

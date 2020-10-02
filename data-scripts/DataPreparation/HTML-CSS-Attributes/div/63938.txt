@@ -1,0 +1,1 @@
+padding: 4px 0;border-top: 1px solid #FF8500;background: #FAFAFA;color: #0C0C0C;text-align: center;box-shadow: 0 0 24px #D5D5D5;

@@ -1,0 +1,5 @@
+ background: #db5c87; .pricingTable.purple .price-value{
+    color: #db5c87;
+    border-color: #db5c87;
+ border-color: #db5c87; .pricingTable.purple .pricingTable-signup:hover{
+    background: #fff;

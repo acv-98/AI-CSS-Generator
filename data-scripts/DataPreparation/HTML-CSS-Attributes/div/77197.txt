@@ -1,0 +1,8 @@
+	font-size: 34px;
+	text-align: center;
+	display: inline-block;
+	float: left;
+	width: 30px;
+	margin-top: 2px;
+	margin-left: 54px;
+	margin-bottom: 30px;

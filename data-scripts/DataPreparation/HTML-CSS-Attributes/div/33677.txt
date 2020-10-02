@@ -1,0 +1,5 @@
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  border-top-color: #dddddd;
+  border-bottom-color: #dddddd;
+		border-top:1px solid #eee;

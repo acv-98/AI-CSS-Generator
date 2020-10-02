@@ -1,0 +1,1 @@
+  background: url(../img/bg-content.jpg) 50% 50%;

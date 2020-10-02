@@ -1,0 +1,1 @@
+width:180px; height:35px; line-height:35px; background:url(../images/bg-1.jpg); border:none; padding-left:10px; float:left;

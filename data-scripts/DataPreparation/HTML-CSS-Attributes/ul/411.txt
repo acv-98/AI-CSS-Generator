@@ -1,0 +1,4 @@
+float:left;margin-right:30pxpadding-top:14pxpadding-bottom:30pxpadding-top:10px
+.privacy {
+	width:750px;
+	padding:0 0 0 0

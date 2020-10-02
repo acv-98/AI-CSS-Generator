@@ -1,0 +1,12 @@
+	display: block;
+	width: 100%;
+	float: left;
+	background: url(../img/prev-bullet.png) no-repeat top left ;
+	padding-left: 20px;
+	height: 16px;
+	text-align: left;
+	padding-right: 20px;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+	color: #665d4e;

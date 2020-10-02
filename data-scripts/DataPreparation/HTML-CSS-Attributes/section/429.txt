@@ -1,0 +1,8 @@
+    background: url(../images/clientbg.jpg) no-repeat 100% 100%;
+    background-size: cover;
+    overflow: hidden;
+.client .main_client_content .single_client{
+    margin-bottom:65px;
+    width:20%;
+    float:left;
+    margin-left:5%;

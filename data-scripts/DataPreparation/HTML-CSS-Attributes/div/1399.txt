@@ -1,0 +1,4 @@
+   margin: 40px auto;
+ text-align: center;
+    margin: 38px auto;
+    text-align: center;

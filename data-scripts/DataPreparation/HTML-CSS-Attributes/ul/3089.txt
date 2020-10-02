@@ -1,0 +1,7 @@
+	margin:0;
+	list-style:none;
+	display:block;
+	float:left;
+	width:270px;
+	margin-right:20px;
+	line-height:1;

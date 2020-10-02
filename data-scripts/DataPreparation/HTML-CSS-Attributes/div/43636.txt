@@ -1,0 +1,10 @@
+ border-color: #cfcfcf; 	display: block;
+	height: auto;
+	overflow: hidden;
+	position: relative;
+	float: left;
+	border: 1px solid #CFCFCF;
+	padding: 5px;
+	max-width: 100%
+	width: auto;
+	background: #000 url('../images/icons/project.png') center no-repeat

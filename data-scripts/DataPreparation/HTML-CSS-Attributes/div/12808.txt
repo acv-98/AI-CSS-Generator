@@ -1,0 +1,2 @@
+  background-color: RGBA(0, 0, 0, 0.67);
+  min-height: 650px;

@@ -1,0 +1,9 @@
+    position: relative;
+    width: 1px;
+    right: 30px;
+    content: '';
+    background-color: #ccc;
+    display: block;
+    bottom: 26px;
+    top: 119px;
+    left: 30px;

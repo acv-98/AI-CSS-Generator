@@ -1,0 +1,7 @@
+	background: url(../img/black/head_content.png) no-repeat;
+	width: 1000px;
+	height: 64px;
+	margin:auto;
+	padding:15px;
+	color: #fff;
+	text-shadow: 1px 1px 1px #000;

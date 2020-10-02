@@ -1,0 +1,8 @@
+  position: relative;
+  margin-bottom: 20px;
+  width: 147px;
+  height: 147px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;

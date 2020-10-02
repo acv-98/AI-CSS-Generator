@@ -1,0 +1,13 @@
+ background: transparent url(../images/options/box-title-left-blue.png) no-repeat top left;  background: transparent url(../images/options/box-title-bg-blue.png) no-repeat top right; 
+ background: transparent url(../images/options/box-title-left-gray.png) no-repeat top left;  background: transparent url(../images/options/box-title-bg-gray.png) no-repeat top right;  background: transparent url(../images/options/box-title-left-green.png) no-repeat top left;  background: transparent url(../images/options/box-title-bg-green.png) no-repeat top right;   background: #ef3e60;
+  padding-left: 10px;
+  color: #fff;
+  text-decoration: none;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans, FreeSans, Jamrul, Garuda, Kalimati;
+  font-weight: normal;
+  letter-spacing: -0.04em;
+  display: block;
+  margin: 0;
+  font-size: 130%;
+  text-transform: uppercase;
+ display: none; 

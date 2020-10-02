@@ -1,0 +1,10 @@
+	display:block;
+	width:13px;
+	height:13px;
+	text-indent:-9999px;
+	background:url(../images/close.gif) 0 0 no-repeat;
+	cursor:pointer;
+	position:absolute;
+	right:20px;
+	top:20px;
+	z-index:99;

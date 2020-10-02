@@ -1,0 +1,12 @@
+	float:left;
+	padding-right:21px;
+	background:url(images/box-bg.gif) left bottom repeat-y;
+	width:310px;
+	position:relative;
+	left:-4px;
+	min-height:180px;
+	border-bottom:1px dotted #dcdcdc;
+	color:#252323;
+	font-size:16px;
+	top:23px;
+	right:19px;

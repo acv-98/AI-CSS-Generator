@@ -1,0 +1,8 @@
+	padding:20px;
+	text-align:center;
+	color:#fff;
+	font-size:172px;
+	line-height:160px;
+	margin-bottom:30px;
+	text-transform:none;
+	background:#7cbb00;

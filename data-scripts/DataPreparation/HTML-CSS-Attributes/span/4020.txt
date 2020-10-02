@@ -1,0 +1,17 @@
+  margin-right: 3px;
+  color: #f39c12;
+  cursor: pointer;
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  content: "\2a";
+  z-index: 5;
+  left: 50%;
+  margin-left: -10px;
+  right: 50%;

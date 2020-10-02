@@ -1,0 +1,10 @@
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+  top: -50%;
+  -webkit-transition-property: left, opacity;
+  -moz-transition-property: left, opacity;
+  -ms-transition-property: left, opacity;
+  -o-transition-property: left, opacity;
+  transition-property: left, opacity;

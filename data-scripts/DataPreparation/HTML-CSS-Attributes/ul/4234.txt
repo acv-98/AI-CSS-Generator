@@ -1,0 +1,7 @@
+	margin:0;
+	padding:0;
+	color:#939393;
+	list-style:none;
+	display:block;
+	text-decoration:none;
+	background:url(images/menu_li_link.gif) no-repeat left center;

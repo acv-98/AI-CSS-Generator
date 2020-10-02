@@ -1,0 +1,3 @@
+ margin-top:30px;text-decoration:none; display:block; width:90px; height:30px; background:#d1869b; color:#ffffff; font-family: 'Economica', sans-serif; font-size:17px; line-height:30px; text-align:center; text-transform:uppercase; border:#d8d3d5 solid 1px; background:#efefef; color:#3d232f;
+ margin-top:34px;LEFTCOL CLASSES
+background:#d1869b; text-transform:uppercase; font-family: 'Economica', sans-serif; color:#fff; font-size:20px; border: none; margin-left:100px; margin-top:20px; width:100px; height:40px;

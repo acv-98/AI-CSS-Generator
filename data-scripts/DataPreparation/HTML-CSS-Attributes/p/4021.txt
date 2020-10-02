@@ -1,0 +1,2 @@
+	background:url(images/li_a.gif) left no-repeat;
+	padding:0 0 0 15px;

@@ -1,0 +1,11 @@
+	float:left;
+	width:240px;
+	text-align:left;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-weight:normal;
+	color:#fff;
+	font-size:30px;
+	line-height:36px;
+	margin-left:127px;
+	display:block;
+	margin-top:-6px;

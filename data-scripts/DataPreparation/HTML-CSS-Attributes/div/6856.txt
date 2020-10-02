@@ -1,0 +1,1 @@
+width:960px; margin:0 auto; margin-top:76px; overflow:hidden;text-align:center; color:#cf9359; padding-bottom:72px;

@@ -1,0 +1,18 @@
+  margin-bottom: 4.5em;
+  padding: 70px 25px 25px 25px;
+  border: 2px solid rgba(45, 64, 89, 0.1);
+  position: relative;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+  display: block;
+  top: -20px;
+  left: 0;
+  right: 0;
+  font-size: 40px;
+  color: #00ADB5;
+  background: #fff;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;

@@ -1,0 +1,8 @@
+	padding-top: 8px;
+	margin-top: 41px;
+	padding-bottom: 8px;
+	border-width: 2px;
+	margin-bottom: 26px;
+	font-size: 12px;
+	display: block;
+	color: #a8a8a8;

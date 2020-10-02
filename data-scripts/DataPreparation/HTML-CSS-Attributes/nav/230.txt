@@ -1,0 +1,11 @@
+  padding: 0;
+  margin: 0;
+  line-height: 24px;
+  list-style: none;
+  display: block;
+  float: left;
+  width: 100%;
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #ccc !important;
+  cursor: pointer;

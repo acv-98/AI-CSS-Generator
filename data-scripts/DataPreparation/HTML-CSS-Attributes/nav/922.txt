@@ -1,0 +1,1 @@
+padding:0;#wdisplay:block; text-align:center; margin-bottom:5px; margin:-225px auto 210px 0;display:inline-block; font-size:1.4em; color:#666; text-decoration:none;position:absolute; text-align:left;position:absolute; text-align:right;left:0%;right:0%;left:3%;right:2%;left:2%;right:1%;left:3%;right:2%;left:11%;right:10%;left:15%;right:15%;

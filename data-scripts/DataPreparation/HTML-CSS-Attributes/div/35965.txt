@@ -1,0 +1,1 @@
+width:400px; float:left; background:url("../img/sprites.png") no-repeat -950px -667px; margin-bottom:20px;

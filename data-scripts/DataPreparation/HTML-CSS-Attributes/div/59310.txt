@@ -1,0 +1,13 @@
+    background-color: #00cfef;
+			padding: 5px 15px;
+			font-size: 16px;
+			margin-top: 5px;
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 36px;
+    left: -10px;
+    padding: 5px 30px 15px;
+    text-align: center;
+    top: -10px;
+	box-shadow: 0 12px 19px rgba(255, 255, 255, 0.1) inset, 0 1px 7px rgba(0, 0, 0, 0.2);
+    display: block;

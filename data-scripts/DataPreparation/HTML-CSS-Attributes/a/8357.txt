@@ -1,0 +1,9 @@
+	position:absolute;
+	top:0;
+	left:0;
+	width:119px;
+	height:85px;
+	background:url(images/overlay.png) no-repeat 0 0;
+	display:none;
+	z-index:10;
+	cursor:pointer;

@@ -1,0 +1,2 @@
+	color: #d0a772 !important;
+	font-size: 24px;

@@ -1,0 +1,2 @@
+ border: 1px solid #ddd; 
+background: url(../images/prettyPhoto/light_rounded/sprite.png) -88px -53px no-repeat;

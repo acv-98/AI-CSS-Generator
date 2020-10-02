@@ -1,0 +1,10 @@
+  display: block;
+  float: left;
+  margin-bottom: 30px;
+  padding: 0;
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #888f94;
+  margin-top: 10px;

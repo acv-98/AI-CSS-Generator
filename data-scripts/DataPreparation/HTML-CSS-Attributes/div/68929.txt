@@ -1,0 +1,5 @@
+	width:940px;
+	height:466px;
+	padding:10px;
+	background:#fff;
+	overflow:hidden;

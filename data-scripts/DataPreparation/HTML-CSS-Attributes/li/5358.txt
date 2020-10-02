@@ -1,0 +1,4 @@
+	background:url(images/menu.gif);
+	background-position:10px 36px;
+	color:#fff;
+	text-shadow:none;

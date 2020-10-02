@@ -1,0 +1,5 @@
+margin: 0; padding: 0; list-style: none;display: none; -webkit-backface-visibility: hidden;width: 100%; display: block;content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;height: 1%;
+.slide figcaption {
+	position: absolute;
+	background: white; 
+	height: auto; min-height: 3em; width: 60%; padding: 1em; 

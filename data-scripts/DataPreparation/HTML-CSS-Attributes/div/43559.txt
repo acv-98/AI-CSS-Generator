@@ -1,0 +1,2 @@
+	margin-top: 0px;
+	background: url('../images/price.single.png') no-repeat scroll 20px 0px transparent !important;

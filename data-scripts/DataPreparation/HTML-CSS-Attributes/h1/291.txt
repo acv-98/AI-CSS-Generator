@@ -1,0 +1,14 @@
+ margin-bottom: 0; 
+.tm-nav {
+	font-size: 2.1rem;
+    overflow: auto;
+    width: 80%;
+    display: -webkit-flex;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    margin: 0 auto;
+    max-width: 1060px;

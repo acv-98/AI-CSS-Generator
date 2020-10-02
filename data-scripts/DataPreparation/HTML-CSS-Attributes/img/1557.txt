@@ -1,0 +1,2 @@
+    border:10px double #01a2a6;
+     max-height:200px;

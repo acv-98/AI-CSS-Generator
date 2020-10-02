@@ -1,0 +1,9 @@
+		background:url(../img/sep-hor.gif) no-repeat 50% 0;
+		padding:2px 0;
+		position:relative;
+		margin:0 auto;
+		width:81.25%;
+		content:"";
+		bottom:0;
+		left:0;
+		height:2px;

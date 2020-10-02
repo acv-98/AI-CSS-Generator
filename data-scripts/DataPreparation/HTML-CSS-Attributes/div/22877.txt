@@ -1,0 +1,8 @@
+  margin-top: 5%;
+  text-align: center;
+  font-size: 3em;
+  line-height: 1.3em;
+  font-weight: 400;
+  color: #FFF;
+  margin-bottom: 40px;
+  text-shadow: 1px 1px 8px #000000;

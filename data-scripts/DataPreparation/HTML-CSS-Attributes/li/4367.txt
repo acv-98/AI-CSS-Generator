@@ -1,0 +1,2 @@
+	background-image: url(../img/blue/sprites.png);
+	background-position: -69px -31px;

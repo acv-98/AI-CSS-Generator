@@ -1,0 +1,7 @@
+	width:904px;
+	height:348px;
+	position:relative;
+	z-index:2;
+	padding:10px 0;
+	padding-bottom:16px;
+	cursor:pointer;

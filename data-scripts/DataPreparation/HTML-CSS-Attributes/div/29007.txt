@@ -1,0 +1,7 @@
+	color: #898989;
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1.1em;
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+	margin-top: 110px;
+    color: #e74c3c;

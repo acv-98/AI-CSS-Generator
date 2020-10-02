@@ -1,0 +1,1 @@
+	background:url(../images/footer-left.gif) no-repeat left top;

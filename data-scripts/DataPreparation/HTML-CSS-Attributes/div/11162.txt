@@ -1,0 +1,11 @@
+    width: 210px;
+    float: left;    
+ margin-left: 10px; .tm-btn-send {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-weight: 600;
+        width: 49%;
+        margin-left: 0;
+        float: right;

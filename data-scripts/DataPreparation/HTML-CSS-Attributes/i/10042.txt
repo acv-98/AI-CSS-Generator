@@ -1,0 +1,11 @@
+    opacity: 0;
+    -webkit-transition: opacity .15s linear;
+    -o-transition: opacity .15s linear;
+    transition: opacity .15s linear;
+    -webkit-transform: translate(0, -25%);
+    -ms-transform: translate(0, -25%);
+    -o-transform: translate(0, -25%);
+    transform: translate(0, -25%);
+    filter: alpha(opacity=0);
+    -webkit-animation-name: fadeOut;
+    animation-name: fadeOut

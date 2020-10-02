@@ -1,0 +1,4 @@
+	display: block;
+	margin-left: 86px;
+	padding-top: 12px;
+	padding-right: 8px;

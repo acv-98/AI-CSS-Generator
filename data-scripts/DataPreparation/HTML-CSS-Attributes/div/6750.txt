@@ -1,0 +1,5 @@
+  border-color: #eee;
+  background-color: #fff;
+  font-size: 14px;
+  font-weight: normal;
+  border-top-color: #eee;

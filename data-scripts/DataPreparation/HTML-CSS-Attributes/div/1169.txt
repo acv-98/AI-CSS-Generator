@@ -1,0 +1,4 @@
+	width:940px;
+	height:415px;
+	background:#292929;
+	margin:0px;

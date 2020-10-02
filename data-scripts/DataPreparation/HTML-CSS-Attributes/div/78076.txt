@@ -1,0 +1,14 @@
+        text-align: center;
+        width: 100%;
+        display: inline-block
+        margin: 0;
+        font-size: 20px;
+        padding: 4px;
+    margin-top: 30px
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    text-decoration: none;
+    color: #fff;
+    float: right;
+    margin-right: 10px;
+    background: transparent;

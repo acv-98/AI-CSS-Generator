@@ -1,0 +1,7 @@
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background: #cfa671;
+    font-size: 18px;
+    color: #ffffff;
+    padding: 5px 15px 5px 5px;

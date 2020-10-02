@@ -1,0 +1,11 @@
+	padding:0 0 20px 0;
+	display:block;
+	font-weight:normal;
+	color:#717171;
+	font-size:12px;
+	line-height:18px;
+	width:235px;
+	overflow:hidden;
+	float:left;
+	text-align:right;
+	margin:0 6px 0 0;

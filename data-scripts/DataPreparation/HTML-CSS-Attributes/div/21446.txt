@@ -1,0 +1,10 @@
+	padding:0 0 13px 10px;
+	background:url(images/bottom-border.gif) bottom repeat-x;
+	margin-bottom:13px;
+	float:left;
+	border:3px solid #343333;
+	width:348px;
+	padding-right:9px;
+	font-size:13px;
+	line-height:12px;
+	color:#b7b7b7;

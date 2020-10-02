@@ -1,0 +1,7 @@
+	float: left;
+	cursor:pointer;
+	border-radius: 30em;
+	-webkit-border-radius:30em;
+	-moz-border-radius: 30em;
+	-o-border-radius: 30em;
+		float: none;

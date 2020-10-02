@@ -1,0 +1,4 @@
+	display: block;
+	height: 100%;
+	position: relative;
+	opacity: 1;

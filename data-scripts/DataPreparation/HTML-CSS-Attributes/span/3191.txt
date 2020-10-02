@@ -1,0 +1,6 @@
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 30px;
+  height: 2px;
+  background: #7ee383;

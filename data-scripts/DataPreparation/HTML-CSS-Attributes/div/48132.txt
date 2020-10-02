@@ -1,0 +1,8 @@
+  margin-bottom: 20px;
+  overflow: hidden;
+  border-radius: 4px;
+  margin-top: 5px;
+  border-bottom: 0;
+  border-top: 1px solid #ddd;
+  -webkit-border-radius:  0px;
+-moz-border-radius: 0px;

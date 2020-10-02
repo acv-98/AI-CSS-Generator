@@ -1,0 +1,9 @@
+	width:215px;
+	float:left;
+	padding-left:70px;
+	font-size:30px;
+	margin-top:-5px;
+	text-transform:uppercase;
+	display:block;
+	line-height:1.2em;
+	letter-spacing:-2px;

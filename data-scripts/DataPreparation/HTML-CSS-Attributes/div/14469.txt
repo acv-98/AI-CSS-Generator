@@ -1,0 +1,2 @@
+	background:url(../images/bg_footer.png) top center repeat-x;
+	height:117px

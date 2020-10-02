@@ -1,0 +1,1 @@
+color:#D2D2D2; background:url("../images/footer_bg.png") top left repeat-x #202020; border-bottom:1px solid #151515;color:#7BA344; background-color:#202020;

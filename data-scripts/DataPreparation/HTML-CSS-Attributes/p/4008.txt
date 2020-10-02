@@ -1,0 +1,6 @@
+	width:800px;
+	float:left;
+	color:#fff;
+	font:normal 11px/18px Tahoma, Arial, Helvetica, sans-serif;
+	padding-left:23px;
+	padding-bottom:10px;

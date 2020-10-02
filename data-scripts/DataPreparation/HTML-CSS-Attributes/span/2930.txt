@@ -1,0 +1,15 @@
+  color: #c09853;
+  background-color: #fcf8e3;
+  border-color: #c09853;
+  display: inline-block;
+  width: auto;
+  height: 20px;
+  min-width: 16px;
+  padding: 4px 5px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 20px;
+  text-align: center;
+  text-shadow: 0 1px 0 #ffffff;
+ position: absolute; top: 1px; left: 1px; background-color: #f3f1f1; border: 0px; z-index: 10; width: 45px; height: 43px; padding: 0; line-height: 43px;  position: absolute; top: 1px; left: 1px; background-color: #f3f1f1; border: 0px; z-index: 10; width: 45px; height: 198px; padding: 0; line-height: 43px; 	background: none;
+	top:0;

@@ -1,0 +1,6 @@
+    color: #fff;
+    font-size: 32px;
+    margin: 1em 0;
+    line-height: 60px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;

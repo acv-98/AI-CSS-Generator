@@ -1,0 +1,3 @@
+	width: 1031px;
+	overflow:hidden;
+	margin:auto;

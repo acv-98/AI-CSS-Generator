@@ -1,0 +1,13 @@
+  display: table;
+  width: 100%;
+    display: block;
+  vertical-align: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  height: 500px;
+    width: 100%;
+  padding: 30px;
+  margin-bottom: 40px;
+  margin-left: 50%;
+    margin-left: 0px;

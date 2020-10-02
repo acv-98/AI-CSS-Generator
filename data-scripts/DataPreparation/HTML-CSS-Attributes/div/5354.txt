@@ -1,0 +1,2 @@
+	display: none;
+  	border: 1px solid #C1C1C1;

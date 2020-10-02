@@ -1,0 +1,11 @@
+    overflow: hidden;
+    padding-right: 20px;
+    border: 3px solid #eae5e5;
+    margin-bottom: 20px;
+    display: inline-block;
+    padding-left: 25px;
+    background: url(../images/cal_icon.png) 0 center no-repeat;
+    margin-right: 16px;
+    margin-top: 23px;
+    padding-top: 25px;
+    font-size: 18px;

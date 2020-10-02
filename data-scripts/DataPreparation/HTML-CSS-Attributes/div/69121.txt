@@ -1,0 +1,12 @@
+  float: right;
+  left: 100%;
+    cursor: pointer;
+    height: 30px;
+    overflow: hidden;
+    position: absolute;
+    top: 30px;
+    width: 30px;
+    background: url("../images/icons/next_button.png") no-repeat scroll 0 0 transparent;
+    right: 0;
+    text-indent: 100px;
+    background-position: right bottom;

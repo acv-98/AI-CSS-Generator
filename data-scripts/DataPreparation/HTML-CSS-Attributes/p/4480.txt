@@ -1,0 +1,13 @@
+  float: right;
+  display: inline;
+  width: 730px;
+  margin: 20px 0 0 0;
+  padding: 0;
+	position: relative;
+	padding: 8px;
+	margin: 10px 10px 10px 0;
+	background: #FAFAFA;
+   border: 1px solid #EDEDED;
+   -moz-box-shadow: 1px 1px 3px #184569 ;
+	-webkit-box-shadow: 1px 1px 3px #184569;
+	box-shadow: 1px 1px 3px #184569;

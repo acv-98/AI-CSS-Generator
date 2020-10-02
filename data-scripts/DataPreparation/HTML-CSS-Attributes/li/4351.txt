@@ -1,0 +1,11 @@
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+.clearfix {
+.none {
+body {
+	font: 12px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background: #F9f9f9;
+	color:#555555;

@@ -1,0 +1,9 @@
+	border-radius: 8px;
+	display: inline-block;
+	width: 1.5em;
+	height: 1.5em;
+	line-height: 1;
+	padding: 0.25em;
+	position: relative;
+	background-color: #0e8a65;
+	color: #fff;

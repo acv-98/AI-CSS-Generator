@@ -1,0 +1,8 @@
+		margin:10px 0;
+		padding:0;
+		list-style:none;
+		display : inline-block;
+				padding:3px 5px 3px 25px;
+				float:left;
+				width:40%;
+						background:url(../images/tick.gif) left 6px no-repeat;

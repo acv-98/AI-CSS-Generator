@@ -1,0 +1,2 @@
+	border: 8px solid #FFFFFF ;
+	outline: 1px solid #c5c5c5;

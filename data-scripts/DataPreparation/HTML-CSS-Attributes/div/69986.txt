@@ -1,0 +1,13 @@
+	width:47px;
+	height:16px;
+	position:absolute;
+	background-color:#ea545a;
+	border:none;
+	text-align:center;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:10px;
+	color:#FFF;
+	line-height:16px;
+	left:275px;
+	top:148px;
+	z-index:50;

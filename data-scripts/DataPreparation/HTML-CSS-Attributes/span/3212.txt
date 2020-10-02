@@ -1,0 +1,3 @@
+	padding-left: 20px;
+	padding-bottom: 5px;
+	background: url(user.png) no-repeat;

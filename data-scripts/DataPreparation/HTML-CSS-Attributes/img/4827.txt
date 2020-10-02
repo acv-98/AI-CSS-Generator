@@ -1,0 +1,10 @@
+   position: relative;
+   width: 120px;
+   height: 120px;
+   border-radius: 100%;
+      width: 114px;
+      height: 114px;
+      margin-left: 12px;
+ display: none;    #about .download .button {
+      text-align: center;
+      padding: 15px 20px;

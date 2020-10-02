@@ -1,0 +1,9 @@
+	height: 3px;
+	width: 503px;
+	display: block;
+	background: url(../images/border1.png) no-repeat 0px 0px;
+	position: absolute;
+	right: 0%;
+	bottom:51px;
+		width: 470px;
+		bottom: 48px;

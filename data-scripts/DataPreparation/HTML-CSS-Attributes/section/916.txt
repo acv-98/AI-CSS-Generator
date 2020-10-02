@@ -1,0 +1,14 @@
+	background: url(../img/pattern.jpg);
+	background-repeat: repeat-y;
+	margin-top: 40px;
+	font-size: 90px;
+	color: #fff;
+	margin-bottom: 0;
+	display: block;
+  width: 205px;
+  height: 125px;
+  background: #3a9ecb;
+  position: relative;
+	position: absolute;
+	  font-size: 50px;
+	  margin-top: 40px;

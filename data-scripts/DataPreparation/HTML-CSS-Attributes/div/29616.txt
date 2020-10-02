@@ -1,0 +1,18 @@
+	position: relative;
+	float: left;
+	display: inline-block;
+	padding: 5px 0 0 0px;
+	margin-right: 40px;
+	margin-left: 35px;
+	border-bottom: 1px dotted #333;
+	
+	color: #000;
+	font-weight: normal;
+	font-size: 11px;
+	text-align: center;
+	text-decoration: none;
+	top: 0;
+	left: -35px;
+	width: 27px;
+	height: 38px;
+	background: url(images/icon_01.png) no-repeat;

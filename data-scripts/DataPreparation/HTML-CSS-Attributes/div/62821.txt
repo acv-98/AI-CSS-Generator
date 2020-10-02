@@ -1,0 +1,7 @@
+	font:bold 38px/34px Helvetica, Arial, sans-serif;
+	float:left;
+	color:#94ff80;
+	width:538px;
+	padding:17px 0 0 48px;
+	text-transform:uppercase;
+	margin-bottom:30px;

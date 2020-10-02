@@ -1,0 +1,13 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-navigation-normal.png', sizingMethod='image');
+	cursor:pointer;
+	position:absolute;
+	bottom:8px;
+	right:14px;
+	list-style:none;
+	float:left;
+	width:20px;
+	height:25px;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;

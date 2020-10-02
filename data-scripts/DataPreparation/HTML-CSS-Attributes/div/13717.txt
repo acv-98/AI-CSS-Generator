@@ -1,0 +1,26 @@
+ background-position: 0px bottom; 
+ position: static;     .testimonial-quote-style .testimonial-name {
+        float: none;
+        text-align: center;
+        margin-right: 0;
+        padding-top: 15px;
+        padding-bottom: 0;
+ background: none;     .blog-pinterest .meta div p, .blog-pinterest .meta div p span, .blog-pinterest .meta div p a span,
+    width: 100%;
+    height: 75px;
+    display: block;
+    background: url("../images/testimonials-libra-quote.png") 35px bottom no-repeat;
+    border: solid 1px #e6e4e4;
+    margin-bottom: 20px;
+    position: relative;
+    background-color: #ffffff;
+    color: #2E2D2D;
+    font-size: 14px;
+    box-shadow: none;
+    right: 0px;
+    bottom: 0px;
+    left: auto;
+    top: auto;
+    padding-right: 0;
+    min-height: 0;
+    line-height: 1.6em;

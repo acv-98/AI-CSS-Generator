@@ -1,0 +1,10 @@
+  overflow: visible;
+    padding-top: 120px !important;
+  width: 10px;
+  height: 10px;
+  background: rgba(0, 0, 0, 0.2) !important;
+  border: 2px solid transparent !important;
+  -webkit-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+  color: #000 !important;

@@ -1,0 +1,15 @@
+    color: #fff;
+    background: #202020;
+    width: 260px;
+    text-align: center;
+    height: 75px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    padding-top: 25px;
+    text-transform:uppercase;
+  float: left;
+  line-height: 20px;
+  text-decoration: none;
+    margin-left: -15px;
+  background-color: transparent;

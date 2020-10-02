@@ -1,0 +1,5 @@
+	overflow:hidden;
+	width:282px;
+	float:left;
+	padding-right:24px;
+	margin-right:12px;

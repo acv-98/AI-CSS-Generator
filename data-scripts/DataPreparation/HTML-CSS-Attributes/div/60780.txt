@@ -1,0 +1,17 @@
+		border-top: 1px solid #F7C221;
+	
+		display:none !important;
+		background: none repeat scroll 0 0 #fff;
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 25px;
+		width: 50px;
+		margin: auto;
+		text-align:center;
+		padding:20px;
+		color: #F7C221;
+		font-size: 16px;
+		font-weight: 700;
+		text-transform: uppercase;
+		background-color:#ededed;

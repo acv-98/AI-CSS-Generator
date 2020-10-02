@@ -1,0 +1,14 @@
+	float:right;
+	width:90%;
+	display: inline-block;
+	color: #777777;
+	font-size: 0.875em;
+	line-height: 1.7em;
+	margin: 0 1em 0 0;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-top:0.5em;

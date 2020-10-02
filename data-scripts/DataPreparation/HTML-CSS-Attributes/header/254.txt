@@ -1,0 +1,22 @@
+    font-size:32px;
+    color: #ffffff;
+    background-color: rgba(41, 41, 41, 0.68);
+    width: 80%;
+    margin: auto;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  min-height:700px;
+  overflow: hidden;
+	color:#fff;
+	margin-top:280px;
+	font-size:40px;
+	font-family: 'latolight';
+	
+    height: 50px;
+    border-radius: 100%;
+    text-align: center;
+    padding-top: 13px;
+	transition:.3s;
+	 color: #fff;

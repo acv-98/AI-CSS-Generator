@@ -1,0 +1,7 @@
+    height: 83%;
+	background:rgba(83,160,192, .9);
+	position:absolute;
+	width: 100%;
+    top: -90%;
+	transition:.5s; 
+	top:0;	

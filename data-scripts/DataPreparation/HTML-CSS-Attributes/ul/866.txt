@@ -1,0 +1,7 @@
+  color: #a5d549; 
+  background-color: #a5d549;
+  padding: 15px 0;
+  position: relative;
+  margin: 0 5px;
+	width: 100%;
+    padding: 0;

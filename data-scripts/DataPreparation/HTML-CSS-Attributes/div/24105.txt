@@ -1,0 +1,14 @@
+  padding-bottom: 3em;
+  position: relative;
+  font-size: 50px;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1px;
+  bottom: 13px;
+  right: -14px;
+  width: 12px;
+  height: 12px;
+  background: #F03861;
+  content: '';
+  text-decoration: none;

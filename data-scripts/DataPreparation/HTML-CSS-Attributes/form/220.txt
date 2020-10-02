@@ -1,0 +1,13 @@
+  color: #3498db;
+  border: medium none;
+  float: left;
+  font-size: 16px;
+  height: 54px;
+  margin-right: 20px;
+  letter-spacing: 1px;
+  padding: 10px;
+  width: 75%;
+  opacity: 1;
+  background-color: #FFF;
+    width: 70%;
+    margin-bottom: 20px;

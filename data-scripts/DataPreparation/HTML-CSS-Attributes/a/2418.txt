@@ -1,0 +1,6 @@
+	background:url(images/more_bullet.gif) no-repeat right;
+	padding:0 25px 0 0;
+	line-height:30px;
+	text-decoration:none;
+	float:right;
+	margin:10px 0 0 0;

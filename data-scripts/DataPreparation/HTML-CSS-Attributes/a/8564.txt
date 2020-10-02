@@ -1,0 +1,2 @@
+position:absolute; font-family:"FontAwesome"; font-size:10px; line-height:10px;
+padding-left:25px;display:block; margin:0; padding:10px 15px;content:"\f0d7";top:25px; left:15px;top:15px; left:5px;

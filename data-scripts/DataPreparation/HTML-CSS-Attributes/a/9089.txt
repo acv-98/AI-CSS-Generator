@@ -1,0 +1,9 @@
+	background:url(../images/navnormal.jpg) 0 0 no-repeat;
+	width:120px;
+	height:50px;
+	color:#fff;
+	float:left;
+	font:normal 18px/50px Trajan Pro, Arial, Helvetica, Tahoma, sans-serif;
+	text-decoration:none;
+	text-align:center;
+	margin:0 0 0 4px;

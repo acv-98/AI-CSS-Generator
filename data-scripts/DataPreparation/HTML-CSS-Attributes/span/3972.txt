@@ -1,0 +1,7 @@
+	background-position: 0 -1152px;
+	display: block;
+	height: 100px;
+	width: 117px;
+	position: absolute;
+	top: -20px;
+	left: -25px;

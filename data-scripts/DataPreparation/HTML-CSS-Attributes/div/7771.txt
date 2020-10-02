@@ -1,0 +1,10 @@
+	overflow:hidden;
+	font-family:'ProximaNovaLtRegular', Arial, Helvetica, sans-serif;
+	margin:0 0 21px;
+	color:#fff;
+	text-shadow: 1px 1px 3px #5e748e;
+	float:left;
+	width:333px;
+	background:url(../images/sprite.png) no-repeat -1px -101px;
+	padding:7px 10px;
+	border:none;

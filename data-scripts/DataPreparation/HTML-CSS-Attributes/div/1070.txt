@@ -1,0 +1,6 @@
+    position: absolute;
+    right: 40px;
+    bottom: 50px;
+    color:#f7614c;
+    font-size:0.75rem;
+    font-family: 'open_sansregular';

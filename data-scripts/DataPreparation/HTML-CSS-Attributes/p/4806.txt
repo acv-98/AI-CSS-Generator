@@ -1,0 +1,2 @@
+			display:none;
+display:none;text-align:center;float:nonedisplay:none;text-align:center;float:none;font-size:8px;

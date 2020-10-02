@@ -1,0 +1,90 @@
+ font-size: 22px; font-family: 'Open Sans', sans-serif; color: #a5a4a4; font-style: normal; font-weight: 400;  font-size: 48px; font-family: 'Arbutus Slab', sans-serif; color: #a5a4a4; font-style: normal; font-weight: 400;  font-size: 15px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  color: #6c6d03;  border-color: #dfdcdc;  border-color: #cccccc;  width: 97.9% !important; 
+ min-height: 0px;     margin: 20px 0 40px;
+    width: 100%;
+    color: #636161;
+    float: left;
+    font-weight: normal;
+    margin-top: 0;
+    padding-right: 30px;
+    text-transform: none;
+    border-left: 1px solid #CFCFCF;
+    margin-bottom: 45px;
+    padding-left: 30px;
+    font-style: italic;
+    line-height: 18px;
+    clear: left;
+ margin-bottom: 5px; line-height: 20px; margin-top: 0px; margin-bottom: 5px; margin-top: 20px; float: left; margin-top: 20px; margin-bottom: 30px  margin-bottom: 30px  margin-bottom: 30px .section.blog .post {
+    border-bottom: 1px solid #CFCFCF;
+ font-size: 15px; .section.blog .meta p {
+    font-size: 11px;
+ content: '\0000a0-\0000a0';  content: ''; .section.blog .post.sticky {
+    border-radius: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    max-width: 100%;
+    position: relative;
+    margin-right: 20px;
+    min-width: 220px;
+    background-color: #000;
+    padding-top: 15px;
+    padding-bottom: 13px;
+    right: 5px;
+    bottom: 5px;
+    text-align: right;
+ margin-right: 7px;  margin-right: 0px;  line-height: 26px; margin-bottom: 0px; margin-top: 0px;  font-size: 14px;  margin-right: 8px; display:inline;  color: #fc9a00;  width: 100%;  margin-top: 0px; 	font-family: 'Maven Pro','Verdana','Arial',sans-serif !important;
+.span9 .section .services-row .span2:nth-child(4n+1) {
+ height: auto; min-height: 150px; margin-bottom: 30px;  background:#000; .section.services .related_img img {
+    display:block;
+    height:auto;
+    overflow:hidden;
+ color: #f29a03 width: auto; display:block; height:auto; overflow:hidden; position:relative; border: 8px solid #eeeeee; background-color: #cdcfd0; max-width: 100%  margin-bottom: 40px !important; padding-bottom: 5px; border-bottom: 1px solid #CFCFCF;  margin-bottom: 0;  margin-top: 0;     font-family: 'Maven Pro',sans-serif;
+	bottom: 12%;
+	color: white;
+	font-size: 11px;
+	line-height: 15px;
+	margin-bottom: 0px;
+ width: 385px;  width: 48%;  margin-right: 3%;  color: #fff !important; text-align: right; font-size: 14px; margin: 0 10px 0 0;  margin:0 color: white; margin: 5px 10px 0 0; font-size: 11px;   font-size: 11px;  float: none !important; padding-right: 5px;  position:relative; display:none; background: none repeat scroll 0 0 #000;height:100%;left:0px;overflow: hidden; position: absolute; top:0px; width:100%; opacity: .7; text-align: center; display: block; float: left; height: 100%; width: 50%; line-height: 9999px; overflow: hidden;  position: absolute; bottom: 20%; color: white; text-align: center; display: block; width: 100%; font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif; font-size: 16px; line-height: 15px;  color: #fc9a00  margin-bottom: 20px; .section.square .picture_overlay {
+    max-height: 175px;
+    border-color: #acaa0d;
+ overflow: hidden; .numbers-sections {
+ color: #acaa0dh2.section-portfolio-title {
+    list-style: none;
+    left: 0;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    transition: opacity .5s ease-in-out;
+    -moz-transition: opacity .5s ease-in-out;
+    -webkit-transition: opacity .5s ease-in-out;
+    margin-left: -3px;
+    z-index: 9998 !important;
+.section-portfolio-classic .work-thumbnail {
+ background: url('../portfolios/libra/images/loading_660.gif') no-repeat center; .section-portfolio-classic .work-thumbnail img.work-loading,
+ outline: 1px solid #DFDCDC; border-color: #fff; min-height: 350px  outline: none;  border: 6px solid #fff; min-height: auto  margin-bottom: 0  min-height: 250px;  margin-left: -10px;  margin-top: 0 !important; color: #676768; font-size: 14px; font-weight: 700; margin-top: 7px;  display: none  margin-left: -20px;  min-height: 280px;  min-height: 200px;  position:relative;  display:none; -webkit-backface-visibility: hidden;  max-width: 100.003%;  width:100%; height:40px; position:absolute; top: 50%  display:block; position:static; margin:0; opacity:1; width:40px; height:40px; text-indent:-9999; outline:none; background:url('../portfolios/libra/images/nav_left.png') no-repeat;  background-position: top left; float:left;  background-position: top right; float:right; background:url('../portfolios/libra/images/nav_right.png') no-repeat;  padding: 15px 0 0 0;  width: 100% !important;  height: 130px !important;  height: 55px !important;  list-style: none; margin: 0; padding: 0; clear: both  float: left; list-style: none;.section-portfolio-classic .work-projects a.img {
+    -o-transition: opacity 1s ease .1s;
+ border: 1px solid #bbd140; opacity: 1 .section-portfolio-classic .work-projects  {
+    cursor: pointer;
+ clear: both  margin: 0; padding-top: 30px;  position: relative; padding-left: 45px; line-height: 35px; width: 80%; background: rgba(179,177,177,.18); list-style: none; margin-bottom: 7px  position: absolute; left: 0; margin-right: 10px; text-align: center; background: #dcdcdc; display: block; width: 35px; overflow: hidden; float: left;  background: #dcdcdc; @media (min-width: 980px) and (max-width: 1199px) {
+ margin-left: -20px;  min-height: 280px;  min-height: 200px;  height: 104px !important;  height: 46px !important;     .section-portfolio-slider,
+ height: 181px !important; margin: 15px 20px 0px 0px;     .sidebar-left .section-portfolio-slider div.section-portfolio-carousel ul.section-portfolio-slides li,
+ margin: 15px 20px 0px 20px;  margin: 15px 20px 0px 0px !important;  padding: 0px;  padding: 3px;  margin-left: -20px;  min-height: 210px;  min-height: 150px;  height: 76px !important;  height: 34px !important;  height: 127px !important; margin: 10px 20px 0px 0px;  margin: 10px 20px 0px 15px;  margin: 10px 20px 0px 0px !important;  margin-top:5px;  padding: 0px;  padding: 3px;         padding-bottom: 0;
+        padding-right: 0;
+        background: none;
+ min-height: auto;   margin-left: 0     .section-portfolio-classic .work-projects.span9 .row .caroufredsel_wrapper,
+ height: 76px !important;  width: 104px !important; margin: 0 10px 0 0; width:42px !important; position:absolute; left:0px; z-index: 9999; width:42px !important; position:absolute; right:0px; z-index: 9999;  position: absolute; left:0px; right:0px; padding: 0px 52px;  height: 127px !important; width: 100%;  width: 104px; right:0px; margin: 10px 10px 0px 0px; float:left;  margin: 10px 10px 0px 0px;  margin: 10px 10px 0px 0px !important;  margin-top:5px;  margin-bottom: 20px; .section.blog .description {
+ width: 270px; .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 470px; .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 570px;  width: 210px; #ie8 .sidebar-no .section.blog .sticky .the-content.span3,
+ width: 220px; #ie8 .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 380px; #ie8 .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 460px; .section.blog .sticky .the-content h4,
+.section.blog .sticky .the-content h4 a {
+ color: #6C6D03;  position: relative; .section.blog .post .date {
+ display: block; .section.blog .post .date .month {
+    letter-spacing: 1px;
+ color: #676768;  color: #797b04; .section.blog .post .meta p,
+.section.blog .post .meta p a {
+ color: #676768;  font-weight: 800;  content: "";  width: 260px;  width: 210px;     .sidebar-no .section.blog .sticky .the-content.span3,
+ width: 220px;     .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 380px;     .sidebar-no .section.blog .sticky .the-content.span6,
+ width: 460px;  font-size: 42px !important;  width: 156px;  width: 166px;  width: 290px;  width: 352px;  font-size: 15px !important;  font-size: 28px !important;  width: 100%;  margin-bottom: 17px; 

@@ -1,0 +1,36 @@
+    padding: 35px 20px 25px;
+    border: 1px solid #16567f;
+    text-align: center;
+    position: relative;
+    transition: all 0.3s ease 0s;
+ border-color: #00cb86 ; .serviceBox:before{
+    content: "";
+    border-top: 20px solid #16567f;
+    border-left: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    top: 7px;
+    right: 7px;
+ border-top-color: #00cb86 ; .serviceBox .service-icon{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    font-size: 30px;
+    color: #064774;
+    margin-bottom: 35px;
+    z-index: 1;
+ color: #fff;     border-radius: 3px;
+    left: 0;
+    transform: rotate(45deg);
+    border-color: #00cb86 ;
+    background: #00cb86 ;
+    font-weight: 700;
+    text-transform: capitalize;
+	padding: 0;
+ margin-bottom: 30px; 	border-radius: 2px;
+	transition: .2s;
+	letter-spacing: 1px;
+	background: #ffffff;
+	color: #12557f;
+	display: inline-block;
+	line-height: 12px;

@@ -1,0 +1,2 @@
+	height: 54px;
+	background: url(../img/border-bg-top.png) repeat-x top left; 

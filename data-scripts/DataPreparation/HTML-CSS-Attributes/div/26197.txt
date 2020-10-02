@@ -1,0 +1,12 @@
+  padding: 4em 0;
+    height: inherit;
+    padding: 3em 0;
+  display: table;
+  width: 100%;
+  z-index: 12;
+  position: relative;
+  vertical-align: middle;
+  color: #fff;
+  margin: 0;
+  line-height: 1.5;
+  margin-bottom: 30px;

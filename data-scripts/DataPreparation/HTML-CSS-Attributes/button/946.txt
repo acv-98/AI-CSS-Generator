@@ -1,0 +1,16 @@
+    font-family: "Damion",cursive;
+    transition: background .3s ease-in-out;
+    -webkit-transition: background .3s ease-in-out;
+    -o-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+background: #e46e48;.btn.submit_btn:hover,.btn.submit_btn:focus,.get_it_btn:hover,.get_it_btn:focus,.work_us_btn:hover,.work_us_btn:focus {
+    background: #c96241 none repeat scroll 0 0;
+    color: #fff;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    font-size: 24px;
+    height: 48px;
+    margin-left: 6px;
+    padding: 6px 15px;
+        padding: 6px 26px;

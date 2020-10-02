@@ -1,0 +1,9 @@
+    opacity: 1;
+    color:#fff;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(158, 158, 158, 0.48);
+    padding: 30px;

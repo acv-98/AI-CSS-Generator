@@ -1,0 +1,4 @@
+	padding: 7% 0 0% 0%;
+	background: url(../images/border.png) repeat-x 0px 163px;
+		background: url(../images/border.png) repeat-x 0px 158px;
+		padding: 20px 0 0 0;

@@ -1,0 +1,12 @@
+		width: 588px;
+		display: block;
+		position: relative;
+		top: -0.5em;
+		margin: 0 0 0.5em 0;
+			position: absolute;
+			top: 0;
+			right: 0;
+			height: 32px;
+			line-height: 24px;
+			padding-left: 40px;
+			background: url('images/icon-bubble.png') no-repeat;

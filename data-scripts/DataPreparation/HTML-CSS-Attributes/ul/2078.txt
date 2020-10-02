@@ -1,0 +1,12 @@
+	margin-top:-30px;
+	width:100%;
+	overflow:hidden;
+	vertical-align:top;
+	line-height:1.538em;
+	padding-top:30px;
+	float:left;
+	margin-right:25px;
+	color:#d730f8;
+	display:block;
+	padding-bottom:5px;
+	text-decoration:none;

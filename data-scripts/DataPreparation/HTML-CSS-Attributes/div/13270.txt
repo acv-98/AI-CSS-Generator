@@ -1,0 +1,6 @@
+	font-size: 30px;
+	color: #515151;
+	border-bottom: 1px solid #ededed ;
+	padding-bottom: 10px;
+	border-top: 1px solid #ffffff ;
+	line-height:21px;

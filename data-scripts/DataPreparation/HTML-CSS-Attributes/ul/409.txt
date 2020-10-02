@@ -1,0 +1,5 @@
+padding-right:22px.list-popular a{
+font-size:20px;
+color:#d53827;
+line-height:24px;
+margin-bottom:2px;

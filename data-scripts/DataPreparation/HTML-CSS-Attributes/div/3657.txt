@@ -1,0 +1,5 @@
+  width: 100% !important;
+  height: 500px !important;
+  left: -20px;
+    width: 90% !important;
+    margin: 0 auto;

@@ -1,0 +1,5 @@
+display:none;nav {
+  display:block;
+  cursor:pointer;
+  line-height:3em;
+display:block;

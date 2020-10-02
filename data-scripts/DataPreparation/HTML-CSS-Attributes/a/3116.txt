@@ -1,0 +1,5 @@
+	color: #F77CAD;	
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	text-decoration:none;

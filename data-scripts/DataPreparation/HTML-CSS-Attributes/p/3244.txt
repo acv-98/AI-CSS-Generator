@@ -1,0 +1,18 @@
+ font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #585555; font-style: normal; font-weight: normal;  font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #B77A2B; font-style: normal; font-weight: normal;  color: #000000;  width:60%; 
+.boxed #wrapper {
+    padding: 0px;
+    width: 100%;
+	background: url("../images/icons/message/error.png") no-repeat scroll 15px center #FDD2D1;
+	border: 1px solid #F6988F;
+	color: #883333;
+    display: block;
+    margin: 0px auto 58px auto;
+    max-width: 100%;
+    height: auto;
+    font-size: 18px;
+    font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif;
+    line-height: 22px;
+    text-align: center;    
+    margin-top: 58px;
+ width: 20%; height:16px;  width: auto;  position:relative; top:-1px;  background-image:url('images/icons/error.png'); border:1px solid #cf0606; .content .contact-form li.success input, .content .contact-form li.success textarea, .content .contact-form li.success select,
+ padding:10px 15px 10px 55px; border:1px solid; margin:0 auto 30px; background:no-repeat 15px center; width:400px;  background-color:#fedccd; border-color:#fa8c83; color:#c82c1f; background-image:url('images/icons/error.png');  background-image: none !important;  border-radius:8px; -moz-border-radius:8px; -webkit-border-radius:8px; 

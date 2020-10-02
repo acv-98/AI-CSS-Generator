@@ -1,0 +1,13 @@
+	float:left;
+	margin:0 auto;
+	padding:80px 10px 50px;
+	width:940px;
+	font-size:14px;
+	line-height:24px;
+	text-align:justify;
+	color:#467172;
+	display:block;
+	overflow:hidden;
+	border:1px solid #fff;
+	background:url(../images/border-dashed2.gif) no-repeat right bottom;
+	list-style:none;

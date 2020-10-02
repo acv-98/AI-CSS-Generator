@@ -1,0 +1,4 @@
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+ padding: 140px 0;     padding: 210px 0;
+	border-color: #ff8a38;

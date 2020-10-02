@@ -1,0 +1,2 @@
+	height:212px;
+	padding-left:2px;

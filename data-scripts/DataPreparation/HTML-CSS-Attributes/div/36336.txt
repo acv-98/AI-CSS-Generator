@@ -1,0 +1,18 @@
+	text-align: left;
+	overflow: hidden;
+	padding-top: 5px;
+	margin-bottom: 39px;
+	color: #fff;
+	position: relative;
+	top: 7px;
+	border: 1px solid #3c7f9f;
+	width: 100%;
+		 -moz-box-sizing: border-box;
+ -webkit-box-sizing: border-box;
+ -o-box-sizing: border-box;
+ box-sizing: border-box;
+ display: block;
+	height: 218px;
+	max-width: 100%;
+	font-size: 14px;
+	line-height: 21px;

@@ -1,0 +1,4 @@
+	margin-top:-15px;
+	padding:28px 24px 21px;
+	color:#fff;
+	background:#f00 url(images/menu_a.jpg) repeat-x left top;

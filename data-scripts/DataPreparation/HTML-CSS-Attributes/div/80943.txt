@@ -1,0 +1,4 @@
+  padding: 30px 30px 30px 30px;
+  color: #96a0ae;
+  margin-bottom: 0;
+  text-decoration: none;

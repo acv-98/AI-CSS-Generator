@@ -1,0 +1,8 @@
+		background:url(../images/design/footer-patch-960.png) top left no-repeat transparent;
+		width:980px;
+		position:absolute;
+		height:68px;
+		z-index:100;
+			background:url(../images/design/footer-patch-768.png) top left no-repeat transparent;
+			width:788px;
+			height:11px;

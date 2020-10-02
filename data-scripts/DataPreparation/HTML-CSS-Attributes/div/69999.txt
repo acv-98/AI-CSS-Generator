@@ -1,0 +1,4 @@
+	width: 894px;
+	height:106px;
+	float:left;
+	margin:0 auto;

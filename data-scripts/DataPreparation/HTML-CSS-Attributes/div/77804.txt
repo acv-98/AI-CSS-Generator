@@ -1,0 +1,6 @@
+	position:relative;
+	-pie-png-fix:true;
+	behavior:url("PIE.htc");
+	top:-12px;
+	left:-12px;
+	background:url("../images/icon-web-dev.gif") no-repeat left center;

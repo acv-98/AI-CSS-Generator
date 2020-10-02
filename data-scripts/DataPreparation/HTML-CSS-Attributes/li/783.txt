@@ -1,0 +1,10 @@
+	width: 33.5%;
+	float: left;
+	margin-right: 4%;
+	padding-right: 3%;
+	border-right: 1px solid #B9DEEC;
+		margin-right: 2%;
+		width: 100%;
+		float: none;
+		padding-right: 0;
+		border-right: none;

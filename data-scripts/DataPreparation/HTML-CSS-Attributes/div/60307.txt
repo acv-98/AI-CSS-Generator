@@ -1,0 +1,9 @@
+	margin-top: 25px;
+	width: 100%;
+	overflow: hidden;
+	text-align: left;
+	padding: 20px 25px;
+	background-color: #f4f4f4;
+	font-size: 13px;
+	color: #7a7a7a;
+	font-weight: 700;

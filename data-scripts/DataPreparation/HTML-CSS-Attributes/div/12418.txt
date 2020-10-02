@@ -1,0 +1,17 @@
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background-size: cover;
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+    margin-bottom: 0;
+    float: right;
+    margin-top: 0;
+        float: left;
+        margin-top: 15px;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;

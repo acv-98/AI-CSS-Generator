@@ -1,0 +1,24 @@
+
+.spi-hr *, .spi-hr::before, .spi-hr::after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    content: '';
+    background-color: #fff;
+    z-index: 99;
+    opacity: 0;
+    width: 0;
+    height: 1px;
+    -webkit-transition-delay: 0.25s;
+    transition-delay: 0.25s;
+	opacity: 1;
+	-webkit-transform: translateY(0);
+	transform: translateY(0);
+	top: 50%;
+    zoom: 1;
+    filter: alpha(opacity=20);
+    -webkit-opacity: 0.2;

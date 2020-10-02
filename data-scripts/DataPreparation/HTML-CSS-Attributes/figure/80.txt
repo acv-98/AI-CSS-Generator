@@ -1,0 +1,5 @@
+    margin-top: 19px;
+    display: block;
+    height: 297px;
+    width: 100%;
+    margin-bottom: 63px;

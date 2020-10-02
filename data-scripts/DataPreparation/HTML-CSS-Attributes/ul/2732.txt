@@ -1,0 +1,8 @@
+	display: block;
+	height: 32px;
+	font: bold 16px "Trebuchet MS", Verdana, Arial, sans-serif;
+	background: url(../images/sidebar_menu_div.jpg) repeat-x left bottom;
+	padding-top: 5px;
+	padding-left: 35px;
+	color: #958E82;
+	text-decoration: none;

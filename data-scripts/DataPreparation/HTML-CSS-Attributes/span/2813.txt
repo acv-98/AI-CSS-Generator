@@ -1,0 +1,6 @@
+	font: 11px/18px "raleway-heavy", sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	display: block;
+	text-align: left;
+	color: rgba(0, 0, 0, 0.5);

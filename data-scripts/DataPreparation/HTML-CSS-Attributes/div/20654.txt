@@ -1,0 +1,7 @@
+  position: relative;
+  width: 93%;
+  margin: 0 auto;
+  padding: 4em 0;
+  clear: both;
+    width: 100%;
+    padding: 4em 1em;

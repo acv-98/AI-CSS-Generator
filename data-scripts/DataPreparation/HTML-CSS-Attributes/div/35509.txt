@@ -1,0 +1,9 @@
+	padding:5em 0;
+	background:#fcb200;
+	border-radius: 10em;
+	display: -webkit-inline-box;
+	color:#35353f;
+	font-style:italic;
+	font-size:0.85em;
+	text-decoration:none;
+	line-height:1.5em;

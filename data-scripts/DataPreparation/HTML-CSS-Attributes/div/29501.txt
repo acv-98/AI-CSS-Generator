@@ -1,0 +1,14 @@
+	width:640px;
+	height:auto;
+	overflow:hidden;
+	margin:80px 0 0 30px;
+	font-family: "Myriad Pro";
+	padding:0;
+	list-style-type:none;
+	clear:both;
+	font-weight:normal;
+	color:#ff9506;
+	font-size:24 px;
+	text-decoration:none;
+	text-align: justify;
+	display:block;

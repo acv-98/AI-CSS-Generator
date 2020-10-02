@@ -1,0 +1,9 @@
+  border-radius: 0px;
+  padding: 10px 32px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-top: 22px;
+  transition: all 0.4s ease-in-out;
+  background: #111112;
+  border-color: transparent;
+  color: #ffffff;

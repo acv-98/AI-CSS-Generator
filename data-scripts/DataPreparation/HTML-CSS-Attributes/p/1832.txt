@@ -1,0 +1,25 @@
+ font-family: 'Droid Sans', sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important; </style>
+.es-carousel-wrapper{
+	padding:10px 27px;
+	position:relative;
+	margin-bottom:20px;
+ font-family: 'Droid Sans', sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: 'Droid Sans', sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: 'Droid Sans', sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: 'Droid Sans', sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: 'Droid Sans', sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  font-family: 'Droid Sans', sans-serif !important;  font-family: Arial, Helvetica, sans-serif !important;  * Bootstrap v2.0.2
+ *
+ * Copyright 2012 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * Designed and built with all the love in the world @twitter by @mdo and @fat.
+  margin-right: 4px;
+  border-right: 1px solid #9b9b9b;
+  float: left;
+  padding-right: 15px;
+  width: 80px;
+  color: #4c4949;
+  font-size: 30px;
+  line-height: 30px;
+  letter-spacing: -2px;
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin-top: 25px;
+ float:left; background-image:url('images/time-icon.png'); width:80px; 

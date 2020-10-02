@@ -1,0 +1,7 @@
+	float: left;
+	width: 380px;	
+	margin: 20px 0 0 25px;
+	padding: 10px 0 0 0;
+	display: inline;	
+	background-color: #1c130e;
+   border: 1px solid #251a15;

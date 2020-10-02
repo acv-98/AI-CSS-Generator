@@ -1,0 +1,2 @@
+width:400px; float:left; margin-top:40px;float:left; padding-bottom:20px; width:120px;display:block; width:120px; height:40px; line-height:40px; background:#414141; font-family: 'Source Sans Pro', sans-serif; font-size:14px; color:#ffffff; text-align:center; text-transform:uppercase;background:#cf9359; color:#282828;background:#cf9359; color:#282828;
+PANEL CLASSES

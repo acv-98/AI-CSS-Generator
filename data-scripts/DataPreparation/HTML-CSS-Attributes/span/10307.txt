@@ -1,0 +1,5 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/nav-r.png', sizingMethod='image');
+	float:right;
+	display:inline;
+	right:-24px;

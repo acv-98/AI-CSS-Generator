@@ -1,0 +1,16 @@
+	text-align: center;
+	border: 1px solid #ccc;
+	color: #333;
+	cursor: pointer;
+	display: inline-block;
+	text-transform: uppercase;
+	padding: 1rem 2rem;
+	margin: 0 5px;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+	font-size: 15px;
+    color: #fff;
+    border-color: #fff;
+		margin-bottom: 10px;
+		padding: 1rem 1.3rem;
+		font-size: 14px;

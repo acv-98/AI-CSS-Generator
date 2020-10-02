@@ -1,0 +1,13 @@
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+  background-image: none;
+	color: #25BAD0;
+	background-color: transparent;
+	border: 2px solid #25BAD0;
+	padding: 12px 20px;
+	margin: 0;
+	font-size: 15px;
+	border-radius: 0;
+	text-transform: uppercase;
+	border-color: #25BAD0;

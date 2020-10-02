@@ -1,0 +1,5 @@
+		float: none;
+		text-align: center;
+		display: inline;
+    float: left;
+    padding-top: 22px;

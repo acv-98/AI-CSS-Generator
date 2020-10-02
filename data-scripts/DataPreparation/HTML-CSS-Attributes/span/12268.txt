@@ -1,0 +1,5 @@
+	font-size: 25px;
+	padding: 5px 12px;
+	margin-bottom: 30px;
+	display: inline-block;
+	border-radius: 10px;

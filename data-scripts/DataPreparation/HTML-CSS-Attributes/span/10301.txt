@@ -1,0 +1,6 @@
+	background:url(images/arr1.gif) no-repeat 0 0;
+	width:122px;
+	height:71px;
+	position:absolute;
+	top:126px;
+	right:-137px;

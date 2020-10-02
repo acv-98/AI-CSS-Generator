@@ -1,0 +1,9 @@
+	font-family: FontAwesome;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background-color: #3498db;
+	color: #ffffff;
+	padding: 16px;
+	border-radius: 2px;
+	content: "\f067";

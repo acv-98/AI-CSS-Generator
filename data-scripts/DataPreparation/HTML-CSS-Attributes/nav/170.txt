@@ -1,0 +1,8 @@
+  margin-bottom: 40px;
+  padding: 0;
+  color: #000;
+  display: block;
+  line-height: 18px;
+  text-transform: uppercase;
+    background-color: #00C7FC;
+    color: #fff;

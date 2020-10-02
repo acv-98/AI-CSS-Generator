@@ -1,0 +1,10 @@
+    margin-top:85px;
+    padding: 140px 0px;
+    position: relative;
+    color: #fff;
+    padding-bottom: 25px;
+    font-size:1.5rem;
+    line-height: 2rem;
+    right:1%;
+    top:50%;
+    z-index: 99;

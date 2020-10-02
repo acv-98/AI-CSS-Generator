@@ -1,0 +1,9 @@
+  letter-spacing: -1px;
+  font: 300 30px/48px 'Dosis', sans-serif;
+  padding: 182px 0 198px;
+  background: url(../images/slider.jpg) center 0 no-repeat;
+    font-size: 18px;
+    line-height: 22px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;

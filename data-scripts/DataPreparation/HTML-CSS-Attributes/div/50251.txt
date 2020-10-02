@@ -1,0 +1,4 @@
+	float:left;
+	display:inline;
+	font-size:11px;
+	color:#000;

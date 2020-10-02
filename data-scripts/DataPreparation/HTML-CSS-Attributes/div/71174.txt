@@ -1,0 +1,3 @@
+    background-attachment: fixed !important;
+    background-color: #fff;
+    color: #ffffff;

@@ -1,0 +1,18 @@
+    padding: 0 !important;
+    border-left: 1px dotted #d5d5d5;
+    border-bottom: 1px dotted #d5d5d5;
+    border-top: 1px dotted #d5d5d5;
+    overflow: hidden;
+    background-color: #ffffff;
+    border-radius: 4px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(226, 228, 229, 1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(226, 228, 229, 1);
+    box-shadow: 10px 10px 5px 0px rgba(226, 228, 229, 1);
+    position: relative;
+    background-image: url(upload/about.jpg);
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: 700px auto;
+    width: 100%;
+    min-height: 367px;
+    height: 100%;

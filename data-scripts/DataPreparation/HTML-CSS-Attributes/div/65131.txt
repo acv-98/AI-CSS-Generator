@@ -1,0 +1,14 @@
+	background: url(../images/burnstudio_sprite.png) no-repeat;
+	background-position: 0px -80px;
+	width: 310px;
+	height: 41px;
+	margin: 24px 0 0 0;
+	font-family: Segoe UI;
+	float: right;
+	line-height: 29px;
+	padding: 6px 9px 6px 16px;
+	border: 0px none;
+	font-style: italic;
+	color: #5d5d5d;
+	text-indent: -10000px;
+	cursor: pointer;

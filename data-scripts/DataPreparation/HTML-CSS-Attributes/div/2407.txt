@@ -1,0 +1,5 @@
+-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box
+.lt-ie9 .small-block-grid-2 {
+    list-style: none
+    display: none !important;
+ padding: 0;  float: left; min-height: 1px; padding: 0 15px; position: relative;  float: none; margin: 0 auto; position:inherit;

@@ -1,0 +1,2 @@
+min-height: 35px;
+#header_bottom_area{background: url("images/slider_bottom_bg.png") repeat scroll 0 0 rgba(0, 0, 0, 0);

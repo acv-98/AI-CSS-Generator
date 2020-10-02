@@ -1,0 +1,11 @@
+  float: right;
+  text-align: left;
+    float: left;
+    text-align: left;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+  padding: 0 10px;
+  font-size: 18px;
+  text-decoration: none;
+  outline: none;

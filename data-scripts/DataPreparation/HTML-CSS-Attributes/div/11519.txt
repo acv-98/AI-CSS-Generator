@@ -1,0 +1,7 @@
+  margin: 0 auto;
+  width: 95%;
+  color: #1f2021;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  line-height: 25px;
+  padding-top: 50px;

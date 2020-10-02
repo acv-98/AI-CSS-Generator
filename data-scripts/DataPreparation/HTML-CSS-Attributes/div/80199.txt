@@ -1,0 +1,10 @@
+	width:260px;
+	margin:0;
+	padding:0 0 20px;
+	float:right;
+	border:1px solid #e5e5e5;
+	background:#fff url(images/left_bg.gif) top repeat-x;
+	list-style:none;
+	font:normal 14px Arial, Helvetica, sans-serif;
+	color:#464646;
+	text-decoration:none;

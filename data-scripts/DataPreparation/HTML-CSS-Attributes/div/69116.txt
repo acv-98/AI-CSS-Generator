@@ -1,0 +1,7 @@
+ border-color: #CAD0D1;  border-color: #eeeeee;     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: url("../images/twitter-bg.png") no-repeat scroll 0 center transparent;
+    border-bottom: 1px dotted #CFCFCF;
+    line-height: 20px;
+    min-height: 20px;

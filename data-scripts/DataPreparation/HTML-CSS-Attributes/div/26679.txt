@@ -1,0 +1,12 @@
+	float: right;
+	clear: both;
+	display: block;
+	width: 120px;
+	height: 25px;
+	padding: 5px 0 0 0;
+	color: #ffffff;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	background: url(images/button_01.png) no-repeat;

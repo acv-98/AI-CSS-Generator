@@ -1,0 +1,11 @@
+	display: inline-block;
+	margin-left: 20px;
+	color: #a7c44c;
+	font-weight: 400;
+	font-size: 15px;
+	padding: 10px 20px;
+	border: 2px solid #a7c44c;
+	border-radius: 10px 0 10px 0;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	background: #a7c44c;

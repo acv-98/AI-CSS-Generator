@@ -1,0 +1,5 @@
+	line-height:34px;
+	display:inline-block;
+	border-bottom:#d2d9d8 2px solid;
+	border-top:#d2d9d8 2px solid;
+	text-align:center;

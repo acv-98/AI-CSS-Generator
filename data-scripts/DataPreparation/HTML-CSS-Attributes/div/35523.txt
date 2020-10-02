@@ -1,0 +1,6 @@
+	background:url("../images/sprite.png") no-repeat scroll -173px -203px transparent;
+	float:left;
+	height:27px;
+	border:medium none;
+	cursor:pointer;
+	width:27px;

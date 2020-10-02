@@ -1,0 +1,12 @@
+        padding: 10px;
+        line-height: 22px;
+    font-size: 14px;
+    border: 0px solid #ccc;
+    border-radius: 4px 0px 0px 4px;
+    width: 65%;
+    display: inline-block;
+    height: 34px;
+    background: #95e1d3;
+    color: #fff;
+    margin-left: -4px;
+    outline: none;

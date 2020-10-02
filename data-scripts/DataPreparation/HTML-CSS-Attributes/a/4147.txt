@@ -1,0 +1,2 @@
+ background-position:0 bottom; 
+ float: none; display:block; right:0; left:0;  position:relative; margin: 0 auto; top:0;  width: 260px; 

@@ -1,0 +1,13 @@
+	margin:10px 0px 10px 0px;
+	display:inline-block;
+	float:left;
+	line-height:29px;
+	width:193px;
+	text-align:center;
+	border-left:#d2dfe3 1px solid;
+	font-size:20px;
+	color:#fff;
+	font-family: 'Passion One', cursive;
+	font-weight:400;
+	text-shadow: 3px 3px 1px #acbec6;
+	letter-spacing:1px;

@@ -1,0 +1,4 @@
+    border: 0;
+    color: #fff;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.5)
+    background: #4f7dd4

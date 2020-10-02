@@ -1,0 +1,4 @@
+	margin: 0;
+	padding: 1.8rem 0 0 0;
+	padding-left: 5%;
+	padding-top: 1.8rem;

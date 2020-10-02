@@ -1,0 +1,7 @@
+        font-size: 25px;
+        text-transform: uppercase;
+        font-weight: 700;
+        padding-bottom: 25px;
+        font-family: 'Roboto Slab', serif !important;
+        color: #222222;
+        padding-top: 20px;

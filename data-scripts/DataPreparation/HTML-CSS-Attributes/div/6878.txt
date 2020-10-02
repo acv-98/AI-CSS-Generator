@@ -1,0 +1,1 @@
+ float:left; font-size:42px; color:#533c47;

@@ -1,0 +1,14 @@
+	display: -ms-flexbox;
+	-ms-flex-align: center;
+	    -webkit-align-items: center;
+	        align-items: center;
+	-ms-flex-pack: center;
+	    -webkit-justify-content: center;
+	        justify-content: center;
+	text-align: center;
+ font-size: 3rem; .tm-hero-subtitle { 
+	font-size: 1.4rem; 
+	margin-bottom: 0;
+	text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.8);
+		height: 100vh;
+		min-height: 100%;

@@ -1,0 +1,14 @@
+	color: #00cfef;
+    border: 1px solid #00cfef;
+    color: #00cfef;
+    margin-bottom: 30px;
+    max-width: 100%;
+	text-align: left;
+    border-bottom: 1px solid #d6d6d6;
+    padding: 8px 0;
+    float: left;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    transition: all .5s ease;

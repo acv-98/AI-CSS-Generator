@@ -1,0 +1,12 @@
+  background-position: -96px -24px;
+background-position:-96px -24px;background-position:-120px -24px; *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;'); [class^="icon-"], [class*=" icon-"] {
+  font-family: 'fontello';
+  font-style: normal;
+  font-weight: normal;
+ 
+  line-height: 1em;
+ *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;'); @font-face {
+  src: url('../font/fontello.eot?87773380');
+       url('../font/fontello.woff?87773380') format('woff'),
+       url('../font/fontello.ttf?87773380') format('truetype'),
+       url('../font/fontello.svg?87773380#fontello') format('svg');

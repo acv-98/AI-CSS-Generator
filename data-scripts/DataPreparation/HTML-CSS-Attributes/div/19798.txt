@@ -1,0 +1,14 @@
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  transform: translateY(-50%);
+    margin: 0;
+    max-width: none;
+    padding: 0;
+    margin-left: 0;
+    padding-left: 0;
+      clear: none !important;

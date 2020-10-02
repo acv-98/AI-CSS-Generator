@@ -1,0 +1,2 @@
+ position: relative;  background: url(images/header-cnt.png) no-repeat center 0;  
+ width: 728px;  padding: 0 20px;  width: 100%; padding: 0 10px; background: transparent; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; 

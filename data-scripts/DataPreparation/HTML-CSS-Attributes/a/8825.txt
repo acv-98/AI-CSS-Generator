@@ -1,0 +1,2 @@
+margin-left:0;background-image:none;
+.carousel-inner .active.left .carousel-inner .active.left .carousel-inner .active.left 

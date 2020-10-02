@@ -1,0 +1,8 @@
+    display: block;
+    width: 171px;
+    height: 44px;
+    text-indent: -9999px;
+    float: left;
+    margin-right: 20px;
+    background: url('../img/demo_sprite.png') no-repeat;
+    background-position: 0 -49px;

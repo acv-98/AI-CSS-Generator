@@ -1,0 +1,4 @@
+	padding-bottom: 40px;
+	color: #202020;
+	line-height: 20px;
+	padding-top: 14px;

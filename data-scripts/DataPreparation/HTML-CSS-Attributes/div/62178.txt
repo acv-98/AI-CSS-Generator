@@ -1,0 +1,10 @@
+	display:inline-block;
+	float:left;
+	width:580px;
+	padding-right:20px;
+	color:#ff7800;
+	list-style-type:none;
+	margin:20px 0 0;
+	font-size:1em;
+	font-weight:bold;
+	margin-bottom:10px;

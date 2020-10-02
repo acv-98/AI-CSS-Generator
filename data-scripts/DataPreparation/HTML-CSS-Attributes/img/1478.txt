@@ -1,0 +1,7 @@
+	left: 0px;
+	top: 0px;
+	transform: none !important;
+	-o-transform: none !important;
+	-ms-transform: none !important;
+	-moz-transform: none !important;
+	-webkit-transform: none !important;

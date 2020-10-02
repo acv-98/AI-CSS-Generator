@@ -1,0 +1,9 @@
+content: "";
+    background: #f4f8fb;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    left: 45%;
+    bottom: -20px;
+    transform: rotate(45deg);
+    border-radius: 47px;

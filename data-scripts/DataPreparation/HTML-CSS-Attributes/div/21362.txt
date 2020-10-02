@@ -1,0 +1,5 @@
+    width: 100%;
+    padding: 0 .9375rem !important;
+    display: none !important;
+    max-height: 35rem;
+    overflow-y: auto !important;

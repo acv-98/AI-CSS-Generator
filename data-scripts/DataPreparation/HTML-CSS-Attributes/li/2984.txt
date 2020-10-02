@@ -1,0 +1,2 @@
+	color:#fff;
+	background:url(images/menu_a.gif) repeat-x left top;

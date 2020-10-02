@@ -1,0 +1,26 @@
+	position: relative; 	
+	.block-keep-ratio__content {
+		position: absolute;
+		top: 0; bottom: 0; right: 0; left: 0;
+	display: block;
+	content: '';
+	padding-top: 100%; 	padding-top: 50%; .flexbox-center {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+ padding-top: 50%; 	.contact-page .main-navigation,
+	.gallery-page .main-navigation,
+	.main-navigation {
+		float: none;
+		overflow: auto;
+    	margin: 0 auto 80px;   
+    	padding-right: 0;
+    	width: 310px;
+    	max-width: 100%;

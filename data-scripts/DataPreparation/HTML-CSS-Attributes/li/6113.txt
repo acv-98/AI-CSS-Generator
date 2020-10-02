@@ -1,0 +1,2 @@
+	background: url(../img/icons/social2/flickr.png) no-repeat 0 0;
+	background-color: #f1628b;

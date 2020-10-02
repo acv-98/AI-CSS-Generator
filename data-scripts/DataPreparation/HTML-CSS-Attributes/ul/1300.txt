@@ -1,0 +1,12 @@
+  padding-top: 13px;
+  padding-left: 42px;
+  color: #ec9e9e;
+  position: relative;
+  background-color: #ffffff;
+  content: '';
+  width: 12px;
+  height: 12px;
+  border-radius: 500px;
+  left: 1px;
+  top: 8px;
+  margin-top: 6px;

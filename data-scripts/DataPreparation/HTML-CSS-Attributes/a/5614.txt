@@ -1,0 +1,8 @@
+	display: block;
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 32px;
+	margin-right: 5px;
+	margin-top: 7px;
+	height: 100%;
+	text-indent: -9000px;

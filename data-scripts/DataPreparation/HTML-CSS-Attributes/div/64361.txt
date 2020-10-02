@@ -1,0 +1,9 @@
+  top: 50%;
+  font-size: 62px;
+  font-weight: 300;
+  margin: 6px 0 20px;
+  color: #fff;
+content: "___";
+position: relative;
+  right: 20px;
+  left: 20px;

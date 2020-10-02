@@ -1,0 +1,17 @@
+	color:#467172;
+	font-size:14px;
+	font-weight:normal;
+	margin:0;
+	padding:0;
+	text-transform:capitalize;
+	text-shadow:1px 1px 0 #fff;
+	overflow:hidden;
+	display:block;
+	height:26px;
+	text-indent:-99999em;
+	width:38px;
+	float:left;
+	list-style:none;
+	background:url(../images/icons.gif) no-repeat 5px -444px;
+	text-align:left;
+	border:0;

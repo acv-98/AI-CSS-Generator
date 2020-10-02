@@ -1,0 +1,15 @@
+    background: #4eb478;	
+	float: left;
+	width:100%;
+	margin:0;
+	padding:0;
+	list-style:none;
+	-moz-transition: all 0.2s ease-in-out 0s;
+	-webkit-transition: all 0.2s ease-in-out 0s;
+	-o-transition: all 0.2s ease-in-out 0s;
+	-ms-transition: all 0.2s ease-in-out 0s;
+	transition: all 0.2s ease-in-out 0s;
+	margin-bottom:10px;
+	margin-top:10px;
+    color:#fff;
+		width:100%;

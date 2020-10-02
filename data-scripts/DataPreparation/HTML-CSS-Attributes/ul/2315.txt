@@ -1,0 +1,13 @@
+	list-style: none;
+	display: block;
+	margin-bottom: 0;
+	padding: 1.5em 0 0;
+	color: #fff;
+	font-size: 27px;
+	font-weight:600;
+	vertical-align: top;
+	letter-spacing:3px;
+padding-top: 6em;
+ font-size: 27px;
+ padding: 0 20px;
+ vertical-align: top;

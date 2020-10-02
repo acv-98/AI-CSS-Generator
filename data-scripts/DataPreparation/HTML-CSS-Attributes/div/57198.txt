@@ -1,0 +1,9 @@
+ width:296px; float:left; margin:0px; padding:18px 0px 0px 0px;
+ margin:0px 0px 0px 0px; padding:0px 0px 0px 5px;;.web_listing li{
+	list-style-type:none;
+	margin:0px 0px 0px 0px;
+	padding:10px 0px 0px 14px;
+	background-image: url(../images/list_bullet.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 14px;
+ text-decoration:underline; color:#7A924B; text-decoration:none; .content_right{

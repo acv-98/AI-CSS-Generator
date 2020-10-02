@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	background:#f8f8f8;
+	border-top:1px solid #dfdfdf;
+	width:960px;
+	line-height:1.5em;
+	white-space:nowrap;
+	text-indent:inherit;
+	color:#6d6d6d;
+	font-weight:normal;
+	text-decoration:underline;
+	background-color:transparent;
+	float:left;

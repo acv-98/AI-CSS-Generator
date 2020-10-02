@@ -1,0 +1,30 @@
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  content: " ";
+  display: table;
+  clear: both;
+    width: 750px;
+    margin-right: 0;
+    margin-left: 0;
+  border-radius: 6px;
+    padding-left: 60px;
+    padding-right: 60px;
+margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px;clear:both;content:" ";display:table;clear:both;.containermargin-right:-15px;margin-left:-15px;.navbar>.container .navbar-brandborder-radius:6px;.jumbotron        margin-bottom: 0;
+        width: auto;
+  height: 0; 
+  visibility: hidden;
+  overflow:hidden; 
+display: block; text-align: left; * html .column, * html div.span-1, * html div.span-2, 
+* html div.span-3, * html div.span-4, * html div.span-5, 
+* html div.span-6, * html div.span-7, * html div.span-8, 
+* html div.span-9, * html div.span-10, * html div.span-11, 
+* html div.span-12, * html div.span-13, * html div.span-14, 
+* html div.span-15, * html div.span-16, * html div.span-17, 
+* html div.span-18, * html div.span-19, * html div.span-20, 
+* html div.span-21, * html div.span-22, * html div.span-23, 
+display: inline-block;* html .clearfix,
+height: 1%;  background: none;
+ direction: rtl; body .column {
+  float: right;

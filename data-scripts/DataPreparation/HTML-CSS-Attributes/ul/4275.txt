@@ -1,0 +1,7 @@
+	list-style:none;
+	margin:0;
+	display:inline;
+	color:#50c0e9;
+	float:right;
+	font-size:14px;
+	position:relative;

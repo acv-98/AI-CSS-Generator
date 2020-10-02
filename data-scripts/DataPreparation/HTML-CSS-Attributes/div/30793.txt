@@ -1,0 +1,1 @@
+color:#DFD8D8; background:url("../images/intro_bg.png") top left repeat-x transparent;

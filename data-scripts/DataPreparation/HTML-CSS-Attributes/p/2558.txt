@@ -1,0 +1,1 @@
+display:none; background-color: #333;  background-color: #333;  width: 100%; position: absolute; overflow: hidden; height: 40px; display: block;  bottom: 42px; right: 20px; margin-bottom: 0; display: block; position: fixed; display: scroll; display: none; 

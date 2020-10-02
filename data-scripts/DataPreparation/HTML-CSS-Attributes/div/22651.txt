@@ -1,0 +1,5 @@
+	background-image: url(../images/dotted_line.png);
+	width: 939px;
+	height: 1px;
+	margin-bottom: 10px;
+	margin-top: -5px;

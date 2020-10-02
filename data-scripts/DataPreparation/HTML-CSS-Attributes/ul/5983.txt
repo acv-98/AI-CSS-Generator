@@ -1,0 +1,15 @@
+ margin-top: 20px ul.list-unstyled.bullet-lists li span.fa.fa-circle {
+    font-size: 8px;
+    vertical-align: middle;
+    margin-right: 10px;
+    color: #FFCC33;
+ padding: 5px 0  color: #FFCC33 .post-tab .nav-tabs > li > a {
+    line-height: 1.42857143;
+    border: 1px solid #ddd;
+    border-radius: 0px 0px 0 0;
+ color: inherit ul.list-inline.bullet-lists li {
+    background: #F8F8F8;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    transition: all 0.3s;
+ background: #FFCC33 .blog-post .post-wrap img,

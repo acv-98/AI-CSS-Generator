@@ -1,0 +1,5 @@
+	padding-left:13px;
+	background:url(../images/marker_1.gif) 0 6px no-repeat;
+	display:inline-block
+	margin-left:32px;
+	margin-top:13px

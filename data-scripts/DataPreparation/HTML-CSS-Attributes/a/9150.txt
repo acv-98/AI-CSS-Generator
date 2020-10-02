@@ -1,0 +1,7 @@
+	text-decoration:none
+	display:none
+	background:url(../images/pagin-1.png) 0 0 no-repeat
+	font-size:23px;
+	line-height:1.217em;
+	color:#080808;
+	margin-bottom:4px;

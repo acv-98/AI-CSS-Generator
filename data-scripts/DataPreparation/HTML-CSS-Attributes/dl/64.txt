@@ -1,0 +1,5 @@
+	display: inline;
+	margin: 0;
+	content: "\A";
+	white-space: pre;
+	margin-left: -0.2em;

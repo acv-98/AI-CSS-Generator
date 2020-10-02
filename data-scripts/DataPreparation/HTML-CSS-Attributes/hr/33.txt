@@ -1,0 +1,2 @@
+    border:0 !important;
+    margin:90px 0 !important;

@@ -1,0 +1,10 @@
+min-height: 100px;
+padding: 20px;
+display: block;
+float: left;
+margin: 0 15px 10px 0;
+width: 70px;
+line-height: 75px;
+vertical-align: middle;
+text-align: center;
+font-size: 40px;

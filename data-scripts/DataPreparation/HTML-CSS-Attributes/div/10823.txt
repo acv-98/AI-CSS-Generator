@@ -1,0 +1,6 @@
+	color: #ffffff;
+	font-size: 14px;
+	font-style: italic;
+	clear: both;
+	width: 940px;
+	margin-bottom: 10px;

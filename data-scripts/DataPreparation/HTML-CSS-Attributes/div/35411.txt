@@ -1,0 +1,17 @@
+  display: block;
+  max-width: 100%;
+  height: auto;
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  -webkit-transition: .6s ease-in-out left;
+          transition: .6s ease-in-out left;
+  line-height: 1;
+  left: 0;
+  top: 0;
+    width: 100%;
+    max-height: 650px;
+  margin-left:0;
+  margin-top:0;
+  margin-bottom:0;
+  padding-left: 0;

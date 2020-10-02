@@ -1,0 +1,17 @@
+	float: left;
+	text-align: center;
+	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	-moz-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	border: 1px solid #d5d5d5;
+	background-color: #f4f4f4;
+	font-style: normal;
+	text-transform: uppercase;
+	font-family: "ClassicRound-Medium";
+	width: 45px;
+	padding: 10px 0 10px 0;
+	margin-right: 20px;
+	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.99);
+	font-size: 13px;
+	margin-left: 10px;
+	color: #a4a4a4;

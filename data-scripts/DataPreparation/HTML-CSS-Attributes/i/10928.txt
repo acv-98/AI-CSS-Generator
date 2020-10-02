@@ -1,0 +1,2 @@
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf116;');
+  content: "\f116";

@@ -1,0 +1,13 @@
+    background: url(../images/quotes.png) right 0 no-repeat;
+    margin-top: -37px;
+    padding-top: 12px;
+    overflow: hidden;
+    float: right;
+    display: block;
+    font: bold 20px/48px 'Economica', sans-serif;
+    margin-right: 6px;
+    position: relative;
+    top: 1px;
+    font-size: 18px;
+    line-height: 48px;
+        padding-top: 30px;

@@ -1,0 +1,14 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-nav.png', sizingMethod='image');
+	position:relative;
+	list-style-type:none;
+	top:-30px;
+	right:13px;
+	float:left;
+	width:18px;
+	padding-right:2px;
+	height:19px;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	cursor:pointer;

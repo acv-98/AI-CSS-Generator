@@ -1,0 +1,1 @@
+background:#fff; display:inline-block; font-size:20px; line-height:25px; color:#353535; font-weight:bold; font-family: 'Open Sans Condensed', sans-serif; padding:9px 30px 10px 30px;background:#000; color:#fff;

@@ -1,0 +1,6 @@
+ padding: 54px 28px 	
+		float: left;
+		width: 100%;
+		line-height: 4em;
+ border-bottom: 1px solid #ccc; 	padding: 54px 20px 54px 20px;
+	font-size: 24px;

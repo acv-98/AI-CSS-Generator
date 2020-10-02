@@ -1,0 +1,5 @@
+    float: left;
+    width: 100%;
+    padding: 10px 0;
+    height: auto;
+display: flex;justify-content: center;display: flex;justify-content: center;

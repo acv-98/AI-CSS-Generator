@@ -1,0 +1,16 @@
+ 	list-style-type: none;
+ 	display: inline-block;
+ 	
+	font-family: 'BebasNeue Regular';
+	font-size: 9pt;
+	color: #E7E7E7;
+	margin-bottom: 0px;
+	padding-left: 23%;
+float: left;
+	text-decoration: none;
+	padding-right: 6px;
+	border-left: 1px solid #E7E7E7;
+	padding-top: 0px;
+	padding-bottom: 0px;
+		padding-left: 13%;
+		font-size: 11px;

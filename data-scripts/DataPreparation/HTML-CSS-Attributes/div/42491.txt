@@ -1,0 +1,5 @@
+	background-color: white; 
+	padding: 30px 45px;
+	max-width: 1600px;
+		padding-left: 30px;
+		padding-right: 30px;

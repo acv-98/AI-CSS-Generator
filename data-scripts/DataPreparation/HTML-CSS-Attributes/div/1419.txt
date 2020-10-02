@@ -1,0 +1,2 @@
+    background-image: url('../max-image/bussines-card.jpg');
+    background-size: cover;

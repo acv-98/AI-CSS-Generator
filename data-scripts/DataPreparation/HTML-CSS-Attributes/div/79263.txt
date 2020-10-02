@@ -1,0 +1,10 @@
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    height: 650px;
+    background-image: url(../images/slider-image1.jpg);
+    border: 1px solid #ffffff;
+    border-color: transparent;
+    color: #ffffff;
+      background-position: center;

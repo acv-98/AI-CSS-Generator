@@ -1,0 +1,6 @@
+	padding-bottom:0 !important;
+	background:none !important;
+	width:100%;
+	overflow:hidden;
+	float:left;
+	margin-right:20px;

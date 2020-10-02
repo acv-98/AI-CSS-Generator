@@ -1,0 +1,1 @@
+position:relative;content:""; position:absolute; bottom:9px; left:-40px; background:url(../images/shadow.png) 0 0 no-repeat; width:270px; height:21px;

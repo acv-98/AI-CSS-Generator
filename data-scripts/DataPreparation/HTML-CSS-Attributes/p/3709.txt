@@ -1,0 +1,10 @@
+	display:block;
+	width:55%;
+	color:#7eb9c4;
+	font-size:1.4em;
+	height:40px;
+	text-transform:capitalize;
+	margin:0 0 30px 0;
+	margin-right:.5em;
+	margin-bottom:10px;
+	text-decoration:underline;

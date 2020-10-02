@@ -1,0 +1,10 @@
+	float: left;
+	display: inline;
+	height: 20px;
+	width: 72px; 
+	background: url(images/lang-bg.gif) no-repeat 0 0; 
+	padding-left: 7px; 
+	font-size: 10px; 
+	line-height: 20px; 
+	color: #4d4d4d;
+	margin: 3px 5px 0;

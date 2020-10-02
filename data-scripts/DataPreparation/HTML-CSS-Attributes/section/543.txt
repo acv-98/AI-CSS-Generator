@@ -1,0 +1,2 @@
+ float:left; width:100%; max-width:331px
+ float:none;max-width:100% float:none;max-width:100%

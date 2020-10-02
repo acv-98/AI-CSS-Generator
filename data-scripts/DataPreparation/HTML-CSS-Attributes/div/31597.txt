@@ -1,0 +1,8 @@
+    padding-bottom: 7.143rem;
+    overflow: hidden;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size:2.286rem;
+    color:#1a1a1a;
+    width:70%;
+    margin:0 auto;

@@ -1,0 +1,18 @@
+ border-color: #dfdcdc;  font-size: 13px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  color: #6C6D03;  font-size: 12px; font-family: 'Open Sans', sans-serif; color: #656262; font-style: normal; font-weight: 400;  font-size: 10px; font-family: 'Open Sans', sans-serif; color: #213140; font-style: normal; font-weight: 400;  font-size: 13px; font-family: 'Open Sans', sans-serif; color: #1A5B7D; font-style: normal; font-weight: 400;  color: #6B0303;  display:none;  font-size: 11px  margin-top: 5px 
+    margin-top: 20px;
+    line-height: 20px;
+    margin-bottom: 10px;
+    position: relative;
+    margin-left: 70px;
+    min-height: 70px;
+    top: 0;
+    left: 0;
+    float: left;
+    margin-right: 10px;
+    border: 1px solid #CFCFCF;
+    padding: 3px !important;
+    font-size: 12px;
+    color: #AB5705;
+    font-style: normal;
+    text-decoration: none;
+ margin-bottom: 5px; .recent-post .hentry-post div.text {

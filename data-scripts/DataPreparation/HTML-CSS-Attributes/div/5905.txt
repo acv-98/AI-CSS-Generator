@@ -1,0 +1,4 @@
+	margin:0 auto;
+	padding:0;
+	color:#575c5c;
+	font:normal 12px "Times New Roman", Times, serif;

@@ -1,0 +1,1 @@
+width:172pxline-height:17pxwidth:280px; margin-left:3pxwidth:210pxborder-bottom:1px dotted #000; margin-left:10px; width:220pxfont-size:15pxfont-size:11pxcolor:#cf0000

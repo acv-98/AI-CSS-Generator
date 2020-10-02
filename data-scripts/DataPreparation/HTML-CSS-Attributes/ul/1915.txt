@@ -1,0 +1,15 @@
+	margin: 0;
+	padding: 0; 
+	display: -ms-flexbox; 
+	-ms-flex-direction: column;
+	    -webkit-box-orient: vertical;
+	    -webkit-box-direction: normal;
+	    -webkit-flex-direction: column;
+	        flex-direction: column;
+	margin-top: 100px;
+	margin-bottom: 100px;
+		-ms-flex-direction: row;
+		    -webkit-box-orient: horizontal;
+		    -webkit-box-direction: normal;
+		    -webkit-flex-direction: row;
+		        flex-direction: row;		

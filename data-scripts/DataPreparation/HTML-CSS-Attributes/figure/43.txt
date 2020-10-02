@@ -1,0 +1,8 @@
+	behavior: url("../js/PIE.htc");
+	position:relative;
+	padding:10px;
+	background:#fff;
+	box-shadow: 3px 5px 8px rgba(0, 0, 0, 0.70);
+	-moz-box-shadow: 3px 5px 8px rgba(0, 0, 0, 0.70);
+	-webkit-box-shadow: 3px 5px 8px rgba(0, 0, 0, 0.70)
+	border:1px solid #e5e5e5

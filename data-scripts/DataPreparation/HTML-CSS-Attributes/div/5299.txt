@@ -1,0 +1,8 @@
+	width:62.5%;
+	float: left;
+	color:#fff;
+	font-size:1em;
+	font-weight:100;
+	text-transform:uppercase;
+	margin:0;
+		font-size: 0.85em;

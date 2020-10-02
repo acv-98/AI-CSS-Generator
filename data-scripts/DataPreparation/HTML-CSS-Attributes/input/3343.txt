@@ -1,0 +1,9 @@
+	background: #e0356e;
+	border: none;
+	text-transform: none;
+	margin-top: 24px;
+	width: 100%;
+	border-radius:10px;
+	background-color: #f79b23;
+	color: #fff;
+	text-decoration: none;

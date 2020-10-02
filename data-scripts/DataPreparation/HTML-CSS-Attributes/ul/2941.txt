@@ -1,0 +1,5 @@
+  list-style-type: none;
+  text-indent: -0.75em;
+  margin-left: 25px;
+  width: .75em;
+  margin-bottom: 10px;

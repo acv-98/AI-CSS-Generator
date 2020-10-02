@@ -1,0 +1,6 @@
+	font-size:12px !important;
+	padding:10px !important;
+	line-height:25px !important;
+	border-bottom:1px solid #f6f4e7;
+	background:#f7f3e3;
+	padding-left:35px !important;

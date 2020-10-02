@@ -1,0 +1,3 @@
+	text-decoration:none;
+	cursor:pointer;
+	color:#2098f5;

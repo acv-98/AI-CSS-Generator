@@ -1,0 +1,6 @@
+	margin-top: 80px;
+	display: inline-block;
+	font-size: 30px;
+	padding: 4px 5px;
+	color: #fff;
+	transition: all 0.5s;

@@ -1,0 +1,39 @@
+ margin: 0px;  list-style: none; 
+.comment .comment-container {
+    margin-bottom: 32px;
+    position: relative;
+    left:34px;
+    top:80px;
+    width:54px;
+    height:100%;
+    overflow: hidden;
+ width: 33px; .comment.parent > div > .comment-container .parent-line span {
+    border:1px solid #ddd;
+    border-top:0;
+    border-right:0;
+    display:block;
+    margin-top:-16px;
+    padding: 2px;
+ display: block; .comment .comment-meta .date {
+    color: #676768;
+    font-size: 10px;
+    margin-right: 10px;
+    vertical-align: 0px;
+    background: #fff;
+ border-right: 0px;  margin-top: 0px;  line-height: 23px; .bypostauthor .comment-container .vcard img, .bypostauthor .comment-container .children .vcard img,.bypostauthor .children .bypostauthor .comment-container .vcard img,
+.bypostauthor .children .bypostauthor .children .comment-container .vcard img,.bypostauthor .children .bypostauthor .children .bypostauthor .comment-container .vcard img,
+.bypostauthor .children .bypostauthor .children .bypostauthor .children .bypostauthor .comment-container .vcard img,
+.bypostauthor .children .bypostauthor .children .bypostauthor .children .bypostauthor .children .bypostauthor .comment-container .vcard img {
+    border-color: #e5e6ad !important;
+    border-width: 3px !important;
+ background: #f8f7f7; .comment-container .vcard img, .comment-container .children .vcard img, .bypostauthor .children .comment-container .vcard img,
+.bypostauthor .children .bypostauthor .children .comment-container .vcard img, .bypostauthor .children .bypostauthor .children .bypostauthor .children .comment-container .vcard img,
+.bypostauthor .children .bypostauthor .children .bypostauthor .children .bypostauthor .children .comment-container .vcard img {
+ vertical-align: bottom;  margin-bottom: 0px; #respond .comment-form-comment textarea {
+    padding-left: 50px;
+    padding-top: 10px;
+	resize: none;
+ top: 12px; #respond p.comment-form-comment i {
+ width: 91.8% !important;  width: 94% !important; @media (min-width: 1200px) {
+ width: 93.5% !important;  width: 95.2% !important;  width: 33px;  width: 91.8% !important;  width: 94% !important;  left: 23px; top: 71px; width: 28px;  width: 89.4% !important;  width: 92.1% !important;  display: none;  margin-top: 10px;  margin-bottom: 3px;  width: 91.5% !important;  width: 81.9% !important;  border-color: #dfdcdc;  margin-top: 0  content: '\0000a0-\0000a0';  content: ''; .section.blog .post.sticky {
+ margin-right: 7px;  content: ""; 

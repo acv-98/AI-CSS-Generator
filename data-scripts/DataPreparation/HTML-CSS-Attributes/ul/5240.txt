@@ -1,0 +1,16 @@
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  list-style: none;
+  font-size: 24px;
+  height: 24px;
+  color: #000;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  text-decoration: none;
+  vertical-align: middle;
+    text-align: center;

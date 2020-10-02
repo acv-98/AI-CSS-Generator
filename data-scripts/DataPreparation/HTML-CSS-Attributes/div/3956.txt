@@ -1,0 +1,4 @@
+margin-top:40pxmargin-top:24pxpadding:18px 10px 0 40pxpadding:0px 20px 27px 30pxpadding-top:10px
+.privacy {
+	width:750px;
+	padding:0 0 0 0

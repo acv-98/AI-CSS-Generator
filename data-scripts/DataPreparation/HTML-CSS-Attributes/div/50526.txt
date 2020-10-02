@@ -1,0 +1,10 @@
+	padding:23px 0 0 0;
+	background:url(images/field-bg.gif) no-repeat 0 0;
+	width:163px;
+	height:12px;
+	border:0;
+	font-size:11px;
+	line-height:12px;
+	margin:0 8px 0 0;
+	color:#393333;
+	text-align:center;

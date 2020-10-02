@@ -1,0 +1,15 @@
+	background: url(../images/prettyPhoto/facebook/sprite.png) -88px -53px no-repeat
+	cursor: pointer
+	width: 22px;
+	height: 22px;
+	margin: 0 37px 0 0
+	margin-top: 0;
+	background-position: 0 -96px;
+	font-size: 15px;
+	padding: 0 3px 0 4px
+	float: left;
+	position: relative;
+	top: -1px;
+	margin-left: 5px;
+	overflow: hidden
+	color: #000

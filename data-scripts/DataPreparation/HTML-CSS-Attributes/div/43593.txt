@@ -1,0 +1,6 @@
+ height: auto; min-height: 26px; 
+ height: auto; min-height: 25px; 	margin-left: 0px;
+ margin-top: 11px;  margin-bottom: 0px; .contact-info ul li {
+    line-height: 26px;
+    height: 25px;
+    vertical-align: middle;

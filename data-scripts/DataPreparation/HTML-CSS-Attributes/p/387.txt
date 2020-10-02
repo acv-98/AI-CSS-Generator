@@ -1,0 +1,3 @@
+	font-size: .875em;
+	line-height: 23px;
+	padding-top: 10px;

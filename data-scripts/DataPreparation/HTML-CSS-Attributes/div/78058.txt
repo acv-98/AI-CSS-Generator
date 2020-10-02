@@ -1,0 +1,17 @@
+	float: left;
+	width: 960px;
+	height: 258px;
+	text-align: left;
+	overflow: hidden;
+	padding: 0 !important;
+	display: block;
+	cursor: pointer;
+	border-left: 1px solid #b9b9b9;
+	border-right: 1px solid #fff;
+	border-top: 1px solid #b9b9b9;
+	border-bottom: 1px solid #b9b9b9;
+	font-family: Arial;
+	font-size: 18px;
+	line-height: 20px;
+	color: #252525;
+	background: url(../images/thumbs_bg_h.jpg) repeat-x top center;

@@ -1,0 +1,4 @@
+	padding: 25px 0;
+	font-size: 38px;
+	line-height: 52px;
+	color: #444;

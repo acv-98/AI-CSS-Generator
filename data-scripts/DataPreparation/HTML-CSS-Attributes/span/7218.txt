@@ -1,0 +1,11 @@
+	float: right;
+	background: none;
+	color: #ffffff;
+	display: inine-block;
+	font-size: 17px;
+	height: 20px;
+	line-height: 20px;
+	width: 80px;
+	margin: 0;
+	padding: 0;
+	text-align: right;

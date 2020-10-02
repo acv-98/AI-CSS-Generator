@@ -1,0 +1,8 @@
+		border-radius:500px;
+		font-size:24px;
+		color:#fff;
+		text-align:center;
+		font-weight:400;
+		padding-top: 20px;
+		vertical-align: 40px;
+		text-transform: uppercase;

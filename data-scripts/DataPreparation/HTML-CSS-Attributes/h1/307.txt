@@ -1,0 +1,1 @@
+font-size:22px;font-size:18px; color:#e9e7cf; padding-bottom:10px; text-shadow: 0 1px 0 #000000;

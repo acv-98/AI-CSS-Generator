@@ -1,0 +1,10 @@
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	background-color: #c6001f;
+	font: 20px/18px 'Racing Sans One', cursive;
+	color: #fff;
+    padding: 7px 0 14px;
+	display: block;
+	text-align: center;
+	padding: 0 10px;

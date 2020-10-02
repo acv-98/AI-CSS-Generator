@@ -1,0 +1,7 @@
+	padding-bottom: 76px;
+	bottom: 53px;
+	margin-bottom: 32px;
+	border:1px solid #686868;
+	text-align:center;
+	border-bottom:1px solid #989797;
+	margin-top:51px

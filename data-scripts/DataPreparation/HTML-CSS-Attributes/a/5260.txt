@@ -1,0 +1,3 @@
+	background: url("../images/menu.gif");
+	background-position: 0 0;
+	background-repeat:no-repeat;

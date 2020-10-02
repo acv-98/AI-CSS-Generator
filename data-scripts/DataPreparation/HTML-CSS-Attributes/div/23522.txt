@@ -1,0 +1,1 @@
+display:table; height:inherit;display:table-cell;vertical-align: middle;

@@ -1,0 +1,7 @@
+
+	font: 19px/41px 'Glegoo', serif;
+	padding-top: 9px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #858080;
+	display: block;

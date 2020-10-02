@@ -1,0 +1,4 @@
+    color:#fff;
+    font-size:0.75rem;
+    margin-bottom:15px;
+    font-family: 'open_sansitalic';

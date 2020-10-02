@@ -1,0 +1,14 @@
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 82%, 0% 100%);
+            clip-path: polygon(0 0, 100% 0, 100% 82%, 0% 100%);
+    background: url("../../assets/images/header-background.png") no-repeat;
+    height: 800px;
+    position: relative;
+    background-size: cover;
+    content: '';
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(5, 180, 249, .9);
+    z-index: -1;

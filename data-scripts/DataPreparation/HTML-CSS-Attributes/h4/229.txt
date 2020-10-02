@@ -1,0 +1,4 @@
+	margin-bottom: 0px;
+	margin-top: 0;
+	color: #323232;
+	font-size: 16px;

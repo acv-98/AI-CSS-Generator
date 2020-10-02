@@ -1,0 +1,4 @@
+    list-style-position: inside;
+    padding: 4px 0;
+    border-bottom: 1px solid #ddd;
+    font-size: .6em;

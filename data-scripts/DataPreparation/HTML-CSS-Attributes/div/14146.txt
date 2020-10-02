@@ -1,0 +1,9 @@
+  position: relative;
+  padding-bottom: 15px;
+  margin-bottom: 21px;
+  content: '';
+  background-color: #5c627c;
+  width: 135px;
+  height: 3px;
+  bottom: 0;
+  left: 0;

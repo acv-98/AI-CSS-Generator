@@ -1,0 +1,1 @@
+margin-left:auto; margin-right:auto; width:1020px;width:45px;width:130px;width:215px;width:300px;width:385px;width:470px;width:555px;width:640px;width:725px;width:810px;width:895px;width:980px;	

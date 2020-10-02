@@ -1,0 +1,10 @@
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  min-height: 340px;
+  display: table-cell;
+  vertical-align: top;
+  width: 50%;
+  height: 500px;
+    display: block;
+    width: 100%;

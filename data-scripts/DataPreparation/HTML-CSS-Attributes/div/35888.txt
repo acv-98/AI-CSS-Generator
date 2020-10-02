@@ -1,0 +1,8 @@
+        font-size:1.5rem;
+.main_client_area .main_client_content .single_c_text h3{
+    margin:0;
+    padding: 0;
+    color: #ec4848;
+    font-weight: 700;
+    overflow: hidden;
+    display: inline-block;

@@ -1,0 +1,1 @@
+	background:url(../images/nav-act.png) repeat-x left top;

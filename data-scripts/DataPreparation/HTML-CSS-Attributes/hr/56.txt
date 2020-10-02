@@ -1,0 +1,2 @@
+    margin: 90px 0 0;
+    border: 0;

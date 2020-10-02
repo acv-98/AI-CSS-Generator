@@ -1,0 +1,6 @@
+ font-size:13px; padding:0 5px
+ padding-right:120px padding-right:0 width:100%; max-width:555px; margin:0 auto; position:relative border-radius:3px; background-color:transparent; border:1px solid #FFF; outline:none; height:58px; color:#FFF; font-size:16px; line-height:18px; padding-left:33px; padding-right:193px; width:100%;-webkit-border-top-right-radius: 3px;
+-webkit-border-bottom-right-radius: 3px;
+-moz-border-radius-topright: 3px;
+-moz-border-radius-bottomright: 3px;
+ background-color:#e1e1e1 padding-left:8px color:#e84d49; text-align:centercolor:#185005 

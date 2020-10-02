@@ -1,0 +1,8 @@
+    width: 32px;
+    height: 32px;
+    float: left;
+    padding: 0px;
+    margin: 0 2px;
+ width: 32px; height: 32px;  width: 18px; height: 18px; a.socials-square:hover, a.socials-square-small:hover,
+a.socials-default:hover, a.socials-default-small:hover {
+    background-position: left top !important;

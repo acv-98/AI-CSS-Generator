@@ -1,0 +1,12 @@
+	display:block;
+	float:left;
+	font-size:12px;
+	margin: 0px 25px 0px 25px;
+	padding-left:15px;
+	color:#000;
+	background:url(../images/bullet.png) no-repeat left;
+	border-bottom:1px dashed #ccc;
+	width:100%;
+	list-style-type:none;
+	position:relative;
+	text-decoration:none;

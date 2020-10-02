@@ -1,0 +1,4 @@
+	border-bottom:1px dashed #BBBBBC;
+	padding-bottom:15px;
+	padding-top:15px;
+	float:left;

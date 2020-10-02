@@ -1,0 +1,8 @@
+    width: 712px;
+    height: 367px;
+    opacity: 1;
+    bottom: 0px;
+    left: 0px;
+    z-index: 199;
+    display: none;
+    top: 0px;

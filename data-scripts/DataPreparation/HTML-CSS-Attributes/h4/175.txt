@@ -1,0 +1,5 @@
+	margin-top:10%;
+	color:#000;
+	font-size:1em;
+	text-decoration:none;
+	font-weight:600;

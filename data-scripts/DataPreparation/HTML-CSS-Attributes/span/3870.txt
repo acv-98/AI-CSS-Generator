@@ -1,0 +1,7 @@
+	border-left:5px solid #68A4C4;
+	display:block;
+	color:#a2a2a2;
+	font-family:'Noto Serif', serif;
+	font-size:14px;
+	line-height:1.6em;
+	padding-left:20px;

@@ -1,0 +1,1 @@
+ background: url(images/menu2-right.gif) right top no-repeat; color:#fff; text-decoration:none;background:url(images/menu2-left.gif) left top no-repeat;

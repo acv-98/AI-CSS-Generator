@@ -1,0 +1,9 @@
+float:right;margin-right:6pxfloat:left;margin-left:8px;.list-soc li a{display:block;
+  opacity: 1;
+padding-top:6pxpadding:0;.list {
+	padding:0 0 27px
+	margin-bottom:2px;
+	line-height:16px;
+	color:#fff;
+	font-size:14px;	
+	background:url(../images/marker-2.png) no-repeat 1px 5px;	

@@ -1,0 +1,8 @@
+    position: relative;
+    display: block;
+    overflow: hidden;
+    height: auto;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 200;
+    font-style: italic;

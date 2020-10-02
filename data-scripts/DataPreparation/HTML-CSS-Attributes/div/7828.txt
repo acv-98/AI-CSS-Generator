@@ -1,0 +1,6 @@
+  background-color: #d9edf7;
+  color: #333333;
+  font-size: 32px;
+  float: left;
+  padding: 0 0 10px 50px;
+  line-height: 24px;

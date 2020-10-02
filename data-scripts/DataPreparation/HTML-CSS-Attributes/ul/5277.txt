@@ -1,0 +1,1 @@
+background:none repeat scroll 0 0 #ffd62c; color:#333; outline:nonebackground-color:#ffd62c; color:#555

@@ -1,0 +1,6 @@
+	height:100%;
+	position:relative;
+	width:100%;
+	max-width:365px;
+	margin:auto;
+	bottom:-85px;

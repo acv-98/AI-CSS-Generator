@@ -1,0 +1,16 @@
+	color: #747474;
+	margin-top: 15px;
+	float: left;
+	display: block;
+	background: #c9e54e;
+	margin-right: 32px;
+	width: 48px;
+	height: 51px;
+	text-align: center;
+	font-size: 18px;
+	line-height: 18px;
+	text-transform: uppercase;
+	padding-top: 8px;
+	margin-bottom: 41px;
+		margin-top: 4px;
+	padding-bottom: 23px;

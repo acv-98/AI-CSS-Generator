@@ -1,0 +1,13 @@
+	background: #72D0F4;
+	padding: 6%;
+	margin-bottom:8%;
+	color:#fff;
+	font-size:1.1em;
+	text-transform:uppercase;
+	list-style-image: url(../images/a1.png);
+	vertical-align: top;
+	text-decoration: none;
+	padding-top: 8%;
+	float: left;
+		padding: 2%;
+		margin-bottom: 2%;

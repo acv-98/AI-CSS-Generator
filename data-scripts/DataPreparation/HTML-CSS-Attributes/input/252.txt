@@ -1,0 +1,12 @@
+	width:420px;
+	padding:7px 15px;
+	font-size:17px;
+	border:1px solid #fff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	color:#c7c7c7;
+	margin-right:5px;
+	font-weight:700;
+	background:url(images/bg_search.png) no-repeat top;
+	height:37px;
+	cursor:pointer;

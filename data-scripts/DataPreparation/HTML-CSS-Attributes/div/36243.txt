@@ -1,0 +1,14 @@
+ width: 80px;	
+	.footer-bottom{
+		padding-left: 28px;
+		padding-right: 28px;
+ width: 200px; width: 350px;	margin-bottom: 21px;
+	display: block;
+	float: left;
+	background: #f1f1f1;
+	line-height: 0em;
+	-webkit-box-shadow: 0px 0px 3px rgba(0,0,0,.5);
+	-moz-box-shadow: 0px 0px 3px rgba(0,0,0,.5);
+	-o-box-shadow: 0px 0px 3px rgba(0,0,0,.5);
+	box-shadow: 0px 0px 3px rgba(0,0,0,.5);
+	width: 140px;

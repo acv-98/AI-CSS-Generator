@@ -1,0 +1,2 @@
+ -webkit-animation-name: fadeInUpDelay; animation-name: fadeInUpDelay; animation-delay: 1s; -webkit-animation-delay: 1s; @-webkit-keyframes fadeInUp {
+ visibility: visible; 

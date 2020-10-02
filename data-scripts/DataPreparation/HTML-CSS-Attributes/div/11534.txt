@@ -1,0 +1,4 @@
+  margin-bottom: 90px;
+  color: #1f2021;
+  display: block;
+  padding-top: 100px;

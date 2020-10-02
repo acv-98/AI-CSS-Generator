@@ -1,0 +1,15 @@
+width:60%;width:100%; margin-left:0px;border:0px;   -webkit-transition: opacity .3s ease-in;
+   -moz-transition: opacity .3s ease-in;
+   -o-transition: opacity .3s ease-in;
+   transition: opacity .3s ease-in;
+	width:66%;
+	float:left;
+	padding: 0px;
+	margin-left:2%;
+	border: 1px solid #d5d5d5;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+	text-decoration:none;

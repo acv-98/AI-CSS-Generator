@@ -1,0 +1,2 @@
+	height: 15px;
+    background: url(images/content_divider_01.png) no-repeat bottom center;

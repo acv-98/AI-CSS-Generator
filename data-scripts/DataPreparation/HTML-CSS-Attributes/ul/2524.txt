@@ -1,0 +1,11 @@
+	color: #4eb478;
+	overflow:hidden;
+	display:inline-block;
+	text-align:left;
+	font-weight:600;
+	float:left;
+	margin-right:10px;
+	text-decoration:none;
+	font-size:11px;
+	margin-top:10px;
+	margin-left:60px;

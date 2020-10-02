@@ -1,0 +1,8 @@
+	float: left;
+	color: #252525;
+	width: 350px;
+	margin: 33px 0 0 70px
+	font-family: Verdana;
+	font-size: 24px;
+	line-height: 28px;
+	font-weight: normal;

@@ -1,0 +1,3 @@
+ overflow: auto; #google-map {
+    height: 360px;
+    width: 100%;    

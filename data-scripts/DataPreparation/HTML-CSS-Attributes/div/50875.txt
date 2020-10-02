@@ -1,0 +1,6 @@
+	width:320px;
+	padding:0 10px 0 0;
+	bottom:10px;
+	background:url(images/box-bor-b.gif) no-repeat 0 bottom;
+	min-height:210px;
+	height:auto !important;

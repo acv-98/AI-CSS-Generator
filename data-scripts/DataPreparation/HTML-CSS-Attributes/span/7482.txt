@@ -1,0 +1,4 @@
+	background: transparent url(../images/icon-postcomment.png) no-repeat left center;
+	width: 15px;
+	padding-left: 20px;
+	

@@ -1,0 +1,10 @@
+  margin-top: 57px;
+  background-color: #ec9e9e;
+  color: #ffffff;
+  padding: 14px 28px 28px;
+  font-size: 36px;
+  line-height: 52px;
+  font-weight: normal;
+  margin-bottom: 4px;
+  border-radius: 0 !important;
+  float: none !important;

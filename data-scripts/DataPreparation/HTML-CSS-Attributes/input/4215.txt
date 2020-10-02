@@ -1,0 +1,9 @@
+	padding: 20px;
+	border-radius: 50px;
+	background: #333333;
+	color: #ffffff;
+	width: 100%;
+	font-size: 15px;
+	outline: none;
+	opacity: 1;
+       font-size: 14px;

@@ -1,0 +1,11 @@
+	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	-moz-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+	border: 1px solid #d5d5d5;
+	background-color: #f4f4f4;
+	padding: 9px;
+	width: 160px;
+	margin: 0 15px 15px 0;
+	
+	max-width: 160px;
+	height: auto;

@@ -1,0 +1,12 @@
+	margin:0;
+	padding:0;
+	width:600px;
+	list-style:none;
+	float:right;
+	display:block;
+	color:#7b7a7a;
+	text-decoration:none;
+	font-size:13px;
+	line-height:16px;
+	border-top:5px solid #eeeeee;
+	font-weight:bold;

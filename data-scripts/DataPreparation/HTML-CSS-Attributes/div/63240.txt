@@ -1,0 +1,5 @@
+	float:right;
+	width:310px;
+	padding:0 39px 0 0;
+	line-height:15px;
+	padding-bottom:14px;

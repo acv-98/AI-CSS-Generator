@@ -1,0 +1,18 @@
+    color: #ffffff !important;
+    background-color: #3197d6 !important;
+        position: relative;
+    border-radius: 0;
+    margin-bottom: 1.4rem;
+    font-size: 12px;
+    min-height: 45px;
+    text-transform: none;
+    font-weight: 400;
+    min-width: 240px;
+    border-right: 0;
+    padding: 0;
+    border-color: #edeff2 !important;
+    height: 45px;
+    right: 0;
+    width: 45px;
+    line-height: 45px;
+    margin-left: 0

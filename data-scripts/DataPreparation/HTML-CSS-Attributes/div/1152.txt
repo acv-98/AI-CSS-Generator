@@ -1,0 +1,8 @@
+	overflow:hidden;
+	text-align:right;
+	margin-top:35px;
+	display:inline-block;
+	width:23px;
+	height:23px;
+	float:right;
+	background-position:0 bottom;

@@ -1,0 +1,3 @@
+		margin-right: 15px;
+		border-radius: 0px;
+	background: #cfa671;

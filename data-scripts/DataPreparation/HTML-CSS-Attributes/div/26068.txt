@@ -1,0 +1,9 @@
+  width: 110px;
+  height: 110px;
+  display: block;
+    height: auto;
+    width: 100%;
+    margin-right: 0;
+    float: left;
+    display: inline-block;
+    margin-bottom: 10px;

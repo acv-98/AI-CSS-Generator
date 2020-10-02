@@ -1,0 +1,2 @@
+background:#043e7f; overflow:hidden; padding-bottom:20px; width:960px; margin:0 auto; overflow:hidden; margin-top:60px; float:left; width:300px; margin-bottom:30px;margin-top:20px;list-style:none;  border-bottom:#104f94 solid 1px; color:#85aedb; text-decoration:none; line-height:40px; font-size:14px;color:#ffc01d;
+ float:left; margin-right:20px; text-decoration:underline; color:#ffc01d; color:#85aedb; font-size:14px; padding-top:6px;

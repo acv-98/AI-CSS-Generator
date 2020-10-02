@@ -1,0 +1,7 @@
+	margin-top:-7px
+	line-height:20px;
+	padding:10px 0;
+	background:url(../images/pic-2.gif) 0 bottom repeat-x;
+	display:inline-block;
+	padding-left:30px;
+	color:#fff;

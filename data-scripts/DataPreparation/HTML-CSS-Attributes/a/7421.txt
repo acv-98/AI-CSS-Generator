@@ -1,0 +1,2 @@
+	color: #fbb100;
+	background: url(images/menu_current.png) top center no-repeat;

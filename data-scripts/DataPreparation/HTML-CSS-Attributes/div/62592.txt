@@ -1,0 +1,9 @@
+	font-size: 0;
+	line-height: 0;
+	display: inline-block;
+	width: 36px;
+	height: 36px;
+	border-radius: 500px;
+	background-color: #a2cac2;
+	color: #fff;
+	margin-left: 14px;

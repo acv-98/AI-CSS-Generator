@@ -1,0 +1,10 @@
+	color: #C54A4A;
+	height: 95px;
+	width: 95px;
+	text-align: center;
+	line-height: 98px;
+	margin: 0 2px 4px;
+	font-size: 75px;
+	-webkit-transition:all .3s;
+	-moz-transition:all .3s;
+	transition:all .3s;

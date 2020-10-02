@@ -1,0 +1,14 @@
+  color: #f54c53;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  padding: 4px 20px;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  border-radius: 7px;
+  background: #fff;

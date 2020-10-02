@@ -1,0 +1,10 @@
+	padding: 50px 50px 40px 50px;
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	font-size: 48px;
+	font-weight: 700;
+	color: #FFF;
+	margin-bottom: 20px;
+	letter-spacing: 1px;
+	line-height: 1.4;
+	margin-top: 30px;

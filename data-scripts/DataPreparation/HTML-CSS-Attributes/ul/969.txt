@@ -1,0 +1,6 @@
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    margin-left: 0;
+	margin-left:0;
+	margin-bottom:5px;

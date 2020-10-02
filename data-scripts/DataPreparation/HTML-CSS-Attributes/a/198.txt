@@ -1,0 +1,8 @@
+	background:url(../images/button2_bg.gif) top repeat-x;
+	display:inline-block;
+	font-size:20px;
+	color:#363636;
+	line-height:34px;
+	text-decoration:none;
+	padding:0 40px;
+	height:39px;

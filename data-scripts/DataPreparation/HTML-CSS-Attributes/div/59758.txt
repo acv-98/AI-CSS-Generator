@@ -1,0 +1,18 @@
+	margin-right:10px;
+	width:200px;
+	float:right;
+	padding-top:40px;
+	list-style:none;
+	display:block;
+	height:auto;
+	min-height:125px;
+	background:url(../images/bg-date.gif) no-repeat;
+	color:#E1FFF3;
+	font-size:15px;
+	font-weight:bold;
+	line-height:30px;
+	margin-top:8px;
+	text-align:center;
+	text-transform:uppercase;
+	padding-bottom:10px;
+	border:none;

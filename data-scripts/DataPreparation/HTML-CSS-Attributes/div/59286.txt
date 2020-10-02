@@ -1,0 +1,6 @@
+	margin:0;
+	padding:0;
+	float:right;
+	width:280px;
+	border-left:2px dashed #cbcbcb;
+	border-bottom:2px dashed #cbcbcb;

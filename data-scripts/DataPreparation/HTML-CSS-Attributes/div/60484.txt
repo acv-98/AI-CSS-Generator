@@ -1,0 +1,8 @@
+  overflow: hidden;
+  margin-bottom: 40px;
+  font-size: 18px;
+  font-weight: normal;
+  display: block;
+  color: #2c2c2c;
+  opacity: 1;
+  visibility: visible;

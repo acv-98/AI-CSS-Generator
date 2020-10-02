@@ -1,0 +1,7 @@
+ padding-right: 30px;  padding-right: .9375rem; 
+.tm-2-col-right {
+	padding-left: .9375rem;
+	padding-top: 14px;
+ padding-right: 20px;  padding-right: 25px; 	.tm-2-col-right { 
+		padding-left: 25px; 
+		padding-top: 0;

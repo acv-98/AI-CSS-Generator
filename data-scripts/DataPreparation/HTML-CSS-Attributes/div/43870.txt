@@ -1,0 +1,9 @@
+color:#000;
+text-shadow:none;
+		color: #000;
+		text-shadow: none;
+		font-weight: 300;
+		font-size: 19px;
+		line-height: 19px;
+		font-family: 'Open Sans', sans;
+	background-color:#22262e;

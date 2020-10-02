@@ -1,0 +1,12 @@
+font-size:7px;.android_excerpt_content img {
+float: none;
+margin-right: 0;
+padding: 7px;
+width: 212px;
+display: block;
+font-size:10px;.blog_home_content_sidebar {
+  width: 300px;
+.android_post_meta p{padding: 10px;
+color: #35A1FB;
+font-weight: bold;
+color:#000000;

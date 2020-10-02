@@ -1,0 +1,3 @@
+float:left;
+margin:14.5px 0 0 30px;
+display:inline;

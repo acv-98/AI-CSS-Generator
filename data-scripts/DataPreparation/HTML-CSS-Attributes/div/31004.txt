@@ -1,0 +1,9 @@
+    margin-top: 25px;
+    padding-left: 50px;
+ color: #ddd; .testimonials .test-author img {
+    float: left;
+    margin-right: 20px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+ padding-left: 0;  padding-left: 50px; padding-right: 50px;  color: #ddd;  padding-left: 0;  padding-left: 50px; padding-right: 50px;  color: #ddd;  padding-left: 0;  padding-left: 50px; padding-right: 50px; 

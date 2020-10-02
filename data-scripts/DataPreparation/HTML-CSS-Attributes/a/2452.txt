@@ -1,0 +1,2 @@
+ background-color: #CB6666; .tm-button-red:focus,
+ background-color: #f37373; 

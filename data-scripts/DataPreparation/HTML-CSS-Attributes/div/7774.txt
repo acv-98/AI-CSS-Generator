@@ -1,0 +1,4 @@
+	margin:0 0 20px;
+	padding:41px 0 0;
+	list-style:none;
+	background:url(../images/bg-steps.png) no-repeat 50% 0;

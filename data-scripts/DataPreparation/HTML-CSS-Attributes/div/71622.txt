@@ -1,0 +1,8 @@
+	float: left;
+	position: relative;
+	width: 83px;
+	height: 53px;
+	padding: 3px;
+	top: 0;
+	left: 0;
+	background: url(images/news_image_frame.png) no-repeat;

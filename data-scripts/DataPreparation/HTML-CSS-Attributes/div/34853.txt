@@ -1,0 +1,8 @@
+  height: 100%;
+    padding-top: 1em;
+    max-width: 12.5em;
+    margin-left: auto;
+    margin-right: auto;
+    content: " ";
+    display: block;
+    clear: both;

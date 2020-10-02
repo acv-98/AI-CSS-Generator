@@ -1,0 +1,7 @@
+margin-bottom: 0 !important;margin: 0 -20px !important;margin-bottom: 0 !important;padding: 30px 15px !important;font-size: 25px !important;line-height: 32px !important; padding-bottom: 10px !important;font-size: 15px !important; line-height: 22px !important;padding-bottom: 15px !important;margin-bottom: 15px !important;padding: 5px !important; font-size: 15px !important; line-height: 20px !important;  
+  .nav-collapse {
+    -webkit-transform: translate3d(0, 0, 0);
+font-size: 20px; line-height: 30px; color: #626262; font-family: 'source_sans_prolight'; padding-bottom: 30px; font-weight: normal;  .contact-info form input[type="text"], input[type="email"], textarea{background: #1b1b1b; border: 1px solid #292929; 
+margin-right: 12px; min-height: 38px; font-family: 'source_sans_proregular';min-height: 38px; font-family: 'source_sans_proregular';margin-bottom: 20px; font-family: 'source_sans_proregular';  .contact-info form .btn{background: #c2a270; color: #1b1b1b; font-size: 18px; line-height: 22px; font-family: 'fjalla_oneregular';
+background: #545454; color: #c2a270;   Sidebar styles starts here
+   Footer styles starts here

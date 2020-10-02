@@ -1,0 +1,7 @@
+  display: none;
+  padding: 30px;
+  border: 1px solid red !important;
+  letter-spacing: 0;
+  text-transform: none;
+  font-weight: bold;
+  font-size: 18px;

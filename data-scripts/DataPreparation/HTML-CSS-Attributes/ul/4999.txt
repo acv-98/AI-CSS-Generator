@@ -1,0 +1,11 @@
+	float: right;
+	font-family: 'Roboto Condensed',sans-serif;
+	color: #333333;
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 30px 15px;
+    text-shadow: none;
+		font-size: 16px;
+		padding: 25px 12px;
+		float: left;

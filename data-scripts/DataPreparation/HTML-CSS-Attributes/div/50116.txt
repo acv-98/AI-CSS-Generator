@@ -1,0 +1,1 @@
+width:623px; background:url(images/box-top.gif) no-repeat; width:291px;  background:url(images/sidebar-top.gif) no-repeat; padding-top:15px; padding-left:10px

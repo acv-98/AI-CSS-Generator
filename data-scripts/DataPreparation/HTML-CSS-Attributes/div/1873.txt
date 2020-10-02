@@ -1,0 +1,18 @@
+  background: transparent !important;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  display: block;
+  color: #ff5821;
+  text-align: left;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+  margin-right: 10px;
+  border-color: white;
+  border-width: 3px;
+  line-height: 23px;
+  width: 26px;
+  height: 26px;

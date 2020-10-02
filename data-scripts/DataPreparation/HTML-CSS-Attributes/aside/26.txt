@@ -1,0 +1,4 @@
+  display: inline-block;
+  float: left;
+  min-height: 300px;
+  width: 100%;

@@ -1,0 +1,1 @@
+width:580px;  overflow:hidden; padding-top:30px; padding-left:30px;width:100%; background:#f3f3ee; float:left;   padding-bottom:30px;width:580px; margin:0 auto; overflow:hidden; padding-top:30px;color:#cf9359; font-size:22px; padding-top:20px; font-weight:normal;padding-top:10px;

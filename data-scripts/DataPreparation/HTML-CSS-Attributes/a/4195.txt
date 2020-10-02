@@ -1,0 +1,3 @@
+	background-image:none;
+	margin:0px;
+	color:#F26522;

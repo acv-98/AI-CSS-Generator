@@ -1,0 +1,4 @@
+	padding:140px 0 30px;
+	color:#fff;
+	font-size:32px;
+	margin-bottom:-20px;

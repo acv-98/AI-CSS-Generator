@@ -1,0 +1,2 @@
+padding:80px 0;position:absolute; bottom:0; left:50%; width:0; height:0; margin-left:-15px; border:15px solid; content:"";
+color:#FFFFFF;background:transparent; border-color:transparent; border-bottom-color:#FFFFFF;

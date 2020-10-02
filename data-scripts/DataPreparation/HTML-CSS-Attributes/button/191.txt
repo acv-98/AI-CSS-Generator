@@ -1,0 +1,5 @@
+    background: #69c6ba;
+    border: none;
+    border-radius: 0;
+    outline: none;
+ background: #c66995; 

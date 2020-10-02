@@ -1,0 +1,11 @@
+	position:relative;
+	right:-10px;
+	width:295px;
+	height:65px;
+	margin:0;
+	padding-left:5px;
+	background:url("../design/title.png") 0 0 no-repeat;
+	font-size:140%;
+	font-weight:normal;
+	line-height:45px;
+	color:#333;

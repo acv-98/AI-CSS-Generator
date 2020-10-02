@@ -1,0 +1,9 @@
+	font-size:20px;
+	padding:7px 10px;
+	border:1px solid #fff;
+	background:#fff url(images/bg_search.png) repeat-x top;
+	width:405px;
+	color:#bfbfbf;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	float:left;

@@ -1,0 +1,5 @@
+  padding-right: 9px;
+  padding-left: 9px;
+  -webkit-border-radius: 100em;
+     -moz-border-radius: 100em;
+          border-radius: 100em;

@@ -1,0 +1,5 @@
+	height: 200px;
+	overflow: hidden;
+	width: 100%;
+	position: relative;
+color:#f5bc04

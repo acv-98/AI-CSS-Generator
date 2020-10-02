@@ -1,0 +1,1 @@
+ width: 72px; height: 30px; background: url(images/more-btn.png) no-repeat 0 0; text-align: center; padding: 0 29px 2px 25px; display: block; line-height: 30px; font-size: 12px; color: #405d6f; text-shadow: rgba(255,255,255,0.6) 1px 1px 1px;  color: #21313a; text-decoration: none; 

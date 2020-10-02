@@ -1,0 +1,9 @@
+    padding: 13px 40px;
+    outline: inherit;
+    color: #ffffff;
+    background-color: #464646;
+    margin-right: 15px;
+    font-size: 1.8rem;
+    border-color: transparent;
+    margin-top: 15px;
+    padding-left:7px;

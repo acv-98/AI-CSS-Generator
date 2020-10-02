@@ -1,0 +1,13 @@
+ width: 162px;  width: 185px; 	
+ width: 140px; 	display: block;
+	text-decoration: none;
+	color: #444;
+	line-height: 1em;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	float: left;
+	width: 184px;
+	margin-left: 7px;
+	font-size: 13px;

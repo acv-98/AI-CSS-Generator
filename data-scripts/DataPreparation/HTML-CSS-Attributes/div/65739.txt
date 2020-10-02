@@ -1,0 +1,5 @@
+    background-color: #322e2f;
+    border: none;
+    margin-bottom: 0;
+	border: 0;
+	background: none;

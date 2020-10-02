@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	width:960px;
+	line-height:1.5em;
+	background:url(../images/footer_bg.gif) repeat-x left bottom;
+	white-space:nowrap;
+	text-indent:inherit;
+	color:#c9e7e9;
+	font-weight:normal;
+	border:none;
+	text-decoration:underline;
+	background-color:transparent;
+	float:left;

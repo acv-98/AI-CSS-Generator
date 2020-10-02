@@ -1,0 +1,6 @@
+margin-bottom:10px;overflow:hidden;border-radius:5px;.home_sidebar_apps h3{font-size: 13px;
+height: 32px;
+padding: 3px;
+border-bottom:0px solid #DDDDDD;.footer_top_area{background: none repeat scroll 0 0 #E9F5FF;
+border-top: 3px solid #35A1FB;
+margin-top: 25px;

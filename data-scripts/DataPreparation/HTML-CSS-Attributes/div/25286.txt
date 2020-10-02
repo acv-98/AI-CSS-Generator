@@ -1,0 +1,2 @@
+ width: 915px; margin: 0 auto; 
+ position: relative;  position: relative;  background: url(images/main-arr.png) no-repeat 0 0; width: 19px; height: 11px; position: absolute; top: -46px; left: 18px; 

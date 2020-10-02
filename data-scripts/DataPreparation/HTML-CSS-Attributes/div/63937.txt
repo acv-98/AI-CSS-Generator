@@ -1,0 +1,4 @@
+  z-index: 10;
+color: #000000;background-color: #eb4800;color: #fff;display:inline-block;padding:4px 18px; width: auto;-ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';opacity: 0.8;bottom: 61px;    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;

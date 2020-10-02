@@ -1,0 +1,9 @@
+ margin: 0.5% 0 0.5% 1%;  width: 100%; 	
+	.do-5grid .do-1u, .do-5grid .do-2u, .do-5grid .do-3u, .do-5grid .do-4u, .do-5grid .do-5u, .do-5grid .do-6u, .do-5grid .do-7u, .do-5grid .do-8u, .do-5grid .do-9u, .do-5grid .do-10u, .do-5grid .do-11u, .do-5grid .do-12u {
+		margin: 1% 0 1% 2%;
+		float: left;
+		content: '';
+		display: block;
+		clear: both;
+		height: 0;
+ width: 100%; 	.do-5grid-flush .do-1u, .do-5grid-flush .do-2u, .do-5grid-flush .do-3u, .do-5grid-flush .do-4u, .do-5grid-flush .do-5u, .do-5grid-flush .do-6u, .do-5grid-flush .do-7u, .do-5grid-flush .do-8u, .do-5grid-flush .do-9u, .do-5grid-flush .do-10u, .do-5grid-flush .do-11u, .do-5grid-flush .do-12u {

@@ -1,0 +1,13 @@
+	position: relative;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+	border: none;
+	-webkit-transition: background-color 0.1s ease-out, color 0.1s ease-out;
+	-moz-transition: background-color 0.1s ease-out, color 0.1s ease-out;
+	-o-transition: background-color 0.1s ease-out, color 0.1s ease-out;
+	transition: background-color 0.1s ease-out, color 0.1s ease-out;
+	opacity: 1;
+	outline: 0;
+	color: #61c168;
+	text-decoration: none;

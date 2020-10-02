@@ -1,0 +1,3 @@
+	width:680px;
+	background:#ffffff url(../images/right.jpg) left top no-repeat;
+	float:left;

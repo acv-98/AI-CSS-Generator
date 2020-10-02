@@ -1,0 +1,1 @@
+ clear:left; float:left; width:712px; background:url(../images/serv_1pxx.gif) repeat; margin-top:15px;

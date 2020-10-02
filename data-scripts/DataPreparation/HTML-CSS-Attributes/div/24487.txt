@@ -1,0 +1,7 @@
+  display: block;
+  margin-bottom: 2px;
+  font-size: 12px;
+  background: #00c0ef;
+  border-color: #00c0ef;
+  color: #ffffff;
+  border-left-color: #00c0ef;

@@ -1,0 +1,10 @@
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:30px;
+	color:#0277a8;
+	padding:4px 0 16px 0;
+	background:#F6F7F9;
+	border-left:#E9EBEC 1px solid;
+	border-right:#E9EBEC 1px solid;
+	width:818px;
+	margin:0 auto;
+	float:left;

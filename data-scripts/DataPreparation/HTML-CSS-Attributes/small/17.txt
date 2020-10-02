@@ -1,0 +1,10 @@
+  right: 0;
+  left: auto;
+  float: none!important;
+  margin-right: 0;
+  border-left-width: 1px;
+  border-right-width: 0;
+  padding-right: 15px;
+  padding-left: 0;
+  text-align: right;
+  content: '';

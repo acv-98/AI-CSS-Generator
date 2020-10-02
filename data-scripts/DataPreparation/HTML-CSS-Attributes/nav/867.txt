@@ -1,0 +1,6 @@
+	padding: 8px 15px;
+	font-size: 16px;
+	background: #AD1457;
+	color: #ffffff;
+	border-radius: 2px;
+	font-weight: 600;

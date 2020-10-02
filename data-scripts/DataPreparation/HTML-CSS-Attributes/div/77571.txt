@@ -1,0 +1,5 @@
+	width:300px;
+	float:left;
+	margin-right:30px;
+	background:#ffe68f url(../images/postbg.jpg) 0 0 no-repeat;
+	height:82px;

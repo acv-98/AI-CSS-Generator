@@ -1,0 +1,6 @@
+	clear:both;
+	padding:32px 0;
+    content:"";
+    display:table;
+    clear:both;
+		padding:64px 0;

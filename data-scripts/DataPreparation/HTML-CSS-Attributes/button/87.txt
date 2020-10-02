@@ -1,0 +1,4 @@
+    background: red;
+    border: 0px;
+    color: #fff;
+    outline: none;

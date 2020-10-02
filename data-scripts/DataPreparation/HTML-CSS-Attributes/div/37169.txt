@@ -1,0 +1,10 @@
+	float:right;
+	width:250px;
+	padding:25px 0;
+	display:block;
+	background:#FFF;
+	height:29px;
+	margin:0;
+	border:1px solid #e1dddd;
+	color:#afaeae;
+	font:normal 12px/15px Arial, Helvetica, sans-serif;

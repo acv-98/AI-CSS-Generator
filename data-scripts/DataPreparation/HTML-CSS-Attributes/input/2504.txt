@@ -1,0 +1,9 @@
+  padding-left: 10px;
+  height: 40px;
+  font-size: 18px;
+  color: #818285;
+  font-weight: 300;
+  outline: none;
+  border: 1px solid #dbb075;
+  margin-top: 20px;
+  border-radius: 4px;

@@ -1,0 +1,1 @@
+background: #262626; border-top: 0; border-bottom: 1px dotted #999; padding: 20px 0 40pxcolor: #999999; margin: 0 0 20px 0; font-size: 22px; text-align: center

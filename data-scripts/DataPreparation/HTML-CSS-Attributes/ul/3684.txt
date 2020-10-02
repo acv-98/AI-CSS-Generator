@@ -1,0 +1,8 @@
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	display: inline;
+	float: left;
+	width: 120px;
+	height: 120px;
+	border: 5px solid #d7c88e;

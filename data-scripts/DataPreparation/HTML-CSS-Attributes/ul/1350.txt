@@ -1,0 +1,13 @@
+	margin:0px 0px 0px 102px;
+	display:inline-block;
+	float:left;
+	width:150px;
+	text-align:center;
+	text-transform:uppercase;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:13px;
+	line-height:17px;
+	color:#86a5a3;
+	border-left:#c2dcdb 1px solid;
+	padding:16px 0 21px 0;
+	background:#839e9c;

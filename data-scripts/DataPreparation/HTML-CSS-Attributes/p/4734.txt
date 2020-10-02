@@ -1,0 +1,8 @@
+	float:left;
+	color:#aeadad;
+	height:43px;
+	font:normal 11px/43px Tahoma, Arial, Helvetica, sans-serif;
+	padding-left:52px;
+	margin-top:73px;
+	text-align:center;
+	text-decoration:none;

@@ -1,0 +1,2 @@
+.head_title{
+    margin-bottom: 40px;

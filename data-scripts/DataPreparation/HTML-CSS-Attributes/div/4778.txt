@@ -1,0 +1,6 @@
+	margin:0 auto;
+	padding:25px 0;
+	width:920px;
+	background:url(images/footer_bg.gif) top repeat-x;
+	color:#4b4b4b;
+	font:normal 12px Arial, Helvetica, sans-serif;

@@ -1,0 +1,4 @@
+		.columns .main {
+			margin-left: 80px;
+			width: 720px;
+ width: 140px;  margin-bottom: 55px; 

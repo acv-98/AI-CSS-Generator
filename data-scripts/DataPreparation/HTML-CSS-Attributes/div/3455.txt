@@ -1,0 +1,16 @@
+	padding:103px 0 0 60px;
+	float:none;
+	font-size:32px;
+	line-height:40px;
+	font-weight:300;
+	color:#fff;
+	letter-spacing:-2px;
+	display:block;
+	background:url(../images/bg_button1.gif) top repeat-x #b3b3b3;
+	text-decoration:none;
+	text-transform:uppercase;
+	behavior:url("../js/PIE.htc");
+	position:relative;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;

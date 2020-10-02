@@ -1,0 +1,14 @@
+	background:url("../images/bg-search-form2.gif");
+	background-position:center;
+	background-repeat:no-repeat;
+	width:540px;
+	height:75px;
+	margin:0 auto;
+	margin-top:80px;
+	margin-bottom:80px;
+	padding: 8px 5px;
+	border:0;
+	font-size:14px;
+	font-family:"Myriad Pro";
+	color:#7f7154;
+	cursor:pointer;

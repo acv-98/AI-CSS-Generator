@@ -1,0 +1,8 @@
+ margin-bottom:10px;
+	float: right;
+	position: relative;
+	background:#DBCDBB;
+	padding:15px;
+	margin-bottom:10px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;

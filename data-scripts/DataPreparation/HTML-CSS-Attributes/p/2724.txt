@@ -1,0 +1,12 @@
+	font-size: 3.571em; 
+	line-height: 0.76em; 
+	padding: 0.04em 0.12em 0 0; 
+	float: left;
+	display:block;
+	margin:0 8px 0 0;
+	background: #606060;
+	color: #fff;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	

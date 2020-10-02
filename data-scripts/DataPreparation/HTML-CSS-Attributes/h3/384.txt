@@ -1,0 +1,1 @@
+ background: url(images/starter-ico.png) no-repeat 0 0; 

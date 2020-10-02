@@ -1,0 +1,3 @@
+    width: 575px;
+    overflow: hidden;
+    float: left;

@@ -1,0 +1,4 @@
+			background-size: 10em;
+			padding: 1.5em 1.5em 3em 1.5em;
+		padding-bottom: 3em;
+			color: inherit;

@@ -1,0 +1,9 @@
+  background-color: #C4C4C4;
+  overflow: hidden;
+  padding:20px;
+  color: #696969;
+  float: left;
+  font-size: 24px;
+  margin-top: 7px;
+  padding-top: 1px;
+    padding: 0 10px 7px;

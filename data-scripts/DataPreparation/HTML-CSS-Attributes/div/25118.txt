@@ -1,0 +1,6 @@
+	width: 260px;
+	float: left;
+	padding: 20px 42px 0px 0px;
+	background-image: none;
+	padding-right: 42px;
+	padding-top: 0px;

@@ -1,0 +1,11 @@
+	font-style: italic;
+	position: relative;
+	padding-bottom: 12px;
+	display: inline-block;
+	margin-bottom: 12px;
+	content: "";
+	left: 0;
+	bottom: 0;
+	width: 50px;
+	height: 2px;
+	background: #f38181;

@@ -1,0 +1,7 @@
+	display:block;
+	margin: 0 auto;
+	border:none;
+	opacity:0.8;
+	filter:alpha(opacity=80);
+	width: 30px;
+	height:30px;

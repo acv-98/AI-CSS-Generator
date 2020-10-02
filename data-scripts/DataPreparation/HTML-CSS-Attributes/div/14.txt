@@ -1,0 +1,7 @@
+	margin: 0 0 15px 0;
+	display: block;
+	clear: both;
+	height: 28px;
+	line-height: 28px;
+	font-style: italic;
+	float: left;

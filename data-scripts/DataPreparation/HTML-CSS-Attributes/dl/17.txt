@@ -1,0 +1,9 @@
+	margin-top:22px;
+	width:62px;
+	text-align:right;
+	display:block;
+	float:left;
+	margin-right:12px;
+	font-weight:normal;
+	white-space:nowrap;
+	color:#292929;

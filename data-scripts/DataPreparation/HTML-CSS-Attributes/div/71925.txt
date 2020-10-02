@@ -1,0 +1,8 @@
+    padding: 13px 124px 18px 20px;
+    position: relative;
+    font-size: 36px;
+    line-height: 36px;
+    right: 58px;
+    top: 50%;
+    margin-top: -18px;
+    color: #d9593f;

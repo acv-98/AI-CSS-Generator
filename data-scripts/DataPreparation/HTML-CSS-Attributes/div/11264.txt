@@ -1,0 +1,3 @@
+	width: 225px;
+	float: left;
+	display: inline;

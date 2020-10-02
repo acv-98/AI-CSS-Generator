@@ -1,0 +1,3 @@
+	border: 1px solid #c0afbb;
+	padding: 9px;
+	margin-bottom: 10px;

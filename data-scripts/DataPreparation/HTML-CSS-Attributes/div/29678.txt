@@ -1,0 +1,5 @@
+margin-top: -204px;#home-slider .caption .main-title {
+  color: #fff;
+  font-size: 90px;
+  font-weight: 700;
+  margin-bottom: 20px;

@@ -1,0 +1,1 @@
+height:61px;background:url(images/header-bg-top.gif) left top repeat-x;overflow:hidden

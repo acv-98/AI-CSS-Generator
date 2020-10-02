@@ -1,0 +1,18 @@
+  padding: 0;
+  border: none;
+  -webkit-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.24);
+  box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.24);
+  border-radius: 10px;
+  font-size: 15px;
+  color: #273f59;
+  padding-left: 30px;
+  padding-right: 3px;
+  position: relative;
+  top: 3px;
+  width: 100%;
+  font-family: Roboto-Light;
+  font-weight: bold;
+  padding-top: 30px;
+  display: inline-block;
+  line-height: 1.8;
+    margin-bottom: 50px;

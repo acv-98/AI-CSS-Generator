@@ -1,0 +1,9 @@
+	display: inline-block;
+	margin: 0em 0em 0em 0em;
+	padding: 0.35em 0em;
+	border-radius: 5px;
+	line-height: none;
+	font-weight: bold;
+	font-style: normal;
+	color: #2A2A2A;
+	text-decoration: none;

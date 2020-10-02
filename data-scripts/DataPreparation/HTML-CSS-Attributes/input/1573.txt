@@ -1,0 +1,1 @@
+ display:block; margin:0 0 0 auto; width:85px; height:46px; background:url(images/submit-button.gif); font-size:0; line-height:0; border:0; cursor:pointer; 

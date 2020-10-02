@@ -1,0 +1,8 @@
+	width:659px;
+	height:302px;
+	position:relative;
+	overflow:hidden;
+	float:left;
+	display:inline;
+	z-index:13;
+	list-style:none;

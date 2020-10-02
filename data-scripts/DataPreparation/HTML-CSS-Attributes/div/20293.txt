@@ -1,0 +1,1 @@
+float:left; display:inline; width:100%; text-align:centerwidth:100%color:#383838; font-size:22px; font-weight:bold; text-transform:uppercase; -webkit-transition:all 0.5s; -o-transition:all 0.5s; -moz-transition:all 0.5s; transition:all 0.5sfont-size:12px; padding:0px 16px.header_bottom_leftcolor:#ffa500

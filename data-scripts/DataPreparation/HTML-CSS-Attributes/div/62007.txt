@@ -1,0 +1,7 @@
+  color: #111;
+  float: left;
+  font-family: 'querroundregular', 'helvetica', 'arial';
+  font-size: 1.5rem;
+  margin-top: 1em;
+  -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;

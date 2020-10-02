@@ -1,0 +1,7 @@
+	color: #fff;
+	font-size: 35px;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: -5px;
+		margin-top: -7px;
+		width: 145px;
+		font-size: 25px;

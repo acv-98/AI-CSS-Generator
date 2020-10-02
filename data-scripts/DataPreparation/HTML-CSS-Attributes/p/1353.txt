@@ -1,0 +1,2 @@
+	padding:10px;
+	animation: arrowbounce 1s alternate infinite;

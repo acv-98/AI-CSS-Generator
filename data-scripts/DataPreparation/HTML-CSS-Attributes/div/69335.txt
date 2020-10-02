@@ -1,0 +1,8 @@
+	overflow: hidden;
+	border: 3px solid #ddd;
+	width: 99%;
+	margin: 0.5%;
+	-webkit-animation-name: opacity;
+	animation-name: opacity;
+	-webkit-animation-duration: .3s;
+	animation-duration: .3s;

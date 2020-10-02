@@ -1,0 +1,6 @@
+	background: url("jplayer-black-and-yellow.png") 0 0 no-repeat;
+	width: 0px;
+	height: 5px;
+	-webkit-border-radius: 1px;
+	-moz-border-radius: 1px;
+	border-radius: 1px;

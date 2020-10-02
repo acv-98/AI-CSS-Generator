@@ -1,0 +1,5 @@
+	margin:0;
+	padding:0;
+	background:url(images/header_bg.jpg) repeat-x center 101px;
+	height:200px;
+	width:974px;

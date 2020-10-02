@@ -1,0 +1,34 @@
+			background:url(../images/grain.png) repeat #f1f1f1;
+	width:25px;
+	height:25px;
+	float:right;
+	background-image:url('../images/wp-arrows.png');
+	background-repeat:no-repeat;
+	background-position:right 5px;
+	margin-right:4px;
+ font-size: 17px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  font-size: 22px; font-family: 'Open Sans', sans-serif; color: #a5a4a4; font-style: normal; font-weight: 400;  font-size: 48px; font-family: 'Arbutus Slab', sans-serif; color: #a5a4a4; font-style: normal; font-weight: 400;  border-color: #dfdcdc;  font-size: 10px; font-family: 'Open Sans', sans-serif; color: #213140; font-style: normal; font-weight: 400;  margin-top: 5px     font-size: 100%;
+    font-style: italic;
+    clear: left;
+    border-left: 5px solid #d18f1d !important;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 13px;
+ margin-bottom: 0  position: relative; .section.blog .post .date {
+    background: rgb( 232, 232, 232 );
+    padding-top: 7px;
+    padding-bottom: 4px;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+ display: block; .section.blog .post .date .month {
+    font-family: 'Open Sans', Verdana, Arial, sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #676768;
+ color: #676768;  color: #797b04; .section.blog .post .meta p,
+.section.blog .post .meta p a {
+    float: none;
+ color: #676768;  font-weight: 800;  content: ""; @media (min-width: 1200px) {
+ font-size: 42px !important;  font-size: 15px !important;  font-size: 28px !important; 

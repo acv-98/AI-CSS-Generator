@@ -1,0 +1,5 @@
+.blog-news-details{
+  display: inline;
+  float: left;
+  padding: 0 15px;
+  width: 100%;

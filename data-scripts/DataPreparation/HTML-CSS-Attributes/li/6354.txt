@@ -1,0 +1,1 @@
+width:73px; height:19px; display:block; background:url(../images/btn_about.gif) 0 0 no-repeat; text-indent:-20000px;width:73px; height:19px; background:url(../images/btn_about_over.gif) 0 0 no-repeat;

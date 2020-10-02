@@ -1,0 +1,16 @@
+	float:left;
+	width:258px;
+	margin-right:58px;
+	border-bottom:1px solid #d4d4d4;
+	padding:0 0 0 10px;
+	margin-bottom:20px;
+	left:-10px;
+	position:relative;
+	padding-bottom:5px;
+	font-size:1.08em;
+	color:#848484;
+	overflow:hidden;
+	vertical-align:top;
+	top:3px;
+	display:block;
+	line-height:1.2em;

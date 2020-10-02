@@ -1,0 +1,7 @@
+	color:#757B85;
+	margin-right: 4%;
+	float: left;
+	font-size: 0.96em;
+		margin-right: 2%;
+		padding: 0.5em 0em 0;
+		display:block;

@@ -1,0 +1,4 @@
+ zoom: 1; position: relative; 
+.slides:before,
+   content: " ";
+   display: table;

@@ -1,0 +1,4 @@
+	margin:0 0 20px;
+	padding:10px 15px 5px;
+	border:1px solid #eeeeee;
+	border-bottom:6px solid #eeeeee;

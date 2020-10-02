@@ -1,0 +1,11 @@
+	padding-bottom: 33.91812865497076%;
+	position: relative;
+	margin-bottom: 380px;
+padding-bottom: 139px;margin-bottom: 220px;	.camera_caption {
+		left: calc(50% - 465px);
+		font-size: 70px;
+		line-height: 70px;
+		bottom: -220px;
+	.camera_caption{
+margin-bottom: 170px;	overflow: hidden;
+padding-bottom: 139px;

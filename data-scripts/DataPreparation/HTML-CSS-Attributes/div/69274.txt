@@ -1,0 +1,10 @@
+	font-size: 20px;
+	text-align: center;
+	background-color: #09284b;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#111318), to(#1f2126));
+	padding: 55px 0 70px;
+	color: #FFF;
+	font-weight: 300;
+	line-height: 56px;
+	margin-bottom: 44px;
+	font-family: 'Raleway', sans-serif;

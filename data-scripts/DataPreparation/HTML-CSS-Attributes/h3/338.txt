@@ -1,0 +1,4 @@
+	border: medium none;
+	font-size: 12px;
+	line-height: 22px;
+	margin-top: -1px;

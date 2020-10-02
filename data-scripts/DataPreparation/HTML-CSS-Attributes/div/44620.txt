@@ -1,0 +1,4 @@
+	min-height: 80px;
+	overflow: hidden;
+	padding-left: 20px;
+	position: relative;

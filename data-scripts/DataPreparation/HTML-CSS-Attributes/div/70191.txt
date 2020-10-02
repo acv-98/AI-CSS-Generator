@@ -1,0 +1,8 @@
+margin-top:15px;
+.single_content {
+float: none;
+text-align: inherit;
+width: 90.5%;
+min-height: 78px;
+max-height: 78px;
+border: 1px solid #DDDDDD;padding: 10px;border-radius:5px;.single_home_content{background: none repeat scroll 0 0 #E9F5FF;

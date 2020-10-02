@@ -1,0 +1,8 @@
+margin:20px 20px 10px 20px;
+margin-top:20px;border:10px solid #1d1a1c;.sidebar-container h3 {font-weight:normal;
+											font-family:'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, Sans-Serif;
+									 			 padding:10px 0 5px 20px;
+												 font-size:11px;
+												 background:url(../images/bullet.gif) no-repeat 0 12px;
+												 font-weight:bold;
+												 padding:7px 0 5px 0;

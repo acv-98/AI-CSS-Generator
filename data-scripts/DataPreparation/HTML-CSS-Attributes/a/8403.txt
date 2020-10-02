@@ -1,0 +1,1 @@
+margin-top:10px;float:left;display:block;width:83px;height:87px;background:url(images/whyus.jpg) no-repeat 0px 0px;text-indent:-1000px; background-position: 0px -88px;

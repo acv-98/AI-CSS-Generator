@@ -1,0 +1,2 @@
+	background:#140900 url(images/arrow4.png) no-repeat 8px 10px;
+	color:#5B2F0D;

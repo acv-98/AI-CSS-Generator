@@ -1,0 +1,7 @@
+float:left;
+margin:10px 0 0 25px;
+padding-bottom:10px;
+clear:left;
+width:60px;
+font:11px/15px Tahoma;
+color:#FB0616;

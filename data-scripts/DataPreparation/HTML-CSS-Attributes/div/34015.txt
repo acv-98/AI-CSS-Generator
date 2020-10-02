@@ -1,0 +1,14 @@
+border-left: #66cdaa 2px solid;border-left: #0E8FAB 2px solid;
+border-left: #daa520 2px solid;border-left: #91b841 2px solid;border-left: #b28eb4 2px solid;border-left: #ffa500 2px solid;border-left: #F45B4D 2px solid;border-left: #70acab 2px solid;border-left: #008782 2px solid;border-left: #f0b70c 2px solid;.da-slider{
+	width: 100%;
+	height: 400px;
+	position: relative;
+	overflow: hidden;
+	margin-top: -70px;
+	-webkit-transition: background-position 1s ease-out 0.3s;
+	-moz-transition: background-position 1s ease-out 0.3s;
+	-o-transition: background-position 1s ease-out 0.3s;
+	-ms-transition: background-position 1s ease-out 0.3s;
+	transition: background-position 1s ease-out 0.3s;
+	z-index:0;
+ padding-top: 10px; padding-left: 20px; border-left: #0E8FAB 2px solid; border-right: 1px solid #eee; border-top: 1px solid #eee; border-bottom: 1px solid #eee; min-height: 130px; padding-bottom: 20px; background: url(../images/separators.png) left top; 

@@ -1,0 +1,6 @@
+
+.banner-text {
+  border-left: 5px solid #BE2525;
+  padding: 15px 40px;
+  color: #fff;
+  margin-top: 170px;

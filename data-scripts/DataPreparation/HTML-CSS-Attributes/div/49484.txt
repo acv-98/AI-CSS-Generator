@@ -1,0 +1,16 @@
+  margin-left: 40px;
+  width: 309px;
+  padding-right: 0;
+  float: none;
+height:120px;
+  max-height: 330px;
+  min-height: 330px;
+margin-left: 25px;width: 280px;margin-bottom:30px;.single_content > h2,.single_content_latest_post > h2{background: url("images/title_bg.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+color: #444444;
+font-family: georgia !important;
+font-size: 12px;
+font-style: italic;
+line-height: 16px;
+margin-top: 15px;color: #000;font-size: 12px;color: #e47600;.single_content_feature span{margin-bottom: 15px;
+display: block;
+color: #aaaaaa;color: #000;.single_content_feature p{color: #555555;

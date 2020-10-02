@@ -1,0 +1,6 @@
+ color:#e18868; font-size:15px; font-weight:normal; padding-bottom:20px; padding-top:10px;GENERAL CLASSES
+ overflow:hidden; font-size:14px;padding-bottom:20px; color:#e18868; font-size:18px; font-weight:normal; padding-bottom:20px;line-height:20px; margin-bottom:30px; border-bottom:#6e3942 solid 1px;color:#AC8586;line-height:40px; font-size:13px; background:url(../images/arrow.png) no-repeat left; padding-left:25px;border-bottom:none; text-decoration:none;color:#AC8586; text-decoration:none; color:#e18868;float:left; float:right; width:130px; line-height:18px; text-decoration:none; color:#1da1df; float:left; padding-top:20px; color:#1a202c;color:#e18868;float:right; padding-bottom:15px;SERVICES CLASSS    
+float:left; margin-right:20px; background:#633039; padding:5px;CONTACT FORM CLASSS
+color:#fff; color:#fff;PORTFOLIO CLASSES
+ padding:10px; padding-bottom:20px; padding-bottom:20px; padding-bottom:10px; padding-top:10px; border-bottom: 1px solid #592a32;  color:#e18868; display:block; font-size:14px;background:#e18868; padding:7px; text-decoration:none; font-family:'Open Sans', sans-serif; color:#ffffff; font-weight:normal; font-size:13px; background:#572931; padding-bottom:10px;FOOTER CLASSS    
+color:#ffffff; padding-bottom:30px;

@@ -1,0 +1,12 @@
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+  background-image: none;
+	color: #71bd46;
+	font-family: 'Open Sans', sans-serif;
+	background-color: transparent;
+	border: 1px solid #71bd46;
+	border-radius: 4px;
+	margin: 0 8px;
+	font-size: 18px;
+	transition: all 0.5s;

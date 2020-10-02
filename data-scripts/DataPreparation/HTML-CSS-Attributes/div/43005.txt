@@ -1,0 +1,1 @@
+position:absolute; left:0; bottom:10px; padding:10pxcolor:#ddd; margin-top:5px; background-color:rgba(0,0,0,0.4); padding:3pxbackground-color:rgba(0,0,0,0.4); color:#fff; font-size:20px; padding:5px 10px.logo_area.carousel-indicators

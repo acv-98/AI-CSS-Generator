@@ -1,0 +1,4 @@
+	background:#012937 url(images/btn_bg_fpsearch.png) repeat-x top;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	float:right;

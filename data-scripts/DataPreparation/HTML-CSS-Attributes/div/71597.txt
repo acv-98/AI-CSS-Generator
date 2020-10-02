@@ -1,0 +1,3 @@
+  background: #5c5c5c
+  border-color: #424242 transparent transparent;
+  right: -9px;

@@ -1,0 +1,13 @@
+    display: inline-block;
+    margin: 0rem 0.25rem;
+    margin-bottom: 10px;
+    background: transparent;
+    border: none;
+    border-radius: 0px;
+    color: #000;
+    font-family: sans-serif;
+    font-size: 14px;
+    outline: none;
+    border-bottom: 1px dotted #333;
+    font-weight: 400;
+    outline-offset:0; 

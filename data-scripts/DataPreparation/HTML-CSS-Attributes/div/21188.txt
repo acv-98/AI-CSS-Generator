@@ -1,0 +1,8 @@
+	color: #0cb8b6;
+	font-size: 45px;
+	margin-bottom: 25px;
+	padding-bottom: 15px;
+	background-color: #0CB8B6;
+	text-decoration: none;
+	margin-top: 26px;
+	display: block;

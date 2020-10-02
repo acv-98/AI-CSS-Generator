@@ -1,0 +1,5 @@
+ width: 528px; 	
+ width: 252px; clear: both;  width: 435px; clear: both; 	float: left;
+	margin-left: 24px;
+	width: 528px;
+	margin-bottom: 40px;

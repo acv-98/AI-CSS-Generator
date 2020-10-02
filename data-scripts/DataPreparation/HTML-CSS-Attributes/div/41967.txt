@@ -1,0 +1,1 @@
+width:device-widthdisplay:table-row!important

@@ -1,0 +1,5 @@
+		font-size: 14px;
+		padding: 5px 15px;
+	text-transform: capitalize;
+	background: #881228;
+	color: #ffffff;

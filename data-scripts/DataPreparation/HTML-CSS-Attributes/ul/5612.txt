@@ -1,0 +1,10 @@
+	background:url(../img/black/btn_content.png) no-repeat;
+	width: 307px;
+	float:left;
+	margin: 0 20px 0 0;
+	list-style: none;
+	color: #272c38;
+	font-size: 24px;
+	line-height: 20px;
+	height: 46px;
+	border: 0;

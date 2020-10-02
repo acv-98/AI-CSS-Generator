@@ -1,0 +1,3 @@
+	background:#f9efe3 url(../images/rausch.png) repeat;
+	padding:10px;
+	margin-bottom:40px;

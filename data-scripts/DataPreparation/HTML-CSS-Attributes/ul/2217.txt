@@ -1,0 +1,16 @@
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  list-style: none;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+  font-size: 22px;
+  color: #000;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  border-radius: 7px;
+    padding: 10px 8px;
+  outline: none;
+  text-decoration: none;

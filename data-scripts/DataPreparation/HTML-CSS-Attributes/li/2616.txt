@@ -1,0 +1,13 @@
+  background: url(../img/divider-line.png) no-repeat center center;
+  height: 51px;
+  font-size: 14px;
+  margin-bottom: 30px;
+  font-family: 'Lato', sans-serif;
+  text-shadow: 0px 1px 0 rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+  color: #c78301;
+  border-bottom: 1px dotted #c78301;
+  font-weight: 700;
+  line-height: 48px;
+  border-top: 4px solid #6b3b25;
+  margin-top: 0px;

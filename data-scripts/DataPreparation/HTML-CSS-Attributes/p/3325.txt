@@ -1,0 +1,6 @@
+	background-image: url(../img/blue/sprites.png);
+	font-size: 30px;
+	line-height: 1.3em;
+	margin-left: 90px;
+	margin-bottom: 25px;
+	text-indent: 45px;

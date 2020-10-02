@@ -1,0 +1,9 @@
+	float: left;
+	width: 270px;
+	padding: 0 29px 0 0;
+	border-right: 1px dotted #999;
+	color: #9b1919;
+	font-size: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	margin-right: 20px;

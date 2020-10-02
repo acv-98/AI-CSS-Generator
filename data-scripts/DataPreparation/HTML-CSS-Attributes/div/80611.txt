@@ -1,0 +1,20 @@
+background-color:#2f86a8;background-color:#2f86a8;left:0;z-index:-1;		padding-top:13px;
+		height:22px;
+		background:url(../images/design/footer-grain.png) top left repeat #287fa0;
+		margin:12px 2px 0 2px;
+		color:#dddddd;
+		font-size:11px;
+		float:left;
+		margin-left:18px;
+float:none;text-align:center;	.footer .foot-nav .nav {
+		margin-right:18px;
+		font-family:"Open Sans";
+		font-weight:600;
+		text-shadow: 0px 1px 1px #303030;
+		transition: all 0.3s ease 0s;
+color:#ffffff;		position:relative;
+		z-index:100;
+		margin-top:10px;
+		width:100%;
+		bottom:0;
+display:none;text-align:center;float:nonedisplay:none;text-align:center;float:none;font-size:8px;

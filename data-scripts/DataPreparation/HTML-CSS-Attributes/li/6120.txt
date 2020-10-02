@@ -1,0 +1,1 @@
+	background:url(../images/menu_bg4.gif) top repeat-x #6b450f;

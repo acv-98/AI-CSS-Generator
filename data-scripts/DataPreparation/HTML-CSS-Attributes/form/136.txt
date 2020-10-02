@@ -1,0 +1,7 @@
+  -webkit-border-radius: 0;
+     -moz-border-radius: 0;
+          border-radius: 0;
+	border:none;
+	float:right;
+	margin:15px 0 0 0;
+	padding:0;

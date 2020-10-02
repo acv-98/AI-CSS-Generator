@@ -1,0 +1,1 @@
+width:53px; height:52px; background:url(../images/red-icons.png) no-repeat; line-height:52px; color:#ffffff; font-weight:normal; text-align:center;

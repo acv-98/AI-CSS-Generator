@@ -1,0 +1,2 @@
+margin-bottom: 30px; text-align:right
+margin-bottom: 30px; text-align:rightmargin-bottom: 30px; text-align:right

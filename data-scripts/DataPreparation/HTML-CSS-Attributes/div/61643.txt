@@ -1,0 +1,12 @@
+  overflow: hidden;
+  zoom: 1;
+    display: none;
+    float: left;
+    margin-left: 12px;
+   font-size: 18px;
+padding-top: 8px;
+margin-bottom: 11px;
+color: #050505;
+font-weight: bolder;
+margin:0 auto  margin-bottom: 3px;
+  line-height: 13px;

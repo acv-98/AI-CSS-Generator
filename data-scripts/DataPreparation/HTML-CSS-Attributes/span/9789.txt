@@ -1,0 +1,2 @@
+ display: none; 
+	background-image: url("../images/icons/for_button/remove.png");

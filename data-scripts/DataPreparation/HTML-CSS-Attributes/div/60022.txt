@@ -1,0 +1,3 @@
+	top:expression(55+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+'px'); 
+	left:expression(55+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+'px');width:220px;height:720px;
+position:fixed;width:220px;height:720px!important;z-index:100;text-align:center;

@@ -1,0 +1,1 @@
+border-radius:0display:nonemargin-right:5pxmargin-left:5px

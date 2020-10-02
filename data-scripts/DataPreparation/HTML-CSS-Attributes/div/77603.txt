@@ -1,0 +1,12 @@
+	width:604px;
+	float:left;
+	text-align:center;
+	color:#F3E8D2;
+	text-transform:uppercase;
+	background:#333;
+margin:0px;
+padding:0px;
+display:inline;
+list-style-type:none;
+border-right:1px solid #ffe1ad;
+text-decoration:none;

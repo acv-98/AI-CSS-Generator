@@ -1,0 +1,5 @@
+ right: 5px !important;  width: 25px !important; height: 25px !important; font-size: 12px !important; line-height: 25px !important; top: 60% !important;left: 5px !important;margin-bottom: 0;.banner .carousel-control {
+color: #4496bc;
+background: #fff;
+opacity: 0.5;
+border: none;

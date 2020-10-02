@@ -1,0 +1,5 @@
+	border: none;
+	padding-top: 30px;
+	background: #dc5034;
+	border-color: transparent;
+	background-color: transparent

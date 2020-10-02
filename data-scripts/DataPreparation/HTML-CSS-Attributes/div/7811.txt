@@ -1,0 +1,5 @@
+  overflow: hidden;
+  max-width: 100%;
+    height: auto;
+    margin-left: 0;
+    padding-bottom: 30px;

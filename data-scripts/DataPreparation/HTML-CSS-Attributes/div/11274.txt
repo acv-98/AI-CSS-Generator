@@ -1,0 +1,6 @@
+	padding: 5px;	
+	background-color: #E27304; 
+	border: 1px solid #E7871C;	
+	font-weight: bold;
+	font-size: 11px;		
+	color: #fff;

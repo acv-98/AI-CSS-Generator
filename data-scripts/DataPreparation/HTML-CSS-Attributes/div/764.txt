@@ -1,0 +1,7 @@
+	margin:0;
+	padding:0;
+	height:523px;
+	border-bottom:8px solid #aeacc2;
+	width:960px;
+	position:relative;
+	z-index:1002;

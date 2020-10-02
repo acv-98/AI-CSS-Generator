@@ -1,0 +1,5 @@
+	padding:0;
+	float:none;
+	width:auto;
+	height:155px;
+	background:url(../images/logo_bg.gif) repeat-x left top;

@@ -1,0 +1,12 @@
+  width: 100%;
+  padding-right: 15%;
+  padding-left: 15%;
+  background-color: #F5F5F5;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-top-color: #E0E1E1;
+  border-bottom-color: #E0E1E1;

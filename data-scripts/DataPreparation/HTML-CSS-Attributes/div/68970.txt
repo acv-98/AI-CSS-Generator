@@ -1,0 +1,11 @@
+ margin-bottom: 42px; 
+ margin-bottom: 30px;    #contact .header-col h1:before {
+      font-size: 66px;
+      line-height: 66px;
+ font: 17px/33px opensans-light, sans-serif;  margin-bottom: 12px;    #contact .section-head h1 {
+      text-align: center;   
+      margin-bottom: 30px;
+      text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+ text-align: center;   #contact label {
+      float: none;
+      width: 100%;

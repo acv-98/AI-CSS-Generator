@@ -1,0 +1,11 @@
+    border-color: #2a394e;
+    background-color: #f3f6f8;
+    padding-left: 70px;
+    padding-top: 75px;
+    margin-top: 0;
+    padding-bottom: 59px;
+    font-size: 36px;
+    line-height: 36px;
+    color: #fff;
+    background-image: url(../images/heart_icon.png);
+    top: 57px !important;

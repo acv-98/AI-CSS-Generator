@@ -1,0 +1,12 @@
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	text-indent: -9999px;
+	background: url(../images/img-sprite.png)no-repeat;
+	top:35%;
+	z-index: 2;
+	cursor: pointer;
+	background-position:-345px -19px;
+	right: 0px;
+    width: 91px;
+	display: none;

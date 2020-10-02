@@ -1,0 +1,10 @@
+  padding-top: 4em;
+  text-decoration: underline;
+  border-left: none;
+  padding-left: 0;
+  font-family: "Playfair Display", times, serif;
+  font-size: 27px;
+  font-style: italic;
+  line-height: 1.5;
+  display: block;
+  color: gray;

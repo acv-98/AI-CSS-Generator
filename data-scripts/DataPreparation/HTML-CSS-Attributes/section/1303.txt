@@ -1,0 +1,10 @@
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin-left: 5px;
+    background: url(../images/tuchbg.jpg) no-repeat top center;
+    background-size: cover;
+    position: relative;
+    font-size:0.8125rem;
+    color:#000;
+    text-align: center;

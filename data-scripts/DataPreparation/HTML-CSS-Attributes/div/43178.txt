@@ -1,0 +1,9 @@
+    border:1px solid #fff;
+    margin-top:30px;
+    transition: all .6s;
+    transform: rotateY(360deg);
+    width:100%;
+    padding: 20px 0px;
+    margin-bottom: .0rem;
+    display: inline-block;
+.team .team_hiring_area{

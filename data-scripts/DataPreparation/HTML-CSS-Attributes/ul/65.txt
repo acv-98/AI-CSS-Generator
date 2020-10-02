@@ -1,0 +1,14 @@
+	text-decoration:none;
+	width:100%;
+	padding-bottom:2px;
+	background:url(../images/menu-row-tail.gif) center bottom repeat-x #fff;
+	border-left:1px solid #e5e5e5;
+	float:left;
+	position:relative;
+	border-right:1px solid #e5e5e5;
+	display:block;
+	font-size:14px;
+	line-height:4em;
+	color:#272727;
+	text-transform:uppercase;
+	text-align:center;

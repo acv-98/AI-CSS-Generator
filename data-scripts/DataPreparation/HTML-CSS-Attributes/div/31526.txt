@@ -1,0 +1,22 @@
+    margin-top: 25px;
+    padding-bottom: 30px;
+.pricing-table-sign-up a{
+	position: relative;
+	padding: 13px 40px;
+	font-size: 18px;
+	display: inline-block;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+  background: #9dc15b;
+  content: '';
+  position: absolute;
+  z-index: 1;
+  color: #333333;
+  height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+	z-index: 2;
+	color: #fff;

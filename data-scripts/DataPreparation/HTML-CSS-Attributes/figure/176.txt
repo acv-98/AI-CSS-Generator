@@ -1,0 +1,5 @@
+	text-align: right;
+	float: right;
+	-webkit-transform: translateX(-80px);
+	-moz-transform: translateX(-80px);
+	transform: translateX(-80px);

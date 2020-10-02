@@ -1,0 +1,11 @@
+	color:#d4ffff;
+	text-decoration:none;
+	font-family:arial;
+	background:url(../images/interface.gif) no-repeat;
+	width:70px;
+	height:18px;
+	text-align:center;
+	line-height:18px;
+	font-size:12px;
+	position:static;
+	padding:0;

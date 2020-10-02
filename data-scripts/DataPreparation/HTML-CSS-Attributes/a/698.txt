@@ -1,0 +1,9 @@
+	float:left;
+	height:31px;
+	margin:0 4px;
+	padding:0 10px;
+	color:#fff;
+	background-color:#b52025;
+	text-align:center;
+	line-height:31px;
+	text-decoration:none;

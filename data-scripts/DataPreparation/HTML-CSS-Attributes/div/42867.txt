@@ -1,0 +1,12 @@
+	color:#585757;
+	display:block;
+	float:left;
+	margin:0 0 16px;
+	padding:0 0 0 22px;
+	font-size:13px;
+	line-height:18px;
+	font-weight:bold;
+	text-transform:none;
+	text-decoration:none;
+	text-align:center;
+	background:url(../images/li_a.gif) no-repeat left center;

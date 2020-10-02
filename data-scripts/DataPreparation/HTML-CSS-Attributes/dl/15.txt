@@ -1,0 +1,6 @@
+	float:left;
+	margin-bottom:1.5em;
+	clear:both;
+	text-align:right;
+	padding-right:25px;
+	color:#06cbe2;

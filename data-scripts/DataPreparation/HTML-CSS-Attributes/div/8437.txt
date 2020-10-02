@@ -1,0 +1,5 @@
+  background-color: #a5d549;
+  color: #ccc;
+  display: inline;
+  float: left;
+  width: 100%;

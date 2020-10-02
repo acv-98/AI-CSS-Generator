@@ -1,0 +1,7 @@
+	display:inline-block;
+	background:url(../images/quote-before.png) no-repeat 0 0;
+	content:"";
+	width:14px;
+	height:11px;
+	margin:2px 3px 0 0;
+	padding:35px 40px 20px 40px;

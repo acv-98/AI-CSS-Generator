@@ -1,0 +1,8 @@
+    margin-right: 5px;
+    color: #FFFFFF;
+    font-weight:500;
+    display: none;
+    background-color: #25CBF5;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;

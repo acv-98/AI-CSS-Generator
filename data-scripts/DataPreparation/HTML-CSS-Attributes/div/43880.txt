@@ -1,0 +1,11 @@
+		position:absolute;
+		margin-left:auto;
+		margin-right:auto;
+		-moz-user-select: none;
+        -khtml-user-select: none;
+        -webkit-user-select: none;
+        -o-user-select: none;
+	background:url(../assets/shadow1.png) no-repeat; background-size:100% 100%; width:890px; height:60px; bottom:-60px;	background:url(../assets/shadow2.png) no-repeat; background-size:100% 100%; width:890px; height:60px;bottom:-60px;	background:url(../assets/shadow3.png) no-repeat; background-size:100% 100%; width:890px; height:60px;bottom:-60px;	-	FULLSCREEN VIDEO	-
+	width:100%; height:10px; background:url(../assets/timer.png);position:absolute; z-index:200;top:0px;	bottom:0px;height:5px; top:auto;	-	RESPONSIVE SETTINGS 	-
+    @media only screen and (min-width: 0px) and (max-width: 479px) {
+	display:none

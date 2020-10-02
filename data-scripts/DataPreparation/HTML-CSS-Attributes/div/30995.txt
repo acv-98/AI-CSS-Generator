@@ -1,0 +1,12 @@
+ width: 340px; margin-bottom: 15px; 
+ margin-bottom: 0;  color: #518d8a; .features_2 .feature-icon {
+    float: left;
+    text-align: center;
+ width: 270px;  width: 198px;  width: 100%; margin-bottom: 0;  width: 340px; margin-bottom: 15px;  margin-bottom: 0;  color: #518d8a;  width: 270px;  width: 198px;  width: 100%; margin-bottom: 0;  margin-bottom: 10px;  color: #518d8a; .feature-icon i {
+    display: inline-block;
+    margin-top: 13px;
+    font-size: 70px;
+    -o-transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -ms-transition: all .2s;

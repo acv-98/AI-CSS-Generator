@@ -1,0 +1,5 @@
+	float:left;
+	display:inline;
+	width:184px;
+	background:url('images/search-field.gif') no-repeat 0 0;
+	padding:4px 0;

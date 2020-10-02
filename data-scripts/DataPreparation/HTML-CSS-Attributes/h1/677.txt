@@ -1,0 +1,1 @@
+float:left; width:450px; margin:30px 30px 28px 28px;background:url("../images/logo.png") no-repeat; width:223px; height:84px; margin:50px 10px 0 90px; text-indent:-9999px; float:left;display:block; height:100%;

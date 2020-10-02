@@ -1,0 +1,9 @@
+	color: #932b50;
+	text-decoration: none;
+	background: url(../images/sprite-buttons.gif) no-repeat 0 -265px;
+	display: inline-block;
+	height: 16px;
+	font-size: 11px;
+	line-height: 16px;
+	text-align: center;
+	width: 65px;

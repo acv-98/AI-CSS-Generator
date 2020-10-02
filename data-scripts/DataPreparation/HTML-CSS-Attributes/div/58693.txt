@@ -1,0 +1,5 @@
+	width:100%;
+	position:relative;
+	overflow:hidden;
+	padding-top:49px;
+	background:url(../images/slider-bg-tail2.gif) center top repeat-x #efefef;

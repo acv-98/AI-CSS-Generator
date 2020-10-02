@@ -1,0 +1,5 @@
+	padding: 10px;
+	margin: -10px;
+	border-bottom: 1px solid #eee;
+	margin-top: 2px;
+	line-height: 30px;

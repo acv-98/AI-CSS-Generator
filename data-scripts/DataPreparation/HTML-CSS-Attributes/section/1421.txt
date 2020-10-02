@@ -1,0 +1,20 @@
+        width: 50%
+        height: auto;
+        font-size: 24px;
+        font-weight: 600;
+        float: left;
+        padding: 25px;
+        max-height: 400px;
+        overflow: hidden;
+        text-align: center;
+    margin: 0 auto 105px;
+    position: relative;
+    z-index: -1;
+    display: none;
+    background: #7c2dfe none repeat scroll 0 0;
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+    font-style: italic;
+    line-height: 27px;
+    margin-right: 10px;
+    border: 2px solid #fff;

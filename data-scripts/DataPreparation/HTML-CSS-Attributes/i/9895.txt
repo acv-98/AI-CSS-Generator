@@ -1,0 +1,2 @@
+    color: #e86142;
+  content: "\f0d4";

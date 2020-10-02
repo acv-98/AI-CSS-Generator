@@ -1,0 +1,5 @@
+	background:url(images/quote.png) no-repeat left top;
+	padding-left:10px;
+	color:#713E00;
+	border:1px solid #fff;
+	border-bottom:1px dashed #4F2600;

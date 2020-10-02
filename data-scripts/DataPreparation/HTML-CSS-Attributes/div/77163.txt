@@ -1,0 +1,3 @@
+	text-align: right;
+	color: #1abac8;
+	text-decoration: underline;

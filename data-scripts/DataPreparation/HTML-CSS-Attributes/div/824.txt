@@ -1,0 +1,1 @@
+height:161px;position:absolute;left:0;top:0;width:50%;background:url(images/tail-top-left.gif) repeat-x left top

@@ -1,0 +1,5 @@
+  background: #dedede;
+  border-radius: 10px;
+  box-shadow: none;
+  height: 12px;
+  margin-bottom: 30px;

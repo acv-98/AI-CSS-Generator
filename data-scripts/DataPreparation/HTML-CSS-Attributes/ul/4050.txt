@@ -1,0 +1,11 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/rarr.png', sizingMethod='image');
+	width:960px;
+	height:324px;
+	margin-right:10px;
+	color:#000;
+	position:absolute;
+	top:129px;
+	right:11px;
+	cursor:pointer;
+	left:11px;

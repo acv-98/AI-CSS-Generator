@@ -1,0 +1,3 @@
+    text-transform: uppercase;
+    color:#AB987A;
+    font-family: 'robotoregular';

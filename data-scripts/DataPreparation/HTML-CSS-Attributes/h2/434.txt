@@ -1,0 +1,2 @@
+font-size:2em; font-weight:400; margin-bottom:15px; line-height:30px; padding:15px; border-left-style:solid; border-left-width:15px.carousel-indicators
+border-color:#09c; color:#555

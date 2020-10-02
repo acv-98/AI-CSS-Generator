@@ -1,0 +1,16 @@
+    position: absolute;
+    bottom: 57px;
+    right: 125px;
+    width: 320px;
+    height: 65px;
+    margin: 0;
+    padding: 0;
+    background: rgba(255, 255, 255, 0.75); 
+font-family: "Yanone Kaffeesatz", serif; font-size: 24px; font-weight: normal; margin:0; padding:13px 0 0 10px; font-weight: 400; color: #111; font-family: "Droid Sans", serif; font-size: 12px; margin: 0; padding:3px 0 0 10px; color: #57595c;  color: #111;  color: #57595c;  top:0;  left:0;  top:-457px;  right:-360px;  bottom:-457px;  left:-360px;  width:300px; height:100%; padding:40px 30px;  width:900px; height:auto; padding:20px 30px; Skin Name: Nivo Slider Default Theme
+Skin URI: http://nivo.dev7studios.com
+Skin Type: flexible
+Description: The default skin for the Nivo Slider.
+Version: 1.0
+Author: Gilbert Pellegrom
+Author URI: http://dev7studios.com
+ float:left; width:460px;  border-left:1px solid #cfcfcf; padding-left:30px; margin-bottom:45px;  font-style:italic; margin-top:0; line-height:18px;  display:none; 

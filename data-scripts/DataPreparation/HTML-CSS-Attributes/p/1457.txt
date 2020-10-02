@@ -1,0 +1,6 @@
+  margin-top: 15px;
+  display: inline-block;
+  margin-bottom: 0;
+  color: #cccccc;
+  font-size: 25px;
+  padding: 0 5px;

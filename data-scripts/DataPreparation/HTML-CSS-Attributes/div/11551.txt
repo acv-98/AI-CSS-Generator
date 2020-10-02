@@ -1,0 +1,4 @@
+  color: #1a1a1a;
+  padding-top: 6px;
+    float: none !important;
+    padding-left: 10px;

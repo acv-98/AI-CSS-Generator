@@ -1,0 +1,5 @@
+  padding: 19px;
+  color: #333;
+ color:#243960; border-bottom:1px solid #e5e5e5; padding-bottom:15px; font-family: 'open_sansregular'; font-size:15px; color:515355; 	font-size: 10px;
+	margin-top: -16px;
+	margin-bottom: 18px;

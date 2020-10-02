@@ -1,0 +1,6 @@
+    padding: 10px 0px;
+    background-color: #fff;
+    width:90%;
+    position: relative;
+    top:-80px;
+    margin-bottom: 0px;

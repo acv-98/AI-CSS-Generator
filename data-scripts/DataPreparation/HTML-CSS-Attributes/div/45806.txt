@@ -1,0 +1,6 @@
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  display: -webkit-box;
+  position: relative;
+  float: left;

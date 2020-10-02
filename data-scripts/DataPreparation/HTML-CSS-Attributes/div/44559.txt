@@ -1,0 +1,7 @@
+		max-width:100%;
+		float: none;
+    background: #e9eef1;
+    overflow: hidden;
+    max-width: 41.6%;
+    float: left;
+	

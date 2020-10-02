@@ -1,0 +1,2 @@
+    background: transparent url(../images/icon-chat.png) no-repeat left 6px;
+    padding: 0 0 6px 17px;

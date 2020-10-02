@@ -1,0 +1,1 @@
+ margin:0 auto; padding:0 40px; width:890px; border:1px solid #dedede; margin:0; float:left; padding:0 16px 0 0; width:326px; padding:0 16px; width:256px; padding:0 0 0 16px; width:240px; margin:8px 16px 16px 0; padding:0; float:left; margin:4px; padding:0;

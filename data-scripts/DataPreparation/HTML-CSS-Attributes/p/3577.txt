@@ -1,0 +1,3 @@
+	text-align:right;
+	color:#cdc6c6;
+	font-size:11px;

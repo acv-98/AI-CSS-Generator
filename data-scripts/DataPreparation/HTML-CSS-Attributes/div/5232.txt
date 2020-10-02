@@ -1,0 +1,8 @@
+	text-align:center;
+	font-size: 2.5em;
+	font-weight: 100;
+	color: #FFF;
+	margin:7% 0 1% 0;
+	line-height: 1.5em;
+	margin-bottom: 10px;
+		font-size: 1.3em;

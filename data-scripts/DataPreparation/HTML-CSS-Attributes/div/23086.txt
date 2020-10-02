@@ -1,0 +1,4 @@
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: #eeeeee;
+  background-image: -moz-linear-gradient(4deg, #2caab3 0%, #2c8cb3 100%);

@@ -1,0 +1,6 @@
+  float: left;
+  width: 75px;
+  height: 24px;
+  margin-right: 10px;
+  display: block;
+  background: url(../img/facebook.png) no-repeat;

@@ -1,0 +1,9 @@
+	float:left;
+	margin:16px 0 0;
+	font:20px/24px 'ProximaNovaRgItalic', Arial, Helvetica, sans-serif;
+	width:151px;
+	text-shadow: 1px 1px 0 #ececec;
+	text-decoration:none;
+text-decoration:underline;#main {
+	position:relative;
+	z-index:6;

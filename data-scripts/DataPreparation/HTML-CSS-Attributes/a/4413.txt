@@ -1,0 +1,2 @@
+text-decoration:none;text-decoration:underline;
+padding-right:15px; display:inline-block; background:url("../images/marker_1.gif") right 7px no-repeat;

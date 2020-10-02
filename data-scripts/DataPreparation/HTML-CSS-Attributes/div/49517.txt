@@ -1,0 +1,7 @@
+	margin:0;
+	padding:0;
+	float:left;
+	width:650px;
+	font-size:27px;
+	line-height:1.2em;
+	border:none;

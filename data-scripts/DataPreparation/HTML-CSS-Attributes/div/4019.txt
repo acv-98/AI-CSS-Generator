@@ -1,0 +1,9 @@
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 36px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-align: center;
+  padding-bottom: 55px;
+	color:#E8CE0E;

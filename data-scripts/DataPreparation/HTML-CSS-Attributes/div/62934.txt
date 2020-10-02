@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	width:920px;
+	background:url(../images/white_bg.jpg) repeat left top;
+	border-top:1px solid #10151b;
+	line-height:1.5em;
+	color:#c4c3c3;
+	white-space:nowrap;
+	text-indent:inherit;
+	font-weight:normal;
+	text-decoration:underline;
+	background-color:transparent;
+	float:left;

@@ -1,0 +1,9 @@
+	background-color: #415b90;
+	text-align: center;
+	padding:  46.7% 0px;
+	display: inline-block;
+	font-size: 13px;
+	color: #fff;
+	margin-top: 20px;
+	transition: all 0.3s;
+		padding:  47.5% 0px;

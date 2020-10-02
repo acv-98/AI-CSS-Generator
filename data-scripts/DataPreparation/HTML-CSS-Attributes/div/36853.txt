@@ -1,0 +1,5 @@
+	width:496px;
+	float:left;
+	padding:0px 0px 70px 0px;
+	background:#0C0D0F url(../images/colmid-bg.jpg) left bottom repeat-x;
+	border-right:2px solid #C8C6AF;

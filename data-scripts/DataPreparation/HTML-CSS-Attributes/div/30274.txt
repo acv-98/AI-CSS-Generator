@@ -1,0 +1,4 @@
+	background-image:url("../images/bottom-shadow.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	height:35px;

@@ -1,0 +1,18 @@
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+	position: relative;
+	width: 700px;
+	top: 0;
+	left: 0;
+	height: 400px;
+	display: none;
+	margin: 0px 0 0 100px;
+	background:#d1f7b6;
+	border:1px solid #8bca61;
+	color:#5e9537;
+	clear:both;
+	text-shadow: none;
+	padding: 15px 15px 13px 15px;
+	line-height: 17px;
+	content: '';
+	visibility: hidden;

@@ -1,0 +1,2 @@
+	background: url(../images/footer_pattern.jpg);
+	padding: 5% 0;

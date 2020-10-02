@@ -1,0 +1,1 @@
+color:#ffffff;	background:#414141;	font:bold 11px Arial, Helvetica, sans-serif; text-decoration:none; padding:10px 10px; margin:0px 5px 5px 0;	border:1px solid #fff;cursor:pointer; color:#cccccc;

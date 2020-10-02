@@ -1,0 +1,1 @@
+width:366px;  float:left; margin-top:30px; text-align:left;

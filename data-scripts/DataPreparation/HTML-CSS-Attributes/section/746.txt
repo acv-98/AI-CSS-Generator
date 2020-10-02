@@ -1,0 +1,2 @@
+	background-image: url('../img/bg/divider3.jpg');
+	margin-top: 0px;

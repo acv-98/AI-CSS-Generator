@@ -1,0 +1,4 @@
+	font-size: 11px;
+	line-height: 16px;
+	padding: 5px 9px;
+	margin-top: -1px;

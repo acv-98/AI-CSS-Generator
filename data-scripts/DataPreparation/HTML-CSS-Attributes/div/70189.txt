@@ -1,0 +1,15 @@
+width: 105px;  float: none;
+margin: 0 0 10px 10px;
+text-align: inherit;
+min-height: 78px;
+max-height: 78px;
+margin-right: 5px;
+margin-left: 5px;
+margin-top: 8px;
+  font-size: 13px;
+border: 1px solid #DDDDDD;
+border-radius: 7px;
+margin-bottom: 10px;
+padding: 10px 5px;
+line-height: 15px;
+border-radius: 10px;.star{margin: 0 auto 8px;

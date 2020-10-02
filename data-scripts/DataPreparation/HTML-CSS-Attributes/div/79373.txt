@@ -1,0 +1,9 @@
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+	float: none !important;
+	clear: both;
+    height: 56px;

@@ -1,0 +1,5 @@
+    border-bottom: 1px solid #dcdcdc;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-bottom: 7px;
+    color: #2a6496;

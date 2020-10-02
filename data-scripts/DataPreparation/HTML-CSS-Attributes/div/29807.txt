@@ -1,0 +1,9 @@
+ float: right; 	#content .division {
+		width: 307px;
+		float: right;
+		padding-top: 5px;
+			background: none;
+			padding-bottom: 20px;
+		color: #ff0000;
+		font-size: 0.9em;
+		font-weight: bold;

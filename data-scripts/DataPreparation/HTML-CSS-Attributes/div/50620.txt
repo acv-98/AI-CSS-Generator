@@ -1,0 +1,5 @@
+	list-style:none;
+	padding-top:1px;
+	line-height:12px;
+	background:url(images/ul-bullet.gif) left 5px no-repeat;
+	color:#4062b7;

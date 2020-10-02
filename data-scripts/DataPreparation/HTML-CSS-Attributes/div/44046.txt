@@ -1,0 +1,7 @@
+     clear: both;
+     margin-top: 20px;
+     display: inline-block;
+     width: 100%;
+     border: none;
+     color: #ffffff;
+     float: right;

@@ -1,0 +1,3 @@
+	padding-left:26px;
+	background:url(../images/pic-1.gif) 0 4px no-repeat
+	line-height:24px

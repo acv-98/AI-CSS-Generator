@@ -1,0 +1,11 @@
+	background:url(../images/bg/lightpaperfibers.png) repeat;
+	display: inline-block;
+	padding:5px;
+	border: 1px solid rgba(0, 0, 0, 0.3) inset;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-moz-box-shadow: 0 0 18px rgba(0, 0, 0, 0.3) inset;
+	-webkit-box-shadow: 0 0 18px rgba(0, 0, 0, 0.3) inset;
+	box-shadow: 0 0 18px rgba(0, 0, 0, 0.3) inset;
+	margin-top:10px;

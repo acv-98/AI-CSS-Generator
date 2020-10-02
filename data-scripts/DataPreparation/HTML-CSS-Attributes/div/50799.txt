@@ -1,0 +1,9 @@
+	font-family:Verdana, Arial, Sans-Serif;
+	padding:5px 0 5px 0;
+	background:#f7f7f7 url('images/footer-top.gif') repeat-x 0 0;
+	color:#565656;
+	text-decoration:none;
+	font-size:10px;
+	margin:0;
+	line-height:normal;
+	float:left;

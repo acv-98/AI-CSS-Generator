@@ -1,0 +1,8 @@
+	color: #606368;
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif; 
+	font-weight: 400;	
+	background-color: transparent;
+	border-radius: 0;
+	font-size: 1.15rem;
+	padding: .9rem 1.25rem;
+	border-color: #983333;

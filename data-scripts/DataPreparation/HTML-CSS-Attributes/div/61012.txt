@@ -1,0 +1,2 @@
+	padding: 9px 14px;
+	margin-bottom: 0;

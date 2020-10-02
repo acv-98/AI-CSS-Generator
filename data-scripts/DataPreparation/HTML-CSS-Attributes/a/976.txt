@@ -1,0 +1,1 @@
+background:#96577a; color:#ffffff; width:100px; height:40px;

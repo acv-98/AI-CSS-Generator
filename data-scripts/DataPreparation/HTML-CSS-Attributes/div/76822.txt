@@ -1,0 +1,13 @@
+	float:right;
+	display:inline;
+	background:#000 url('images/panel-left.gif') no-repeat 0 0;
+	padding-left:6px;
+	padding-right:4px;
+	font-weight:bold;
+	line-height:28px;
+	color:#a6a6a7;
+	text-transform:capitalize;
+	width:27px;
+	height:28px;
+	font-size:0;
+	text-indent:-4000px;

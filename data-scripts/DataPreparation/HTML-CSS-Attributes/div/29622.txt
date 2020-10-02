@@ -1,0 +1,7 @@
+	background:url(../images/container-bg.jpg) repeat-y;
+	height:auto;
+	margin:0 auto;
+	width:940px;
+	overflow:hidden;
+	position:relative;
+	paddiung:0 5px;

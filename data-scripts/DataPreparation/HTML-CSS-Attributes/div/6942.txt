@@ -1,0 +1,5 @@
+	width:960px;
+	height:auto;
+	clear:both;
+	margin:0 auto;
+	margin-bottom:40px;

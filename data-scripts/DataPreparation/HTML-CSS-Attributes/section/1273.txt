@@ -1,0 +1,11 @@
+        margin-right: 8px;
+        display: none;
+    background: #01d262 none repeat scroll 0 0;
+    height: 50px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    float: right;
+    padding: 0 40px;

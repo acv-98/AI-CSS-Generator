@@ -1,0 +1,6 @@
+	width:866px;
+	height:309px;
+	padding:40px 20px;
+	margin-right:0;
+	background:#fff;
+	color:#000;

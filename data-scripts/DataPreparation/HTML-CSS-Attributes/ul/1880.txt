@@ -1,0 +1,28 @@
+ color:#fff;  color:#fff;  color:#fff;  color:#fff;  color:#fff;  color:#fff;  color:#fff;  font-size: 10px !important; 
+.sf-sub-indicator{
+    top: 32% !important;   
+ font-size: 10px !important;   height: 40px;
+  line-height: 40px;
+  margin-left: 5px;
+  position: relative;
+  border-right: 1px solid #373737;
+  color: #bcbcbc;
+  font-size: 12px;
+  padding: 8px 10px;
+  text-align: center;
+  display: inline-block;
+  margin-right: 3px;
+  vertical-align: top;
+  background-color: #191919;
+  -webkit-box-shadow: 0 0 5px 0 #000000;
+  -moz-box-shadow: 0 0 5px 0 #000000;
+  box-shadow: 0 0 5px 0 #000000;
+  left: -6px;
+  z-index: 10000;
+  min-width: 120px;
+  padding-right: 0;
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+ 

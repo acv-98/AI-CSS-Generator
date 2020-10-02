@@ -1,0 +1,7 @@
+  display: inline-block;
+  width: 40px;
+  font-size: 24px;
+  color: #666;
+  vertical-align: middle;
+  margin-bottom: 5px;
+  line-height: 32px;

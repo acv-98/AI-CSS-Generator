@@ -1,0 +1,7 @@
+	left: 0;
+	border-top-right-radius: 100px;
+	border-bottom-right-radius: 100px;
+	border-left: 0;
+	-webkit-transform-origin: center left;
+	transform-origin: center left;
+	animation: loading-2 1.5s linear forwards 1.8s;

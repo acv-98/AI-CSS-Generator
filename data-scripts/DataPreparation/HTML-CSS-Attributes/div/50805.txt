@@ -1,0 +1,13 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/orange.png', sizingMethod='image');
+	width:961px;
+	padding-bottom:21px;
+	margin:0 auto;
+	float:left;
+	display:inline;
+	padding-left:50px;
+	padding-top:10px;
+	position:relative;
+	height:80px;
+	line-height:81px;
+	min-height:167px;

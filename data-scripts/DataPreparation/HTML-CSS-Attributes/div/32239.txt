@@ -1,0 +1,8 @@
+	background-color:#f9f9f9;
+	padding:50px;
+	text-align:center;
+	
+	color:#6D9C91;
+	text-transform:uppercase;
+	margin-top:50px;
+	margin-bottom:30px;

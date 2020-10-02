@@ -1,0 +1,10 @@
+	width:73px;
+	height:27px;
+	float:left;
+	background:url(../images/send_btn.png) no-repeat;
+	text-align:center;
+	line-height:32px;
+	text-decoration:none;
+	font-size:11px;
+	font-weight:bold;
+	color:#FFF;

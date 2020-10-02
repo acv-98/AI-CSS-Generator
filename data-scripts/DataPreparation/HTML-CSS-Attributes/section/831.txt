@@ -1,0 +1,1 @@
+ color: #fff; font-size: 43px; font-weight: 100; margin: 20px 0 80px 0; font-style: italic;  background: #5b6869 url('../img/tBG01.jpg') no-repeat left center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 130px 0; 

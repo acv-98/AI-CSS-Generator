@@ -1,0 +1,8 @@
+  padding-top: 20px;
+  font-weight: 400;
+  margin: 0;
+  font-size: 13px;
+  color: #bcbcbc;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: block;

@@ -1,0 +1,4 @@
+	line-height:24px;
+	color:#a0a0a0;
+	padding-left:16px;
+	background:url(../images/marker_2.jpg) 0 3px no-repeat;

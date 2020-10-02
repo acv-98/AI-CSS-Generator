@@ -1,0 +1,6 @@
+	background-position: 0 13px;
+	padding-top: 0;
+	margin-bottom: 54px;
+	margin-top: 1px;
+	margin-right: 22px;
+	padding-bottom: 70px;

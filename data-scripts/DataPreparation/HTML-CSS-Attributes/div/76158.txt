@@ -1,0 +1,2 @@
+	background:url(images/hbox1.jpg) no-repeat;
+	height:10px;

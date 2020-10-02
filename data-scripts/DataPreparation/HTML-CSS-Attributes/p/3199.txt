@@ -1,0 +1,7 @@
+position:absolute;
+font-size:18px;
+line-height:24px;
+text-align:right;
+margin-bottom:16px;
+top:43px;
+text-indent:0;

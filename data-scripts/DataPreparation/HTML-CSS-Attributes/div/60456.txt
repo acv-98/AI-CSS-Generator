@@ -1,0 +1,5 @@
+  font-size: .84em;
+  color: #aaaaaa;
+  font-weight: normal;
+  display: inline-block;
+  margin: 10px 0;

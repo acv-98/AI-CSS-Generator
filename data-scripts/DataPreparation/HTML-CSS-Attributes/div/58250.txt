@@ -1,0 +1,10 @@
+	margin:0 auto;
+	padding:20px 15px 0 15px;
+	width:944px;
+	height:38px;
+	background:url(images/footer_bg.gif) top no-repeat;
+	color:#fff;
+	font:normal 12px Georgia, "Times New Roman", Times, serif;
+	line-height:normal;
+	text-decoration:underline;
+	float:left;

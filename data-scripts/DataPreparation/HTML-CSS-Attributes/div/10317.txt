@@ -1,0 +1,15 @@
+  width: 100px;
+  height: 100px;
+  float: left;
+  max-height: 95px;
+  line-height: 65px;
+  display: inline-block;
+  padding: 15px 0;
+  text-decoration: none;
+  max-width: 100%;
+  vertical-align: middle;
+position:relative@font-face {
+  font-family: 'simple-line-icons';
+  src: url('../fonts/Simple-Line-Icons.eot?v=2.3.2');
+  font-weight: normal;
+  font-style: normal;

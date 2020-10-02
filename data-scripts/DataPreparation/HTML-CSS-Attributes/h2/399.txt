@@ -1,0 +1,1 @@
+	background:url(images/h2_what.gif) left no-repeat; 

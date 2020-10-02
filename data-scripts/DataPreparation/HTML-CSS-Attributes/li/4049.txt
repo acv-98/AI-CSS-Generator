@@ -1,0 +1,4 @@
+	float:right;
+	text-align:left;
+		text-align:left;
+		float:right;

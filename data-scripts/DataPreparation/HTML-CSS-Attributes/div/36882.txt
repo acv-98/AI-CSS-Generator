@@ -1,0 +1,7 @@
+	position: absolute;
+	top: 26%;
+	width: 280px;
+	text-align: center;
+	margin: -20px auto;
+	padding: 0 30px;
+	list-style: none;

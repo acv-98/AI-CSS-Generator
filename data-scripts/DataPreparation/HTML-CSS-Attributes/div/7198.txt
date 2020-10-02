@@ -1,0 +1,2 @@
+ float:right; list-style:none; float:left; font-size:18px; padding:10px;color:#ffffff; text-decoration:none; padding:10px; background:#66a7c5; padding:10px; background:#66a7c5; padding:10px;
+BANNER CLASSES

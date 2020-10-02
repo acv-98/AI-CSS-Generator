@@ -1,0 +1,1 @@
+float:right;top:0 display:none; margin-bottom:20px; padding-bottom:10px; border-bottom:1px solid #e5e5e5; text-align:center;  background:url('images/icons/nav-slider-projects.png') no-repeat; display:inline-block; width:18px; height:18px; text-indent:-9999px; 

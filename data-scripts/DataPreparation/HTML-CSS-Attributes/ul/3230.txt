@@ -1,0 +1,16 @@
+  background: none repeat scroll 0 0 #D2691E;  
+	float: left;	
+	display: inline;	
+	width: 100%;	
+	margin: 0 auto;
+  border: 1px solid #e6e6e6;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  height: 20px;
+  line-height: 102px;
+  margin: 0 5px;
+  padding: 7px 5px;
+  position: relative;
+  width: 34px;
+  content:none;  

@@ -1,0 +1,8 @@
+	float:left;
+	margin-bottom:10px;
+	margin-top: 100px;
+`
+ display: block;
+ float: none;
+ width:100%;
+ text-align:center;

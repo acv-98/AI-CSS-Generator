@@ -1,0 +1,3 @@
+        width: 17%;
+        display: inline-block;
+        margin: 5px;

@@ -1,0 +1,9 @@
+	float:left;
+	width:60px;
+	text-align:center;
+	display:;
+	color:#888;
+	font-family: 'linecons';
+	font-size: 19px;
+    font-style: normal;
+    line-height: 20px;

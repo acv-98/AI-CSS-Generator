@@ -1,0 +1,2 @@
+		background:url(images/extra-bg.png) no-repeat 538px top;
+		width:100%;

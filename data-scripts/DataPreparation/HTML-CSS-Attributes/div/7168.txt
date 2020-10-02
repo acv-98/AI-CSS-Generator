@@ -1,0 +1,6 @@
+list-style:none; margin-right:20px; color:#ffffff; text-decoration:none; font-family: 'Oswald', sans-serif; font-size:15px; text-transform: uppercase; color:#104f94;
+BANNER SECTION 
+ float:right; padding-top:40px; padding-bottom:30px;.sf-menu, .sf-menu * {
+	margin: 0;
+	padding: 0;
+	list-style: none;

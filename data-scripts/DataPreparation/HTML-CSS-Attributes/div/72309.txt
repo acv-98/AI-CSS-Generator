@@ -1,0 +1,8 @@
+visibility: hidden; visibility: none;		visibility: visible;
+		display: inline-block;
+		background-image: url("./images/background3.jpg");
+		background-size: cover;
+		height: 50vh;
+		width: 100%;
+		border-top: 20px solid #dcd06f;
+		border-bottom: 20px solid #5e7a96;

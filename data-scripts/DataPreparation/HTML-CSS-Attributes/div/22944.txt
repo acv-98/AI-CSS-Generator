@@ -1,0 +1,5 @@
+  background-color: #78ADC9;
+  opacity: 0.7;
+  height: 100%;
+  padding: 20px 0;
+  width: 100%;

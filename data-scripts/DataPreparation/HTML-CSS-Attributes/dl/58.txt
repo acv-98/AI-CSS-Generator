@@ -1,0 +1,8 @@
+	margin:1px 0 18px 0;
+	line-height:24px;
+	margin-bottom:3px;
+	width:56px;
+	text-align:right;
+	display:block;
+	float:left;
+	margin-right:12px;

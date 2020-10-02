@@ -1,0 +1,5 @@
+  color: #ffffff;
+  font-size: 30px;
+  line-height: 52px;
+  font-weight: normal;
+  margin-bottom: 11px;

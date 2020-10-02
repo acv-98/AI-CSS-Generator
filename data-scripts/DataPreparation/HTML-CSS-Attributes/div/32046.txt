@@ -1,0 +1,5 @@
+	float:right;
+		margin:0 auto;
+		text-align:center;
+		  width:90%;
+		  float:none;

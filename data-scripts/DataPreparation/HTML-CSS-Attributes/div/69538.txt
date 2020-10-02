@@ -1,0 +1,15 @@
+  text-align: right;
+  color: #555454;
+  line-height: 50px;
+  padding-bottom: 15px;
+  position: relative;
+  border-bottom: 1px solid hsl(42, 93%, 51%);
+  bottom: 0;
+  content: "";
+  right: -60px;
+  width: 60%;
+  z-index: 1;
+  font-family: fontawesome;
+  font-size: 16px;
+  top: 38px;
+  display: none;  display: none;  line-height: 35px;  display: none;  display: none;  line-height: 35px;

@@ -1,0 +1,11 @@
+	display: -webkit-flex;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	-webkit-box-align: center;
+	        align-items: center;
+	-webkit-justify-content: center;
+	-ms-flex-pack: center;
+	-webkit-box-pack: center;
+	        justify-content: center;
+	margin-bottom: 0;
+ min-height: auto; 	

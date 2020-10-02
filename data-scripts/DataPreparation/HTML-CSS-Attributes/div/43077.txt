@@ -1,0 +1,16 @@
+	padding:100px 0;
+	padding-bottom:40px;
+	margin-bottom:80px;
+	position:relative;
+	font-size:14px;
+	margin-top:0;
+	letter-spacing:2px;
+	color:#B7A389;
+	height:10px;
+	background:#F0F0F0;
+	width:0;
+	bottom:100%;
+	right:0;
+	content: ' ';
+	border-bottom:solid 7px transparent;
+	border-right:solid 7px #888;

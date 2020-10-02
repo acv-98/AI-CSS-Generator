@@ -1,0 +1,24 @@
+ background-position: 0px bottom; 
+ background: none;     .blog-pinterest .meta div p, .blog-pinterest .meta div p span, .blog-pinterest .meta div p a span,
+    background-color: #ebebeb;
+    border-radius: 3px;
+    padding: 15px 25px 25px 25px;
+    margin-bottom: 20px;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    box-shadow: none;
+    right: 0px;
+    bottom: -15px;
+    left: auto;
+    top: auto;
+    margin-top: 60px;
+    padding-right: 0;
+    padding-bottom: 0;
+    min-height: 0;
+    display: block;
+    line-height: 1.6em;
+    color: #3b4752;
+    text-transform: uppercase;
+    font-weight: 800;
+    float: none;

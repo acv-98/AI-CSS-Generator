@@ -1,0 +1,11 @@
+    float: right;
+	margin-right:20px;
+    display: inline;
+    content: "";
+    padding-left: 7px;
+    margin-right: 7px;
+	display: none;
+	font-size: 14px;
+	color: #8a8d94;
+	font-weight: 300;
+    color: #ED502E;

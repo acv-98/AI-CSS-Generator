@@ -1,0 +1,5 @@
+ padding-top: 20px; .tm-site-name {
+	color: #FCDD44;
+	font-size: 27px;
+	font-weight: 600;
+	text-transform: uppercase;

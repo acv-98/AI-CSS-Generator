@@ -1,0 +1,8 @@
+font-size:12px;
+	.navbar-form .form-control {
+		width: 100%;
+    padding:35px 0px;
+    font-size:14px;
+    color:#83a7a5;
+    line-height: 30px;
+    padding-right:15px;

@@ -1,0 +1,19 @@
+	background: #1BAC91;
+	
+	box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	padding:20px;
+	font-size:22px;
+	color:#312f2b;
+	text-decoration:none;
+	overflow:hidden;
+	float:left;
+	margin-right:20px;
+	margin-top:10px;
+	font-weight:700;

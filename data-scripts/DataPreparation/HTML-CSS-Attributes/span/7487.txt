@@ -1,0 +1,2 @@
+	color: #6d9dc1;
+	border-bottom: 1px dotted #6d9dc1;

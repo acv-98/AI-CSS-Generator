@@ -1,0 +1,2 @@
+	background:url(images/image.jpg) repeat-x top;
+	height:216px;

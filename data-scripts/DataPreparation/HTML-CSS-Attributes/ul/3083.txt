@@ -1,0 +1,9 @@
+ flex-flow: column; 
+.tm-main-nav-container {
+	position: fixed;
+    width: 100%;
+	top: 5px;
+	right: 10px;    
+    z-index: 1000;
+		flex-flow: row; 
+		width: 100%;

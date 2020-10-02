@@ -1,0 +1,6 @@
+	text-align:right;
+	overflow:hidden;
+	width:590px;
+	padding-top:10px;
+	display:inline-block;
+	margin-left:31px;

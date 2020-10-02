@@ -1,0 +1,7 @@
+  padding-bottom: 25px;
+  margin-top: 0;
+  font-size: 30px;
+  color: #858586;
+  margin-bottom: 40px;
+.blog .blog-item .blog-content h4 {
+    margin-bottom: 20px;

@@ -1,0 +1,10 @@
+     float: left;
+     width: 100%;
+     text-align: left;
+     font-size: 14px;
+     line-height: 35px;
+     border-bottom: solid #ddd 1px;
+     padding: 5px 0;
+     margin-bottom: 10px;
+     padding-bottom: 5px;
+     padding-top: 0;

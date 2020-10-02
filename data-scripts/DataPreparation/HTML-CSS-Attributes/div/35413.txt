@@ -1,0 +1,10 @@
+    position: absolute;
+    top: 20%;
+    left: 1.8%;
+    right: auto;
+    width: 96.66666666666666%;
+    color: #fff;
+    font-size: 40px;
+	padding: 10px;
+	color: #fff;
+	text-transform: uppercase;

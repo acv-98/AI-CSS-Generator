@@ -1,0 +1,11 @@
+	margin:0 0 20px;
+	padding:41px 0 0;
+	list-style:none;
+	background:url(../images/bg-steps.png) no-repeat 50% 0;
+	display:inline-block;
+	vertical-align:top;
+	width:282px;
+	text-align:center;
+	position:relative;
+margin:0 0 5px;#footer {
+	z-index:8;

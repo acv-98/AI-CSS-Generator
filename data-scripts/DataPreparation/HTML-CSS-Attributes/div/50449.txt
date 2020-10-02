@@ -1,0 +1,10 @@
+	background:url(images/soc-bg.gif) no-repeat 0 0;
+	width:234px;
+	height:36px;
+	position:absolute;
+	bottom:0;
+	right:0;
+	z-index:100;
+	padding:16px 0 0 74px;
+	list-style:none;
+	display:inline;

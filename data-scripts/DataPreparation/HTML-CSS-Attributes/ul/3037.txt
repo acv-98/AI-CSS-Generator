@@ -1,0 +1,17 @@
+		float: none;
+		margin: 0;
+		display: block;
+		text-align: center;
+	padding: 0;
+	line-height: 1;
+	background: none;
+	margin-right: 10px;
+	overflow: hidden;
+	color: #6B6B6B;
+	font-family: 'MarketDecoRegular';
+	font-size: 18px;
+	text-decoration: none;
+	content: '';
+	height: 0;
+	clear: both;
+	visibility: hidden;

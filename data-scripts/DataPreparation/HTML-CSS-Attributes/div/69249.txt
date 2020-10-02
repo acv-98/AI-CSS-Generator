@@ -1,0 +1,7 @@
+	background-color: #09284b;
+	background-image: linear-gradient(to bottom, #010f1f 0, #051b34 100%);
+	position: relative;
+	width: 100%;
+	top: 9%;
+	left: 0;
+	height: 561px;

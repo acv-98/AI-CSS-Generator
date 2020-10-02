@@ -1,0 +1,10 @@
+    position: relative;
+    border-bottom: 1px solid #010101;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    width: 100%;
+    min-height: 40px;
+    font-size: 15px;
+    color: #222222;
+    right: 0px;
+    background: none;

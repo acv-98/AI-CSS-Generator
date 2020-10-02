@@ -1,0 +1,9 @@
+	display:block;
+	width:41%;
+	float:left;
+	height:32px;
+	margin:5px;
+	background:url(images/footerli2.gif) no-repeat;
+	color:#fff;
+	text-shadow:#3b441d 1px 1px 1px;
+	padding:5px 8px 0 22px;

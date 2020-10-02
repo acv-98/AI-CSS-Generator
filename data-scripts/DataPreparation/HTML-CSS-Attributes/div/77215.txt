@@ -1,0 +1,4 @@
+	margin: -1px -1px 0px -1px;
+	color: #fff;
+	background: none;
+	box-shadow: none;

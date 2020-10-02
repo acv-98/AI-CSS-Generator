@@ -1,0 +1,2 @@
+ display: block !important; 
+ .hide-for-small, .hide-for-medium, .hide-for-medium-down, .hide-for-large, .show-for-large-up, .show-for-xlarge  display: none !important;  display: none !important; float:left

@@ -1,0 +1,2 @@
+    color: #6f1683 !important;
+    background-color: #6f1683 !important;

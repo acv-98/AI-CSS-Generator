@@ -1,0 +1,7 @@
+    background-color: #aad4b3;
+    color: #fff;
+    padding-bottom: 22px;
+    text-align: center;
+    font: bold 36px/48px 'Economica', sans-serif;
+    font-size: 20px;
+    text-decoration: underline;

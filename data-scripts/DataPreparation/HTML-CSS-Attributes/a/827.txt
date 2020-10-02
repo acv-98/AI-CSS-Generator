@@ -1,0 +1,14 @@
+	float: left;
+	background-color: #1687A6;
+	font-weight: 600;
+	font-size: 18px;
+	display: block;
+	padding: 17px 30px;
+	width: 25%;
+	transition: all 0.3s;
+	text-align: center;
+	color: white;
+	height: 60px;
+ width: 35%; 		float: none;
+		width: 100%;
+		text-align: center;

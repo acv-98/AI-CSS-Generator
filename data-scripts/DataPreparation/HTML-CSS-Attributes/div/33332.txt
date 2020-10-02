@@ -1,0 +1,4 @@
+margin-bottom: 30px !important;  
+  .hidden-desktop {
+    display: inherit !important;
+color: #f85c5e; font-size: 13px; line-height: 20px; font-family: 'open_sansbold';color: #a5a5a5;color: #fff; text-decoration: none;

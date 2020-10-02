@@ -1,0 +1,2 @@
+padding:80px 0;
+color:inherit; border-color:#D7D7D7;color:#66CCCC;

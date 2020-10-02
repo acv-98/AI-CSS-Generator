@@ -1,0 +1,5 @@
+	width:60px;
+	float:left;
+	background:#fff;
+	display:block;
+	padding:4px;

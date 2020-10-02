@@ -1,0 +1,2 @@
+    background: linear-gradient(left ,#8165a6, #d83f87) repeat scroll 0 0;
+text-align: center;

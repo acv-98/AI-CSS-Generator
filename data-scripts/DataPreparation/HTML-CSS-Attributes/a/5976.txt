@@ -1,0 +1,12 @@
+  border: 2px solid #00ADB5;
+  background: #00ADB5;
+  text-decoration: none !important;
+  position: absolute;
+  bottom: 0;
+  padding: 7px 10px;
+  line-height: 0;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  border-radius: 2px;
+  left: 30px;

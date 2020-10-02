@@ -1,0 +1,4 @@
+	display:block;
+	font:bold 16px Comfortaa;
+	padding:5px;
+	margin-bottom:5px;

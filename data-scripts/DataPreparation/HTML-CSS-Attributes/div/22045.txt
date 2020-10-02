@@ -1,0 +1,5 @@
+animation-duration:1s;animation-fill-mode:both
+CAROUSEL
+  animation-name: slideInLeft;
+-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both@-ms-viewport {
+  width: device-width;

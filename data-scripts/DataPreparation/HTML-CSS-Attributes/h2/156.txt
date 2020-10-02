@@ -1,0 +1,7 @@
+	line-height:34px;
+	color:#85a09d;
+	text-transform:uppercase;
+	display:block;
+	border-bottom:#d2d9d8 2px solid;
+	border-top:#d2d9d8 2px solid;
+	text-align:left;

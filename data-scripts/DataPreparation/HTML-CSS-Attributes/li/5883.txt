@@ -1,0 +1,2 @@
+	font-weight:bold;
+	background:url(../img/nivo-pag.png) bottom no-repeat; background: #f5f5f5;color:#272727; 

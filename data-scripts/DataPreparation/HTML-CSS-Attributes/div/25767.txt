@@ -1,0 +1,8 @@
+	position: relative;
+	padding-top: 250px;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 200px;
+	font-size: 60px;
+	color: #eeeeee;
+	font-weight: 600;

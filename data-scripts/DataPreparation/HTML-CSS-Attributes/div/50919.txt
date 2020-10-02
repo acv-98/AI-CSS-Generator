@@ -1,0 +1,10 @@
+	background:#f5b700 url(images/footer.gif) repeat-x 0 0;
+	font-size:10px;
+	height:87px;
+	position:relative;
+	margin-top:-23px;
+	padding:54px 0 0;
+	color:#f9f1f1;
+	text-decoration:none;
+	line-height:normal;
+	float:left;

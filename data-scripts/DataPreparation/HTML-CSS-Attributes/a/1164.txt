@@ -1,0 +1,13 @@
+		margin: 0;
+		margin-top: 20px;
+		padding: 15px 30px;
+		display: inline-block;
+		background-color: #6939E5;
+		-moz-border-radius: 5px; 
+		-webkit-border-radius: 5px; 
+		border-radius: 5px;
+		color: #FFF;
+		font-size: 15px;
+		font-weight: 700;		
+		text-transform: uppercase;
+		text-decoration: none;

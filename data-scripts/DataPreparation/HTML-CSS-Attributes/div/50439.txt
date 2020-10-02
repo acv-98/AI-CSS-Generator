@@ -1,0 +1,4 @@
+	float:left;
+	margin:0 4px 4px 0;
+	border:solid 1px #ccc;
+	padding:1px;

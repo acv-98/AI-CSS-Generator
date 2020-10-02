@@ -1,0 +1,34 @@
+		margin-bottom: 30px;
+    text-align: center;
+    overflow: hidden;
+    padding: 50px 10px 120px;
+    background: #8299cd;
+    z-index: 1;
+    position: relative;
+    content: "";
+    width: 20%;
+    height: 100%;
+    border-radius: 50%;
+    top: 0;
+    left: -50px;
+    right: -50px;
+    display: inline-block;
+    margin: 0;
+    font-size: 33px;
+    color: #fff;
+    text-transform: capitalize;
+    transform: translateX(-50%);
+    box-shadow: 0 0 0 5px #fff,0 0 25px -2px  #000;
+    line-height: 55px;
+    list-style: none;
+    letter-spacing: 1px;
+    font-weight: 500;
+    transition: all 0.3s ease 0s;
+ background: #e45050; .pricingTable.yellow .price-value{
+    border-color: #e45050;
+ border-color: #e45050; .pricingTable.yellow .pricingTable-signup:hover{
+ background: #db5c87; .pricingTable.purple .price-value{
+ border-color: #db5c87; .pricingTable.purple .pricingTable-signup:hover{
+ margin-bottom: 30px;  font-size: 25px;     .pricingTable .pricing-content ul{
+        padding-left: 30px;
+        padding-right: 5px;

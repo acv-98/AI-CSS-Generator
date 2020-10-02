@@ -1,0 +1,1 @@
+ width: 138px; border: 0; background-color: #555555; color: #808080; font-size: 12px; height: 14px; padding: 5px 26px 5px 16px;  font-size: 12px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -o-border-radius: 10px; 

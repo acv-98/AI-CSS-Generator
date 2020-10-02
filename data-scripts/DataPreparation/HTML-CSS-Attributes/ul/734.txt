@@ -1,0 +1,6 @@
+		padding: 14px 20px;
+	border-bottom: none;
+	background: #f6f6f6;
+	color: #fff;
+	border-radius: 0px;
+	font-size: 18px;

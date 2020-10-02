@@ -1,0 +1,2 @@
+    border-color: #ffffff !important;
+    color: #ffffff !important;

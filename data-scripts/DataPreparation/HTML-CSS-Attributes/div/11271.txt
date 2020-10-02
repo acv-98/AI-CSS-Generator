@@ -1,0 +1,6 @@
+	clear: both;
+	display: block;
+	margin: 25px 0 10px 20px;
+	padding: 0;
+	background: #150e0b;
+   border: 1px solid #261b15;

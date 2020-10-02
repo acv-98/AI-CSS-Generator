@@ -1,0 +1,13 @@
+color:#217b9d;		background:url(../images/design/noise.png) top left repeat #e8e8e8;
+		text-align:center;
+		position:relative;
+		margin-bottom:0;
+		padding-top:3px;
+		font-size:46px;
+		line-height:63px;
+		color:#3aa9d2;
+		font-family:"Open Sans";
+		font-weight:600;
+		top:-7px;
+		margin-left:2px;
+		font-style:italic;

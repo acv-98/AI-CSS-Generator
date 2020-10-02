@@ -1,0 +1,8 @@
+	background: url("images/comment_bubble.png") no-repeat 0 4px;
+	display: inline;
+	float: right;
+	font-size: 11px;
+	font-weight: bold;
+	height: 16px;
+	line-height: 18px;
+	padding: 0 0 0 17px;

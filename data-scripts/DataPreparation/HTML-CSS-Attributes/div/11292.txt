@@ -1,0 +1,16 @@
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  content: " ";
+  display: table;
+  clear: both;
+    width: 750px;
+    margin-right: 0;
+    margin-left: 0;
+  border-radius: 6px;
+  max-width: 100%;
+    padding-left: 60px;
+    padding-right: 60px;
+  position: relative;
+  z-index: 10;

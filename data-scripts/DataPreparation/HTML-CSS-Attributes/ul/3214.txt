@@ -1,0 +1,8 @@
+		float: left;
+		width: 100%;
+ border-right: 1px solid #444; 	
+	display: inline;
+	margin-left: 5px;
+	padding-right: 5px;
+	border: none;
+	font-weight: bold;

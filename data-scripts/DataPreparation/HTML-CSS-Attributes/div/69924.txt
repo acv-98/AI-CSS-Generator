@@ -1,0 +1,7 @@
+  padding:0;
+  margin-left: 0;
+padding:10px 0;.copyright_text{color: #898989;
+font-size: 12px;
+padding: 20px 0px 5px;margin-left: -25px;.single_footer{margin-left: 25px;
+border-bottom:3px solid #999999;padding-bottom:15px;.single_footer>h2{border-bottom: 2px dotted #bababa;
+font-weight: bold;

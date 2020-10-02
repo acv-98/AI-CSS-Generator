@@ -1,0 +1,17 @@
+	margin-top: 10px;
+	float: left;
+	width: 78px;
+	height: 78px;
+	padding: 4px 0px 0px 0px;
+	background: url(images/img07.jpg) no-repeat left top;
+	line-height: normal;
+	text-align: center;
+	text-shadow: 1px 1px 0px #2C7485;
+	text-transform: uppercase;
+	font-family: 'Abel', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	color: #FFFFFF;
+	display: block;
+	letter-spacing: -1px;
+	text-decoration: none;

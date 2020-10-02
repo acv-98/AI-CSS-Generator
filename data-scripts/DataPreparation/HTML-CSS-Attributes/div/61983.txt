@@ -1,0 +1,7 @@
+	width:100%;
+	overflow:hidden
+	padding-left:30px
+	background:url(../images/arrow.png) right 4px no-repeat
+	height:50px;
+	margin-top:1px
+	display:block;

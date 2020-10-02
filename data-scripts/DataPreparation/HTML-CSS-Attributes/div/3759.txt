@@ -1,0 +1,13 @@
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader() !important;
+	width:250px;
+	height:324px;
+	overflow:hidden;
+	position:absolute;
+	top:0;
+	left:660px;
+	z-index:99;
+	font-family: 'Adamina', serif;
+	font-size:19px;
+	line-height:29px;
+	color:#4d4d4d;
+	background:url(../images/banner-2.png) 0 0 no-repeat;

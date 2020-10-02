@@ -1,0 +1,9 @@
+    display: inline-block;
+    font-size: 1.6em;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+    width: 150px;
+    z-index: 2;
+    content: '%';
+    margin-left: .1em;

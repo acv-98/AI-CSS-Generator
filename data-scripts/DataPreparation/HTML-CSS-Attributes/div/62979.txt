@@ -1,0 +1,5 @@
+ width: 140px;  font-size: 16px; 
+	.thumb {
+		background-image: url("../images/works/thumb-shadow.png");
+		padding-bottom: 8px;
+		width: 220px;

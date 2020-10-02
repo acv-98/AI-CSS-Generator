@@ -1,0 +1,13 @@
+	float:left;
+	padding-top:18px;
+	padding-left:91px;
+	width:198px;
+	height:26px;
+	border:2px solid #92b9c4;
+	background:#16758d;
+	font-size:11px;
+	color:#e7eef5;
+	display:inline;
+	cursor:pointer;
+	line-height:0;
+	text-indent:-4000px;

@@ -1,0 +1,8 @@
+	margin:0 auto;
+	padding:0;
+	width:910px;
+	background:url(images/heder_resize_bg.jpg) top center no-repeat;
+	font:normal 45px/1.2em Georgia, "Times New Roman", Times, serif;
+	color:#6d6d6d;
+	letter-spacing:-2px;
+	float:left;

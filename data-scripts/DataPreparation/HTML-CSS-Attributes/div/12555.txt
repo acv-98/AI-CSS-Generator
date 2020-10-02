@@ -1,0 +1,5 @@
+	font-size:52px;
+	font-weight:300;
+	margin:10px 0;
+	display:inline-block;
+	vertical-align:super;

@@ -1,0 +1,9 @@
+    margin-top: 60px;
+    display: table;
+    margin-bottom: 10px;
+    position: relative;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 40px;
+    color: #fff;
+    width: 44px;

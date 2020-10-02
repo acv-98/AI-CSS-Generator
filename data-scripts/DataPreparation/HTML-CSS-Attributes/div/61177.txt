@@ -1,0 +1,9 @@
+	height: 146px !important;
+	width: 146px !important;
+	margin: 0 auto;
+	float: none;
+	background-color: #0091ea;
+	color: #fff !important;
+	font-size: 20px;
+	padding: 20px 15px;
+	border-radius: 50%;

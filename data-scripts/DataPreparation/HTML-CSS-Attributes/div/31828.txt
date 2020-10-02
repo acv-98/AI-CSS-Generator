@@ -1,0 +1,1 @@
+width:220px; float:leftfloat:left; margin: 0 14px 0 0 margin-top:13pxwidth:100px; float:left; font:10px/14px Tahoma, Geneva, sans-serif; color:#3f3128; margin-top:0margin-right:15px

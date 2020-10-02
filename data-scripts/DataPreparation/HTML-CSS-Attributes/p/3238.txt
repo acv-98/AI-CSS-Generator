@@ -1,0 +1,5 @@
+	padding-left: 25px;
+	background-image: url('../images/icons/chat.png');
+	margin-right: 0;
+	content: '\0000a0-\0000a0';
+ color:#777777; float:right; margin-right:20px; width:3em; 

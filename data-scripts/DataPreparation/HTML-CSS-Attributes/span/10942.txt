@@ -1,0 +1,4 @@
+	background: url(../images/slider-icons.png) no-repeat 0px 0px;
+	left: 20%;
+		left: 15%;
+		display: none;

@@ -1,0 +1,10 @@
+  float: left;
+  width: 8.333333333333332%;
+		height: 232px;
+		padding-top: 30px;
+		overflow: hidden;
+		transition: all ease-in .5s;
+		display: inline-block;
+		margin: 0;
+		width: 452px;
+		font-size: 20px;

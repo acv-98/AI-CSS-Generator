@@ -1,0 +1,5 @@
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 250px;
+    left: 0;

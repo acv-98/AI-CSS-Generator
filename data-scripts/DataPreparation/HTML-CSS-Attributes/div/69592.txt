@@ -1,0 +1,8 @@
+  margin-bottom: 5em;
+  font-size: 30px;
+  line-height: auto;
+  font-family: "Libre Baskerville", serif;
+  color: #000;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 2px;

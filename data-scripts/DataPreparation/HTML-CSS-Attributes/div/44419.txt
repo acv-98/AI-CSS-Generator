@@ -1,0 +1,5 @@
+	margin:0;
+	padding:0;
+	float:left;
+	width:280px;
+	background:#fff url(../images/gadget_bg.gif) repeat-x left bottom;

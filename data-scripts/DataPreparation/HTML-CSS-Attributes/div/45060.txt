@@ -1,0 +1,18 @@
+  display: block;
+  -webkit-animation: fadeInUp 400ms;
+  animation: fadeInUp 400ms;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  background: rgba(137, 97, 46, 0.8);
+  width: 100%;
+  text-align: center;  
+  padding: 0;
+  margin-top: -26px;
+  color: #fff;
+  border: 1px solid #fff;
+  line-height: 38px;
+  border-radius: 40px;
+  -webkit-transition: all 0.9s ease;
+  transition: all 0.9s ease;
+  border-color: #89612e;

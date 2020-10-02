@@ -1,0 +1,2 @@
+    overflow: visible;
+    border: 0 !important;

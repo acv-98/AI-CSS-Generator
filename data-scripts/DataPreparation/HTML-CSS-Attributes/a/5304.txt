@@ -1,0 +1,2 @@
+	width:186px;
+	background-image:url(../images/m1-act.jpg);

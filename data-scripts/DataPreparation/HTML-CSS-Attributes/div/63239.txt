@@ -1,0 +1,4 @@
+	float:left;
+	width:527px;
+	position:relative;
+	z-index:9;

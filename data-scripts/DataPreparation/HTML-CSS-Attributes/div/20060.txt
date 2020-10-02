@@ -1,0 +1,6 @@
+.main_test .test_item .test_text{
+    width:80%;
+    margin: 30px auto;
+    font-size:18px;
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: 400;

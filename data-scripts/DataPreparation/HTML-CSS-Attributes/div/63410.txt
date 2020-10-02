@@ -1,0 +1,25 @@
+  margin-bottom: 20px !important;
+line-height:1.4@charset "UTF-8";
+	MASTER STYLESHEET
+	Project:        Metronic "Acidus" Frontend Freebie - Responsive HTML Template Based On Twitter Bootstrap 3.3.4
+	Version:        1.0
+	Author:         KeenThemes
+	Primary use:    Corporate, Business Themes.
+	Email:			support@keenthemes.com
+	Follow: 		http://www.twitter.com/keenthemes
+	Like: 			http://www.facebook.com/keenthemes
+	Website:		http://www.keenthemes.com
+	Premium:		Premium Metronic Admin Theme: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
+  	[The "base.scss" contains basic default element styles
+  		(colors, typography, margins & padding).]
+html {
+  overflow-x: hidden;
+position:relative;font-family:Hind,sans-serif.mfp-bg {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1042;
+  position: fixed;
+  background: #0b0b0b;
+  opacity: 0.8;

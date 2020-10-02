@@ -1,0 +1,14 @@
+	    font-family: 'open_sanslight';
+    font-size: 2.25rem;
+    line-height: 6rem;
+    margin: 30px 0px;
+	background:#fff;
+	padding:40px;
+	overflow:hidden;
+	text-transform:uppercase;
+	color:#67267a;
+	font-size: 1.125rem;
+	font-family: 'open_sansbold';
+	font-weight:500;
+	margin-top:25px;
+	

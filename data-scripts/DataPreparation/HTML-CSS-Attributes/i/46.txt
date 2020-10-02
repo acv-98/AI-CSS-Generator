@@ -1,0 +1,7 @@
+    border: 1px solid #9fd7ef;
+     border-radius: 50%;
+    padding: 10px;
+    width: 38px;
+    height: 38px;
+    text-align: center;
+    margin: 0 20px;

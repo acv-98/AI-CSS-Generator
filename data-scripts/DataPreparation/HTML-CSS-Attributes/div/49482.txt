@@ -1,0 +1,7 @@
+  border-right: 0 solid #ddd;
+  width: 100%;
+  float:none;
+margin-left: -40px;
+  margin-left: 0;
+border-bottom:2px solid #ddd;
+margin-left: -25px;

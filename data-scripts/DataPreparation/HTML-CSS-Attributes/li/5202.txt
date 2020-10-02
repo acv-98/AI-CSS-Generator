@@ -1,0 +1,16 @@
+  position: relative;
+  font-size: 13px;
+  color: #81848f;
+  padding-left: 20px;
+  margin-bottom: 10px;
+  top: 7px;
+  left: 0;
+  width: 9px;
+  height: 2px;
+  background: #17bed2;
+  content: " ";
+  margin-right: 10px;
+position:relative;font-family:Hind,sans-serif.mfp-bg {
+  z-index: 1042;
+  overflow: hidden;
+  opacity: 0.8;

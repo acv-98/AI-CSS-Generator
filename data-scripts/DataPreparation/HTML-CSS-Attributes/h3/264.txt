@@ -1,0 +1,2 @@
+	border-bottom:1px solid #7cbb00;
+	font-weight:400;

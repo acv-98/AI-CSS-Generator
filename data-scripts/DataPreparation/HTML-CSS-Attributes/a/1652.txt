@@ -1,0 +1,6 @@
+ background: url(../img/social-icons/circular/youtube_32.png); 
+ background: url(../img/social-icons/rounded/youtube_32.png); //
+//   THEME COLORS AND BACKGROUNDS
+body {
+	background: #f1f1f1 url(bg.png) repeat;
+	color: #606060;

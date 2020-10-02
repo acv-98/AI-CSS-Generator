@@ -1,0 +1,10 @@
+    background: url(../images/bg/pattern-bg.png);
+    background-repeat: repeat;
+    text-align: center;
+    padding: 30px 0;
+    margin-top: 10px;
+    color: #797878;
+    font-size: 13px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    font-weight: 500;

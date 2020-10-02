@@ -1,0 +1,1 @@
+text-decoration:none; color:#27292a; font-size:100%; font-weight:200; letter-spacing:1pxcolor:#000; font-weight:400font-weight:400display:inline; margin:0 10px 0 10pxtext-align:right; margin-top:20px

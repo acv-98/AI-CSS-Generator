@@ -1,0 +1,4 @@
+    background: url('../uploads/building/construction01.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #ffffff;

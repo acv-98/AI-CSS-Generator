@@ -1,0 +1,12 @@
+    color: #2f2f2f;
+    font-size: 24px;
+    vertical-align: middle;
+    margin-right: 12px;
+	margin-right: 0px;
+	margin-left: 12px;
+    padding: 0px;
+    position: relative;
+    background: #000;
+    border: 1px solid #111111;
+    box-shadow: none !important;
+    background-color: #fff;

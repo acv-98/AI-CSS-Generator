@@ -1,0 +1,1 @@
+border:1px solid #fff; width:100%.header_top_leftborder-color:#FFAE00

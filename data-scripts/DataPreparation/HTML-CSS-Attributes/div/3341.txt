@@ -1,0 +1,9 @@
+	border-top:5px solid #ffcc33;
+	border-left:5px solid #fff;
+	border-right:5px solid #fff;
+	color:#ffcc33;
+	border-bottom:5px solid #fff;
+	font-size:1.0625rem;
+	padding:20px;
+	border-radius: 50%;
+	display: inline-block;

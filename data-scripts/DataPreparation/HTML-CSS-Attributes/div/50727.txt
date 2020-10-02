@@ -1,0 +1,4 @@
+	float:right;
+	width:50%;
+	height:200px;
+	background:#5500b0 url('images/header-right.gif') repeat-x 0 0;

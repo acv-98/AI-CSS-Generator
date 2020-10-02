@@ -1,0 +1,5 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/box-quick.png', sizingMethod='image');
+	width:281px;
+	height:154px;
+	padding:72px 30px 42px 29px;

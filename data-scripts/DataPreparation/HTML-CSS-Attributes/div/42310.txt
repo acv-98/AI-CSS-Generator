@@ -1,0 +1,2 @@
+ margin:67px auto; margin-bottom:60px; display:block; cursor:pointer; outline:none; background-color:transparent; border:3px solid #FFF; border-radius:100%; width:94px; height:94px; line-height:94px; font-size:60px; text-align:center; color:#FFF;
+ padding-left:10px border-color:#6bb551 min-height:528px; position:relative content:""; position:absolute; left:0; right:0; top:0; height:100%; background-color:rgba(29,23,36,0.9) position:relative; z-index:2; padding-top:200px font-size:19px; color:#FFF; font-weight:700; padding:0; margin:0 margin:0 auto; margin-bottom:20px

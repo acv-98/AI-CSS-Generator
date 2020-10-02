@@ -1,0 +1,5 @@
+	background-color: #fff;
+    outline: 0;
+    box-shadow: none;    
+	color: #888;
+	font-size: 15px;

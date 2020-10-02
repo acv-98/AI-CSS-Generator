@@ -1,0 +1,5 @@
+ background-color: #fbe1fd; 
+.tm-bg-pink-1,
+.tm-bg-pink-2,
+.tm-bg-pink-3 {
+	color: #3f323f;

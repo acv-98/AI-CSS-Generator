@@ -1,0 +1,4 @@
+	-ms-transform: none;
+	-webkit-transform: none;
+	transform: none;
+	width: 30px;

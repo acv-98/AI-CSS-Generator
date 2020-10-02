@@ -1,0 +1,9 @@
+        right: -33px;
+        height: auto;
+        float: right;
+        width: 45%;
+        max-height: 400px;
+        overflow: hidden;
+        display: none
+    position: absolute;
+    top: 34px;

@@ -1,0 +1,4 @@
+	color: #ab4d63;
+	text-decoration: none;
+	background: transparent url(../images/menu-hover.png) repeat-y left top;
+	

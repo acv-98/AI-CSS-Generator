@@ -1,0 +1,12 @@
+	height:25px;
+	overflow:hidden;
+	padding:25px 0 0 0;
+	margin-left:80px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-transform:capitalize;
+	color:#777;
+	background:transparent;
+	border:none;
+	cursor:pointer;
+	width:50px;
+	text-indent:-9999px;

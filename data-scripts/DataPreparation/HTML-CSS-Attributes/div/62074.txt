@@ -1,0 +1,4 @@
+ padding-left: 30px; 	padding-left: .9375rem;
+	padding-top: 14px;
+ padding-left: 20px; 		padding-left: 25px; 
+		padding-top: 0;

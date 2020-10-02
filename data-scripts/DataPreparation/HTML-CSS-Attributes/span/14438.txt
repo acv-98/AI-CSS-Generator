@@ -1,0 +1,1 @@
+padding:0px 1px 0px 1px;margin-left:5px;width:1px;background:url(../images/menu_border.gif) no-repeat center center; 

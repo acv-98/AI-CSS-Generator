@@ -1,0 +1,6 @@
+  text-transform: capitalize;
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 1px;
+  padding-top: 5px;
+  color: #949494;

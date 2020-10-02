@@ -1,0 +1,16 @@
+	padding:0;
+	margin:0;
+	background:#e1e1e1 url(../images/main_bg.gif) repeat-x left top;
+	float:left;
+	width:680px;
+	margin-bottom:0;
+	padding-bottom:0;
+	font-size:25px;
+	line-height:1.2em;
+	color:#0e5b8c;
+	border:none;
+	height:31px;
+	font-weight:bold;
+	text-transform:none;
+	text-decoration:none;
+	text-align:center;

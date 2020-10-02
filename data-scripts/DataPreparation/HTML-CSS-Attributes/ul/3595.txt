@@ -1,0 +1,1 @@
+border-radius:0; float:left; margin-bottom:0; min-height:40px; width:80%; border:nonepadding-bottom:10px; padding-top:10px; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5spadding-left:0.navbar-collapsecolor:#09cbackground-color:#09c; color:#fffbackground-color:#09c; border-color:#09cbackground-color:#09c; opacity:0.75background-color:#fff

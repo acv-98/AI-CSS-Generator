@@ -1,0 +1,15 @@
+  margin: 20px 0 0px;
+  float: none;
+  margin-top: 0;
+margin-top: 20px;.manu ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+    float: left;
+color: #717171;
+display: block;
+text-transform: uppercase;
+font-weight: bold;
+margin: 20px 0;.mainmenu{background: none repeat scroll 0 0 #FFFFFF;
+border-bottom: 2px solid #999999;
+border-radius: 0 0 5px 5px;

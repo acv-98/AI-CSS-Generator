@@ -1,0 +1,11 @@
+	position:relative;
+	text-align:center;
+	overflow:hidden;
+	height:490px;
+	z-index:5;
+	width:350px;
+	margin-right:-85px;
+	margin-left:-85px;
+		border-bottom:solid 4px #202020;
+		height:auto;
+		width:55%;

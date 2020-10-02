@@ -1,0 +1,7 @@
+  padding: 23px 25px;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  border-bottom: 1px solid #00C7FC;
+  background-color: transparent;

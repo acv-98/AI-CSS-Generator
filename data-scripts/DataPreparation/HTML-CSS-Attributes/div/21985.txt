@@ -1,0 +1,15 @@
+	margin-bottom:40px;
+	font-size:24px;
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	line-height:84px;
+	height:84px;
+	display:inline-block;
+	*display:inline;
+	*zoom:1;
+	position:relative;
+	vertical-align:top;
+	top:18px;
+	bottom:5px;
+	color:rgba(0,0,0,.4);

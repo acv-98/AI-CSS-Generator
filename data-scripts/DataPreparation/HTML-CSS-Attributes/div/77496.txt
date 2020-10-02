@@ -1,0 +1,15 @@
+-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both
+ * Bootstrap v4.1.0 (https://getbootstrap.com/)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  	Flaticon icon font: Flaticon
+  	Creation date: 10/07/2018 13:22
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon_new.eot");
+       url("../fonts/Flaticon_new.woff") format("woff"),
+       url("../fonts/Flaticon_new.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;

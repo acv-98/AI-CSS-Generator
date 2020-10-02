@@ -1,0 +1,1 @@
+font-size:0.75em;width:1000px;margin:0 autowidth:100%position:relative;height:284pxbackground:url(images/cont-bg.gif) repeat-y left top

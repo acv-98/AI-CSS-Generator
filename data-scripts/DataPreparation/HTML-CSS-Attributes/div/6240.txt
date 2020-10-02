@@ -1,0 +1,13 @@
+    padding:0 0 20px 10px;
+    overflow:hidden;
+    background:url(../images/devider.png) 0 100% repeat-x;
+    margin:0 0 10px 0;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    color:#444;
+    text-transform:uppercase;
+    font-weight:normal;
+    text-decoration:none;
+    list-style:none;
+    font-style:italic;
+    float:right;

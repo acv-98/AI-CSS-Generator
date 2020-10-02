@@ -1,0 +1,12 @@
+	text-decoration: none;
+	padding: 3px 0;
+	background:url(../images/toggle.png) no-repeat right 5px;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	cursor:pointer;
+	text-transform:none;
+	font-size:18px;
+	font-family:Arial, Helvetica, sans-serif;

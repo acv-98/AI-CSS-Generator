@@ -1,0 +1,4 @@
+display:block; font-size:0.75em; background:#000; color:#fff; text-align:center; padding:3px;
+.shadow {
+-webkit-box-shadow: 1px 1px 5px rgba(0,0,0,.3);
+-moz-box-shadow: 1px 1px 5px rgba(0,0,0,.3);

@@ -1,0 +1,1 @@
+ width:430px; float:left; margin-top:0px;  color: #000; margin-bottom:0;  font-family: "Yanone Kaffeesatz", serif; font-size: 24px; font-weight: normal;  margin:10px 0 20px; font-weight:normal; text-transform:none; line-height:0;  color:#615c5c;  line-height:24px;  font-family: "Droid Sans", serif; font-size: 13px;  font-size: 18px; 

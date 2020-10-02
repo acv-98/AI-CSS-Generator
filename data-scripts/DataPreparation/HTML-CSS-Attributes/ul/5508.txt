@@ -1,0 +1,8 @@
+    padding-top: 30px;
+    margin-bottom: 200px;
+        margin-bottom: 150px;
+    font-size: 26px;
+    font-weight: bold;
+    color: #fff;
+    background-color: transparent;
+    float: left;

@@ -1,0 +1,4 @@
+    top: 42px;
+    border-top-width: 3px;
+    position: relative;
+    border-color: transparent transparent transparent #93C052;

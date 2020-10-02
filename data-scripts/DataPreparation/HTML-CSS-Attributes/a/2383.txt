@@ -1,0 +1,13 @@
+	display:block;
+	margin:-36px 0;
+	padding:14px 0 0 22px;
+	float:right;
+	width:59px;
+	height:45px;
+	font-size:28px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#f0f0f0;
+	background:url(../images/comment.jpg) no-repeat left top;
+	border:1px solid #dedede;

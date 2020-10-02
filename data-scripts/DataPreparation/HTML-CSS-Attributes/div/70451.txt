@@ -1,0 +1,4 @@
+    padding: 2rem 0;
+    font-size: 14px;
+    margin: 0;
+    line-height: 1.4;

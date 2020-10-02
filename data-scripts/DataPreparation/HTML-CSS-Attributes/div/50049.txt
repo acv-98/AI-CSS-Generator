@@ -1,0 +1,5 @@
+    background:url(../img/border_md.png) no-repeat scroll center center;
+    background-size:cover;
+    width:90px;
+    height:91px;
+    margin: 0 auto;

@@ -1,0 +1,5 @@
+
+.appointment-left h2{
+	font-size: 38px;
+	color: #bb9d52;
+	font-weight: 700;

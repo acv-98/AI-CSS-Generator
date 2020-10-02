@@ -1,0 +1,9 @@
+	background: url("images/heading-back.jpg") repeat-x;
+	font-size: 13px;
+	font-weight: bold;
+	line-height: 10px;
+	margin-bottom: 32px;
+	text-align: right;
+	text-transform: capitalize;
+	color: #2387D9;
+	padding: 0 8px 0 12px;

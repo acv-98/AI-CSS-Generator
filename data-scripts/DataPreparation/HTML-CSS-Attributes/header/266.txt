@@ -1,0 +1,77 @@
+  margin-bottom: 0;
+  width: 25px;
+  height: 25px;
+  border: none;
+  padding: 0;
+  position: relative;
+  display: inline-block;
+  background: #515769;
+  transition-duration: 300ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  right: 0;
+  content: " ";
+  bottom: 10px;
+  -webkit-transform: rotate(0);
+  -moz-transform: rotate(0);
+  transform: rotate(0);
+  top: -5px;
+  float: right;
+  max-height: 95px;
+  line-height: 65px;
+  text-decoration: none;
+  max-width: 100%;
+  vertical-align: middle;
+  padding-right: 0;
+  list-style: none;
+  padding-left: 0;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: Hind, sans-serif;
+  text-transform: uppercase;
+    display: block;
+    overflow-y: auto !important;
+    padding-right: 0;
+    padding-left: 0;
+    margin: 0;
+    float: none;
+    content: " ";
+    clear: both;
+    line-height: 1.4;
+    position: absolute;
+    top: 61px;
+    margin-right: 0;
+    margin-left: 0;
+    width: auto;
+line-height:1.4	MASTER STYLESHEET
+	Project:        Metronic "Aitonepage" Frontend Freebie - Responsive HTML Template Based On Twitter Bootstrap 3.3.4
+	Version:        1.0
+	Author:         KeenThemes
+	Primary use:    Corporate, Business Themes.
+	Email:			support@keenthemes.com
+	Follow: 		http://www.twitter.com/keenthemes
+	Like: 			http://www.facebook.com/keenthemes
+	Website:		http://www.keenthemes.com
+	Premium:		Premium Metronic Admin Theme: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
+  	[The "base.scss" contains basic default element styles
+  		(colors, typography, margins & padding).]
+html {
+  overflow-x: hidden;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  left: 0;
+  opacity: 1;
+  color: #fff;
+    background: #fff;
+    color: #515769;
+    border-bottom-color: #f0f0f0;
+    transition-duration: 300ms;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+position:relative;font-family:Hind,sans-serif@font-face {
+	font-family: 'Simple-Line-Icons';
+	src:url('fonts/Simple-Line-Icons.eot');
+		url('fonts/Simple-Line-Icons.woff') format('woff'),
+		url('fonts/Simple-Line-Icons.ttf') format('truetype'),
+		url('fonts/Simple-Line-Icons.svg#Simple-Line-Icons') format('svg');
+	font-weight: normal;
+	font-style: normal;

@@ -1,0 +1,12 @@
+	position:absolute;
+	left:295px;
+	top:70px;
+	text-align:center;
+	width:344px;
+	color:#fff;
+	z-index:2;
+	margin-bottom:24px;
+	font-size:20px;
+	line-height:1.2em;
+	text-transform:uppercase;
+	font-weight:500;

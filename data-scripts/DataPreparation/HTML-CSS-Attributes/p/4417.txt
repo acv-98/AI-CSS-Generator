@@ -1,0 +1,2 @@
+font-size: 11px; margin: -10px 0 10px 0;text-transform: uppercase; cursor: pointer;text-transform: uppercase;cursor: pointer;text-transform: uppercase; cursor: pointer;text-transform: uppercase; cursor: pointer;
+color: #ff7378; 

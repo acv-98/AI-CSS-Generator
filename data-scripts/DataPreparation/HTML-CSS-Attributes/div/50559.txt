@@ -1,0 +1,5 @@
+	background:url(images/box-top.gif) left top no-repeat;
+	width:310px;
+	padding:28px 0 5px 20px;
+	min-height:180px;
+	position:relative;

@@ -1,0 +1,11 @@
+  background: #576475;
+  white-space: nowrap;
+  color: #FFF;
+  display: inline-block;
+  margin-left: 22px;
+  line-height: 48px;
+    white-space: normal;
+    width: 100%;
+    display: block;
+    margin-top: 20px;
+    margin-left: 0;

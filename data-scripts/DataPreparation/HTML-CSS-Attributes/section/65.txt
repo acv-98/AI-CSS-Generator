@@ -1,0 +1,7 @@
+	border-top:#f4f4f4 10px solid;
+	border-bottom:#e8e8e8 1px solid;
+	padding-bottom:12px;
+	margin-bottom:22px;
+	border-right:#e8e8e8 1px solid;
+	padding-right:30px;
+	margin-right:29px;

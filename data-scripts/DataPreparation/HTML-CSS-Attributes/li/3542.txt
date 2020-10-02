@@ -1,0 +1,10 @@
+		width: 25%;
+	float: left;
+	background: none;
+	padding: 0;
+	display: block;
+	max-width: 100%;
+	position: relative;
+	height: 100%;
+	text-decoration: none;
+	z-index: 100;

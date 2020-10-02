@@ -1,0 +1,17 @@
+    margin-bottom: 20px;
+    font-size: 18px;
+    background: url(../images/city.jpg) no-repeat center top fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    overflow: hidden;
+    margin-top:30px;
+    padding:60px 40px;
+    color:#fff;
+    text-transform:uppercase;
+    font-family: "Raleway Webfont";
+    font-weight:600;
+    border-bottom:1px solid #dadada;
+    padding-bottom: 30px;

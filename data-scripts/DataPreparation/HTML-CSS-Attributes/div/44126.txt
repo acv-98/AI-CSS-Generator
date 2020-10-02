@@ -1,0 +1,7 @@
+  content: " ";
+  display: table;
+  clear: both;
+.carousel-control .glyphicons-chevron-left,.carousel-control .glyphicons-chevron-right,.carousel-control .icon-prev,.carousel-control .icon-nextclear:both;  height: 0; 
+  visibility: hidden;
+  overflow:hidden; 
+display: block;display: inline-block;* html .clearfix,

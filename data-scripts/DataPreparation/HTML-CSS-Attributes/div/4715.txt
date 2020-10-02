@@ -1,0 +1,11 @@
+	float: left;
+	width: 190px;
+	padding-bottom: 10px;
+	border-bottom: 1px dotted #666;
+	margin-bottom: 20px;
+	color: #000000;
+	font-weight: bold;
+	background: #63a103;
+	font-size: 12px;
+	height: 100px;
+	 margin-bottom: 10px;

@@ -1,0 +1,9 @@
+  vertical-align: inherit;
+  margin-top: -0.5em;
+vertical-align:inherit;margin-top:-0.5em;  line-height: .8em;
+  margin-right: .2em;
+  margin-left: .2em;
+line-height:.9em;display:inline-block;margin-top:.18em;line-height:.8em;margin-top:.25em;margin-top:0;margin-right:.2em;margin-left:.2em;width: 100%;
+text-align: center;
+border: 0;
+border-radius: 0;

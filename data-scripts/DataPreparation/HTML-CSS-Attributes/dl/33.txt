@@ -1,0 +1,9 @@
+	color:#2b2b2b;
+	text-transform:uppercase;
+	display:block;
+	padding:0 0 6px 0;
+	font-size:14px;
+	text-decoration:none;
+	word-spacing:-1px;
+	border-bottom:1px solid #dcdcdc;
+	margin:0 0 14px 0;

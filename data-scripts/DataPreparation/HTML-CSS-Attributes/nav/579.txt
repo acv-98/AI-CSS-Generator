@@ -1,0 +1,14 @@
+    padding-right: 0;
+    padding-left: 0;
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    position: absolute;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    display: -ms-flexbox !important;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;

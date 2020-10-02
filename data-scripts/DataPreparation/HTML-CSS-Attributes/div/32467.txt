@@ -1,0 +1,1 @@
+min-height: 195px;margin-top: 5px;color: #888;font-weight: 400;

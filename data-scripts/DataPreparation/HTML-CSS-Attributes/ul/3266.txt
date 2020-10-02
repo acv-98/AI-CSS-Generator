@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	color:#939393;
+	list-style:none;
+	background:url(images/bg_line.gif) repeat-x bottom;
+	text-decoration:none;
+	margin-left:-15px;
+	padding-left:15px;

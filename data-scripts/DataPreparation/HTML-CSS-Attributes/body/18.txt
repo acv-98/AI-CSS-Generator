@@ -1,0 +1,6 @@
+	padding-top: 62px;
+	margin-bottom: 54px;
+	padding-bottom: 70px;
+	font-size: 16.8px;
+	line-height: 22.8px;
+	color: #263555;	

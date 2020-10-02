@@ -1,0 +1,1 @@
+float:left; display:inline; width:100%; background:none repeat scroll 0 0 #282e31; color:#eee; font-size:12px; padding:8px 20pxfloat:left; display:inline; width:100%color:#949494; margin:9px 10px 10pxfont-size:10pxfloat:left; display:inline; width:100%; text-align:right.header_top_left

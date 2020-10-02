@@ -1,0 +1,2 @@
+	background:url(../images/left_menu.gif) top left no-repeat;
+	padding:0 60px;

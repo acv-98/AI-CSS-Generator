@@ -1,0 +1,13 @@
+        max-width: 100%;
+        margin-left:0;
+        padding: 30px 10px 0px 30px;
+		
+.news_three_area .single_new_three_left{
+    background: #fff;
+	min-height: 280px;
+    color:#232323;
+    font-size:1.4375rem;
+    line-height: 2rem;
+    margin-top:46px;
+    border-left:1px solid #ddd;
+    display: inline-block;

@@ -1,0 +1,19 @@
+    float: none;
+    width: auto;
+    padding-top: 0;
+    text-align: left;
+    margin-left: 0;
+    padding-right: 10px;
+    padding-left: 10px;
+  display: inline-block;
+  *display: inline;
+  margin-bottom: 0;
+  vertical-align: middle;
+  *zoom: 1;
+  line-height: 0;
+  content: "";
+  clear: both;
+  *padding-left: 20px;
+  *margin-left: 0;
+  margin-top: 10px;
+text-align: left;font-size:18px

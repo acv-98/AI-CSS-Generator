@@ -1,0 +1,4 @@
+	height: 20px;
+	background: url('../img/separatorBG.png') 0 0 repeat-x;
+	display: block;
+	margin: 30px 0;

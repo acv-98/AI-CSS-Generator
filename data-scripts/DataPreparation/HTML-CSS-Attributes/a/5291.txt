@@ -1,0 +1,11 @@
+	border:1px solid #08a0f8;
+	background:#08a0f8;
+	background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #12d4fc), color-stop(100%, #08a0f8));
+	border-top:1px solid #1beafe;
+	text-shadow:0 -1px -1px #0dace1;
+display:inline-block; color:#fff; text-decoration:none; height:32px; line-height:30px; text-decoration:none; cursor:pointer;display:inline-block; padding:0 15px; font-size:1.0em; height:32px;height:40px; line-height:38px;padding:0 20px; height:40px; font-weight:bold;background:#666; border-color:#666;border-color:#999;	-webkit-border-radius:7px;
+	-moz-border-radius:7px;
+	border-radius:7px;
+	border-color:#666;
+text-shadow:0 0 0;Original Author: Tomas Lach (www.tomaslach.cz)
+Modified by OS Templates (http://www.os-templates.com)

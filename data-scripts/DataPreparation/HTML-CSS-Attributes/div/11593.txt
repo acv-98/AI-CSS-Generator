@@ -1,0 +1,7 @@
+	position:absolute;
+	background:url(../images/comments-corner.png) 0 0 no-repeat;
+	width:26px;
+	height:24px;
+	top:-24px;
+	left:164px;
+	bottom:-26px;

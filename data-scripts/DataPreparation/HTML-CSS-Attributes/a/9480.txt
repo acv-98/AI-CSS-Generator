@@ -1,0 +1,15 @@
+behavior:url(../js/PIE.htc);position:relative	display:inline-block;
+	font-family: 'Noto Sans', sans-serif;
+	color:#fff;
+	font-size:17px;
+	line-height:1.2em;
+	background:#ae81aa;
+	padding:6px 12px 7px;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	margin-top:2px
+	text-decoration:none;
+  position: relative;
+  margin-right: 48px;
+  cursor: pointer;

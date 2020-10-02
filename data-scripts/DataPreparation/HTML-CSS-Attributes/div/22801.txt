@@ -1,0 +1,2 @@
+ padding-bottom: 125px;  content:''; display: block; width: 100%; clear: both; font-size: 0; line-height: 0; text-indent: -4000px; 
+ float: left;  list-style: none; list-style-position: outside;   float: left; line-height: 11px;  border-left: 1px solid #616161; padding: 0 10px;  color: #989898;  color: #fff; text-decoration: none;  padding-left: 0; border: 0;  float: right; color: #989898; font-size: 11px;  line-height: 11px;  padding: 0 10px; color: #616161;  color: #e0e0e0; text-decoration: underline;  color: #fff; text-decoration: none; 

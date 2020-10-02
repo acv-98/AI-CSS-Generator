@@ -1,0 +1,5 @@
+	border-left:1px dashed #187293;
+	border-right:1px dashed #187293;
+	position:relative;
+	left:2px;
+	background-position:right 0;

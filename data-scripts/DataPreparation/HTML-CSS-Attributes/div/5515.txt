@@ -1,0 +1,3 @@
+  background: #33747a;
+  color: #ffffff;
+  border-top-color: #33747a;

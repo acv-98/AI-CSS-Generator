@@ -1,0 +1,2 @@
+ padding:30px; float:left; width:520px; border-bottom:none; color:#9b9e9a; background:none; float:left; margin-bottom:30px; padding:0px; width:260px;  color:#96577a; padding-bottom:10px;border-bottom:none; overflow:hidden; padding-bottom:0px; color:#576679;color:#96577a; text-decoration:none;color:#282623;
+FOOTER CLASSS

@@ -1,0 +1,15 @@
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  float: right;
+  text-align: right;
+  border-left: 1px solid #dddddd;
+  border-right: 1px solid #dddddd;
+  width: 42px;
+  height: 42px;
+  line-height: 42px;
+  display: block;
+    width: 100%;
+    text-align: center;
+    float: none !important;
+    border-bottom: 1px solid #dddddd;

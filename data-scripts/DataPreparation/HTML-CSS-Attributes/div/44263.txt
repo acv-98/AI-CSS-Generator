@@ -1,0 +1,9 @@
+	margin-top: 280px !important;
+	margin-bottom: 100px !important;
+		margin-top: 246px;
+		margin-bottom: 164px;
+	font-size: 42px;
+	text-align:center;
+	color: #fff;
+	font-family: 'Roboto', 'sans-serif';
+	font-weight: 400;

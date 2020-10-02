@@ -1,0 +1,7 @@
+margin:7px 3px;
+display:inline-block;
+width:70px;
+margin-right:65px;
+font-size:13px;
+font-weight:bold;
+text-align:left;

@@ -1,0 +1,9 @@
+	width:370px;
+	float:left;
+	height:223px;
+	font-family:Verdana, Arial, Sans-Serif;
+	font-size:13px;
+	color:#dbdbdb;
+	padding:11px 0 0 0;
+	line-height:19px;
+	text-align:justify;

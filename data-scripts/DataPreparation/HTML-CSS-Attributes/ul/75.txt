@@ -1,0 +1,14 @@
+        border-color: transparent;
+        background: rgba(230, 125, 68, 0.68);
+    background-color: transparent; 
+    transition:.6s;
+    margin: 15px auto;
+    color:#a2ca28;
+.main_menu_bg .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+    font-size: 0.875rem;
+    font-family: 'open_sanslight';
+    max-width: 80%;
+	background:#fff;

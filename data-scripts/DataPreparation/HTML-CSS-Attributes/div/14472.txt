@@ -1,0 +1,7 @@
+	border:1px solid #e0f0f4;
+	border-radius:15px;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	position:relative
+	background:url(../images/box_bg.gif) top repeat-x #fff;
+	padding:21px 27px;

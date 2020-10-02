@@ -1,0 +1,5 @@
+	width:945px;
+	height:380px;
+	;
+	position:relative;
+	padding-bottom:12px;

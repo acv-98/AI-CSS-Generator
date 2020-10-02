@@ -1,0 +1,14 @@
+	text-align: center;
+	border-top: 1px solid #F6F6FB;
+	border-bottom: 1px solid #F6F6FB;
+	margin-top: 2px;
+	margin-left: 58px;
+	margin-right: 58px;
+	padding-top: 40px;
+	font-family: "OpenSans Semibold";
+	font-size: 13.6px;
+	color:#E7E7E7;
+	font-weight: bold;
+	padding-bottom: 25px;
+	background: none;
+	margin-bottom: 14px;

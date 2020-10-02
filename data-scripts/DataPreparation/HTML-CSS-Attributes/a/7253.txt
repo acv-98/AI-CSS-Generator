@@ -1,0 +1,9 @@
+	background-image:none;
+ 	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/visitlive.png', sizingMethod='image');
+	width:95px;
+	height:24px;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	float:left;
+	margin-top:11px;

@@ -1,0 +1,14 @@
+  padding: 20px;
+  background-color: #2a80b9;
+  margin: 0 0 20px 0;
+  font-size: 14px;
+  text-align: left;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  outline: 0;
+  border: 0;
+  height: 38px;
+  width: 64%;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 700;

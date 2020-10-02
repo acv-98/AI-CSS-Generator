@@ -1,0 +1,17 @@
+		margin-bottom: 30px;
+		font-size: 28px;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0 0 5px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    font-size: 15px;
+    color: #999;
+    line-height: 62px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding-top: 10px;
+	font-style: italic;
+	color: #999;
+	padding-bottom: 10px;
+	padding-left: 15px;

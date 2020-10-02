@@ -1,0 +1,27 @@
+	padding:6px 9px 5px 9px;
+	background: #000000;
+	color:#fff;
+	border-bottom: 1px solid #fff;
+	cursor:default !important; 
+	display: block;
+	text-decoration: none;
+height:13px   v2.0 | 20110126
+   License: none (public domain)
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+ border-bottom: solid #fee271 2px; 	font-weight: bold;
+	top: 			-999em;

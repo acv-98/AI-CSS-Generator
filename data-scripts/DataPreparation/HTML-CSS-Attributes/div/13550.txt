@@ -1,0 +1,2 @@
+ width: 65px; background-position: -85px -103px;  width: 65px; background-position: -85px -103px;     width: 65px;
+    background-position: -85px 0px;

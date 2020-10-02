@@ -1,0 +1,10 @@
+	color: #00BFF0;
+	font-size: 0.85em;
+	line-height: 1.5em;
+	margin:10px 0 0;
+	width: 86.5%;
+	float: left;
+	list-style:none;
+	padding:0;
+		width: 75.5%;
+		margin: 0;

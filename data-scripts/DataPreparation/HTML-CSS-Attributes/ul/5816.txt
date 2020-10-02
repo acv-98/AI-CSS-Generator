@@ -1,0 +1,10 @@
+	margin-top: 1.5rem;
+	max-width: 1170px;
+		max-width: 600px;
+	list-style: none;
+	font-family: "roboto-regular", sans-serif;
+	font-size: 1.6rem;
+	color: rgba(0, 0, 0, 0.5);
+	padding: .6rem 0;
+	border-bottom: 1px solid rgba(63, 80, 96, 0.15);
+	margin-right: 5px;

@@ -1,0 +1,6 @@
+    margin-top:50px;
+    padding-top:30px;
+    color:#fff;
+    background:#01a2a6;
+    padding-bottom:20px;
+    

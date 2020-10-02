@@ -1,0 +1,18 @@
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 30px;
+	display: block;
+	font-size: 26px;
+	line-height: 1.5em;
+	color: #665d4e;
+	padding-right: 70px;
+	font-weight: bold;
+	height: 230px;
+	padding-bottom:12px;
+	margin-top: 7px;
+	bottom:0px;
+	left: 0px;
+	background: url(../img/post-shadow.png) no-repeat  center bottom ;
+	z-index: -1;
+	border: 2px solid white;

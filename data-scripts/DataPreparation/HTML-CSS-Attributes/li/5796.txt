@@ -1,0 +1,2 @@
+	background:url("images/nav-start.png") no-repeat;
+	color:#2a66a5;

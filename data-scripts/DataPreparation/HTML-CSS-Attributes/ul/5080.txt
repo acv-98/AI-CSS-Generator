@@ -1,0 +1,9 @@
+	overflow: hidden;
+	vertical-align: top;
+	line-height: 18px;
+	padding:6px 0 6px 20px;
+	background:url(../images/marker-2.png) 0 12px no-repeat;
+	display: block;
+	float: right;
+	color: #7f7f7f;
+	text-decoration: none;

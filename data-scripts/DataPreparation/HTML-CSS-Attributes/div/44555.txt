@@ -1,0 +1,5 @@
+        left: 36%;
+        top: 20%;
+        margin-top: 12px;
+.single_portfolio img{
+    position: relative;

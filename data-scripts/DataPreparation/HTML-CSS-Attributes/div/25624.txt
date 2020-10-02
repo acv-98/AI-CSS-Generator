@@ -1,0 +1,19 @@
+		font-size: 28px;
+    background: url(images/bg.png) repeat top center #f2f3f5;
+    max-width: 280px;
+    display: block;
+    margin: 10px auto;
+    position: relative;
+    overflow: hidden;
+    padding: 70px 0;
+    background-color: #ffffff;
+    margin-bottom: 60px;
+    color: #999;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: none;
+	color: #ffffff;
+    border-color: rgba(255, 255, 255, 0.1);
+body.politics_version .message-box h2,
+body.politics_version .section-title h3 {

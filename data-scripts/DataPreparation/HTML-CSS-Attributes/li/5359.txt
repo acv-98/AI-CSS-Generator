@@ -1,0 +1,2 @@
+	color:#bb0e0e !important
+	background:#f0f1f0

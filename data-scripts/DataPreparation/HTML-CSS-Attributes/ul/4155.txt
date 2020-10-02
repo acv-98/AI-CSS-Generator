@@ -1,0 +1,1 @@
+background:url(images/icon4.gif) no-repeat left top;padding:0 0 0 86px;min-height:70px;height:auto!important;height:70px;margin-top:24pxdisplay:block;padding-bottom:6pxcolor:#092972;text-decoration:nonetext-decoration:underline

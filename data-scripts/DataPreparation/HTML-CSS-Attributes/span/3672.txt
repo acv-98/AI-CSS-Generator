@@ -1,0 +1,3 @@
+  background: #e09402;
+  padding-left: 2px;
+  padding-right: 2px;

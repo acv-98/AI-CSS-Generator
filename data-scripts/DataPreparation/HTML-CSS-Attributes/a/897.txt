@@ -1,0 +1,2 @@
+	font-size: 16px;
+color:#f5bc04

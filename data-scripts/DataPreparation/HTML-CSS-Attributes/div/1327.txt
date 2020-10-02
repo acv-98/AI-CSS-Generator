@@ -1,0 +1,1 @@
+ background:url(images/gallery-wrapper.png) no-repeat left top; width:607px; height:433px; margin:0 -10px 0 -6px; position:relative; padding:12px 0 0 12px; position:absolute; left:11px; top:12px; position:absolute; right:11px; top:12px;

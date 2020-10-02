@@ -1,0 +1,1 @@
+bottom:25px; left:0; padding:10px 20px; position:absolutebackground-color:rgba(0,0,0,0.4); color:#fff; display:inline-block; font-size:24px; line-height:26px; padding:8px 10px 10pxtext-decoration:underlinebackground-color:rgba(0,0,0,0.4); color:#fff; padding:3px.catgimg_container

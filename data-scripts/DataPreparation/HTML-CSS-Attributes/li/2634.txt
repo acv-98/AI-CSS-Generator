@@ -1,0 +1,2 @@
+	background:url(images/slider_tab_hover.png) no-repeat center;
+	color:#fff;

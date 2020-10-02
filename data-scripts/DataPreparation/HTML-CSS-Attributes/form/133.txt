@@ -1,0 +1,8 @@
+	color: #fff;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	margin-bottom: 20px;
+	padding: 20px;
+	background: none;
+	border-color: #F0394C;

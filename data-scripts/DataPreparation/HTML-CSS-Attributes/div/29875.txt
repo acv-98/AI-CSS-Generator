@@ -1,0 +1,9 @@
+	list-style:none;
+	padding-top:3px;
+	display:block;
+	border-bottom:1px dotted #999999;
+	padding-bottom:16px;
+	margin-bottom:11px;
+	float:left;
+	width:400px;
+	padding-left:3px;

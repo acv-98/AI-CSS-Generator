@@ -1,0 +1,5 @@
+	max-width:295px;
+	max-height:50px;
+	background-color:#6FB048;
+	border-radius:5px;
+	font-family: 'montserratregular';

@@ -1,0 +1,6 @@
+margin-top: 0px;
+.each-courses:hover{
+	cursor: pointer;
+	position: absolute;
+	top: 0;
+	left: 0;

@@ -1,0 +1,5 @@
+	background: url("images/post_meta.png") no-repeat;
+	margin-right: 6px;
+	padding: 2px 0 0 26px;
+	color: #2594EF;
+	font-weight: bold;

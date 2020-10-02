@@ -1,0 +1,1 @@
+background-position:right 0;display:none;color:#0fc6ee; text-shadow:#68dcf6 0 0 5px;

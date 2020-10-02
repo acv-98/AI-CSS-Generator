@@ -1,0 +1,5 @@
+  bottom: 1px;
+  padding: 3px 0;
+  left: 0;
+  width: 100%;
+  position: absolute;

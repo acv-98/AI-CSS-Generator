@@ -1,0 +1,17 @@
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 50%;
+  left: 50%;
+  margin-left: -18px;
+  margin-top: -18px;
+  border: 1px solid #d5d5d5;
+  display: block;
+  text-align: center;
+  line-height: 36px;
+  color: white;
+  border-color: #f69730;
+  right: 0;
+  font-size: 1.3em;
+  font-family: "Roboto Slab", serif;
+  bottom: 0;

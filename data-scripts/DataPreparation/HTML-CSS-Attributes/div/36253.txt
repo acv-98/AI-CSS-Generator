@@ -1,0 +1,9 @@
+	width: 620px;
+	background: rgba(0, 0, 0, .1);	
+	padding: 10px;
+		margin-bottom: 58px;
+		width: 320px; 
+		padding: 0px;
+ width: 480px; 	#slider-holder #headline{
+		margin-left: 0px;
+	float: left;

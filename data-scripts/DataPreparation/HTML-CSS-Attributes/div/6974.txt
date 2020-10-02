@@ -1,0 +1,1 @@
+width:630px; float:left;font-family:'Playfair Display', serif; font-size:22px; font-weight:normal; color:#22a8f0; padding-bottom:20px;line-height:20px; padding-bottom:30px;

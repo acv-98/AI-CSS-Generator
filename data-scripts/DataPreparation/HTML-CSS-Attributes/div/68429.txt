@@ -1,0 +1,1 @@
+margin-top:20px;padding-top:10px;width:310px;height:auto;float:left;background:url(images/border.jpg) no-repeat bottom right;padding-left:10px;margin:0px;width:200px;padding:15px 5px 10px 5px;float:left;width:450px; float:left; padding:20px 0px; border: solid 5px #F2F2F2; float:left;margin:0px; padding:0px 5px; float:left;width:220px; float:left;padding:5px 5px; margin:0px;

@@ -1,0 +1,10 @@
+  padding: 0;
+  margin: 0;
+  display: block;
+  list-style: none;
+  line-height: 1.4;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #3e4347;
+  color: #83888b;
+  text-decoration: none;

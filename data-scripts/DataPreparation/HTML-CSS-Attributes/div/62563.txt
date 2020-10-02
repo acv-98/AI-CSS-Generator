@@ -1,0 +1,1 @@
+ background: url(images/slider-bot.gif) no-repeat 0 bottom; position: relative; height: 100%; padding: 0 2px 2px 0; 

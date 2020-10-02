@@ -1,0 +1,6 @@
+  width: 50%;
+  height: 300px;
+    height: inherit;
+    float: none !important;
+    width: 100%;
+  background-size: cover;

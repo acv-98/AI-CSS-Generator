@@ -1,0 +1,1 @@
+ background:url(images/bull1.gif) no-repeat left 8px; padding:0 0 0 18px; background:none; padding:6px 0 0 18px;

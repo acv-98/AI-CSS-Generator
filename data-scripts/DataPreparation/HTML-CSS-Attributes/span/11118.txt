@@ -1,0 +1,1 @@
+	background: url('../img/personal-projects.png') no-repeat left 7px;

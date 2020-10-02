@@ -1,0 +1,14 @@
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 0;
+  margin-left: -15px;
+  margin-right: -15px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  color: #ffffff;
+  background-color: #ebd90b;
+  *width: 100%;
+  height: 1px;
+  *margin: -5px 0 5px;
+  overflow: hidden;
+  border-bottom: 1px solid #ffffff;
+background-image:url("../img/glyphicons-halflings-white.png");padding-left:15px;padding-right:15px;margin-bottom:0;margin-left:-15px;margin-right:-15px;text-shadow:0 1px 0 rgba(255, 255, 255, 0.5);padding:3px 15px;color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.2);background-color:#dd4814;margin-right:2px;*width:100%;height:1px;margin:9px 1px;*margin:-5px 0 5px;overflow:hidden;background-color:#e5e5e5;border-bottom:1px solid #ffffff;

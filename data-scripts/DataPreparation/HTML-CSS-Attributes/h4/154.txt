@@ -1,0 +1,14 @@
+  color: #fff;
+  right: -100%;
+  width: 100%;
+  opacity: 0;
+  margin-top:80px;
+   -webkit-transition-duration: 4s;
+  -moz-transition-duration: 4s;
+  -ms-transition-duration: 4s;
+  -o-transition-duration: 4s;
+  transition-duration: 4s;
+	font-family: Arial, Tahoma, Verdana, Sans-serif;
+	text-transform:none;
+	color:#f8f8f8;
+	display:none;

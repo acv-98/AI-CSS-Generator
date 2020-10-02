@@ -1,0 +1,7 @@
+  margin-top: 40px;
+  display: inline-block;
+  background: white;
+  border-bottom: 1px solid #d5d5d5;
+  padding: 10px 12px;
+  color: #2c2c2c;
+  background-color: #f69730;

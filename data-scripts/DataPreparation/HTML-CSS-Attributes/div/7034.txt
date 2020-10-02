@@ -1,0 +1,1 @@
+ padding:10px; background:#dd31ae; font-size:18px; font-weight:normal; color:#ffffff;  text-transform:uppercase;display:inline-block;  font-family: 'Oswald', sans-serif; 

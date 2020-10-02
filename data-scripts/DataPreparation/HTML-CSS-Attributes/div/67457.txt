@@ -1,0 +1,9 @@
+  margin-bottom: 32px;
+  position: relative;
+  text-align: center;
+  height: 100%;
+  background-color: #ffffff;
+  color: #222;
+  padding-top: 30%;
+  opacity: 0.9;
+    margin-top: 62px;

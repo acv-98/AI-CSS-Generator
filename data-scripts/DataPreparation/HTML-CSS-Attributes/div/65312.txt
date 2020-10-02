@@ -1,0 +1,6 @@
+    display: table-cell;
+    padding-right: 30px;
+    vertical-align: top;
+    color: #fff;
+    font-size: 0.8em;
+    margin: 1em 0;

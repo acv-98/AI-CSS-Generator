@@ -1,0 +1,4 @@
+    font-family: 'OswaldBook',sans-serif;
+    font-weight: bold;
+    color: #ff5400;
+    margin-bottom: 10px;

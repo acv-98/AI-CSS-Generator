@@ -1,0 +1,2 @@
+ text-align: center; padding-right: 88px; padding-left: 88px;  padding-bottom: 10px;  font-size: 28px; font-family: georgia, serif; position: relative; top: 10px; left: -5px; 
+ padding-left: 0; padding-right: 0; 

@@ -1,0 +1,16 @@
+  color: rgba(255, 255, 255, 0.2);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 12px;
+  display: block;
+  margin-bottom: 20px;
+  font-weight: 700;
+  position: relative;
+  padding-bottom: 7px;
+  content: "";
+  bottom: 0;
+  width: 20px;
+  margin-left: -10px;
+  height: 2px;
+  left: 50%;
+  background: #f9ad81;

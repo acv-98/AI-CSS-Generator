@@ -1,0 +1,1 @@
+	background:url(../images/pags.png) right 0 no-repeat;

@@ -1,0 +1,7 @@
+    font-size:14px;
+    font-family:Verdana, Geneva, sans-serif;
+    color:#636363;
+    font-style:italic;
+    line-height:18px;
+    display:block;
+    padding:0 0 5px 0;

@@ -1,0 +1,13 @@
+list-style-type: none;
+display: inline-block;
+margin: 0px;
+padding-left: 11.2%;
+ 
+float: left;
+padding-top: 2px;
+padding-right: 10px;
+color: #fff;
+text-decoration: none;
+	color: #C59E47;
+	font-size: 11px;
+	padding-left: 0px;

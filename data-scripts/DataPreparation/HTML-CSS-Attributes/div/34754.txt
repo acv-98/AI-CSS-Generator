@@ -1,0 +1,15 @@
+    padding: 30px;
+    border: 1px solid #eee;
+    overflow: hidden;
+    background-color: #ffffff;
+    -webkit-box-shadow: 10px 10px 5px 10px rgba(226, 228, 229, 1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(226, 228, 229, 1);
+    box-shadow: 10px 10px 5px 0px rgba(226, 228, 229, 1);
+    position: relative;
+    font-weight: 600;
+    margin: 5px 0 15px;
+    font-size: 21px;
+    display: inline-block;
+    padding-right: 10px;
+    padding-bottom: 0;
+    margin-bottom: 0;

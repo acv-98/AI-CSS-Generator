@@ -1,0 +1,6 @@
+	margin-top:10px;
+	height:28px;
+	width:69px;
+	margin-left:5px;
+	border:0;
+	background:url(../images/search_btn.jpg) no-repeat;

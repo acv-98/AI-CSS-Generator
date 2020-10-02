@@ -1,0 +1,5 @@
+	position:relative;
+	overflow: hidden;
+	margin: 0 auto;
+	border-bottom: 1px solid #dadada;
+	background: url(../images/sl_shadow.png) bottom center no-repeat #fff;

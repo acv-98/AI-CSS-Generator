@@ -1,0 +1,32 @@
+		padding:0.278em;
+		text-decoration:none;
+		font-size:1.214em;
+		line-height:2.35em;
+		background:#798493;
+		font-weight:bold;
+		border:1px solid #505a68;
+		
+		-webkit-border-radius: 1.47em;
+		-moz-border-radius: 1.47em;
+		border-radius: 1.47em;
+		-webkit-transition: background 0.5s ease;
+		-moz-transition: background 0.5s ease;
+		-o-transition: background 0.5s ease;
+		transition: background 0.5s ease; 
+		-moz-box-shadow:   	0 1px 1px rgba(255,255,255,0.36);
+		-webkit-box-shadow: 0 1px 1px rgba(255,255,255,0.36);
+		box-shadow:         0 1px 1px rgba(255,255,255,0.36);
+		color:#fff;
+		display:block;
+		text-shadow: 0px 0 rgba(0,0,0,0.31), 0 1px rgba(0,0,0,0.5), 0px 0 rgba(0,0,0,0.5), 0 0px rgba(0,0,0,0.5);
+		background-image: linear-gradient(bottom, rgb(98,119,149) 0%, rgb(160,188,226) 100%);
+			linear,
+			left bottom,
+			left top,
+			color-stop(0, rgb(98,119,149)),
+			color-stop(1, rgb(160,188,226))
+		);
+							inset 0 0 0 #fff;
+							
+			color-stop(0, rgb(109,131,164)),
+			color-stop(1, rgb(169,199,241))

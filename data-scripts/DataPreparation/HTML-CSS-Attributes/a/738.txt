@@ -1,0 +1,8 @@
+    display:  none;
+    background:#00BFF0;
+    padding: 10px 15px;
+    width: 100%;
+    color: #fff;
+		padding: 10px 15px;
+		width: 96%;
+		text-align:center;

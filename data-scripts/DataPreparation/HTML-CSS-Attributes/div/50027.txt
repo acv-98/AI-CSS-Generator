@@ -1,0 +1,6 @@
+    border: 2px solid;
+    background-color: #ffffff;
+    height: 1px;
+    width: 70px;
+    margin:10px auto;
+    margin-bottom: 40px;	

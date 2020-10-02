@@ -1,0 +1,6 @@
+	background:url(../images/left-column-bottom.png) no-repeat top;
+	width:279px;
+	height:14px;
+	display:block;
+	float:left;
+	overflow:hidden;

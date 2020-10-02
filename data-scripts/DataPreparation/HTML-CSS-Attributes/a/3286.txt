@@ -1,0 +1,12 @@
+	margin-bottom:0;
+	color:#000;
+	cursor:default;
+	background-image: url(../images/tab_a_active.jpg);
+	padding: 0 0 0 4px;
+	text-decoration: none;
+	border-left: 14px solid #e69292;
+	display:block;
+	float:left;
+	width:317px;
+	letter-spacing:normal;
+ background:white; 

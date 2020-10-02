@@ -1,0 +1,15 @@
+	width: 340px;
+	height:204px;
+	padding: 20px 0 0 120px;
+	position:relative;
+	background: url(img/up_img.png) no-repeat;
+	font-size:21px;
+	margin-bottom: 20px;
+	display:block;
+	font-weight:bold;
+	float:left;
+	list-style: none;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	color:#FFF;
+	text-decoration: none;

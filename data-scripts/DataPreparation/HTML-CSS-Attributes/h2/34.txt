@@ -1,0 +1,4 @@
+  font-size: 18px;
+  color: #fff;
+  padding: 0;
+  position: relative;

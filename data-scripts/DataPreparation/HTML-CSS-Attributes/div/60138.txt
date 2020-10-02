@@ -1,0 +1,6 @@
+	padding-bottom: 22px;
+	content: '';
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;

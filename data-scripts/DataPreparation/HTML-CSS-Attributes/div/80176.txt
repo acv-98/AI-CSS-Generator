@@ -1,0 +1,12 @@
+	float: left;
+	display: inline;
+	width:31.5%;
+	margin-right: 2%;
+	background: #FFF;
+	border:1px solid #f0f0f0;
+	padding:5%;
+	color:#555;
+	font-size:1em;
+		width: 31.7%;
+		margin-right: 0;
+		margin-bottom: 20px;

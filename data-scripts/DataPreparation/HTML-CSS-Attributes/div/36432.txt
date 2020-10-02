@@ -1,0 +1,15 @@
+  background-color: #fff;
+  border: 1px solid #e6e6e6;
+  border-radius: 6px;
+  margin: 40px auto 0;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+  background-image: url("img/testimonial-arrow.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  content: "";
+  height: 22px;
+  left: 30%;
+  top: -22px;
+width: 100%;left: 35%;left: 30%;

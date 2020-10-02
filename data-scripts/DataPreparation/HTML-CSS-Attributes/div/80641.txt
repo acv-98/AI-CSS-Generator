@@ -1,0 +1,18 @@
+margin-bottom:35px;padding-bottom:0;position:relative;	.portfolio-item.column.one-third .content{
+		background:url(../images/design/noise.png) repeat #eeeeee;
+		padding:5px;
+		border:1px solid #d9d9d9;
+		font-size:14px;
+		line-height:16px;
+		font-weight:600;
+		border-bottom:1px solid #d9d9d9;
+		margin-bottom:5px;
+border:none;padding-bottom:0;color:#393939;	.one-third.column.portfolio-item .border {
+height:14px;	.one-third.column.portfolio-item .shadow {
+		width:299px;
+		position:relative;
+		z-index:1000;
+		top:-1px;
+		height:15px;
+		color:#585858;
+background:url(../images/design/shadow-portfolio-four.png) transparent no-repeat;background:url(../images/design/shadow-portfolio-three.png) transparent no-repeat;margin:auto;background:url(../images/design/shadow-portfolio-three.png) transparent no-repeat;margin-bottom:10px;

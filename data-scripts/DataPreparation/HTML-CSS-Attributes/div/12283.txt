@@ -1,0 +1,5 @@
+	width: 90%;
+	max-width: 600px;
+	margin: 42px auto 36px;
+	text-align: center;
+	clear: both;

@@ -1,0 +1,2 @@
+ background-size: 60%; padding: 134px 0 0;  background-size: 60%;
+ padding: 44px 0px 159px 0px;background: url(../img/desgin-bg.jpg) no-repeat; box-shadow: 1px 4px 7px -4px rgba(0,0,0,0.75);   text-decoration: none; background: url(../img/desgin-icn.png) top center no-repeat; display: block;  padding: 138px 0px 0px 0px;  font-size: 18px; color: #ffab3f; text-decoration: none; text-transform: uppercase; font-family: 'Open Sans', sans-serif; font-weight: 400;   color: #fff; background: url(../img/desgin-hover-icn.png) top center no-repeat; 

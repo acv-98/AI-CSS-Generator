@@ -1,0 +1,4 @@
+  font-size: 18px;
+  line-height: 1.6em;
+  font-family: Georgia, Arial, sans-serif;
+  font-style: italic;

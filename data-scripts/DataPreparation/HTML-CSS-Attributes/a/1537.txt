@@ -1,0 +1,11 @@
+	background:url(../images/quote.png) no-repeat center top;
+	color:#0D112F;
+	font-size:14px;
+	width:242px;
+	height:82px;
+	display:block;
+	padding-top:20px;
+	margin-top:10px;
+	overflow:hidden;
+	margin-bottom:-20px;
+	position:relative;

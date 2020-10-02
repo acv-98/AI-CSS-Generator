@@ -1,0 +1,2 @@
+ background:none; padding:6px 0 0 18px;
+ background:url(images/nav-right.gif) no-repeat right top; padding-right:55px;background:url(images/nav-right1.gif) no-repeat right top;background:url(images/nav-bg2.gif) left top repeat-x; color:#fff;background:url(images/nav-right1.gif) no-repeat right top !important; padding-right:55px; margin-right:0; padding-right:0; border:none; padding-bottom:20px;

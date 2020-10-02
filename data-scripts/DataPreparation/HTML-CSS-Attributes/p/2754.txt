@@ -1,0 +1,5 @@
+	background:#3D9AD2;
+	text-align:right;
+	border:0;
+	color:#fff;
+	padding:5px;

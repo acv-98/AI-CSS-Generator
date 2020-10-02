@@ -1,0 +1,9 @@
+	margin:28px 0px 0px 43px;
+	display:inline-block;
+	float:left;
+	line-height:24px;
+	font-size:18px;
+	color:#fff;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-weight:bold;
+	border-bottom:#61685b 1px solid;

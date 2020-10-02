@@ -1,0 +1,15 @@
+	color: #b4a9a9;
+   width: 90%;
+   text-align: center;
+   margin: 60px auto 36px auto;
+   font: 50px/60px raleway-bold, sans-serif;
+   color: #fff;
+   padding: 0;
+   text-shadow: 0px 1px 5px rgba(0, 0, 0, .3);
+ color: #11ABB0; .slider-text p {
+ font: 46px/60px raleway-bold, sans-serif;      margin-top: 42px;
+     margin-bottom: 30px;
+     width: 95%;
+ font: 38px/48px raleway-bold, sans-serif;  font: 15px/30px notosans-regular, sans-serif;  margin-top: 36px; margin-bottom: 27px;  font: 32px/42px raleway-bold, sans-serif;  font: 14px/27px notosans-regular, sans-serif;    #journal .entry-title h3 {
+      font-size: 28px;
+      line-height: 36px;

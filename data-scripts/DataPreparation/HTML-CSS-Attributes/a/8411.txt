@@ -1,0 +1,12 @@
+	background: #AD1457;
+	color: #ffffff;
+	font-weight: 600;
+	border-radius: 2px;
+    width: 100%;
+    left:0;
+    visibility: visible;
+    background: crimson;
+     webkit-transform: scale(0.93);
+    -moz-transform: scale(0.93);
+    -ms-transform: scale(0.93);
+    transform: scale(0.93);

@@ -1,0 +1,2 @@
+padding: 0 30px !important; padding-top: 60px !important; padding: 30px; text-align: center;width: 100%;    .featured-block h1{font-size: 16px; color: #0c3f74; font-family: 'open_sansbold'; line-height: 24px;
+ background: #259cf8; padding-top: 60px; border-radius: 5px;

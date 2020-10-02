@@ -1,0 +1,14 @@
+    font-size: 55px;
+	line-height:50px;
+		 font-size:15px;
+    color: #ffffff;
+    background-color: rgba(41, 41, 41, 0.68);
+    width: 80%;
+    margin: auto;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+    text-transform:uppercase;
+    font-weight:900px;

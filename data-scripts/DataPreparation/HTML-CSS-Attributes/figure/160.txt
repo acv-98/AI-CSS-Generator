@@ -1,0 +1,11 @@
+ color: #333; 	padding-left: 10px;
+	padding-right: 10px;
+	opacity: 1; 
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+	background: #0066CC;
+	max-width: 240px;
+	margin-left: auto;
+	margin-right: auto;
+ opacity: 0.5; 	color: #186e9d; .tm-img-center {
+	display: block;

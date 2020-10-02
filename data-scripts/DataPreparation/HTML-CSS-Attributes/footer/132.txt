@@ -1,0 +1,17 @@
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  display: inline-block;
+    width: 36px;
+    height: 36px;
+    display: inline-block;
+    text-align: center;
+    line-height: 36px;
+    color: #aaa;
+    border: 1px solid #8c8a8a;
+    border-radius: 50%;
+    margin: 30px 3px 0px 3px;
+    font-size: 13px;
+  font-family: 'Roboto Slab', sans-serif;
+  border-color:#000;
+  transition: all 1s;

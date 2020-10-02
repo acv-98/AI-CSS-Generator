@@ -1,0 +1,9 @@
+   display:none;
+	position:relative;
+    position: absolute;
+    content: "";
+    border-top: 2px solid #ddd;
+    left: 15%;
+    top: 120px;
+    width: 70%;
+    z-index: -1;

@@ -1,0 +1,8 @@
+    font-size: 54px;
+    color: #232323;
+    padding-bottom: 35px;
+    display: block;
+    font-weight: 600;
+    margin-bottom: 22px;
+    line-height: 1;
+    margin-top: 15px;

@@ -1,0 +1,9 @@
+	width:570px;
+	float:left;
+	font:bold 11px Tahoma, Arial, Helvetica, sans-serif;
+	line-height:20px;
+	color:#23242b;
+	display:block;
+	text-decoration:none;
+	padding-left:28px;
+	background:url(../images/bullet.png) +10px +7px no-repeat;

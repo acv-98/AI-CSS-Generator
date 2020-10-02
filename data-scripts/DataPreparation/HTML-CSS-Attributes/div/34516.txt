@@ -1,0 +1,1 @@
+  -webkit-animation-delay: 0.3s;

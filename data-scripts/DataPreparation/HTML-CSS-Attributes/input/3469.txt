@@ -1,0 +1,7 @@
+	float:left;
+	padding:9px 10px 8px 10px;
+	border:1px solid #fff;
+	background:#fff url(images/bg_search.png) repeat-x top;
+	width:206px;
+	color:#666;
+	font-size:12px;

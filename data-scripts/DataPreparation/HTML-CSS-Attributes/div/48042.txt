@@ -1,0 +1,11 @@
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  width: 65%;
+  display: table;
+  vertical-align: middle;
+  height: 400px;
+  padding: 0 3em;
+  text-decoration: none;
+    width: 100% !important;
+    text-align: center;

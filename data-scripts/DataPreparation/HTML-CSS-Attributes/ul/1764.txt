@@ -1,0 +1,2 @@
+ text-align:left display:inline-block color:#798992; display:inline-block; font-family:"Oswald",sans-serif; font-size:12px; padding:8px 12px; text-transform:uppercase; -webkit-transition:all 0.5; -o-transition:all 0.5; transition:all 0.5 color:#FFA500; text-decoration:none; outline:none.header_top_left.catgimg_container
+color:#FFA500

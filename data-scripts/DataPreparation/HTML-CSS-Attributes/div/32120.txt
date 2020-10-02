@@ -1,0 +1,13 @@
+	margin: 0 auto;
+	list-style: none;
+	text-align: center;
+	position: relative;
+	max-width: 100%;
+	display: block;
+	top: 0;
+	left: 0;
+	padding: 20px 0;
+	background: #2c3f52;
+	color: #ed4e6e;
+	font-size:22px;
+	content: 'by ';

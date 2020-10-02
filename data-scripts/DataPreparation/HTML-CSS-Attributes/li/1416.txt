@@ -1,0 +1,4 @@
+	color:#fdfdfd;
+	background:url(images/hover.gif) top repeat-x;
+	text-decoration:underline;
+	border:1px solid #ebe8e8;

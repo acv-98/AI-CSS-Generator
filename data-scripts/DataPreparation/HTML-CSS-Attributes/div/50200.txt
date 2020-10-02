@@ -1,0 +1,7 @@
+	border-bottom:3px solid #ebebeb;
+	padding-bottom:15px;
+	position:relative;
+	margin-left:-6px;
+	height:100%;
+	float:right;
+	display:inline;

@@ -1,0 +1,5 @@
+	width:100%;
+	float:left;
+	text-align:center;
+	margin:5px 8px 11px 8px;
+	border:0px;

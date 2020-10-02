@@ -1,0 +1,1 @@
+font-size: 40px !important; line-height: 46px !important; padding-bottom: 20px !important;font-size: 30px !important; line-height: 36px !important;display: inline-block;	.logo h1{font-size: 50px; line-height: 52px; color: #716a72; text-transform: uppercase; border-bottom: 1px solid #eaeaea;

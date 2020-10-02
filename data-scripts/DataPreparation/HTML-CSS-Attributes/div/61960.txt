@@ -1,0 +1,2 @@
+  margin-left: 73px;
+  padding: 0px 25px 25px 0px;

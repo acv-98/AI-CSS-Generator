@@ -1,0 +1,3 @@
+		display: none;
+		float: none;
+	width: 80px;

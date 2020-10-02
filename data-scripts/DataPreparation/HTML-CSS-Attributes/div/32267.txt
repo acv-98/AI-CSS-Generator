@@ -1,0 +1,6 @@
+	margin-bottom: 50px;
+	background: red;
+	float: left;
+	border: solid 1px #e1e1e1;
+	padding: 10px;
+	margin-right: 10px;

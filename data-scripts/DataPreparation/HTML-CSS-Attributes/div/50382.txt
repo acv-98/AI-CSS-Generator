@@ -1,0 +1,4 @@
+	height:394px;
+	background:#e8e8e8;
+	padding-top:10px;
+	border-bottom:solid 2px #fff;

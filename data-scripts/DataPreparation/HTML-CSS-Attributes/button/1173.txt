@@ -1,0 +1,5 @@
+	padding: 8px 20px;
+	color: #fff;
+	border: none;
+	margin-top: 10px;
+	background: #1abac8;

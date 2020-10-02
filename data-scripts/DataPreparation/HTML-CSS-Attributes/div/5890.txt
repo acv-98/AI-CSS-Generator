@@ -1,0 +1,8 @@
+	width:600px;
+	margin:0 auto;
+	padding:0;
+	float:left;
+	color:#fff;
+	font:normal 30px/1.2em Georgia, "Times New Roman", Times, serif;
+	letter-spacing:-1px;
+	background:url(images/logo_img.gif) no-repeat left top;

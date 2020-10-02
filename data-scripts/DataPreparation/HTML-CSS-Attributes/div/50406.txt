@@ -1,0 +1,5 @@
+	height:169px;
+	padding:15px 25px 50px 25px;
+	position:relative;
+	background:url(images/quote-bg.gif) no-repeat 0 0;
+	width:200px;

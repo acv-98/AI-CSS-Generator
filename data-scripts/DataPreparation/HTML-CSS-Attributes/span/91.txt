@@ -1,0 +1,9 @@
+	float:left;
+	display:block;
+	font-size:13px;
+	line-height:1.23em;
+	width:82px;
+	color:#404040;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	padding-top:3px

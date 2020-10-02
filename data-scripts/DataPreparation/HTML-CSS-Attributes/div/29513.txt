@@ -1,0 +1,7 @@
+  *zoom: 1;
+  display: table;
+  content: "";
+  line-height: 0;
+  clear: both;
+  float: none !important;
+  height: 12px;

@@ -1,0 +1,6 @@
+	position:relative;
+	-pie-png-fix:true;
+	behavior:url("PIE.htc");
+	z-index:3;
+	left:-16px;
+	top:140px;

@@ -1,0 +1,16 @@
+	-webkit-animation:pulse .3s;
+	animation:pulse .3s;
+	margin-right:-20px;
+	float:right;
+	background-color:#303543;
+	color:#fff;
+	margin-left:-20px;
+	text-align:center;
+	padding-top:12px;
+	width:40px;
+	height:40px;
+	border-radius:100%;
+	-moz-border-radius:100%;
+	-webkit-border-radius:100%;
+		margin-right:0;
+		margin-left:0;

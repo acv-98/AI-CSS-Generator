@@ -1,0 +1,6 @@
+width: 60% !important;width: 100% !important;padding: 5px 8px !important; font-size: 14px !important;  @-ms-viewport {
+    width: 320px;
+ display: inline-block; padding-top:15px; width:40%;color: #ed3237; font-size: 16px; line-height: 22px;font-family: 'source_sans_probold'; text-transform:uppercase;    .tags .btn{box-shadow: -4px 4px 0px 1px rgba(0, 0, 0, 0.1); color: #373435; text-transform: uppercase; font-family: 'source_sans_probold';font-size: 16px; padding: 6px 10px;
+	border-radius: 5px; border: 1px solid #c2c2c2;background:#ebebeb;margin-right: 1.5%;
+background:#373435; color:#ebebeb;    Sidebar styles starts here
+    Footer styles starts here

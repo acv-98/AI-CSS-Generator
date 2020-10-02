@@ -1,0 +1,18 @@
+  width: 100%;
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #fff;
+  float: left;
+  margin-top: 7px;
+  height: 42px;
+  line-height: 36px;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  background: transparent url(../images/arrow_down_input.png) 98% 90% no-repeat;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 0px;
+  box-shadow: none;
+  outline: none;

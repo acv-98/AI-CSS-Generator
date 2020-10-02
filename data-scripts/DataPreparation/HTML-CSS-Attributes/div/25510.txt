@@ -1,0 +1,9 @@
+	background: #6f9600 none repeat scroll 0 0;
+	clear: both;
+	color: #fff;
+	display: block;
+	float: none;
+	min-height: 118px;
+	padding: 0.625em 0;
+	text-align: center;
+	width: 100%;

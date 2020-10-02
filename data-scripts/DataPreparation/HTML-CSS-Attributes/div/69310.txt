@@ -1,0 +1,5 @@
+	margin: 0px 3px;
+ margin: 0px 5px;  margin: 0px 5px; 	
+	border: 1px solid #e7e7e7;
+	background: #fff;
+	padding: 12px;

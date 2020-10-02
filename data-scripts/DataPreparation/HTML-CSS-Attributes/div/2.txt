@@ -1,0 +1,9 @@
+	display:inline;
+	float:left;
+	margin-left:10px;
+	margin-right:10px
+	width:380px
+	padding: 36px 0 0 0;
+	text-indent: -9999px;
+	height: 61px;
+	background: url(../images/logo.png) no-repeat;

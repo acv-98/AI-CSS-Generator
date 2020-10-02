@@ -1,0 +1,7 @@
+    font-size: 16px;
+    margin-bottom: 2px;
+    color: #fff;
+    line-height: 36px;
+    background-color: #60bf93;
+    text-align: center;
+    padding: 19px 0;

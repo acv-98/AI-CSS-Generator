@@ -1,0 +1,1 @@
+	background:url(images/shell-b.gif) no-repeat 0 bottom;

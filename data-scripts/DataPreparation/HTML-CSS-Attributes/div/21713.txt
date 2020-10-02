@@ -1,0 +1,25 @@
+ width: 94% !important;  width: 40% !important; margin-left: 10px !important; width: 100% !important; height: auto !important;  margin-left: 10px !important;  width: 100% !important; float: none !important;  float: none !important; 
+#portfolio-bigimage .work-skillsdate{ 
+    position: absolute !important;
+    top: 0px !important;
+    bottom: auto !important;
+ width: 94% !important;  width: 40% !important; margin-left: 10px !important; width: 100% !important; height: auto !important;  margin-left: 10px !important;   margin-bottom: 30px;
+  margin-left: 240px;
+  -webkit-border-top-left-radius: 5px;
+  -moz-border-radius-topleft: 5px;
+  border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -moz-border-radius-topright: 5px;
+  border-top-right-radius: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  border-bottom-left-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  -moz-border-radius-bottomright: 5px;
+  border-bottom-right-radius: 5px;
+  float: left;
+  margin-right: 10px;
+  width: 215px;
+  height: 215px;
+  color: #454545;
+  margin-top: 20px;

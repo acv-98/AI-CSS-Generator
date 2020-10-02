@@ -1,0 +1,8 @@
+outline: none;.slides,
+.flex-control-nav,
+margin: 0; padding: 0;width: 100%; display: block;text-transform: capitalize;content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;margin: 0 0 10px; overflow: hidden; position: relative; zoom: 1;zoom: 1;.testimonial_item {
+	display: inline-block;
+	padding: 0;
+	position: relative;
+	margin-bottom: 15px;
+	width: 100%;

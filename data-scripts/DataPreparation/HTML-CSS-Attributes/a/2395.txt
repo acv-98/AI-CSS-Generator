@@ -1,0 +1,10 @@
+    font-size: 13px;
+    display: inline-block;
+    float: right;
+    padding: .8em 1em;
+    background: #acb7c0;
+    color: white;
+    border-radius: 0.25em;
+    background-color: #bac4cb;
+        font-size: 14px;
+        float: left;

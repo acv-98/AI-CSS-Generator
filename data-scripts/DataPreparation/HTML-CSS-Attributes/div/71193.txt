@@ -1,0 +1,4 @@
+  position: relative;
+  padding: 15px;
+    padding: 0px;
+    border: solid #fff 10px;

@@ -1,0 +1,4 @@
+ max-width: 1150px; 
+.form-control,
+.tm-submit-btn {
+	font-size: 1.8rem;

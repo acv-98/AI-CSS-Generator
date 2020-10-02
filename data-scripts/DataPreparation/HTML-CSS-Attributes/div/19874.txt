@@ -1,0 +1,14 @@
+	position:relative;
+	margin: 2em 0;
+	color: #8E999C;
+	font-size: 0.875em;
+	line-height: 1.5em;
+	text-align:center;
+	font-weight: 600;
+	display: block;
+	text-decoration:none;
+	border-radius:5px;
+	margin-top: 37%;
+	padding-bottom:5%;
+	margin-bottom: 16%;
+   margin-top: 17%;

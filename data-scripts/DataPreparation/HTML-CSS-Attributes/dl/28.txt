@@ -1,0 +1,9 @@
+	display:block;
+	color:#ec8f23;
+	font-size:20px;
+	line-height:24px;
+	text-shadow:1px 1px #fff;
+	font-family: 'Open Sans', sans-serif;
+	padding:18px 0 5px 0;
+	word-spacing:-1px;
+	text-decoration:none;

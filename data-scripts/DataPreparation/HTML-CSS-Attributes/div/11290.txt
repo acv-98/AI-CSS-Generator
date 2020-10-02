@@ -1,0 +1,4 @@
+	color:#747373;
+	padding:12px 8px 0 0;
+	line-height:25px;
+	background:url(images/footer-border.gif) top repeat-x;

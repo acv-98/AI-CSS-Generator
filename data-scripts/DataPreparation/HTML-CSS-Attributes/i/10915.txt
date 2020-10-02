@@ -1,0 +1,5 @@
+  background: #4eb7c0;
+	color: #f7f7f7;
+	background: #333;
+  display: inline-block;
+  color: #fff;

@@ -1,0 +1,7 @@
+    background: #f7f4f4;
+    border-bottom: 10px solid transparent;
+	text-align: center;
+	padding: 30px 25px 45px 25px;
+    margin: 35px 0 25px 0;
+	font-size: 22px;
+    border-bottom-color: #a8cf45;

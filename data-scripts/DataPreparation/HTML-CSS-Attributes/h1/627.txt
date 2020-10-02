@@ -1,0 +1,5 @@
+	background: url(../images/logo.jpg) no-repeat;
+	display: block;
+	width: 300px;
+	height: 70px;
+	text-indent: -9999px;

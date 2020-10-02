@@ -1,0 +1,6 @@
+background-color:#2f86a8;left:0;z-index:-1;		background:url(../images/design/footer-grain.png) top left repeat #287fa0;
+		height:35px;
+		width:100%;
+		position:absolute;
+		z-index:1;
+		bottom:0;

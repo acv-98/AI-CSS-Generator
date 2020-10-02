@@ -1,0 +1,13 @@
+	background:#888;
+	height:100%;
+	width:0;
+	position:relative;
+	padding:4px 7px;
+	color:#FFF;
+	bottom:100%;
+	right:0;
+	font-size:11px;
+	margin-bottom:10px;
+	content: ' ';
+	border-bottom:solid 7px transparent;
+	border-right:solid 7px #888;

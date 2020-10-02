@@ -1,0 +1,12 @@
+	background-position: 0px 0px;
+	width: 51px;
+	text-indent: -9000px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 44px;
+	color: #606060;
+ color: #cccccc; #sidebar .cat-list h2{
+	font-family: Tahoma, arial;
+	margin-bottom: 20px;
+	font-weight: normal;

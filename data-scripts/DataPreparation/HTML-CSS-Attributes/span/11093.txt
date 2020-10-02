@@ -1,0 +1,8 @@
+		display:none !important;
+		background: none repeat scroll 0 0 #fff;
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 25px;
+		width: 50px;
+		margin: auto;

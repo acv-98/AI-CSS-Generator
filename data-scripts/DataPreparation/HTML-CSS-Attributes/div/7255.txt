@@ -1,0 +1,2 @@
+width:310px;padding:50px 30px 30px 30px; padding-bottom:20px; padding-bottom:20px; padding-bottom:10px; padding-bottom:20px;
+SIDE BAR CLASSES

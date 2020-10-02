@@ -1,0 +1,2 @@
+	border-color:#d8d566;
+	background:url(../img/css/icons/warning.png) 10px center no-repeat #fef8c4;

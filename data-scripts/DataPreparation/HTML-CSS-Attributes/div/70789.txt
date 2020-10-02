@@ -1,0 +1,1 @@
+background-color:#fff; display:inline; float:left; margin:-60px 20px 0; padding:10px 20px; width:auto

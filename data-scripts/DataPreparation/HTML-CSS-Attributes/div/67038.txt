@@ -1,0 +1,6 @@
+ background: url(images/box-bottom.gif) no-repeat 0 0; height: 3px; .box .top { 
+	background: url(images/box-top.gif) no-repeat 0 0; 
+	height: 4px; 
+	font-size: 0; 
+	line-height: 0; 
+	text-indent: -4000px; 

@@ -1,0 +1,1 @@
+float:left;display:block; float:none;margin-bottom:10px;

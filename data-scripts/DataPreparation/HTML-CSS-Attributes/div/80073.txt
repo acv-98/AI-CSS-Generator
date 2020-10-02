@@ -1,0 +1,19 @@
+    background: #FF5800!important;
+text-align:center;-webkit-tap-highlight-color:transparent    Last Update on : 13/01/2017
+    Author     : Andreas Lautenschlager
+    Theme Name : Elsa
+    Description: Elsa, a multipurpose Template
+    Version    : 1.0.0
+Primary:                                #FF5800
+Primary Shade:                          #c84600
+Text:                                   #7a7c82
+Grey:                                   #eee
+Dark Grey:                              #333
+Primary Footer                          #222
+Secondary Footer:                       #111
+body,
+html {
+    height: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #7a7c82;
+    margin-top: 25px;

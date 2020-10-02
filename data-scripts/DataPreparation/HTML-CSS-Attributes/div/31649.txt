@@ -1,0 +1,4 @@
+    width:100%;
+    display: block;
+    background-color: transparent;
+    color:#fff;

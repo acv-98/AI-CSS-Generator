@@ -1,0 +1,4 @@
+  font-size: 13px;
+  padding: 2px 3px;
+margin-top: 10px;margin:0;padding:0;list-style:nonefloat: left;background: url(images/separator.png) no-repeat right center;padding-right:20px;background:none;padding-right:0px;display:block;padding:5px 10px;color:#35A1FB.pagination{border-top: 2px solid #35A1FB;
+margin-bottom: 10px;

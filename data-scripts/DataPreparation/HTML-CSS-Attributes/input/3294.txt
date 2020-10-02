@@ -1,0 +1,5 @@
+	background: transparent;
+	color: #fff;
+	border: none;
+	font-size: 60px !important;
+	margin-top: 50px !important;

@@ -1,0 +1,6 @@
+	background-color:#f6f2e4;
+	border:1px solid #7f7a64;
+	padding: 3px;
+	margin-right: 3px;
+	font-family: "Adobe Garamond Pro", "Garamond Premier Pro", Garamond, Georgia, Times, "Times New Roman", serif;
+	font-size: 14px;

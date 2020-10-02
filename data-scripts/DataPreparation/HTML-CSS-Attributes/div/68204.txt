@@ -1,0 +1,10 @@
+	margin:0 0 8px;
+	padding:6px 20px;
+	background:url(../images/article.jpg) no-repeat center top;
+	float:right;
+	width:94px;
+	font-size:46px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#fff;

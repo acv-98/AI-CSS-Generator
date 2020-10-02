@@ -1,0 +1,5 @@
+  display: inline;
+  float: left;
+  width: 100%;
+  border: 1px solid #ccc;
+  margin-bottom: 30px;

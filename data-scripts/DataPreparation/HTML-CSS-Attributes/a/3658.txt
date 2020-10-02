@@ -1,0 +1,9 @@
+	margin-top:0px;
+	_background-position: 5px -354px;
+	background:url("../images/icons.gif");
+	background-position: 5px -374px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	width:20px;
+	height:20px;
+	  *margin-top:0px; 

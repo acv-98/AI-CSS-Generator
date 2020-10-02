@@ -1,0 +1,18 @@
+	z-index: 2;
+	position: absolute;
+	left: 48em;
+	bottom:1em;
+	padding: 0;
+	float: left;
+	margin: 0 6px 0 0;
+	list-style-type: none;
+	display: block;
+	text-indent: -9999px;
+	width: 13px;
+	height: 13px;
+	background:none;
+	border: 1px solid #787575;
+	border-radius: 1em;
+	-webkit-border-radius: 1em;
+	-moz-border-radius: 1em;
+	-o-border-radius: 1em;

@@ -1,0 +1,4 @@
+    border-bottom: none !important;
+        padding-left: 55px;
+    height: 50%;
+    left: 40px;

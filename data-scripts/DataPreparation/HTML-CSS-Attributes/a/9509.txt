@@ -1,0 +1,15 @@
+	#asyncslider_slides_nav {
+		position:relative;
+		bottom:44px;
+		text-indent:-99999px;
+		left:0;		
+		background:url(../images/design/arrows.png) -13px top no-repeat #a9a9a9;
+		transition: all 0.23s cubic-bezier(0.75,0.16,0.98,0.48) 0s;
+background-color:#3aa9d2;	.slidecontrols li a.next, .slidecontrols li a.prev {
+		cursor: pointer;
+		width:13px;
+		display:block;
+		height:13px;
+background-color:#3aa9d2;background-color:#cecece;top:-25px;position:absolute;width:16px;height:16px; 	.footer ul.slidecontrols li a.next {
+		right:0;
+	top: 170px;

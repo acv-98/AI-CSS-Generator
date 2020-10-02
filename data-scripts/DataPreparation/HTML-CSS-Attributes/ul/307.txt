@@ -1,0 +1,17 @@
+    color: rgba(255, 255, 255, 1);
+    display: block;
+    width: 100%;
+    position: relative;
+    text-decoration: none !important;
+    right: 0;
+    font-size: 14px;
+    top: 0px;
+    margin-left: 4px;
+    margin-top: 78px;
+    text-transform: capitalize;
+    padding: 15px 20px;
+    border-bottom: 1px dotted rgba(255, 255, 255, 0.15);
+    line-height: 1 !important;
+    white-space: nowrap;
+    font-family: 'Montserrat', sans-serif;
+    border-top: 1px dotted rgba(255, 255, 255, 0.15);

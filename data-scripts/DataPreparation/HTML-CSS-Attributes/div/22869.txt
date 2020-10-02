@@ -1,0 +1,17 @@
+  background: #000;
+  color: #FFF;
+  line-height: 1.2;
+  position: absolute;
+  padding: 5px;
+  left: 10px;
+  top: 10px;
+  -webkit-border-radius: 5px;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: 5px;
+  -moz-background-clip: padding;
+  border-radius: 5px;
+  background-clip: padding-box;
+  padding-top: 5px;
+  margin-right: 5px;
+  font-size: 0.7em;
+  font-weight: 600;

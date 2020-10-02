@@ -1,0 +1,8 @@
+	padding-top: 190px;
+	display: inline-block;
+	color: #fff;
+	font-family: 'Candal', sans-serif;
+	font-size: 35px;
+	text-transform: uppercase;
+	padding-bottom:15px;
+        font-size: 24px;

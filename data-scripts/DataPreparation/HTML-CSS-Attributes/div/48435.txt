@@ -1,0 +1,4 @@
+    font-size:12px;
+    font-weight:600;
+    color:#464646;
+    margin-right:14px;

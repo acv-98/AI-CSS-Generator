@@ -1,0 +1,9 @@
+	margin-top:3px;
+	padding:3px;	
+	text-align:center;
+	background-color:#f4f4f4;
+	-webkit-transition: all 0.7s linear;
+	-webkit-transform: rotate(6.28rad);
+	transition: all 0.7s;
+	transform: rorate(6.28rad);
+		border-bottom:1px solid #eee;

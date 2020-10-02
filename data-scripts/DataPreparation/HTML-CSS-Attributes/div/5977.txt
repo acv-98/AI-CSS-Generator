@@ -1,0 +1,9 @@
+	width: 272px;
+	height: 530px;
+	background-color: #E8BA0F;
+	float: left;
+ width: 220px; 	    max-width: 340px;
+	    width: 100%;
+	    margin: 30px auto 0;
+	    float: none;
+	    height: auto;

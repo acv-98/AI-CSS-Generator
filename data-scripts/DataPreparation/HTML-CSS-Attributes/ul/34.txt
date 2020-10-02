@@ -1,0 +1,1 @@
+margin-bottom:-20pxwidth:100%;overflow:hidden;padding-bottom:20pxpadding-bottom:0float:left;margin-right:19pxmargin-bottom:6px

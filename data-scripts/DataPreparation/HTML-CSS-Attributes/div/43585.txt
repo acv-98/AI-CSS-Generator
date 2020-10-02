@@ -1,0 +1,10 @@
+ border-color: #cfcfcf;  float:none; width:auto;  width:auto !important; float:none;  margin-bottom: 20px; 
+	position: relative;
+	float: left;
+	width: 60%;
+	height: auto !important;
+	border: 1px solid #CFCFCF;
+	padding: 5px;
+	max-width: 770px;
+	display: block;
+	overflow: hidden;

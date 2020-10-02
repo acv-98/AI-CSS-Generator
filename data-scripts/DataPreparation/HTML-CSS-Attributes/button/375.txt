@@ -1,0 +1,16 @@
+    margin: 0;
+  border: none;
+  border-radius: 2px;
+  display: inline-block;
+  height: 36px;
+  line-height: 36px;
+  outline: 0;
+  padding: 0 2rem;
+  text-transform: uppercase;
+  vertical-align: middle;
+  font-size: 1.3rem;
+  box-shadow: none;
+  background-color: transparent;
+  color: #343434;
+    color: #b3b3b3;
+      float: right;

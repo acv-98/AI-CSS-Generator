@@ -1,0 +1,6 @@
+	-webkit-animation-name: rotateInUpLeft;
+	-moz-animation-name: rotateInUpLeft;
+	-o-animation-name: rotateInUpLeft;
+	animation-name: rotateInUpLeft;
+  -webkit-animation-name: rotateInUpLeft;
+  animation-name: rotateInUpLeft;

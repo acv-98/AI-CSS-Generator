@@ -1,0 +1,4 @@
+    color:#fff;
+    margin-bottom:30px;
+    font-size:2rem;
+    display: inline-block;

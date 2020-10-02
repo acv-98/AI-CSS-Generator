@@ -1,0 +1,7 @@
+	display:block;
+	padding:5px 10px 8px 0;
+	background:url(images/subheadbg.gif) left bottom repeat-x;
+	font:11px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#222;
+	text-decoration:none;
+	height:12px;

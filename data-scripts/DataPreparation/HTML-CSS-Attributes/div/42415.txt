@@ -1,0 +1,15 @@
+	margin:0;
+	padding:0;
+	height:42px;
+	background:url(../images/menu.gif) no-repeat center top;
+	list-style:none;
+	float:left;
+	display:block;
+	width:140px;
+	font-size:16px;
+	line-height:22px;
+	font-weight:normal;
+	color:#fff;
+	text-decoration:none;
+	text-transform:uppercase;
+	text-align:center;

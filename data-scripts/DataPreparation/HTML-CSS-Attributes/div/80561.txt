@@ -1,0 +1,22 @@
+		background: url(../images/design/nav-shadow-960.png) top left no-repeat transparent;
+		height:45px;
+		width:951px;
+		position:relative;
+		margin:0;
+		padding:0;
+		top:-17px;
+		z-index:10;
+		margin-bottom:-57px;
+top:-10;margin-bottom:0;	.header .logo {
+background:url(../images/design/shadow-full-body-blog.png) center 274px no-repeat transparent;padding-bottom:25px;margin-bottom:-10px;border:1px solid #e0e0e0;background-color:#e5e5e5;background-position:center 267px;	* Style 4
+position:absolute;bottom:-15px;background:url(../images/design/shadow-portfolio-three.png) transparent;height:15px;width:299px;background:url(../images/design/shadow-portfolio-four.png) transparent;height:15px;width:228px;left:-1px;top:-66px;margin-bottom:-104px;			background: url(../images/design/nav-shadow-768.png) top left no-repeat transparent;
+			height:45px;
+			width:759px;
+background:url(../images/design/shadow-portfolio-four.png) transparent no-repeat;background:none;margin-bottom:11px;padding:0;		* Style 2
+background:none;background:none;			top:-10px;
+top:-25px;margin-bottom:0;background:url(../images/design/shadow-portfolio-three.png) transparent no-repeat;margin:auto;left:145px;background:none;margin-bottom:11px;padding:0;		.body .body-wrapper {
+background:none;background:none;background:none;top:-25px;margin-bottom:0;		.clients .client {
+			text-align:center;
+			margin-bottom:20px;
+			border-top:none; 
+left:85px;background:none;margin-bottom:11px;padding:0;background:none;display:none;left:0;background:url(../images/design/shadow-portfolio-three.png) transparent;height:15px;width:299px;

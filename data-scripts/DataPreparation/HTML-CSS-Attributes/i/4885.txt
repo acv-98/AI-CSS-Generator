@@ -1,0 +1,10 @@
+  display: inline-block;
+  vertical-align: text-top;
+  background-repeat: no-repeat;
+  *margin-right: 0;
+  margin-right: 6px;
+  width: 19px;
+  height: 19px;
+  line-height: 19px;
+  background-position: 0 0;
+  background-image: url("../img/social-twitter.png");

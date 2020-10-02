@@ -1,0 +1,8 @@
+	height:302px;
+	position:relative;
+	margin:0 0 39px 0;
+	width:46px;
+	top:64px;
+	background:url(images/btn-prev.gif) no-repeat 0 0;
+	left:1px;
+	right:1px;

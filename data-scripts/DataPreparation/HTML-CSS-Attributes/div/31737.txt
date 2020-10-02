@@ -1,0 +1,11 @@
+    border-color:#fff;
+	font-weight: 300;
+	
+	height: 5px;
+	width: 120px;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 20px;
+	border-top: 5px solid;
+	position: relative;
+	left:0%;

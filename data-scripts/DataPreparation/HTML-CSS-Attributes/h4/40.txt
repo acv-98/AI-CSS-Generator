@@ -1,0 +1,7 @@
+  font-size: 28px;
+  background-color: #001C6F;
+  display: block;
+  padding: 20px;
+  color: #FFF;
+  margin-bottom: 30px;
+  font-weight: 400;

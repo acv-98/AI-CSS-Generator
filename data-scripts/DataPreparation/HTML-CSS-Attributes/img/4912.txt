@@ -1,0 +1,3 @@
+    max-height: 50px;
+    border: 2px solid #fff;
+    margin: 5px;

@@ -1,0 +1,6 @@
+    width: 100%;
+    min-height: 45px;
+    border: 1px solid #664a3f;
+    border-radius: 0;
+	border: 1px solid #8dbd56;
+	box-shadow: none;

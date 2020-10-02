@@ -1,0 +1,7 @@
+	position: relative;
+	display: block;
+	overflow: hidden;
+	opacity: 1;
+	filter: alpha(opacity=100);
+	-webkit-transform: scale(1);
+	transform: scale(1);

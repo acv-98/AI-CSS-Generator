@@ -1,0 +1,6 @@
+max-width: 100%; display: block;content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;height: 1%;
+display: block;.flexslider {
+	background: #888888;
+	position: relative;
+	zoom: 1;
+zoom: 1;position: relative;

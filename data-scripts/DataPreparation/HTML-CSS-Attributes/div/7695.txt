@@ -1,0 +1,8 @@
+	padding: 10px 0 50px 0;
+	font-size: 21px;
+	font-weight: 600;
+	line-height: 1.2;
+	letter-spacing: 0;
+	color: #454545;
+	margin: 0 0 10px 0;
+	font-family: 'Open Sans';

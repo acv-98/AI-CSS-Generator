@@ -1,0 +1,15 @@
+ margin: 0; padding: 0;
+.flexslider {
+   position: relative;
+   zoom: 1;
+   margin: 0;
+   padding: 0;
+ zoom: 1;  position: relative;  display: none; -webkit-backface-visibility: hidden;    content: " ";
+   display: table;
+   clear: both;
+ display: block; .slides {
+   overflow: hidden;
+   vertical-align: bottom;
+ width: 100%;  overflow: hidden;    #journal {
+      padding-top: 54px;
+      padding-bottom: 36px;

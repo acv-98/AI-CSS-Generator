@@ -1,0 +1,1 @@
+float:left; width:auto; position:absolute; left:42px; top:220px

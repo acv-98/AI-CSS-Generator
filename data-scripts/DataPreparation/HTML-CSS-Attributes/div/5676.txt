@@ -1,0 +1,18 @@
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    font-size: 30px;
+    color: #064774;
+    margin-bottom: 35px;
+    z-index: 1;
+    position: relative;
+    transition:all 0.3s ease 0s;
+ color: #fff; .serviceBox .service-icon:before{
+    content: "";
+    border-radius: 3px;
+    top: 0;
+    left: 0;
+    transform: rotate(45deg);
+    border-color: #00cb86 ;
+    background: #00cb86 ;

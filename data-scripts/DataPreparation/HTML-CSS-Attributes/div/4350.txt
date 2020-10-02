@@ -1,0 +1,2 @@
+	width:255px;
+	background: url(../images/event_meddile.jpg) 0 0 repeat-y;

@@ -1,0 +1,13 @@
+	color: #898989;
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1.1em;
+    border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+    margin-top: 54px;
+	margin-bottom: 72px;
+    font-size: 1em;
+	font-weight: 400;
+	margin-top: 18px;
+	padding-bottom: 12px;
+	text-align: center;
+	margin-left: 12px;

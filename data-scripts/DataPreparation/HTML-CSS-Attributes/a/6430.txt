@@ -1,0 +1,2 @@
+	color:#6b7174;
+	text-decoration:underline;

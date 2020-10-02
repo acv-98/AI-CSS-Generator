@@ -1,0 +1,1 @@
+ margin:0 auto; padding:24px 40px; width:890px;

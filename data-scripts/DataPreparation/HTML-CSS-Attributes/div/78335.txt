@@ -1,0 +1,1 @@
+ clear: both; border-bottom: 1px solid #ddd; margin: 0 0 45px; 

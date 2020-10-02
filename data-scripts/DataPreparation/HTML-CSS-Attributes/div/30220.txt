@@ -1,0 +1,12 @@
+  text-align: center;
+  width: 69px;
+  height: 69px;
+  background: #fff;
+  line-height: 69px;
+  margin: 0 35px 50px 35px;
+  font-size: 38px;
+  color: #423e3e;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+    margin: 0 25px 50px 25px;
+  display: none;

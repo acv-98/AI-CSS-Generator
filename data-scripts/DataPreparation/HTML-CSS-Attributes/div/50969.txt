@@ -1,0 +1,9 @@
+	font-family:Verdana, sans-serif;
+	font-size:9px;
+	padding:10px 0;
+	border-top:1px solid #d0d0d0;
+	color:#7f7f7f;
+	text-decoration:none;
+	margin:0;
+	line-height:normal;
+	float:left;

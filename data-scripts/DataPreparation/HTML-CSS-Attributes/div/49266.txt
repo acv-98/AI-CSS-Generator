@@ -1,0 +1,9 @@
+	float: right;
+	position: relative;
+	width: 100%;
+	padding: 0 20px 0 100px;
+	text-align: left;
+	right: auto;
+	left: -15px;
+	border-right-width: 15px;
+	border-left-width: 0;

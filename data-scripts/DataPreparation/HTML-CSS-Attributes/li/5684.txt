@@ -1,0 +1,7 @@
+ float: none;  margin-left: 0; 	.navbar-toggler {
+		background: white;
+		border-color: #cc9900;
+		color: #cc9900;
+		display: block;
+		margin-left: auto;
+		margin-right: 0;

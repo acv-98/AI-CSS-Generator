@@ -1,0 +1,11 @@
+	margin:0;
+	padding:0;
+	list-style:none;
+	color:#959595;
+	border-bottom:1px solid #ededed;
+	width:220px;
+	text-decoration:none;
+	margin-left:-12px;
+	padding-left:12px;
+	font-weight:bold;
+	background:no-repeat left center;

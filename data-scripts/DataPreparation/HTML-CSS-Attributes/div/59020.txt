@@ -1,0 +1,1 @@
+width:532px; padding:5pxpadding:5px; width:252pxwidth:436px; float:nonewidth:950px; padding:10px; background:#fff

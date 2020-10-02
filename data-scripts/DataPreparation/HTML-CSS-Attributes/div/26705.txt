@@ -1,0 +1,5 @@
+	background-image: url(../images/sidebar_footer.jpg);
+	height: 56px;
+	width: 340px;
+	clear: both;
+	margin-bottom: 20px;

@@ -1,0 +1,1 @@
+ font: normal 12px Arial, Helvetica, sans-serif; color:#898989; line-height:1.8em; padding:5px; margin:0;

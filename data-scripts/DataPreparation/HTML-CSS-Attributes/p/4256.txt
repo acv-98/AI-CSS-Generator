@@ -1,0 +1,7 @@
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #5f5e4e;
+  display: block;
+  margin-top: 20px;

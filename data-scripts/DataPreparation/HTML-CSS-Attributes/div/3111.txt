@@ -1,0 +1,11 @@
+	position:absolute;
+	bottom:0px;
+	left:283px;
+	z-index:98;
+	margin:0px 0px 0 0;
+	float:left;
+	height:70px;
+	width:85px;
+	display:block;
+	padding:2px;
+	background:#fff !important;

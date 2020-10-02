@@ -1,0 +1,6 @@
+  display: none;
+  visibility: hidden;
+ overflow: hidden; .testimonial-list .testimonial-image {
+	float: left;
+	width: 10%;
+	margin: 10px 0 0 0;

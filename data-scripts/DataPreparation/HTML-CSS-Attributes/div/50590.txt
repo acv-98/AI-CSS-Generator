@@ -1,0 +1,8 @@
+	padding:13px 0 13px 6px;
+	font-family:Verdana, Arial, "Trebuchet MS", sans-serif;
+	font-size:10px;
+	line-height:17px;
+	color:#595959;
+	text-decoration:none;
+	margin:0;
+	float:left;

@@ -1,0 +1,5 @@
+	padding:0 40px;
+	background:url("../design/section.png") 0 0 no-repeat;
+	float:left;
+	width:605px;
+	text-align:justify;

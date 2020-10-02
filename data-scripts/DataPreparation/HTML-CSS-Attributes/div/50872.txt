@@ -1,0 +1,7 @@
+	padding:15px;
+	font-size:19px;
+	line-height:23px;
+	text-align:right;
+	background:url(images/bullet.gif) no-repeat 0 7px;
+	color:#fff;
+	text-decoration:underline;

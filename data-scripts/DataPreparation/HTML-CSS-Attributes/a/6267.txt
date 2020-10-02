@@ -1,0 +1,6 @@
+	display:block;
+	width:180px;
+	height:87px;
+	background:url(images/get-started.gif) no-repeat 0 0;
+	margin:35px 0 0 112px;
+	background-position:0 -87px;

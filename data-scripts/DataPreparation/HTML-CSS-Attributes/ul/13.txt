@@ -1,0 +1,13 @@
+	padding:0px 0 14px 17px;
+	line-height:18px;
+	background:url(../images/marker-1.gif) 0 6px no-repeat;
+	font-size:14px;
+	color:#fff;
+	margin-top:12px;
+	width:260px;
+	float:left;
+	margin-right:80px;
+	overflow: hidden;
+	vertical-align: top;
+	display: block;
+	font-weight:normal;

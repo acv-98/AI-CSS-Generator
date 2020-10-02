@@ -1,0 +1,2 @@
+  background: url(../img/divider.png) no-repeat center center;
+  height: 150px;

@@ -1,0 +1,8 @@
+	margin-top: 33px;
+	padding-top: 33px;
+	border-top: 1px solid #6f757b;
+	background-color: #5b6269;
+	color: #e1e2e3;
+	padding-bottom: 38px;
+	text-transform: none;
+	margin-bottom: 22px;

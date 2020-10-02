@@ -1,0 +1,10 @@
+	background:url(../images/interface.gif) no-repeat left 0;
+	height:30px;
+	margin:10px 0 0;
+	float:left;
+	width:87px;
+	text-indent:14px;
+	font-family:arial;
+	color:#fff;
+	font-size:15px;
+	line-height:30px;

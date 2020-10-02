@@ -1,0 +1,2 @@
+.head_title{
+    padding: 105px 0px 90px 0px;

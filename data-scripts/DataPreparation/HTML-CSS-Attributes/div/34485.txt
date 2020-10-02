@@ -1,0 +1,1 @@
+	background:url(../images/border-2.gif) right 0 repeat-y;

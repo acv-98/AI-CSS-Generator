@@ -1,0 +1,12 @@
+   margin: 12px 0 18px 0;
+   padding: 0;
+   line-height: 24px;
+   border: none;
+   color: #838C95;
+      display: inline-block;
+      border: none;
+      color: #8d8d8d;
+      content: "|";
+      padding-left: 6px;
+      padding-right: 6px;
+      margin-left: 6px;

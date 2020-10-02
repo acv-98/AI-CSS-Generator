@@ -1,0 +1,6 @@
+        float: none;
+        margin: 0 10px;
+        margin-top: 20px;
+    color: #384b5f;
+    font-size: 20px;
+    margin-left: 20px;

@@ -1,0 +1,5 @@
+background: #F2F0F0; border-bottom: 1px solid white; padding: 8px; border-bottom: 1px solid #D9D4D4; border-top: 1px solid #FCFAFA; overflow: hidden;font-size: 11px; padding: 0px;
+.rtl .box {
+  float: right;
+  text-align: right; 
+  direction: rtl;

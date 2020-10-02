@@ -1,0 +1,2 @@
+font-size: 16px !important;padding-bottom: 5px !important;float: none !important; display: block !important; margin-right: 0 !important; margin-bottom: 15px !important;overflow: hidden; float: left;.user-info .icon{margin-right: 30px; background: #34b091; color: #fff; border-radius: 10px;
+background: #454855; color: #fff; transition:all 1s;font-size: 18px; line-height: 24px; color: #3b3e4a;font-family: 'source_sans_probold'; padding-bottom: 10px; text-transform: uppercase;

@@ -1,0 +1,5 @@
+	margin:0;
+	padding:0;
+	width:970px;
+	border:2px solid #e1e0e0;
+	background:#fdfdfd;

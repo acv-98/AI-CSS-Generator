@@ -1,0 +1,54 @@
+	height:400px;
+	background:url(../images/design/rb-960.png) left top no-repeat transparent;
+	position:relative;
+	margin:auto;
+	z-index:331;
+display:none;position:relative;display:none;.oneByOne1{
+	width: 980px;
+	overflow: hidden;
+	display: none;
+	float:left;
+left:0;z-index:20;top:139px;position:absolute; left:399px;z-index:22;top:155px;position:absolute; left:110px;z-index:15;top:10px;position:absolute;left:0;float:right;top:14px;position:relative;float:right;clear:both;top:50px;position:relative;float:right;clear:both;width:264px;float:right;clear:both;width:145px;float:right;clear:both;width:372px;width:334px;width:314px;width:100px;left:392px;z-index:20;top:139px;position:absolute;left:738px;top:155px;left:528px;top:50px;left:738px;top:5px; left:844px;z-index:21;top:191px;position:absolute; left:422px;z-index:21;top:190px;position:absolute; left:408px;z-index:15;top:0px;position:absolute;top:34px;position:relative;left:0;top:70px;position:relative;max-width:356px;width:531px;width:283px;width:104px;left:562px;z-index:20;top:150px;position:absolute; left:532px;z-index:21;top:235px;position:absolute; left:588px;z-index:15;top:14px;position:absolute;top:14px;position:relative;left:0;top:70px;position:relative;@media only screen and (min-width: 768px) and (max-width: 959px) {
+width: 768px;width:531px;width:283px;width:104px;left:367px;z-index:20;top:150px;position:absolute; left:337px;z-index:21;top:235px;position:absolute; left:393px;z-index:15;top:14px;position:absolute;top:14px;position:relative;z-index:100;left:0;top:70px;position:relative;left:0 left:106px;z-index:22;top:175px;position:absolute; left:13px;z-index:15;top:10px;position:absolute;left:0;float:right;top:14px;position:relative;float:right;clear:both;top:50px;position:relative;float:right;clear:both;width:264px;float:right;clear:both;width:145px;float:right;clear:both;width:372px;left:192px;z-index:20;top:139px;position:absolute;max-width:90px;left:598px;top:155px;max-width:90px;left:398px;top:50px;max-width:90px;left:598px;top:25px;left:650px;top:200px;max-width:90px;left:350px;top:200px;max-width:70px; left:318px;z-index:15;max-width:450px;top:30px;position:absolute;top:34px;top:100px;left:0;max-width:316px;max-width:326px;width:440px;height:600px;background:none;display:none;display:block;margin:auto;top:20px;position:relative;max-width:480px;background:none;display:none;display:block;margin:auto;top:25px;position:relative;	color: #ffffff;
+	text-shadow: 1px 1px 1px #353535;
+	font-size:13px;
+	line-height:17px;
+		font-size:15px;
+		font-family:"Open Sans";
+		font-weight:bold;
+		font-style:italic;
+		color:#368fb1;
+		text-shadow: none;
+		padding:5px 19px 5px 28px;
+		background:rgba(0,0,0,.25);
+		border-bottom:2px solid rgba(0,0,0,.35);
+		margin-bottom:3px;
+		width:auto;
+		-moz-user-select: none;
+ 		-webkit-user-select: none;
+  		-webkit-user-drag: none;
+padding-top:28px; font-weight: inherit;color: #ffffff;  font-size: 26px; line-height: 40px;padding-left:11px;color:#64d1fa;border-bottom:1px solid #64d1fa; padding-bottom:2px;font-size:26px;font-weight:bold; font-size: 19px; line-height: 35px; font-size: 16px; line-height: 30px; color: #777;  margin: 0 0 20px 0; color:#ffffff;font-size:13px;  margin: 0;  font-size: 21px; line-height: 27px; color: #777;   font-style: italic;  font-size: 17px; line-height: 24px; color: #777; font-style: italic;  margin: 0 0 20px; padding: 9px 20px 0 19px; border-left: 1px solid #ddd;  display: block; font-size: 12px; color: #555;  content: "\2014 \0020";  color: #555;  border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; * Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+==================================================
+	#Site Styles
+	#Page Styles
+	#Media Queries
+	.header {
+		position:relative;
+		min-width:340px;
+		z-index:99999;
+		padding-bottom:13px;
+margin:0;position:relative;	.portfolio-item.column.one-third .content{
+		line-height:16px;
+border:none;padding-bottom:0;color:#393939;	.one-third.column.portfolio-item .border {
+height:14px;	.one-third.column.portfolio-item .shadow {
+		top:-1px;
+		height:15px;
+		max-width:287px;
+max-width:930px;			background:url(../images/design/img-thirds-shadow-small.png) center 110px no-repeat;
+			max-width:224px;
+background:url(../images/design/shadow-portfolio-four.png) transparent no-repeat;max-width:738px;background:url(../images/design/shadow-portfolio-three.png) transparent no-repeat;margin:auto;background:url(../images/design/shadow-portfolio-three.png) transparent no-repeat;margin-bottom:10px;max-width:410px;max-width:290px; width: 40px;   width: 300px;  width: 28px;  width: 236px; 

@@ -1,0 +1,5 @@
+    position:relative;
+    float: left;
+    border: 3px solid #fff;
+    width:100%;
+    opacity:1;

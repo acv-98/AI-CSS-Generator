@@ -1,0 +1,5 @@
+  -moz-transform: scaley(-1);
+  -webkit-transform: scaley(-1);
+  -o-transform: scaley(-1);
+  transform: scaley(-1);
+  filter: flipv;

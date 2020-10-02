@@ -1,0 +1,1 @@
+ padding: 0 70px 30px 70px; height: 100%;  position: relative; overflow: hidden; margin-top: -20px; z-index: 100;  padding: 0 40px 12px; position: relative; margin-top: -20px; 

@@ -1,0 +1,10 @@
+	right:14px;
+	width:21px;
+	height:21px;
+	display:block;
+	background:url(images/rss.gif);
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	position:absolute;
+	top:3px;

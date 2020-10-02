@@ -1,0 +1,4 @@
+	overflow: hidden;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	border-bottom: 1px solid #c1c1c1;

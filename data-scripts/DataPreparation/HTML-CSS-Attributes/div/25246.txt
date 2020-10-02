@@ -1,0 +1,12 @@
+	margin:0 0 32px;
+	padding:0 0 24px;
+	display:block;
+	float:right;
+	width:68px;
+	height:32px;
+	font-size:25px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#17ccff;
+	background:url(../images/comment.gif) repeat left top;

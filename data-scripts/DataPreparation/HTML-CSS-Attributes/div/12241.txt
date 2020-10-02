@@ -1,0 +1,4 @@
+	max-width: 1260px;
+	margin-top: 24px;
+		width: 100%;
+		padding: 0;

@@ -1,0 +1,9 @@
+	background:url(../images/prev-1.gif) 0 0 no-repeat;
+	bottom:1px;
+	left:1px;
+	display:block;
+	position:absolute;
+	width:44px;
+	height:44px;
+	z-index:9999;
+	background-position: 0 bottom;

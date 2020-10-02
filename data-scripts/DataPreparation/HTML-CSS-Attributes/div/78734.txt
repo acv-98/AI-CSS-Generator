@@ -1,0 +1,5 @@
+	position: relative;
+	z-index: 2;
+	display: table;
+	min-height: 100%;
+	height: 100%;

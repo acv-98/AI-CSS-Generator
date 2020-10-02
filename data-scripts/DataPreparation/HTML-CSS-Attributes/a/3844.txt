@@ -1,0 +1,7 @@
+	display:block;
+	float:left;
+	padding:4px 0 0;
+	font-weight:bold;
+	text-decoration:none;
+	color:#3f3f3f;
+	border-bottom:1px solid #3f3f3f;

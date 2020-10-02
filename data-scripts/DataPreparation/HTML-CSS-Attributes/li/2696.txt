@@ -1,0 +1,3 @@
+	background-color: #5FCF80;
+	border-radius: 25px;
+	color: #ffffff !important;

@@ -1,0 +1,13 @@
+  display: block;
+  font-weight: bold;
+  padding: 0 0 17px;
+  font-size: 6.4rem;
+  vertical-align: top;
+  line-height: 1;
+  color: #000000;
+  margin: 0 7px 0 0;
+  position: relative;
+	color:#fff;
+    font-size: 5rem;
+    line-height: 1.12;
+    padding: 0 0 24px;

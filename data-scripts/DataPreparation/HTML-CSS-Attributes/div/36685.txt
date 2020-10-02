@@ -1,0 +1,4 @@
+
+color: #fff;font-family: 'Raleway', sans-serif; font-weight: 700; margin:0px; font-size: 36pxtext-align: center; text-align: center		contant close
+	6) Gallery Start
+text-align: center;padding-top: 50px; padding-top: 45px; padding-top: 45px; padding-top: 45px;

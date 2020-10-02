@@ -1,0 +1,6 @@
+	margin:0;
+	list-style:none;
+	display:block;
+	float:left;
+	width:290px;
+	margin-right:25px;

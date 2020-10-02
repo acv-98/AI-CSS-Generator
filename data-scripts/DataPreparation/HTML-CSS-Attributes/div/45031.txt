@@ -1,0 +1,14 @@
+  padding-left: 70px;
+  padding-top: 36px;
+  border-top: 1px solid #f1e8dd;
+  margin-right: 60px;
+  border-left: 3px solid #dab074;
+  border-bottom: 0;
+  padding-bottom: 50px;
+  margin-top:10px;
+  color: #a5732a;
+  font-weight: 700;
+  margin-left: 70px;
+    padding-left: 0;
+    margin-right: 20px;
+    margin-left: 0;

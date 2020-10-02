@@ -1,0 +1,8 @@
+ border-bottom-color: var(--pricingTable-blue);  background: var(--pricingTable-blue);  color: var(--pricingTable-blue); .pricingTable.blue .price-value{
+    border-left-color: var(--pricingTable-blue);
+    border-right-color: var(--pricingTable-blue);
+    border-top-color: var(--pricingTable-blue);
+    border-bottom-color: var(--pricingTable-blue);
+    color: var(--pricingTable-blue);
+    border-color: var(--pricingTable-blue);
+    background: var(--pricingTable-blue);

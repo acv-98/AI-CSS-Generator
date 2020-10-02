@@ -1,0 +1,7 @@
+	padding: 20px;
+	width: 60px;
+	height: 60px;
+	font-size: 1.4em;
+		padding: 18px;
+		width: 55px;
+		height: 55px;

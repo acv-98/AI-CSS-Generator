@@ -1,0 +1,1 @@
+border-bottom:1px solid; color:#777; display:block; padding:8px 5px; font-size:13px; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5stext-decoration:none; padding-left:15pxcontent:""; display:inline-block; font-family:FontAwesome; font-style:normal; font-weight:normal; line-height:1; margin-right:5pxbackground-color:#09c; color:#eee; border-color:#09c

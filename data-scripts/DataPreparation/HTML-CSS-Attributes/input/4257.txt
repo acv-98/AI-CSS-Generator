@@ -1,0 +1,18 @@
+-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box
+.lt-ie9 .small-block-grid-2 {
+    list-style: none
+    text-transform: lowercase;
+    font-size: 12px;    
+    border-radius: 3px;
+    text-shadow: 2px 2px 2px rgba(0,0,0,.15);
+    padding:20px 40px;    
+    background-color: rgb(58, 204, 248);
+     -webkit-transition: background-color 1000ms linear;
+     -moz-transition: background-color 1000ms linear;
+     -o-transition: background-color 1000ms linear;
+     -ms-transition: background-color 1000ms linear;
+     transition: background-color 1000ms linear;
+    color: #000;
+    box-shadow: 0 5px -5px #8a9051;
+    float: right;
+    margin-top:10px;

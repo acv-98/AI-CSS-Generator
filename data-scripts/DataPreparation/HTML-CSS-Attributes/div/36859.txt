@@ -1,0 +1,4 @@
+	background:#73715D url(../images/deviceleft.png) left top repeat-y;
+	border-bottom:1px solid #A9A693;
+	color:#E4E2CE;
+	padding:0px 0px 5px 18px;

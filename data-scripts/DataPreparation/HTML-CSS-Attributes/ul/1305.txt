@@ -1,0 +1,6 @@
+	color:#898989;
+	font:12px/26px Arial, Helvetica, sans-serif;
+	float:right;
+	height:26px;
+	width:82px;
+	background:url(../images/audio-sprite.png) no-repeat;

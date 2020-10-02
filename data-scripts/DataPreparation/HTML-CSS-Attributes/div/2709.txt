@@ -1,0 +1,10 @@
+     color: #000;
+     opacity: 1;
+     position: absolute;
+     bottom: 0px;
+     left: 0px;
+	 background: #ffffff;
+	 padding-left: 55px;
+	 width: 100%;
+     transition: all 0.3s ease 0s;
+     border-bottom: 2px solid #b0b435;

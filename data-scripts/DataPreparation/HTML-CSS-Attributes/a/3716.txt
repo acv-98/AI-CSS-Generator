@@ -1,0 +1,7 @@
+	background-color: #993366;
+    display: block;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 1.4rem;

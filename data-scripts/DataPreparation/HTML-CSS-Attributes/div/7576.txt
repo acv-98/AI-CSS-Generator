@@ -1,0 +1,1 @@
+ margin:0; padding:0; background:url(images/header_bg.gif) repeat-x top; margin:0 auto; padding:0 0 0 40px; width:930px; width:auto; float:left;

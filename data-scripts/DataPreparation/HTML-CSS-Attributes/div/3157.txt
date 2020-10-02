@@ -1,0 +1,14 @@
+    padding: 15px !important;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    color: #ffffff;
+    position: absolute;
+    width: 100%;
+    margin-bottom: 10px;
+    display: block;
+    height: 40px;
+    line-height: 41px;
+    text-align: center;
+    background-color: #fff;

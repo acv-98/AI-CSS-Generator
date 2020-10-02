@@ -1,0 +1,3 @@
+color: #d80112;font-family: 'open_sansbold'; text-transform: uppercase;color: #178ce6;
+   Responsive Tweaks starts here
+.navbar .btn-navbar {background: #178ce6; color: #fff; text-shadow: none; font-weight: bold; 

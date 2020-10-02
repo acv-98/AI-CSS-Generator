@@ -1,0 +1,8 @@
+  font-size: 12px;
+  padding: 10px;
+  height: 40px;
+border-bottom: 2px solid #999999;
+border-radius: 0 0 5px 5px;
+margin:0;padding:0;list-style:none;float:left;position:relative;.mainmenu ul li a{color: #999999;
+display: block;
+background:#ddd;left:-99999px;position:absolute;margin:0;padding:0;list-style:none;background:#fff;left:0;width:220px;background:#ddd;font-weight:bold;

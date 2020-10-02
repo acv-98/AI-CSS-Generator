@@ -1,0 +1,23 @@
+font-size: 20px !important; right: -55px !important;left: -54px !important;left: 42% !important;  
+  font-size: 16px !important;
+  right: 30% !important;
+  top: 45% !important;
+  width: 36px !important;
+  height: 36px !important;
+  line-height: 37px !important;
+left: 35% !important;  position: absolute;
+  left: 15px;
+  margin-top: -20px;
+  font-weight: 100;
+  color: #ffffff;
+  text-align: center;
+  background: #222222;
+  border: 3px solid #ffffff;
+  -webkit-border-radius: 23px;
+     -moz-border-radius: 23px;
+          border-radius: 23px;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  text-decoration: none;
+background: #f9b701; color: #2d6e84;   Generic custom styles starts here
+	.btn{background: #2d6e84; color: #b2b7b8; box-shadow: none; text-shadow: none; border: none; 

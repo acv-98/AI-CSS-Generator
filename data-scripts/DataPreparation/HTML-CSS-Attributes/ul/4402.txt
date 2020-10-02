@@ -1,0 +1,7 @@
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	list-style: none;
+	border-top: 1px solid #DCDCDC;
+	text-decoration: none;
+	color: #5E5E5E;
+	padding-top: 0em;

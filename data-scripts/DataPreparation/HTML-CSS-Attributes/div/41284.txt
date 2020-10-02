@@ -1,0 +1,6 @@
+ margin: 12px 0px 0px 18px;  float: right !important; .align-center {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	text-align: center !important;
+  float: right;
+  margin-left: .3em;

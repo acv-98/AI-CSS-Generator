@@ -1,0 +1,14 @@
+    background: #fff;
+    border-radius: 5px;
+    color: #333333;
+    display: block;
+	margin-top: 30px;
+	overflow: hidden;
+	position:relative;
+	width:100%;
+	padding: 20px 15px;
+    font-size: 20px;
+    line-height: 1.6rem;
+	color:#222222;
+	font-family: 'open_sanssemibold';
+	font-size:14px;	

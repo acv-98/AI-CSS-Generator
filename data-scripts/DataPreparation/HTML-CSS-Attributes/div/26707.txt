@@ -1,0 +1,5 @@
+	display: block;
+	margin:0 0 0 0;
+	width: 290px;
+	padding: 25px;
+	background: url(../images/sidebar_body.jpg) repeat-y;

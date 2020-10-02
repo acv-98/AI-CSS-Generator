@@ -1,0 +1,13 @@
+ float: none;  margin-left: 0; 
+.cd-slider-nav a,
+.navbar-nav .nav-link {
+	background-color: transparent;
+	color: black;
+    display: table-cell;
+    font-weight: 400;
+    font-size: 1em;
+	vertical-align: middle;
+    width: 130px;
+    height: 40px;
+			
+		background-color: rgba(68, 127, 202, 0.62);		

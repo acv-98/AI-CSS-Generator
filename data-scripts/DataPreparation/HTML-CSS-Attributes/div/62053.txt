@@ -1,0 +1,17 @@
+ float: right; .tm-navbar-bg {
+	display: -ms-flexbox;
+	-ms-flex-align: center;
+	    align-items: center;
+	-ms-flex-pack: justify;
+	    justify-content: space-between;
+	padding-left: 10px;
+	padding-right: 10px;
+	overflow: auto;
+	position: absolute;
+    right: 20px;
+    top: 44px;
+		padding-left: 25px; 
+		padding-right: 0;
+		position: static;
+		height: auto !important;		
+ padding-left: 30px; 

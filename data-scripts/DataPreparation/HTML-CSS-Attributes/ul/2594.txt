@@ -1,0 +1,13 @@
+	display:block;
+	list-style:none;
+	z-index:999;
+	width:210px;
+	text-align:center;
+	position:absolute;
+	bottom:0px;
+	height:25px;
+	left:10px;
+	float:left;
+	margin:3px;
+	background:url(images/slidernav.png) no-repeat;
+	text-indent:-9000px;

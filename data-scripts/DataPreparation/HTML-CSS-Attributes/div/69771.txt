@@ -1,0 +1,10 @@
+ width: 280px; margin-bottom: 25px 
+.navcontainer ul{
+	margin-left: 0;
+	padding-left: 0;
+	list-style-type: none;
+	display: block;
+	width: 240px;
+	background: url(images/seperator.png) repeat-x bottom;
+	text-decoration: none;
+	color: #000;

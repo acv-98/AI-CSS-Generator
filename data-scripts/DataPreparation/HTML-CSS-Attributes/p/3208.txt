@@ -1,0 +1,10 @@
+	display: block;
+	padding: 1em 0em 1em 1em;
+	background: #000000 url(images/img03.jpg) no-repeat right 50%;
+	text-decoration: none;
+	text-shadow: none;
+	text-transform: none;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1em;
+	font-weight: 200;
+	color: #FFFFFF;

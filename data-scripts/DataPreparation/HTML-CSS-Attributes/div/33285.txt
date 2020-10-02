@@ -1,0 +1,1 @@
+padding-right: 0 !important; margin-bottom: 30px !important;display: inline-block; padding-right: 30px;color: #2abde9; padding-top: 20px;color: #8d8c8c;

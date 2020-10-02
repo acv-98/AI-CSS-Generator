@@ -1,0 +1,10 @@
+  display: table-cell;
+  vertical-align: middle;
+  position: relative;
+  padding-bottom: 20px;
+  margin: 0 0 20px 0;
+  bottom: 0;
+  width: 30px;
+  height: 2px;
+  background: #118DF0;
+  content: "";

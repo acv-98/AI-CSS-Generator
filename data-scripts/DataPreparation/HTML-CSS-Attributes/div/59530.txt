@@ -1,0 +1,12 @@
+		left: -60px;
+		right: -60px;
+	width: 135px;
+	height: 135px;
+	top: 320px;
+		font-size: 14px;
+		top: 400px;
+	background: #d0a772;
+	color: #ffffff;
+	display: block;
+	position: absolute;
+	opacity: 1;

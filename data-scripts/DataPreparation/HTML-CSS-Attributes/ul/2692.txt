@@ -1,0 +1,11 @@
+    border: 1px solid #e1e1e1;
+    width: 50%;
+    padding: 10px;
+    float: left;
+    margin: 0 !important;
+    text-align: center;
+    background-color: #f4f4f4;
+	display: block;
+	padding: 10px 0px;
+	background: #333333;
+	color: #ffffff;

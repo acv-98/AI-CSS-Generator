@@ -1,0 +1,5 @@
+	float: left;
+	margin-right: 26px;
+	width: 454px;
+	overflow: hidden;
+	position: relative;

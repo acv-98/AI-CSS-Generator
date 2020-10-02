@@ -1,0 +1,9 @@
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+	width: 100%;
+	padding-bottom: 20px;
+	clear:both;
+	height: auto;
+	overflow: hidden;
+	margin: 10px 0;
+	border: 1px solid #dedede;

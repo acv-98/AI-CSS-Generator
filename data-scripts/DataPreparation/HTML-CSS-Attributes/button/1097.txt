@@ -1,0 +1,23 @@
+  background-image: none;
+  background-color: transparent;
+  color: #fff;
+  text-decoration: none;
+  z-index: 2;
+  display: block;
+  border-color: #0275d8;
+    -webkit-transform: translate3d(100%, 0, 0);
+            transform: translate3d(100%, 0, 0);
+text-align:center;-webkit-tap-highlight-color:transparent.owl-theme-01 .owl-nav [class*="owl-"] {
+    background: #fff none repeat scroll 0 0;
+    border: 1px dashed #e2e2e2;
+    border-radius: 0;
+    color: #7b7b7b;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0 7px;
+    padding: 6px 15px;
+    background-color: #ffffff;
+    border-right: 0 solid #e1e3e6;
+    border-bottom: 1px solid #e1e3e6;
+    border-left: 0 solid #e1e3e6;

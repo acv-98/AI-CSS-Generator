@@ -1,0 +1,9 @@
+	background: #fff;
+	padding: 8% 0;
+	text-align: center;
+	font-size: 2.6em;
+	color: #323A45;
+	font-weight: 600;
+	margin-bottom: 2%;
+	line-height: 1.9em;
+		font-size: 2em;

@@ -1,0 +1,14 @@
+  display: inline;
+  padding: 5px 0;
+  float: left;
+  width: 100%;
+  color: #fff;
+  font-size: 15px;
+  margin-right: 5px;
+  letter-spacing: 0.5px;
+  margin-left: 20px;
+  text-align: right;
+  border-right: 1px solid #f8f8f8;
+  padding-right: 10px;
+    font-size: 13px;
+    margin-top: 3px;

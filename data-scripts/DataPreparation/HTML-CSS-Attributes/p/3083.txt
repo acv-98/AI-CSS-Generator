@@ -1,0 +1,19 @@
+   font: 15px/21px notosans-regular, sans-serif;
+   margin-top: 12px;
+   margin-bottom: 0;
+   text-align: right;
+   display: block;
+   font-family: notosans-bold, sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   color: #878282;
+ color: #AFB4BB; .post .post-meta a:hover,
+ color: #11ABB0; .post .post-meta .date {
+ display: inline-block; .post .post-thumb {
+   width: 100%;
+ width: 25%;  text-align: center;    #journal .entry .post-meta time,
+   #journal .entry .post-meta .dauthor {
+      display: inline;
+      content: "/";
+      padding-left: 5px;
+      padding-right: 5px;

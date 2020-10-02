@@ -1,0 +1,48 @@
+	z-index: 990;
+	text-align: center;
+	position: relative;
+float:left;position:relative; .sf-menu>li {
+	top: 1px;
+	display: block;
+	float: left;
+	font-size: 30px;
+	line-height: 35px;
+	font-weight: 300;
+	-moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+	margin-left: 30px;
+  float: none;
+  position: static;
+	color: #fff;
+	content: '';
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: 7px 5px 0 5px;
+	border-color: #040404 transparent transparent transparent;
+	left: 50%;
+	transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease
+	border-top-color: #dd6d8d;
+	background-position: 0 0;
+	bottom: 14px;
+	pointer-events: none;
+    font-family: 'FontAwesome';
+	right: 15px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-left: 16px;
+	text-transform: capitalize;
+display:none !important; float: none;	.select-menu {
+		font:12px/15px Arial, Helvetica, sans-serif;
+		color:#202020;
+		width:100%;
+		margin: 0 auto;
+		float: none;
+	    outline: none;
+	    display: block !important;
+		border:2px solid #090909;

@@ -1,0 +1,11 @@
+	margin:0;
+	padding:0;
+	float:right;
+	width:500px;
+	height:37px;
+	background:url(images/menu_bg.gif) top no-repeat;
+	list-style:none;
+	font:normal 13px Arial, Helvetica, sans-serif;
+	color:#4c4c4c;
+	display:block;
+	text-decoration:none;

@@ -1,0 +1,2 @@
+	color:#60b000;
+	font-style:normal

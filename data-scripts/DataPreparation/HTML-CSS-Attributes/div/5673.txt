@@ -1,0 +1,17 @@
+-webkit-tap-highlight-color:transparent;position:relative
+.pogoSlider-dir-btn:focus,
+.pogoSlider-nav-btn:focus {
+	outline: 0
+	text-align: center;
+	display: inline-block;
+	margin: 0 auto;
+	margin-top: 20px;
+	border: 2px solid #12557f;
+	border-radius: 2px;
+	transition: .2s;
+	letter-spacing: 1px;
+	padding: 10px 18px !important;
+	background: #ffffff;
+	color: #12557f;
+	line-height: 12px;
+	font-size: 34px;

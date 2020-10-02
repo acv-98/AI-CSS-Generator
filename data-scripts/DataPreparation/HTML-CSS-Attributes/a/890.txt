@@ -1,0 +1,6 @@
+	height: 30px;
+	width: 50px;
+	overflow: hidden;
+	margin: 10px 10px;
+	display: inline-block;
+color:#f5bc04

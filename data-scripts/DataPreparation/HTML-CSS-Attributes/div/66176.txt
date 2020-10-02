@@ -1,0 +1,13 @@
+ text-align: center;  max-width: 300px;     margin-top: 20px;
+    text-align: left;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 14px;
+    color: #5d5d5d;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 rgba(255,255,255,.7);
+    line-height: 24px;
+    padding-right: 7px;
+	padding-bottom: 10px;
+	width: 95%;
+	height: 26px;

@@ -1,0 +1,8 @@
+	color:#d93e39;
+	display:block;
+	float:left;
+	font-size:35px;
+	line-height:35px;
+	text-shadow:#fff 1px 1px 1px;
+	margin:0 10px 2px 0;
+	font-weight:bold;

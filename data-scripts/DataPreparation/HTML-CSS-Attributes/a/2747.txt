@@ -1,0 +1,5 @@
+position:relative;padding-top:6px
+	font:24px/32px Economica,sans-serif;
+	color:#7e4a7c;
+	display:inline-block;
+	margin-top:24px

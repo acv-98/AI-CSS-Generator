@@ -1,0 +1,7 @@
+ float: right; 	
+#masthead ul:after, #main:after, .post:after, #footer:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;

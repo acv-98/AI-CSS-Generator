@@ -1,0 +1,8 @@
+    padding: 10px;
+    margin: -10px;
+  min-height: 16.42857143px;
+  border-bottom: 1px solid #e5e5e5;
+  margin-top: -2px;
+  background: #1f76bd;
+  color: #fff;
+  font-style: 26px;

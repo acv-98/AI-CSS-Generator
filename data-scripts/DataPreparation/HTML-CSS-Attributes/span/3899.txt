@@ -1,0 +1,4 @@
+	color: #08a5ff;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #fff;;

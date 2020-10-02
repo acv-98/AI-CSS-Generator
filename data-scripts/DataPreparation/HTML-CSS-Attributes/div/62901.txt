@@ -1,0 +1,5 @@
+	margin:0 auto;
+	padding:0;
+	width:950px;
+	background:#fff;
+	border:10px solid #898781;

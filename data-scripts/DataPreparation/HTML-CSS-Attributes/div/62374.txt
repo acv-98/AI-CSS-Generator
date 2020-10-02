@@ -1,0 +1,7 @@
+    border-color:#e74c3c;
+    transform: rotate(45deg);
+    width:70px;
+    height: 70px;
+    line-height: 70px;
+    margin:20px auto;
+    transition: all 0.6s;

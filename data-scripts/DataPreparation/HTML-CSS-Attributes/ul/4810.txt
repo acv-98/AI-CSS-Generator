@@ -1,0 +1,1 @@
+display:block; margin:30px 0 0 0;padding:8px 0 8px 40px; background:left center no-repeat;background-image:url("../images/social/twitter.jpg");background-image:url("../images/social/delicious.jpg");background-image:url("../images/social/flickr.jpg");

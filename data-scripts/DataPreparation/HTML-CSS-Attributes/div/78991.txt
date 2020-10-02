@@ -1,0 +1,7 @@
+  position: absolute;
+  left: 50%;
+  margin-left: -97px;
+  bottom: 0;
+  line-height: 30px;
+  margin-top: -68px;
+  top: 0;

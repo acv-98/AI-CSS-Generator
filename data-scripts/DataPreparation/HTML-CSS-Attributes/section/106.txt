@@ -1,0 +1,4 @@
+        left: 37%;
+    position: absolute;
+    top: -36px;
+    background: #F8F9FB;

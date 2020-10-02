@@ -1,0 +1,7 @@
+    list-style: none;
+    background: transparent url(../images/line.png) repeat-x left bottom;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    margin-top: -15px;
+    padding-right: 0;
+    border: none;

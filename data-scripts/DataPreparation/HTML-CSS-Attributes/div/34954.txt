@@ -1,0 +1,5 @@
+	color: #94c045;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 15px 0 0 68px;
+  text-decoration: none;

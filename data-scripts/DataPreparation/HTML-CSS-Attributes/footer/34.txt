@@ -1,0 +1,7 @@
+	padding-bottom: 20px;
+	overflow: auto;
+ margin-bottom: 1.5rem; @media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;

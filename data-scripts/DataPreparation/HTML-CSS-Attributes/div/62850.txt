@@ -1,0 +1,1 @@
+width: 545pxfloat: right;margin-left: 20px

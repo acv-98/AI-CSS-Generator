@@ -1,0 +1,3 @@
+    overflow: hidden;
+    margin-bottom: 27px;
+    margin-top: 18px;

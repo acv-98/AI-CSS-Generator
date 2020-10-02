@@ -1,0 +1,2 @@
+ margin-bottom: 7em;  color: #555; margin-bottom: 3em; border-top-color:#999;margin-bottom: 3empadding: 0 0 0 1em; line-height: 2em;color: #999;color: #0078CF 
+ margin-top: 1em; padding-top: 1em; border-top: 1px solid #DDD;  margin-top: 0;

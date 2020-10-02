@@ -1,0 +1,2 @@
+	width:100%;
+	background:url(../images/bg.jpg) center top no-repeat #fff

@@ -1,0 +1,3 @@
+	background:url(../images/line.png) 0 bottom repeat-x;
+	padding-bottom:29px;
+	margin-bottom:24px;

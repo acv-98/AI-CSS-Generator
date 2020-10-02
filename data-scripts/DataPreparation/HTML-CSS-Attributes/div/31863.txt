@@ -1,0 +1,10 @@
+	width: 135px;
+	float: left;
+	padding: 0 5px 5px 0px;
+	margin-right: 12px;
+	background: #FFFFFF;
+	border: 1px solid #BADEEF;
+	font-size: 14px;
+	height: 22px;
+	display: block;
+	margin-top: 18px;

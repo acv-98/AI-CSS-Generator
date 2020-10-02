@@ -1,0 +1,1 @@
+ margin-top: 0; position: relative; background: transparent; padding: 8px 65px 8px 57px;  background: url(images/socials.png) no-repeat 0 0; width: 19px; height: 19px; position: absolute; top: 10px; left: 29px;   background-position: 0px 0;  background-position: -20px 0;  background-position: -39px 0;  background-position: -60px 0;  background-position: -79px 0; 

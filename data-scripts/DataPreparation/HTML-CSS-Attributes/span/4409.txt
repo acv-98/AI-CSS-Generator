@@ -1,0 +1,1 @@
+ background: url(images/slider-shadow.png) no-repeat 0 0; width: 920px; height: 37px; position: absolute; bottom: -37px; left: 0; font-size: 0; line-height: 0; text-indent: -4000px; 

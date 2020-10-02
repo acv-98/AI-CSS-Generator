@@ -1,0 +1,7 @@
+	content: "\f104";
+	font-family: 'FontAwesome';
+	color:#fff;
+	padding:20px 20px 20px 10px;
+	font-size:32px;
+	display: block;
+  background: #e96b56;

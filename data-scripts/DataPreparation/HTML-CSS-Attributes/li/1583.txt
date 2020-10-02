@@ -1,0 +1,9 @@
+ margin-left: 0; 
+	.tm-news-item {
+		-webkit-flex-direction: column;
+		    -ms-flex-direction: column;
+		        flex-direction: column;		
+ margin-left: 0;  float: none; 	.navbar-toggler {
+		display: block;
+		margin-left: auto;
+		margin-right: 0;

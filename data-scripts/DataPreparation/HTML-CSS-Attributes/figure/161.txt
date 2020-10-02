@@ -1,0 +1,8 @@
+  position: relative;
+  bottom: -10em;
+    bottom: -2em;
+  max-width: 480px;
+    max-width: 380px;
+  top: 5em;
+  right: -3em;
+    right: -10em;

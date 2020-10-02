@@ -1,0 +1,12 @@
+	list-style: none;
+	width: 100%;
+	padding: 30px;
+ text-decoration: none; .tm-button,
+	background-color: #936;
+	border: none;
+	border-radius: 0;
+	color: #fff;
+	display: block;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+ padding: 30px 60px; 

@@ -1,0 +1,6 @@
+  margin-top: 7px;
+  display: block;
+  border-top: 1px solid #585246;
+  font-size: 14px;
+  padding-top: 10px;
+  color: #cb5432;

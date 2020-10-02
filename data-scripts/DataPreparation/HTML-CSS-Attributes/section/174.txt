@@ -1,0 +1,6 @@
+        top: -60px;
+.choose_icon{
+    float: left;
+    width:10%;
+    display: inline-block;
+    font-size:1.5rem;

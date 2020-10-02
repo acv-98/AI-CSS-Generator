@@ -1,0 +1,1 @@
+width:100%; overflow:hidden; position:relativeoverflow:hidden; position:relativefloat:left; width:190px; margin-right:40px;

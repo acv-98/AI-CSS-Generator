@@ -1,0 +1,6 @@
+	display: inline;
+	float: left;
+	width: 25%;
+.mu-single-team-content {
+	padding: 15px 33px;
+		width: 26%;

@@ -1,0 +1,9 @@
+	margin:0;
+	padding:0;
+	width:970px;
+	background:#eceff0 url(images/countent_vf.gif) top repeat-x;
+	float:left;
+	border:1px solid #eaecec;
+	background-color:#fff;
+	color:#9a9a9a;
+	text-decoration:none;

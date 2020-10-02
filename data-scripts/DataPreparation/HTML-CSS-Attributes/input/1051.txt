@@ -1,0 +1,12 @@
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    font-size: 16px;
+    height: 45px;
+    border-color: #f56363;
+    color: #000;
+    background-color: transparent;
+    background-image: none;
+    border-radius:0;
+    box-shadow:none;
+    border-top:3px solid #000;
+    border-bottom:2px solid #5b5b5b;
+    font-weight: 500;

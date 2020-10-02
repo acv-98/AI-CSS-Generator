@@ -1,0 +1,2 @@
+	color: #000000;
+	background:url(images/button_01.png) no-repeat;

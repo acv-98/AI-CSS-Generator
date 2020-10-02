@@ -1,0 +1,9 @@
+	position: absolute;
+	font-size: 13px;
+	bottom: -50px;
+	left: 20px;
+	padding-left: 35px;
+	padding-top: 14px;
+	font-style: normal;
+	color: #888;
+	background: url(../img/balloon.png) no-repeat  0px 4px;

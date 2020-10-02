@@ -1,0 +1,11 @@
+	padding-top:9px;
+	min-height:218px;
+	height:auto !important;
+	float:left;
+	color:#737373;
+	padding-bottom:10px;
+	line-height:17px;
+	margin:0;
+	background:url('#') no-repeat center bottom;
+	margin-right:10px;
+	font-size:10px;

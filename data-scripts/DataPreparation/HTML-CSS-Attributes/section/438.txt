@@ -1,0 +1,7 @@
+ width:100%; float:left; position:relative; width:100%; position:absolute; bottom:48px; background:url(../images/transparent-black-bg.png) repeat; font-size:60px;font-family: 'playfair_displayitalic'; color:#FFF;padding: 18px 38px 25px;display:inline-block; margin:0; font-size:26px;font-family: 'playfair_displayregular'; color:#243960; display:inline-block; background:url(../images/transparent-white-bg.png) repeat;    padding: 25px 40px 20px;
+.content{ float: left;
+    padding-top: 60px;
+	font-size: 23px;
+bottom:28px;	padding: 8px 28px 15px;
+	width: 88%;
+width:100%;width:100%;position:relative;margin:10px 0;top:inherit;bottom:inherit;

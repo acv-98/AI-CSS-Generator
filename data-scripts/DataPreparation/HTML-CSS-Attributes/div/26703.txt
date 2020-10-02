@@ -1,0 +1,22 @@
+	width: 340px;
+	  float:left;
+	  padding:0px 0px 0 0;
+	  text-align:center;
+	  font-size: .8em
+	text-decoration:none;
+	color:#000;
+	border:none;
+	display:block;
+	padding:6px;
+	letter-spacing:1px;
+	background-image: url(../images/tab_a.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin-bottom:0;
+	cursor:default;
+	  clear:left;
+	  border-bottom:1px dotted #c7c7c7;
+	  width: 300px;
+	  margin-left: 17px;
+	border-left: 14px solid #e69292;
+	float:left;

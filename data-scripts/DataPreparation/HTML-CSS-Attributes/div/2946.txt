@@ -1,0 +1,6 @@
+	font-family: "OpenSans-Light";
+	font-size: 41px;
+	padding-top: 46px;
+	padding-bottom: 50px;
+	color: #020243;
+ 

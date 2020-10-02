@@ -1,0 +1,8 @@
+  vertical-align: inherit;
+  margin-top: -4px;
+  padding-top: 3px;
+  margin-bottom: -4px;
+  padding-bottom: 3px;
+  line-height: .75em;
+vertical-align:inherit;margin-top:-4px;padding-top:3px;margin-bottom:-4px;padding-bottom:3px;line-height:.75em;margin-top:-7px;padding-top:5px;margin-bottom:-5px;padding-bottom:4px;  display: inline-block;
+background-image:none;line-height:.9em;display:inline-block;line-height:.9em;line-height:inherit;

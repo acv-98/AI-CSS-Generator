@@ -1,0 +1,3 @@
+height: 169px;	border: 1px solid #cacaca;
+	box-sizing:border-box;
+	padding:1px;

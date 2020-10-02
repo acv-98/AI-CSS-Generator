@@ -1,0 +1,7 @@
+text-align:center;
+body{
+ font-size: 1.1em;
+ line-height: 1.5em;
+ color: #717171;
+ font-family:'Droid Sans', serif;
+ 

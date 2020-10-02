@@ -1,0 +1,3 @@
+	background: url(../images/separator.jpg) center bottom no-repeat;
+	height: 44px;
+	margin-top: 20px;

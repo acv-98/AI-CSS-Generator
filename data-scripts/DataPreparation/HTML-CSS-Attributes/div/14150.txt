@@ -1,0 +1,2 @@
+  margin-bottom: 15px;
+  font: bold 48px/52px 'Marvel', sans-serif;

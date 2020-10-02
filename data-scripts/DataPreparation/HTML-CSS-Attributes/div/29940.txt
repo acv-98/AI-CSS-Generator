@@ -1,0 +1,5 @@
+	height:221px;
+	min-height:221px;
+	background:#eaebeb url(images/text-containerbg.gif) repeat-x 0 0;
+	padding:20px 15px 0 18px;
+	margin-bottom:20px;

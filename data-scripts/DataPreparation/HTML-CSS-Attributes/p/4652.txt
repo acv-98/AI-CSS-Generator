@@ -1,0 +1,4 @@
+	display: block; 
+	background: #F5F5F5; 
+	border: 1px solid #DDD; border-left: none; border-right: none; 
+	text-align: center; 

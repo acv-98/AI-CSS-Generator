@@ -1,0 +1,6 @@
+	width:129px;
+	height:14px;
+	font-size:11px;
+	line-height:14px;
+	color:#7a9cc0;
+	padding:8px 18px;

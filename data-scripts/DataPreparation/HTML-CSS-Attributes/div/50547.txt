@@ -1,0 +1,14 @@
+	margin:0 25px 0 0;
+	background:#fff;
+	width:266px;
+	height:194px;
+	border:1px solid #e9e9e9;
+	padding:12px 17px 54px 17px;
+	position:relative;
+	font-size:16px;
+	line-height:19px;
+	color:#464646;
+	border-bottom:1px dotted #dcdcdc;
+	text-decoration:underline;
+	bottom:14px;
+	left:17px;

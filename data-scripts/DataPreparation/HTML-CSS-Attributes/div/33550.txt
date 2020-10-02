@@ -1,0 +1,1 @@
+background:url(images/devider.jpg) no-repeat; height:17px; clear:both; margin-bottom:10px;

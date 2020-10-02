@@ -1,0 +1,17 @@
+	width: 32%;
+    margin-right: 3%;
+	padding: 15px 30px 20px;
+ padding: 15px 20px; .info-description-container {
+	float: right;
+	display: block;
+	font-size: 14px;
+	text-align: left;
+	border-bottom: 2px dotted #D7D2D2;
+	margin: 0px 15px;
+	border-bottom: none; .london-title {
+	border-left: 2px solid #19beb6;
+		float: none;
+		width: 100%;
+		margin-right: 0;
+		margin-bottom: 30px;
+ padding: 20px 0; 

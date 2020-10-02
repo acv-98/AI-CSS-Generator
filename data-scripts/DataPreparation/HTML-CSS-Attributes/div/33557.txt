@@ -1,0 +1,1 @@
+background: url(images/normalpagebg3.jpg) 16px 8px no-repeat;

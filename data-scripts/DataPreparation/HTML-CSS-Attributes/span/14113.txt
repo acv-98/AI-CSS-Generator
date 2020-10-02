@@ -1,0 +1,5 @@
+	display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    width: 140px;
+	margin-top: 10px;

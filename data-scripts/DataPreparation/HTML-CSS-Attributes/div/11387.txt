@@ -1,0 +1,5 @@
+    width: 25%;
+	border: 1px solid #428bca;
+	background: #428bca;
+	color: #fff;
+		margin-bottom: 30px;

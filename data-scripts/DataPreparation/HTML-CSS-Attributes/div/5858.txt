@@ -1,0 +1,9 @@
+	position:relative;
+	background:url(images/portfoliobg.gif) no-repeat;
+	width:650px;
+	height:198px;
+	margin:0 auto 10px auto;
+	line-height:1px;
+	left:10px;
+	top:-20px;
+	right:10px;

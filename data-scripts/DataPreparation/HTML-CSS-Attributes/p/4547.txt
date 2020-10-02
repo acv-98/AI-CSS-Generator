@@ -1,0 +1,4 @@
+  color: #bfbfbf;
+  margin-bottom: 20px;
+  font-weight: normal;
+  display: block;

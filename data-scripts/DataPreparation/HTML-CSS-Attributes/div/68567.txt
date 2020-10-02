@@ -1,0 +1,14 @@
+     float: right;
+     width: 630px;
+	width: 400px;
+	color: #575757;
+	line-height: 1;
+	background: transparent url(../images/icon-comment.png) no-repeat left top;
+	float: left;
+	margin-right: 20px;
+	padding-left: 20px;
+	font-style: italic;
+	font-family: 'Droid Serif', serif;
+	font-size: 11px;
+	padding-bottom: 2px;
+	padding-right: 5px;

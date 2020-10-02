@@ -1,0 +1,9 @@
+  background-color: #78ADC9;
+  font-size: 1.2rem;
+  float: left;
+  width: 30px;
+  height: 30px;
+  margin: 0 10px;
+  border-radius: 2px;
+    font-size: 2rem;
+height: 25px;width: 25px;height: 25px;width: 25px;width: 25px;margin: 0 5px;width: 25px;margin: 0 5px;

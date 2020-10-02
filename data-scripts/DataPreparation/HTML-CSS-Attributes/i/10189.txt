@@ -1,0 +1,3 @@
+overflow:hidden	display: none !important;
+	vertical-align: top;
+	color: #3b5998;

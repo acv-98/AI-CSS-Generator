@@ -1,0 +1,12 @@
+	color: #fff;
+	font-size: 22px;
+	width: 50px;
+	height: 3px;
+	border-top: 1px solid #34363e;
+	margin-top: 0px;
+	display: inline-block;
+	list-style: none;
+	padding: 0px;
+	border-bottom: solid 1px #3e4752;
+	text-transform: uppercase;
+	background-color: #1abac8;

@@ -1,0 +1,2 @@
+	background:url(../images/body-bg.gif);
+	padding:0 0 30px 0;

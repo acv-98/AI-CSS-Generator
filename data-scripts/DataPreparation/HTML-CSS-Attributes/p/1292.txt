@@ -1,0 +1,5 @@
+	margin:0 0 16px;
+	padding:0 0 12px;
+	color:#6e6e6e;
+	border-bottom:1px solid #d5d5d5;
+	text-decoration:underline;

@@ -1,0 +1,18 @@
+  width: 100%;
+  display: inline-block;
+  font-size: 0;
+  margin-bottom: 30px;
+  float: left;
+  margin-left: 62px;
+  border-radius: 3px;
+  opacity: 0.2;
+  cursor: pointer;
+  overflow: hidden;
+  -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.2);
+  -webkit-transition: opacity 200ms ease-in-out, height 80ms ease-in-out, border 80ms ease-in-out, -webkit-box-shadow 120ms ease-in-out, -webkit-transform 80ms ease-in-out;
+  transition: opacity 200ms ease-in-out, height 80ms ease-in-out, border 80ms ease-in-out, box-shadow 120ms ease-in-out, transform 80ms ease-in-out;
+  background-color: #384452;
+    margin-left: 45px;
+    width: 155px;
+    margin-bottom: 2.3%;

@@ -1,0 +1,3 @@
+ border-bottom:none;border-bottom:none;
+LEFT-COLUM CLASSS
+border-bottom:none;RIGHT-COLUM CLASSS

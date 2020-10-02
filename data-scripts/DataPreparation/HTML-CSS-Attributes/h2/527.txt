@@ -1,0 +1,8 @@
+	border-bottom: 4px solid #ebebeb;
+	color: #323232;
+	display: inline-block;
+	font-size: 24px;
+	padding-bottom: 5px;
+	margin-bottom: 25px;
+		font-size: 20px;
+		margin-bottom: 15px;

@@ -1,0 +1,4 @@
+	padding-top: 2px;
+	background: url(calendar.png) left no-repeat;
+	padding-left: 20px;
+	float: left;

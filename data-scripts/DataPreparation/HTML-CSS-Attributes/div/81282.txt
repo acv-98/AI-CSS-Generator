@@ -1,0 +1,2 @@
+ width: 100% !important;  width: 58.33333%; 
+float:left

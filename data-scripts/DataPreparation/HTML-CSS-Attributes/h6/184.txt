@@ -1,0 +1,6 @@
+	background: url(../img/bg/patterns/obl-1x1.png);
+	margin-bottom: 20px;
+	overflow: hidden;	
+	display: table;
+	padding: 0px 10px;
+	margin-left: 20px;

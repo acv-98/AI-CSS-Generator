@@ -1,0 +1,12 @@
+				margin-top: 50px;
+				padding-left: 180px;
+					background: #fff url("../images/works/back.png") 14px 1px no-repeat;
+					padding: 3px 20px 3px 40px;
+					top: -9px;
+ border-top: 1px dashed #ddd; .thumb .thumb-inner,
+.work .gallery-inner {
+	border: 1px solid #dadada;
+ text-decoration: none; #footer a:hover,
+	color: #bbb;
+	font-size: 9px;
+	text-transform: uppercase;

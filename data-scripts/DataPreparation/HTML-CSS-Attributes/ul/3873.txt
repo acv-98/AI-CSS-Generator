@@ -1,0 +1,5 @@
+    background-color:transparent;
+    color:#fff;
+    font-size:14px;
+    text-transform:uppercase;
+    font-weight:600;

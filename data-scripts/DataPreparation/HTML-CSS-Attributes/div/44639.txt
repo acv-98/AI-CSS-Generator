@@ -1,0 +1,6 @@
+	margin: 0 auto;
+	font-size: 26px;
+	display: block;
+	font-weight: 500;
+	color: #444;
+	text-align: center;

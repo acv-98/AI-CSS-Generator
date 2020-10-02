@@ -1,0 +1,11 @@
+  width: 100%;
+  float: left;
+  margin-bottom: 5em;
+  margin-top: 80px;
+  position: relative;
+  padding-left: 40px;
+  font-size: 20px;
+  left: 0;
+  top: 0;
+  color: #50CB86;
+  list-style: none;

@@ -1,0 +1,1 @@
+ float: none !important; width: 98% !important; margin-left: 0px !important;  float: none !important; width: 98% !important; margin-left: 0px !important;  float:right; width:33.5%;  float:none; width:100%;  margin-top:10px; 

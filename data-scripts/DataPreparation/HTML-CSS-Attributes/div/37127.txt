@@ -1,0 +1,12 @@
+	padding-top: 25px;
+	background: transparent url(../images/line2.png) top repeat-x;
+	margin: 0 25px;
+	float: left;
+	display: inline;
+	padding-right: 5px;
+	padding-left: 12px;
+	color: #a4a4a4;
+	font-size: 11px;
+	width: 15px;
+	
+	margin-top: 4px;

@@ -1,0 +1,12 @@
+	float: left;
+	margin-left: 0;
+	margin-top: 25px;
+	padding-top: 25px;
+	width: 539px;
+	min-height: 162px;
+	background: url(../images/testimonial.png) top left no-repeat;
+	text-align: left;
+	font-size: 18px;
+	font-style: italic;
+	color: #727272;
+	line-height: 22px;

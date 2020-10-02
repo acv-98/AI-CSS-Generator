@@ -1,0 +1,2 @@
+  right: -50px;
+  background-image: url(../images/aboutus/right.png);

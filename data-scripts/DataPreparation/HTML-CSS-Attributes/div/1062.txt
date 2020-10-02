@@ -1,0 +1,19 @@
+        max-width: 50%;
+        margin: 0 auto;
+        padding-bottom: 15px;
+        height: auto; 
+        min-height: auto;
+.first_fitness_area .single_left_first_fitness{
+    background: #fff;
+    color:#fd634e;
+    font-size:0.875rem;
+    text-transform: uppercase;
+    margin-bottom:0;
+    font-family: 'open_sanslight';
+    display: inline-block;
+    text-decoration: underline;
+    position: relative;
+    overflow: hidden;
+    width:100%;
+    right: 40px;
+    bottom: 50px;

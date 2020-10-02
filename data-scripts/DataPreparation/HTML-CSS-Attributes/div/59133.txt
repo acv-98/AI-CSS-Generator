@@ -1,0 +1,9 @@
+  color: #fff;
+  display: inline;
+  float: left;
+  font-size: 60px;
+  font-weight: bold;
+  line-height: 1.3em;
+  padding-left: 0;
+  text-align: center;
+  width: 100%;

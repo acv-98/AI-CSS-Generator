@@ -1,0 +1,6 @@
+width: 45%;height: 30px;height: 150px;width: 70%;.contact_us form input.wpcf7-submit{background: #222222;
+border: medium none;
+color: #FFD500;
+cursor: pointer;
+font-size: 18px;
+padding: 10px 40px;

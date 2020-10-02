@@ -1,0 +1,5 @@
+	font-size:14px;
+	text-transform:uppercase;
+	padding-bottom:8px;
+	padding-top:30px;
+	float:left;

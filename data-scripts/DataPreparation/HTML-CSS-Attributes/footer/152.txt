@@ -1,0 +1,16 @@
+    background-color: #021E2F;
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 30px;
+    padding-left: 0;
+    list-style-type: none;
+      color: #757D84;
+      font-weight: bold;
+    margin-top: 20px;
+    max-width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    padding-right: 5px;
+display:none !importantdisplay:none !important.footer .gmnoprint a, .footer .gmnoprint span, .footer .gm-style-cc {
+    display:none;

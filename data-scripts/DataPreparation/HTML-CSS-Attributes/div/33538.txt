@@ -1,0 +1,3 @@
+  padding: 9px;
+  color: #333333;
+	padding: 30px;

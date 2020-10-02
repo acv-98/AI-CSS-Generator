@@ -1,0 +1,11 @@
+	float:right;
+	width:275px;
+	margin:0;
+	padding:0;
+	border:1px solid #dedede;
+	background:#fff;
+	list-style:none;
+	border-bottom:1px dashed #f0f1f1;
+	font:normal 14px Arial, Helvetica, sans-serif;
+	color:#696969;
+	text-decoration:none;

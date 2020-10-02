@@ -1,0 +1,2 @@
+background:url(images/testimonial-bg.jpg) center fixed #000;background-size:cover;background:rgba(0,0,0,0.9);color: #fff;font-size: 26px;font-weight: 300;line-height: 35px;padding: 0 200px;
+padding: 0 100px;padding: 0;font-size: 14px;line-height: 20px;

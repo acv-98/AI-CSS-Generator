@@ -1,0 +1,7 @@
+    font-weight: normal;
+    float: left;
+    position: relative;
+    top: -2px;
+    font-size: 18px;
+    padding-top: 6px;
+    color: #535a5f;

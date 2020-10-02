@@ -1,0 +1,12 @@
+	border-radius: 6px;
+	color: black;
+	padding: 10px 40px;
+ padding: 10px 25px;  float: none;  padding: 10px 35px; 	#tmNavbar {
+		background: white; 
+		border-radius: 6px;
+ margin-left: 0; 	.navbar-toggler {
+		border-color: #cc9900;
+		color: #cc9900;
+		display: block;
+		margin-left: auto;
+		margin-right: 0;

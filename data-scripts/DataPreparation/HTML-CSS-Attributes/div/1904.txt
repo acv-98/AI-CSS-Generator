@@ -1,0 +1,9 @@
+  text-shadow: none;
+  color: #b5b5b5;
+  background: #6b7175;
+  text-align: center;
+  padding: 15px 0 10px 0;
+  font-weight: 100;
+  vertical-align: text-top;
+  margin: 0;
+  font-size: 40px;

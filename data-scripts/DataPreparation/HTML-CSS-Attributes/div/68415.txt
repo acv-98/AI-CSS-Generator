@@ -1,0 +1,5 @@
+    padding: 40px 0;
+    font-size: 1.8em;
+    line-height: 1.8em;
+    color: #222;
+      padding:20px 0 10px 0;

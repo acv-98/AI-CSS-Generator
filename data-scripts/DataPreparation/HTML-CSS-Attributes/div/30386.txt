@@ -1,0 +1,5 @@
+	margin-bottom:30px;
+	text-align:center;
+ text-decoration:none;.team_item .img_block img {
+	max-width:100%;
+	width:auto;

@@ -1,0 +1,17 @@
+	font: 15px/30px "raleway-heavy", sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2.5px;
+	color: #FFFFFF;
+	margin-bottom: 30px;
+	margin-top: 18px;
+	position: relative;
+	left: 3px;
+	width: 95%;
+	border-color: #fdc501;
+	text-align: left;
+		text-align: center;
+		font: 18px/36px "merriweather-light", serif;
+		width: auto;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 0;

@@ -1,0 +1,11 @@
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-top: -73px;
+  margin-left: -73px;
+  width: 147px;
+  height: 147px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;

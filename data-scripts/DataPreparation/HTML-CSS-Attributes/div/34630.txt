@@ -1,0 +1,12 @@
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+    float: left;
+    width: 33.33333333%;
+.header-transparent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 11;
+    margin: 15px 0;

@@ -1,0 +1,4 @@
+  padding-top: 100px;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;

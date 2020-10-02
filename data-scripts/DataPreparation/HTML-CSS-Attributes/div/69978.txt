@@ -1,0 +1,5 @@
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#7b7b7b;
+	font-size:12px;
+	float:left;
+	padding:10px 0 20px 0;

@@ -1,0 +1,14 @@
+	background: #00cfef;
+	box-shadow: 0 0 0 4px #00cfef;
+	top: -7px;
+	left: -7px;
+	padding: 7px;
+	-webkit-transition: -webkit-transform 0.2s;
+	-webkit-transform: scale(0.8);
+	-moz-transition: -moz-transform 0.2s;
+	-moz-transform: scale(0.8);
+	-ms-transform: scale(0.8);
+	transition: transform 0.2s;
+	transform: scale(0.8);
+	color: #fff;
+	font-size: 100px;

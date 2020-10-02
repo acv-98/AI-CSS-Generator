@@ -1,0 +1,8 @@
+  text-align: center;
+  color: #000000;
+  display: block;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 17px;
+  font-family: "Lora";
+  line-height: 26px;

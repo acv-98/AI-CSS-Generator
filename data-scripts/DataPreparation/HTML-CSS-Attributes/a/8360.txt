@@ -1,0 +1,16 @@
+	line-height: 1;
+    height: 40px;
+    margin-top: 14px;
+    margin-bottom: 26px;
+    padding: 0;
+    width: 100%;
+	font-size: 40px;
+	letter-spacing: -2px;
+	font-weight: 700;
+    color: #428BCA;
+    background: none;
+    margin-left: 0;
+		font-size: 28px;
+		float: left;
+		margin: 15px 0;
+		width: auto;	

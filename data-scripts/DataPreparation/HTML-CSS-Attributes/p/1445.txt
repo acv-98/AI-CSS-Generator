@@ -1,0 +1,1 @@
+ color: #FFFFFF; height: 88px; background: url('../images/price.bg.signup.png') repeat; 

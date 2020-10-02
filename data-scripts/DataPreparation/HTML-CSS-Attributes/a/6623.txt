@@ -1,0 +1,5 @@
+  border-bottom: 1px solid #25c9da;
+  color: #25c9da; 
+  display: inline-block;
+  text-decoration: none;
+  outline: none;

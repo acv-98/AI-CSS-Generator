@@ -1,0 +1,13 @@
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  content: " ";
+  display: table;
+  clear: both;
+    width: 750px;
+position:relative@font-face {
+  font-family: 'simple-line-icons';
+  src: url('../fonts/Simple-Line-Icons.eot?v=2.3.2');
+  font-weight: normal;
+  font-style: normal;

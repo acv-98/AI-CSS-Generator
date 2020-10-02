@@ -1,0 +1,7 @@
+margin-left:-20px;list-style:none;*zoom:1;clear:both;margin-left:0;float:left;margin-bottom:20px;margin-left:20px;.visible-print
+  Bootstrap's documentation styles
+  Special styles for presenting Bootstrap's documentation and examples
+body {
+  position: relative;
+  padding-top: 40px;
+*zoom:1

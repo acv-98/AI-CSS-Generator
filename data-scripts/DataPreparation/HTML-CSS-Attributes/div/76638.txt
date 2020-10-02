@@ -1,0 +1,13 @@
+  background-color: #a5d549;
+  display: block;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  padding: 5px 10px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  color: #fff;

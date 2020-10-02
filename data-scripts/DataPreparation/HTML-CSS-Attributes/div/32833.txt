@@ -1,0 +1,15 @@
+	padding-top:0;
+	position:absolute;
+	top:0;
+	right:0;
+	width:191px;
+	height:26px;
+	display:block;
+	background:url(images/search-bg.gif) no-repeat 0 0;
+	float:left;
+	background-color:transparent;
+	color:#bebebe;
+	font-size:10px;
+	line-height:19px;
+	text-transform:uppercase;
+	cursor:pointer;

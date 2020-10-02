@@ -1,0 +1,3 @@
+ float: left; padding-right: 14px; width: 72px; height: 45px;  display: block;  width: 72px; height: 45px;  border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; #footer .gallery-widget ul li a:hover img { opacity: 0.8;
+	-moz-opacity: 0.8;
+	filter:alpha(opacity=80); 

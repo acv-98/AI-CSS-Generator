@@ -1,0 +1,12 @@
+	overflow: hidden;
+	padding-top: 7px;
+	text-align: center;
+	background-color: #a2cac2;
+	margin-right: 10px;
+	float: left;
+	margin-top: 4px;
+	display: block;
+	color: #585858;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 20px;

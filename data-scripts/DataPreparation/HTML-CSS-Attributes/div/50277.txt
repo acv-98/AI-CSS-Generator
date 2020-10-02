@@ -1,0 +1,14 @@
+	height:100%;
+	overflow:hidden;
+	padding-bottom:23px;
+	float:left;
+	display:inline;
+	width:280px;
+	text-align:justify;
+	margin-right:53px;
+	border-bottom:1px dotted #565d54;
+	margin-bottom:12px;
+	position:relative;
+	padding-left:114px;
+	left:1px;
+	top:4px;

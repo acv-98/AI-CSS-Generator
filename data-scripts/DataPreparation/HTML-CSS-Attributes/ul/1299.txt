@@ -1,0 +1,16 @@
+  padding-top: 16px;
+  background-color: #ec9e9e;
+  color: #1e2439;
+  display: inline-block;
+  width: 47px;
+  height: 47px;
+  border-radius: 500px;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 43px;
+  text-align: center;
+  margin-bottom: 21px;
+  margin-top: 43px;
+  float: left;
+  margin-right: 26px;
+  position: relative;

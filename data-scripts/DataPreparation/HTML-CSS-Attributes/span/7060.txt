@@ -1,0 +1,9 @@
+  border-bottom: 1px solid #a5d549;
+  color: #a5d549;  
+	display: block;
+	font-size: 32px;
+	font-weight: 600;
+	padding: 10px 0;
+	text-align: center;
+  		font-size: 25px;  
+	  font-size: 16px;

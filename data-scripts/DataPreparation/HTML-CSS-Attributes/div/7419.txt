@@ -1,0 +1,2 @@
+ width:580px; margin:0 auto;overflow:hidden; padding-bottom:50px; width:580px; margin:0 auto;overflow:hidden; padding-bottom:30px; padding-top:30px; width:580px; margin:0 auto;overflow:hidden; padding-bottom:30px; padding-top:30px; padding-bottom:20px;font-family: 'Droid Serif', serif; font-weight:normal; color:#fff; font-size:16px; padding-bottom:15px;
+HEADER CLASSES

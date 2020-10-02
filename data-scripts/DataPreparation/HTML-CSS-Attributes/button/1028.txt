@@ -1,0 +1,4 @@
+    display: inline-block;
+    border-bottom: solid 1px #efefef !important;
+    border-color: #f43438;
+    background-color: #dc3236 !important;

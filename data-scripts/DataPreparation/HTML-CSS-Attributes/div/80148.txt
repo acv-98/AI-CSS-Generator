@@ -1,0 +1,15 @@
+	color: #FFF;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.1em;
+	font-weight: normal;
+	padding: 20px 60px;
+	text-transform: uppercase;
+	background:#FFA540;
+	display: inline-block;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	border:none;
+	cursor:pointer;

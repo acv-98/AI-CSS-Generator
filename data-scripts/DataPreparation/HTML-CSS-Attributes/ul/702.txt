@@ -1,0 +1,10 @@
+	position:absolute;
+	right:416px;
+	top:42px;
+	height:17px;
+	overflow:hidden;
+	float:left;
+	background:url(../images/divider.gif) repeat-y right top;
+	padding:2px 26px 3px 0;
+	margin-right:25px;
+	padding-right:0;

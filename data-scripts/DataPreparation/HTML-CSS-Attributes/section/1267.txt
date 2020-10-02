@@ -1,0 +1,8 @@
+    padding: 70px 0 70px;
+	display:block;
+    position:relative;
+    z-index:120;
+	background-color: #fff;
+	margin-bottom: 40px;
+    padding-top: 0;
+    padding-bottom: 0;

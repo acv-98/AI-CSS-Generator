@@ -1,0 +1,1 @@
+color: #005FA6;background-color: transparent;.carousel-inner .active.left .carousel-inner .active.left .carousel-inner .active.left 

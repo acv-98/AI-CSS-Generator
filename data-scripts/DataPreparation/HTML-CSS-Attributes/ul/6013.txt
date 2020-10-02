@@ -1,0 +1,13 @@
+	background-color: #a5d549;
+	border: 1px solid #a5d549;    
+	text-align: center;
+	float: none;
+	display: inline-block;
+	border-radius: 0;
+	margin: 0 10px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	color: #fff;
+		margin-bottom: 15px;
+		font-size: 15px;

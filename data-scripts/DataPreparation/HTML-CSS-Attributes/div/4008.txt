@@ -1,0 +1,5 @@
+	padding-top: 8px;
+	color: #85423f;
+	margin-bottom: 22px;
+	position: relative;
+	float: right;

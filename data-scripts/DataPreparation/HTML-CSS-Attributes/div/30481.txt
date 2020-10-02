@@ -1,0 +1,1 @@
+display: block; font-size: 13px; font-family: "Lucida Sans", "Trebuchet MS", sans-serif; font-weight: bold; color: #d1d1d1; padding-bottom: 8px;float: left; width: 391px;background: transparent; color: #ac8b72; font-family: arial, sans-serif; font-size: 13px; border: 0; width: 381px; height: 137px;

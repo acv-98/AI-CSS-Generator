@@ -1,0 +1,5 @@
+        margin-top: 10%;
+    border-right: 2px solid #bbb;
+    color:#bbb;
+    line-height: 2.5rem;
+    font-weight: 700;

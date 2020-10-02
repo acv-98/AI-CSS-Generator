@@ -1,0 +1,8 @@
+   width: 16.66667%;
+   float: left;
+   height: 72px;
+   margin-top: 12px;
+	border-radius: 100%;
+      float: none;
+      width: 72px;
+      margin: 0 auto 18px auto;

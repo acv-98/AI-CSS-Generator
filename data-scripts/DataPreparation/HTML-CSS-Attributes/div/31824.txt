@@ -1,0 +1,16 @@
+	background:url(../images/box-bg.gif) 0 100% repeat-x #b5c83c;
+	padding:24px 18px 40px 20px;
+	border:1px solid #c9dd47;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	color:#fff;
+	padding-bottom:20px;
+	margin-bottom:20px;
+	line-height:30px;
+	letter-spacing:-1px;
+	font-weight:normal;
+	font-size:16px;
+	text-transform:none;

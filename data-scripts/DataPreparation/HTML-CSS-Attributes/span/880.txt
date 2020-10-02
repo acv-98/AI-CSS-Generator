@@ -1,0 +1,3 @@
+	font:normal 11px/16px Verdana, Arial, Helvetica, sans-serif;
+	color:#576370;
+	text-transform:none;

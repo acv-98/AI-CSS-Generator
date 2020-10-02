@@ -1,0 +1,13 @@
+	background: #f6f6f6;
+	padding: 40px;
+	-webkit-transition: all .3s;
+	transition: all .3s;
+	font-size: 80px;
+	color: #F0394C;
+	margin-bottom: 30px;
+	line-height: 100%;
+	text-transform: uppercase;	
+	background-color: #F0394C; 
+	-webkit-transform: translateY(-10px);
+	transform: translateY(-10px);
+			margin-bottom: 30px;

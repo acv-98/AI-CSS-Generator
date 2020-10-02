@@ -1,0 +1,10 @@
+ border-color: #CAD0D1;  border-color: #eeeeee; 	margin-right:3px;
+	margin-right:0px;	margin-right:0px;	margin-right:0px;	margin-right:0px !important;	margin-right:30px !important;.tp-bullets.simplebullets .bullet:hover,
+    border-right: 0 none;
+    margin-right: 0;
+    border-bottom: medium none;
+    list-style-type: none;
+    padding: 0;
+    background: url("../images/twitter-bg.png") no-repeat scroll 0 center transparent;
+    line-height: 20px;
+    min-height: 20px;

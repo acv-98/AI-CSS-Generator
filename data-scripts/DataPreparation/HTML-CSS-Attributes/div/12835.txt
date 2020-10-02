@@ -1,0 +1,9 @@
+  color: #BE2525;
+  display: inline-block;
+  font-weight: 600;
+  font-variant-ligatures: common-ligatures;
+  font-size: 1.2em;
+  line-height: 1.625em;
+  margin-top: 0;
+  margin-bottom: 1.625em;
+  padding-right: 10px;

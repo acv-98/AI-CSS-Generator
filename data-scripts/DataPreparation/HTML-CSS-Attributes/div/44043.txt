@@ -1,0 +1,12 @@
+     margin-left: 25px;
+     border-left: 1px solid #ced4da;
+     color: #d33b33;
+     background-color: #fff;
+     font-weight: 700;
+     position: absolute;
+     top: 14px;
+     left: 0;
+     content: '';
+     width: 8px;
+     height: 1px;
+     outline: 0;

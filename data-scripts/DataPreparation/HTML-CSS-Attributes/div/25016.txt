@@ -1,0 +1,4 @@
+	display:inline-block;
+	width:48%;
+	margin-top:45px;
+	opacity:.8;

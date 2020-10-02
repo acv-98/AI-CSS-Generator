@@ -1,0 +1,3 @@
+	padding-top: 0em;
+	background: none;
+	border-top: none;

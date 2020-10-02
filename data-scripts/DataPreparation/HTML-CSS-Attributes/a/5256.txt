@@ -1,0 +1,2 @@
+ margin:4% auto; width:65px; height:65px; line-height:65px; font-size:35px
+ margin:67px auto; margin-bottom:60px; display:block; cursor:pointer; outline:none; background-color:transparent; border:3px solid #FFF; border-radius:100%; width:94px; height:94px; line-height:94px; font-size:60px; text-align:center; color:#FFF; padding-left:10px border-color:#6bb551 margin:0 auto; margin-bottom:20px

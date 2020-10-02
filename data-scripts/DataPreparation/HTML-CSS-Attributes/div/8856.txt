@@ -1,0 +1,9 @@
+	margin: auto;
+	width: 960px;
+	height: 120px;
+	background: url(../images/footer-credits-bg.png) top left no-repeat;
+	float: left;
+	margin-top: 55px;
+	font-size: 13px;
+	color: #dfdfdf;
+	text-decoration: none;

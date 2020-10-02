@@ -1,0 +1,8 @@
+  height: 45px;
+  border-radius: 0px;
+  background: #d4d4d4;
+  color: #969696;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight:500;

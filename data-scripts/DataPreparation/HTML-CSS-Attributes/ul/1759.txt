@@ -1,0 +1,12 @@
+    margin: 20px 28px 20px 28px;
+  display: block;
+  font-family: 'Lato', sans-serif;
+  line-height: 48px;
+  font-size: 14px;
+  border-top: 4px solid #6b3b25;
+  border-bottom: 1px solid #6b3b25;
+  float: left;
+  margin-right: 20px;
+  color: #6b3b25;
+  text-decoration: none;
+  font-weight: bold;

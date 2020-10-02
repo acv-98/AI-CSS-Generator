@@ -1,0 +1,5 @@
+ float:right!important; 
+ margin:0 0 10px 20px; 	margin:0 0 0 1.5em;
+	float:right;
+max-width:50%;
+height:auto;

@@ -1,0 +1,1 @@
+ float:left; width:169px; height:34px; background:url(images/footer-logo.gif); 

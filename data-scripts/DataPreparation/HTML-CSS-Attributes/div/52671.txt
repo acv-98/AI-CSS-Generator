@@ -1,0 +1,11 @@
+width:107px;
+float:left;
+padding:10px 40px 13px 39px;
+	background-image: url(../images/contact_us_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	color:#D5482C;
+	
+font-size:15px;
+font-weight:bold;
+text-decoration:none;

@@ -1,0 +1,4 @@
+	width: 45px;
+	height: 40px;
+	display: inline-block;
+	background: url(../images/img-sprite.png) no-repeat -165px -479px;

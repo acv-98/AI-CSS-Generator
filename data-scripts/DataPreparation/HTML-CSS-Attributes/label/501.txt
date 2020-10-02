@@ -1,0 +1,11 @@
+  position: relative;
+  margin-bottom: 20px;
+  display: block;
+  content: '\f073';
+  bottom: 5px;
+  right: 21px;
+  font: normal normal 20px/20px 'FontAwesome';
+  color: #adacac;
+  z-index: 4;
+  cursor: text;
+  padding-left: 18px;

@@ -1,0 +1,4 @@
+	margin:0;
+	padding:2px 4px;
+	text-decoration:underline;
+	width:300px;

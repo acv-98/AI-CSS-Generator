@@ -1,0 +1,4 @@
+	-webkit-animation-name:fadeInDownBig;
+	-moz-animation-name:fadeInDownBig;
+	-o-animation-name:fadeInDownBig;
+	animation-name:fadeInDownBig;

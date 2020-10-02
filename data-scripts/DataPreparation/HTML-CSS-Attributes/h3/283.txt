@@ -1,0 +1,13 @@
+	color: #D2691E;
+  background-color: #D2691E;
+  margin: 20px 0 20px;
+  padding-bottom: 10px;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  bottom: 0;
+  content: "";
+  height: 3px;
+  left: 40%;
+  width: 100px;
+font-size: 18px;left: 33%;left: 41%;left: 38%;left: 32%;left: 29%;

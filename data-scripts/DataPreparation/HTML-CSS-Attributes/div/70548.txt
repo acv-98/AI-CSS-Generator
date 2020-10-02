@@ -1,0 +1,2 @@
+width: 645px; margin-left: 55px; overflow: hidden;width: 590px;	
+ width: 628px; height: 20px; margin: 20px 0 20px 72px; border-left: 1px solid #efefef; overflow: hidden;

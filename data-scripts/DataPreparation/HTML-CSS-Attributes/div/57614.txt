@@ -1,0 +1,10 @@
+	width:864px;
+	float:left;
+	background-image: url(../images/header_img.jpg);
+	background-repeat: no-repeat;
+	padding:0px 46px 0px 40px;
+sborder:1px solid red;
+color:#a1c162;
+font-size:17px;
+ color:#fff; color:#d6c696;.header_right{ 
+margin:0px 0px 0px 0px;

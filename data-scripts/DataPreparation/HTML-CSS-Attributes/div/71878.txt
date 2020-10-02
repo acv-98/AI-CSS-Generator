@@ -1,0 +1,10 @@
+	width:100%;
+	overflow:hidden;
+	background:url(../images/small-arrow.gif) no-repeat 0 4px;
+	padding:0 0 21px 23px;
+	font:bold 12px/14px Arial, Helvetica, sans-serif;
+	color:#090909;
+	text-transform:uppercase;
+	float:right;
+	margin-left:82px;
+	height:1%;

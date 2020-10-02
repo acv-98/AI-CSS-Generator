@@ -1,0 +1,12 @@
+	display: inline;
+	float: left;
+	width: 100%;
+	padding-top: 180px;
+	padding-right: 44%;
+	padding-left: 25px;
+	color: #0091ea;
+	font-size: 18px;
+		padding-right: 15%;
+		padding-left: 25px;
+		font-size: 16px;
+		text-align: center;

@@ -1,0 +1,13 @@
+	background-image: url(../images/7.jpg);
+	font-style: italic;
+	font-size: 32px;
+	color: #fff;
+	padding: 150px 0;
+	border: 2px solid #fff;
+	margin-left: 10px;
+	margin-right: 10px;
+	line-height: 70px;
+	border-radius: 100%;
+	width: 70px;
+	height: 70px;
+	background-color: #fff;

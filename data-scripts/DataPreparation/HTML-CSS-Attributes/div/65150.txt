@@ -1,0 +1,7 @@
+	display: block;
+	color: #b5b5b5;
+	padding: 0 0 0 50px;
+	margin: 0 0 18px 0;
+	height: 30px;
+	line-height: 30px;
+	background: url(../images/facebook.png) no-repeat left center;

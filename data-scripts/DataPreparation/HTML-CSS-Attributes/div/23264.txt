@@ -1,0 +1,1 @@
+position:relative; border-top:5px solid;display:block; position:absolute; top:-5px; width:33.33333333333333%; height:5px; overflow:hidden; content:"";left:0;right:0;

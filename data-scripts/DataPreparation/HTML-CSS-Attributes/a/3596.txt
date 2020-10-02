@@ -1,0 +1,4 @@
+    border-radius: 2px;
+    font-size: 18px;
+    line-height: 1.33;
+    padding: 14px 22px;

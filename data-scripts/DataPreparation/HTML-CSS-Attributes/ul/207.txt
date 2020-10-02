@@ -1,0 +1,13 @@
+	top: -77px;
+	width: 40%;
+    top: -16px;
+    width: 35%;
+    background-color: #fff;
+    border-color: #fff;
+    margin-top: 14px;
+    position: absolute;
+    left: 0;
+   margin-bottom: 0px;
+	
+    color: #fff;
+	color: #da9b31;

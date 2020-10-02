@@ -1,0 +1,6 @@
+	clear:both;
+	border-bottom:2px solid #ddedb2;
+	padding:0;
+	margin:10px 0;
+	background:none;
+	list-style:none;

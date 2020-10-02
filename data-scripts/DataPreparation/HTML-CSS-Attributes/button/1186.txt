@@ -1,0 +1,17 @@
+        margin-right: 0;
+        padding: 13px 20px;
+        display: block;
+        width: -moz-fit-content;
+    margin-bottom: 50px;
+    text-align: center;
+    border: medium none;
+    color: #3f3f3f;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    background: #fff;
+    position: relative;
+    bottom: 3px;
+    content: "";
+    height: 3px;
+    left: 25%;

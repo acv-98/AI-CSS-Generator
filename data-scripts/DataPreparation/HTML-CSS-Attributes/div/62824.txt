@@ -1,0 +1,3 @@
+	background:url(../images/bodybg.jpg) 0 0 no-repeat;
+	width:850px;
+	float:left;

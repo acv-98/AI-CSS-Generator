@@ -1,0 +1,16 @@
+    border: 1px solid #4e595f;
+    padding-bottom: 30px;
+    margin: 10px 0;
+    display: inline;
+    font-family: Oswald, sans-serif;
+    font-size: 35px;
+    line-height: 50px;
+    margin-bottom: 15px;
+	font-family: Ubuntu,sans-serif;
+	font-size: 20px;
+	margin: 0;
+        margin-bottom: 30px;
+        width: 270px;
+		margin-bottom: 25px;
+		font-size: 23px;
+		width: 60%;

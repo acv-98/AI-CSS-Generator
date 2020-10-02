@@ -1,0 +1,13 @@
+    width: 15%;
+    float:left;
+    position: relative;
+    height: 105px;
+    background: url(../images/iconbg1.png) no-repeat center center;
+    line-height: 100px;
+    text-align: center;
+    color: #444;
+    font-size: 2rem;
+    transition: all 0.6s;
+    opacity: 1;
+.about .single_about .single_ab_text{
+    margin-left:20px;

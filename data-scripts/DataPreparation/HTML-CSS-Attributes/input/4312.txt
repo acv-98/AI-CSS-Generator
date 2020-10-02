@@ -1,0 +1,10 @@
+top:6px;* Miscellaneous Padding/Margin Optimization
+		border:0px;
+		background-color:transparent;
+		top:1px;
+		left:-10px;
+		position:relative;
+		width:155px;
+		color:#9c9c9c;
+		height:28px;
+		float:right;

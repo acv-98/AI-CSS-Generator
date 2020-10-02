@@ -1,0 +1,5 @@
+	float:right;
+	width:auto;
+	color:#3f3f3f;
+	font-weight:normal;
+	text-decoration:underline;

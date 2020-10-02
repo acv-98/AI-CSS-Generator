@@ -1,0 +1,8 @@
+	width:980px;
+	margin:0 auto;
+	position:relative;
+	height:88px;
+	background-color:#000;
+	overflow:hidden;
+	border:2px solid #b5830e;
+	padding-left:28px;

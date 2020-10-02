@@ -1,0 +1,15 @@
+	display:block;
+	height:0;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	clear:both;
+	float:left;
+	color:#fff;
+	background:url(images/nav-a-c.gif) no-repeat center 52px;
+	width:445px;
+	position:absolute;
+	bottom:0;
+	left:0;
+	z-index:150;
+	text-align:center;

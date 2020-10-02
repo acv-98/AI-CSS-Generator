@@ -1,0 +1,2 @@
+line-height:.75em;margin-top:-7px;padding-top:5px;margin-bottom:-5px;padding-bottom:4px;  line-height: .9em;
+background-image:none;line-height:.9em;

@@ -1,0 +1,17 @@
+  padding-right: 16.66667%; #journal .entry .post-content p {
+   font: 16px/30px notosans-regular, sans-serif;
+   margin-left: 3px;
+   font-size: 14px;
+   margin-bottom: 18px;
+  margin-top: 18px;
+  font-family: notosans-regular, sans-serif;
+ font-family: notosans-bold, sans-serif; .post .bio {
+   margin-top: 30px;
+   padding-top: 30px;
+   background: #EFF1F0;
+	border-radius: 3px;
+     width: 75%;
+     padding-right: 30px;
+ margin-left: 25%;       padding: 0 30px;
+      margin-top: 18px;
+      margin-left: 0;

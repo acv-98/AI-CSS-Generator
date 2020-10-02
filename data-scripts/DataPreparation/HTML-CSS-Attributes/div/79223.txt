@@ -1,0 +1,25 @@
+margin:0;padding:0;	.post-title	h2{
+		font-size: 28pt;
+		font-weight: 100;
+		letter-spacing: 2px;
+		line-height: 100%;
+		margin: 0 0 10px 0;
+		padding: 0;
+		text-transform: uppercase;
+		word-spacing: .1em;
+	color: #444;	color:#000;			
+	.date	{
+		color: #444;
+		display: block;
+		font-family: Helvetica,Arial, Sans-Serif;
+			color: #000;
+			font-size: 12pt;
+			font-weight: 900;
+			letter-spacing: 0;
+			line-height: 130%;
+			margin:0 0 5px 0;
+			padding: 2px 0;
+			text-transform: uppercase;
+			word-spacing: .2em;
+					background: #ffffcc;
+					color: #000;

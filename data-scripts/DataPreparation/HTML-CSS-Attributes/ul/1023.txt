@@ -1,0 +1,10 @@
+  padding: 15px 0;
+  height: inherit;
+  display: block;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  border-bottom: 1px solid #00C7FC;
+  background-color: transparent;
+  margin-top: 37px;

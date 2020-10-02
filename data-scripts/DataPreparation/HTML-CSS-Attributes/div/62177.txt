@@ -1,0 +1,6 @@
+	float:right;
+	width:280px;
+	padding-left:10px;
+	color:#ff7800;
+	font-weight:500;
+	margin:10px 0 6px;

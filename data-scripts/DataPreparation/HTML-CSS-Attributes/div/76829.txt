@@ -1,0 +1,18 @@
+	background-image:none;
+ 	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/project-span-bg.png', sizingMethod='scale');
+	padding-bottom:22px;
+	float:left;
+	position:relative;
+	padding-right:2px;
+	width:465px;
+	height:150px;
+	bottom:28px;
+	right:9px;
+	display:none;
+	left:0;
+	line-height:34px;
+	font-weight:bold;
+	font-size:14px;
+	color:#fff;
+	padding-left:12px;
+	margin-left:1px;

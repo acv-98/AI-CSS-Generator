@@ -1,0 +1,1 @@
+ display: inline; clear:left; float:left; width:666px; height:54px; background:url(../images/wel_bg.gif) repeat-x;

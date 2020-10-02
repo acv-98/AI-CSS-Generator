@@ -1,0 +1,1 @@
+padding-bottom:17pxfont-weight:bold;padding:0 0 5px 8px;background:url(images/marker2.gif) no-repeat left 6pxpadding-top:5px;margin-bottom:-5pxcolor:#e62525

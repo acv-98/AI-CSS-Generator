@@ -1,0 +1,12 @@
+  color: #a5d549;
+  font-weight: bold;
+  padding: 20px;
+  border: medium none;
+  margin-bottom: 15px;
+  margin-top: 0;
+  float: left;
+  margin-left: 15px;
+  border-color: #888;
+  font-size: 18px;
+    font-size: 25px;
+    line-height: 30px;

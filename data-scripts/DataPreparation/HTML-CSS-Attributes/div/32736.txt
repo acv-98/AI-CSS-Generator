@@ -1,0 +1,9 @@
+	display: inline;
+	float: left;
+	padding: 0 40px 50px;
+	width: 100%;
+	color: #464646;
+	font-family: "Open Sans",sans-serif;
+	font-size: 25px;
+	margin-bottom: 15px;
+	  padding: 0 25px 40px;

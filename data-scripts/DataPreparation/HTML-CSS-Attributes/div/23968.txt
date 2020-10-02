@@ -1,0 +1,4 @@
+	background-position: 0 0;
+	width: 640px;
+	margin-left: 300px;
+	padding-top: 9px;

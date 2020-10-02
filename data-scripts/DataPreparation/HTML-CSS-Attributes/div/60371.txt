@@ -1,0 +1,4 @@
+	margin-bottom: 20px;
+	font-size:35px;
+	color:#FF3366;
+	float:left;

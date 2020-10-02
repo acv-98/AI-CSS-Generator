@@ -1,0 +1,3 @@
+background:url("img/blue/more.png") no-repeat 100% 50%;
+*  H1 - H4                                                                                                         
+background:url("img/green/more.png") no-repeat 100% 50%;background:url("img/orange/more.png") no-repeat 100% 50%;background:url("img/pink/more.png") no-repeat 100% 50%;background:url("img/purple/more.png") no-repeat 100% 50%;background:url("img/red/more.png") no-repeat 100% 50%;padding-right:15px;

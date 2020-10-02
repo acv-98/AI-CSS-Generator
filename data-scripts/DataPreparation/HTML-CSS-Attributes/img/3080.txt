@@ -1,0 +1,7 @@
+ border:none; vertical-align:middle; margin-left:10px;  float: right;        
+.dropdown {
+    display: block;
+   	float:right;
+    position: relative;
+   	z-index: 9999;
+   	margin:0;

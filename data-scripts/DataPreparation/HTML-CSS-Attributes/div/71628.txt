@@ -1,0 +1,6 @@
+	float: left;
+	width: 270px;
+	padding-right: 30px;
+	padding-bottom: 0;
+	border-bottom: none;
+	font-weight: normal;

@@ -1,0 +1,11 @@
+	background:url(../images/bg/lightpaperfibers.png) repeat;
+	padding:20px 0 0 0;
+	text-align:center;
+	margin-bottom:0;
+	font-size:14px;
+	font-style:italic;
+	color: #543d1f;
+	text-transform:capitalize;
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;

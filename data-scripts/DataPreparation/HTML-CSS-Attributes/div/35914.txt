@@ -1,0 +1,8 @@
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+        color: #444444;
+        font-size: 1rem;
+    background: #fefefe;
+    text-align: center;
+    transition: all 0.3s;

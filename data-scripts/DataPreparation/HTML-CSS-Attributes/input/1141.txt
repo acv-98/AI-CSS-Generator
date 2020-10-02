@@ -1,0 +1,9 @@
+	font-size: 16px;
+	color: #fff;
+	background-color: #424242;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	padding: 8px;
+	float: right;
+	width: 150px;
+	font-weight: bold;

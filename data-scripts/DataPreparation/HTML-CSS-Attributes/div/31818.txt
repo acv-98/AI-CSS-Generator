@@ -1,0 +1,12 @@
+	position:absolute;
+	left:45px;
+	top:70px;
+	background:url(../images/logo.png) no-repeat 0 0;
+	padding:20px 0 0 20px;
+	font-size:38px;
+	line-height:1.2em;
+	color:#c3c3c3;
+	font-weight:normal;
+	font-style:italic;
+	letter-spacing:-1px;
+	text-decoration:none;

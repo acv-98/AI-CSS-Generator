@@ -1,0 +1,22 @@
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+  padding: 4px;
+  background-color: #fff;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+ border-color: #dfdcdc;  border-color: #cccccc;  max-width:100% !important;  max-width: 100%; margin-right: 0px;     background: none repeat scroll 0 0 #FFFFFF;
+    max-width: 100%;
+    padding: 4px;
+    display: block;
+    width: auto;
+    height: auto;
+    background-color: #ffffff;
+    opacity: .6;
+    -moz-transition: opacity 1s ease .1s;
+    -webkit-transition: opacity 1s ease .1s;
+    -o-transition: opacity 1s ease .1s;
+    transition: opacity 1s ease .1s;
+ border: 1px solid #bbd140; opacity: 1 .section-portfolio-classic .work-projects  {
+ padding: 3px;  padding: 3px; 

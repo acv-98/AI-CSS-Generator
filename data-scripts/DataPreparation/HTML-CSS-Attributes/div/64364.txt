@@ -1,0 +1,8 @@
+  margin-top: 30px;
+  color: #cccccc;
+  content: "______________________";
+  position: relative;
+  bottom: 6px;
+  right: 10px;
+  left: 10px;
+	color: #737C85;

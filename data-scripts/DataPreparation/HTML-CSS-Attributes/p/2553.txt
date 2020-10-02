@@ -1,0 +1,5 @@
+    font-size: 16px;
+    color: #08294c;
+    margin-bottom: 80px;
+      font-family: "Geometria-Medium";
+      color: #1780F8;

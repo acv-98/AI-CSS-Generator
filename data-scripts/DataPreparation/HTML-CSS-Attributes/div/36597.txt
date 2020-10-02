@@ -1,0 +1,8 @@
+ margin-top:100px; background:rgba(255, 255, 255, 0.7); padding:50px; text-align:center; color:#454545; font-size:50px; line-height:50px; font-family: 'ProximaNovaBold', Arial, Helvetica, sans-serif; margin:0px; padding:30px 0px; text-align:center;
+#countdown p {
+  display: inline-block;
+  padding: 20px;
+  background: #21a2b5;
+  margin: 0 0 20px;
+  font-size: 28px;
+  color:#fff;

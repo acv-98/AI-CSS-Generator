@@ -1,0 +1,15 @@
+	width:500px;
+	float:left;
+	clear:both;
+	padding:0 0 40px 20px;
+	margin:20px 0 0 0;
+	font-size:14px;
+	color:#de462a;
+	text-align:right;
+	text-transform:lowercase;
+	height:35px;
+	background-color:#E7E5DE;
+	border:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	cursor:pointer;

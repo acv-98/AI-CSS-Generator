@@ -1,0 +1,12 @@
+	margin:0;
+	padding:0;
+	float:left;
+	border-top:1px solid #e1e0e0;
+	width:970px;
+	list-style:none;
+	background:no-repeat right center;
+	border-right:1px solid #e1e0e0;
+	display:block;
+	color:#848383;
+	text-decoration:none;
+	font:normal 13px Arial, Helvetica, sans-serif;

@@ -1,0 +1,14 @@
+	float:left;
+	list-style:none;
+	background:url(../images/social-bg.png) no-repeat;
+	height:28px;
+	width:28px;
+	text-align:center;
+	margin-right:5px;
+	border:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#FFFFFF;
+	font-weight:bold;
+	border-radius:100%;
+		width: 45%;

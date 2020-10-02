@@ -1,0 +1,3 @@
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf02b;');
+*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf02b;');*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf02c;');  content: "\f02b";
+content:"\f02b";content:"\f02c";

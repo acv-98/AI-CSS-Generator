@@ -1,0 +1,10 @@
+    opacity: 1;
+    padding: 10px 20px;
+    width:100%;
+    transition: all 0.6s;
+    text-align: center;
+    display: block;
+    height: 80px;
+    margin-bottom: .0rem;
+    text-transform:none ;
+    color:#e74c3c;

@@ -1,0 +1,14 @@
+  color: #3498db;
+  display: inline;
+  float: left;
+  width: 100%;
+  text-align: left;
+  border: 1px solid #ccc;
+  background-color: #FFF;
+  padding: 5px 10px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+    text-align: center;

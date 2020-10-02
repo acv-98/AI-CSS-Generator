@@ -1,0 +1,9 @@
+	color: #FFF;
+	font-size: 0.85em;
+	line-height: 2.2em;
+	margin-bottom:6%;
+	text-transform:uppercase;
+	padding:0 1%;
+	font-weight: 700;
+	padding-bottom: 0.5em;
+	display: block;

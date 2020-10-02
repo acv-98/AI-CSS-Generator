@@ -1,0 +1,6 @@
+	color: #fff;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: 600;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;

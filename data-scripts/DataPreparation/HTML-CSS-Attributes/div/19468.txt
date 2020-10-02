@@ -1,0 +1,5 @@
+	margin:0 auto;
+	width:922px;
+	padding:24px 24px 12px;
+	border-top:1px solid #ebebeb;
+	background-color:#fff;

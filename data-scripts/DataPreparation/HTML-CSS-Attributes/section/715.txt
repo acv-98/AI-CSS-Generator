@@ -1,0 +1,6 @@
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding: 0 0 5px;
+    color: #232323;
+    font-size: 44px;
+    font-weight: 600;

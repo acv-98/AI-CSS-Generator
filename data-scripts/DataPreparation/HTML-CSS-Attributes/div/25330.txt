@@ -1,0 +1,6 @@
+		float: none !important;
+		width: auto !important;
+		margin: 0 0 40px 0 !important;
+    float: left;
+    margin-right: 3.7%;
+    width: 48.1%;

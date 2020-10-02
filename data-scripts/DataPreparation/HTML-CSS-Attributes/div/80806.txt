@@ -1,0 +1,7 @@
+	font-size: 0.89em;
+	color:#fff;
+	line-height: 1.8em;
+	padding-top: 0.8em;
+		padding: 1.4em 1.5em;
+		width: 57%;
+		display:none;

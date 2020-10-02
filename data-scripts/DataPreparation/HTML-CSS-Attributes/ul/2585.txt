@@ -1,0 +1,5 @@
+    margin: 0px 2px 10px 0px;
+    background: #282a2e;
+    color: #ffffff;
+    padding: 5px 10px;
+background:#fff;font-family:Lato,Belgrano,sans-serif;font-size:16px;-webkit-font-smoothing:subpixel-antialiased!important;-moz-font-smoothing:subpixel-antialiased!important;-ms-font-smoothing:subpixel-antialiased!important;-0-font-smoothing:subpixel-antialiased!important;text-rendering:optimizeLegibility!important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-overflow-scrolling:touch;-moz-overflow-scrolling:touch;-ms-overflow-scrolling:touch;-o-overflow-scrolling:touch;overflow-scrolling:touch

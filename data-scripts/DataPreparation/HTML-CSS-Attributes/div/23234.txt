@@ -1,0 +1,5 @@
+	width: 612px;
+	height: 132px;
+	float: right;
+	margin: 0 32px 0 0;
+	display: inline;

@@ -1,0 +1,11 @@
+	border-collapse:separate;
+	margin-top:20px;
+	vertical-align:top;
+	padding:5px;
+	height:26px;
+	width:298px;
+	line-height:26px;
+	margin-right:8px;
+	background-color:#785339;
+	color:#ffffff;
+	cursor:pointer;

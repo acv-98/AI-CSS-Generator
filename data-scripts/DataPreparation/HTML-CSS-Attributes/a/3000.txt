@@ -1,0 +1,6 @@
+	float:right;
+	background:url(../images/markers.jpg) 0 0 no-repeat;
+	width:39px;
+	height:39px;
+	margin-right:-3px;
+	background-position: 0 bottom

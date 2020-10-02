@@ -1,0 +1,1 @@
+background:url(images/box-bg.png) left top;padding:14px 39px 23px 39px

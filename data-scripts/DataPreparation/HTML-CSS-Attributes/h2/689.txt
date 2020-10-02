@@ -1,0 +1,6 @@
+    font-size: 20px;
+    color: #fff;
+    font-family: Roboto-Light;
+    font-weight: bold;
+    padding-top: 80px;
+    margin-bottom: 25px;

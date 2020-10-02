@@ -1,0 +1,5 @@
+		margin-left: 36px;
+		width: 249px;
+	 	font-size: 10px;
+	 	width: 132px;
+	 	margin-left: 0px;

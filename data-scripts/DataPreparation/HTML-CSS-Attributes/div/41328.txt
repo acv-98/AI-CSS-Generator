@@ -1,0 +1,8 @@
+	font-size:22px;
+	line-height:1.2em;
+	font-weight:300;
+	letter-spacing:-1px;
+	margin-bottom:12px
+	display:block;
+	color:#0dc2ce;
+	text-decoration:none

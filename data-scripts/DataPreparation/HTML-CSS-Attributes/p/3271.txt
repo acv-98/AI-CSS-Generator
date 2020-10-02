@@ -1,0 +1,5 @@
+     background: red;
+     color: #ffffff;
+     padding: 2px 10px;
+     font-weight: 700;
+     text-transform: uppercase;

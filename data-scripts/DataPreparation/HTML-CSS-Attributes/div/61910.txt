@@ -1,0 +1,8 @@
+	width:92px;
+	height:18px;
+	position:absolute;
+	bottom:9px;
+	right:6px;
+	z-index:3;
+	background:#d7d7d8;
+	margin:0 5px 0 0;

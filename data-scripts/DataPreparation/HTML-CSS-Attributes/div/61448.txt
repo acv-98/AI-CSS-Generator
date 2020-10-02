@@ -1,0 +1,9 @@
+    text-transform: uppercase;
+    color: #292828;
+    font-weight: bold;    
+    padding:10px 0 10px 0;
+    border-bottom: 1px solid #cac4c4;
+    border-top: 1px solid #fefefe;
+    list-style-image: url('../images/bulletArrow.png');
+    list-style-position: inside;
+    padding-top:0;

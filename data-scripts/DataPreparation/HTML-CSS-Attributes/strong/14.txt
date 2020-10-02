@@ -1,0 +1,5 @@
+	display:block;
+	font-size:38px;
+	line-height:1.3em;
+	color:#999;
+	letter-spacing:-1px;

@@ -1,0 +1,4 @@
+background: #e46e48;
+.btn.submit_btn:hover,.btn.submit_btn:focus,.get_it_btn:hover,.get_it_btn:focus,.work_us_btn:hover,.work_us_btn:focus {
+    background: #c96241 none repeat scroll 0 0;
+    color: #fff;

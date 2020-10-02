@@ -1,0 +1,7 @@
+	width:100%;
+	margin:0;
+	padding:20px 0;
+	text-align:center;
+	color:#fff;
+	font-weight:700;
+  background: #3498db;

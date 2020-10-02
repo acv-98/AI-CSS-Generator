@@ -1,0 +1,15 @@
+	width:1020px;
+	overflow:hidden;
+	padding-bottom:23px;
+	border-bottom:1px solid #c0c0c0;
+	margin-bottom:19px;
+	float:left;
+	margin-right:56px;
+	display:inline;
+	text-transform:uppercase;
+	font:bold 18px/18px Arial, Helvetica, sans-serif;
+	color:#090909;
+	background:url(../images/arrow.gif) no-repeat 0 7px;
+	padding-left:23px;
+	font-weight:bold;
+	line-height:14px;

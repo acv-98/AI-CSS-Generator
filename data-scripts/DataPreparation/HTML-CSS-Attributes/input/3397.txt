@@ -1,0 +1,7 @@
+	width:307px;
+	height:18px;
+	background:none;
+	padding:0 5px;
+	color:#6b6051;
+	font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:0

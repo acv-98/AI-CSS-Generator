@@ -1,0 +1,1 @@
+background-color:#3b3b3b; border-color:#3b3b3bbackground:none repeat scroll 0 0 #ffd62c; color:#333; outline:nonebackground-color:#ffd62c; color:#555background-color:#ffd62c; border-color:#ffd62cborder-color:#ffd62cborder-color:#ffd62c

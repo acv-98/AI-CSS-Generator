@@ -1,0 +1,1 @@
+background:#fff;background-position:-287px -343px;

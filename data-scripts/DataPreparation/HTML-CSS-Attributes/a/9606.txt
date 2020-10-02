@@ -1,0 +1,10 @@
+  background-color: #1B7B98;
+  height: 90px;
+  margin-bottom: 20px;
+  position: relative;
+  width: 297px;
+  top: -35px;
+  margin-top: 0;
+  padding: 0;
+    width: 215px;
+    height: 60px;

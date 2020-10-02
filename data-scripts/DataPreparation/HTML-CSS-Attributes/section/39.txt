@@ -1,0 +1,8 @@
+	background:#fff;
+	width:100%;
+	overflow:hidden;
+	padding-top:67px ;
+	padding-bottom:0 ;
+	position:relative;
+	color:#242424
+	font-weight:700;

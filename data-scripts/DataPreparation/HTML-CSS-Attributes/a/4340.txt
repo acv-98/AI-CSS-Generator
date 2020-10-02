@@ -1,0 +1,4 @@
+font-size: 11px;
+  -webkit-border-radius: 2px;
+     -moz-border-radius: 2px;
+          border-radius: 2px;

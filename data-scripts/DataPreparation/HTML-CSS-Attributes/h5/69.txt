@@ -1,0 +1,18 @@
+		font-weight:600;
+		margin-bottom:0;
+		color:#393939;
+		padding-bottom:2px;
+		position:relative;
+		width:100%;
+		border:1px solid #f4f3f3;
+		height:5px;
+		left:0;
+		background:url(../images/design/diag-hr.png) left top repeat-x transparent;
+		top:-11px;
+		margin-top:20px;
+font-size:18px;margin:0 0 16px 0;padding-bottom:14px;line-height:0;border:none;z-index:200;z-index:201;		font-size:22px;
+		font-style:italic;
+		font-family:"Open Sans";
+		text-align:center;
+		line-height:36px;
+		text-shadow: 1px 1px 1px #ffffff;

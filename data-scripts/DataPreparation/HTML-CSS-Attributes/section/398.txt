@@ -1,0 +1,5 @@
+	color: #3d3d3d;
+	font-size: 23px;
+	font-weight: 700;
+	margin-top:55px;
+	line-height: 33px;

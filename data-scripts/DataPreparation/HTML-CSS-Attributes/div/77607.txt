@@ -1,0 +1,6 @@
+	width:505px;
+	margin:0px;
+	padding:0px 27px 0px 24px;
+	background-image: url(../images/services_bg.jpg);
+	background-repeat: repeat-y;
+	background-position: 0px 0px;

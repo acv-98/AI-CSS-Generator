@@ -1,0 +1,5 @@
+ width: 224px; 	
+	.one-fourth-thumbs figure{ 
+		width: 160px;
+		margin-right: 24px;
+ width: 300px; 

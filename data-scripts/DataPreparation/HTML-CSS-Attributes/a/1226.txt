@@ -1,0 +1,10 @@
+	cursor:pointer;
+	text-decoration:none;
+	display:inline-block;
+	padding:9px 20px;
+	font-size:21px;
+	line-height:1.2em;
+	color:#fff;
+	background:#1c1b18;
+	text-align:right;
+	margin-left:6px;

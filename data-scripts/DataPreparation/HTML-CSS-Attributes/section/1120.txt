@@ -1,0 +1,8 @@
+  background-color: #199EB8;
+  padding: 25px 0;
+  margin-bottom: 5px;
+  color: #fff;
+  opacity: .75;
+  position: relative;
+  top: 13px;
+    padding: 35px 0;

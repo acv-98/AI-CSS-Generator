@@ -1,0 +1,7 @@
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#454545;
+	background:url(../images/arrow.jpg) 0 +2px no-repeat;
+	display:block;
+	padding:0 0 0 28px;
+	font-size:14px;
+	font-weight:bold;

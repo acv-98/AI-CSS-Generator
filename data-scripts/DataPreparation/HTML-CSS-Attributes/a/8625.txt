@@ -1,0 +1,4 @@
+	background-color:#128be9;
+	padding:8px 12px;
+	color:#fff;
+	text-decoration:none;

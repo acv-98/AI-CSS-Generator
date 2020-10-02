@@ -1,0 +1,8 @@
+	display:block;
+	float:right;
+	margin:0 0 16px;
+	padding:12px 0;
+	font-size:13px;
+	line-height:18px;
+	font-weight:bold;
+	text-decoration:none;

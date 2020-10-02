@@ -1,0 +1,17 @@
+	width:238px;
+	display:none;
+	margin:0 0 15px 0;
+	height:60px;
+	float:left;
+	border:1px solid #cccccc;
+	padding:5px;
+	-webkit-border-radius:2px;
+	-moz-border-radius:2px;
+	border-radius:2px;
+	text-decoration:none;
+	color:#666666;
+	font-size:11px;
+	line-height:23px;
+	background:url("../images/recent_post_comments.png") no-repeat left 85%;
+ width:158px;
+ display:none;

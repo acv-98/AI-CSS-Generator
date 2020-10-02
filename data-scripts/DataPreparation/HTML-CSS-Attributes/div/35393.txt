@@ -1,0 +1,5 @@
+ margin-left: 2.12766%; float: left; min-height: 1px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; 
+ margin-left: 0px;  float: right;  width: 6.38298%;  width: 14.89362%;  width: 23.40426%;  width: 31.91489%;  width: 40.42553%;  width: 48.93617%;  width: 57.44681%;  width: 65.95745%;  width: 74.46809%;  width: 82.97872%;  width: 91.48936%;  width: 100%;  width: 4.25532%;  width: 10.6383%;  width: 17.02128%;  width: 23.40426%;  width: 29.78723%;  width: 36.17021%;  width: 42.55319%;  width: 48.93617%;  width: 55.31915%;  width: 61.70213%;  width: 68.08511%;  width: 74.46809%;  width: 80.85106%;  width: 87.23404%;  width: 93.61702%;  width: 100%;  padding: 0;  width: auto !important; float: none; margin-left: 0; margin-right: 0;  margin-right: 0; float: none;     position: relative;
+    width: 100%;
+    height: auto;
+    opacity: 1;

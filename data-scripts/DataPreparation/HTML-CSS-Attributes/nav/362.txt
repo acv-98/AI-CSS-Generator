@@ -1,0 +1,6 @@
+ display: none; 
+.tm-main-nav-ul {
+	display: inline-block;
+	padding-left: 0;
+		display: flex;
+		justify-content: center;

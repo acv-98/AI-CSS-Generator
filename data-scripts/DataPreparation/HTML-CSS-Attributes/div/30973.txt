@@ -1,0 +1,20 @@
+  width: 620px;
+  *width: 65.90425531914893%;
+  float: none;
+  margin-left: 0;
+    width: 476px;
+    *width: 65.69266486422946%;
+width:620px;width:65.95744680851064%;*width:65.90425531914893%;float:none;width:604px;margin-left:0;width:606px;.visible-print *
+ * Template Name: Produkta
+ * Template URI: http://azmind.com
+ * Description: Produkta - Responsive Product Showcase
+ * Author: Anli Zaimi
+ * Author URI: http://azmind.com
+body {
+    background: #f8f8f8 url(../img/pattern.jpg);
+    border-top: 4px solid #518d8a;
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #555;
+    text-align: left;

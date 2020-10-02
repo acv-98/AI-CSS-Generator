@@ -1,0 +1,13 @@
+    position: relative;
+    width: 100%;
+    float: left;
+    margin: 0 0 10px;
+	position: relative;
+	width: calc(33.3% - 10px);
+	float: left;
+	margin: 0 5px 10px;
+	text-decoration: none;
+	outline: 0 none;
+	opacity: 1;
+	transition: all 0.3s ease-in-out;
+	top: 0;

@@ -1,0 +1,3 @@
+.main_content_area{border-left: 2px solid #ddd;
+border-right: 2px solid #ddd;
+border-bottom:2px solid #ddd;

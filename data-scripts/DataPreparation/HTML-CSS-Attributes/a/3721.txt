@@ -1,0 +1,13 @@
+	float:right;
+	height:17px;
+	line-height:17px;
+	padding:0 4px;
+	background:#db1616;
+	color:#fff;
+	text-shadow:#3b0606 0 1px 0;
+	text-decoration:none;
+	font-size:10px;
+	background-color:#2f83b7 !important;
+	margin:2px 2px 0 0;
+	padding-left:3px;
+	margin-top:5px;

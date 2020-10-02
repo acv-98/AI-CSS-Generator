@@ -1,0 +1,1 @@
+ position:absolute; bottom:0; height:26px; width:771px; background:url(images/slide-shadow.png); left:-6px;

@@ -1,0 +1,1 @@
+ position: absolute; left: 50%; top: 50%;  width: 208px; height: 67px; background: url(../img/bicycles-sml-logo.png); position: absolute; left: 50%; top: 50%; margin-left: -110px; margin-top: -10px; 

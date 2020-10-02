@@ -1,0 +1,4 @@
+	text-align: center;
+	color: #E8E8E8;
+	margin: 40px 0;
+	font-size: 37px;

@@ -1,0 +1,9 @@
+    color: #333333;
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 700;
+    margin-top: 24px;
+    letter-spacing: 0.5px;
+       font-size: 22px;
+       line-height: 32px;
+       font-weight: 600;

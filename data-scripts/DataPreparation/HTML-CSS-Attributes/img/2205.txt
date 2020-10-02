@@ -1,0 +1,6 @@
+ border: none; border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; margin: 0 15px 0 0; vertical-align: middle;     border: none;
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    margin: 0 15px 0 0;
+    vertical-align: middle;

@@ -1,0 +1,1 @@
+background:url(images/border-left.gif) repeat-y left topbackground:url(images/border-left.gif) repeat-y left top

@@ -1,0 +1,16 @@
+    background: #EFEFEF;
+    display: block;
+    height:25px;
+    margin-bottom:10px;
+    position: relative;
+    transition-delay: 0s;
+    transition-duration: .4s;
+    transition-property: width, background-color;
+    transition-timing-function: linear;
+    width: 100%;
+    background-color: #292929;
+    color: #323232;
+    font-size: 14px;
+    left:5px;
+    top: -5px;
+    font-family: 'pt_sansitalic';

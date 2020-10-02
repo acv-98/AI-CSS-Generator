@@ -1,0 +1,2 @@
+box-shadow:none;
+background:#ca482a; opacity:0.9; border:none;

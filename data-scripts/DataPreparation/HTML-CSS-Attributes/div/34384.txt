@@ -1,0 +1,16 @@
+  margin-top: -3px;
+  bottom: 0;
+  left: 50%;
+  margin-left: -5px;
+  border-top-color: #000000;
+  border-width: 5px 5px 0;
+  border-bottom-width: 0;
+	float:right;
+  top: 0;
+  -webkit-border-radius: 0;
+     -moz-border-radius: 0;
+          border-radius: 0;
+  background:#fff;
+	margin-left:1px;
+  padding: 0 0;
+  line-height: 1.6em;

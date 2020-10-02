@@ -1,0 +1,4 @@
+height:40px; line-height:38px;padding:0 20px; height:40px; font-weight:bold;	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius:10px;
+font-size:1.1em !important;

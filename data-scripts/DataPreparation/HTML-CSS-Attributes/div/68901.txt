@@ -1,0 +1,2 @@
+    border-right: 15px solid #666666;
+    border-bottom: 15px solid #666666;

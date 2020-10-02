@@ -1,0 +1,5 @@
+  margin-top: 12px;
+  min-height: 30px;
+  color: #949494;
+  float: left;
+  margin-right: 0;

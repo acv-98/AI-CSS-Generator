@@ -1,0 +1,2 @@
+    min-width: 170px;
+    line-height: 26px;

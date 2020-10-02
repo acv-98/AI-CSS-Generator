@@ -1,0 +1,5 @@
+ margin-bottom: 0; 
+@media screen and (max-width: 991px) {
+	.tm-3-col-textbox {
+		width: 50%;
+		margin-bottom: 30px;

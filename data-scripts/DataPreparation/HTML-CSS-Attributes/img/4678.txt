@@ -1,0 +1,6 @@
+	float: left;
+	margin-right: 18px;
+	margin-top: 1px;
+	margin-bottom: 0px;
+	padding-bottom: 2px;
+	padding-top: 1px;

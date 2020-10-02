@@ -1,0 +1,13 @@
+	height:250px;
+	position:relative;
+	padding:21px 0 30px 0;
+	width:97px;
+	right:10px;
+	bottom:10px;
+	z-index:100;
+	list-style:none;
+	display:inline;
+	float:left;
+	background:url(images/dot.gif) no-repeat 0 0;
+	text-decoration:none;
+	background-position:0 -19px;

@@ -1,0 +1,1 @@
+background:none;background:url('images/shadow.png') center 10px no-repeat;

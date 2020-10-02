@@ -1,0 +1,12 @@
+	padding: 0.285em 1em;
+	color: white;
+	font-size: 3em;
+	margin: 0;
+    text-transform: uppercase;
+    padding: 0.56em 1.3em;
+    border: 1px solid white;
+	padding: 0.4em 1em;		.navbar-container { 
+		font-size: 0.82em;
+		padding: 1.4em 1.8em; 
+ padding: 0.285em 1em;			display: block;
+		float: left;

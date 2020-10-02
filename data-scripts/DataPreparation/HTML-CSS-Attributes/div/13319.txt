@@ -1,0 +1,4 @@
+  margin-bottom: 3em;
+  font-weight: 400;
+  font-size: 34px;
+  color: #fff;

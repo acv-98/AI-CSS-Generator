@@ -1,0 +1,2 @@
+width:720px; float:left;font-size:24px; color:#49494b;font-size:16px; color:#999;
+width:560px; float:left; margin-bottom:20px;

@@ -1,0 +1,11 @@
+	display: inline;
+	float: left;
+	text-align: center;
+	width: 100%;
+	color: #fff;
+	font-size: 40px;
+	border-bottom: 3px solid #fff;
+	padding: 15px 15px;
+	margin-bottom: 0px;
+		margin-top: 15px;
+		margin-bottom: 15px;

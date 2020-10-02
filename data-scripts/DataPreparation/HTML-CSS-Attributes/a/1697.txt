@@ -1,0 +1,1 @@
+ background: url(../img/social-icons/circular/skype_32.png);  background: url(../img/social-icons/rounded/skype_32.png); 

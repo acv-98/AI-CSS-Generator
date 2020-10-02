@@ -1,0 +1,9 @@
+	margin: 20px 0 0 0;
+	padding: 0;	
+	display: block;
+	width: 100%;
+	clear: both;
+	height: 170px;
+	text-align: center;
+	margin-top: 40px;
+	max-width: 170px;

@@ -1,0 +1,13 @@
+.flex-caption {
+	font: 600 36px/36px 'Open Sans', sans-serif;
+    color: #fff;
+    display: block;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    padding: 42px 0 24px;
+    text-transform: uppercase;
+    background-color: #92ce0a;
+	background-color: #0052da;
+font:26px 'Rokkitt', Georgia, "Times New Roman", Times, serif;font-weight:bold;margin:0 0 5px;		position:static;
+		width: 100%;

@@ -1,0 +1,1 @@
+border-top: 1px #d0d0cf solid; text-align: center; margin: 40px 0 0 0;

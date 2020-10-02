@@ -1,0 +1,2 @@
+	color: #688dad;
+	border-bottom: 1px dotted #688dad;

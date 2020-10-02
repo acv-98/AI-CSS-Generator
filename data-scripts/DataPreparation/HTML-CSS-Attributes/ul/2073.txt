@@ -1,0 +1,8 @@
+  display: table;
+  content: " ";
+  clear: both;
+    margin-right: -15px;
+    margin-left: -15px;
+		left: 0 !important;
+		margin: 0;
+		width: 100% !important;

@@ -1,0 +1,9 @@
+	top: -150px;
+	transition: all 0.5s;
+	color: #333;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+		margin-top: 5px;
+		font-size: 15px;
+		padding: 10px 6px;
+		background-color: #fff;

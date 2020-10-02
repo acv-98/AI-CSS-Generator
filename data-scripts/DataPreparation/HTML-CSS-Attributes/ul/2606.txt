@@ -1,0 +1,24 @@
+  display: inline-block;
+  margin: 0px;
+  margin-right: 60px!important;
+  float: right;
+  margin-left: 
+  color: #7a7a7a;
+  font-size: 14px;
+  font-weight: 300;
+  text-transform: uppercase;
+  text-shadow: none;
+  line-height: 80px;
+  padding: 0px 20px;
+  letter-spacing: 0.5px;
+  transition: all 0.5s;
+  outline: none;
+  background-color: #f2745f;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    text-align: center;
+    float: none;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    line-height: 50px;

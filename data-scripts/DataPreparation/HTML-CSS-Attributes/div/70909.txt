@@ -1,0 +1,1 @@
+ display: inline; clear:left; float:left; width:1000px; background: url(../images/ft_1px.gif) repeat-x; height:137px;

@@ -1,0 +1,2 @@
+float:left;
+padding:10px 36px 0px 40px;

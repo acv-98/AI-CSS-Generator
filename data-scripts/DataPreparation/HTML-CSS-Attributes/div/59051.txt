@@ -1,0 +1,1 @@
+font-size:20px; font-weight:bold; text-align:center; margin-bottom:25px; border-bottom:2px dotted #ddd; padding-bottom:20pxcolor:#FFA439border-bottom:2px dotted #DDD; margin-left:-10px

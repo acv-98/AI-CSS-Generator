@@ -1,0 +1,2 @@
+	background: url(../img/icons/social2/zootool.png) no-repeat 0 0;
+	background-color: #262626;

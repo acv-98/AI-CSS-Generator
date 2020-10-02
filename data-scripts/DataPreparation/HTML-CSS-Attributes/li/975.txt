@@ -1,0 +1,1 @@
+background:url(images/stumbleupon.gif) no-repeat

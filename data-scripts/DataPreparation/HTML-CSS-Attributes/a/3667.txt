@@ -1,0 +1,12 @@
+  margin-top: 15px;
+  display: inline-block;
+  border: 1px solid #ffffff;
+  font-size: 30px;
+  line-height: 30px;
+  padding: 9px 100px 16px;
+  text-decoration: none;
+  background-color: #fff;
+  color: #323045;
+    font-size: 16px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;

@@ -1,0 +1,5 @@
+	padding:0 0 5px 0;
+	margin: 0;
+	margin-bottom: 15px;
+	width: 700px;
+	clear: both;

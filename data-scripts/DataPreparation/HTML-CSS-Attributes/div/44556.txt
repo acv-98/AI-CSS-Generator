@@ -1,0 +1,2 @@
+.single_service{
+    margin-bottom:30px;

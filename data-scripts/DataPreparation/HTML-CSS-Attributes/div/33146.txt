@@ -1,0 +1,31 @@
+display: none !important;padding: 6px 8px !important;display: none !important;padding: 6px 8px !important;padding: 6px 8px !important;    -webkit-transform: translate3d(0, 0, 0);
+    clear: both;
+    float: none;
+    margin: 0 0 10px;
+    margin-bottom: 2px;
+    display: none;
+    color: #777777;
+    text-shadow: none;
+    padding: 9px 15px;
+    font-weight: bold;
+    -webkit-border-radius: 3px;
+       -moz-border-radius: 3px;
+            border-radius: 3px;
+background: #bcbcbc !important; color: #2d6e84 !important;  .nav-collapse .nav > li > a:hover,
+  .nav-collapse .dropdown-menu a:hover,
+    background-color: #f9b701 !important;
+    margin-top: 5px;
+    position: static;
+    top: auto;
+    left: auto;
+    max-width: none;
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+            box-shadow: none;
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
+    border-top-color: #111111;
+    border-bottom-color: #111111;
+    margin-left: 0;
+    height: 0;
+    overflow: hidden;

@@ -1,0 +1,20 @@
+    display: block;
+    margin-bottom: 30px;
+.case-top .btn-primary {
+    border-radius: 2px !important;
+    font-weight: 400;
+    margin-top: 6px;
+    background-clip: padding-box;
+    background-color: #fff;
+    box-shadow: none;
+    float: left;
+    font-size: 14px;
+    left: 0;
+    list-style: outside none none;
+    min-width: 184px;
+    padding: 5px 0;
+    position: absolute;
+    text-align: left;
+    top: 100%;
+    width: 100%;
+    z-index: 1000;

@@ -1,0 +1,9 @@
+	margin:0 auto;
+	padding:0;
+	width:920px;
+	background:url(images/header_bg.jpg) top center repeat-x;
+	float:right;
+	border:1px solid #df650e;
+	font:normal 12px Arial, Helvetica, sans-serif;
+	color:#fff;
+	line-height:1.8em;

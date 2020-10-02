@@ -1,0 +1,4 @@
+	background:url(../images/block-3.png) center 0 no-repeat;
+	margin-top:43px;
+	overflow:hidden;
+	padding-top:17px;

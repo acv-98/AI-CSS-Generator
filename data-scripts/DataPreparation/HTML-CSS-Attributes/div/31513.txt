@@ -1,0 +1,4 @@
+	-webkit-transition: all .8s;
+	-o-transition: all .8s;
+	transition: all .8s;
+	will-change: transform

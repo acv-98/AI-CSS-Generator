@@ -1,0 +1,6 @@
+	height: 100%;
+	background: #FFFFFF;
+	padding: 150px 0 0 0;
+	margin: 0 auto;
+	background-size: cover;
+		padding: 50px 0 0 0;

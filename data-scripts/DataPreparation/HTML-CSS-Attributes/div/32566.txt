@@ -1,0 +1,25 @@
+	color: #8dc63f;
+		margin-bottom:20px;
+	background:#202020;
+	background-image:-moz-radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0.57) 0%,rgba(0, 0, 0, 0.87) 100%), url(..images/footer_background.jpg);
+	background-color:#111;background-position:center;background-repeat:no-repeat;background-size:cover
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	font-size:24px;
+    font-family: 'nautilus_pompiliusregular';
+	font-family: 'Roboto', sans-serif;
+	line-height: 25px;
+	padding-left:5px;
+    position: relative;
+    top: 4px;
+    float: left;
+    min-width: 20px;
+    text-align: center;
+	display: table;
+    padding-left: 12px;
+	padding-top:1px;
+	list-style:none;
+    width: 100%;
+	padding-bottom:12px;

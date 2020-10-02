@@ -1,0 +1,6 @@
+	background:#f0f0f0 url(../images/bg-block.gif);
+	margin:0 0 1px;
+background:url(../images/bg-block-t.gif) repeat-x;.block .frame {
+	overflow:hidden;
+	width:986px;
+	padding:38px 0 0;

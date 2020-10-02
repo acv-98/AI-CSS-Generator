@@ -1,0 +1,10 @@
+        right: -30%;
+		right: 0px;
+		bottom: 0px;
+		width: 50%;
+		max-width: 100%;
+		position: relative;
+    width: 1080px;
+    position: absolute;
+    bottom: -16%;
+    z-index: 0;

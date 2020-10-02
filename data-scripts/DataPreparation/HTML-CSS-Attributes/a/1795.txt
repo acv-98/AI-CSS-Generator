@@ -1,0 +1,4 @@
+    color: #fff;
+    background: #39b49b;
+    box-shadow: 5px 5px 0 0px #fff;
+    border-color: transparent;

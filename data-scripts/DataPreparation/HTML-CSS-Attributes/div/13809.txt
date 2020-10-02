@@ -1,0 +1,12 @@
+    width: 100%;
+    background: linear-gradient(to right, #1d86df 0%, #39b49a 100%);
+    padding: 75px 0;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+	float:left;
+	width:100%;
+    float: left;
+    margin: 0;
+    position: relative;
+    margin-right: 25px;

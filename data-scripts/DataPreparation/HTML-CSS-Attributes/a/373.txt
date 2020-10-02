@@ -1,0 +1,12 @@
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	color: #444;
+	background-color: transparent;
+	border: 2px solid #444;
+	padding: 14px 20px;
+	margin: 0;
+	font-size: 14px;
+	border-radius: 0;
+	margin-top: 20px;
+	margin-right: 30px;
+	transition: all 0.5s;

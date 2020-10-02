@@ -1,0 +1,1 @@
+width:6px; background:url(../images/bullet_m.gif) 0 6px no-repeat

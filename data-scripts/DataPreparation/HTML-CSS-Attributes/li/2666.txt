@@ -1,0 +1,9 @@
+  padding: 0;
+  margin-left: .1875rem;
+  margin-right: .3125rem;
+  opacity: 0;
+  -webkit-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+    opacity: 1;
+    -webkit-transition: all 0.4s 0.4s ease-out;
+    transition: all 0.4s 0.4s ease-out;

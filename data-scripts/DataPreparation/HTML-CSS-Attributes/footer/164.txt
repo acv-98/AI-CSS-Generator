@@ -1,0 +1,6 @@
+    background-color: #111;
+    width: 100%;
+    background-position: center top;
+    background-size: 100% auto;
+    padding: 20px 0;
+    margin: 0;

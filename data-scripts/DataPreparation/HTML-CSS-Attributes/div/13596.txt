@@ -1,0 +1,5 @@
+    background: none repeat scroll 0 0 #DDDDDD;
+    clear: both;
+    height: 1px;
+    margin: 1.2em 0;
+    width: 100%;

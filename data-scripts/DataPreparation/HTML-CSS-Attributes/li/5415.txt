@@ -1,0 +1,2 @@
+	background:rgb(255,255,255);
+#main-menu ul.horizontal-navigation > li.active a {

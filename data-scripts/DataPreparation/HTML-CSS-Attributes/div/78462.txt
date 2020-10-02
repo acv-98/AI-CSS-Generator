@@ -1,0 +1,10 @@
+display:block !important;text-align:center;margin:0 auto;clear:both;padding:2px 20px 10px;width:400px;max-width:500px;height:auto;position:absolute;bottom:0;float:left;left:0;padding-right:0;float:right;right:0;padding-left:0;font-weight:normal;color:#595858;line-height:1.3em;margin-top:0;font-size:2.14em;letter-spacing:0;color:#181818;padding-bottom:0;z-index:1;overflow: hidden;position: relative;width: 100%;min-height:
+ background: url('../images/bg-video.png') center; height: 263px; width:447px; margin: 5px 0 0 20px; padding-left:33px !important; padding-right:33px !important; margin:0 auto; float: none; display: block; margin: 0 0 0 23px; background: #000  margin: 0 0 0 0px;  margin: 0 0 0 0px;  margin: 0 0 0 0px; .ei-slider{
+	position: relative;
+	width: 100%;
+	max-width: 1920px;
+	height: 400px;
+	margin: 0 auto;
+	background: #fdfdfd url('../images/bg/elastic-slider-bg.png') repeat-x top left;
+ background:url('../images/slider-caption-bg.png'); position:absolute;  color:#fff;  margin:0 0 0.7em; font-weight: normal;  font-size: 12px; display:none;   
+ overflow:hidden; list-style:none !important;max-width: 100%; display: block;content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;height: 1%;display: block;

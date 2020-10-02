@@ -1,0 +1,11 @@
+  position: absolute;
+  bottom: 6px;
+  left: 10px;
+  right: 10px;
+  display: block;
+  font-size: 14px;
+  line-height: 20px;
+  color: #494b52;
+    font-size: 10px;
+  top: 2px;
+  text-align: center;

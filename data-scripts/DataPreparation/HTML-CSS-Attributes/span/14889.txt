@@ -1,0 +1,4 @@
+  display: block;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 18px;
+  font-weight: 400;

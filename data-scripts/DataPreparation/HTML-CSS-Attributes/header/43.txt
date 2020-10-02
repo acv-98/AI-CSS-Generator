@@ -1,0 +1,2 @@
+width:960px; margin:0 auto; clear:both;
+width:800px;width:600px;width:480px;width:320px;width:300px;

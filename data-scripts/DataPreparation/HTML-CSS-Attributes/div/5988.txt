@@ -1,0 +1,5 @@
+ padding: 35px 30px 5px; 
+ * Effect 2
+.effect2
+{
+  position: relative;

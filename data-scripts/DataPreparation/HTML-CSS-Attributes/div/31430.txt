@@ -1,0 +1,10 @@
+	background-color:#fff;
+	padding-bottom:30px;
+	position:relative;
+	text-align:center;
+	color:#666;
+	border-top:1px solid #EFEFEF;
+	line-height:35px;
+	margin-left:30px;
+	margin-right:30px;
+	list-style:none;

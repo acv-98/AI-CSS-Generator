@@ -1,0 +1,9 @@
+	margin:0 6px 6px 0 !important;
+	padding:0 !important;
+	float:left;	
+	border:0 !important;
+	display:block;
+	width:63px !important;
+	height:63px !important;
+	overflow:hidden;
+	border-radius:3px;

@@ -1,0 +1,4 @@
+	width:494px;
+	float:left;
+	background:url(images/footer-border-v.gif) right top repeat-y;
+	padding-right:100px;

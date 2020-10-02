@@ -1,0 +1,16 @@
+	width: 200px;
+	height: 200px;
+	background: #fff;
+	text-align: center;
+	line-height: 200px;
+	border: 3px solid #ddd;
+	vertical-align: middle;
+	border-radius: 100%;
+	margin: 0 auto 20px;
+	content: "";
+	position: absolute;
+	border-bottom: 2px dashed #ddd;
+	top: 30%;
+	left: 100%;
+	transform: translateX(-50%);
+	border-color: #1abac8;

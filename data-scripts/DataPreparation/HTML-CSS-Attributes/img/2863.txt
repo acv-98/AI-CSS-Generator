@@ -1,0 +1,10 @@
+float:left;
+width:256px;
+height:185px;
+background:url(../images/ask_bg.jpg) no-repeat;
+position:relative;
+margin-top:-66px;
+margin-left:16px;
+display:inline;
+color:#5D5D5D;
+font:11px/15px arial;

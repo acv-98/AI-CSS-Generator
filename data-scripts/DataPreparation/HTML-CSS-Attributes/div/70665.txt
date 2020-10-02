@@ -1,0 +1,5 @@
+	margin:0;
+	padding:0;
+	height:372px;
+	background:url(images/header_bg.jpg) no-repeat center 88px;
+	width:970px;

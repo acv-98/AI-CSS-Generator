@@ -1,0 +1,11 @@
+  background-color: #fff;
+  border-color: transparent;
+  padding:10px 0;
+	font-family: 'Montserrat', sans-serif;
+	font-size:14px;
+	text-transform:uppercase;
+	font-weight:400;
+	color:#414141 !important;
+	background:#000;
+	transition:0.4s;
+	padding:15px 0;

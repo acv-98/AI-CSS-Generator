@@ -1,0 +1,5 @@
+	height:100%;
+	_height:1590px;
+	position:absolute;
+	width:35%;
+	z-index:-1;

@@ -1,0 +1,13 @@
+	margin:0 0 11px;
+	padding:37px 0 0;
+	list-style:none;
+	background:url(../images/bg-reviews.png) no-repeat 50% 0;
+	display:inline-block;
+	width:454px;
+	vertical-align:top;
+margin:0;.review-box {
+	padding-top:18px;
+	overflow:hidden;
+	font-style:normal;
+	float:left;
+display:block;.reviews .user-details {

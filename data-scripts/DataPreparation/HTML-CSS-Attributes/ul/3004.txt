@@ -1,0 +1,9 @@
+	overflow:hidden;
+	float:left;
+	line-height:24px;
+	background:url(../images/menu-li.jpg) 0 0 no-repeat;
+	margin:10px 0 11px 0;
+	padding: 13px 47px 12px 47px;
+	font-size:18px;
+	color:#0f0c0c;
+	display:inline-block;

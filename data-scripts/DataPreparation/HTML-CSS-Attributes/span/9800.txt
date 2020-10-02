@@ -1,0 +1,6 @@
+	color:#fff!important;
+	font-size: 100px;
+	font-weight:600;
+	letter-spacing:-1px;
+	vertical-align:middle;
+	padding-left:5px;

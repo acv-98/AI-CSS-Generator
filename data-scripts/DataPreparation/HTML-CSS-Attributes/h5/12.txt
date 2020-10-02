@@ -1,0 +1,8 @@
+  color: #bcbcbc;
+  margin-bottom: 0;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 0.875rem;
+  font-family: "Lora";
+  margin-top: -1rem;
+  line-height: 1.7857;

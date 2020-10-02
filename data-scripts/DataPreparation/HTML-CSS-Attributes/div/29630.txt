@@ -1,0 +1,17 @@
+	_width:610px;
+	font-family:arial;
+	color:#FFFFFF;
+	font-size:20px;
+	font-weight:bold;
+	margin:0;
+	padding:20px 0 0;
+	line-height:20px;
+	text-decoration:none;
+	text-align:justify;
+	list-style:none;
+	overflow:hidden;
+	display:inline;
+	border:0;
+	width:auto;
+	filter:alpha(opacity=80);
+	opacity:0.8;

@@ -1,0 +1,7 @@
+    background: #e74c3c;
+    width:60px;
+    height: 60px;
+    line-height: 60px;
+    color:#fff;
+    transform: rotate(45deg);
+    margin: 30px auto;

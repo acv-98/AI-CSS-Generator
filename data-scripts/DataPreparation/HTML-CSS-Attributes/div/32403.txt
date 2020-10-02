@@ -1,0 +1,13 @@
+margin:0!important;width:auto!important;[class^="grid-"],
+.grids [class^="grid-"]{
+	width:auto!important;
+	float:none!important;
+	margin:0!important;
+	max-width:1120px;
+	clear:both;
+	zoom:1;
+	content:"";
+	display:table;
+ margin:0;
+ width:auto;
+ float:none;

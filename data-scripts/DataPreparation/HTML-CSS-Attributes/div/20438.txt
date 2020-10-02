@@ -1,0 +1,4 @@
+    font-size: 2.5rem;
+    color:#fff;
+    font-family: 'sanchezregular';
+    margin-bottom:40px;

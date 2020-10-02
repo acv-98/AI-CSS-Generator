@@ -1,0 +1,4 @@
+  width: 40px;
+  height: 40px;
+  background-color: #ffa400;
+  -webkit-animation: sk-rotatePlane 1.2s infinite ease-in-out;

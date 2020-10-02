@@ -1,0 +1,2 @@
+    background:url(../images/icon_offers.jpg) 0 0 no-repeat;
+    padding:17px 0 11px 65px;

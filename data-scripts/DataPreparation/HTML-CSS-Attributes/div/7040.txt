@@ -1,0 +1,5 @@
+	width:100%;
+	background:url(../images/bg-2.jpg);
+	height:180px;
+	overflow:hidden;
+	margin:0 auto;

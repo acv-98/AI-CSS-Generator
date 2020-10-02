@@ -1,0 +1,17 @@
+display: block !important; margin: 0 10px !important;display: block !important; margin: 0 10px !important;top:14px !important;top:10px !important;  
+    menu-style ends here
+display: none;display: none; width: 100%;background: #1b1b1b;font-weight: 600;padding: 10px;height: 42px; color: #fff; border-radius: 5px; cursor: pointer; outline: 0; border:none !important;position:relative; width: 100%;    .mini-menu label:after {
+    content:'<>';
+    font:11px "Consolas", monospace;
+    color:#fff;
+    -webkit-transform:rotate(90deg);
+    -moz-transform:rotate(90deg);
+    -ms-transform:rotate(90deg);
+    transform:rotate(90deg);
+    right:14px; top:86px;
+    padding:0 0 2px;
+    position:absolute;
+    pointer-events:none;
+    width: 25px; height: 25px;
+    background:#1b1b1b;
+    display:block;

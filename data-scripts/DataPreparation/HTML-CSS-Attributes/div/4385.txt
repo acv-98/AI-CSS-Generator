@@ -1,0 +1,18 @@
+    width: 100%;
+    background: #664a3f;
+    color: #fff;
+    padding: 15px 0 10px 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    transition: all 0.3s ease 0s;
+    padding-bottom: 40px;
+    content: "";
+    height: 60px;
+    top: -18px;
+    transform: rotate(15deg);
+    right: -3%;
+        height: 50px;
+        top: -24px;
+        transform: rotate(8deg);

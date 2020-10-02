@@ -1,0 +1,9 @@
+	position:absolute;
+	right:74px;
+	bottom:0;
+	width:24px;
+	height:18px;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	background:#fff url(images/socials-facebook.gif) top no-repeat;

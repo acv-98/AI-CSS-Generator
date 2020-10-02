@@ -1,0 +1,10 @@
+	text-transform:uppercase;
+	text-align:center;
+	max-width:840px;
+	margin:0px auto;
+	margin-bottom:80px;
+	padding-left:20px;
+	padding-right:20px;
+					margin-left:0;
+					margin-right:0;
+					margin-bottom:40px;

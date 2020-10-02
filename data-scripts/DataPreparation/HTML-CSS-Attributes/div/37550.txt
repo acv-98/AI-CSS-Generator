@@ -1,0 +1,9 @@
+    border-bottom-width: 1px;
+    position: relative;
+    top: 1px;
+    border-color: #ffe388;
+    background-color: #ffe388;
+    background-image: url(../images/comment_icon.png);
+    line-height: 24px;
+    font-style: italic;
+    padding: 50px 12px 9px 34px;

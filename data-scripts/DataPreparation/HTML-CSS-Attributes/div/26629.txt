@@ -1,0 +1,6 @@
+	font-size:14px;
+	color:#6f6f6f;
+	line-height:18px;
+	display:block;
+	text-decoration:underline;
+	overflow:hidden;

@@ -1,0 +1,19 @@
+ display:none;     margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    background: url("../images/lines.png") repeat scroll left top transparent;
+    bottom: 10%;
+    color: #000000;
+    font-size: 36px;
+    padding: 20px 30px;
+    right: 0;
+    text-shadow: 1px 0 1px #FFFFFF;
+    text-transform: uppercase;
+    height:100%;
+    width:100%;
+    float: left;
+    margin-right:2.5641025641025641025641025641026%;
+    left: 0;
+    top: 0;
+ display: block .rm_mask_right, .rm_mask_left {
+    -moz-transform: rotate(-3deg);

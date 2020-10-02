@@ -1,0 +1,15 @@
+.screen03_content p,
+.screen02_content p,
+.screen01_content p{
+    font-size:1.500rem;
+    line-height: 2.125rem;
+    border: 1px dashed #ddd;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    box-shadow: 0px 0px 10px 0px #ededf2;
+    margin-right: -15px;
+    background-color: #fff;
+    position: relative;
+    color:#ededf2;
+    z-index: 2; 

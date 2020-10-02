@@ -1,0 +1,2 @@
+	color:#008cc4;
+	font-weight:bold;

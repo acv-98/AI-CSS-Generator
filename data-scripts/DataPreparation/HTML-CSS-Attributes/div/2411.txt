@@ -1,0 +1,2 @@
+	background:url(../images/menu-bg.png) repeat-x;
+	margin: 0;

@@ -1,0 +1,2 @@
+background:#f6f6f6; border:1px solid #e7e8ea; padding:15px 20px; border-radius:10px; margin:20px 0;position:relative; left:-25px;margin:0; font-weight:bold; font-style:italic; font-family:"Droid Serif",Arial; font-size:1.2em; padding:5px 0;
+*  FOOTER                                                                                                          

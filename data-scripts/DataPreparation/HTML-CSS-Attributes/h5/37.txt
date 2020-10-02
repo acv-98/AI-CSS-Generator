@@ -1,0 +1,10 @@
+	padding: 0 0 0 20px;
+	margin: 0 0 5px 0;
+	height: 46px;
+	line-height: 46px;
+	width: 100%;
+	float: left;
+	border-bottom: 1px solid #cccccc;
+	text-decoration: none;
+	display: block;
+	color: #1f1f1f;

@@ -1,0 +1,13 @@
+	color: #737E8C;
+   text-align: center;
+   width: 85%;
+   margin: 156px auto 66px auto;
+   font: 56px/78px montserrat-regular, Sans-serif;
+   color: #fff;
+   text-shadow: 0px 1px 5px rgba(50, 50, 50, .5);
+   padding: 0;
+ color: #11ABB0; .slider-text p {
+ font: 48px/66px montserrat-regular, Sans-serif;  margin-top: 120px; margin-bottom: 48px;  font: 43px/54px montserrat-regular, sans-serif;    .slider-text p {
+      font: 14px/30px opensans-regular, sans-serif;
+      margin-top: 30px;
+ margin-top: 108px; margin-bottom: 36px;  font: 32px/42px montserrat-regular, sans-serif; 

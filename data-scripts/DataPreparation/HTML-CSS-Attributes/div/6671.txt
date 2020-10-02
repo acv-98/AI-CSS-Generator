@@ -1,0 +1,18 @@
+	width:298px;
+	border:1px solid #ccc;
+	border-top:none;
+	float:left;
+	padding:2px 5px 0 0;
+	margin:10px auto;
+	font-size:14px;
+	background:url(images/bg_sml_fade.png) repeat-x bottom;
+	line-height:1.2em;
+	padding-top:0;
+	padding-left:20px;
+	font-weight:700;
+	letter-spacing:-1px;
+	height:26px;
+	display:block;
+	color:#fff;
+	text-decoration:none;
+	text-align:center;

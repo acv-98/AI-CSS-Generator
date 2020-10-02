@@ -1,0 +1,16 @@
+	border: 1px solid #8dc63f;
+	color: #8dc63f;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    color: #fff;
+    opacity: 0;
+	transition: .3s all;
+	text-align:center;
+	margin-top: 42%;
+	padding: 15px;
+	border-radius: 50%;
+	font-size:18px;

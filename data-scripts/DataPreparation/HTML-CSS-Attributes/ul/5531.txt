@@ -1,0 +1,14 @@
+	list-style:none;
+	overflow:hidden;
+	padding:0;
+	margin:23px 0 0;
+	width:520px;
+	float:right;
+	height:48px;
+	background:url(../images/bg-menu.gif) repeat-x;
+	line-height:40px;
+	text-decoration:none;
+	font-family:arial;
+	font-size:16px;
+	color:#061558;
+ color:#5DA0D5;

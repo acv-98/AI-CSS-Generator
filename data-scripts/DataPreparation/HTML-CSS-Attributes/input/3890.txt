@@ -1,0 +1,10 @@
+border: 2px solid #999999;
+border-radius: 2px;
+color: #999999;
+font-size: 18px;
+font-weight: bold;
+height: 40px;
+background:#999;color:#fff;blockquote{border-left: 5px solid #999999;
+margin:15px 0 15px 25px;
+padding-bottom: 5px;
+padding-left: 10px;

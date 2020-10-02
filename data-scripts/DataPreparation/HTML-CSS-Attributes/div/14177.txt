@@ -1,0 +1,12 @@
+	position: relative;
+	float: left;
+	width: 260px;
+	height: 125px;
+	padding: 10px 30px;
+	background: url(images/service_box_bg.jpg) top center no-repeat;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0981a9;
+	margin-bottom: 10px;
+	top: 80px;
+	right: 30px;

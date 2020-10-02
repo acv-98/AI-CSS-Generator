@@ -1,0 +1,61 @@
+ font-size: 17px; font-family: 'Open Sans', sans-serif; color: #aca12a; font-style: normal; font-weight: 400;  font-size: 11px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  font-size: 17px; font-family: 'Open Sans', sans-serif; color: #aca12a; font-style: normal; font-weight: 400;  font-size: 11px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  left: 328px 
+ z-index: 1000         width: 1170px;
+        height: 390px;
+        margin-top: 195px;
+        left: 350px;
+	padding-left:0;
+	padding-right:0;
+	font-size:14px;
+	font-weight:bold;
+	cursor:pointer;
+	display:block;
+	float:left;
+	position:relative;
+	bottom:20px;
+	left:-10px;
+	background:#fff;
+	width:200px;
+	border-radius:4px;
+	opacity:0.9;
+	filter:alpha(opacity=90);
+	color:#fff;
+	text-shadow:none;
+	font-family:sans-serif;
+	line-height:15px;
+	margin-bottom:10px;
+    filter: none;
+background-color:#A84B3A;background-color:#FF9F67;background-color:#233138;background-color:#E3733A;background-color:#4C646B;background-color:#A84B3A;background-color:#FF9F67;background-color:#233138;background-color:#E3733A;.usquare_products_style .usquare_square_bg1,
+.usquare_products_style .usquare_square_bg2,
+.usquare_products_style .usquare_square_bg3,
+.usquare_products_style .usquare_square_bg4,
+.usquare_products_style .usquare_square_bg5,
+.usquare_products_style .usquare_square_bg6,
+.usquare_products_style .usquare_square_bg7,
+.usquare_products_style .usquare_square_bg8,
+.usquare_products_style .usquare_square_bg9 {
+	padding-top: 40px;
+	margin-top: 20px;
+	border-top: 1px solid rgba(255, 255, 255, 0.045);
+	list-style:none; 
+	text-decoration:none;
+	height:160px; 
+	text-align:left;
+	overflow:hidden; 
+	-moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1); 
+	z-index:3; 
+	behavior: url(/PIE.htc); 
+	zoom:1;
+    -webkit-filter: grayscale(0);
+ 	display: none; 
+	background-color:#000000; 
+	top:0; 
+	
+img.usquare_square:hover {
+background-color:#ef4939;background-color:#f05539;background-color:#f15e3c;background-color:#f2673c;background-color:#f36f3e;background-color:#f4773d;background-color:#f57f3f;background-color:#f5863f;background-color:#f78d41;@media (min-width: 980px) and (max-width: 1199px) {
+	.usquare_module_wrapper {
+		width: 780px !important;
+		height: 585px !important;
+		margin-top: 181px !important;
+ left: 330px 		left: 280px;

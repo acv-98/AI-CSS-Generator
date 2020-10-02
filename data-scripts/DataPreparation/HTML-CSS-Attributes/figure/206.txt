@@ -1,0 +1,3 @@
+    position: relative;
+    height: 676px;
+    width: 100%;

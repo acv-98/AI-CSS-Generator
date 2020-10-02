@@ -1,0 +1,15 @@
+	background : url(search-button.png) no-repeat;
+	color: #333;
+	border: none;
+	width: 25px;
+	height: 15px;
+	cursor: pointer;
+	margin-left: 15px;
+	margin : 0;
+	font : bolder 12px Arial, Sans-serif;
+	border-top: solid 1px #D7D7D7;
+	border-bottom: solid 2px #D7D7D7;
+	border-left: solid 1px #D7D7D7;
+	border-right: solid 2px #D7D7D7;
+	padding : 2px 3px;
+	color : #131212;

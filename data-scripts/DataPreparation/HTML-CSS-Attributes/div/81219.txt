@@ -1,0 +1,3 @@
+ background-image:url('../img/bg/slider03.jpg'); .parallax  .content-heading{
+    padding: 20% 0;
+    text-align: center;

@@ -1,0 +1,6 @@
+	width:100%;
+	overflow:hidden;
+	position:relative
+	border-bottom:#c4d2d7 1px solid;
+	padding-bottom:20px;
+	margin-bottom:22px;

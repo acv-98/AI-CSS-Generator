@@ -1,0 +1,11 @@
+	height:19px;
+	width:147px;
+	background:url(images/slide-link-shadow.png) no-repeat 0 0;
+	bottom:0;
+	left:-8px;
+	position:absolute;
+	padding:14px 0 0 8px;
+	font-size:20px;
+	text-transform:uppercase;
+	line-height:20px;
+	margin-bottom:20px;

@@ -1,0 +1,5 @@
+	float:left;
+	color:#717171;
+	text-decoration:none;
+	max-width:70%;
+	margin:0 6px 0 0;

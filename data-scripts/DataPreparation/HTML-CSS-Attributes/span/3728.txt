@@ -1,0 +1,13 @@
+	color: #9b59b6;
+  height: 5px;
+  border-top: 0;
+  background: #c4e17f;
+  margin:0;
+  padding-bottom:0;
+  background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+	background: #aaa;
+    z-index: 5001;	
+	width:30px;
+	height:30px;
+	display:block;
+	margin-bottom:5px;

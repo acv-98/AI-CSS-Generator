@@ -1,0 +1,5 @@
+	color: #980e0e;
+	text-transform: uppercase;
+	font-size: 14px;
+	border: none;
+	text-decoration: none;

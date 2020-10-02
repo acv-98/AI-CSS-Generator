@@ -1,0 +1,11 @@
+  font-size: 16px;
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 10;
+  color: #ccd1d6;
+  font-weight: 400;
+  font-family: "Lato", arial, sans-serif;
+  right: 0;
+  top: 0;
+  height: 15px;
+  background: #e8e8e8;

@@ -1,0 +1,5 @@
+    background: #000;
+    position: relative;
+    opacity: 1;
+    transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;

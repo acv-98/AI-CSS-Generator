@@ -1,0 +1,1 @@
+font-size:11px; left:55px; padding:8px 12px; position:absolute; top:15px; z-index:10; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5sfloat:left; display:inline; width:100%background:none repeat scroll 0 0 #09c; color:#fffbackground-color:#fff; color:#09c

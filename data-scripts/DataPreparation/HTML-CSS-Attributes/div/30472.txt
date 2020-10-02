@@ -1,0 +1,2 @@
+margin: 0 auto; width: 964px;
+background: url(images/header.jpg) no-repeat 0 0; height: 403px; padding-top: 50px; padding-left: 52px; width: 862px !important; padding-right: 50px;width: 945px;

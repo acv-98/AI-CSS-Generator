@@ -1,0 +1,1 @@
+padding:8px; border-top: dashed 1px #333; border-bottom: dashed 1px #333; margin-bottom:18px;float:left; margin-right:15px;

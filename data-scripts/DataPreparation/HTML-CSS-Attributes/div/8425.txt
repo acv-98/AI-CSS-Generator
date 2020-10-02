@@ -1,0 +1,6 @@
+	background: rgba(15, 22, 30, 0.5) none repeat scroll 0 0;
+	color: #ffffff;
+	display: inline;
+	float: left;
+	padding: 90px 0;
+	width: 100%;

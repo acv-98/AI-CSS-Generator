@@ -1,0 +1,2 @@
+  color: #28262b;
+    font-size: 1.875rem;

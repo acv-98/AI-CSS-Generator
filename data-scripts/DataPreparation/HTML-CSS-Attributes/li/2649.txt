@@ -1,0 +1,5 @@
+    color: #8e4fa7;
+    outline: 0;
+	background: none;
+    background-color: rgba(255,255,255,.2);
+  border-color: #666;

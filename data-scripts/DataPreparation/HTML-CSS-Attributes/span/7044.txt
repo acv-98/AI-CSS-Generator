@@ -1,0 +1,7 @@
+	background-color: #898989;
+	display: inline-block;
+	height: 3px;
+	margin-bottom: 16px;
+	width: 60px;
+	  margin-bottom: 15px;	 
+	  width: 60px;

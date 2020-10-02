@@ -1,0 +1,15 @@
+	height:36px; 
+	margin:2px 2px;  
+	position:absolute;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	-moz-border-radius-top-right: 20px;
+	-webkit-border-radius-top-right: 20px;
+	-moz-border-radius-bottom-right: 20px;
+	-webkit-border-radius-bottom-right: 20px;	
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	-moz-border-radius-top-left: 20px;
+	-webkit-border-radius-top-left: 20px;
+	-moz-border-radius-bottom-left: 20px;
+	-webkit-border-radius-bottom-left: 20px;

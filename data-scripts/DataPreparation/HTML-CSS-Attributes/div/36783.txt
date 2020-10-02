@@ -1,0 +1,7 @@
+	width:966px; 
+	margin:0 auto; 
+	float:left; 
+	padding:0; 
+	font: normal 18px Tahoma, Geneva, sans-serif;
+	color:#d6e8f5; 
+	text-align:left; 

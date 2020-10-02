@@ -1,0 +1,5 @@
+	padding:18px 30px;
+	float:left;
+	width:516px;
+	line-height:17px;
+	color:#787878;

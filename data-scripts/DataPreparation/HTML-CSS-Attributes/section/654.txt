@@ -1,0 +1,11 @@
+  border: 4px solid #ffffff;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 24px;
+  padding-top: 11px;
+    background: #ffa400;
+     padding: 4px 6px;
+    font-size: 16px;
+    color: #fff;
+    border: none;
+    border-color: transparent;

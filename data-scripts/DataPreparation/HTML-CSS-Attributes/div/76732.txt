@@ -1,0 +1,5 @@
+	background:url(images/hbg_bg.gif) repeat-x top;
+	height:256px;
+	margin:0 auto;
+	padding:187px 0 0;
+	width:970px;

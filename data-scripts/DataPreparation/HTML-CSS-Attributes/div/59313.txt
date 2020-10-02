@@ -1,0 +1,5 @@
+clear: both;
+.blog-divider {
+    background-color: #d6d6d6;
+    height: 1px;
+    margin: 50px 0 70px;

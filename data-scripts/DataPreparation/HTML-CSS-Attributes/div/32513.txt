@@ -1,0 +1,7 @@
+	background: #8dc63f;
+	margin:0px;
+	padding-bottom:40px;
+	height: 16px;
+	width: 16px;
+	border:2px solid #fff;
+	opacity: 1;

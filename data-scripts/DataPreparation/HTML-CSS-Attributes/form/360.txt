@@ -1,0 +1,4 @@
+	overflow: hidden; 
+.form-control {
+	border-radius: 0;
+	font-size: 1em;	

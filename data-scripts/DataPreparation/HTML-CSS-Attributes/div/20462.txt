@@ -1,0 +1,14 @@
+        max-width: 50%;
+        margin: 0 auto;
+        margin-bottom: 70px;
+    background: #faf9f9;
+    padding: 30px 20px;
+    position: relative;
+    font-size:0.875rem;
+    font-family: 'sanchezregular';
+    font-style: italic;
+    color:#202242;
+    right: 15px;
+    bottom: -45px;
+    max-height: 100px;
+    border-radius: 50%;

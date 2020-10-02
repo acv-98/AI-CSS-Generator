@@ -1,0 +1,6 @@
+    width: 100%;
+    height: 750px;
+    background: rgba(0, 0, 0, 0.3);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: #ffffff;

@@ -1,0 +1,7 @@
+	position: absolute;
+	top: 737px;
+	z-index: 1000;
+	width: 100%;
+	padding:0;
+	font-weight: 400;
+		top: 635px;

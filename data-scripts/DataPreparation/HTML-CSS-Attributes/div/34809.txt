@@ -1,0 +1,8 @@
+	clear:both;
+	margin: 0 0 20px 0;
+	text-shadow: none;
+	padding: 15px;
+	line-height: 17px;
+	background:#ffcccc;
+	border:1px solid #ff9999;
+	color:#c31b00;

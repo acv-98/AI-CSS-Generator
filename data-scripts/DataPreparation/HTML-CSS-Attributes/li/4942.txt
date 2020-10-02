@@ -1,0 +1,12 @@
+color: #ffd500;
+font-weight: bold;
+margin-bottom: 5px;
+padding: 5px;
+display: inline-block;
+width: 80%;
+text-align: left;
+color:#000;text-decoration:none;.single_sidebar .cat-item:hover{color:#000;background:#FFD500;
+-webkit-transition: background 300ms ease-in;
+-moz-transition: background 300ms ease-in;
+-ms-transition: background 300ms ease-in;
+-o-transition: background 300ms ease-in;

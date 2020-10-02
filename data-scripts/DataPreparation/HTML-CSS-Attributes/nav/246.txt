@@ -1,0 +1,5 @@
+ background-color: #373a3c; 
+.tm-navbar-container-dark {
+	background-color: #373a3c;
+	box-shadow: none;
+ background-color: #373a3c;  background-color: #373a3c; 

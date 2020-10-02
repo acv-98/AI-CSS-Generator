@@ -1,0 +1,10 @@
+	position: relative;
+	width: 975px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #FFFFFF;
+	background-image: url(images/wrapper-bg.gif);
+	background-repeat: repeat-y;
+	background-position: left;
+	background-color: #FFFFFF;
+	margin-bottom: 10px;

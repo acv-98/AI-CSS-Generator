@@ -1,0 +1,4 @@
+ margin-bottom: 0; 
+.tm-section-testimonials { 
+	padding-top: 80px; 
+	padding-bottom: 80px;

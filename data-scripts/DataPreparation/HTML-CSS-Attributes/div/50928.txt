@@ -1,0 +1,18 @@
+	background:url(images/slide-info.png) no-repeat 0 0;
+	width:337px;
+	height:251px;
+	padding:15px 20px 0 27px;
+	font-size:22px;
+	line-height:25px;
+	color:#9a423c;
+	text-decoration:underline;
+	font-weight:bold;
+	text-align:center;
+	margin:8px 0 0 0;
+	padding-right:65px;
+	padding-bottom:40px;
+	position:relative;
+	border-bottom:1px dotted #dcdcdc;
+	display:block;
+	bottom:0;
+	left:0;

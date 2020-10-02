@@ -1,0 +1,8 @@
+ width: 175px; .home-description {
+	margin: 50px auto;
+	padding: 0 30px;
+	text-align: center;
+ width: 185px; 	.tm-about-box-1 {
+		width: 215px;
+		padding: 24px 15px;
+ width: 175px;  width: 120px; 

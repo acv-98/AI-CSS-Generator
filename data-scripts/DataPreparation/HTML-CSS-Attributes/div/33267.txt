@@ -1,0 +1,14 @@
+display: none !important;display: none!important;display: block !important; margin-top: 20px !important;float: left !important;
+color: #7c878b;
+font-size: 20px;
+cursor: pointer;
+width: 16px !important;
+height: 16px !important;
+border-radius: 15%;
+text-align: center;
+position: relative;
+z-index: 1;
+padding: 10px;
+background: #364045;
+margin-right: 10px !important;
+background: #2abde9; color: #fff; text-decoration: none;float: right; display: inline-block;margin: 0; overflow: hidden;list-style: none; display: inline-block;text-decoration: none;float: left;

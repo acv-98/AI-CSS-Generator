@@ -1,0 +1,2 @@
+ position: absolute; bottom: 15px; left: 50%; margin-left: -44px; width: 88px;  background: url(images/pagination.png) no-repeat 0 0; width: 20px; height: 20px; display: inline-block; font-size: 0; line-height: 0; text-indent: -4000px; cursor: default;  background-position: 0 -20px; 
+ bottom: 8px; left: 155px;  background: url(images/pagination@2x.png) no-repeat 0 1px; -webkit-background-size: 18px 40px; -moz-background-size: 18px 40px; background-size: 18px 40px; 

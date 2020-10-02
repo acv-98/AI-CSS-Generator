@@ -1,0 +1,5 @@
+	background: #292f35;
+	padding: 20px 0;
+	text-align: center;
+	margin: 0px;
+	color: #ffffff;

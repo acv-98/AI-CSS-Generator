@@ -1,0 +1,4 @@
+    border: 0;
+    color: #ffffff;
+    background: #3ac5c8;
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#3ac5c8', endColorstr='#0b509e', GradientType=1);

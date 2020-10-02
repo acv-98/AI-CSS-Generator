@@ -1,0 +1,3 @@
+width: 25%;.grid-item {
+    float: left;
+    height: 255px !important; 

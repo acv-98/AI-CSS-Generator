@@ -1,0 +1,8 @@
+  background: none repeat scroll 0 0 #4f535e;
+  color: #fff;
+  display: inline;
+  float: left;
+  padding-top: 30px;
+  width: 100%;
+	color: #fff;
+padding: 60px 15px 0;

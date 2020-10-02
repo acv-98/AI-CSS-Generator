@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	background:#68cafd url(../images/footer_bg.gif) repeat-x left top;
+	border-bottom:1px solid #5db4e1;
+	width:920px;
+	color:#fff;
+	padding-bottom:24px;
+	font-size:24px;
+	float:left;
+	list-style:none;
+	display:block;
+	text-decoration:none;
+	line-height:1.8em;
+	font-weight:normal;

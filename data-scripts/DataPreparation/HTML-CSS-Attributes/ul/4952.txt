@@ -1,0 +1,15 @@
+  background-color: #777e88;
+  color: #333;
+  margin-top: 15px;
+  display: inline-block;
+  position: relative;
+  padding-left: 10px;
+  content: '';
+  border-radius: 50px;
+  left: 2px;
+  top: 50%;
+  transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);

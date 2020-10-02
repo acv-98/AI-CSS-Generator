@@ -1,0 +1,15 @@
+  margin-right: 0;
+  position: relative;
+  display: block;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  font-family: Montserrat, sans-serif;
+  color: rgba(255, 255, 255, 0.75);
+  line-height: 5.5rem;
+  text-transform: uppercase;
+  transition-duration: 300ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+    color: rgba(34, 35, 36, 0.7);
+    line-height: 1.6;
+    margin: 1.5rem 0;

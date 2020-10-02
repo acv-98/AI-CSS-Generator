@@ -1,0 +1,26 @@
+	opacity: 1;
+	filter: alpha(opacity=100);
+	
+	-webkit-transform: rotateY(0deg) scale(1,1);
+	   -moz-transform: rotateY(0deg) scale(1,1);
+		-ms-transform: rotateY(0deg) scale(1,1);
+		 -o-transform: rotateY(0deg) scale(1,1);
+		    transform: rotateY(0deg) scale(1,1);
+	background-color: #DE5E60;	
+	color: #FFFFFF;
+			transform: rotateY(0deg);
+	-moz-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	border: none;
+  	background-color: #DE5E60;
+  	cursor: default;
+  	display: block;
+	text-shadow: none;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+ z-index:-10;  display:inline-block; Supersized - Fullscreen Slideshow jQuery Plugin
+Version : 3.2.7
+Site	: www.buildinternet.com/project/supersized
+Theme 	: Shutter 1.2
+Author	: Sam Dunn
+Company : One Mighty Roar (www.onemightyroar.com)
+License : MIT License / GPL License

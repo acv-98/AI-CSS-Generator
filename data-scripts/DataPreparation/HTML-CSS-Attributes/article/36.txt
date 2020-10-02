@@ -1,0 +1,15 @@
+	width:610px;
+	float:left;
+	margin-right:10px;
+	padding:0;
+	left:42px
+	clear:left
+	font-size:12px;
+	text-align:left;
+	position:relative;
+	margin-top:15px;
+	display:block;
+	line-height:15px;
+	top:20px;
+	padding-top:7px;
+	color:gray;

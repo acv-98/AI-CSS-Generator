@@ -1,0 +1,4 @@
+	border-bottom: 1px solid #e0e0e0;
+	display: block;
+	margin-bottom: 1.25em;
+	padding-bottom: 1.25em;

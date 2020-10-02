@@ -1,0 +1,12 @@
+	position:absolute;
+	top:0;
+	left:0;
+	height:100%;
+	width:100%;
+	box-sizing:border-box;
+	background:#00bcd4;
+	opacity:0.9;
+	text-align:center;
+	color:#fff;
+	display:none;
+	transition:0.2s;

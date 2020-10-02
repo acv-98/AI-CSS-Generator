@@ -1,0 +1,14 @@
+	width:910px;
+	height:307px;
+	margin:0 0 21px 5px;
+	position:relative;
+	background:url(images/btn-nav.gif) no-repeat 0 0;
+	bottom:26px;
+	left:31px;
+	background-position:0 -20px;
+	right:27px;
+	list-style:none;
+	display:inline;
+	float:left;
+	overflow:hidden;
+	text-decoration:none;

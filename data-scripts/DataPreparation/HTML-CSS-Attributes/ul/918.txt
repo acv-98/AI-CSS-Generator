@@ -1,0 +1,6 @@
+	margin: 0px;
+	padding: 0px;
+	background: url(images/link-style1-divider.png) repeat-x left top;
+	padding-top: 0px;
+	text-decoration: none;
+	color: #585858;

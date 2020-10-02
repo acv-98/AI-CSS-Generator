@@ -1,0 +1,2 @@
+ border-radius:8px; -moz-border-radius:8px; -webkit-border-radius:8px; color:#fff; background-color:#2475c1;
+ color:#fff; background-color:#2475c1;

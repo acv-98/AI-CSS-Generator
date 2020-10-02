@@ -1,0 +1,10 @@
+	background-color: #09284b;
+	background-image: url('../images/bg_main.png');
+	padding-bottom: 180px;
+	background-position: center center;
+.main-products h2 {
+	font-weight: 700;
+	font-family: 'Raleway', sans-serif;
+	color: #09294c;
+	font-size: 14px;
+	text-align: center;

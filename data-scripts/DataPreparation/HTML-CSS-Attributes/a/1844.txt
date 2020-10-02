@@ -1,0 +1,5 @@
+  margin-left: 17px;
+  display: inline-block;
+  color: #1e2439;
+  font: 30px/52px 'Marvel', sans-serif;
+  margin-top: 5px;

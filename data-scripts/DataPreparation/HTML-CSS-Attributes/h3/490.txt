@@ -1,0 +1,3 @@
+	text-align: center;
+	padding-top: 96px;
+	margin-bottom: 47px;

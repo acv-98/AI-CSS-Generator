@@ -1,0 +1,16 @@
+  text-align: center;
+  width: 94px;
+  height: 94px;
+  line-height: 94px;
+  font-size: 60px;
+  color: #423e3e;
+  background: #fff;
+  border: none;
+  margin: 30px 50px;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 10px;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    margin: 30px 25px;
+    display: block;

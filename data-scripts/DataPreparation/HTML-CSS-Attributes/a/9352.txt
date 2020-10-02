@@ -1,0 +1,6 @@
+							background:url(images/pinkrss.png) no-repeat center;
+							height:50px;width:50px;
+							display:block;text-indent:-99999px;
+							margin:0;
+							padding:0;
+							float:right;

@@ -1,0 +1,2 @@
+	background:url(../images/bg_bot.jpg) top center no-repeat;
+	height:230px;

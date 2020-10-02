@@ -1,0 +1,2 @@
+	background: url(../images/image-sprit.png) no-repeat -118px 8px #4B5456;
+	border-radius: 3em;

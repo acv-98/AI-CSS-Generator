@@ -1,0 +1,4 @@
+ width: 270px; 
+.tm-recommended-description-box {
+    padding: 30px;
+    width: 500px;

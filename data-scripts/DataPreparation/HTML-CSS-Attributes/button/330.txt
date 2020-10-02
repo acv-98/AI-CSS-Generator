@@ -1,0 +1,2 @@
+  border-top-right-radius: 3.125rem !important;
+  border-bottom-right-radius: 3.125rem !important;

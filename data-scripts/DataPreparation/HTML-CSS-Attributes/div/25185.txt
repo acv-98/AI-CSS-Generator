@@ -1,0 +1,9 @@
+    background-color: #0ABCEB;
+    color: white;
+    margin: auto;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    max-width: 200px;
+    line-height: 22px;
+    font-size: 15px;

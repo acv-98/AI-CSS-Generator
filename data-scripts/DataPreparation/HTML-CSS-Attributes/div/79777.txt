@@ -1,0 +1,10 @@
+  position: relative;
+  z-index: 3;
+  text-align: center;
+    margin-bottom: 50px;
+    float: left;
+    width: 100%;
+  display: block;
+  font-size: 40px;
+  color: #52d3aa;
+  font-weight: 300;

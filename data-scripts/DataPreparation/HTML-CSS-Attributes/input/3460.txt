@@ -1,0 +1,8 @@
+  font: normal 1.0em arial,verdana,tahoma,sans-serif;
+  color: #000;
+  margin: 0;
+  padding: 10px 14px;
+  background: #444;
+  border: 1px solid #444;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px; 

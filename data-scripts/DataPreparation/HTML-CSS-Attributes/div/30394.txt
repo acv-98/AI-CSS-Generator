@@ -1,0 +1,4 @@
+  border-left: 1px solid #ddd;
+  padding-left: 30px;
+  font-size: 18px;
+  margin-top: 10px;

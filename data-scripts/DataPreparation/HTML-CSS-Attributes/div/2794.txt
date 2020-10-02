@@ -1,0 +1,15 @@
+-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both
+ * baguetteBox.js
+ * @author  feimosi
+ * @version 1.10.0
+ * @url https://github.com/feimosi/baguetteBox.js
+nav.bootsnav .dropdown.megamenu-fw {
+    position: static;
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+-webkit-tap-highlight-color:transparent;position:relative @media only screen and (min-width: 992px) and (max-width: 1199px) {
+     nav.navbar.bootsnav ul.nav > li > a{
+         padding-top: 10px;
+		 padding-bottom: 10px;
+		 padding-left: 10px;
+		 padding-right: 30px;

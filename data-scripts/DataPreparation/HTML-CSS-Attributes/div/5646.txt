@@ -1,0 +1,7 @@
+	width:376px;
+	height:397px;
+	background:url(../images/banner-1.png) 0 0 no-repeat;
+	position:absolute;
+	left:0;
+	top:0;
+	z-index:9;

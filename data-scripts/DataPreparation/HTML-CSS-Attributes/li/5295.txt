@@ -1,0 +1,8 @@
+  color: #ffffff;
+  content: "";
+  height: 4px;
+  width: 100%;
+  background: #dbb3ae;
+  position: absolute;
+  bottom: -30px;
+  left: 0;

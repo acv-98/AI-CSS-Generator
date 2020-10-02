@@ -1,0 +1,5 @@
+	margin-bottom: 50px;
+	color: #010101;
+	font-size: 28px;
+	font-family: 'Arbutus Slab', serif;
+	font-weight: 200;

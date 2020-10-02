@@ -1,0 +1,8 @@
+    width: 770px;
+    *width: 65.75877432260411%;
+  float: none;
+  margin-left: 0;
+  background: #f6f6f6;
+  text-align: center;
+  padding: 20px 0 20px;
+    margin-bottom: 20px;

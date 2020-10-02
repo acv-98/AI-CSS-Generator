@@ -1,0 +1,5 @@
+display: none;margin: 30px 0;.footerlinks li{
+    display: inline;
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 3px;

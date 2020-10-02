@@ -1,0 +1,4 @@
+	width: 591px;
+	height:10px;
+	float:left;
+	border-top: solid 1px #1f1d18;

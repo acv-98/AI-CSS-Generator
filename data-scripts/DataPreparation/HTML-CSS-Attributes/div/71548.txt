@@ -1,0 +1,10 @@
+  background-image: url("../images/map.jpg");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 70px 0;
+  border-radius: 50%;
+  height: 280px;
+  width: 300px;
+  list-style: none; 
+  font-weight: 700;

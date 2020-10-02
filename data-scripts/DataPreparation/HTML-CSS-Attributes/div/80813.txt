@@ -1,0 +1,13 @@
+	margin: 1em 1em 0em 0em;
+	padding: 0.6em 1.1em;
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	float:left;
+	display: block;
+	color:#BEBEBE;
+	font-size: 1.3em;
+		margin-right: 34%;
+		padding: 0.3em 0.8em;
+		font-size: 1em;

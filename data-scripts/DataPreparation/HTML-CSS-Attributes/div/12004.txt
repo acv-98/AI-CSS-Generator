@@ -1,0 +1,7 @@
+ margin:0 15px; margin:0 1%; float:left; width:18%; display:block; display:block; margin-bottom:5px; display:block;	background:#7cc576;
+	padding:25px 0;
+    filter: alpha(opacity=60);
+	margin:0;
+	list-style:none;
+	text-align:center;
+	display:inline;

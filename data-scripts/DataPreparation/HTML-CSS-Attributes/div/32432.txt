@@ -1,0 +1,5 @@
+		width:100%;
+		margin:0 0 1.5em;
+		content:"";
+		display:block;
+		clear:both;

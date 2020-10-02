@@ -1,0 +1,5 @@
+  padding: 20px 30px !important;
+  width: 200px;
+  font-size: 18px;
+    padding: 10px 30px !important;
+    width: 100%;

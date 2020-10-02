@@ -1,0 +1,11 @@
+	_margin:10px 5px 0 5px;
+	background-image:url("../images/bg-social-sites.jpg");
+	background-repeat:no-repeat;
+	height:49px;
+	width:186px;
+	margin:0 auto;
+	display:block;
+	float:left;
+	text-decoration:none;
+	background-position:0 0;
+	margin-left:20px;

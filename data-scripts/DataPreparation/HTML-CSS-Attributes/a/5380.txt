@@ -1,0 +1,2 @@
+        left: 120px;
+        display: none;

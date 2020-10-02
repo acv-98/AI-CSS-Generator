@@ -1,0 +1,22 @@
+font-weight:normal;font-weight:normal;font-weight:normal;
+	width:207px;
+	margin:-70px auto 0 auto;
+	margin-right:0;
+	height: 20px;
+	display: inline-block;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 12px;
+	padding: 8px 10px 0 10px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-box-shadow:0 1px 1px rgba(0, 0, 0, 0.08);
+	-moz-box-shadow:0 1px 1px rgba(0, 0, 0, 0.08);
+	box-shadow:0 1px 1px rgba(0, 0, 0, 0.08);
+	background-position: 0 -28px;
+	background-image: url(../images/button_white.png);
+	color: #555555;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+ width:145px

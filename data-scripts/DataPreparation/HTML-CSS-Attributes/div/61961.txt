@@ -1,0 +1,5 @@
+  font-size: 32px;
+  margin-bottom: 10px;
+  font-weight: 700;
+  color: #fff;
+    font-size: 28px;

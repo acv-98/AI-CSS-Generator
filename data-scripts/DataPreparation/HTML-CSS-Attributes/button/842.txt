@@ -1,0 +1,18 @@
+    background-color: #fff !important;
+    border: none;
+    padding: 0;
+    font-size: 18px;
+    position: relative;
+    top: 5px;
+    display: inline-block;
+    margin-right: 0;
+    -webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+        display: inline-block;
+        float: left;
+        margin-right: -200px;
+        margin-top: 10px;
+        background-color: transparent !important;

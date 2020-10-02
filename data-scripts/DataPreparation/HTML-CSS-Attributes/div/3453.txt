@@ -1,0 +1,7 @@
+	background:url(../images/bg_img1.png) center 0 no-repeat;
+	height:438px;
+	width:671px;
+	right:-30px;
+	top:75px;
+	position:absolute;
+	z-index:2;

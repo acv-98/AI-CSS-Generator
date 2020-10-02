@@ -1,0 +1,5 @@
+	font: normal 28px/40px Georgia, "Times New Roman", Times, serif;
+	color:#fff;
+	float:left;
+	width:380px;
+	padding-left:24px;

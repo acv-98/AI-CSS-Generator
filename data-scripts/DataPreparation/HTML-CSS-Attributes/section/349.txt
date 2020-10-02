@@ -1,0 +1,7 @@
+	padding:90px 0 70px;
+	color:#fcfcfc;
+	background:#1bac91;
+	width:100%;
+	height:auto;
+	margin:0;	
+	opacity:0.6;

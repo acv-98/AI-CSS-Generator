@@ -1,0 +1,8 @@
+	font-size: 36px;
+	margin-bottom: 60px;
+	color: white;
+  margin-top:100px;
+  background: transparent;
+  border-radius:0;
+  width:8px;
+  height: 8px;

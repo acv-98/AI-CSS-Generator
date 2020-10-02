@@ -1,0 +1,1 @@
+overflow:hidden;width:100%;position:relative;display:none;position:relative;-webkit-transition:0.6s ease-in-out left;-moz-transition:0.6s ease-in-out left;-o-transition:0.6s ease-in-out left;transition:0.6s ease-in-out left;display:block;left:0;position:absolute;top:0;width:100%;left:100%;left:-100%;left:0;left:-100%;left:100%;

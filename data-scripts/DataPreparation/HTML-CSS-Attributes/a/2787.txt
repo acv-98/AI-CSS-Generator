@@ -1,0 +1,4 @@
+  color: #78ADC9;
+  border-bottom: 1px solid #eee;
+  display: block;
+  padding-bottom: 10px;

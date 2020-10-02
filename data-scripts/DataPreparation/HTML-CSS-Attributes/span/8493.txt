@@ -1,0 +1,6 @@
+  background: #d7d4cd;
+  font-size: 14px;
+  width: 100%;
+  display: inline-block;
+  color: #ffffff;
+  text-transform: uppercase;

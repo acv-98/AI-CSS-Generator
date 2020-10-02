@@ -1,0 +1,6 @@
+	list-style-type:none;
+	float:left;
+	margin-right:5px;
+background:#FFFFFF;
+border:1px solid #ccc;
+padding:3px;

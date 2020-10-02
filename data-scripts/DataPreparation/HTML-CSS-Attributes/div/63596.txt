@@ -1,0 +1,9 @@
+	margin:0 auto;
+	padding:10px 20px;
+	width:920px;
+	border-top:1px solid #b5cad6;
+	color:#fefdfb;
+	font:normal 12px Arial, Helvetica, sans-serif;
+	line-height:normal;
+	text-decoration:underline;
+	float:left;

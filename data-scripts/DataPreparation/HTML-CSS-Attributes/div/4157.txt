@@ -1,0 +1,9 @@
+.single_abouts h2{
+	font-family:'Roboto Mediam';
+	font-weight:500;
+	font-size:2.5rem;
+	color:#333b46;
+    max-width: 455px;
+    line-height: 2.5rem;
+    font-size: 1.9rem;
+    font-family: opensans;

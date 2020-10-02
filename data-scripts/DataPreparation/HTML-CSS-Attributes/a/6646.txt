@@ -1,0 +1,15 @@
+    background: none repeat scroll 0 0 #00cfef;
+    color: #fff;
+	color: #00cfef;
+	border-color: #00cfef;
+    border-radius: 3px;
+    bottom: 10px;
+    display: none;
+    padding: 5px 10px;
+    position: fixed;
+    right: 10px;
+    text-align: center;
+	-webkit-transition: all 0.5s ease 0s;
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+	transition: all 0.5s ease 0s;

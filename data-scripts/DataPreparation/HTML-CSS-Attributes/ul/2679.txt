@@ -1,0 +1,8 @@
+	list-style:none;
+	float: left;
+	width: 18.5%;
+	margin-right: 2%;
+	color: #B9B9B9;
+	text-transform: uppercase;
+	font-size: 0.85em;
+   width: 55.5%; 

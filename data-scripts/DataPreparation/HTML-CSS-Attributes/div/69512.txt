@@ -1,0 +1,8 @@
+  margin: 0 auto 30px;
+  padding: 0;
+  border-bottom: 1px dashed hsl(0, 0%, 80%);
+  list-style: outside none none;
+  float: right;
+  padding-right: 5px;
+  color: hsl(0, 0%, 0%);
+  font-size: 15px;

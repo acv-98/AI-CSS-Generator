@@ -1,0 +1,8 @@
+			clear: both;
+			height: 20px;
+			padding-top: 10px;
+			border-top: 1px solid #AEAEAE;
+			font-family: Georgia;
+			color: #AEAEAE;
+			margin-bottom: 15px;
+				color: #AEAEAE;

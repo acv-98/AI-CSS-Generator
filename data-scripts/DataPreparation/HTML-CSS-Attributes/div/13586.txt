@@ -1,0 +1,21 @@
+ border-color: #dfdcdc;  border-color: #cccccc;  font-size: 12px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  color: #6c6d03;  margin-bottom:20px !important;  float:left; width:220px; margin-right:20px !important;  margin-bottom: 0px !important;  margin: 20px 
+ width:201px;  margin-bottom: 20px;  margin-top: 1.2em !important;  width:260px;  width:18px;  margin-bottom: 30px     clear: left;
+    border: none;
+    margin-bottom: 20px;
+ color: #f29a03 width: auto; display:block; height:auto; overflow:hidden; position:relative; border: 8px solid #eeeeee; background-color: #cdcfd0; max-width: 100%  margin-bottom: 40px !important; padding-bottom: 5px; border-bottom: 1px solid #CFCFCF;  margin-bottom: 0;  margin-top: 0;     bottom: 25%;
+    color: white;
+    display: block;
+    font-family: 'Maven Pro',sans-serif;
+    font-size: 16px;
+    line-height: 15px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+	bottom: 12%;
+	color: white;
+	font-size: 11px;
+	line-height: 15px;
+	margin-bottom: 0px;
+ width: 385px;  width: 48%;  color: #acaa0dh2.section-portfolio-title {
+    min-width: 380px;
+    background-color: rgb(240,240,240);

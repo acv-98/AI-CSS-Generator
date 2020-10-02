@@ -1,0 +1,8 @@
+	width:881px;
+	padding-left:51px;
+	margin:0 auto;
+	background:url(images/navigation.gif) left top repeat-x;
+	height:53px;
+	overflow:hidden;
+	position:relative;
+	padding-right:19px;

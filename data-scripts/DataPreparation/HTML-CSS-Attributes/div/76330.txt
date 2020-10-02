@@ -1,0 +1,4 @@
+	height: 10px;
+	float: none !important;
+	clear: both;
+    height: 14px;

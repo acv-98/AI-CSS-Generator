@@ -1,0 +1,2 @@
+ font-size:0; line-height:0; clear:both; height:0; display:block; 
+ width:41px; height:41px; background:url(images/close-small.png); position:absolute; top:-5px; right:-5px; z-index:2;

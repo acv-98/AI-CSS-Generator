@@ -1,0 +1,8 @@
+  padding: 19px 0;
+  margin: 0 0 20px 0;
+  list-style: none;
+  background:#d1d1d1;
+  color:#d00b01;
+  font-family: 'Open Sans', sans-serif;
+  font-weight:400;
+  font-size:19px;

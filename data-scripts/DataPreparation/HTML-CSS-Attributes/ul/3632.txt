@@ -1,0 +1,8 @@
+	margin: 0em;
+	list-style: none;
+	padding: 0.94em 0em;
+	background: url(images/img02.jpg) repeat-x left top;
+	display: block;
+	text-shadow: 1px 1px 0px #FFFFFF;
+	text-decoration: none;
+	color: #7C6E49;

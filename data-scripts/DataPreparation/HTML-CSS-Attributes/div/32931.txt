@@ -1,0 +1,7 @@
+	padding-bottom:20px;
+	color:#000;
+	width:960px;
+	float:left;
+	margin-top:15px;
+	border-right:1px dashed #B6B7B7;
+	padding-right:45px;

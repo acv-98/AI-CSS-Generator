@@ -1,0 +1,2 @@
+ content:"."; display:block; height:0; clear:both; visibility:hidden; overflow: hidden;     height:1%;
+ clear:both; 

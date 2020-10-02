@@ -1,0 +1,8 @@
+	width:100%;
+	background:url(../images/bg-2.jpg);
+	overflow:hidden;
+	margin:0 auto;
+	
+ float:left;width:280px; background:url(../images/footer-div.jpg) right repeat-y; padding-left:20px; padding-right:20px; padding-top:60px; padding-bottom:60px; overflow:hidden; height:200px; color:#a29f8e; font-size:25px; color:#ffffff; padding-bottom:20px; padding-bottom:20px; color:#a29f8e; line-height:22px; list-style:none; height:40px; width:100%; background:url(../images/nav-div.jpg) bottom repeat-x; line-height:40px; color:#a29f8e; color:#ffffff;color:#ffffff; padding-top:10px; padding-bottom:10px;.more1{
+display:block;
+text-align:center;

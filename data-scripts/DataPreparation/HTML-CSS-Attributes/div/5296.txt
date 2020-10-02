@@ -1,0 +1,6 @@
+	width:45.5%;
+	float:left;
+		margin-bottom: 10px;
+		width: 42.5%;
+		height: 100%;
+		float: none;

@@ -1,0 +1,7 @@
+  font-size: 20px;
+  line-height: 24px;
+  color: #999999;
+  margin-top: 7px;
+margin-bottom:20px;.single_android_news h1{font-size: 35px;
+color:#35A1FB;.single_android_news h2{color: #000000;
+font-style: italic;

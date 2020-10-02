@@ -1,0 +1,1 @@
+	background: #D95333 url('../images/icon3.png') no-repeat 13px 11px;

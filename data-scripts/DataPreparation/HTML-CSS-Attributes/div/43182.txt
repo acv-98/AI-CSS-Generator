@@ -1,0 +1,7 @@
+    max-width: 80%;
+    padding-bottom: 90px;
+    margin:0 auto;
+    display: inline-block;
+    float:left;
+    font-size:1.375rem;
+    color:#413d4b;

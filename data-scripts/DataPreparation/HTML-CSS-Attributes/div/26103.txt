@@ -1,0 +1,17 @@
+  display: inline;
+  float: left;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+  background-color: #555;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 20px;
+  height: 45px;
+  line-height: 47px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+    font-size: 18px;

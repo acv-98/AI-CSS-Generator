@@ -1,0 +1,4 @@
+	background:url(../images/box1-bg.gif) no-repeat 100% 100% #b40303;
+	padding:17px 18px 21px 19px;
+	color:#ffd2d2;
+	font-size:1em;

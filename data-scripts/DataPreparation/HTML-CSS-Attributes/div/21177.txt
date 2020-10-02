@@ -1,0 +1,5 @@
+	margin-bottom:0;
+	padding-bottom:20px;
+	font-size:13px;
+	line-height:20px;
+	text-transform:uppercase;

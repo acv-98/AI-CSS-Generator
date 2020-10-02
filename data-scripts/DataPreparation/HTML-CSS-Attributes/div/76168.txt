@@ -1,0 +1,1 @@
+	border-bottom:solid 1px #ac9f87;

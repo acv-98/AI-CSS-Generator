@@ -1,0 +1,9 @@
+    padding: 40px;
+    font-size: .75em;
+    background: #40596c;
+    color: #fff;
+        line-height: 1.2em !important;
+        margin: 0 0 10px 0;
+        display: block;
+        font-size: 1.4em;
+        margin-bottom: 20px;

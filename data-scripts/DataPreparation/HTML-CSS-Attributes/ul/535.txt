@@ -1,0 +1,42 @@
+        width: 150px;
+        max-width: 70%;
+        margin: 0;
+        text-align: left;
+        padding: 0px 10px;
+        height: 40px;
+        text-transform: uppercase;
+        color: #fff;
+        font-family: 'latobold';
+        font-size: 1.125rem;
+        letter-spacing: 2px;
+        line-height: 40px;
+        margin-top: 30px;
+        background-color: rgba(3, 47, 62, 0.4);
+    border-right: 1px solid #0d3948;
+    border-left: 1px solid #0d3948;
+    border-color: transparent;
+    min-height: 100px;
+    margin-bottom: 0px;
+    padding-top:25px;
+    -webkit-transition:all .3s;
+    -moz-transition:all .3s;
+    transition:all .3s
+    float:right;
+    position:relative
+    border-radius:20px;
+    outline:0;
+    cursor:pointer;
+    right:0;
+    top:-2px;
+    opacity:.5
+    margin-right:0
+    overflow:visible
+    list-style-type:none;
+    vertical-align:top;
+        
+    border-top:2px solid #000;
+section.stretch {
+    padding-left:150px
+        padding-top:20px;
+        border-bottom:1px solid #ccc
+        padding-left:0

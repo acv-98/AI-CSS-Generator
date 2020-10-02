@@ -1,0 +1,10 @@
+    color: #fff;
+    background-color: #fec503;
+    border-color: #f6bf01;
+     background-color: #726FB9;
+    font-family: "Robot",sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 3px;
+    font-size: 18px;
+    padding: 20px 40px;

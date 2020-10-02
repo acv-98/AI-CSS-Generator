@@ -1,0 +1,2 @@
+ width:960px; margin:0 auto;width:239px; float:left; padding:40px; border-left:#e7e7e7 solid 1px;width:53px; height:52px; background:url(../images/red-icons.png) no-repeat; line-height:52px; color:#ffffff; font-weight:normal; text-align:center;padding-top:30px; padding-bottom:20px; color:#e00b15; font-size:20px; font-weight:normal; color:#898989; font-size:13px;background:url(../images/buttons-bg.jpg) no-repeat; width:99px; height:30px; margin-top:30px;
+pAGE CLASSES

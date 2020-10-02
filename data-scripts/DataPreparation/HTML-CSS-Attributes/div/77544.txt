@@ -1,0 +1,17 @@
+	width: 350px;
+	float: left;
+	padding-bottom: 20px;
+	margin:14px 20px 0 0;
+		float: left;
+		margin-right: 11px;
+		width: 50px;
+		background: #fff;
+		text-align: center;
+		font-size: 24px;
+		display: block;
+		padding: 5px 0
+		line-height: 15px;
+		color: #fff;
+	 	color: #343434;
+	 	text-decoration: none;
+	 		color: #d52d00;

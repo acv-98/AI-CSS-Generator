@@ -1,0 +1,5 @@
+ width:880px; margin:0 auto; padding-top:45px; padding-bottom:45px; text-align:center; color:#fff; color:#fff; text-decoration:none; color:#d1869b; color:#d1869b; color:#d1869b;
+.sf-menu, .sf-menu * {
+	margin: 0;
+	padding: 0;
+	list-style: none;

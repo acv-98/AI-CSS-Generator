@@ -1,0 +1,6 @@
+	width: 81px;
+	height: 24px;
+	display: block;
+	background: url(../images/burnstudio_sprite.png) no-repeat;
+	background-position: -225px 0px;
+	text-indent: -10000px;

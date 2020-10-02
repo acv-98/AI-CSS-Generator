@@ -1,0 +1,19 @@
+    width: 100%;
+    padding: 10px 20px;
+    border-top: none;
+    -webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+    position: relative;
+    margin: 0;
+    font-size: 0.93em;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 5px;
+    
+	margin-top: 10px;
+        font-size:0.82em;

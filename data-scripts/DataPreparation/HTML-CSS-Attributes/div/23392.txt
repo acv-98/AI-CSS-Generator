@@ -1,0 +1,14 @@
+	position: relative;
+	width: 100%;
+	height:auto;
+	padding: 0;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background-color: rgba(62, 212, 255, 0.7);
+	opacity: 0;
+	-moz-transition: opacity linear .3s;
+	-webkit-transition: opacity linear .3s;
+	-o-transition: opacity linear .3s;
+	transition: opacity linear .3s;

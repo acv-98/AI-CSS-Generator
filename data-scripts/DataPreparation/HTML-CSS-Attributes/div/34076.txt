@@ -1,0 +1,8 @@
+        margin-left: -60px;
+        max-width: 100%;
+    margin-top: 75px;
+    background: url(../img/bg.jpg) fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+padding: 65px 0;color: #9f9f9f;.calltoaction img {
+    margin-bottom: -15px;

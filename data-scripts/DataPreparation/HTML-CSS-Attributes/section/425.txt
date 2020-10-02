@@ -1,0 +1,17 @@
+        width: 45px;
+        height: 45px;
+        font-size: 1.575rem;
+        line-height: 45px;
+.team .main_team .main_team_content .single_team{
+    margin-bottom:30px;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color:#333333;
+    opacity: 1;
+    box-shadow: 10px 10px 0px 0px #3bd3ba;
+    left:0;
+    top:0;
+    padding-top: 55%;
+    transition:all .6s;
+    background: #fce38a;

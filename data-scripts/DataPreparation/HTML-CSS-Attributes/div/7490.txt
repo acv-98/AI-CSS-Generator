@@ -1,0 +1,1 @@
+ width:300px; overflow:hidden; float:left; background:url(../images/line-bg.jpg) repeat-x bottom; padding-bottom:25px; margin-bottom:25px; float:left; margin-right:12px; color:#ffffff; font-weight:normal;WRAP2 CLASSES

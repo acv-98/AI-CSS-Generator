@@ -1,0 +1,4 @@
+	color: #ccc;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+ margin-right: 12px; 	margin-right: 0;  color:#999; 

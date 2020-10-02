@@ -1,0 +1,7 @@
+	padding:10px 0px 0px 10px;
+	margin:0px;
+	display:block;
+	background:url(../images/disc.jpg) 0px 5px no-repeat;
+	list-style:none;
+	color:#565656;
+	text-decoration:underline;

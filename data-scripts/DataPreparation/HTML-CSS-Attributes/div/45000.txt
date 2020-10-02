@@ -1,0 +1,5 @@
+  margin-bottom: 60px;
+  margin-top: 0;
+  padding-left: 25px;
+  color: #d99c4e;
+  line-height: 22px;

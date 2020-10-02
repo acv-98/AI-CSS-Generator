@@ -1,0 +1,13 @@
+	float:left;
+	display:inline;
+	position:relative;
+	width:400px;
+	line-height:18px;
+	padding:74px 0 0 0;
+	left:-9px;
+	z-index:5;
+	font-size:30px;
+	color:#374f5f;
+	text-transform:uppercase;
+	padding-bottom:14px;
+	text-decoration:underline;

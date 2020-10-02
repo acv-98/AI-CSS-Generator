@@ -1,0 +1,9 @@
+    position: relative;
+    width:65px;
+    min-height:330px;
+    float: left;
+    margin-right:50px;
+  	background:#ffa540;
+		margin-right: 49px;
+		width:55px;
+		min-height: 230px;

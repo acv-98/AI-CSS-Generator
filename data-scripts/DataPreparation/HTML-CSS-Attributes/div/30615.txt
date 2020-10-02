@@ -1,0 +1,9 @@
+.action_item i{
+    width:70px;
+    height: 70px;
+    line-height: 70px;
+    background-color: #f3f3f3;
+    color:#000;
+    font-size:2rem;
+    border:1px solid #ddd;
+    border-radius: 50%;

@@ -1,0 +1,9 @@
+	clear: both;
+	padding: 25px 0px;
+	text-align: center;
+	margin: 0px;
+	display: inline-block;
+	float: left;
+	font-size: 13px;
+	color: #646565;
+	font-weight: 400;

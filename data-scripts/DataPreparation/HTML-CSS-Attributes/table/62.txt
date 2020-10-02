@@ -1,0 +1,4 @@
+	padding: 5px 3px 3px;
+	display: block;
+	border: 1px solid #4F8B9D;
+	width: 45px;

@@ -1,0 +1,19 @@
+    display: inline-block;
+    border-bottom: solid 1px #efefef !important;
+    border-color: #f43438;
+    background-color: #dc3236 !important;
+    font-family: "Damion",cursive;
+    transition: background .3s ease-in-out;
+    -webkit-transition: background .3s ease-in-out;
+    -o-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+background: #e46e48;.btn.submit_btn:hover,.btn.submit_btn:focus,.get_it_btn:hover,.get_it_btn:focus,.work_us_btn:hover,.work_us_btn:focus {
+    color: #fff;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    font-size: 24px;
+    height: 48px;
+    margin-left: 6px;
+    padding: 6px 15px;
+        padding: 6px 26px;

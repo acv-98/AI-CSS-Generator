@@ -1,0 +1,6 @@
+    position: relative;
+    width: 100%;
+    float: left;
+    overflow: visible;
+    margin-bottom: 33px;
+    top: -3px;

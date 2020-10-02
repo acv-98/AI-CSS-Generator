@@ -1,0 +1,5 @@
+	margin:0;
+	padding:10px 20px 5px 0;
+	text-align:right;
+	font:normal 60px/12px Arial, Helvetica, sans-serif;
+	color:#d9d9d9;

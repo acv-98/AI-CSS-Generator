@@ -1,0 +1,29 @@
+	width:680px;
+ font-size: 48px; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: 400;  font-size: 48px; font-family: 'Oswald', sans-serif; color: #ea7206; font-style: normal; font-weight: 400;  font-size: 14px; font-family: 'Droid Sans', sans-serif; font-style: normal; font-weight: 400;  font-size: 13px; font-family: 'Droid Sans', sans-serif; color: #585555; font-style: normal; font-weight: 400;  font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #000; font-style: normal; font-weight: 400;  font-size: 17px; font-family: 'Rokkitt', sans-serif; color: #ffffff; font-style: normal; font-weight: 400;  font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #ffffff; font-style: normal; font-weight: 400;  font-size: 24px; font-family: 'Shadows Into Light', sans-serif; color: #ffffff; font-style: normal; font-weight: 400;  font-size: 14px; font-family: 'Maven Pro', sans-serif; color: #ffffff; font-style: normal; font-weight: 400;  font-size: 14px; font-family: 'Maven Pro', sans-serif; color: #ffffff; font-style: normal; font-weight: 400;  border-color: #eeeeee;     margin: -23px auto 0;
+    position: relative;
+width: 100%;.slider_cycle .slide-title h2, .slider_cycle .slide-title h2 span {
+    font-size: 48px;
+    line-height: 60px;
+    color: #282627;
+ color: #ea7206; .slider_cycle .slide-content {
+ color: inherit !important; font-size: 14px; #yit-widget-area {
+    z-index: 1001;
+    top: -90px;
+    overflow: hidden
+ margin-left:-20px; margin-right:-20px; width: auto !important;  color: inherit;     margin-left:-20px;
+    margin-right:-20px;
+	float:left;
+	margin-top:2px;
+padding:0; margin-top:-22px;z-index:5; margin-left:-20px; margin-right:-20px; width: auto !important; 	position: relative;
+	max-width:100%;
+	overflow: hidden;
+	height:100%;
+    display:none !important;
+ position:relative; z-index:10; width:100%; margin-top:-22px;  display:none !important;     .responsive .slider.fixed-image.inner {
+        max-width: 100%;
+        padding: 0;
+ margin:-22px -20px 0; 	
+ width: 96.5% !important; padding:1.5%;  max-width:90%;  margin-left:22px;  margin-top:0;  right:0;     
+ float:left; width:220px; margin-right:20px !important;  width:201px;  width:260px;  width:18px;  margin-top:-22px !important;  margin-left:-20px !important; margin-right:-20px !important;  list-style:none; margin:0; padding-top:20px; display:block;  margin-bottom:40px; position: relative; padding:0  clear:both  display:block; overflow:hidden; position:relative; margin-bottom: 10px; border: 6px solid #eee  border: 6px solid #F29A03  padding-bottom: 10px; border-bottom: 2px solid #eee; font-size:16px; margin-bottom:15px; font-size:1em  display:block  background:none; height: auto; margin-bottom:30px; margin-left:auto; margin-right:auto;  margin-right:12px; position:relative; width:68px;  width:60px; max-width:none; vertical-align:baseline; padding:3px; border:1px solid #CFCFCF; opacity:0.6; filter: alpha(opacity=60);  cursor:pointer; border-color:#CFCFCF; opacity:1; filter: alpha(opacity=100); position:absolute;bottom:2px;padding-left:10px;padding-bottom:5px;padding:10px;text-align:center;padding-top:25px; margin-top:10px; margin-left:30px;  position:relative; margin-top:20px;  width:30px; height:16px; position:absolute; top:50%; margin-top:-8px;  left:0;  right:0;  cursor:pointer; .slider.thumbnails .showcase-thumbnail-button-backward .showcase-thumbnail-horizontal span, 
+ display:block; width:11px; height:16px; background:url('../images/slider-thumbnails-arrows.png') no-repeat; text-indent:-9999px;  background-position:left top;  background-position:right top; float:right; background-image:url("../images/white-opacity-80.png");bottom:10px;color:#000000;display:none;left:10px;margin:10px;padding:8px 15px;position:absolute;right:10px;text-align:left; font-size:24px; margin:0; padding:0;  background-image: url("../images/plus.png"); background-repeat: no-repeat; position: absolute; bottom: -40px; background-position:-32px 0;background-color:#fff;color:#000;text-align:center;padding:5px 8px;background-image:url('../images/white-opacity-80.png'); width:auto; height:auto; border:0 !important; padding:0; display:block; max-width:100%; height:auto !important;  height: auto !important;  max-width:95%; @media (min-width: 768px) and (max-width: 979px)  { 
+ margin-right:9px;  margin-left:18px; margin-top:0; 

@@ -1,0 +1,13 @@
+	font-size: 1em;
+	font-family: Verdana, Arial, sans-serif;
+	color: #fff;
+	line-height: 1.6;
+	width: 360px;
+	height: 30px;
+	top: 0;
+	left: 0;
+	border-right: 1px solid rgb(36,37,38);
+	padding: 1px;
+	background: url("jplayer-black-and-yellow.png") 0 -192px repeat-x ;
+    width: 200px;
+    left: 181px;

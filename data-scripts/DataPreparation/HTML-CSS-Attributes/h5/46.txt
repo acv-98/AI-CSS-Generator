@@ -1,0 +1,7 @@
+  margin: 0 0 5px;
+   font-size: 18px;
+padding-top: 8px;
+margin-bottom: 11px;
+color: #050505;
+font-weight: bolder;
+margin:0 auto

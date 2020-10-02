@@ -1,0 +1,2 @@
+  background: url(../img/divider-line.png) no-repeat center center;
+  height: 51px;

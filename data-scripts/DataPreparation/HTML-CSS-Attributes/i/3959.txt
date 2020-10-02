@@ -1,0 +1,1 @@
+ padding: 11px 15px; width: 55px; height: 55px; display: none; font-size: 31px;  display: block; 

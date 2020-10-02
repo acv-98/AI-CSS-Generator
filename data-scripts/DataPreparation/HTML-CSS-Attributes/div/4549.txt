@@ -1,0 +1,7 @@
+    height: 405px;
+    width: 100%;
+    margin-left: 5px;
+    margin-top: 5px;
+    background: yellow;
+        width: 27%;
+        height: auto;

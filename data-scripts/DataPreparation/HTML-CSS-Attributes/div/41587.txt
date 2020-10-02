@@ -1,0 +1,8 @@
+	text-shadow: 0px 0px 10px rgba(93, 111, 123, 0.9);
+	color: rgba(93, 111, 123, 0);
+	opacity: 0.5;
+	font: 18px/19px 'Dosis', sans-serif;
+	margin-bottom: 7px;
+	padding-bottom: 1px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;

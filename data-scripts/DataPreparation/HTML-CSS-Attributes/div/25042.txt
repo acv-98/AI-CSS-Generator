@@ -1,0 +1,13 @@
+	text-align:center;
+	width:45%;
+	display:inline-block;
+    font-size: 14px;
+	
+    padding-left:0px;
+    border: 0px solid #ccc;
+    border-radius: 4px 0px 0px 4px;
+    background: #bd9e6f;
+    color: #fff;
+    margin-left: -4px;
+    height: 34px;
+    outline: none;

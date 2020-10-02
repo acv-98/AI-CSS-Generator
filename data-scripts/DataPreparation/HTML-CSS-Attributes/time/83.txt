@@ -1,0 +1,10 @@
+  position: relative;
+  top: -2px;
+  display: block;
+  float: left;
+  color: #323045;
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 30px;
+  min-width: 103px;
+  margin-bottom: 10px;

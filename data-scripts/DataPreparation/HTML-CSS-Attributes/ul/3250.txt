@@ -1,0 +1,16 @@
+  border: solid 1px #DDDDDD;
+  margin-left: 0;
+    list-style: none;
+    background-color: #333333;
+    color: #EEEEEE;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
+    padding: 0.9375rem 1.25rem;
+    border-bottom: dotted 1px #DDDDDD;
+    line-height: 1.4;
+font-family:"/5.5.3/" * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS and IE text size adjust after device orientation change,
+ *    without disabling user zoom.
+html {
+ margin-bottom:20px;font-family: 'ProximaNovaSemibold', Arial, Helvetica, sans-serif; font-size:26px; color:#fff;font-family: 'ProximaNovaSemibold', Arial, Helvetica, sans-serif;

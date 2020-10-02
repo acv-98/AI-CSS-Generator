@@ -1,0 +1,10 @@
+  margin: 0 auto 30px;
+  padding: 0;
+  display: inline-block;
+  list-style: outside none none;
+  background: #f6b20e none repeat scroll 0 0;
+  border-radius: 10px;
+  color: hsl(0, 0%, 100%);
+  font-size: 14px;
+  font-weight: 300;
+  text-align: center;  text-align: center;

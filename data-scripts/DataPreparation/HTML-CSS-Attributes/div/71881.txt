@@ -1,0 +1,4 @@
+	width:960px;
+	margin:0 auto;
+	overflow:hidden;
+	padding:19px 0 18px;

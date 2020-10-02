@@ -1,0 +1,7 @@
+	border:none;
+	font:normal 11px Tahoma, Arial, Helvetica, sans-serif;
+	padding:3px 0 0 0;
+	background:none;
+	Width:158px;
+	height:18px;
+	color:#aeb2b6;

@@ -1,0 +1,18 @@
+	position:absolute;
+	top:33px;
+	left:0;
+	display:none;
+	width:152px;
+	height:100%;
+	z-index:5;
+	background:url(images/dd-bg.png) repeat-y 0 0;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	padding-top:5px;
+	padding-left:17px;
+	float:none;
+	padding-bottom:10px;
+	margin:0;
+	color:#6c6c6c;
+	text-align:left;

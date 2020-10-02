@@ -1,0 +1,7 @@
+  color:#f32e59 !important;
+    margin:0 0 1rem;
+    line-height: 1;
+    padding:0;
+    font-size: 44px;
+    margin-bottom: 0;
+    padding-bottom: 0;

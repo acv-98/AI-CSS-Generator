@@ -1,0 +1,10 @@
+	background:url(../images/quote-left.gif) no-repeat left top;
+	padding-top: 10px;
+	padding-left: 40px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	font-size:11px;
+	margin-bottom:15px;
+	padding-right: 40px;
+	padding-bottom: 10px;

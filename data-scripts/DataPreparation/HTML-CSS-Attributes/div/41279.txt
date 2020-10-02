@@ -1,0 +1,33 @@
+   position: relative;
+   margin-bottom: 6px;
+ padding-right: 16.66667%;  font: 31px/42px raleway-bold, sans-serif; #journal .entry-header .permalink {
+   top: 18px;
+   right: 60px;
+   z-index: 999999;
+   color: #fff;
+   display: block;
+   text-align: center;
+   background-color: #9199A1;
+   width: 48px;
+   height: 48px;
+   padding: 0;
+	border-radius: 100%;
+   -webkit-transition:all .3s ease-in-out;
+   -moz-transition:all .3s ease-in-out;
+   -o-transition:all .3s ease-in-out;
+   transition:all .3s ease-in-out;
+   font-size: 24px;
+   line-height: 48px;
+ color: #313131; .post .entry-header h1 a:hover,
+ color: #11ABB0; .post .post-meta {
+ display: none;    #journal .entry-header .entry-title,
+   #journal .entry .post-content {
+     width: 75%;
+     padding-right: 30px;
+ text-align: center;       display: none;
+      z-index: 1;
+      padding: 0 30px;
+      margin-bottom: 6px;
+      right: 0;
+      text-align: center;
+ font: 32px/42px raleway-semibold, sans-serif; 

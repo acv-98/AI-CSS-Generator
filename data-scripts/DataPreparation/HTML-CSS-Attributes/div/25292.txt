@@ -1,0 +1,1 @@
+ background: #fcfcfc url(images/main.png) repeat-x 0 0; padding-top: 45px; padding-bottom: 40px;  position: relative;  background: url(images/main-arr.png) no-repeat 0 0; width: 19px; height: 11px; position: absolute; top: -46px; left: 18px;  padding-bottom: 26px;  padding-bottom: 34px; 

@@ -1,0 +1,7 @@
+	background: url('../img/header-01.jpg') no-repeat;
+	background-size: cover;
+	height: 300px;
+	padding: 60px 80px;
+	position: relative;
+	border-bottom: 10px solid #076599;
+ height: 400px;  height: 500px; 

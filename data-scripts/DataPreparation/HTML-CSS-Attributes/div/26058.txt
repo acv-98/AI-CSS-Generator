@@ -1,0 +1,13 @@
+  color: #fff;
+  display: inline;
+  float: left;
+  padding: 25px 0;
+  text-align: center;
+  width: 100%;
+  font-family: "Tangerine", cursive;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 40px;
+  margin-bottom: 15px;
+  margin-top: 10px;
+  letter-spacing: 1.5px;

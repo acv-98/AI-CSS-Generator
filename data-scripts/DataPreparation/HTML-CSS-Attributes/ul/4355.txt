@@ -1,0 +1,12 @@
+		color: #FFF;
+		font-size: 20px;
+		padding: 10px;
+		border: none;
+		margin-top: 0px;
+		width:245px;
+		text-align:center;
+		display:block; 
+		overflow:hidden
+		height:42px;
+		line-height:42px;
+		float:left

@@ -1,0 +1,12 @@
+ color: black; 
+.cd-hero-slider .tm-text { 
+	font-size: 1em;
+	line-height: 1.8; 
+	background-color: white; 
+	color: black;
+	width: 50%;
+	height: 126px;
+	position: absolute;
+	top: -10px;
+	left: -15px;
+	z-index: -1;

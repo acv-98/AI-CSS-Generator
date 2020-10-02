@@ -1,0 +1,15 @@
+float: right; display: inline;
+width:623px; background:url(images/box-rep.gif) repeat-y;  margin-bottom:8pxfloat: left; display: inline; width:302px; padding-left:8px; padding-top:5pxmargin-bottom:10px;  width:143px; margin-bottom:20px; float: left; display: inline;width:294px; position:relative; z-index: 1; float:left; display: inline;#main .box .holder a.play{
+	width:29px; 
+	height:29px; 
+	position:absolute; 
+	top:57px; 
+	left:57px;
+	z-index: 10; 
+	display: block; 
+	background:url(images/play.png); 
+	text-indent: -4000px; 
+	line-height: 0; 
+	font-size: 0;
+	cursor:pointer;
+position:absolute; top:284px; left:44px; z-index: 10; height:84px; background:url(images/dot.png); width:245pxfont-family: "trebuchet ms", sans-serif; font-size: 23px; color:#00a2ff; text-transform: uppercase; line-height: 25px; padding:10px 0 0 13px; display: block;display: block; border:solid 1px #dedede; padding:4pxwidth:623px; background:url(images/box-top.gif) no-repeat; width:612px; background:url(images/box-bottom.gif) no-repeat 0 bottom; padding-top:12px; padding-left:11px; padding-bottom:10px

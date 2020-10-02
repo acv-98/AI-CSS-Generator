@@ -1,0 +1,5 @@
+  font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 1px;
+    opacity: 0.6;

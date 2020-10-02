@@ -1,0 +1,16 @@
+	margin-top:50px;
+	margin-left:50px;
+  color: #c09853;
+  background-color: #fcf8e3;
+  border-color: #c09853;
+  display: inline-block;
+  width: auto;
+  height: 20px;
+  min-width: 16px;
+  padding: 4px 5px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 20px;
+  text-align: center;
+  text-shadow: 0 1px 0 #ffffff;
+ position: absolute; top: 9px; background: transparent; border: 0px; z-index: 10; right: 2%;   right: 5px;  position: absolute; top: 5px; right: 1%;  right: 15px;     background: url("../images/icons/bullet/add.png") no-repeat scroll left center transparent;

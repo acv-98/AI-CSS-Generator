@@ -1,0 +1,13 @@
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	z-index: 1;
+	content: '';
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	left: 0;
+	top: 0;
+	background-image: url(../images/2.jpg);
+	background-position-x: 85%;
+	display: none;

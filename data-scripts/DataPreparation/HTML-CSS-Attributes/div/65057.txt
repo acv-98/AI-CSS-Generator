@@ -1,0 +1,4 @@
+	display: block;
+	height: 3px;
+	background: url(../images/divider_hor.jpg) repeat-x;
+	margin: 0 2px 25px 0;

@@ -1,0 +1,21 @@
+  float: none;
+  min-width: 74px;
+  margin-right: 0;
+  margin-bottom: 3px;
+  margin-left: 19px;
+  border-left: 1px solid #ddd;
+  -webkit-border-radius: 0 4px 4px 0;
+     -moz-border-radius: 0 4px 4px 0;
+          border-radius: 0 4px 4px 0;
+  border-color: #eeeeee #eeeeee #eeeeee #dddddd;
+  *border-left-color: #ffffff;
+  outline:0;
+  font-size:13px;
+font-weight:600;
+  background:#eee;
+    border-left:1px solid #f5f4f2;
+	margin-right:0;
+	border-left:1px solid #ddd;
+	
+  padding:0 20px 0 0;
+  overflow:hidden;

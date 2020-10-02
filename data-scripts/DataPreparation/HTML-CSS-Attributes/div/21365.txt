@@ -1,0 +1,4 @@
+  position: absolute;
+  bottom: 1.875rem !important;
+  text-align: center;
+  z-index: 1;

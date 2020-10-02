@@ -1,0 +1,10 @@
+	float: left;
+	margin-left: 20px;
+	width: 256px;
+	padding: 20px 20px 0;
+	background: url(../images/footer_box.png) no-repeat;
+	color: #b3b3b3;
+	font-weight: normal;
+ margin: 20px 0; padding: 0; list-style: none;  background: url(../images/footer_list.png) no-repeat scroll 0 3px; margin: 0 0 10px; padding: 0 0 3px 15px; 	line-height: 1em;  color: #8e8e8e; text-decoration: underline; font-weight: normal;  text-decoration: none; #footer {
+	clear: both;
+	text-align: center;

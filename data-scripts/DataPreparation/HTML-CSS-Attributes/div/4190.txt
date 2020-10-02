@@ -1,0 +1,5 @@
+.single_team_name h4{
+	font-size:17px;
+	color:#333b46;
+	font-family:'Roboto';
+	font-weight:500;

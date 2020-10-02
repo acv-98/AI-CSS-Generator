@@ -1,0 +1,18 @@
+	list-style: none;
+	width: 960px;
+	margin:0 auto;
+	overflow:hidden;
+	float: left;
+	position: relative;
+	padding-left:12px;
+	text-decoration: none;
+	color: #fff;
+	background:url(../images/tabs-a.png) right top no-repeat;
+	display: block;
+	height:57px;
+	text-align:center;
+	font-size:14px;
+	line-height:57px;
+	font-weight:bold;
+	text-transform:uppercase;
+	background-position:left top;

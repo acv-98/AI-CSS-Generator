@@ -1,0 +1,4 @@
+	width:2px;
+	height:26px;
+	float:left;
+	background:url(../images/audio-sprite.png) -40px 0 no-repeat;

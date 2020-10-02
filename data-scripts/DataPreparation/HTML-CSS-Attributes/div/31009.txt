@@ -1,0 +1,8 @@
+    margin-top: 55px;
+    width: 500px;
+    height: 360px;
+    margin-left: 50px;
+    -moz-box-shadow: 0 1px 5px 0 rgba(0,0,0,.2);
+    -webkit-box-shadow: 0 1px 5px 0 rgba(0,0,0,.2);
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,.2);
+ width: 85%; height: 300px;  width: 80%; height: 200px;  width: 360px; height: 200px; margin-left: auto; margin-right: auto;  width: 100%; height: 100%; margin: 0;  width: 320px; height: 160px; 

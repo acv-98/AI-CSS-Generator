@@ -1,0 +1,3 @@
+	width: 100%;
+	height:285px;
+	background:url(../img/bkg_bottom_content.png);

@@ -1,0 +1,3 @@
+	width: 300px;
+	height: 15px;
+	background: url(images/box_01_bottom.jpg) no-repeat;

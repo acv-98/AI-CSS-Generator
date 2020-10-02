@@ -1,0 +1,18 @@
+  vertical-align: middle;
+  float: left;
+  line-height: 0;
+  padding: 35px 10px;
+  color: #130d08;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+  outline: none;
+  text-decoration: none;
+  text-align: center;
+  width: 19.33%;
+  font-size: 40px;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-style: italic;
+  position: relative;
+  top: -5px;

@@ -1,0 +1,4 @@
+    position: relative;   
+    margin-bottom: 40px;
+    max-height: 165px;
+    width:100%;

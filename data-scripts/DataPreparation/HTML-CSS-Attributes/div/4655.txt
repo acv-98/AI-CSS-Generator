@@ -1,0 +1,10 @@
+	margin:0;
+	padding:0;
+	float:right;
+	width:500px;
+	list-style:none;
+	background:url(images/r_menu.gif) no-repeat right;
+	font:normal 13px Arial, Helvetica, sans-serif;
+	color:#878989;
+	display:block;
+	text-decoration:none;

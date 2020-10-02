@@ -1,0 +1,13 @@
+  position: relative;
+  margin-bottom: 60px;
+  top: 15px;
+  left: 0;
+  font-size: 50px;
+  color: #FF5722;
+  padding: 15px;
+  background: rgba(0, 0, 0, 0.1);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  padding-left: 100px;

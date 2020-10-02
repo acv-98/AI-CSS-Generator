@@ -1,0 +1,11 @@
+	bottom:-13px;
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/btn-arrow.png', sizingMethod='image');
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	width:32px;
+	height:17px;
+	position:absolute;
+	left:40%;
+	background-position:0 0;

@@ -1,0 +1,7 @@
+	width:960px;
+	float:left;
+	margin-top:15px;
+	padding-bottom:35px;
+	border-right:1px dashed #B6B7B7;
+	padding-right:29px;
+	margin-right:29px;

@@ -1,0 +1,6 @@
+	font-size: 24px;
+	padding: 10px 20px;
+    margin: 15px 0;
+	text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;

@@ -1,0 +1,9 @@
+    color: #fff;
+    font-size: 24px;
+    margin-right: 20px;
+    padding: 0;
+    list-style: none;
+    float: left;
+    width: 100%;
+	margin:0;
+float:left;.social-links li {

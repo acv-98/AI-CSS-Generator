@@ -1,0 +1,15 @@
+	width:960px;
+	height:100px;
+	background:url(../images/menu-bg.png) no-repeat;
+	margin:0 auto;
+	text-align:center;
+	clear:both;
+	list-style:none;
+	display:inline;
+	color:#c6bca5;
+	font-size:14px;
+	text-decoration:none;
+	padding-left:30px;
+	padding-right:30px;
+	line-height:130px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);

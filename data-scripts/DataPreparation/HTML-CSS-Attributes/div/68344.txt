@@ -1,0 +1,15 @@
+  position: relative;
+  padding-bottom: 51.3598327%;
+  left: 0;
+  right: 0;
+  top: 30%;
+  text-align: center;
+  display: inline-block;
+  overflow: hidden;
+  font-family: 'Yesteryear', cursive;
+  font-size: 200px;
+  line-height: 220px;
+  font-weight: 400;
+  color: #ffffff;
+    top: 60px;
+    padding-bottom: 480px;

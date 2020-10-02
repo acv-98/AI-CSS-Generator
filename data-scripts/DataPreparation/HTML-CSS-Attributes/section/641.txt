@@ -1,0 +1,17 @@
+        top: -150px;
+        display: none;
+    background: url(../images/background/testimonial.jpg) no-repeat center center;
+    background-size: cover;
+    position: relative;
+    width:90%;
+    margin: 0 auto;
+    border:1px solid #fff;
+    height: 45px;
+    line-height:  45px;
+    text-align: center;
+    color:#fff;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    left:-6%;
+    right:-6%;

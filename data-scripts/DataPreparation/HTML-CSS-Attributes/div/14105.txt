@@ -1,0 +1,7 @@
+  text-align: center;
+  font-size: 36px;
+  color: #1b1b1b;
+  font-weight: 300;
+  padding-bottom: 90px;
+  margin-top: 0;
+  margin-bottom: 60px;

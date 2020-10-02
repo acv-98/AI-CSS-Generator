@@ -1,0 +1,11 @@
+	position:relative;
+	height:2px;
+	background:#333;
+	width:40px;
+	display:block;
+	margin:15px 0;
+	content: ' ';
+	left:0;
+	right:0;
+	top:-6px;
+	bottom:-6px;

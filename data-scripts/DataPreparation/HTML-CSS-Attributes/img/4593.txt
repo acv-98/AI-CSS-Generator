@@ -1,0 +1,6 @@
+	margin: 0 auto 10px;
+	display: inline-block;
+  	width: 100%;
+  	height: auto;
+  	border: 10px solid #ffffff;
+  	margin: 0 auto;

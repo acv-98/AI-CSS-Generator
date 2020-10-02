@@ -1,0 +1,22 @@
+	position:absolute;
+	bottom:40px;
+	background:rgba(34,182,244, .6);
+	padding:30px;
+	width:85%;
+	border:1px solid #cdcaca;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	margin-bottom:30px;
+	-ms-border-radius:5px;
+	box-shadow:1px 1px 1px 0 rgba(55,50,40, .10);
+	-webkit-box-shadow:1px 1px 1px 0 rgba(55,50,40, .10);
+	-moz-box-shadow:1px 1px 1px 0 rgba(55,50,40, .10);
+	-ms-box-shadow:1px 1px 1px 0 rgba(55,50,40, .10);
+	
+	font-size:36px;
+	color:#fff;
+	font-family: 'latobold';
+    padding: 14px 70px;
+    color: #72b3cc;
+	background#fff;

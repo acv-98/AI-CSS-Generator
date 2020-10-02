@@ -1,0 +1,12 @@
+	float:left;
+	background:url(../images/sprite.png) no-repeat 0 -156px;
+	width: 135px; 
+	height: 33px;
+	padding:0 0 3px;
+	margin:-1px 0 0 17px;
+	border:none;
+	cursor:pointer;
+	font:18px/33px 'ProximaNovaRgBold', Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-shadow: 1px 2px 0 #0162a0;
+cursor:pointer;

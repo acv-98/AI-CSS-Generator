@@ -1,0 +1,7 @@
+	background-color:#af9aae;
+	margin-top:-4px;
+	padding:36px 52px 34px
+	color:#fff;
+	margin-bottom:28px
+	padding-top:38px;
+	font:24px/30px Economica,sans-serif

@@ -1,0 +1,1 @@
+ overflow:hidden; width:900px; padding:30px; background:#ffffff; margin-top:30px; overflow:hidden; width:900px; padding:30px; background:#ffffff; margin-top:30px; font-size:16px; font-weight:normal; color:#b6b6b6; padding-bottom:20px; border-bottom:1px solid #ebebeb; margin-bottom:30px; padding-top:10px;

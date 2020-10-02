@@ -1,0 +1,5 @@
+    overflow: hidden;
+    padding-top: 300px;
+    padding-bottom: 230px;
+    position: relative;
+    z-index: 1;

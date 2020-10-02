@@ -1,0 +1,19 @@
+	width: 100%; 
+	padding-top: 0;
+	padding-bottom: 0;
+	font-size: 1.8rem;
+	font-weight: 700;
+ color: black; .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(238, 80, 87, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+	border-color: rgb(238, 80, 87); 
+	cursor: pointer;
+ padding: 50px 35px; .tm-top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0;
+    z-index: 10000;
+    transition: all 0.2s ease-in-out;
+    height: 119px;
+ padding: 30px 35px; 	    padding: 12px 15px;

@@ -1,0 +1,6 @@
+ font-weight:bold; font-size: 14px; line-height: 16px;  font-style:normal;  color:#cc0000; text-decoration:none;  color:#000;  background: #fff; border:1px solid #aaa; padding: 5px; left:7px; position:absolute; top:7px;  padding:0 170px 0 0; 
+Image floats for posts
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;

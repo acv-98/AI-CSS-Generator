@@ -1,0 +1,9 @@
+	font-size: 1.4rem;
+    font-weight: 300;
+    padding: 0.9rem 3rem;
+    border-radius: 0;
+    background-color: #E3D4A9;
+    border-color: #917D33;
+    color: #655623;
+	background-color: #655623;
+	color: #E3D4A9;

@@ -1,0 +1,6 @@
+		margin-top: 15px;
+		font-size: 22px;
+.inner-column h1{
+	font-family: 'Arbutus Slab', serif;
+	color: #010101;
+	font-weight: 500;

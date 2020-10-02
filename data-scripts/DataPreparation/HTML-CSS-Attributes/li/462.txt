@@ -1,0 +1,2 @@
+	background-position:left 0;
+	color:#01a5ca;

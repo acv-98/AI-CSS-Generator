@@ -1,0 +1,1 @@
+float:left; margin-right:20px; position:relative;width:620px;

@@ -1,0 +1,2 @@
+  content: "\f0d2";
+	color:#cb2026;

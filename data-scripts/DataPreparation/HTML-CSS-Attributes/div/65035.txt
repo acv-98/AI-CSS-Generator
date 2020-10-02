@@ -1,0 +1,15 @@
+	height: 100px;
+	top: 100px;
+	line-height: 100px;
+	font-size: 1.5em;
+	position: absolute;
+	width: 100%;
+	left: 0;
+	background: url(images/img01.jpg) repeat;
+	color: #aaa;
+	text-align: center;
+	text-shadow: -1px -1px 1px rgba(0,0,0,1);
+	border: solid 1px #001916;
+	margin-left: 0.8em;
+	padding: 0.75em 1.5em 1em 1.5em;
+	display: block;

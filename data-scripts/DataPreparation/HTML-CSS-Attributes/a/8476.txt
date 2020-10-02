@@ -1,0 +1,11 @@
+	border-color: #fff;
+	color: #fff;
+	padding: 10px 25px;
+	display: inline-block;
+	background-color: #0ba2db;
+	margin-right: 5px;
+	font-size: 16px;
+	border-radius: 2px;
+	transition: all 0.3s ease-in-out;
+	text-transform: uppercase;
+	box-shadow: none;

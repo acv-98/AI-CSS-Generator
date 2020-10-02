@@ -1,0 +1,6 @@
+    height: 293px;
+    width: 811px;
+    overflow: auto;
+    overflow-x: hidden;
+    position: relative;
+    clear: left;

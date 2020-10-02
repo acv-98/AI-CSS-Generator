@@ -1,0 +1,4 @@
+	background:url("../design/transparent.png");
+	font-weight:bold;
+	text-decoration:none;
+	color:#555;

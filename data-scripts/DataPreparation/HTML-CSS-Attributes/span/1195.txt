@@ -1,0 +1,2 @@
+	background:url(images/pagenavibg.png) no-repeat;
+	color:#000;

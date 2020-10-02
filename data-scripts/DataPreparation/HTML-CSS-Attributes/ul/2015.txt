@@ -1,0 +1,44 @@
+	z-index:990;
+	text-align:center;
+	position:relative
+	top:-999px;
+	display:none
+	float:none;
+	font-weight:300;
+	font-size:24px;
+	line-height:52px
+	margin-left:68px
+	content:'';
+	background-color:#818080;
+	height:5px;
+	width:1px;
+	left:-35px;
+	color:#000;
+	bottom:15px;
+	pointer-events:none;
+	border-style:solid;
+	border-width:3px 3px 0;
+	border-color:#fff transparent transparent
+  	float: none;
+  	position: static;
+	text-transform: uppercase;
+	-moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: 'FontAwesome';
+	padding: 17px 0 21px;
+	margin-top: 0;
+	padding-top: 19px;
+	padding-bottom: 19px;
+			left: 0;
+			top: 100%;
+			margin-top: 5px;
+display:none !important; float: none;	.select-menu {
+		font:12px/15px Arial, Helvetica, sans-serif;
+		color:#202020;
+		width:100%;
+		float: none;
+	    outline: none;
+	    display: block !important;
+		border: 2px solid #333;

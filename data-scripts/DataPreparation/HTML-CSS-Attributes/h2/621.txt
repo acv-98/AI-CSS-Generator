@@ -1,0 +1,4 @@
+ width:auto; height:36px; padding-left:45px; padding-bottom:0.5em;  background:url('../img/featured_icon_rss.png') no-repeat left top; 
+      .tweet,
+      .query {
+        color: #333;

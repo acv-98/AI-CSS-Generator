@@ -1,0 +1,10 @@
+	padding: 9px 10px 6px;
+	height: 16px;
+	background: transparent url(../images/search.png) no-repeat top right;
+	width: 180px;
+	border: 0;
+	font-family: 'Droid Serif', serif;
+	font-style: italic;
+	font-size: 11px;
+	color: #f0f0f0;
+	float: right;

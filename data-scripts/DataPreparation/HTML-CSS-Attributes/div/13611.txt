@@ -1,0 +1,15 @@
+ background-color: #F8F7F7; border-color: #F2F0F0;  font-size: 20px; font-family: 'Open Sans', sans-serif; color: #0C243D; font-style: normal; font-weight: 400;  font-size: 16px; font-family: 'Open Sans', sans-serif; color: #0C243D; font-style: normal; font-weight: 400;  width: 90%;  width: 100%;  width: auto; #ie8 .features-tab-content div.call-three .newsletter-call3 {	
+	width: 405px;
+	float: none;
+ width:100% !important;  width: auto;  padding-right: 10px;  float: none; width: 100%;  float: none;     width: 96%;
+    border: 2px solid #f2f0f0;
+    border-left: 6px solid #f2f0f0;
+    background-color: #f8f7f7;
+    clear: both;
+    position: relative;
+    margin-bottom: 20px;
+    display: table;
+    padding: 30px 35px 30px 10px;
+    float: left;
+    line-height: 1.0em;
+    font-weight: normal;

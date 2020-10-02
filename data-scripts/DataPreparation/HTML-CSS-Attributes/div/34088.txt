@@ -1,0 +1,2 @@
+    background-color: rgba(54, 57, 66, 0.75);
+    position: relative;

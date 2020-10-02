@@ -1,0 +1,24 @@
+    width: 100%;
+    margin-left: 0;
+    float: none;
+    display: block;
+    *zoom: 1;
+    content: "";
+    clear: both;
+.nav-collapse * Bootstrap v2.0.0
+ *
+ * Copyright 2012 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * Designed and built with all the love in the world @twitter by @mdo and @fat.
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section {
+margin-left:-20px;*zoom:1;clear:both;width:100%;*zoom:1;clear:both;float:left;margin-left:2.127659574%;margin-left:0;width:6.382978723%;width:14.89361702%;width:23.404255317%;width:31.914893614%;width:40.425531911%;width:48.93617020799999%;width:57.446808505%;width:65.95744680199999%;width:74.468085099%;width:82.97872339599999%;width:91.489361693%;width:99.99999998999999%;

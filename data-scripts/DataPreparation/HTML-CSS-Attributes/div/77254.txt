@@ -1,0 +1,14 @@
+	overflow: hidden;
+	padding: 0 25px 15px 25px;
+	background: #f3f3f3;
+	-moz-border-radius: 4px 4px 0 0;
+	-webkit-border-radius: 4px 4px 0 0;
+	border-radius: 4px 4px 0 0;
+	text-align: left;
+	float: left;
+	width: 75%;
+	padding-top: 32px;
+	margin-top: 0;
+	font-size: 66px;
+	color: #ddd;
+	line-height: 100px;

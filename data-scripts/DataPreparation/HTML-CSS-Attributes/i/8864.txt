@@ -1,0 +1,2 @@
+  content: "\f17d";
+  color: #EA4C89 ; 

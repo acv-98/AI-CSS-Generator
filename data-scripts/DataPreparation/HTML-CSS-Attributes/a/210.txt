@@ -1,0 +1,11 @@
+  background: #26253a;
+  border: none;
+  border-radius: 0px;
+  color: #999;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  padding: 16px 38px;
+  margin-top: 28px;
+  transition: all 0.4s ease-in-out;
+  text-transform: uppercase;

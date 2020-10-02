@@ -1,0 +1,4 @@
+ color: rgba(255,255,255,0.85) !important;  color: rgba(255,255,255,0.85) !important;  color: rgba(255,255,255,0.85) !important;  color: rgba(255,255,255,0.85) !important;  color: rgba(255,255,255,0.85) !important; 			
+		table
+		{
+			width: 100%;

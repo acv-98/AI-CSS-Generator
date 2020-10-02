@@ -1,0 +1,10 @@
+	float:left;
+	width:300px;
+	margin-right:10px;
+	height:38px;
+	font-size:27px;
+	color:#fff;
+	padding:7px 0 0 12px;
+	background:#E37A1C url(images/bg_package_bronze.png) repeat-x top;
+	text-shadow:1px 1px 1px #B6834D;
+	border:1px solid #D97A1C;

@@ -1,0 +1,16 @@
+    background-color: #333333;
+    position: absolute;
+    color: #ffffff !important;
+    top: 70%;
+    font-size: 21px;
+    z-index: 12;
+    left: 0;
+    opacity: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    margin: -20px auto;
+	opacity: 1;
+	top: 50%;

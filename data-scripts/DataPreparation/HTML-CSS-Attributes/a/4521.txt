@@ -1,0 +1,1 @@
+ background:url(images/next.gif); left:910px;

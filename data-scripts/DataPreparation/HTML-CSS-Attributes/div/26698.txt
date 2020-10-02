@@ -1,0 +1,1 @@
+ width: 192px; position: absolute; top: 14px; right: 8px; font-size: 0; line-height: 0;  height: 48px; background: url(images/footer-logo.png) no-repeat 0 0; display: block; text-indent: -4000px; 

@@ -1,0 +1,7 @@
+    margin-top: 15px;
+    font-size: 18px;
+    color: #333333;
+    font-weight: 400;
+    margin-bottom: 10px;
+    list-style-type: decimal;
+       font-size: 14px;

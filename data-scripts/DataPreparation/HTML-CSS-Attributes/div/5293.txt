@@ -1,0 +1,11 @@
+	float: left;
+	width:89.5%;
+	background: #F8F8F8;
+	padding: 1.5% 4%;
+	color: #777;
+	font-size: 0.85em;
+	line-height: 1.8em;
+	margin: 0;
+		width: 81.5%;
+		font-size: 0.8125em;
+		line-height: 1.5em;

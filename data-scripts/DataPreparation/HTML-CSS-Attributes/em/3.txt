@@ -1,0 +1,2 @@
+ width:71px; height:64px; background:url(images/ico3.png)
+#slider-navigation ul li a.active,

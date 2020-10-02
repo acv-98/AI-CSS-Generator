@@ -1,0 +1,15 @@
+  text-align: left;
+  color: #555454;
+  line-height: 50px;
+  padding-bottom: 15px;
+  position: relative;
+  border-bottom: 0.5px solid #f6b20e;
+  bottom: 0;
+  content: "";
+  left: -60px;
+  width: 60%;
+  z-index: 1;
+  font-family: fontawesome;
+  font-size: 16px;
+  top: 38px;
+  display: none;  line-height: 35px;  display: none;  display: none;  line-height: 35px;

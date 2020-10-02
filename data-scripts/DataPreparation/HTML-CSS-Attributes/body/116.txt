@@ -1,0 +1,10 @@
+.contact-form input,
+.contact-form textarea {
+	margin-bottom:32px;
+	
+	font-size:16px;
+	color:#333;
+.contact-widget .email-address .fa,
+.contact-widget .telephone .fa,
+.contact-widget .website .fa {
+.contact-widget .rating .rating-stars .fa {

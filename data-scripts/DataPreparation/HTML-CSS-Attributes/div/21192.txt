@@ -1,0 +1,5 @@
+	padding: 20px;
+	color: #fff;
+	padding-bottom: 16px;
+	font-weight: 600;
+    font-size: 14px;

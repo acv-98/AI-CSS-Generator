@@ -1,0 +1,16 @@
+text-transform: uppercase; cursor: pointer;
+color: #ff7378; margin-top: 10px; width: 700px; overflow: hidden;.comment-photo{float: left; border: 2px solid white; display: block; margin: 0;
+	-webkit-box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.4);
+float: left; width: 645px; margin-left: 20px; font-size: 12px; line-height: 18px; color: #444;color: #444;color: #1fb4dd; cursor: pointer;color: #ff7378;margin-top: 15px;width: 645px; margin-left: 55px; overflow: hidden;width: 590px;	
+width: 700px; margin: 20px 0; border-bottom: 1px solid #efefef; overflow: hidden; width: 628px; height: 20px; margin: 20px 0 20px 72px; border-left: 1px solid #efefef; overflow: hidden;	color: #fff;
+	font-size: 12px;
+	float: right;
+	background: url(../img/black-btn-sprite.png);
+	background-repeat: no-repeat;
+	width: 88px;
+	height: 37px;
+	border: none;
+	margin-right: -5px;
+	overflow: hidden;
+background: url(../img/black-btn-sprite.png) -90px;background: url(../img/black-btn-sprite.png) 88px;10. Sidebar

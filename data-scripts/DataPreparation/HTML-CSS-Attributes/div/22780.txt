@@ -1,0 +1,8 @@
+	width:48px;
+	display:inline;
+	background:url('images/stars.gif') no-repeat 0 bottom;
+	position:absolute;
+	height:11px;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;

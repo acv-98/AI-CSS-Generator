@@ -1,0 +1,7 @@
+	float:left;
+	width:416px;
+	padding: 0 30px 0 33px;
+	overflow:hidden;
+	margin-bottom:21px;
+	border-bottom:#c4d2d7 1px solid;
+	padding-bottom:10px;

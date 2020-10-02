@@ -1,0 +1,6 @@
+  padding-right: 15%;
+  padding-left: 5%;
+  font-size: 14px;
+  color: #747a8f;
+    padding-right: 5%;
+    padding-left: 5%;

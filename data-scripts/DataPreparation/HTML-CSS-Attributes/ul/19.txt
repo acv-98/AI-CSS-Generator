@@ -1,0 +1,13 @@
+	position:absolute;
+	left:430px;
+	top:446px;
+	z-index:99
+	float:left;
+	margin-right:3px
+	display:block;
+	width:18px;
+	height:18px;
+	text-indent:-5000px;
+	background:url(../images/slider-pagination.png) right top no-repeat;
+	background-position:left top
+	cursor:default

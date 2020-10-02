@@ -1,0 +1,11 @@
+	margin:0 auto;
+	padding:0;
+	width:920px;
+	background: url(images/fbg_bg.gif);
+	border-top:1px solid #000;
+	float:left;
+	color:#fff;
+	font:normal 30px Arial, Helvetica, sans-serif;
+	line-height:1.8em;
+	text-decoration:none;
+	list-style:none;

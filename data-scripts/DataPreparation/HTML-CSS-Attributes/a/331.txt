@@ -1,0 +1,4 @@
+  background-size: contain;
+  background-color: #000000;
+  background-position: right center no-repeat;
+  background-attachment: fixed;

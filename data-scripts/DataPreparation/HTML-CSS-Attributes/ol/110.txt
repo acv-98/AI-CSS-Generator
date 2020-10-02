@@ -1,0 +1,10 @@
+    height: 20px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: -35px;
+    width: 100%;
+    left: 0;
+    border-color: #D29948;
+    border-width: 2px;
+    background: rgba(210, 153, 72, 0.7);

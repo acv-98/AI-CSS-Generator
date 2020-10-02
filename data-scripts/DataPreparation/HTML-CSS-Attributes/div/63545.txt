@@ -1,0 +1,2 @@
+ border-radius:16px; -moz-border-radius:16px; -webkit-border-radius:16px;
+ margin:0 auto; padding:0 40px; width:890px; padding:32px 0 24px 40px; width:930px; background-color:#1463b0; border:1px solid #3f83c0;

@@ -1,0 +1,9 @@
+	background-color: rgb(158,158,158); 
+	margin: 0;
+ background-color: #CBCBCB; .carousel-indicators li,
+.carousel-indicators .active {
+	width: 20px;
+	height: 20px;
+ bottom: -50px; .tm-contact-form {
+	overflow: auto;
+	margin-bottom: 50px;

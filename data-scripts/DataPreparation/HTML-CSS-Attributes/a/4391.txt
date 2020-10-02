@@ -1,0 +1,12 @@
+	padding-top: 24px;
+	position:relative;
+	text-align: right;
+	margin: 0 !important;
+	cursor: pointer;
+	min-width: 10px;
+	margin-left: 25px !important;
+	background: url(../images/btn_bg.png) 0 0 repeat-x #f8eebd;
+	display: inline-block;
+	font: 12px/16px 'Headland One', serif;
+	color: #c53d1d;
+	margin-top: 36px;

@@ -1,0 +1,10 @@
+    color: #f1f1f1;
+    text-transform: uppercase;
+	padding-top:45px;
+	padding-bottom:45px;
+	font-size:20px;
+	font-family:'nexa_lightregular';
+	letter-spacing:2px;
+	line-height:0;
+    background-color: transparent;
+    text-align: center;

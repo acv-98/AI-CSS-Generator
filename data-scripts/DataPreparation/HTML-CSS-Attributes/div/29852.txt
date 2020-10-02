@@ -1,0 +1,6 @@
+	display: -webkit-box;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	margin: 0 -15px -30px;
+	cursor: -webkit-zoom-in;

@@ -1,0 +1,8 @@
+	float:right;
+	width:611px;
+	height:251px;
+	position:relative;
+	overflow:hidden;
+	padding-bottom:6px;
+	background:url(images/slider-shadow.png) left bottom;
+	list-style:none;

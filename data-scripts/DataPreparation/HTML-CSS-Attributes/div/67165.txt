@@ -1,0 +1,13 @@
+ float: right; display: inline; width: 220px; font-size: 11px; color: #8f8f8f; line-height: 20px; padding-top: 10px;  text-decoration: none;  line-height: 25px; 
+.a-side-header span.sep { 
+	float: left; 
+	display: inline; 
+	height: 25px; 
+	width: 1px; 
+	background: #ebebeb; 
+	position: relative; 
+	margin: 0 5px; 
+	padding-left: 7px; 
+	font-size: 10px; 
+	line-height: 20px; 
+	color: #4d4d4d;

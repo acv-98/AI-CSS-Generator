@@ -1,0 +1,30 @@
+  width: 940px;
+  margin-right: auto;
+  margin-left: auto;
+  *zoom: 1;
+  display: table;
+  line-height: 0;
+  content: "";
+  clear: both;
+  padding-right: 20px;
+  padding-left: 20px;
+    width: 1170px;
+    padding: 0;
+  height: 0; 
+  visibility: hidden;
+  overflow:hidden; 
+display: block; text-align: left; * html .column, * html div.span-1, * html div.span-2, 
+* html div.span-3, * html div.span-4, * html div.span-5, 
+* html div.span-6, * html div.span-7, * html div.span-8, 
+* html div.span-9, * html div.span-10, * html div.span-11, 
+* html div.span-12, * html div.span-13, * html div.span-14, 
+* html div.span-15, * html div.span-16, * html div.span-17, 
+* html div.span-18, * html div.span-19, * html div.span-20, 
+* html div.span-21, * html div.span-22, * html div.span-23, 
+display: inline-block;* html .clearfix,
+height: 1%;  background: none;
+ padding-left:20px; padding-right:20px;  padding-left:0px; padding-right:0px; width:auto !important;     .boxed #header, .boxed #topbar, .boxed #footer, .boxed #copyright{
+        margin-right: 0;
+        margin-left: 0;
+ padding-left: 20px; padding-right: 20px;  direction: rtl; body .column {
+  float: right;

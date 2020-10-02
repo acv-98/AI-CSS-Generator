@@ -1,0 +1,1 @@
+ border-color: #dfdcdc;  font-size: 11px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  font-size: 11px; font-family: 'Open Sans', sans-serif; color: #3b4752; font-style: normal; font-weight: 400;  font-size: 11px; font-family: 'Open Sans', sans-serif; color: #747605; font-style: normal; font-weight: 400; 

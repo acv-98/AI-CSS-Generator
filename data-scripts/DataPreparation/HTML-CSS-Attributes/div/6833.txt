@@ -1,0 +1,1 @@
+width:300px; float:left; background:#f3f3ee; overflow:hidden;

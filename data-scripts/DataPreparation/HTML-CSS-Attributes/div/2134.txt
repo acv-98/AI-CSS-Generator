@@ -1,0 +1,9 @@
+	height: 30px;
+	top: 0;
+	left: 0;
+	border-right: 1px solid rgb(36,37,38);
+	width: 223px;
+	padding: 1px;
+	background: url("jplayer-black-and-yellow.png") 0 -192px repeat-x ;
+    width: 80px;
+    left: 144px;

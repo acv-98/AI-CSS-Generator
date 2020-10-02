@@ -1,0 +1,6 @@
+ position: absolute; top: 0; right: -10px; width: 85px; .socials a { background: url(images/socials.png) no-repeat 0 0; width: 19px; height: 19px; float: left; font-size: 0; line-height: 0; text-indent: -4000px; margin: -6px 7px 0 0; position: relative;  
+	transition: margin 0.2s;
+	-moz-transition: margin 0.2s;
+	-webkit-transition: margin 0.2s;
+	-o-transition: margin 0.2s;
+ background-position: 0px 0;  background-position: -20px 0;  background-position: -60px 0;  margin-top: 0;  margin-top: 0; position: relative; background: transparent; padding: 8px 65px 8px 57px;  background: url(images/socials.png) no-repeat 0 0; width: 19px; height: 19px; position: absolute; top: 10px; left: 29px;   background-position: 0px 0;  background-position: -20px 0;  background-position: -39px 0;  background-position: -60px 0;  background-position: -79px 0; 

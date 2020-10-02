@@ -1,0 +1,1 @@
+ width: 474px; height: 290px; display: none;  width: 474px; height: 290px; display: block;  width: 363px; height: 225px;  width: 363px; height: 225px;  width: 600px; height: 370px;  width: 600px; height: 370px; 

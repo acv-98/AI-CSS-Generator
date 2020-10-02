@@ -1,0 +1,5 @@
+		float: right;
+		padding: 25px 0;
+			padding: 10px 10px 0;
+			text-align: center;
+				margin: 6px;

@@ -1,0 +1,16 @@
+    font-size: 20px;
+    text-transform: capitalize;
+  display: none;
+  position: relative;
+  color: #0f0f0f;
+  background-color: #ffffff;
+  z-index: 1;
+  top: 50%;
+  margin-top: -12px;
+  left: 10px;
+  content: "\2630";
+  line-height: 1;
+  margin-bottom: 1.65em;
+  cursor: pointer;
+  padding: 10px 20px 10px 40px;
+-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box

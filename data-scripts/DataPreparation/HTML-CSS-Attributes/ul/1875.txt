@@ -1,0 +1,9 @@
+	background-color: #4A535A;
+	float: left;
+	border-top: 3px solid #6cb670;
+	color: #6CB670;
+	display: block;
+	padding: 13px 18px;
+	text-align: center;
+		padding: 15px 8px;
+        padding: 10px;

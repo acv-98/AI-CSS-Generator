@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	height:60px;
+	float:right;
+	list-style:none;
+	background:url(../images/menu_split.png) no-repeat left center;
+	display:block;
+	font-size:15px;
+	line-height:20px;
+	font-weight:normal;
+	color:#575757;
+	text-decoration:none;
+	text-transform:uppercase;
+	text-align:center;

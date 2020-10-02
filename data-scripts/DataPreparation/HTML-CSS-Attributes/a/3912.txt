@@ -1,0 +1,10 @@
+display: block;
+width: 40px;
+height: 45px;
+overflow: hidden;
+background: url(../images/img-sprite.png) no-repeat -515px -354px;
+position: absolute;
+top: 35%;
+margin-top: -61.5px;
+left: -75px;
+background-position:-571px -354px; left:inherit; right:-55px;	display: none;

@@ -1,0 +1,5 @@
+  position: relative;
+  min-height: 1px;
+ 
+    float: left;
+    width: 50%;

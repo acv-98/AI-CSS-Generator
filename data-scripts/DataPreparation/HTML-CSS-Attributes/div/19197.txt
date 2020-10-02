@@ -1,0 +1,13 @@
+	background-color: rgba(0,0,0,0.33);
+	height: 80px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    transition: all 0.3s ease;
+ background-color: #373a3c; .tm-navbar-container-dark {
+	box-shadow: none;
+		background: none;
+		box-shadow: none;
+		height: 54px; 
+ background-color: #373a3c; 

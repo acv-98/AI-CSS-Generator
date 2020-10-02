@@ -1,0 +1,1 @@
+background: url(images/image-shadow.png) no-repeat 0 0; width: 264px; height: 184px; float: left;display: block; margin: 0 auto; padding-top: 6px;

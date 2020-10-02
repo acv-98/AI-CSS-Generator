@@ -1,0 +1,11 @@
+width:117px;
+float:left;
+padding:10px 11px 5px 40px;
+	background-image: url(../images/showcase_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	color:#A5AF2A;
+	text-align:left;
+font-size:15px;
+font-weight:bold;
+text-decoration:none;

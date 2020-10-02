@@ -1,0 +1,4 @@
+	background:#fff;
+	padding: 8% 5% 4% 5%;
+		padding: 2%;
+		margin-bottom: 15px;

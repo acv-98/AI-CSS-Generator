@@ -1,0 +1,8 @@
+  left: 0.2em;
+  top: 0.4em;
+  font-size: 3.8em;
+  line-height: 1.0em;
+  color: #FFF;
+  position: relative;
+  font-weight: normal;
+  font-family: 'Raleway', sans-serif;

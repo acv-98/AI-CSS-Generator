@@ -1,0 +1,14 @@
+	float:right;
+	margin-top:20px;
+	background: none;
+	font-size: 1em;
+	color: #ff0000;
+	cursor: pointer;
+	outline: none;
+	-webkit-appearance: none;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	font-style:italic;
+	border: 1px solid #FFF;
+	text-decoration: none;

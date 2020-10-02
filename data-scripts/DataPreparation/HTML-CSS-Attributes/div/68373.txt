@@ -1,0 +1,8 @@
+	background: url(../img/bg/patterns/obl-1x1-light.png);	
+	border: medium none !important;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+	height: auto !important;
+	overflow: visible !important;
+	padding: 20px 0px;
+	width: 300px !important;
+	text-align: center !important;

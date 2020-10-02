@@ -1,0 +1,10 @@
+  color: #530909;
+  background-color: #e4504c;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#e4504c), to(#a61b1b));
+  border: 1px solid #6e0606;
+  border-bottom: 1px solid #6e0606;
+  -webkit-box-shadow: inset 0 1px 0 0 #f95c59;
+  -moz-box-shadow: inset 0 1px 0 0 #f95c59;
+  -ms-box-shadow: inset 0 1px 0 0 #f95c59;
+  -o-box-shadow: inset 0 1px 0 0 #f95c59;
+  box-shadow: inset 0 1px 0 0 #f95c59;

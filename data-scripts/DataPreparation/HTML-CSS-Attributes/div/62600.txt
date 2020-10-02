@@ -1,0 +1,6 @@
+	padding-top: 46px;
+	overflow: hidden;
+	height: 100px;
+	padding-bottom: 4px;
+	color: #585858;
+	margin-top: 38px;

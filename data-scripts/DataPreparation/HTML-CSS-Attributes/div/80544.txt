@@ -1,0 +1,6 @@
+		background:url(../images/design/slug-noise.png) top left repeat transparent;
+		height:100%;
+		width:100%;
+		position:absolute;
+		z-index:5;
+ position:absolute;width:24px;height:24px;display:none;z-index:1000; position:absolute;width:24px;height:24px;display:none;z-index:1000;display:none;

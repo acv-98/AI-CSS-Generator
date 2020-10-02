@@ -1,0 +1,11 @@
+	width: 370px;
+	height: 63px;
+	float: left;
+	padding-top: 50px;
+	padding-left: 10px;
+	font-family:  'Hoefler Text', Georgia, 'Times New Roman', serif;
+	font-weight: normal;
+    font-size: 44px;
+	letter-spacing: -1px;
+	color: #666;
+	margin: 0px;

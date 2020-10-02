@@ -1,0 +1,5 @@
+	color: #464646;
+	line-height: 22.9px;
+	margin-bottom: 6px;
+	padding-top: 10px;
+	font-size: 12px;

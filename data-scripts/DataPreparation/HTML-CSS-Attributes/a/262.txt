@@ -1,0 +1,14 @@
+line-height:.9em;display:inline-block;margin-top:.18em;line-height:.8em;margin-top:.25em;margin-top:0;margin-right:.2em;margin-left:.2em;  font-weight: 400;
+  border: 3px solid #fff;
+  background: transparent;
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.5);
+  border-radius: 0;
+  margin-top: 5px;
+  background-color: rgba(255, 255, 255, 0.3);
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  padding: 0;

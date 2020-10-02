@@ -1,0 +1,16 @@
+	position:relative;
+	width:825px;
+	height:300px;
+	margin:0 0 0 81px;
+	overflow:hidden;
+	list-style-type:none;
+	float:left;
+	display:inline;
+	padding-top:40px;
+	margin-left:53px;
+	line-height:19px;
+	color:#808080;
+	margin-top:35px;
+	background:url(images/form-field.gif) no-repeat 0 0;
+	border:0;
+	cursor:pointer;

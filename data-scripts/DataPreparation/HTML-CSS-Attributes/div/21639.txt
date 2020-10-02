@@ -1,0 +1,6 @@
+width:100%;clear:both;    width: 100% !important;
+width:100%;clear:both;width: 28%;.home-row .widget h2 {
+  margin-top: 0;
+  font-size: 25px;
+  border-bottom: 1px solid #bcbcbc;
+float:left;margin-right:3%;width:31.33%;width:auto;width:auto;

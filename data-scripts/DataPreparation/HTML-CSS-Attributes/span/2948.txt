@@ -1,0 +1,5 @@
+    float: left;
+    font-size: 20px;
+    letter-spacing: -1px;
+    margin: 4px 0;
+    font-family: 'Arvo', serif;

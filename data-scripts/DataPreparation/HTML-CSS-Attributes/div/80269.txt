@@ -1,0 +1,1 @@
+ margin:0; padding:0; padding-left:20px; float:left; width:auto; list-style:none; margin:0 4px; float:left; display:block; margin:0; padding:23px 24px; color:#fff; text-decoration:none; background:url(images/menu_a.gif) repeat top;

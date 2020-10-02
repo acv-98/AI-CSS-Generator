@@ -1,0 +1,8 @@
+	text-align: center;
+	position: relative;
+	text-transform:uppercase;
+	color:#777;
+	font-size:1.7em;
+	padding:5% 0;
+		font-size: 1.5em;
+		color:#000;

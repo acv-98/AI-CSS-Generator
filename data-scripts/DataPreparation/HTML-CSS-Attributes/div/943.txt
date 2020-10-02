@@ -1,0 +1,3 @@
+	min-height:260px;
+	background:url(../images/textarea.gif) no-repeat;
+	float:left;

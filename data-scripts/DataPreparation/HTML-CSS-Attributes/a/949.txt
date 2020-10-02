@@ -1,0 +1,2 @@
+  height: auto;
+  padding: 22px 15px 21px;

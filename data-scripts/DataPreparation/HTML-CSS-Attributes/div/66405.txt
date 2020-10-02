@@ -1,0 +1,9 @@
+	float: left;
+	margin: 20px 0 0;
+	padding: 0 0 0 25px;
+	width: 455px;
+	color: #875115;
+	font-family: arial;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 17px;

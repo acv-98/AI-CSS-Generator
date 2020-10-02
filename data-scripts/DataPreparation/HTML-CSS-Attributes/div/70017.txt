@@ -1,0 +1,1 @@
+	background:url(../images/company_body2.jpg) 0 0 no-repeat;

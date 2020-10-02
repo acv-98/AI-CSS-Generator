@@ -1,0 +1,2 @@
+	background: rgba(48, 107, 109, 0.65);
+    height: 660px;

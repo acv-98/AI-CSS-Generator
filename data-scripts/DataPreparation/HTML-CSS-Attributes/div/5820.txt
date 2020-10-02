@@ -1,0 +1,11 @@
+	margin:0 0 0 20px;
+	background:none;
+	padding:0;
+	color:#5c5754;
+	font-weight:normal;
+	font-size:20px;
+	text-indent:-99999px;
+	display:block;
+	float:left;
+	width:30px;
+	height:31px;

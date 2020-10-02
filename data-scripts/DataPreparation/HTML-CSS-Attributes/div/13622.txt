@@ -1,0 +1,30 @@
+ background-color: #193654; background-image: url('http://yit.com/libra/wp-content/themes/libra/images/header-pattern.png'); background-repeat: repeat; background-position: top left; background-attachment: scroll; 	width: 100%;
+	position: relative;
+	overflow: hidden;
+	background-color: transparent;
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	margin-top:30px;
+	height: 100%;         
+	top: 0;            
+    z-index:1;
+    height:100%;                  
+	padding-top:40px;
+	border-top: 1px solid rgba(255, 255, 255, 0.045);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+ background-position: bottom right;   background-position: bottom left; .polaroid .slide .slide-content.full {
+    width:100%;       
+    padding-top: 50px;
+ padding-right: 60%;  padding-left: 60%; .polaroid .thumbs {
+	display: none;
+	left:50%;
+	bottom: 60px;
+	z-index: 100;
+	cursor: pointer;
+	margin-bottom: 100px;
+	
+    -moz-box-shadow:1px 1px 7px rgba(0, 0, 0, 0.50);
+    -webkit-box-shadow:1px 1px 7px rgba(0, 0, 0, 0.50);
+    box-shadow:1px 1px 7px rgba(0, 0, 0, 0.50);
+ padding-left: 60%;  margin-top: -50px;  display: none;  visibility: hidden !important 

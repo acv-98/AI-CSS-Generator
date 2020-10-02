@@ -1,0 +1,2 @@
+    border-top: 15px solid #666666;
+    border-left: 15px solid #666666;

@@ -1,0 +1,13 @@
+	width:580px;
+	float:left;
+	padding-top:90px;
+	list-style:none;
+	text-align:center;
+	line-height:90px;
+	padding-right:5px;
+	font-size:15px;
+	font-weight:bold;
+	color:#a29f8e;
+	display:block;
+	height:90px;
+	background:url(../images/bg-1.jpg) repeat-x;

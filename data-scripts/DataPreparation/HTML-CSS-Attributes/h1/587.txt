@@ -1,0 +1,3 @@
+ font-size: 3rem; .tm-hero-subtitle { 
+	font-size: 1.4rem; 
+	margin-bottom: 0;

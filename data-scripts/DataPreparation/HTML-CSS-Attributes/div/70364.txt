@@ -1,0 +1,7 @@
+        margin:20px auto;
+        margin-bottom: 40px !important;
+        text-align: center;
+    height: 2px;
+    width: 60px;
+    background: #000;
+    margin-top:0px;

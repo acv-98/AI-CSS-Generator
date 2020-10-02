@@ -1,0 +1,1 @@
+  background: rgba(98, 177, 215, 0.7);

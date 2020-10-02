@@ -1,0 +1,1 @@
+margin-bottom:15px;margin-bottom:0;float:left;width:190px; float:right;color:#808790; font-size:11px;

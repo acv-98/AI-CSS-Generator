@@ -1,0 +1,1 @@
+ margin:0 auto; padding:0; width:970px; background:#fff url(images/header_bgres.gif) repeat-x top; border-left:1px solid #d7d7d7; border-right:1px solid #d7d7d7;

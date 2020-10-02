@@ -1,0 +1,9 @@
+	float:left;
+	width:306px;
+	padding:0 19px 0 0;
+	height:217px;
+	padding-left:2px;
+	border:2px solid #fff;
+	background:url(images/main-button.jpg) repeat-x;
+	line-height:29px;
+	display:inline;

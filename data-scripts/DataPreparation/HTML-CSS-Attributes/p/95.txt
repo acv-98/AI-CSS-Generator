@@ -1,0 +1,2 @@
+font:10px/14px Tahoma, Geneva, sans-serif; color:#a18d21; font-weight:bold
+margin-bottom:15pxmargin-bottom:15px

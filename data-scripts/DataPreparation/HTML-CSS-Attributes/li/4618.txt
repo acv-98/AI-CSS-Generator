@@ -1,0 +1,6 @@
+	width:214px;
+	height:28px;
+	padding:9px 0 0 6px;
+	text-shadow:0 0 0 #fff;
+	background-image:url(../images/dropdown_top.png);
+	background-repeat:no-repeat;

@@ -1,0 +1,12 @@
+background:none
+.menuBar li a
+{
+text-decoration:none;
+color:#FADCC2;
+font:16px Myriad Pro, Arial, Helvetica, sans-serif;
+text-transform:uppercase;
+background:none.menuBar2 li a
+{text-decoration:none;
+font-size:11px;
+padding:10px 15px 0px 15px;
+font-family:Georgia, "Times New Roman", Times, serif;

@@ -1,0 +1,7 @@
+  margin: 10px 0 20px 0;
+  font-size: 22px;
+  color: #666;
+  display: block;
+  margin-top: 5px;
+  padding-bottom: 9px;
+  border-bottom: 1px solid #eee;

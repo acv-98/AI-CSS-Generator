@@ -1,0 +1,3 @@
+  text-transform: capitalize;
+  color: #4b4b4b;
+  font-weight: 100;

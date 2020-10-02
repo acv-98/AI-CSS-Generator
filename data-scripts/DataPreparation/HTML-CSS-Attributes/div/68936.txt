@@ -1,0 +1,20 @@
+   position: relative;
+   padding: 0 20px;
+   min-height: 1px;
+   float: left;
+    float: none;
+    margin: 0 auto;
+ padding: 0; 	   width: auto !important;
+	   float: none;
+	   margin-left: 0;
+	   margin-right: 0;
+      padding: 0 30px;
+ margin-bottom: 36px; .portfolio-item .item-wrap {
+   background: #fff;
+   overflow: hidden;
+   -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+ margin-bottom: 40px; 

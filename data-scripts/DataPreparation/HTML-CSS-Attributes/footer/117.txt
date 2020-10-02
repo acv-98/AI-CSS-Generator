@@ -1,0 +1,14 @@
+	width: 94%;
+	margin: auto;
+	text-align: left;
+	padding-top: 5%;
+	padding-bottom: 7%;
+	font-size: 13px;
+	color: #000;
+	text-decoration: underline;
+	margin-top: 0;
+	display: inline-block;
+	float: none;
+	border: none;
+	letter-spacing: 15px;
+	margin-bottom: 50px;

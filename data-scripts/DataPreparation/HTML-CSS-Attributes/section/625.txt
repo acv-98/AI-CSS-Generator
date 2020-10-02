@@ -1,0 +1,5 @@
+.top
+    border-bottom: 2px solid #eeeeee;
+    border-right: 2px solid #eeeeee;
+    padding-right: 30px;
+    padding-left: 30px;

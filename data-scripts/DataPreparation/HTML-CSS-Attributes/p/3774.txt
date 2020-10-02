@@ -1,0 +1,11 @@
+	font-family: 'montserrat-bold', sans-serif;
+   font-size: 30px;
+   color: #333;
+	padding: 6px 30px 6px 30px;
+   margin-bottom: 0;
+	text-align: center;
+   letter-spacing: .5px;
+	font-size: 15px;
+	color: #999;	
+	display: block;
+	margin-top: 0;

@@ -1,0 +1,3 @@
+  background-attachment: fixed;
+  background-repeat: repeat-y;
+  background-position: center center;

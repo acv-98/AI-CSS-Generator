@@ -1,0 +1,2 @@
+	background:url(../images/sprites-icons.gif) no-repeat 43px -1266px;
+	padding-left:40px;

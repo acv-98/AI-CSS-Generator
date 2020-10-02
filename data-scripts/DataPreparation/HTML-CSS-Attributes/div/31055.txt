@@ -1,0 +1,1 @@
+color:#FFFFFF; background:url("../images/hbg.png") top left repeat-x #1E1E1E; border-bottom:1px solid #A6D166;

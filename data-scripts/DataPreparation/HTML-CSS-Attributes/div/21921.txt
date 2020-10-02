@@ -1,0 +1,6 @@
+	display: -webkit-box;
+	-webkit-box-align: stretch;
+	-webkit-align-items: stretch;
+	    -ms-flex-align: stretch;
+	        align-items: stretch;
+ padding-left: 0; 

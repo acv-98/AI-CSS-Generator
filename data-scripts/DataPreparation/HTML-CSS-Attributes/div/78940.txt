@@ -1,0 +1,6 @@
+overflow: hiddenmargin-bottom: 5px;
+FOOTER SECTION
+footer{
+    text-align: center;
+    padding: 50px 0;
+    background: #363942;

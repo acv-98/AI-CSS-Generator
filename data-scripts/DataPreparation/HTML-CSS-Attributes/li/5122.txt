@@ -1,0 +1,13 @@
+  padding: 0 5px;
+  margin-left: -3px;
+  top: 50%;
+  right: 0;
+  margin-top: -5px;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #000;
+  border-right-width: 0;
+  bottom: -10px;
+  content: " ";
+  left: -100%;
+  background-repeat: repeat-x;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .0001) 100%);

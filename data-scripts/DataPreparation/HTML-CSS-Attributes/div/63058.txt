@@ -1,0 +1,11 @@
+	float: left;
+	padding: 20px;
+	width: 455px;
+    background-color: #FFFFFF;
+    border: 1px solid #E8E4E1;
+    display: block;
+    float: left;
+    height: 80px;
+    margin: 5px;
+    padding: 5px;
+    width: 128px;

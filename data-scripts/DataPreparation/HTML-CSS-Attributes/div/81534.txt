@@ -1,0 +1,9 @@
+    max-height: 40px;
+    overflow: hidden;
+    -webkit-transition: max-height 1s; 
+    -moz-transition: max-height 1s; 
+    -ms-transition: max-height 1s; 
+    -o-transition: max-height 1s; 
+    transition: max-height 1s;  
+    color:#cecece;
+    padding: 5px;

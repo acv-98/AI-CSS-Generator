@@ -1,0 +1,2 @@
+background:url("img/icon-tasty.png") no-repeat 0 5px;
+*  FOOTER                                                                                                          

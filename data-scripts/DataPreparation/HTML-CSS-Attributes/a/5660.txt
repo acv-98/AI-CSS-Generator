@@ -1,0 +1,12 @@
+    font-size: 14px;
+    color: #797979;
+    border: 1px solid #dbb075;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    padding: 10px 25px;
+    outline: none;
+    background: none;
+    box-shadow: none;
+  margin-top: 20px;
+  float: left;
+  border-radius: 0;

@@ -1,0 +1,3 @@
+	width:260px;
+	border:5px solid #666;
+	margin-top:20px;

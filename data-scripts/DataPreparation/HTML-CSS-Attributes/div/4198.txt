@@ -1,0 +1,6 @@
+    border-bottom: 3px solid #fff;
+    overflow: hidden;
+    padding:3px 0px;
+    width: 8%;
+    margin: 0 auto;
+    margin-bottom: 20px;

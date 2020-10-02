@@ -1,0 +1,10 @@
+	display:block;
+	width:39px;
+	height:39px;
+	text-indent:-9999em;
+	cursor:pointer;
+	position:absolute;
+	top:126px;
+	z-index:99;
+	right:0;
+	background:url(../images/carousel-next.png) 0 0 no-repeat;

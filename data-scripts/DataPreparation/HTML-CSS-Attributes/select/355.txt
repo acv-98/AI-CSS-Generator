@@ -1,0 +1,2 @@
+display: block !important;  
+display: block !important;margin: 0 !important;display: none; width: 100%;background: #3e3c4a;font-weight: normal;padding: 10px;height: 42px; color: #fff; border-radius: 0px; cursor: pointer; outline: 0; border:none !important;appearance: none; border:none !important;

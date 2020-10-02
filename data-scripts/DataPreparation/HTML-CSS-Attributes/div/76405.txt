@@ -1,0 +1,12 @@
+	margin:0;
+	padding:0;
+	border-top:1px solid #bdbcbd;
+	width:930px;
+	float:left;
+	color:#414141;
+	font:normal 30px Georgia, "Times New Roman", Times, seriff;
+	line-height:1.8em;
+	font-weight:bold;
+	text-decoration:none;
+	list-style:none;
+	background:left no-repeat;

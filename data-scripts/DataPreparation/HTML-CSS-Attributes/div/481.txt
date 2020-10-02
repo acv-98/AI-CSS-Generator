@@ -1,0 +1,15 @@
+	position:relative;
+	overflow:hidden;
+	width:1060px;
+	min-height:220px;
+	margin:0 auto;
+	display:block;
+	height:39px;
+	text-indent:-9999em;
+	cursor:pointer;
+	top:126px;
+	z-index:99;
+	left:0;
+	background:url(../images/carousel-prev.png) 0 0 no-repeat;
+	right:0;
+	margin-right:18px;

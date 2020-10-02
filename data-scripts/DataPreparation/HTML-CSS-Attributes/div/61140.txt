@@ -1,0 +1,9 @@
+  overflow: hidden;
+  zoom: 1;
+  width: 10000px;
+  display: table-cell;
+  vertical-align: top;
+	margin-bottom: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	color: rgb(47, 147, 123);

@@ -1,0 +1,1 @@
+ padding-left: 15px;  position: relative; margin-bottom: 50px; position: relative; z-index: 1; overflow: hidden;  margin-right: 5px;  margin-left: -15px;  margin-right: 0;  display: block; margin: 0; padding: 0; height: auto; 

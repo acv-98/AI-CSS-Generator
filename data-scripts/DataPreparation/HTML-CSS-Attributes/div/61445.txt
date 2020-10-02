@@ -1,0 +1,8 @@
+    margin-top: 45px;
+    margin-bottom: 40px;
+    height: 12px;
+    background: #e7e2e2;
+    text-transform: uppercase;
+    color: #292828;
+    font-weight: bold;
+        text-align: center;

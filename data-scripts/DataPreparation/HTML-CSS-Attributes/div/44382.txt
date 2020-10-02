@@ -1,0 +1,5 @@
+	width: 100%;
+	height: 1px;
+	background-color: rgba(250, 250, 250, 0.5);
+	margin: 20px 0px 15px 0px;
+		margin: 20px auto 15px auto;

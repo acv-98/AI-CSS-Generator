@@ -1,0 +1,15 @@
+    max-width: 60%;
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.428571429;
+  background-color: transparent;
+  border: none;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  border-color: #428bca;
+  color: #333333;

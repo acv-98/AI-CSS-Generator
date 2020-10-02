@@ -1,0 +1,7 @@
+    margin-top: 60px;
+    display: table-cell;
+    padding-left: 30px;
+    vertical-align: top;
+    font-size: 14px;
+    color: #fff;
+    padding-right: 30px;

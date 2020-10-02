@@ -1,0 +1,11 @@
+	margin-bottom:10px;
+	background: #fff;
+	box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1), 1px -1px 0px #efefef;
+	border-bottom:2px solid transparent;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	opacity: 1;
+	filter: alpha(opacity=100);

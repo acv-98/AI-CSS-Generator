@@ -1,0 +1,4 @@
+	padding:0 0 19px 25px;
+	background:url(../images/marker-2.gif) 0 5px no-repeat
+	display:inline-block
+	text-decoration:none

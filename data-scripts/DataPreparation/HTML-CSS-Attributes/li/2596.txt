@@ -1,0 +1,1 @@
+width:63px; background:url(../images/btn_1.gif) 0 0 no-repeat; width:63px; background:url(../images/btn_1_over.gif) 0 0 no-repeat;

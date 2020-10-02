@@ -1,0 +1,5 @@
+	width: 260px;
+	float: left;
+	padding: 20px 42px 0px 42px;
+	background: url(../images/blue_sep.gif) no-repeat left;
+	background-image: none;

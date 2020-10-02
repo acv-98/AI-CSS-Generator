@@ -1,0 +1,4 @@
+	margin:0;
+	padding:0 10px;
+	color:#939393;
+	list-style:none;

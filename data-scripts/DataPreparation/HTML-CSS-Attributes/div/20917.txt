@@ -1,0 +1,13 @@
+  max-width: 1165px;
+  margin: 0 auto;
+  content: '';
+  display: block;
+  clear: both;
+ margin: 5px;    https://css-tricks.com/snippets/css/css-hacks-targeting-firefox/
+@-moz-document url-prefix() { 
+  	.grid figure {
+	position: relative;
+	margin: -1.5rem auto;
+	list-style: none;
+	text-align: center;	
+ margin: -1.5rem auto -1.5rem 0;	

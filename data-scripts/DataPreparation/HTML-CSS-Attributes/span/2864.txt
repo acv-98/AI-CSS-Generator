@@ -1,0 +1,5 @@
+	display: block;
+	color: #A7A7A7;
+	text-align: right;
+	text-transform: uppercase;
+	padding-right:5px;

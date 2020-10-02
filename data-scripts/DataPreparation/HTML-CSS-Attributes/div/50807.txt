@@ -1,0 +1,5 @@
+	padding-top:12px;
+	min-height:167px;
+	height:auto !important;
+	color:#555;
+	padding-bottom:22px;

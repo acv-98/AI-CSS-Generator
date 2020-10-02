@@ -1,0 +1,6 @@
+	margin: 0 0 30px;
+	font-weight: 800;
+	color: #5D5D5D;
+    margin: 0 0 20px;
+    font-weight: 700;
+    font-size: 17px;

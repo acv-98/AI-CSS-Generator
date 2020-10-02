@@ -1,0 +1,4 @@
+	text-align:center;
+	margin-left:82px;
+	overflow:hidden;
+	display:inline-block;

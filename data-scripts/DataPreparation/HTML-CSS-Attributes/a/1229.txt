@@ -1,0 +1,15 @@
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin-top: 2px;
+        float: none;
+        padding-left: 0;
+  height: 50px;
+  font-size: 18px;
+  line-height: 20px;
+  text-decoration: none;
+    margin-left: -15px;
+  color: #777;
+  background-color: transparent;
+    font-family: 'Knewave', cursive;
+    font-size:48px;

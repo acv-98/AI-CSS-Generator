@@ -1,0 +1,1 @@
+ width: 300px; float: right;   background: url(images/facebook-box.png) no-repeat 0 0; padding: 24px;  

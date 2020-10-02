@@ -1,0 +1,8 @@
+	background:url(../images/navhover.jpg) 0 0 no-repeat;
+	color:#004356;
+	width:120px;
+	height:50px;
+	float:left;
+	font:bold 18px/50px Trajan Pro, Arial, Helvetica, Tahoma, sans-serif;
+	text-decoration:none;
+	text-align:center;

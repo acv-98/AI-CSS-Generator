@@ -1,0 +1,8 @@
+	font-size:10px;
+	padding-top:15px;
+	background:none;
+	margin:0 auto;
+	color:#858585;
+	text-decoration:none;
+	line-height:normal;
+	float:left;

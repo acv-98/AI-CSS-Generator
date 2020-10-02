@@ -1,0 +1,9 @@
+  width: 572px;
+  padding: 40px;
+  left: 0;
+  bottom: 0;
+  font-size: 14px;
+  line-height: 18px;
+		padding: 25px; 
+		max-width: 500px;
+		width: 100%;

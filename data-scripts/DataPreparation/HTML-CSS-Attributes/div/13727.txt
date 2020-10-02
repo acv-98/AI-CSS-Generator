@@ -1,0 +1,11 @@
+ font-size: 11px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  font-size: 11px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;         height: 120px;
+	padding:0; 
+	margin:0 15px; 
+	height:245px; 
+	overflow:hidden;
+	font-family:'PTSansRegular'; 
+	color:#ffffff; 
+	font-size:14px; 
+	margin-top: 15px;
+	padding-top: 1px;
+	

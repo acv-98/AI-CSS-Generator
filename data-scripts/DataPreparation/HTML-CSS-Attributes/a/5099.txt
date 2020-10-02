@@ -1,0 +1,6 @@
+	color:#bec0c0;
+	font-size:14px;
+	line-height:18px;
+	font-style:italic;
+	text-decoration:underline;
+	display:inline-block;

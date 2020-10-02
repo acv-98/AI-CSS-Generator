@@ -1,0 +1,8 @@
+	background:url(../images/bg_top3.jpg) top center no-repeat;
+	padding:28px 28px;
+	padding-left:58px;
+	padding-bottom:25px;
+	margin-top:-1px;
+	letter-spacing:-1px;
+	float:left;
+	width:820px;

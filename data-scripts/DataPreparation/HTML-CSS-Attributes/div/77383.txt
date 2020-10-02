@@ -1,0 +1,10 @@
+	margin-top:-7px
+	background: url(../images/box_top2.png) top center no-repeat
+	color:#faf3ed;
+	box-shadow:0 0 5px rgba(0, 0, 0, .4);
+	-moz-box-shadow:0 0 5px rgba(0, 0, 0, .4);
+	-webkit-box-shadow:0 0 5px rgba(0, 0, 0, .4)
+	padding:30px;
+	padding-top:0;
+	overflow:hidden
+	padding-bottom:13px

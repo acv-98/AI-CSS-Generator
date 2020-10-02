@@ -1,0 +1,7 @@
+  padding: 30px;
+  margin-bottom: 40px;
+  background: #fff;
+  display: table-cell;
+  width: 50%;
+    display: block;
+    width: 100% !important;

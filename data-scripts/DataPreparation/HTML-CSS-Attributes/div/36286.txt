@@ -1,0 +1,8 @@
+	margin: 0 0 12px 50px; 
+	color: #a4a5aa;
+	font-size: 11px;
+	position: relative;
+ margin-left: 40px; .comment-author cite {
+	font-weight: bold;
+	font-style: normal;
+	padding: 0;

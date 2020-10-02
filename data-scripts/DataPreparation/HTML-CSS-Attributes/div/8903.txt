@@ -1,0 +1,6 @@
+	color:#FFF;
+	padding:50px 20px 0 0;
+	font-size:12px;
+	line-height:22px;
+	padding-right:20px;
+	text-align:justify;

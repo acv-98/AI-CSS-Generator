@@ -1,0 +1,2 @@
+	padding: 1.87em 1.87em 1.87em 1.87em;
+	background: #FFFFFF;

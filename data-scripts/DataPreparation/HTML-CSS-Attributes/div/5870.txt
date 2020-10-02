@@ -1,0 +1,1 @@
+ margin:0; padding:0; margin:0 auto; padding:0 40px; width:890px; padding:22px 28px 0 0; float:right; background:url(images/hbg_bg.gif) repeat-x top; height:357px; overflow:hidden; background:url(images/hbg_r_bg.jpg) no-repeat center top; margin-right:34px; padding:45px 0 0 5px; float:left; margin:0; padding:54px 0 0; font:bold 36px/1.5em Arial, Helvetica, sans-serif;

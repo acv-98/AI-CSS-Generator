@@ -1,0 +1,57 @@
+-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both
+ * Bootstrap v4.1.0 (https://getbootstrap.com/)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+*
+*	GENERAL
+.camera_wrap img, 
+.camera_wrap ol, .camera_wrap ul, .camera_wrap li,
+.camera_wrap table, .camera_wrap tbody, .camera_wrap tfoot, .camera_wrap thead, .camera_wrap tr, .camera_wrap th, .camera_wrap td
+.camera_thumbs_wrap a, .camera_thumbs_wrap img, 
+.camera_thumbs_wrap ol, .camera_thumbs_wrap ul, .camera_thumbs_wrap li,
+.camera_thumbs_wrap table, .camera_thumbs_wrap tbody, .camera_thumbs_wrap tfoot, .camera_thumbs_wrap thead, .camera_thumbs_wrap tr, .camera_thumbs_wrap th, .camera_thumbs_wrap td {
+	background: none;
+	border: 0;
+	font: inherit;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+	list-style: none
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 0.75em;
+  vertical-align: -15%;
+  width: 1.28571429em;
+  text-align: center;
+  padding-left: 0;
+  margin-left: 2.14285714em;
+  list-style-type: none;
+  position: relative;
+  left: -2.14285714em;
+  top: 0.14285714em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
+  float: left;
+  margin-right: .3em;
+  -webkit-animation: fa-spin 2s infinite linear;
+  animation: fa-spin 2s infinite linear;
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  filter: none;
+  height: 2em;
+  color: #ffffff;
+  content: "\f000";
+    -webkit-animation-name: fadeOut;
+    animation-name: fadeOut;
+background:url(../images/prettyPhoto/facebook/sprite.png) -88px -53px no-repeatbackground:url(../images/prettyPhoto/facebook/contentPatternTop.png) top left repeat-xbackground:url(../images/prettyPhoto/facebook/sprite.png) -110px -53px no-repeatbackground:url(../images/prettyPhoto/facebook/contentPatternLeft.png) top left repeat-ybackground:url(../images/prettyPhoto/facebook/contentPatternRight.png) top right repeat-ybackground:url(../images/prettyPhoto/facebook/sprite.png) -31px -26px no-repeat;cursor:pointerbackground:url(../images/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat;cursor:pointerbackground:url(../images/prettyPhoto/facebook/sprite.png) 0 -26px no-repeat;cursor:pointerbackground:url(../images/prettyPhoto/facebook/sprite.png) 0 -47px no-repeat;cursor:pointerwidth:22px;height:22px;background:url(../images/prettyPhoto/facebook/sprite.png) -1px -1px no-repeat;cursor:pointermargin:0 37px 0 0background:url(../images/prettyPhoto/facebook/loader.gif) center center no-repeatbackground:url(../images/prettyPhoto/facebook/sprite.png) 0 -71px no-repeat;height:22px;margin-top:0;width:22pxbackground-position:0 -96px;cursor:defaultbackground:url(../images/prettyPhoto/facebook/sprite.png) -32px -71px no-repeat;height:22px;margin-top:0;width:22pxbackground-position:-32px -96px;cursor:defaultmargin-top:0font-size:15px;padding:0 3px 0 4pxbackground:url(../images/prettyPhoto/facebook/sprite.png) -1px -123px no-repeat;height:22px;width:22pxbackground:url(../images/prettyPhoto/facebook/sprite.png) -32px -123px no-repeat;height:22px;width:22pxbackground:url(../images/prettyPhoto/facebook/btnNext.png) center right no-repeat;cursor:pointerbackground:url(../images/prettyPhoto/facebook/btnPrevious.png) center left no-repeat;cursor:pointerbackground:url(../images/prettyPhoto/facebook/sprite.png) -88px -80px no-repeatbackground:url(../images/prettyPhoto/facebook/contentPatternBottom.png) top left repeat-xbackground:url(../images/prettyPhoto/facebook/sprite.png) -110px -80px no-repeatfloat:left;margin-left:5px;width:55px;overflow:hiddencolor:#000position:relativebackground:#fff    position: absolute;
+    top: 30% !important;
+    right: -5px;
+    vertical-align: middle;

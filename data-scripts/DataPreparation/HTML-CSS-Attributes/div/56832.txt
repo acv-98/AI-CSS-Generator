@@ -1,0 +1,6 @@
+	color:#ff8a00;
+	width:220px;
+	height:623px;
+	padding:55px 0 0 80px;
+	background:url(../images/sidebar_bg.png) no-repeat 0 10%;
+	padding-top:10px;

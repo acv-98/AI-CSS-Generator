@@ -1,0 +1,11 @@
+	float:right;
+	margin-top:4px;
+	background:#FAFAFA;
+	border:1px solid #ccc;
+	width:214px;
+	padding:5px 6px 3px 6px;
+	font:12px Arial, Helvetica, Sans-Serif;
+	color:#333333;
+	margin-right:5px;
+	-moz-box-shadow:0 0 27px #DDDDDD inset;
+	margin-bottom:5px;

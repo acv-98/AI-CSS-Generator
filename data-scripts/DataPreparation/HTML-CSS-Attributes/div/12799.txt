@@ -1,0 +1,5 @@
+	width:952px;
+	height:516px;
+	padding:54px 0 0 32px;
+	background:url(../images/slider-bg.png) 0 0 no-repeat;
+	overflow:hidden;

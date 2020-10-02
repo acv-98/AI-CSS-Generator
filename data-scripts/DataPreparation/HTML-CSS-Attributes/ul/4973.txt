@@ -1,0 +1,2 @@
+	background:url(images/bullets.gif) no-repeat 0 8px;
+	padding:0 0 0 15px;

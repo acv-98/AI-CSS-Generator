@@ -1,0 +1,4 @@
+    float: none;
+    width: auto;
+    padding-top: 0;
+    text-align: left;

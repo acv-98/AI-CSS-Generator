@@ -1,0 +1,6 @@
+		margin-bottom:25px;
+		color: #3C3B3B;
+		text-transform: uppercase;
+		font-weight: 500;
+		font-size: 20px;
+		letter-spacing: 1px;

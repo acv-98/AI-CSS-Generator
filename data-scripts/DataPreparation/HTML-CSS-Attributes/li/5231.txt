@@ -1,0 +1,8 @@
+  height: 50px;
+  margin: 0 9px;
+  border-left: 1px solid #013435;
+  border-right: 1px solid #013435;
+  border-left-color: #748c73;
+  border-right-color: #829881;
+  border-color: rgba(0, 0, 0, 0.2);
+height:40px;margin:0 9px;border-left:1px solid #dd4814;border-right:1px solid #ce4213;border-left-color:#772953;border-right-color:#862e5e;background-color:inherit;border-right:1px solid rgba(0, 0, 0, 0.2);

@@ -1,0 +1,7 @@
+	margin-bottom: 50px;
+	font-size: 19px;
+	color: #000;
+	font-weight: 400;
+	text-transform: uppercase;
+	margin-top: 30px;
+    margin: 50px 0 50px 0;

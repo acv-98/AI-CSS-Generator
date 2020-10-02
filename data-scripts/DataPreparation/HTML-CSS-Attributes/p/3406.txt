@@ -1,0 +1,11 @@
+  position: relative;
+  padding-top: 20px;
+  margin-top: 40px;
+  color: rgba(255, 255, 255, 0.4);
+  content: '';
+  top: 0;
+  left: 0;
+  display: block;
+  width: 35px;
+  height: 2px;
+  background: #1fb5f6;

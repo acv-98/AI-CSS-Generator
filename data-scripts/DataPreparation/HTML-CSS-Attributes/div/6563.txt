@@ -1,0 +1,6 @@
+	margin-top: 0;
+	height: 0;
+	border-bottom: 3px #ddd solid;
+	background: none;
+	clear: both;
+	background-color: #ddd;

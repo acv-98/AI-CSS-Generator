@@ -1,0 +1,9 @@
+	background:url(../images/footer.jpg) left bottom repeat-x;
+	padding:28px 0px 34px 0px;
+	text-align:center;
+	color:#ffffff;
+	font-weight:bold;
+	margin:0px;
+	display:inline;
+	border-right:1px solid #ffffff;
+	text-decoration:none;

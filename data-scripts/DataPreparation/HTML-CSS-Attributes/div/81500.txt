@@ -1,0 +1,6 @@
+    width: 80%;
+    margin: 0px auto;
+    line-height: 4rem;
+    color:#231f20;
+    border-left: 2px solid #ddd;
+    padding-left: 20px; 

@@ -1,0 +1,6 @@
+	float:left;
+	display:inline;
+	width:480px;
+	padding-top:25px;
+	margin-bottom:5px;
+	margin-top:20px;

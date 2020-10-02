@@ -1,0 +1,2 @@
+font:12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#FFF; font-weight:bold; text-transform:uppercasefont:10px/14px Tahoma, Geneva, sans-serif; color:#fff;
+margin-left:5px; margin-bottom:10px

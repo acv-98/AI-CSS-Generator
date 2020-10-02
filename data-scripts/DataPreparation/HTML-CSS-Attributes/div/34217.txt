@@ -1,0 +1,12 @@
+ margin-top: 55px a.read-more {
+    padding: 5px 10px;
+    background-color: #FFF;
+    border: 1px solid #E85F37;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    color: #E85F37;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;

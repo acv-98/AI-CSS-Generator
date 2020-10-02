@@ -1,0 +1,8 @@
+	border-top:1px solid #ddddde;
+	padding:10px 0 15px 0;
+	color:#828484;
+	text-decoration:none;
+	font-size:10px;
+	margin:0;
+	line-height:normal;
+	float:left;

@@ -1,0 +1,7 @@
+     padding: 70px 0px;
+     padding-bottom: 20px;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: 700;
+	border: none;
+	padding: 12px 15px;

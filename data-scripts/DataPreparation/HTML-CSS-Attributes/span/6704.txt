@@ -1,0 +1,6 @@
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+	background: #333333;
+    margin-top: 4px;

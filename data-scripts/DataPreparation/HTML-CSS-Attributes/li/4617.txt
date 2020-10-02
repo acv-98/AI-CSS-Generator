@@ -1,0 +1,6 @@
+	background-image:url(../images/menu_left.png);
+	background-repeat:no-repeat;
+	text-decoration:none;
+	color:#497099;
+	background-position:100% 0;
+	font-weight:bold;

@@ -1,0 +1,7 @@
+  float: left;
+  margin: -200px 0 0 7px;
+  padding: 0;
+  -webkit-animation: scroll-ani 4s linear infinite;
+  -moz-animation: scroll-ani 4s linear infinite;
+  animation: scroll-ani 4s linear infinite;
+  margin-top: 0;

@@ -1,0 +1,1 @@
+background:url(../images/menumid.jpg) no-repeat;margin:0 auto; padding:0px 0px 0px 0px; width:812px; height:33px;

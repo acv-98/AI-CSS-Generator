@@ -1,0 +1,5 @@
+	border-top: 1px solid #1d3b5c;
+	padding: 38px 0px 68px 0px;
+	color: #798492;
+	font-size: 13px;
+	clear: both;

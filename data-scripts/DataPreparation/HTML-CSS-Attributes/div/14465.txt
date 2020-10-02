@@ -1,0 +1,5 @@
+	margin-top:17px;
+	padding:5px 9px 59px 11px;
+	overflow:hidden;
+	position:relative;
+	background:url(../images/bg_slider.png) 0 0 no-repeat

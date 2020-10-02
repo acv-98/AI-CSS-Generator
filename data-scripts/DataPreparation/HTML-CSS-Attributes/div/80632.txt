@@ -1,0 +1,29 @@
+		position:relative;
+		width:100%;
+		padding-top:22px;
+		border:1px solid #eaeaea;
+		background-color:#fdfdfd;
+		box-sizing:border-box;
+		-moz-box-sizing: border-box;
+		border-radius:100% 100% 100% 100%;
+		z-index:10000;
+		transition: all 0.13s cubic-bezier(0.75,0.16,0.98,0.48) 0s;
+border-color:#3f98b9;	.circles .columns .icon .content {
+		text-align:center;
+		font-size:16px;
+		font-weight:600;
+		color:#393939;
+		margin-bottom:4px;
+		font-family:"Open Sans";
+		height:4px;
+		line-height:14px;
+		padding-bottom:39px;
+		max-width:75%;
+		display:block;
+background:url(../images/design/drops/buoy.png) no-repeat;background:url(../images/design/drops/gear.png) no-repeat;background:url(../images/design/drops/cart.png) no-repeat;background:url(../images/design/drops/client.png) no-repeat;background:url(../images/design/drops/globe.png) no-repeat;background:url(../images/design/drops/iphone.png) no-repeat;background:url(../images/design/drops/lab.png) no-repeat;background:url(../images/design/drops/pushpin.png) no-repeat;background:url(../images/design/drops/tags.png) no-repeat;background:url(../images/design/drops/tools.png) no-repeat;background:url(../images/design/drops/trophy.png) no-repeat;background:url(../images/design/drops/truck.png) no-repeat;background:url(../images/design/drops/tv.png) no-repeat;background:url(../images/design/drops/umbrella.png) no-repeat;background:url(../images/design/drops/virus.png) no-repeat;width:100%;margin:7px 0 45px;background:url(../images/design/drops/buoy-trans.png);background:url(../images/design/drops/cart-trans.png);background:url(../images/design/drops/client-trans.png);background:url(../images/design/drops/gear-trans.png);background:url(../images/design/drops/globe-trans.png);background:url(../images/design/drops/iphone-trans.png);background:url(../images/design/drops/lab-trans.png);background:url(../images/design/drops/pushpin-trans.png);background:url(../images/design/drops/tags-trans.png);background:url(../images/design/drops/tools-trans.png);background:url(../images/design/drops/trophy-trans.png);background:url(../images/design/drops/truck-trans.png);background:url(../images/design/drops/tv-trans.png);background:url(../images/design/drops/umbrella-trans.png);background:url(../images/design/drops/virus-trans.png);	.block-icons .icon .symbol {
+		float:left;
+		margin-right:15px;
+		background-repeat:no-repeat;	
+margin:0;padding:0 0 0 54px;height:100%;height:100%;vertical-align:middle;		.footer .content {
+			background:url(../images/design/footer-bg-320.png) top left repeat-y transparent;
+			width:320px;

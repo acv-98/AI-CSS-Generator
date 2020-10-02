@@ -1,0 +1,2 @@
+ width: 73.9% !important;  width: 73.9% !important;  width: 74.9% !important;  width: 81.9% !important;  width: 81.9% !important; width: 100%; font-size: .9em; border-collapse: collapse; margin:0 0 .4em; width: 100%; font-size: .9em; border-collapse: collapse; margin:0 0 .4em;  font:.9em "Courier New", Monaco, Courier, monospace; 
+ font-size: .9em;  width: 97.9% !important;  width: 19.8%; font-size: 0.9em;

@@ -1,0 +1,1 @@
+padding:0 0 14px 0color:#fff;float:right;display:block;background:#af3300;text-decoration:nonedisplay:block;background:url(images/button-left.gif) no-repeat left topdisplay:block;font-style:normal;font-weight:normal;background:url(images/button-right.gif) no-repeat right top;padding:4px 20px 4px 20pxtext-decoration:underline

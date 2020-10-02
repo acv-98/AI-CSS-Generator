@@ -1,0 +1,5 @@
+	background:url(../images/blue/learn_more.png) no-repeat;
+	display:block;
+	text-indent:-9999px;
+	width:130px;
+	height:26px;

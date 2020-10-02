@@ -1,0 +1,5 @@
+	width:220px;
+	height:79px;
+	display:block;
+	border:1px solid #e4f1f2;
+	margin:10px 0;

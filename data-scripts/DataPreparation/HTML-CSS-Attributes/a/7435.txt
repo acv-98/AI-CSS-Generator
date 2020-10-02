@@ -1,0 +1,4 @@
+	background-image: url(../images/button_teal.png);
+	border: 1px solid #90c6c8;
+	color: #437b7d;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);

@@ -1,0 +1,5 @@
+	width:960px;
+	margin:0 auto;
+	font:12px/20px Arial, Helvetica, sans-serif;
+	padding-top:37px;
+	display:block;

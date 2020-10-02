@@ -1,0 +1,16 @@
+	font-family: 'Linearicons-Free';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	content: "\e800";
+        margin-left: 4px;
+    color: #a2ca28;
+    background: #fff;
+    padding: 3px 3px;
+    border-radius: 50%;
+    font-size: 11px;

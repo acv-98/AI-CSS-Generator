@@ -1,0 +1,16 @@
+	float:left;
+	width:310px;
+	padding-right:19px;
+	border:3px solid #7b8279;
+	display:inline;
+	list-style:none;
+	padding-top:9px;
+	min-height:215px;
+	height:auto !important;
+	color:#737373;
+	padding-bottom:10px;
+	line-height:17px;
+	margin:0;
+	background:url('images/li-separator.gif') no-repeat center bottom;
+	margin-right:10px;
+	font-size:10px;

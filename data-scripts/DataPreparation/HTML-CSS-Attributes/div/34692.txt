@@ -1,0 +1,9 @@
+    padding: 10px;
+    margin: 0 0 5px;
+    margin-left: 20px;
+    margin-top: 5px;
+    font-size: 30px;
+    margin-bottom: 0px;
+    color: #ffffff;
+    text-transform: uppercase;
+    background: #37bdc5 !important;

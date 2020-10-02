@@ -1,0 +1,10 @@
+	float:left;
+	width:104px;
+	height:23px;
+	margin-left:5px;
+	background:url(../images/input-bg1.gif) no-repeat left top;
+	display:block;
+	border:none;
+	color:#9b9b9b;
+	vertical-align:top;
+	padding:3px 10px;

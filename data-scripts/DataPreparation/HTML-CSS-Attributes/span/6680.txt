@@ -1,0 +1,14 @@
+	text-align:center;
+	width: 100px;
+	margin-right: 40px;
+	float: left;
+	overflow: hidden;
+	text-transform: uppercase;
+	color: #414550;
+	font-size: 14px;
+	margin-top:0px;
+	padding: 0 10px 0 0;
+	background-color:white;
+	box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
+	font-weight:bold;
+	margin-bottom:10px;

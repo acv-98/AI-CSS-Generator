@@ -1,0 +1,9 @@
+	padding:5px 0 20px 0;
+	line-height:22px;
+	display:inline-block;
+	font-family: 'Oswald', sans-serif;
+	font-size:18px;
+	color:#0043e4;
+	text-transform:uppercase;
+	letter-spacing:-1px;
+	text-decoration:none;

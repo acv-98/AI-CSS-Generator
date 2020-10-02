@@ -1,0 +1,10 @@
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+	color: #585858;
+	width: 578px;
+	height: 20px;
+	padding: 5px 10px;
+	font-size: 13px;
+	background-color: #f2f2f2;
+	border: 1px solid #dbdbdb;
+	font-family: Arial, Helvetica, sans-serif;

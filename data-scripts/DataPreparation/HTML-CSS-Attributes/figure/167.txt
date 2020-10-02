@@ -1,0 +1,8 @@
+    padding-top: 18px;
+    width: 100%;
+    display: block;
+    height: 228px;
+    margin-top: -3px;
+    margin-bottom: 14px;
+    font-size: 18px;
+    color: #2a394e;

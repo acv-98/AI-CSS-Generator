@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	float:left;
+	width:650px;
+	font-size:30px;
+	line-height:1.2em;
+	margin-bottom:0;
+	background:url(../images/dot.gif) repeat-x left bottom;
+	border:1px solid #8b8b8b;
+	color:#3f3f3f;
+	display:block;
+	font-weight:bold;
+	text-decoration:underline;

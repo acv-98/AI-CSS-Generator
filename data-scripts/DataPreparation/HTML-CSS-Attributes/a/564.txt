@@ -1,0 +1,3 @@
+  background: rgba(239, 98, 73, 0.7);
+  border: none;
+  color: #fff !important;

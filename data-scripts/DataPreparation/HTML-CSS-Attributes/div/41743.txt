@@ -1,0 +1,26 @@
+  position: relative;
+  padding: 62px 15px 92px;
+  font-size: 1.4rem;
+  line-height: 1.6428571429;
+    content: '';
+    position: absolute;
+    height: 1px;
+    top: 0;
+    right: 15px;
+    left: 15px;
+    margin: 0 0 23px;
+    padding: 4px 0 0;
+    float: none;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    font-weight: bold;
+    list-style: none;
+ display:inline-block;    .footer-holder ul a {
+      color: #333; min-width:60px;  text-align: center; border:1px solid #e6e6e6;
+	  padding: 10px 15px 9px 15px;
+    display: block;
+ font-size:24px;	  
+color:#4099ffcolor:#3b5998color:#ea4c89color:#c92228	.footer-holder ul a:hover {
+ color: #fff !important; @media only screen and (max-width: 992px) {
+  .nav-opener {
+      left: 0;

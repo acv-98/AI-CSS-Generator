@@ -1,0 +1,2 @@
+width:100%;clear:both;width:100%;clear:both;float:left;margin-right:3%;width:65.66%;width:auto;
+width:auto;

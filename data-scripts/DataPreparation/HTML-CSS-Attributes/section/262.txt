@@ -1,0 +1,12 @@
+        width:15%;
+        float: left;
+        margin-right: 10%;
+    background: url(../images/contactbg.png) no-repeat center center;
+    background-size: cover;
+    margin-bottom:45px;
+    overflow: hidden;
+    height: 56px;
+    line-height: 56px;
+    color:#444;
+    font-size: 1.5rem;
+    padding-left: 15px;

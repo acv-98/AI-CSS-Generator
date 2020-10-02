@@ -1,0 +1,16 @@
+  background-color: #28bbf8;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  font-size: 50px;
+  line-height: 60px;
+  font-family: "Playfair Display", serif;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 400px;
+  display: table;
+  width: 100%;
+  vertical-align: middle;
+  color: #ffffff;

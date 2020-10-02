@@ -1,0 +1,3 @@
+	list-style: inside circle;
+	color: #fff;
+	padding-left: 10px;

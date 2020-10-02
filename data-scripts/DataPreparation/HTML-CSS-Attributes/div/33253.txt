@@ -1,0 +1,38 @@
+font-size: 12px !important;vertical-align: -20px !important;
+  .hidden-desktop {
+    display: inherit !important;
+font-size: 12px !important;vertical-align: -20px !important; line-height: 26px !important;content: url(../img/plus-sign.png) !important; content: url(../img/minus-sign.png) !important;  font-size: 9px !important;margin-right: 6px !important;  margin-bottom: 20px;
+  border: 1px solid #e5e5e5;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  border-bottom: 0;
+  padding: 0;
+  cursor: pointer;
+  border-top: 1px solid #e5e5e5;
+    width:400px;
+    float:left;
+    background:#80C347;
+    border-bottom: 1px solid #FFFFFF;
+    cursor: pointer;
+    color:#FFFFFF;
+    padding-left:5px;
+    
+    font-size:14px;
+ margin-bottom: 10px;color: #6f7678; font-family: 'open_sansbold'; font-size: 14px;text-decoration: none;float: left; margin-right: 25px;font-size:14px; color: #2bbbdf; line-height: 26px;font-family: 'open_sansregular'; border-radius: 4px 4px 0 0; color: #000 !important;border: 1px solid #eee;padding:20px;.accordion-heading .accordion-toggle {
+        text-decoration: none;
+        
+        vertical-align: -18px;
+        margin-right: 15px;
+        border-bottom: 0;
+        line-height: 0;
+        color:#000;
+        display:inline-block;
+        content: url(../img/minus-sign.png);
+           
+          content: url(../img/plus-sign.png);
+border-top: none;background: #f7f7f7;border-radius: 0;.featured-accordion .collapse.in {
+border:none;   Sidebar styles starts here
+   Footer styles starts here
+font-weight: normal;
+   Responsive Tweaks starts here

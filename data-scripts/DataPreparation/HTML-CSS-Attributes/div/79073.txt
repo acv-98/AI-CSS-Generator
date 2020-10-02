@@ -1,0 +1,7 @@
+  overflow: hidden;
+	width: 50%;
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	top: 38px;
+	float: left;

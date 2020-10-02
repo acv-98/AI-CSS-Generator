@@ -1,0 +1,16 @@
+	width:220px;
+	overflow:hidden;
+float:left;
+	font-size:18px;
+	font-weight:normal;
+	color:#5fa1c7;
+	text-transform:uppercase;
+	padding-top:10px;
+	margin-bottom:10px;
+padding-bottom:10px; overflow: hidden; padding-bottom:20px; padding-bottom:10px; border-bottom: 1px solid #dddddd;  color:#66a8ce; display:block; color:#ffffff; background:#66a7c5; padding:7px; text-decoration:none; background:#3d3d3d; padding-bottom:10px;CONTACT FORM CLASSS
+ overflow:hidden; line-height:22px; color:#9b9e9a; color:#d13f31; text-decoration:none;color:#66a8ce;Footer sytles start
+.footer {
+	height:auto;
+	background:url(../images/top-bg.png);
+	padding-bottom:40px;
+	margin-top:40px;

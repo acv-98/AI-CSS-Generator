@@ -1,0 +1,18 @@
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  border-left: 0.25rem solid #eceeef;
+  display: block;
+  color: #636c72;
+  content: "\2014 \00A0";
+  padding-right: 1rem;
+  padding-left: 0;
+  text-align: right;
+  border-right: 0.25rem solid #eceeef;
+    border-left-color: #3197d6;
+    background: #fff none repeat scroll 0 0;
+    font-size: 1.1rem;
+    font-style: italic;
+    margin-bottom: 1.5rem;
+    border-radius: 0 !important;
+    padding: 2rem;

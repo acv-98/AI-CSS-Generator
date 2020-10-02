@@ -1,0 +1,10 @@
+        border-color: #e7e7e7;
+        margin-top: 53px;
+        background: #ff0000;
+    background-color: transparent; 
+    transition: all .3s;
+    color:#000000;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    font-size: 0.875rem;
+    max-width: 80%;

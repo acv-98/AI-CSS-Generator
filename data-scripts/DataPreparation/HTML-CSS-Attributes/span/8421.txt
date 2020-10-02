@@ -1,0 +1,5 @@
+    display: block;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: #f9e084;
+      background: rgba(255, 255, 255, 0.3);

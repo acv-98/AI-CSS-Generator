@@ -1,0 +1,11 @@
+	width: 210px;
+	min-height:200px;
+	margin: 0 12px 30px;
+	font-weight: bold;
+	font-size:16px;
+	font-style: italic;
+	text-decoration: none;
+	color: #fff;
+	background: url(../img/bkg_link.png) no-repeat right;
+	padding: 0 22px 0 0;
+	display: block;

@@ -1,0 +1,2 @@
+	background:url(images/bottom-bubble.gif) 4px center no-repeat;
+	padding-left:32px;

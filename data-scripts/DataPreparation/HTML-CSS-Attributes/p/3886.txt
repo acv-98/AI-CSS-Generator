@@ -1,0 +1,5 @@
+		font-size: 1.6rem;
+    color: #fff;
+    font-size: 1.8rem;
+    margin-bottom: 65px;
+    line-height: 30px;	

@@ -1,0 +1,7 @@
+    margin-bottom: 10px;
+    border-radius: 0;
+    border-color: #eaeaea;
+    height: 45px;
+    box-shadow: none;
+    color: #b9b9b9;
+    opacity: 1;

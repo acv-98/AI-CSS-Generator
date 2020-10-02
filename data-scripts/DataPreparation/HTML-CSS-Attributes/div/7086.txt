@@ -1,0 +1,2 @@
+background:url(../images/banner-bg.jpg) no-repeat center; width:910px; height:498px; padding:0px 60px 0px 60px;float:left; width:450px; padding-top:100px; color:#1c263c; font-size:33px; font-size:20px; color:#768297; padding-top:30px; background:#9cff00; border-left:#455268 solid 10px; float:left; width:458px;
+BOX CLASSES

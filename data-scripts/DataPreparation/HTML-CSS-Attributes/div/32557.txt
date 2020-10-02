@@ -1,0 +1,18 @@
+    padding:15px
+    border-top:1px solid #ddd
+    border-bottom:1px solid #ddd
+    border-top-color:#ddd
+    border-bottom-color:#ddd
+    content:" ";
+    display:table
+    clear:both
+	color: #8dc63f;
+		font-size: 28px;
+  background-color: #f0f0f0;
+  font-size: 40px;
+  color: #777777;
+  margin: 0px;
+	padding: 0px;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	font-weight:700;

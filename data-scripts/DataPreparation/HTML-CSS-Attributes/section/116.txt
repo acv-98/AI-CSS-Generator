@@ -1,0 +1,1 @@
+ background: url('../img/hero-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto;  font-size: 40px; letter-spacing: 12px; margin: 10px;  color: #a1a9b0; display: inline-block;  letter-spacing: 1px; 

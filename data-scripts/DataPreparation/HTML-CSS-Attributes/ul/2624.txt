@@ -1,0 +1,9 @@
+  position: relative;
+  padding-left: 31px;
+  content: '';
+  left: 0;
+  top: 9px;
+  width: 10px;
+  height: 10px;
+  background: #129894;
+  border-radius: 5px;

@@ -1,0 +1,5 @@
+	background:#f9f7f7;
+	padding-top: 30px;
+	text-align: center;
+	margin-top:30px;
+	margin-bottom: 0;

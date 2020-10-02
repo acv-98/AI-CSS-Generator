@@ -1,0 +1,7 @@
+	fill: rgba(0, 0, 0, 0);
+	stroke-width: 4;
+	transform: rotate(90deg)translate(0px, -80px);
+    transform: rotate(90deg)translate(0px, -80px);
+	stroke-dasharray: 219.99078369140625;
+	stroke-dashoffset: -219.99078369140625;
+	transition: stroke-dashoffset 2s;

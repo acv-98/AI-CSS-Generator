@@ -1,0 +1,9 @@
+  color: #efefef;
+  border-color: #cfcfcf;
+    background: none;
+    border-bottom: 0;
+    border-top: 1px dotted rgba(255, 255, 255, 0.2);
+    font-size: 0.875rem;
+    line-height: 3.125rem;
+    padding-bottom: 0;
+    display: table;

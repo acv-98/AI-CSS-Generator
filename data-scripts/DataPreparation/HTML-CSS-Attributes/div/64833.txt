@@ -1,0 +1,12 @@
+    margin-top:40px;
+    margin-bottom:30px;
+width: 100px;
+height: 100px;
+line-height: 120px;
+text-align: center;
+background-color: #4bbabe;
+-webkit-transform: rotateZ(45deg);
+-moz-transform: rotateZ(45deg);
+-o-transform: rotateZ(45deg);
+   padding-left:20px;
+display: block;

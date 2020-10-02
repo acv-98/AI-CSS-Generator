@@ -1,0 +1,6 @@
+	border-color: rgb(47, 147, 123);
+	width: 60px;
+ font-weight: 700;button.btn,
+a.btn {
+	margin: 15px 5px;
+	transition: all 0.5s;

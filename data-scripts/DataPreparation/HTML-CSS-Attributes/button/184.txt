@@ -1,0 +1,9 @@
+  color: rgba(255, 255, 255, 0.75);
+  background-color: #363636;
+  *background-color: #222222;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#444444), to(#222222));
+  background-repeat: repeat-x;
+  border-color: #222222 #222222 #000000;
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ff444444', endColorstr='#ff222222', GradientType=0);
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;

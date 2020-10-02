@@ -1,0 +1,12 @@
+text-align:center;-webkit-tap-highlight-color:transparent
+@media (min-width: 992px) and (max-width: 1599px) {
+    .wrapper section.our-blog .item .text {
+        left: -40px;
+        padding: 25px 28px 40px;
+        top: 112px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    margin-top: 45px;
+    margin-bottom: 75px;
+    height: 20px;
+    width: 20px;
+    border: 1px solid #fff;

@@ -1,0 +1,1 @@
+ border-left:none;  border-left:0;  margin-left:0; clear: both border-top:none;

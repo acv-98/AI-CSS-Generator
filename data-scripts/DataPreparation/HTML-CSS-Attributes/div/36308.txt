@@ -1,0 +1,12 @@
+	padding:71px 0 8px 0;
+	margin:0;
+	width:auto;
+	float:right;
+	font:normal 12px/1.5em Arial, Helvetica, sans-serif;
+	color:#aaa08d;
+	text-transform:lowercase;
+	display:block;
+	background:url(images/search_bg.gif) left top no-repeat;
+	height:19px;
+	line-height:16px;
+	border:none;

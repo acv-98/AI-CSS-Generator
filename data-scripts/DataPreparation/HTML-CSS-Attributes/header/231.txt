@@ -1,0 +1,11 @@
+	position: relative;
+	z-index: 10;
+	padding: 15px 0px;
+	width: 100%;
+	transition: height .3s ease-out, background .3s ease-out, box-shadow .3s ease-out;
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	color: #010101;
+	font-size: 18px;
+	border-radius: 4px;
+	background: #d0a772;

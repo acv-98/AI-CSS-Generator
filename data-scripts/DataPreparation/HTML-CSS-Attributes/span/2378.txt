@@ -1,0 +1,11 @@
+  white-space: pre !important;
+  text-align: right !important;
+  padding: 0 0.5em 0 1em !important;
+  padding-left: 0em !important;
+  background: none !important;
+  color: #bbbbbb !important;
+  background-color: white !important;
+  border-right: 3px solid #6ce26c !important;
+  display: inline-block;
+  height: 2px;
+  width: 60px;

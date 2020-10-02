@@ -1,0 +1,10 @@
+	font-size: 22px;
+	position: absolute;
+	top: 20px;
+	right: 30px;
+	color: #fff;
+	bottom: 0px;
+	left: calc(50% - 10px);
+	width: 100%;
+	padding: 15px 0;
+	background: #00a8ff;

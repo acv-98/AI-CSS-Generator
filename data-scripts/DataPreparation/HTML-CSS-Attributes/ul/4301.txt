@@ -1,0 +1,10 @@
+	letter-spacing:-3px;
+	margin:10px 0px 0 83px;
+	display:inline-block;
+	float:left;
+	line-height:50px;
+	font-size:40px;
+	font-family: 'Cabin Sketch', cursive;
+	text-transform:uppercase;
+	font-weight:bold;
+	color:#000;

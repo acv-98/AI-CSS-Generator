@@ -1,0 +1,9 @@
+  font-size: 35px;
+  line-height: 1.1;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 10px 0 30px;
+  font-weight: 600;
+  font-style: italic;
+  color: white;
+    font-size: 55px;

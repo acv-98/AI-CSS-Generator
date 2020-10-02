@@ -1,0 +1,1 @@
+background-color:#af3300background:url(images/nav-act-left.gif) no-repeat left topbackground:url(images/nav-act-right.gif) no-repeat right top

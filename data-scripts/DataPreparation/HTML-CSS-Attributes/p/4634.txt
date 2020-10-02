@@ -1,0 +1,7 @@
+	font:bold 28px/60px Chaparral Pro, Arial, Helvetica, sans-serif;
+	width:300px;
+	height:60px;
+	float:left;
+	color:#fff;
+	text-transform:uppercase;
+	margin-top:11px;

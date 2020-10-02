@@ -1,0 +1,24 @@
+ margin: 12px 18px 0px 0px; 
+.button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+   font: 14px/24px 'montserrat-bold', sans-serif;
+   background: #197C28;
+   color: #fff;
+   display: inline-block;   
+	text-decoration: none;
+   letter-spacing: 0;   
+	padding: 12px 20px;
+	margin-bottom: 18px;
+   border: none;
+   cursor: pointer;
+   height: auto;  
+   -webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	-ms-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+   border-radius: 3px;
+ float: left !important;   float: left;
+  margin-right: .3em;

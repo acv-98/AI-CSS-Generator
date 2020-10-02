@@ -1,0 +1,11 @@
+	behavior: url(js/PIE.htc);
+    position: absolute;
+    display: block;
+    width: 52px;
+    left: 47px;
+    top: -2px;
+    z-index: 20;
+    height: 39px;
+    background: url(../images/photo_icon.png) center 8px no-repeat #fff;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.15)
+    background-image: url(../images/penc_icon.png);

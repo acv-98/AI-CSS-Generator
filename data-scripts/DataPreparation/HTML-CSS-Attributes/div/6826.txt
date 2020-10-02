@@ -1,0 +1,15 @@
+	width:900px;
+	height:auto;
+	overflow:hidden;
+	background:#fff;
+	margin:0 auto;
+	margin-top:40px;
+	padding:30px 30px 0 30px;
+	padding-left:20px;
+	font-size:22px;
+	font-weight:normal;
+	color:#ffffff;
+	text-transform:uppercase;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+	padding-top:10px;
+ font-size:16px; font-weight:normal; color:#b6b6b6; padding-bottom:20px; border-bottom:1px solid #ebebeb; margin-bottom:30px; padding-top:10px; width:260px; border:none;  background:#f4f4f4; float:left; margin-bottom:30px; overflow:hidden; height:auto; padding:10px;padding-bottom:10px; overflow: hidden; padding-bottom:20px; padding-bottom:10px; border-bottom: 1px solid #dddddd;  color:#66a8ce; display:block; color:#ffffff; background:#66a7c5; padding:7px; text-decoration:none; background:#3d3d3d; padding-bottom:10px;CONTACT FORM CLASSS

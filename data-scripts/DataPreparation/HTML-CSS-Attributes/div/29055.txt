@@ -1,0 +1,4 @@
+    background: rgba(55, 38, 57, 0.64);
+    padding:60px 40px;
+    color:#fff;
+    margin-bottom:20px;

@@ -1,0 +1,2 @@
+	border-bottom:1px dashed #c2c2c2;
+	padding-bottom:23px;

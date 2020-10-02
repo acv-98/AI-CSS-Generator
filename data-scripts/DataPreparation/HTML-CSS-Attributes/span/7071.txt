@@ -1,0 +1,7 @@
+    font-size:16px;
+    color:#fff;
+    text-shadow:0 1px 0 #bef3f5;
+    font-family: 'fjalla_oneregular';
+   
+    
+    display:block;

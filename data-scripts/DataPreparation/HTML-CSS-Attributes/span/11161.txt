@@ -1,0 +1,6 @@
+	float:left;
+	font-family: 'Passion One', cursive;
+	font-size:24px;
+	line-height:30px;
+	color:#b30404;
+	margin:0 5px 0 0;

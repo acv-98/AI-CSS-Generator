@@ -1,0 +1,7 @@
+  background: #869791;
+        width: 90px;
+        height: 90px;
+    background-color:transparent;
+    border-radius: 100px;
+    opacity: 1;
+    overflow: hidden;

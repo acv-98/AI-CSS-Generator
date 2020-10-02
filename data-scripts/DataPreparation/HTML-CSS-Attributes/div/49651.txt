@@ -1,0 +1,6 @@
+  position: absolute;
+  left: 15px;
+  top: 30px;
+  display: block;
+  z-index: 20;
+  width: auto !important;

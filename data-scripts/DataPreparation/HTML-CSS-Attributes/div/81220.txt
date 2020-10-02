@@ -1,0 +1,9 @@
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+ background-image:url('../img/bg/slider03.jpg'); .parallax  .content-heading{
+    padding: 20% 0;
+    text-align: center;

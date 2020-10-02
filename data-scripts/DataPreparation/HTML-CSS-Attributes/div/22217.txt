@@ -1,0 +1,4 @@
+  color: #606060;
+  display: block;
+  padding-top: 4px;
+  padding-bottom: 4px;

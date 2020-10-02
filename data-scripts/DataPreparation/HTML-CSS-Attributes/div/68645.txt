@@ -1,0 +1,1 @@
+overflow:hidden; text-transform:uppercase; margin:13px 0 23px 0;float:left; width:190px; margin-right:20px;margin-bottom:13px;

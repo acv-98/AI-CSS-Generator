@@ -1,0 +1,15 @@
+	border-radius: 0;
+	height:43px;
+    border-color: rgb(25, 192, 200);
+    outline: 0;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(25,192,200,.6);
+	height:135px; .inner_search {
+	width: 100%;
+	position: absolute;
+	background-color: none;
+	opacity: 0;
+	z-index: 110;
+	top: 0px;
+	left: 0px;
+	-webkit-transition: all 0.4s ease;
+	transition: all 0.4s ease;

@@ -1,0 +1,8 @@
+  background-color: #a5d549;
+  display: inline;
+  float: left;
+  width: 100%;
+  height: 500px;
+  top: 47%;
+    height: 450px;
+    width: 40px;

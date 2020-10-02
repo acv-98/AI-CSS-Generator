@@ -1,0 +1,21 @@
+outline: none;.slides,
+.flex-control-nav,
+margin: 0; padding: 0;position: relative;  zoom: 1; display: none; -webkit-backface-visibility: hidden;width: 100%; display: block;position: relative;  zoom: 1; z-index: 50;	background: #fff;
+	zoom: 1;
+margin-bottom: -30px;zoom: 1;.flex-direction-nav a {
+	width: 35px;
+	height: 35px;
+	display: block;
+	background-color: #555;
+	top: 20px;
+	right: 20px;
+	float: none;
+	position: absolute;
+	cursor: pointer;
+	text-indent: -9999px;
+	*bottom: 50px;
+	-webkit-transition: all 0.1s ease-in-out;
+	-moz-transition: all 0.1s ease-in-out;
+	-o-transition: all 0.1s ease-in-out;
+	-ms-transition: all 0.1s ease-in-out;
+	transition: all 0.1s ease-in-out;

@@ -1,0 +1,22 @@
+background:#217b9d;		background:url(../images/design/img-meta.png) right top no-repeat transparent;
+		min-width:61px;
+		min-height:46px;
+		position:absolute;
+		left:622px;
+		top:15px;
+		z-index:100;
+		padding:0;
+		margin:0;
+		line-height:15px;
+		text-align:center;margin:auto;
+		font-family:"Open Sans"; font-size:20px;font-weight:600; color:#ffffff;
+font-size:10px;display:block;padding-bottom:1px;	* Style 2
+		float:left;
+		width:125px;
+		margin-right:25px;
+float:right;margin:0 0 0 25px;		font-size:11px;
+		color:#8a8a8a;
+color:#3b3b3b;	.body .blog.style-2 .meta p {
+		border-bottom:1px solid #dfdfdf;
+		font-weight:600;
+position:absolute;top:12px;left:6px;z-index:1000;background:none;padding:6px;background:#3aa9d2;color:#dedede;line-height:11px;font-size:11px;width:105px;margin-right:20px;left:461px;width:100%;margin:0 0 10px 0;left:380px;display:none;

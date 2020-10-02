@@ -1,0 +1,15 @@
+	position: relative;
+	width: 197px;
+	margin-left: -15px;
+	height: 400px;
+	top: 0;
+	left: 0;
+	display: none;
+	background:#d1f7b6;
+	border:1px solid #8bca61;
+	color:#5e9537;
+	clear:both;
+	text-shadow: none;
+	padding: 15px 15px 13px 15px;
+	line-height: 17px;
+	font-size: 12px;

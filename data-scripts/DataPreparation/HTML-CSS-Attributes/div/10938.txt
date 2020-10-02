@@ -1,0 +1,4 @@
+	color:#9d9d9d;
+	font-style:italic;
+	padding-bottom:8px;
+	text-decoration:none;

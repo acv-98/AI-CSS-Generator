@@ -1,0 +1,26 @@
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  padding: 15px;
+  display: table;
+  content: " ";
+  clear: both;
+  border-width: 1px 0;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+  border-bottom: 0;
+  border-top-width: 0;
+  margin-top: 0;
+  font-size: 16px;
+  color: inherit;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  overflow: hidden;
+  border-color: #dddddd;
+  border-top-color: #dddddd;
+  border-bottom-color: #dddddd;
+line-height: 40px !important; font-size: 12px !important;padding: 10px !important;background: #fff;color: #34b091; font-size: 16px; padding: 0;line-height: 40px;text-decoration: none;background: #f0f0f0;color: #989898; font-size: 14px;padding: 20px 15px;.block .panel-group .panel + .panel {
+padding-left: 10px;background: #3b3e4a !important; display: block; padding-left: 10px; color: #fff;

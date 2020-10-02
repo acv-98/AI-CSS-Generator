@@ -1,0 +1,10 @@
+	color: #f6f7ea;
+	display: inline-block;
+	background-color: #9b9a87;
+	padding: 29px 20px 28px 18px;
+	margin-top: 54px;
+	font:  27px/27px 'Open Sans', sans-serif;
+	font-size: 50px;
+	position: relative;
+	top: -4px;
+	margin-right: 2px;

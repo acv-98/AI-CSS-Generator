@@ -1,0 +1,5 @@
+	background-color: #fff;
+	display: inline;
+	float: left;
+	padding: 20px;
+	width: 100%;

@@ -1,0 +1,7 @@
+    color:#fff;
+    font-size: 40px;
+    font-family: 'lobsterregular';
+	margin-top:10px;
+	margin-bottom: -25px;
+	font-family: 'pt_sansitalic';
+	font-size:13px;

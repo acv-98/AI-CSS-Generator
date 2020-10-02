@@ -1,0 +1,4 @@
+	position: relative;
+	z-index: 999;
+	float: right;
+	padding-top: 6px;

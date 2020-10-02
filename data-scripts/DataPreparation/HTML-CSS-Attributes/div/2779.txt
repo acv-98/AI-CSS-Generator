@@ -1,0 +1,10 @@
+         font-size: 18px;
+     color: #000000;
+     font-weight: 700;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     display: inline-block;
+     width: 100%;
+     border: 1px #000000 dashed;
+     float: left;
+     padding: 0px 15px;

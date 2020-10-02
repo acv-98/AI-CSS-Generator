@@ -1,0 +1,9 @@
+		text-align: justify;
+		margin-top:73px !important;
+	font-size:28px;
+	color: #2f2f2f;
+	font-family: 'Roboto', 'sans-serif';
+	font-weight: 400;
+	line-height: 22px;
+	margin-bottom: 0;
+	float: right;

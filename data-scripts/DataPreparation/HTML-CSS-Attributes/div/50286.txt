@@ -1,0 +1,12 @@
+	position:absolute;
+	bottom:30px;
+	width:64px;
+	height:16px;
+	margin:0 auto;
+	list-style:none;
+	display:inline;
+	float:left;
+	background:url(images/btn-dot.gif) no-repeat 0 0;
+	overflow:hidden;
+	text-decoration:none;
+	background-position:0 -16px;

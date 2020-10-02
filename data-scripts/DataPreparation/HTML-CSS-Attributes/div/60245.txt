@@ -1,0 +1,11 @@
+outline: none;.slides,
+.flex-control-nav,
+width: 100%; margin: 0; padding: 0;max-width: 100%; display: block;	background: #888888;
+	position: relative;
+	zoom: 1;
+	
+	-webkit-box-shadow: 2px 2px 0px rgba(0,0,0,.2);
+	-moz-box-shadow: 2px 2px 0px rgba(0,0,0,.2);
+	-o-box-shadow: 2px 2px 0px rgba(0,0,0,.2);
+	box-shadow: 2px 2px 0px rgba(0,0,0,.2); 
+zoom: 1;position: relative;

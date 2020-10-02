@@ -1,0 +1,9 @@
+ width: 160px; 	
+ width: 252px; 	#posts-list,
+	#post-content,
+	#page-content{ 
+		width: 252px;
+		margin-left: 33px;
+ width: 435px; 	float: left;
+	margin-bottom: 40px;
+	color: #444;

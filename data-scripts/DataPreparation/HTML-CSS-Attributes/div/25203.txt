@@ -1,0 +1,1 @@
+ width: 45%;  width: 46%;  width: 48%;  width: 100%;  float: none!important; display: inline-block; padding: 0px 10px; width: 38%; float: left; 

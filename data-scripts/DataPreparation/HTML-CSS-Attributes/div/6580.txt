@@ -1,0 +1,13 @@
+		padding-top: 20%;
+	background: url(uploads/banner.jpg)no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	min-height: 300px;
+	color: #fff;
+	font-weight: 800;
+	text-transform: capitalize;
+	font-size: 3em;
+	line-height: 0em;

@@ -1,0 +1,14 @@
+  width: 100%;
+  display: table;
+  height: 265px;
+  position: relative;
+  margin-bottom: 30px;
+  vertical-align: middle;
+  padding: 40px;
+  background: rgba(255, 255, 255, 0.8);
+  opacity: 0;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  color: rgba(0, 0, 0, 0.5);
+    opacity: 1;

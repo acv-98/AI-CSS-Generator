@@ -1,0 +1,16 @@
+ font-size: 22px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: normal;  border-color: #cfcfcf;  width: 30% !important; 
+    float: none;
+    margin-right: 0%;
+    width: 100%;
+	margin-bottom: 0px;
+	color: #030303;
+	font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif;
+	font-size: 20px;
+	height: 350px;
+	font-style: italic;
+	width: 31%;
+	border-left: 3px solid #CFCFCF;
+	float: left;
+	margin-right: 1%;
+	padding-left: 10px;
+padding-top:0;position: absolute; top: 0;left: 0;width: 100%;height: 100%; 

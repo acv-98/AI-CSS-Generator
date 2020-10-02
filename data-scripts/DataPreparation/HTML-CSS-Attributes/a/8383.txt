@@ -1,0 +1,14 @@
+	display: table;
+	font-family: 'Yanone Kaffeesatz', arial, serif;
+	font-size: 18px;
+	color: #3c590b;
+	background: #c2ee77 url(../img/button-download.png) no-repeat center left;
+	padding: 10px 23px 10px 100px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-webkit-box-shadow: 0px 1px 2px rgba(0,0,0,.5); 
+	-moz-box-shadow: 0px 1px 2px rgba(0,0,0,.5); 
+	box-shadow: 0px 1px 2px rgba(0,0,0,.5); 
+	font-style: italic;
+	line-height: 1em;

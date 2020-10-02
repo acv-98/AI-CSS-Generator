@@ -1,0 +1,6 @@
+	color: #fff;
+	font-size: 20px;
+	font-weight: 400;
+	margin-left: 5px;
+	display: block;
+	padding: 0;

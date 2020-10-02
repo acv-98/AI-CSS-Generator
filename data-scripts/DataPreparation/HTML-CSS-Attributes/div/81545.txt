@@ -1,0 +1,4 @@
+
+.main_blog_area .single_blog .single_blog_text h6{
+    font-weight: 500;
+    font-size:0.714rem;

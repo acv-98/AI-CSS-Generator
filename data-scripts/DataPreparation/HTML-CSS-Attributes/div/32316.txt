@@ -1,0 +1,6 @@
+	width:36%;
+	float:right;
+	padding: 10px 1% 10px 0px;
+	color: #d5d5d5;
+	margin:0px;
+	border:0px;

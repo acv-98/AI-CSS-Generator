@@ -1,0 +1,7 @@
+	float:right;
+	color: #FFF;
+	font-size: 1.5em;
+	margin-top: 0.6em;
+	font-weight: 600;
+	vertical-align:top;
+		font-size: 1em;

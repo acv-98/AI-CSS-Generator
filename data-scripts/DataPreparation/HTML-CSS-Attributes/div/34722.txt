@@ -1,0 +1,12 @@
+    z-index: 1;
+    padding: 65px 65px 65px 65px;
+    position: relative;
+    margin: 0;
+    background-color: #ffffff;
+    content: "";
+    display: block;
+    height: 100%;
+    right: -27%;
+    top: 0;
+    transform: rotate(80deg);
+    width: 100%;

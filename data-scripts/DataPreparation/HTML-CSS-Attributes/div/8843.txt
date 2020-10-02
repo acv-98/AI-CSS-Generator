@@ -1,0 +1,9 @@
+	padding: 40px 0;
+		margin-top: 40px;
+		float: left;
+		width: 100px;
+	background-color: #222;
+	color: #FFF;
+		color: #FFF;
+		display: block;
+		text-align: center;

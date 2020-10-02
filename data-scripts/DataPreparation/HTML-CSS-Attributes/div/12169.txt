@@ -1,0 +1,17 @@
+  margin-bottom: 30px;
+  overflow: hidden;
+  width: 100%;
+  border-top: 0;
+  padding: 20px 20px 0 20px;
+  height: 26px;
+  text-align: center;
+  background-color: #e84c3d;
+  display: block;
+  margin-top: 30px;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  color: white;
+  line-height: 26px;
+  font-size: 24px;
+  font-weight: normal;
+  outline: 0;

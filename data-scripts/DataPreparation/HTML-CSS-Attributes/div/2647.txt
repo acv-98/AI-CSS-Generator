@@ -1,0 +1,14 @@
+	width: auto;
+	max-width: 30%;
+	padding: 10px 20px;
+	margin: 0 0 0px 0px;
+	position: absolute;
+	display: block;
+	left: 20px;
+	bottom: 20px;
+	background-color: #222;
+background-color: #222; background: rgba(0, 0, 0, 0.6);	
+.slide-caption h3 {
+	color: #fff;
+	font-size: 18px;
+	line-height: 33px;

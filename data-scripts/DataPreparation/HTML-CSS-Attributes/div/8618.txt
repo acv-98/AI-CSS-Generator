@@ -1,0 +1,7 @@
+ padding: 30px 40px; 
+.gallery_title {
+	width: auto;
+	border-left: 4px solid #19beb6;
+	padding-left: 20px;
+	margin-bottom: 40px;
+ padding: 20px;	

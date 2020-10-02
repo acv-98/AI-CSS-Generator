@@ -1,0 +1,17 @@
+    border-bottom: 15px solid rgba(0, 0, 0, 0.15);
+    border-left: 8px solid transparent;
+    border-top: 15px solid rgba(0, 0, 0, 0.15);
+    content: "";
+    left: -8px;
+    position: absolute;
+    top: 0;
+    background: rgba(0, 0, 0, 0.15) none repeat scroll 0 0;
+    float: left;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 55px;
+    width: 154px;
+    border-right: 8px solid transparent;
+    right: -8px;
+        margin-top: 45px;
+        width: 144px;

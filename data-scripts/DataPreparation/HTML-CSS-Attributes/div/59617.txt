@@ -1,0 +1,1 @@
+ width: 32px; height: 27px; background: url(../img/twitter-bird.png) no-repeat center center; margin: 0 auto; 

@@ -1,0 +1,18 @@
+  color: #6d6d6d;
+  font-size: 15px;
+  line-height: 1.4em;
+	display: block;
+	font-size: 15px; 
+	padding: 0px;  
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+	color: #000;
+	outline: none;
+ display: block;.comments-area {
+  display: inline;
+  float: left;
+  margin: 20px 0 30px;
+  width: 100%;
+font-size: 14px;font-size: 12px;

@@ -1,0 +1,4 @@
+	color:#e41480;
+	text-align:right;
+	font-size:22px;
+	padding-right:20px;

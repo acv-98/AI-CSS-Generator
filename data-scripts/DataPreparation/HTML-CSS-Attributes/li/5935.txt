@@ -1,0 +1,3 @@
+	text-decoration:none;
+	color:#929292;
+	background:url(../images/menu_a.gif) no-repeat center top;

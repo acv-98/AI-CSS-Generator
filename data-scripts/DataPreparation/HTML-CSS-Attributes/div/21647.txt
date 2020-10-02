@@ -1,0 +1,12 @@
+    float: none !important;
+    width: 100% !important;
+  margin-right: 1.5625%;
+  padding: 3px;
+  border: 1px solid #b7bdbd;
+  display: block;
+  margin-bottom: 12px;
+  background: 0;
+  color: #000;
+  font-size: 18px;
+  padding-right: 5px;
+  vertical-align: middle;

@@ -1,0 +1,7 @@
+	text-align:center;
+	color:#3c3c3c;
+    margin-bottom: 40px;
+    margin-left: 10px;
+	margin-left:10px;
+	margin-bottom:10px;
+	display:block;

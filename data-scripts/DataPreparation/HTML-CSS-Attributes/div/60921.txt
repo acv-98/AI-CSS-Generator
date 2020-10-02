@@ -1,0 +1,5 @@
+  width: 100%;
+  display: inline-block;
+  font-size: 0;
+  margin-bottom: 30px;
+    margin-bottom: 2.3%;

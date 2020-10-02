@@ -1,0 +1,2 @@
+ background: url(images/footer-cols.png) repeat-x 0 0; padding: 15px 32px 0;  
+ float: right; line-height: 11px; font-size: 11px; color: #717171;  padding: 0 8px;  color: #717171; text-decoration: underline;  color: #fff; text-decoration: none;  padding-left: 20px; padding-right: 20px;  padding-left: 10px; padding-right: 10px;  float: none; display: block; clear: both; 

@@ -1,0 +1,4 @@
+	border-top: 1px solid #5D5D5F;
+	border-bottom: 1px solid #5D5D5F;
+	padding-top: 70px;
+	padding-bottom: 70px;

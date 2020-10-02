@@ -1,0 +1,10 @@
+  width: 300px;
+  *width: 31.861702127659576%;
+  float: none;
+  margin-left: 0;
+    width: 370px;
+    *width: 31.570740134569924%;
+ width: 95.5%; #respond input[type="text"] {
+    height: 34px;
+    padding-left: 50px;
+ width: 81.3% !important;  width: 84.5% !important;  width: 81.3% !important;  width: 74.9% !important; 

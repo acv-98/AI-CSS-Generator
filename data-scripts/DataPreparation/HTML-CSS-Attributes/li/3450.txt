@@ -1,0 +1,5 @@
+    font-size:45px!important;
+    padding: 15px 0px;
+background-color: rgba(162, 188, 253, 1);
+border: none;
+font-weight: 900;

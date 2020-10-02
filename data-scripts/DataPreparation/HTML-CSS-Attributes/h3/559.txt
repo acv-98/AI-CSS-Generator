@@ -1,0 +1,6 @@
+	text-align:center;
+	padding:5% 0;
+	color:#555;
+	text-transform:uppercase;
+	font-size:1em;
+		font-size: 0.85em;

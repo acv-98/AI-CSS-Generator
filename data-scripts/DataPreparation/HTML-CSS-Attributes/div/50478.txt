@@ -1,0 +1,11 @@
+	position:absolute;
+	top:248px;
+	left:833px;
+	float:left;
+	margin-right:5px;
+	width:19px;
+	height:19px;
+	background:#452115;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;

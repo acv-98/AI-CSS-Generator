@@ -1,0 +1,1 @@
+ width:932px; height:217px; background:url(images/logo.jpg) no-repeat center center;

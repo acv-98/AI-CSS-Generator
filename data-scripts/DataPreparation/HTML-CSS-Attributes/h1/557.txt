@@ -1,0 +1,3 @@
+        top: 250px;
+        right: -230px;
+    font-size: 14.6rem;

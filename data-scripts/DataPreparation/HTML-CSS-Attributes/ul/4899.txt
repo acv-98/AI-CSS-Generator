@@ -1,0 +1,9 @@
+	list-style: none;
+	margin: 0 64px 0 0;
+	padding: 40px 0 0;
+	float: left;
+	width: 153px;
+	color: #ad8753;
+	font-family: arial;
+	font-size: 14px;
+	text-decoration: none;

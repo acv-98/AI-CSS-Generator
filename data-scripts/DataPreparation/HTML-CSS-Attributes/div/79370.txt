@@ -1,0 +1,7 @@
+	background: url(../images/bg-image-higlight.jpg) no-repeat;
+	float: right;
+	margin-left: 45px;
+	padding: 35px 0 0;
+	position: relative;
+	width: 614px;
+	margin-top: 0;

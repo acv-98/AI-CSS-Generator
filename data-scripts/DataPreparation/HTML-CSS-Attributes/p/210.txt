@@ -1,0 +1,4 @@
+	font-family: "OpenSans Regular";
+	font-size:11.32px;
+	color: #fff;
+	float: left;

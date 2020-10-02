@@ -1,0 +1,9 @@
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    line-height: 24px;
+    content: "\2022";
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #095153;
+ content: none;  margin-right: 12px; 

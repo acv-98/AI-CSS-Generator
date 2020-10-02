@@ -1,0 +1,4 @@
+	position: relative;
+	display: block;
+	float: left;
+display:table; height:31px; padding-left:15px; font-size:14px; line-height:1em; color:#515153; background:url("../img/sprites.png") 0 -205px no-repeat;display:block; height:31px; margin-left:5px; padding-left:5px; padding-top:7px; padding-right:12px; background:url("../img/sprites.png") no-repeat right -166px;color:#999;position:absolute; top:25px; right:30px;

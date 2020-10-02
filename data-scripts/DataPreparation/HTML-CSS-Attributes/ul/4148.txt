@@ -1,0 +1,10 @@
+	float:left;
+	width:49%;
+	margin-right:2%;
+	background:#6DAAFF;
+	border:3px solid #6DAAFF; 
+	color: #FFF;
+	font-weight:700;
+		float: none;
+		width: 100%;
+		margin-right: 0%;

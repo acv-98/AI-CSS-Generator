@@ -1,0 +1,5 @@
+	margin-top:60px;
+	font-size:18px;
+	margin-bottom:15px;
+	letter-spacing:2px;
+	line-height:1.9em;

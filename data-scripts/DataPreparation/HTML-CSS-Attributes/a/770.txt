@@ -1,0 +1,14 @@
+  color: #fff;
+  display: inline-block;
+  background-color: #e37655;
+  border: 1px solid #ffa887;
+  border-bottom: 1px solid #cf6241;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.1);
+  font-size: 14px;
+  line-height: 1;
+  padding: 8px 10px;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);

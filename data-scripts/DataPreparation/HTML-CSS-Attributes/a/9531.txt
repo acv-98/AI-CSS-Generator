@@ -1,0 +1,6 @@
+	display: block;
+	background: url(../images/arrow_btn.png) no-repeat 88px 24.9px;
+	padding: 16px 22px 9px 0px;
+	color: #EB6841;
+	font-size: 16px;
+	text-decoration: none;

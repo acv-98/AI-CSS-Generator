@@ -1,0 +1,42 @@
+height:400px;height:400px !important;height:400px;height:400px;height:400px;height:400px;height:400px;padding:0; overflow: hidden !important;.ei-slider{
+	position: relative;
+	width: 100%;
+	max-width: 1920px;
+	height: 338px;
+	margin: 0 auto;
+	background: #fdfdfd url('../images/bg/elastic-slider-bg.png') repeat-x top left;
+	top: 0px;
+	left: 0px;
+	z-index:50;
+	color: #fff;
+	text-align: center;
+	line-height: 400px;
+	list-style:none;
+	overflow: hidden;
+	float: left;
+	text-indent: -9000px;
+	display: block;
+	cursor: pointer;
+	-webkit-box-shadow: 
+        0px 1px 1px 0px rgba(0,0,0,0.3), 
+        0px 1px 0px 1px rgba(255,255,255,0.5);
+	-moz-box-shadow: 
+	box-shadow: 
+	-webkit-transition: background 0.2s ease;
+    -moz-transition: background 0.2s ease;
+    -o-transition: background 0.2s ease;
+    -ms-transition: background 0.2s ease;
+    transition: background 0.2s ease;
+	background-color: #f0f0f0;
+	bottom: 50px;
+	opacity: 0;
+	-webkit-box-reflect: 
+        below 0px -webkit-gradient(
+            linear, 
+            left top, 
+            left bottom, 
+            from(transparent), 
+            color-stop(50%, transparent), 
+            to(rgba(255,255,255,0.3))
+            );
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";

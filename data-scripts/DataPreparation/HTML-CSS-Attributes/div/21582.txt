@@ -1,0 +1,8 @@
+ padding: 0 0px !important;   float: left;
+  padding: 0 15px 0 0;
+  width: 310px;
+  margin: 0;
+  font-size: 1.4em;
+  line-height: 1.25em;
+  clear: left;
+  font-weight: normal;

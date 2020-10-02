@@ -1,0 +1,14 @@
+	overflow:hidden;
+	font-size:14px;
+	line-height:18px;
+	padding:0 0 12px 14px;
+	background:url(../images/list-1-marker.gif) no-repeat 0 5px;
+	float:left;
+	color:#717171;
+	text-decoration:none;
+	max-width:70%;
+	margin:0 6px 0 0;
+	display:block;
+	height:15px;
+	width:60px;
+	text-align:left;

@@ -1,0 +1,7 @@
+	background:transparent url(images/footerimgbg.png) left top no-repeat;
+	display:block;
+	float:left;
+	height:78px;
+	width:78px;
+	padding:3px 0 0 4px;
+	margin:5px;

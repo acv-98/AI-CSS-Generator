@@ -1,0 +1,1 @@
+ border-color: #dfdcdc;  position:static;  padding-bottom:20px; 

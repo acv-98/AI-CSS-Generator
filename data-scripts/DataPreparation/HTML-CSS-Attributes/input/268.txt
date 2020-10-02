@@ -1,0 +1,1 @@
+background:url(../images/news-letter-bg-1.gif) no-repeat; width:299px; height:35px; color:#222156; padding-left:10px; text-align:left; line-height:35px; border:none;background:url(../images/news-letter-bg-2.gif) no-repeat; width:217px; height:35px; color:#222156; padding-left:10px; text-align:left; line-height:35px; border:none; 

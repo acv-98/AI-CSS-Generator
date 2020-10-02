@@ -1,0 +1,4 @@
+	border: 1px solid #dfdfdf;
+	background-color: transparent;
+	border-right: 2px solid #df4c18;
+	border-bottom: 2px solid #df4c18;

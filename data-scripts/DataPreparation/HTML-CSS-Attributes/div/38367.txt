@@ -1,0 +1,3 @@
+  width: 146px;
+  height: 30px;
+  background: transparent url(images/search-go.png) no-repeat right top;

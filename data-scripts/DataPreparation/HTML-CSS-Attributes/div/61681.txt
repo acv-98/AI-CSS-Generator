@@ -1,0 +1,17 @@
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  float: left;
+  z-index: 2;
+  outline: none;
+  width: 100%;
+  max-width: 100%;
+  content: " ";
+  clear: both;
+  margin-top: -1px;
+  margin-left: 0;
+  border-radius: 0;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;

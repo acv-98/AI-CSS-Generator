@@ -1,0 +1,3 @@
+background-color: rgba(0,0,0,.35); padding: 15px 0;background-color: rgba(0,0,0,.3); padding: 35px 0;
+.color-custom {
+	margin-top:-57px;

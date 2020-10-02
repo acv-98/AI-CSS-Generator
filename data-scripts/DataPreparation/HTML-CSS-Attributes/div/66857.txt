@@ -1,0 +1,13 @@
+	display: inline;
+	float: left;
+	width: 100%;
+	border: 1px solid #19191a;
+	border-radius: 50px;
+	color: #19191a;
+	font-size: 12px;
+	margin-right: 10px;
+	text-align: center;
+	text-decoration: none;
+	transition: all 0.2s ease-in-out 0s;
+	height: 35px;
+	line-height: 35px;

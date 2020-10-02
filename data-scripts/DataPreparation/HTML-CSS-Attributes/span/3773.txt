@@ -1,0 +1,13 @@
+  position: relative;
+  width: 1.315rem;
+  height: 0.0625rem;
+  display: inline-block;
+  transition-duration: 300ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  background: #222324;
+  left: 0;
+  content: " ";
+  bottom: .625rem;
+  top: -.3125rem;
+    background: #222324;

@@ -1,0 +1,2 @@
+	padding:13px 12px 8px 13px;
+	background:no-repeat center bottom;

@@ -1,0 +1,6 @@
+    color: #666;
+    font-size: 1.2rem;
+    padding: 12px 20px;
+    border-radius: 0;
+    border-color: #993334;
+    box-shadow: 0 0 0 0.2rem #9933343b;

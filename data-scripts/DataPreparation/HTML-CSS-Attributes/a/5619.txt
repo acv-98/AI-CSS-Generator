@@ -1,0 +1,4 @@
+background: url(../images/prettyPhoto/light_rounded/sprite.png) -88px -53px no-repeat;
+a{
+	color: #ed0f0f;
+ background: url(../img/komodo-icons/facebook_32.png); 

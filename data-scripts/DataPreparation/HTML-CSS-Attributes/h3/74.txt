@@ -1,0 +1,9 @@
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: #ccc;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding: 0;
+  line-height: 1.5;
+  font-weight: 100;
+  font-family: "Montserrat", arial, sans-serif;

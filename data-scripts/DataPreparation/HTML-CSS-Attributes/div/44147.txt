@@ -1,0 +1,6 @@
+	    font-weight: 400;
+	    font-size: 28px;
+	    line-height: 1em;
+	    padding: 30px;
+	    margin: 0;
+	    color: #c1c1c1 !important;

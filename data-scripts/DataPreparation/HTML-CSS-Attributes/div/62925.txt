@@ -1,0 +1,6 @@
+	margin:0;
+	padding:0;
+	float:left;
+	width:260px;
+	background:url(../images/white_bg.jpg) repeat left top;
+	color:#c4c3c3;

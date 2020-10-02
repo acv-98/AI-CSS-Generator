@@ -1,0 +1,12 @@
+		clear: both;
+		border-top: 1px dotted #DDDDDD;
+		padding: 15px 0;
+			font-size: 1.2em;
+			margin-bottom: 6px;
+				color: #1F5053;
+				text-decoration: none;
+			padding: 4px;
+			border: 1px solid #CCCCCC;
+			float: left;
+			height: 100px;
+	padding-top: 20px;

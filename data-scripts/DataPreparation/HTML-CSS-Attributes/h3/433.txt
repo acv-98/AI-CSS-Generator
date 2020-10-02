@@ -1,0 +1,4 @@
+ background-image: url("../images/icons/24/checkmark.png"); 
+		.text h2,
+		.text h3,
+		.text ul,

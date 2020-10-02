@@ -1,0 +1,3 @@
+		border-bottom: none;
+	background: #DB5941;
+	color:#fff;

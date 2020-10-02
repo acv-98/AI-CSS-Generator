@@ -1,0 +1,14 @@
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	margin-top: 19px;
+	padding-top: 24px;
+	border-top: 2px solid #2aae96;
+	text-align: center;
+	font-size: 0;
+	line-height: 0;
+	display: inline-block;
+	width: 31px;
+	height: 31px;
+	background: url(../images/soc1.png) 0 0 no-repeat;
+	opacity: 0.5;
+	margin-left: 8px;
+	background-position: -39px 0;

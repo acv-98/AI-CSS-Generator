@@ -1,0 +1,14 @@
+	color: #f7639a;
+	font-size: 21px;
+	position: relative;
+	width: 126px;
+	margin: 0 auto;
+	overflow: hidden;
+	text-align: center;
+	content: ' ';
+	border-bottom: dotted 2px #ffffff;
+	top: 50%;
+	margin-top: -4px;
+	left: 0;
+	right: 0;
+	border-color: #b2b2b2;

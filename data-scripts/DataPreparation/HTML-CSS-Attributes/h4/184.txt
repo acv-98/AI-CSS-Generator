@@ -1,0 +1,10 @@
+     float: left;
+     margin: 0;
+     font-size: 15px;
+     font-weight: 400;
+     color: #fff;
+     height: 25px;
+     width: 100%;
+     padding: 6px 0 0;
+     border-top: solid #eee 2px;
+     text-align: left;

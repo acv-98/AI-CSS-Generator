@@ -1,0 +1,8 @@
+    padding: 0;
+    border: 0;
+      -webkit-box-shadow: 2.5px 4.33px 20px 0px rgba(133, 129, 129, 0.27);
+              box-shadow: 2.5px 4.33px 20px 0px rgba(133, 129, 129, 0.27);
+    font-size: 20px;
+    color: #4f4f4f;
+    font-weight: bold;
+    margin-bottom: 30px;

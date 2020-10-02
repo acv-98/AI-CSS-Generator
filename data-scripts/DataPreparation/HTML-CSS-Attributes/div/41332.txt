@@ -1,0 +1,7 @@
+	display:block;
+	width:60px;
+	height:60px;
+	text-indent:-5000px;
+	float:left;
+	margin-right:20px
+	background:url(../images/numb-1.png) 0 0 no-repeat

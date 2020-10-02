@@ -1,0 +1,7 @@
+    color: #58a267;
+    display: none;
+    margin: 0 0 15px 0;
+    content: '';
+    height: 0;
+    clear: both;
+    visibility: hidden;

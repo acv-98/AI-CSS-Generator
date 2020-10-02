@@ -1,0 +1,6 @@
+	display:inline-block;
+	font-size:12px;
+	color:#fff;
+	text-decoration: underline;
+	background:url(../images/link-marker.gif) no-repeat right 7px;
+	padding:0 11px 0 0;

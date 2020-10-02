@@ -1,0 +1,18 @@
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 400px;
+  margin-bottom: 30px;
+  width: 100%;
+  display: table;
+  opacity: 0;
+  padding: 0;
+  text-decoration: none;
+  color: #fff;
+    opacity: 1;
+  vertical-align: middle;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin-top: 30px;

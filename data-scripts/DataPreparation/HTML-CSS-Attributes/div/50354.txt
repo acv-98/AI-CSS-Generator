@@ -1,0 +1,6 @@
+	position:absolute;
+	height:57px;
+	width:37px;
+	background:url(images/left-abs-ico.gif) no-repeat 0 0;
+	top:60px;
+	right:-36px;

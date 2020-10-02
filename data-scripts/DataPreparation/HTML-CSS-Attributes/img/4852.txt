@@ -1,0 +1,4 @@
+ margin-bottom: 5px; 
+.tm-copyright-text { 
+	color: #999999; 
+	margin-bottom: 0;

@@ -1,0 +1,3 @@
+	text-decoration:none;
+	color:#4786ab;
+	background:#e9e9e9 url(../images/menu_a.gif) repeat-x left top;

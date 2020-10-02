@@ -1,0 +1,12 @@
+	position: relative;
+	width: 307px;
+	height: 129px;
+	background: url(../img/thumb-bg.png) no-repeat;
+	margin-bottom: 5px;
+	top:2px;
+	left: 2px;
+	font-size: 14px;
+	line-height: 1.5em;
+	color: #665d4e;
+	border-top: 2px solid #665d4e;
+	padding-top: 10px;

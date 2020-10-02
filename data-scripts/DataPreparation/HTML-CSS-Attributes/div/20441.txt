@@ -1,0 +1,13 @@
+        min-width: 14.1875rem;
+        max-width: 8.6875rem;
+        padding: 0px 7px;
+        font-size: 0.875rem;
+        height: 56px;
+    background: #dddddd;
+    width: 100%;
+    color: #202242;
+    border: 0px;
+    font-family: 'ralewaylight';
+    margin-left: -4px;
+    border-left: 1px solid #fff;
+    outline: none;

@@ -1,0 +1,6 @@
+	padding:0;
+	margin:0;
+	background:#fff url(images/header_bg.gif) repeat-x center top;
+	float:left;
+	width:670px;
+	border:1px solid #d8dbdc;

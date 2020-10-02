@@ -1,0 +1,5 @@
+	float:right;
+	width:220px;
+	height:auto;
+	padding:30px 30px 20px 30px;
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.9);

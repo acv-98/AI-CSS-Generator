@@ -1,0 +1,15 @@
+	float: left;     
+	width: 60%; 
+	display: inline-block;
+	padding-bottom: 5px;
+	font-size: 22px;
+	color: #fff;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	border-bottom: 2px solid #fff;
+	font-style: normal;
+    float: none;     
+    width: auto; 

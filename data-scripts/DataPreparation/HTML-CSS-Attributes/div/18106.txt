@@ -1,0 +1,1 @@
+float:left; width:370px; height:266px; background:url(../images/form_bg.gif) no-repeat 36px 0float:left; width:262px; font:24px/26px "ZapfHumnst BT", Arial, Helvetica, sans-serif; background:url(../images/search_border.gif) no-repeat 64px bottom; color:#454545; padding:47px 0 0 64px

@@ -1,0 +1,1 @@
+ width:100%; background:#262b2f; padding:13px 0px; margin:0px; text-align:center; color:#fff; font-size:15px; font-family: 'ProximaNovaRegular'; 

@@ -1,0 +1,9 @@
+    position: relative;
+    width: 70px;
+    height: 70px;
+    background-color: #ee997b;
+    margin:0;
+    line-height: 70px;
+    font-size:2rem;
+    color:#fff;
+    border-radius: 50%;

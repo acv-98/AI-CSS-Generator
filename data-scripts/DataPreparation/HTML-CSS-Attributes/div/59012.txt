@@ -1,0 +1,1 @@
+width:35%float:none; margin:0 auto; width:150pxfloat:none

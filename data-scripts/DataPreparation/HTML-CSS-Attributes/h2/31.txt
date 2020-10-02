@@ -1,0 +1,6 @@
+    border-color: #3197d6;
+    display: table;
+    font-size: 18px;
+    line-height: 1;
+    margin: 0 0 2rem;
+    padding: 0 0 0.5rem;

@@ -1,0 +1,2 @@
+float:none;margin-right:0 !important; width:auto;margin-top:20px;
+ float:right; width:30%; 

@@ -1,0 +1,6 @@
+	color:#7A6B4E;
+	display:block;
+	text-decoration:none;
+	text-indent:35px;
+	background:url(../images/icon-tweeter.gif) no-repeat;
+	background-position:left 10px;

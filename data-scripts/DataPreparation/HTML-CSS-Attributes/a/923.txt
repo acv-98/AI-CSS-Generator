@@ -1,0 +1,9 @@
+	position:absolute;
+	top:504px;
+	right:90px;
+	z-index:111;
+	display:inline-block;
+	width:22px;
+	height:43px;
+	background:url(../images/next.gif) 0 0 no-repeat;
+	background-position:0 bottom;

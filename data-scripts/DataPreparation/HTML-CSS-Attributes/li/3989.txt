@@ -1,0 +1,4 @@
+	text-decoration:none;
+	color:#fff;
+	font-weight:bold;
+	background:url(../images/menu_a.gif) repeat-x left top;

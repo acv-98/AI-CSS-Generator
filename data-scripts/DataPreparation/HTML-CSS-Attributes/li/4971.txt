@@ -1,0 +1,9 @@
+background: #444;
+.project-slider{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 60px;
+	margin-top: 40px;
+	position: relative;
+	background: #444;
+	color: #fff;

@@ -1,0 +1,11 @@
+	background:url(images/pagenavi.png) center 6px repeat-x;
+	height:35px;
+	padding-left:8px;
+	margin-bottom:10px;
+	display:block;
+	width:45px;
+	text-align:center;
+	float:left;
+	text-decoration:none;
+	font:bold 11px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#000;

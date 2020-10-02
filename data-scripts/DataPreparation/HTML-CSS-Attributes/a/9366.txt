@@ -1,0 +1,2 @@
+	background: url(../images/sprites-icon.gif) no-repeat 0 9px;
+	margin-left: 0;

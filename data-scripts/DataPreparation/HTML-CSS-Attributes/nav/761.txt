@@ -1,0 +1,10 @@
+    border:0;
+    background: #4bcaff;
+    background-color: #fff;
+	border:0;
+    border-color:0;
+    font-size:14px;
+    text-transform:uppercase;
+    color:#fff;
+	line-height: 55px;
+    border-top: 3px solid #4bcaff;

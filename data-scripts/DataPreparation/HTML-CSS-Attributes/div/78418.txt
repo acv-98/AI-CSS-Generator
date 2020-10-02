@@ -1,0 +1,2 @@
+ height:18px; margin:0 auto; text-align:center; clear:both; margin-bottom:20px;  display:none;  display:inline-block; margin-right:4px; padding:0 5px; line-height:17px; text-align:center; background:url('images/bg-pagination.png') top repeat-x; border:1px solid #aeaeae; color:#918e8e; font-size:12px;  background-position:0 -24px; color:#3e3c3c;  background-position:0 -49px; color:#3e3c3c; text-decoration:none; 
+ border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px; 

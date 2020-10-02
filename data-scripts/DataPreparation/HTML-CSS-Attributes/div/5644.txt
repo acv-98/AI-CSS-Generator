@@ -1,0 +1,5 @@
+	padding-left:284px
+	position:relative;
+	width:736px;
+	height:397px;
+	float:right;

@@ -1,0 +1,1 @@
+float:left; width:250px;  overflow:hidden;float:right; font-family: 'Tienne', serif; font-size:14px; color:#e5703d; text-transform:uppercase; font-weight:normal; padding-bottom:5px;

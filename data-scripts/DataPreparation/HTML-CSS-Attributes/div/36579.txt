@@ -1,0 +1,4 @@
+ text-align:center; margin-bottom:20px; margin-top: 5px; .timeline-img img {
+    max-width: 100%;
+    outline: 2px solid hsl(0, 0%, 100%);
+    outline-offset: -14px;

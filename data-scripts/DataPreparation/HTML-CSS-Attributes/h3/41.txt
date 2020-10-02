@@ -1,0 +1,7 @@
+	text-align: center;
+	color: #00BFF0;
+	text-transform: uppercase;
+	font-size: 2em;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding-top: 8%;
+	margin: 0;

@@ -1,0 +1,7 @@
+  margin-bottom: 30px;
+  font-size: 16px;
+  margin-top: 0;
+  font-family: "Lato", arial, sans-serif;
+  color: #999999;
+  font-weight: 600;
+  padding-left: 25px;

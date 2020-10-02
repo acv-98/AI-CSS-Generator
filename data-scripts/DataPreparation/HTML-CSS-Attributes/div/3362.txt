@@ -1,0 +1,4 @@
+    margin-left:-15px;
+    display: inline-block;
+    color:#bfbfbf;
+    font-size:0.875rem;

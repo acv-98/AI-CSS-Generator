@@ -1,0 +1,14 @@
+float:right;position:relative;display:block;	.body .callout-hr, .body .hr{
+		position:relative;
+		left:-7px;
+		margin-top:12px;
+		margin-bottom:3px;
+		width:974px;
+display:inline-block;margin:0;position:relative;top:7px;	.body .blog {
+		max-width:678px;
+			text-align:center;
+			position:relative;
+			display:inline-block;
+float:none;		.body .callout .button-wrap .wrapper {
+			margin-left:6px;
+left:145px;left:85px;

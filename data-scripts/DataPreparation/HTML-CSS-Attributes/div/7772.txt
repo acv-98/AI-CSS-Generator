@@ -1,0 +1,4 @@
+ background:#fbfbfb url(../images/bg-container.gif);.container-holder {
+	margin:0 auto;
+	width:986px;
+	padding:37px 0 4px;

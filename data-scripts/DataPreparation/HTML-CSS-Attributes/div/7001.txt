@@ -1,0 +1,1 @@
+ float:left; width:505px; float:left; width:100px; margin-right:1px; display:block; width:100px; height:80px; line-height:80px; text-align:center; color:#ffffff; background:#1ac6ff; background:#33cdff; background:#33cdff;

@@ -1,0 +1,8 @@
+	display:block;
+	float:left;
+	height:27px;
+	margin:10px 0 0;
+	text-indent:-99999em;
+	width:40px;
+	background:url(images/icons.gif) no-repeat;
+	background-position:0 -37px;

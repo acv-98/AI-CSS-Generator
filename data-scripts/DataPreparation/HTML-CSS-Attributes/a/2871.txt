@@ -1,0 +1,8 @@
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 600;
+  font-size: 14px;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  border: 1px solid red;
+  padding: 10px 15px;

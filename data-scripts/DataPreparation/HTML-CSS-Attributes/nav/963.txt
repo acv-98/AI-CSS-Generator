@@ -1,0 +1,10 @@
+	background-color: #222;
+	border-color: #090909;
+	color: #9d9d9d;
+	font-weight: bold;
+	text-transform: uppercase;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #159eee;
+	width: 70%;
+	padding: 15px 10px;

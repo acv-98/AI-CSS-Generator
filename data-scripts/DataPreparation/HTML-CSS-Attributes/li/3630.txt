@@ -1,0 +1,5 @@
+    float: right;
+    right: auto;
+    left: -15px;
+    border-right-width: 15px;
+    border-left-width: 0;

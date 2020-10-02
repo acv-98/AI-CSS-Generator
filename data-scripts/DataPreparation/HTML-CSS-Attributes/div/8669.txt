@@ -1,0 +1,4 @@
+	width:181px;
+	height:29px;
+	background:url(../images/search-input-tail.gif) 0 0 repeat-x;
+	border:1px solid #d7d7d7

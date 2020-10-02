@@ -1,0 +1,5 @@
+    height: 4px;
+    width: 130px;
+    margin: auto;
+    background: #00a5ff;
+    margin-bottom: 10px;

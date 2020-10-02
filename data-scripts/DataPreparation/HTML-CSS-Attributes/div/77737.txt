@@ -1,0 +1,5 @@
+  border-color: #faebcc;
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border-top-color: #faebcc;
+  border-bottom-color: #faebcc;

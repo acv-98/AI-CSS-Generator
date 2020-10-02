@@ -1,0 +1,4 @@
+  float:left;
+  margin-right:20px;
+  background:#f1f1f1 url(../img/arrow-left.png) no-repeat left 12px;
+  padding-left:20px;

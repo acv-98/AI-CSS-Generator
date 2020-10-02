@@ -1,0 +1,1 @@
+background:url(images/divider.gif) no-repeat left top;width:100%;overflow:hiddendisplay:inlinedisplay:block;float:left;background:url(images/divider.gif) no-repeat right top;height:59px;line-height:59px;color:#fff;text-decoration:none;text-transform:uppercase;font-weight:bold;padding:0 35pxcolor:#c72d00

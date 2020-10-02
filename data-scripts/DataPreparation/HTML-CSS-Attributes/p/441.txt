@@ -1,0 +1,5 @@
+	width:288px;
+	font-weight:bold;
+	background:url(images/bg_mid_fade.png) repeat-x bottom;
+	font-size:15px;
+	padding:8px 0 8px 10px;

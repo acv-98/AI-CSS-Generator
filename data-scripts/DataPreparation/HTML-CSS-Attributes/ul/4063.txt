@@ -1,0 +1,6 @@
+	list-style:none;
+	padding-bottom:6px;
+	color:#235e9e;
+	font-size:10px;
+	border-top:1px dotted #a9a9a9;
+	padding-top:5px;

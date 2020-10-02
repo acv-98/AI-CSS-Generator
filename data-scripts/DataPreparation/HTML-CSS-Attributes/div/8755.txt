@@ -1,0 +1,5 @@
+	margin:0 auto;
+	width:920px;
+	padding:16px 20px;
+	color:#c8c8c8;
+	background:url(../images/fbg_c.gif) repeat-x left top;

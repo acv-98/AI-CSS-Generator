@@ -1,0 +1,6 @@
+     text-align: center;
+     background: #ffffff;
+     padding: 30px;
+     border: 1px solid #000000;
+     min-height: 205px;
+     margin-top: 15px;

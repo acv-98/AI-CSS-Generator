@@ -1,0 +1,7 @@
+	width:910px;
+	padding:0;
+	margin:0 auto;
+	background:none;
+	float:left;
+	font:normal 14px "Times New Roman", Times, serif;
+	color:#6abf79;

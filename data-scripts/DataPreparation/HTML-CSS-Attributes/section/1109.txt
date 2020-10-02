@@ -1,0 +1,18 @@
+	background:url(../images/contactbg.jpg) no-repeat top center;
+	background-size:cover;
+    max-width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-top: 80px;
+	margin-top:30px;
+	padding-left:20px;
+	margin-left:-15px;
+	width: 80%;
+	display:inline-block;
+    float: left;
+    margin-left: 5px;
+    color: #fff;
+    display: block;
+    width: 35px;
+    height: 35px;
+    text-align: center;

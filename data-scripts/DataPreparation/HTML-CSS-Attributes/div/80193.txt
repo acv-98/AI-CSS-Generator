@@ -1,0 +1,4 @@
+	width:934px;
+	background:url(images/menu_resize_bg.gif) top no-repeat;
+	padding:0;
+	margin:0 auto;

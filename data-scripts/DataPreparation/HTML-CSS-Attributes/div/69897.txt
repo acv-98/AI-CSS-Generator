@@ -1,0 +1,4 @@
+	margin:0 auto;
+	padding:26px;
+	width:922px;
+	background:repeat-x center top;

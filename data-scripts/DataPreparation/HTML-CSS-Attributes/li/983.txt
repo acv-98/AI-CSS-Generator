@@ -1,0 +1,1 @@
+color:#DA6798; background-color:inherit;color:#FFFFFF; background-color:#771E44;

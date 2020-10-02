@@ -1,0 +1,6 @@
+	font:20px/32px Arial, Helvetica, sans-serif;
+	color:#74be00;
+	white-space:nowrap;
+	text-decoration:none;
+	display:inline-block;
+	margin-bottom:4px;

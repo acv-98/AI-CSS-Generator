@@ -1,0 +1,7 @@
+	position:absolute;
+	left:495px;
+	top:15px;
+	background-image:url("../images/email.png");
+	background-repeat:no-repeat;
+	width:22px;
+	height:16px;

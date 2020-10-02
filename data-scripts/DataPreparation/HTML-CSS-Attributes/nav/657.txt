@@ -1,0 +1,16 @@
+			display: block;
+ display: inline-block; width: 1em;  display: inline-block; width: 2em;  display: inline-block; width: 3em;  display: inline-block; width: 4em;  display: inline-block; width: 5em;  display: inline-block; width: 6em;  display: inline-block; width: 7em;  display: inline-block; width: 8em;  display: inline-block; width: 9em;  display: inline-block; width: 10em; 	TXT 1.0 by HTML5 Up!
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	#banner-wrapper
+	{
+	color: #fff;
+	border-top: solid 1px rgba(255,255,255,0.1);
+	border-bottom: solid 1px rgba(0,0,0,0.2);
+	text-decoration: none;
+	text-shadow: -1px -1px 0px #000;
+	height: 43px;
+	line-height: 43px;
+	padding: 0 10px 0 10px;
+		border-top: 0;
+		border-bottom: 0;

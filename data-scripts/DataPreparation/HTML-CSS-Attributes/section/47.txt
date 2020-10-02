@@ -1,0 +1,12 @@
+	color:#fff;
+	
+	font-family: 'Pacifico', cursive;
+	font-size:1.875rem;
+	background:url(../images/newsbg.jpg) no-repeat center top scroll;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  overflow: hidden;	
+  padding-bottom:120px;

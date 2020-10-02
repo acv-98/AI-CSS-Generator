@@ -1,0 +1,2 @@
+	height: 100px !important;
+	line-height: 110px;

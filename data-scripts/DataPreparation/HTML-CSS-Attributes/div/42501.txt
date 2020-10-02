@@ -1,0 +1,28 @@
+	color: black;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-right: -1px; .tm-white-curve-left,
+.tm-white-curve-right {
+	display: -webkit-flex;
+	padding-left: 0;
+	position: absolute;
+	background-color: white;	
+	height: 100%;
+	width: 300px;
+	padding-right: 0;
+	right: 0;
+	border-top-left-radius: 50%;
+	border-bottom-left-radius: 50%;
+	margin-left: auto;
+		width: 445px;
+ left: 1em; 	#tm-section-2,
+	#tm-section-3 {
+		display: -webkit-flex;
+	    -webkit-flex-direction: column;
+	        -ms-flex-direction: column;
+	            flex-direction: column;
+	    -webkit-justify-content: center;
+	        -ms-flex-pack: center;
+	            justify-content: center;
+	    padding-right: 0;
+	    padding-left: 2em;

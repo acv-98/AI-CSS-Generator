@@ -1,0 +1,4 @@
+  display: table-cell;
+  vertical-align: top;
+  margin-bottom: 15px;
+  font-size: 24px;

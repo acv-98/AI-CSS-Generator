@@ -1,0 +1,13 @@
+		width: 100%;
+		margin: 0 0 -40px 0;
+		overflow: hidden;
+		float: none;
+	position: relative;
+	padding-bottom: 40px;
+	margin-bottom: 40px;
+	background: transparent url(../images/line.png) repeat-x left bottom;
+	font-size: 18px;
+	display: block;
+	max-width: 100%;
+	height: auto;
+	text-align: left;

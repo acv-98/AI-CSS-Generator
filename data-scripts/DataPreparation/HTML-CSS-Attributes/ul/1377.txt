@@ -1,0 +1,5 @@
+  background: #1baab9;
+	display:inline;
+	border:none;
+	margin-bottom:10px;
+	color:#fff;

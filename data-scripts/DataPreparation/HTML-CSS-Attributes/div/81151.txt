@@ -1,0 +1,10 @@
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+ display: inline-block  height: 1%  display: block #tf-menu {
+    margin-bottom: 0;
+    background-color: #ffffff;
+    padding: 10px 0;

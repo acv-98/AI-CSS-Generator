@@ -1,0 +1,10 @@
+	width:307px; 
+	float: left; 
+	margin:5px 15px; 
+	padding:5px 10px; 
+	list-style:none; 
+	background:url(images/Sub_ul_li.gif) left no-repeat; 
+	border-bottom:1px solid #eaeaea; 
+	font: normal 11px Georgia, "Times New Roman", Times, serif; 
+	color:#3a3c3c; 
+	text-decoration:none; 

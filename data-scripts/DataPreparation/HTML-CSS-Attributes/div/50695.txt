@@ -1,0 +1,12 @@
+	position:absolute;
+	top:24px;
+	right:1px;
+	width:104px;
+	float:left;
+	height:20px;
+	margin-left:6px;
+	background:url(images/socials.gif);
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	background-position:0 top;

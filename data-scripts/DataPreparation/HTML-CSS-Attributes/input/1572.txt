@@ -1,0 +1,9 @@
+	display:block;
+	height:30px;
+	padding:0 15px;
+	float:left;
+	border:solid 1px;
+	border-color:#bbb #999 #999 #bbb;
+	font:bold 1.4em 'TeXGyreAdventor', Arial, sans-serif;
+	color:#777;
+	background:#efefef;

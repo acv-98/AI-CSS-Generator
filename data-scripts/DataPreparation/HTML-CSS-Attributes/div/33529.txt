@@ -1,0 +1,3 @@
+	height: 1px;
+	background: #dfdfdf;
+	border-top: 5px solid #5c5c5c;

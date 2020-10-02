@@ -1,0 +1,2 @@
+ color: #69c6ba;     background: #c66995;
+    color: white;

@@ -1,0 +1,10 @@
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+  color: #777;
+    color: #777;
+    background-color: transparent;
+	color: white;
+	font-weight: 700;
+	font-size: 12px;
+	background-color: transparent;
+	border-color: transparent;

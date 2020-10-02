@@ -1,0 +1,2 @@
+    margin-left: 430px;
+    *margin-left: 36.645753773413354%;

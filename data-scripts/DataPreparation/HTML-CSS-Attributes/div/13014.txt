@@ -1,0 +1,7 @@
+	background:#fff;
+	text-align:center;
+	margin:0 !important;
+	list-style:none !important;
+	padding-left:0;
+	border-bottom:1px solid #eee;
+	color:#555;

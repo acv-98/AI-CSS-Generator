@@ -1,0 +1,5 @@
+    padding-top: 43px;
+    display: block;
+    margin-bottom: 11px;
+    font: bold 22px/18px 'Economica', sans-serif;
+    float: none;

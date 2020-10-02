@@ -1,0 +1,4 @@
+	color: #d9c381;
+	position: relative;
+	top: -1px;
+	font:  16px/20px 'Open Sans', sans-serif;

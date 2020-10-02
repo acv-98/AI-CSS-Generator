@@ -1,0 +1,9 @@
+    background: #999999;
+    color: #ffffff;
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+    border-radius: 100%;
+    font-size: 16px;
+    text-align: center;
+    transition: .3s ease-in-out;

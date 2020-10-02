@@ -1,0 +1,3 @@
+  background: #9e4f38;
+  color: #FFFFFF;
+  border-top-color: #9e4f38;

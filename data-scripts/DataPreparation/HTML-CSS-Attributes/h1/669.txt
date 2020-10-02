@@ -1,0 +1,5 @@
+  color: #49515a;
+  font-size: 38px;
+  margin-bottom: 5px;
+  margin-top: 30px;
+  font-weight: 600;

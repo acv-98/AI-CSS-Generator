@@ -1,0 +1,5 @@
+  background: #faebcd;
+  border-right: 15px solid #faebcd;
+    border-left: 15px solid transparent !important;
+    border-right: 15px solid transparent !important;
+    border-bottom: 15px solid #faebcd !important;

@@ -1,0 +1,5 @@
+	float: right;
+	width: 274px;
+	position: relative;
+	background: transparent;
+	padding: 15px;

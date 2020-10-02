@@ -1,0 +1,5 @@
+	background: url("../images/icons.gif");
+	background-position: 0 -428px;
+	background-repeat:no-repeat;
+	opacity:0.8;
+	filter:alpha(opacity=80);

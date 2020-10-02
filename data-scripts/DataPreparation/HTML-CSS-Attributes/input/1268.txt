@@ -1,0 +1,6 @@
+    background-color: white;
+    border-radius: 10px;
+    width: 210px;
+    height: 51px;
+    color: #808080;
+    margin-top: 20px;

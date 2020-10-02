@@ -1,0 +1,1 @@
+font-size:8px; height:26px; margin-left:2px; width:26%width:19%border-radius:5px; font-size:18px; height:40px; margin-left:10px; width:12%; border:none !importantbackground:#222; color:#FF1769

@@ -1,0 +1,7 @@
+  margin-right: -15px;
+  margin-left: -15px;
+  display: table;
+  content: " ";
+  clear: both;
+  cursor: move;
+margin:0 auto

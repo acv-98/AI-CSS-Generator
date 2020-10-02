@@ -1,0 +1,1 @@
+ margin:0; padding:0; margin:0 auto; padding:0 40px; width:890px; background:url(images/header_bg.jpg) repeat-x top; height:295px; float:left; padding-top:12px;

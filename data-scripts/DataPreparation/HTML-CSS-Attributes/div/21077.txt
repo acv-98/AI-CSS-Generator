@@ -1,0 +1,13 @@
+  padding: 8px 15px;
+  margin-bottom: 20px;
+  list-style: none;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  display: inline-block;
+  color: #ccc;
+  content: "/\00a0";
+	margin-top:50px;
+	text-align:center;
+	border-radius: 0;	
+	color:#24325D;
+	font-size:30px;

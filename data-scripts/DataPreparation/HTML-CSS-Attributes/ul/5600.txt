@@ -1,0 +1,5 @@
+	padding:10px 0 15px 0;
+	line-height:30px;
+	padding-left:34px;
+	background:url(../images/marker_2.png) 0 5px no-repeat;
+	display:inline-block;

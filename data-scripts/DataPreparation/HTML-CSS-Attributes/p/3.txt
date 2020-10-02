@@ -1,0 +1,1 @@
+width:230px; padding-left:38px; background:url(../images/bullet.gif) 18px 4px no-repeat; padding-bottom:10px 

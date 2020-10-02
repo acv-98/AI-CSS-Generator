@@ -1,0 +1,2 @@
+ border:solid 1px #d3cfc7; background:#fff; padding:3px 1px; font-size:11px; 
+ -moz-border-radius:3px; -webkit-border-radius:3px; 

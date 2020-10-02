@@ -1,0 +1,9 @@
+    float: left;
+    text-align: center;
+    color: #fff;
+    width: 45px;
+    height: 45px;
+    margin-top: 4px;
+    margin-right: 13px;
+    background-color: #fdc903;
+    font: 36px/44px 'Roboto Condensed', sans-serif;

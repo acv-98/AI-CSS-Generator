@@ -1,0 +1,8 @@
+	width:200px;
+	margin-top:40px;
+	padding:30px 0 10px 30px;
+ filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=30);
+	-MS-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	-moz-opacity:0.3;
+	-khtml-opacity:0.3;
+	opacity:0.3;

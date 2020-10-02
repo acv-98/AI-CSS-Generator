@@ -1,0 +1,15 @@
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+       -o-transition: border .2s ease-in-out;
+          transition: border .2s ease-in-out;
+  margin-right: auto;
+  margin-left: auto;
+  border-color: #337ab7;
+  color: #333;
+ color:#243960; border-bottom:1px solid #e5e5e5; padding-bottom:15px; font-family: 'open_sansregular'; font-size:15px; color:515355; 

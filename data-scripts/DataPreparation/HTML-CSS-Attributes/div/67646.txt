@@ -1,0 +1,11 @@
+	left:20px;
+	top:-8px;
+	position:relative;
+	color:#b2da42;
+	margin:0;
+	line-height:1.69em;
+	margin-bottom:21px;
+	font-size:.91em;
+	font-family:Tahoma, Arial, helvetica, sans-serif;
+	padding:0 49px 28px 15px;
+	padding-bottom:51px;

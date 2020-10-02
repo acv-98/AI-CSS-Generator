@@ -1,0 +1,40 @@
+ position: relative; .navbar-container {
+	background-color: #cc9900; 
+	font-size: 1em;
+	position: absolute; 
+	display: -webkit-flex;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding: 40px;
+    z-index: 1000;
+	color: white;
+	padding: 0;	
+	top: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	z-index: 1000;
+    text-transform: uppercase;
+    border: 1px solid white;
+	float: left;
+	list-style: none;
+	font-weight: 300;
+	transition: all 0.3s ease;
+	text-decoration: none;
+ padding: 0.4em 0.8em; 	padding: 0.4em 1em;		.navbar-container { 
+		font-size: 0.82em;
+		padding: 1.4em 1.8em; 
+ font-size: 0.6em;  padding: 0.285em 1em;		float: none; 	.navbar-brand {
+		display: block;
+		float: left;
+		position: absolute;
+		right: 0;
+		top: 77px;
+		background-color: #cc9900;
+		text-align: right;
+		width: 20em;
+ top: 68px;  margin-left: 0; 	.navbar-toggler {

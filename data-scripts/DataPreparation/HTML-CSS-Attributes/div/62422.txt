@@ -1,0 +1,8 @@
+    background: url(../images/teambg.jpg) no-repeat scroll top center;
+    background-size: cover;
+    position: relative;
+    height: 650px;
+    width: 100%;
+    left:0;
+    bottom:0;
+    content:"";

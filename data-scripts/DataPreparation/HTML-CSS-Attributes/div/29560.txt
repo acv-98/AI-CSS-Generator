@@ -1,0 +1,2 @@
+  content: "\f166";
+  font-size: 24px;

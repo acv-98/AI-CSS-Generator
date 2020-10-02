@@ -1,0 +1,3 @@
+  cursor: default;
+  border-color: #0089ec;
+	border-color: #d0a772;

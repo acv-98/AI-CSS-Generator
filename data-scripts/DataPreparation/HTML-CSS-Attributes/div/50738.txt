@@ -1,0 +1,11 @@
+	border-top:1px dotted #dcdcdc;
+	margin:6px 17px 0 14px;
+	padding-top:9px;
+	height:174px;
+	overflow:hidden;
+	float:left;
+	width:52px;
+	display:inline;
+	margin-right:8px;
+	line-height:19px;
+	text-decoration:underline;

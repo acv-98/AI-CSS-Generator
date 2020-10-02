@@ -1,0 +1,11 @@
+	padding-top: 23px;
+	padding-bottom: 28px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-right: 20px;
+	margin-top: 31px !important;
+	display: block;
+	position: relative;
+	top: -3px;
+	color: #f37086;
+	font: 18px/19px 'Dosis', sans-serif;

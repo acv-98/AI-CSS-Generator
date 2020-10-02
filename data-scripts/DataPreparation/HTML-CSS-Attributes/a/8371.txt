@@ -1,0 +1,1 @@
+ background: url(images/dot.png) no-repeat 0 5px; text-decoration: underline; padding-left: 7px;   text-decoration: none; 

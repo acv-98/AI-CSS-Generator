@@ -1,0 +1,5 @@
+background: #fafafa; border-bottom: 1px solid #CCC; padding: 8px; soverflow: hidden;font-size: 11px; padding: 0px; margin:0
+.rtl .box {
+  float: right;
+  text-align: right; 
+  direction: rtl;

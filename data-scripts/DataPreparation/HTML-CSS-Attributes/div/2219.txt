@@ -1,0 +1,18 @@
+	float:none;
+	display:inline-block;
+	background:#fafafa;
+	border-bottom:solid 2px #ccc1cd !important;
+	color:#805183;
+	text-transform:uppercase;
+	padding:15px 30px;
+	margin-bottom:30px;
+	outline:none;
+	height:185px;
+	font-family: 'Montserrat', sans-serif;
+	font-size:12px;
+	letter-spacing:2px;
+	font-weight:400;
+	text-align:center;
+	width:322px;
+		width: 48.5%;
+		margin-bottom:20px;

@@ -1,0 +1,14 @@
+width:143px; margin-bottom:20px; width:294px; position:relative; z-index: 1; float:left; display: inline;#main .box .holder a.play{
+	width:29px; 
+	height:29px; 
+	position:absolute; 
+	top:57px; 
+	left:57px;
+	z-index: 10; 
+	display: block; 
+	background:url(images/play.png); 
+	text-indent: -4000px; 
+	line-height: 0; 
+	font-size: 0;
+	cursor:pointer;
+position:absolute; top:284px; left:44px; z-index: 10; height:84px; background:url(images/dot.png); width:245pxfont-family: "trebuchet ms", sans-serif; font-size: 23px; color:#00a2ff; text-transform: uppercase; line-height: 25px; padding:10px 0 0 13px; display: block;width:143px; float: left; display: inline; margin-right:9px

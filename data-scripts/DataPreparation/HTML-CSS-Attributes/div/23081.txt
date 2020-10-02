@@ -1,0 +1,13 @@
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  border: 2px solid #45aed6;
+  border-radius: 100px;
+  position: relative;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #45aed6;
+  background-color: #fff;
+  top: -12px;
+  color: #64686d;

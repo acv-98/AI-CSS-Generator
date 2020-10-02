@@ -1,0 +1,14 @@
+    overflow: hidden;
+    position: relative;
+	box-shadow: 0 12px 19px rgba(255, 255, 255, 0.1) inset, 0 1px 7px rgba(0, 0, 0, 0.2);
+	width: 100%;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    transition: all .5s ease;
+    -webkit-transform:rotate(10deg) scale(1.45);
+    -moz-transform:rotate(10deg) scale(1.45);
+    -ms-transform:rotate(10deg) scale(1.45);
+    -o-transform:rotate(10deg) scale(1.45);
+    transform:rotate(10deg) scale(1.45);

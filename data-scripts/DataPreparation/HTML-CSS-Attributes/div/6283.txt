@@ -1,0 +1,4 @@
+	width:100%;
+	overflow:hidden;
+	min-height:103px;
+	padding-bottom:5px

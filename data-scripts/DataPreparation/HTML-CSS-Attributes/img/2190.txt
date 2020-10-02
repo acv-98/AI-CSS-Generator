@@ -1,0 +1,11 @@
+  position: absolute;
+  left: 6.25rem;
+  bottom: 6.25rem;
+  width: 25rem;
+  height: auto;
+    display: none;
+    position: absolute;
+    left: 0.625rem;
+    bottom: 0.625rem;
+    width: 18.75rem;
+    height: auto;

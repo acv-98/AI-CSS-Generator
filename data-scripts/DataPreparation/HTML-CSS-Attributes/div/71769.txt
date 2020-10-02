@@ -1,0 +1,2 @@
+border: 1px dashed #999; position:relative; overflow: visible; padding: 20px; background: #fafafa
+border: 0px solid #ccc; background: #FFF; margin-top: 30px

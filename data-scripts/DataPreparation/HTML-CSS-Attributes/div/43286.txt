@@ -1,0 +1,5 @@
+			height: auto;
+		border: 0;
+			margin-bottom: 10px;
+			font-size: 1.5em;
+	width: auto !important;

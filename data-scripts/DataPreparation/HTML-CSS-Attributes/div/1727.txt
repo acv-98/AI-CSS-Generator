@@ -1,0 +1,2 @@
+	background: #bac63e;
+	box-shadow: none;

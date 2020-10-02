@@ -1,0 +1,4 @@
+background:none	
+	.mainmenu li a {
+		color:#DDDDDD;
+		text-decoration:none;

@@ -1,0 +1,4 @@
+  border-color: #8270a4;
+  background-color: #69588a;
+  color: #FFFFFF;
+  margin-right: 5px;

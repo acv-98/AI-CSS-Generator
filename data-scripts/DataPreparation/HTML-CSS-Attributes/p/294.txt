@@ -1,0 +1,5 @@
+	font:bold 12px Tahoma, Arial, Helvetica, sans-serif;
+	color:#a59832;
+	background:url(../images/green_right.jpg) 0 0 no-repeat;
+	display:block;
+	padding:10px 0 0 34px;

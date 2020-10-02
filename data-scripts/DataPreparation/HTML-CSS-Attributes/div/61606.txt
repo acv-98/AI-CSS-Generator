@@ -1,0 +1,2 @@
+	background:url(../images/main-bg.jpg) no-repeat center 0;
+	min-height:100%;

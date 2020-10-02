@@ -1,0 +1,7 @@
+		padding: 15px 30px 15px 0;
+			margin-bottom: 10px;
+			font-size: 1.5em;
+				color: #1F5053;
+			font-family: Arial;
+				text-decoration: none;
+			

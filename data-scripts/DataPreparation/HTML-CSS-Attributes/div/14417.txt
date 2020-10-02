@@ -1,0 +1,10 @@
+    color:#fff;
+    background:#01a2a6;
+    padding-bottom:50px;
+    
+        padding-bottom:15px;
+        
+        padding-top:50px;
+        font-weight:800;
+        font-size:20px;
+        padding-right:30px;

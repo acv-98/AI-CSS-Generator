@@ -1,0 +1,18 @@
+background-color:#424242;
+	width:100%;
+	float:left;
+	line-height:32px;
+	margin:0;
+	overflow:hidden;
+	padding:0;
+	position:relative;
+	cursor:pointer;
+	display:block;
+	font-size:14px;
+	background-color:rgba(0, 0, 0, 0.4);
+	text-transform:uppercase;
+	color:#fff;
+	background-position:0 20px;
+	border-radius:2px;
+	background-image:url(../images/skills.png);
+	background-repeat:no-repeat;

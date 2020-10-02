@@ -1,0 +1,9 @@
+	position:absolute;
+	z-index:100;
+	top:97px;
+	left:723px;
+	width:320px;
+	display:block;
+	margin-left:88px;
+	margin-bottom:25px;
+	background:#fff;

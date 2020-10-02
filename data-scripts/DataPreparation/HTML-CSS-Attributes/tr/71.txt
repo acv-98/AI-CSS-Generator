@@ -1,0 +1,6 @@
+ background-color: #dbf1e4; 
+.tm-bg-green-1,
+.tm-bg-green-2,
+.tm-bg-green-3,
+.tm-color-green { 
+	color: #006633; 

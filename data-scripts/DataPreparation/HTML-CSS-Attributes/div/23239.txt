@@ -1,0 +1,18 @@
+	background:url(../img/black/box_login.png);
+	width: 316px;
+	height:223px;
+	position:relative;
+	margin: 3px 27px 0 0px;
+	padding: 103px 0 0;
+	color: #FFF;
+	border: 0;
+	outline: none;
+	float:right;
+	font-weight:bold;
+	text-align: 5px;
+	font-size:16px;
+	right: 12px;
+	bottom: 17px;
+ *margin: 43px 0 0 12px;
+	display: inline;
+	text-decoration: none;

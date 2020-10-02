@@ -1,0 +1,4 @@
+	width:100%;
+	padding:1px 0 5px;
+	background:url(../images/menu-row-tail.png) center top repeat-x;
+	margin-bottom:22px;

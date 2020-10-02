@@ -1,0 +1,12 @@
+  margin-top: -17em;
+  margin-left: 1em;
+  display: inline;
+  width: 10%;
+  clear: both;
+  position: fixed;
+  height: 70px;
+  overflow: hidden;
+  background-image: url(/img/cross.png);
+  background-repeat: no-repeat;
+  z-index: 1000;
+  cursor: pointer;

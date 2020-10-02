@@ -1,0 +1,10 @@
+	font-size:0.814em;
+	width:960px;
+	margin:0 auto;
+	height:105px;
+	padding:5px 0 0 24px;
+	float:left;
+	line-height:1.2em;
+	padding-left:32px;
+	color:#7b7b7b;
+	text-decoration:none;

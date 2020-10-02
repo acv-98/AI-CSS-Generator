@@ -1,0 +1,2 @@
+	content: "\f0a2";
+  content: "\e027";

@@ -1,0 +1,7 @@
+    padding-top: 250px;
+    color: #fff;
+    padding-bottom: 25px;
+    font-size:4.5rem;
+    line-height: 5rem;
+    max-width: 60%;
+    margin: 0 auto;

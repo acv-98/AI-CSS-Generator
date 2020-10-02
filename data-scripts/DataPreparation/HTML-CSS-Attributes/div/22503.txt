@@ -1,0 +1,9 @@
+.doservice .main_doservice .single_doservice .single_doservice_acording .panel-default>.panel-heading {
+    color: #333;
+    background-color: transparent;
+    border-color: #ddd;
+    display:block;
+    text-transform: uppercase;
+    font-size: 1.575rem;
+    margin-right: 15px;
+    float:right;

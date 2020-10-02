@@ -1,0 +1,4 @@
+  padding-top: 7px;
+  min-width: 32px;
+ background-position:125px center; background-repeat:no-repeat; .home_page_item .read-more {
+    margin-bottom: 5px;

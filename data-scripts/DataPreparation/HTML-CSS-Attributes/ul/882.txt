@@ -1,0 +1,4 @@
+ padding: 15px 20px; .info-description-container {
+	padding: 20px 30px;
+	float: right;
+	width: 65%;

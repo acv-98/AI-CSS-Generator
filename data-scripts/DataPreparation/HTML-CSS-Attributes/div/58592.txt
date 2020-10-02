@@ -1,0 +1,14 @@
+	float:right;
+	width: 80%;
+	font-size: 1.5em;
+	color: #3D3E41;
+	font-weight: 700;
+	padding: 0 0 0.5em 0;
+	text-transform: uppercase;
+	line-height: 1.7em;
+		padding: 0 0 0.2em 0;
+		font-size: 1.2em;
+		float: none;
+		width: 100%;
+		text-align: center;
+		margin-top: 0.5em;

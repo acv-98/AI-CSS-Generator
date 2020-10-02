@@ -1,0 +1,11 @@
+min-width:960px;
+max-width:64em;
+background:#fff ;
+position:relative;
+margin:0px auto;
+padding:16px 16px;
+height:272px;
+border-top:#000 10px solid;
+padding-bottom:0;
+padding-top:0;
+font-size:22px;

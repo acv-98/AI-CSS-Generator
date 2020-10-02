@@ -1,0 +1,4 @@
+font-size: 3em;.gradient {
+  color: #999;
+  text-shadow: 1px 1px 1px rgba(27, 27, 27, 0.19);
+  transition: all 0.1s ease-in-out 0s;

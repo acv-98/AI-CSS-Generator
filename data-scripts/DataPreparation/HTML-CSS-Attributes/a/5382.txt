@@ -1,0 +1,4 @@
+        right: 120px;
+        display: none;
+    padding: 40px 0px;
+    color:#fff;

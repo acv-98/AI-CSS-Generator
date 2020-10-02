@@ -1,0 +1,5 @@
+ transition: all 0.3s ease; 
+.submit-btn {
+	padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    width: 100%;

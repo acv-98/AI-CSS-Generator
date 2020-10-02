@@ -1,0 +1,6 @@
+display: block;
+float: left;
+font-family: Georgia;
+font-size: 11px;
+font-style: italic;
+margin-right: 5px;

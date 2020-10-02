@@ -1,0 +1,8 @@
+	width:55px;
+	height:55px;
+	position:absolute;
+	left:42px;
+	top:84px;
+	display:block;
+	background:url(../images/jplayer-play-pause.png) 0 0 no-repeat;
+	background-position:0 -55px;

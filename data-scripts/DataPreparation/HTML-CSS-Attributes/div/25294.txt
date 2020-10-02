@@ -1,0 +1,1 @@
+ list-style: none; list-style-position: outside; padding-bottom: 27px;  padding-left: 24px; background: url(images/bullet.png) no-repeat 0 4px; padding-bottom: 4px; 

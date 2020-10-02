@@ -1,0 +1,1 @@
+	background:url(../images/box_bot.gif) center bottom no-repeat;

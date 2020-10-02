@@ -1,0 +1,8 @@
+	margin-left:auto;
+	margin-right:auto;
+	width:976px;
+	padding-left:61px;
+	padding-right:61px;
+	left:61px;
+	font-size:.75em;
+	position:relative;

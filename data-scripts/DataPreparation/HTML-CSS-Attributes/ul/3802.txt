@@ -1,0 +1,6 @@
+  list-style: none;
+  padding: 0;
+  margin: 20px 0 0 0;
+  color: #d29948;
+  display: inline-block;
+  margin-right: 10px;

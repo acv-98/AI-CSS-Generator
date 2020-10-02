@@ -1,0 +1,16 @@
+    transition: all .5s;
+    background: transparent;
+    padding: 40px 0 40px 0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: #fff;
+    box-shadow: inset 0px 0px 0 10px #cecece;
+    border-bottom: 10px solid #cecece;
+    border-top: 10px solid #cecece;
+    max-width: 250px;
+    min-height: 260px;
+    line-height: 32px;
+    padding-top: 30px;
+    font-size: 18px;
+    border-radius: 0px;
+    text-align: center;

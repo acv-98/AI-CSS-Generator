@@ -1,0 +1,11 @@
+	position:relative;
+	z-index:999;
+	float:left;
+	color:#696969;
+	font-family:arial;
+	font-size:0.8em;
+	margin-right:5px;
+	margin-top:20px;
+	text-decoration:none;
+	text-align:left;
+	font-style:italic;

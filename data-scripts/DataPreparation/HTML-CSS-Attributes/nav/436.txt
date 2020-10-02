@@ -1,0 +1,9 @@
+    width: 240px;
+    height: 100%;
+    top: 0;
+    z-index: 1000;
+    overflow-y: scroll;
+    border-bottom: 1px solid #258ecd;
+    padding: 1em;
+        font-size: 90%;
+        width: 190px;

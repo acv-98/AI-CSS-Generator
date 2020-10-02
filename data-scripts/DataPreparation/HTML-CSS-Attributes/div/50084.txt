@@ -1,0 +1,5 @@
+	position: relative;
+	width: 307px;
+	height: 129px;
+	background: url(../img/thumb-bg.png) no-repeat;
+	margin-bottom: 5px;

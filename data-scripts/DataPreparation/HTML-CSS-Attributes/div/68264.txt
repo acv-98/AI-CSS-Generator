@@ -1,0 +1,2 @@
+ width:60%; background:#DDD; background: rgba(222,222,222,0.5); border:1px solid #CCC; padding:0 1em; margin:1em auto; text-align:center; opacity: 0.9; filter: alpha(opacity=90);  font-size:1.8em; margin-top:1em; color: #CC5944; font-size:1.2em; text-align:left; margin-bottom:1.5em;  margin-bottom:1em; text-align:left;  list-style:none; padding:0.5em 1em; font-size:1.2em;  margin-bottom:1em;
+ width:95%;  width:95%;

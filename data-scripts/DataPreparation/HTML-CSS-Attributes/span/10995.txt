@@ -1,0 +1,2 @@
+    background: none repeat scroll 0 0 #00cfef;
+    padding: 0 5px;

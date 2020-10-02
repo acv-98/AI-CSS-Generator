@@ -1,0 +1,4 @@
+ margin-bottom: 5px; 
+.tm-img-grid { 
+	margin-top: 60px;
+	overflow: auto;	

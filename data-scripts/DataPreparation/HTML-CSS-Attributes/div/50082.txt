@@ -1,0 +1,9 @@
+	display: block;
+	position: relative;
+	height: 290px;
+	background: url(../img/tape.png) no-repeat;
+	width: 171px;
+	left: 120px;
+	bottom: -11px;
+	margin-top: 15px;
+	border: 4px solid white;

@@ -1,0 +1,2 @@
+background: url(../img/icons/social/blogger.png) no-repeat;	background: url(../img/icons/social2/blogger.png) no-repeat 0 0;
+	background-color: #fb913f;

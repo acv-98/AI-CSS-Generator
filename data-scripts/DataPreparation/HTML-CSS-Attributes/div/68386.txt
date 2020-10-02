@@ -1,0 +1,12 @@
+	background: url(../images/bg-sign-up.gif) no-repeat 0 0;
+	height: 195px;
+	position: relative;
+	width: auto;
+	right: 44px;
+	top: 105px;
+	color: #84284D;
+	display: block;
+	text-indent: -999999px;
+	font-size: 22px;
+	text-align: center;
+	margin: 0;

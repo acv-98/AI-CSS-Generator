@@ -1,0 +1,4 @@
+	padding:10px 0px 10px 0px;
+	text-align:right;
+	color:#F1A803;
+	text-decoration:none;

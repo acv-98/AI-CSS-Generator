@@ -1,0 +1,3 @@
+	width: 47%;
+	margin-right: 3%;
+	float: left;

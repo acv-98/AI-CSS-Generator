@@ -1,0 +1,1 @@
+padding-bottom:18pxbackground:url(images/arrow1.gif) no-repeat left 6px;padding:0 0 0 9px;position:relative

@@ -1,0 +1,1 @@
+width:960px; overflow:hidden; margin:0 auto; height:430px; background:url(../images/banner-bg.png) no-repeat; margin:0 auto; padding-top:54px; width:420px;

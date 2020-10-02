@@ -1,0 +1,7 @@
+	margin-bottom: 30px;
+	background-color: whiteSmoke;
+	border-bottom: 1px solid #DFDFDF;
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif, serif;
+	font-size:0.8em !important;
+margin-top:25px !important;

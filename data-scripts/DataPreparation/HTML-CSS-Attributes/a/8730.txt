@@ -1,0 +1,1 @@
+ clear:left; float:left; width:60px; font: 11px/15px arial; color:#2D3539; margin:40px 0px 0px 25px; text-decoration:none; 

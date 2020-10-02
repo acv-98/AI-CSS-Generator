@@ -1,0 +1,5 @@
+ max-width: 1040px; 
+.tm-header-container {
+	position: relative;
+	padding-bottom: 6rem;
+	margin-bottom: 10%;

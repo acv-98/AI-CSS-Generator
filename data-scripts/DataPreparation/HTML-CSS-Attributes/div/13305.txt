@@ -1,0 +1,12 @@
+    font-size: 14px;
+	position:absolute;
+	color:#fff;
+	z-index:1;
+	text-align:center;
+	left: 30%;
+    top: 35%;
+	width:38%;
+	
+	font-size:30px;
+	font-family: 'santelia_scriptbold_dmo';
+	line-height: 40px;

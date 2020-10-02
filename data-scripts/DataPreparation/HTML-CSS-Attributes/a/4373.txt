@@ -1,0 +1,2 @@
+padding: 10px;background: #66cdaa;
+background: #0E8FAB;background: #daa520;background: #daa520;background: #91b841;background: #b28eb4;background: #ffa500;background: #ffa500;background: #F45B4D;background: #F45B4D;background: #70acab;background: #70acab;background: #008782;background: #008782;background: #f0b70c; color: #fff!important; cursor: pointer; background: #0E8FAB; border: none; font-size: 12px; padding: 7px 10px;  border: none!important; color: #fff!important; cursor: pointer; 

@@ -1,0 +1,10 @@
+  font-family: 'Lato', sans-serif;
+    background-color: #4eabde;
+    border-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+  margin-bottom: 0px;
+    color: #ffffff;
+    font-weight: 400;
+    text-transform: uppercase;
+    box-shadow: 0 0px 0 rgba(0, 0, 0, 0.0) inset;
+  text-align: right;

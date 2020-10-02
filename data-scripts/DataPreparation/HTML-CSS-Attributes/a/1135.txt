@@ -1,0 +1,4 @@
+	color:#fff;
+	background-position:left top;
+	background-repeat:repeat-x;
+	background-color:#000

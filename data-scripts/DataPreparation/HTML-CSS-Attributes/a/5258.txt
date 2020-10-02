@@ -1,0 +1,11 @@
+	background: url("../images/icon.gif");
+	background-position: 0 0;
+	width:25px;
+	height:25px;
+	text-decoration:none;
+	position:relative;
+	top:32px;
+	float:left;
+	margin-right:10px;
+	overflow:hidden;
+	display:block;

@@ -1,0 +1,18 @@
+  padding-top: 4px;
+  position: relative;
+  letter-spacing: -2px;
+  font-size: 24px;
+  line-height: 20px;
+  display: block;
+  color: #323045;
+  left: 20px;
+  top: 17px;
+  right: auto;
+  -webkit-transition: 0.5s ease;
+  transition: 0.5s ease;
+  background-color: #88858a;
+  bottom: 0;
+  width: 0;
+    font-size: 18px !important;
+    letter-spacing: -1px;
+    padding-left: 40px;

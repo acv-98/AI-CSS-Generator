@@ -1,0 +1,2 @@
+margin:0 auto; background:url(../images/shadows1.png) no-repeat center; width:878px; height:38px;
+BOX CLASSES

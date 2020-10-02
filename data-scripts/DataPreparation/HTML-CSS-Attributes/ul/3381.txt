@@ -1,0 +1,11 @@
+   list-style: none;
+   margin: 18px 0 24px -15px;
+   padding: 0;
+   overflow: hidden;
+   float: left;
+   display: inline-block;
+ #sidebar .photostream li a img {
+   border-radius: 3px;
+   height: 54px;
+   width: 54px;
+   vertical-align: bottom;

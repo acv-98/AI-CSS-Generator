@@ -1,0 +1,12 @@
+	width:980px;
+	height:236px;
+	position:relative;
+	overflow:hidden;
+	list-style:none outside none;
+	padding:21px 0 0 79px;
+	float:left;
+	display:inline;
+	margin-right:72px;
+	padding-top:25px;
+	margin-bottom:5px;
+	margin-top:20px;

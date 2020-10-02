@@ -1,0 +1,9 @@
+	color: #fff;
+	display: block;
+	float: left;
+	font-size: 11px;
+	padding-right: 6px;
+	margin-right: 6px;
+	background: url('images/date.png') no-repeat left;
+	padding-left: 18px;
+	margin-bottom: 4px;

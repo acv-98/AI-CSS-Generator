@@ -1,0 +1,15 @@
+	border: 1px solid #a5d549;    
+	background-color: #f8f8f8;
+	display: inline;
+	float: left;
+	width: 100%;
+	margin: 15px 0;
+	position: relative;
+	padding: 20px 10px;
+	font-size: 22px;
+	margin-bottom: 5px;
+	font-weight: 300;
+	margin-top: 10px;
+	text-transform: capitalize;
+		font-size: 14px;
+		padding: 20px;

@@ -1,0 +1,5 @@
+        text-align: center;
+    color:#fff;
+    line-height: 25px;
+    padding:40px;
+    max-width: 100%;

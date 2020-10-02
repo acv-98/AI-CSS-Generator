@@ -1,0 +1,25 @@
+    background: #fff;
+    color: #2dcc70;
+    text-shadow: none
+    width: 104px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -20px;
+    margin-left: -52px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transform: translate(0, -50px);
+    -moz-transform: translate(0, -50px);
+    -ms-transform: translate(0, -50px);
+    -o-transform: translate(0, -50px);
+    transform: translate(0, -50px);
+    -webkit-transition: 300ms;
+    -moz-transition: 300ms;
+    -o-transition: 300ms;
+    transition: 300ms
+    line-height: 40px;
+    display: inline-block;
+    text-align: center;
+    font-size: 18px;

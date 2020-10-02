@@ -1,0 +1,6 @@
+	color: #fff;
+    font-size: 35px;
+    display: inline-block;
+    overflow: hidden;
+    margin-top: 115px;
+	transition:.3s ease-in-out;

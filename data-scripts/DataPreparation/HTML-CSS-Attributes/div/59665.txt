@@ -1,0 +1,4 @@
+height: 73px;
+font-size: 16px;
+margin-bottom: 0;
+padding: 8px;

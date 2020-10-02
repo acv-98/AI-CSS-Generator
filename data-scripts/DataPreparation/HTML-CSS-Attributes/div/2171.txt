@@ -1,0 +1,5 @@
+    left: 682px;
+  float: left;
+  text-indent: -999px;
+  background: url(../img/arrow-right-dark.png) center center no-repeat #cb5432;
+  opacity: 1;

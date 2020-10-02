@@ -1,0 +1,13 @@
+	padding: 0 6% 24px;
+	position: absolute;
+	top: 0;
+	right: 0;
+		padding: 0 3% 24px;
+		width: 35%;
+		position: static;
+		max-width: 480px;
+		font-size: 1.6rem;
+		line-height: 3rem;
+		margin-left: auto;
+		margin-right: auto;
+		padding-bottom: 0;

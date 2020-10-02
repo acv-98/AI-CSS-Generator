@@ -1,0 +1,6 @@
+  content: "\f127";
+    border-top-left-radius: 0;
+    -webkit-transform: translateX(400%) translateY(0%);
+    transform: translateX(400%)  translateY(0%);
+    opacity: 0;
+    transition: all 0.5s;

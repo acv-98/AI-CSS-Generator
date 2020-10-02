@@ -1,0 +1,5 @@
+		float:none;
+		text-align:center;
+	padding:36px 0 21px 0;
+	background:#fff;
+	border-top:5px #d00b01 solid;

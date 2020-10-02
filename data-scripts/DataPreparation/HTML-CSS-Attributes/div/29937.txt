@@ -1,0 +1,5 @@
+	position:relative;
+	float:left;
+	display:inline;
+	width:656px;
+	height:225px;

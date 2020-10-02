@@ -1,0 +1,5 @@
+	padding-top:15px;
+	background:url(images/more-blue.gif) no-repeat center bottom;
+	position:relative;
+	color:#0f0f0c;
+	text-decoration:none;

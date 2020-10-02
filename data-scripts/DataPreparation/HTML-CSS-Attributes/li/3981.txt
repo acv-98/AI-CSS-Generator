@@ -1,0 +1,2 @@
+	background:url(../images/pagination.png) 0 0 no-repeat;
+	color:#ff9000;

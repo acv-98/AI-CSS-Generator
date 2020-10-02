@@ -1,0 +1,4 @@
+	max-width:145px;
+	max-height:45px;
+	font-family: 'montserratregular';
+    border-radius: 0px;

@@ -1,0 +1,8 @@
+  background: #77c344;
+  padding: 10px 20px;
+  color: #fff;
+  border-radius: 0;
+  margin-left: -4px;
+  -webkit-transition: .2s all;
+  -o-transition: .2s all;
+  transition: .2s all;

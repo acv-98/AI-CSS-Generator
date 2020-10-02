@@ -1,0 +1,62 @@
+border-left:2px solid #217b9d;background:#217b9d;height:23px;padding-top:7px;		max-width:678px;
+		margin-bottom:41px;
+		font-size:17px;
+		color:#454545;
+		font-weight:600;
+color:#3c3c3c;	.body .blog .info {
+		padding:6px 0 7px 0;
+		border-top:1px solid #e7e6e6;
+		border-bottom:1px solid #e7e6e6;
+color:#e7e6e6;margin-bottom:20px;background:url(../images/design/shadow-full-body-blog.png) center 274px no-repeat transparent;padding-bottom:25px;margin-bottom:-10px;border:1px solid #e0e0e0;background-color:#e5e5e5;color:#f1f1f1;	.body .blog p {
+		font-family:Arial, Helvetica, sans-serif;
+		line-height:17px;
+		margin-top:33px;
+		padding-bottom:12px;
+		background:url(../images/design/diag-hr.png) bottom left repeat-x transparent;
+		font-style:normal;
+		border-left:2px solid #3aa9d2;
+position:relative;	.body .blog .border .meta {
+		min-width:61px;
+		min-height:46px;
+		position:absolute;
+		left:622px;
+		top:15px;
+		z-index:100;
+		text-align:center;margin:auto;
+font-size:10px;display:block;padding-bottom:1px;	* Style 2
+margin-bottom:36px;	.body .blog.style-2 .meta {
+		float:left;
+		width:125px;
+		margin-right:25px;
+float:right;margin:0 0 0 25px;float:left;	.body .blog.style-2 .description  h5 {
+color:#3b3b3b;	.body .blog.style-2 .meta p {
+margin-top:10px;margin-bottom:5px;	* Style 3
+max-width:651px;padding-bottom:8px;margin-top:6px;margin-top:3px;margin-top:7px;background-position:center 267px;	* Style 4
+max-width:685px;margin:0 0 35px 0;padding:0;position:relative;float:left;position:absolute;top:12px;left:6px;z-index:1000;background:none;padding:6px;background:#3aa9d2;color:#dedede;line-height:11px;font-size:11px;margin-top:3px;float:left;width:381px;margin:0 0 0 20px;width:272px;height:161px;overflow:hidden;padding:2px 0 3px 0;margin:0 5px 5px 0;padding-bottom:12px;line-height:12px;margin-top:6px;margin:7px 0 0 0;	* Blog Post
+padding:0;margin:0;max-width:651px;	.body .blog.post .description {
+margin-bottom:15px;	.body .blog.post h6 {
+		clear:both;
+		list-style:none;
+		height:40px;
+		overflow:hidden;
+		margin-left:55px;
+		background-color: #dfdede;
+		border-right:0;
+margin-bottom:21px;	.body .standard-form form input, .body .standard-form form textarea {
+		display:block;
+		text-indent:5px;
+		-webkit-box-shadow: inset 2px 2px 1px 1px #f1f1f1;
+        box-shadow: inset 2px 2px 1px 1px #f1f1f1;
+float:left;margin:0;padding:0;	.body .sidebar ul.blogs li img, .body .sidebar ul.img-list li img {
+		max-height:55px;
+margin:4px;	.body .sidebar ul.blogs li p {
+margin:0;padding:0;padding:0;margin:12px 0 15px 0;	.body .sidebar .tabbed-area .tcontent .blogs img {
+			max-width:501px;
+color:#e7e6e6;margin-bottom:11px;max-width:489pxbackground:none;margin-bottom:11px;padding:0;		* Style 2
+width:105px;margin-right:20px;width:376px;		* Style 3
+left:461px;max-width:501px;		* Style 4
+max-width:523px;margin:0 0 35px 0;padding:0;margin-top:3px;float:left;width:285px;margin:0 0 0 20px;width:204px;height:121px;overflow:hidden;font-size:8px;		* Blog Post
+padding:0;margin:0;max-width:501px;width:95%;width:83%;max-width:45px;max-height:40px;overflow:hidden;padding:2px;margin-bottom:0;padding:0;top:-10px;font-size:10px;max-width:96px;position:relative;line-height:12px;margin-bottom:5px;font-size:11px;display:block;line-height:13px;margin:8px 0 0 0;display:none;display:block;line-height:14px;margin-top:0;margin-top:10px;padding-bottom:9px;border-bottom:1px dashed #d8d7d7;padding-bottom:10px;width:100%;margin:0 0 10px 0;width:100%;left:380px;max-width:100%;margin:0 0 35px 0;padding:0;margin:0 0 0 6px;float:none;width:100%;display:block;margin:0;position:relative;width:100%;float:none;max-width:421px;color:#e7e6e6;margin-bottom:11px;max-width:408pxbackground:none;margin-bottom:11px;padding:0;		.body .body-wrapper {
+			background:url(../images/design/body-480.png) left top repeat-y transparent;
+			width:460px;
+padding:0;margin:0;max-width:501px;width:95%;width:83%;max-width:288pxbackground:none;margin-bottom:11px;padding:0;display:none;width:298px;padding:0;margin:0;max-width:501px;width:90%;width:71%;left:7%;

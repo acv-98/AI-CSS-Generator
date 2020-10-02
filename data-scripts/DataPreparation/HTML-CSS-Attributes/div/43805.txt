@@ -1,0 +1,5 @@
+	padding: 5px;
+	position: relative;
+	height: auto;
+	min-height: 200px;
+ padding: 5px; 

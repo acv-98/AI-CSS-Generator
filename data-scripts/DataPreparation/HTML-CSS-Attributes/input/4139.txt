@@ -1,0 +1,6 @@
+	display:block;
+	background:#616943;
+	font:bold 18px Comfortaa;
+	padding:5px;
+	color:#fff;
+	border:solid 1px #444b2b;

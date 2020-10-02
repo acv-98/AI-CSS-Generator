@@ -1,0 +1,10 @@
+  background: #D6D6D0;
+  padding-top: 10px;
+  color: #363432;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin-left: 15px;
+  font-style: italic;
+  text-decoration: underline;
+	font-size: 13px;
+	text-align: center;

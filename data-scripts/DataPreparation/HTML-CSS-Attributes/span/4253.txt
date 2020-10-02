@@ -1,0 +1,1 @@
+ width:235px; float:left; margin:16px 0 0 0; color:#fff; font:12px/16px Georgia;  color:#FBDE14;font: bold 12px/16px Georgia; float:left; text-decoration:underline;  background:url(../images/rd_lf.gif) no-repeat; width:86px; height:20px; float:left; margin:9px 0 0 0; border:0; 

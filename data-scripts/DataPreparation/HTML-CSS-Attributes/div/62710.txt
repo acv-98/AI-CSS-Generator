@@ -1,0 +1,6 @@
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+    visibility: hidden;
+	top:90% !important;
+	margin:0;
+	padding:0;

@@ -1,0 +1,6 @@
+	background:url(../images/link-2.png) 0 no-repeat;
+	padding-left:16px;
+	display:inline-block;
+	text-decoration:none;
+	cursor:pointer;
+	color:#e88800;

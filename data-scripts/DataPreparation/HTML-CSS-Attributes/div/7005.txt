@@ -1,0 +1,1 @@
+ width:100%; overflow:hidden; background:#dd31ae; width:960px; margin:0 auto; height:140px; float:left; width:500px; height:140px; line-height:140px; color:#ffffff; font-size:36px; text-transform:uppercase; font-weight:normal;

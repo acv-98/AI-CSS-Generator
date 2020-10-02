@@ -1,0 +1,4 @@
+	margin-bottom: 10px;
+	border-bottom: 1px dashed #ccc;	
+	color: #ffffff;
+	font-weight: normal;

@@ -1,0 +1,7 @@
+	border-color: transparent;
+  background-color: transparent;
+		text-align: center;
+		border-color: transparent;
+	  background-color: #FFFFFF;
+    border: 0;
+    border-color: transparent;

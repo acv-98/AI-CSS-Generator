@@ -1,0 +1,4 @@
+	margin-top: 1.5em;
+	font-family: 'Patua One', cursive;
+	color: #f0bf00;
+	text-transform: uppercase;

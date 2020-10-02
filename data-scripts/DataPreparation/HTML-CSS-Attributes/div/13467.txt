@@ -1,0 +1,9 @@
+  width: 700px;
+  *width: 74.41489361702126%;
+  float: none;
+  margin-left: 0;
+    width: 870px;
+    *width: 74.30578286961266%;
+ width: 91.8% !important;  width: 93.5% !important;  width: 91.8% !important;  width: 89.4% !important;     clear: left;
+ height: 55px !important;  height: 46px !important;     .section-portfolio-slider,
+ height: 34px !important; 

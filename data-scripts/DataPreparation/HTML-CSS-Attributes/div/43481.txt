@@ -1,0 +1,5 @@
+	padding:199px 0 0 47px;
+	font-size:36px;
+	color:#545454;
+	line-height:48px;
+	letter-spacing:-2px;

@@ -1,0 +1,21 @@
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    color: #fff;
+    height: 90px;
+    line-height: 96px;
+    width: 90px;
+    
+    -webkit-transition: all 0.2s ease 0s;
+       -moz-transition: all 0.2s ease 0s;
+        -ms-transition: all 0.2s ease 0s;
+         -o-transition: all 0.2s ease 0s;
+            transition: all 0.2s ease 0s;
+        margin: 0 25px;
+        height: 65px;
+        line-height: 71px;
+        width: 65px;

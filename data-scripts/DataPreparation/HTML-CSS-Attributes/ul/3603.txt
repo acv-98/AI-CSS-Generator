@@ -1,0 +1,2 @@
+border-right:0; float:rightpadding:8px 5px; color:#fff; font-size:13px; border-radius:0; border:none
+.logo_area.slider_tittle.carousel-indicatorsbackground:none repeat scroll 0 0 #09cbackground-color:#09c; color:#fffborder-top:3px solid #09c

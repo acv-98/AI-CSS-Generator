@@ -1,0 +1,5 @@
+  	color: #7d8285;
+  	font-weight: bold;
+  	margin: 15px 0 10px 10px;
+  	background: transparent;
+  	width: 200px;

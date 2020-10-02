@@ -1,0 +1,9 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/corner.png', sizingMethod='image');
+	width:9px;
+	height:9px;
+	float:left;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:100;

@@ -1,0 +1,12 @@
+
+  position: relative;
+  left: -22px;
+  font-family: FontAwesome;
+  content: '\f096';
+  max-width: 0;
+  overflow: hidden;
+  opacity: 0.5;
+  transition: all 0.35s;
+  display: none;
+  color: #428bca;
+margin:0 auto

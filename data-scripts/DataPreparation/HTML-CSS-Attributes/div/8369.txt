@@ -1,0 +1,10 @@
+  color: #a5d549; 
+  background-color: #a5d549;  
+  display: inline;
+  float: left;
+  text-align: center;
+  width: 100%;
+  font-size: 35px;
+  font-weight: 300;
+  margin-top: 10px;
+  padding: 10px 15px;

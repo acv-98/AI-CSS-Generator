@@ -1,0 +1,6 @@
+	padding: 20px 30px;
+	float: right;
+	width: 65%;
+		float: none;
+		width: 100%;
+ padding: 20px 0; 

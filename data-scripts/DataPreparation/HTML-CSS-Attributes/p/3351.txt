@@ -1,0 +1,9 @@
+	margin:0;
+	padding:24px 0;
+	font-size:11px;
+	color:#929292;
+	text-align:left;
+	background:url(../images/dot.gif) repeat-x left top;
+	text-decoration:none;
+	border:1px solid #c9ced7;
+	float:right;

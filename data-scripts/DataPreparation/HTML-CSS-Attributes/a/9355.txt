@@ -1,0 +1,13 @@
+		border-bottom: 1px dotted #000;
+		border-top: 1px dotted #000;
+		color: #000;
+		float: left;
+		font-size: 8pt;
+		font-weight: 900;
+		letter-spacing: .3em;
+		line-height: 1em;
+		margin: 10px 0;
+		padding: 5px;
+		text-transform: uppercase;
+	border-top: 0;color: #f06;		
+	.footer	{

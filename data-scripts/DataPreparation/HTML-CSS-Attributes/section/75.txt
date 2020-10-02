@@ -1,0 +1,7 @@
+    background: url(../images/commnsbg.jpg) no-repeat 100% 100%;
+    background-size: cover;
+    max-width: 70%;
+    margin: 20px auto;  
+    color:#fff;
+    font-size:1.25rem;
+    border: 2px solid #fff;

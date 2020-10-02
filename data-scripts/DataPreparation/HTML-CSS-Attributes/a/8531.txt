@@ -1,0 +1,8 @@
+	margin-left: 0px;
+	float: left;
+	padding: 21px 15px;
+	font-size: 18px;
+	line-height: 20px;
+	height: 66px;
+	border-right: 1px solid #e8e8e8;
+	width: 90px;

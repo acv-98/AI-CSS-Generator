@@ -1,0 +1,2 @@
+ padding:10px; background:#45303f; font-size:16px; font-weight:normal; color:#ffffff; display:inline-block;
+4 PANELS CLASSS

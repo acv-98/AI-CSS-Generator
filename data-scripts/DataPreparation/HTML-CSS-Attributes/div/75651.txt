@@ -1,0 +1,10 @@
+	width:200px;
+	float:left;
+	color:fff;
+	margin:48px 1px 0px 0px;
+	padding:0px 0px 30px 0px;
+	sborder-right:1px solid #95927e;
+	background-color:#333;
+	background-image: url(../images/content_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;

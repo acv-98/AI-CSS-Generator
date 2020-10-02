@@ -1,0 +1,7 @@
+    padding: 8px;
+    float: left;
+    opacity: 1;
+    transition: all 0.3s ease 0s;
+        padding: 8px 0;
+    overflow: hidden;
+    position: relative;

@@ -1,0 +1,2 @@
+ margin-left: -10px;  margin-top: 0 !important; color: #676768; font-size: 14px; font-weight: 700; margin-top: 7px;  display: none 
+ margin-left: -20px;  margin-left: -20px;  margin-left: -20px;  margin-left: 0     .section-portfolio-classic .work-projects.span9 .row .caroufredsel_wrapper,

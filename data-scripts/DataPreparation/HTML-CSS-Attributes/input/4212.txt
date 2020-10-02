@@ -1,0 +1,10 @@
+	background:none;
+	border:0;
+	padding:4px 0 4px 10px;
+	height:18px;
+	width:220px;
+	float:left;
+	font-family:Helvetica;
+	font-size:14px;
+	font-style:italic;
+	color:#848e92;

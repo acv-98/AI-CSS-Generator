@@ -1,0 +1,8 @@
+margin: 0;
+padding: 0;
+list-style: none;
+margin-bottom: 15px;
+padding-bottom: 5px;
+border-bottom: 1px dotted #808080;
+margin-left: 90px;
+color: #8d8888;

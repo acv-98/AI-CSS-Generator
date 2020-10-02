@@ -1,0 +1,12 @@
+    background: #F2F2F2;
+    padding-bottom: 40px;
+    text-align: left;    
+    color: #333333;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-size: 18px;
+    text-decoration: none;
+    text-transform: capitalize;
+    -webkit-transition: all 0.3s ease;
+            transition: all 0.3s ease;
+    max-width: 360px;

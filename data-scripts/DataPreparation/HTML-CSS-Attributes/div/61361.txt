@@ -1,0 +1,12 @@
+	margin-bottom:40px;
+	font-size:60px;
+	color:#70c92f;
+	text-transform:uppercase;
+	font-family: 'open_sanslight';
+	line-height:4rem;
+    font-size: 24px;
+    color: #fff;
+    max-width: 45%;
+    margin: 0 auto;
+    line-height: 2.5rem;
+    padding: 20px 0px;

@@ -1,0 +1,13 @@
+	text-decoration:none;
+	width:100%;
+	background:url(../images/menu-row.gif) center top repeat-x #000;
+	border-bottom:1px solid #2b2b2b;
+	padding:28px 10px 26px 0;
+	float:right;
+	position:relative;
+	padding-left:44px;
+	display:inline-block;
+	font-size:13px;
+	line-height:2em;
+	color:#808080;
+	text-transform:uppercase;

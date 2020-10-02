@@ -1,0 +1,3 @@
+ 		height: auto;
+  position: relative;
+  height: 600px;

@@ -1,0 +1,4 @@
+  background: #222534;
+  color: #fff;
+  border: 0;
+  background-image: -moz-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);

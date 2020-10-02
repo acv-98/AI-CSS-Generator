@@ -1,0 +1,2 @@
+background-color: #111;padding: 1em; color: #fff;
+@media (max-width: 1400px) {		

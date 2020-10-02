@@ -1,0 +1,15 @@
+	display: none;
+	color: #a0a0a0;
+	clear: both;
+	font-size: 12px;
+	line-height: 18px;
+	margin-bottom: 26px;
+	text-decoration: none;
+	padding: 0 5px;
+	content: "#";
+	background: url(../images/icon-article.png) no-repeat center center;
+	text-indent: -99999px;
+	width: 11px;
+	background-image: url(../images/icon-image.png);
+	background-position: center bottom;
+	padding-right: 5px;

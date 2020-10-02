@@ -1,0 +1,6 @@
+	box-shadow:3px 2px 5px 5px rgba(0,0,0,0.4);
+	background: transparent;
+	border: 0;
+	padding: 9px;
+	color: #F2F2F2;
+        font-size:0.8em;

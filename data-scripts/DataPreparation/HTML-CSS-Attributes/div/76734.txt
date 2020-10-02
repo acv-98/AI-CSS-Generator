@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	background:url(images/menu.gif) repeat-x top;
+	height:69px;
+	list-style:none;
+	float:left;
+	display:block;
+	color:#4b4b4b;
+	text-decoration:none;
+	font-size:14px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;

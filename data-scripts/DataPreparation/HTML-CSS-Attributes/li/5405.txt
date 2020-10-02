@@ -1,0 +1,3 @@
+	color: #b13c68;
+	text-shadow: 1px 1px 0 #ebb8c7;
+	background: url(../images/sprite-buttons.gif) no-repeat 0 -97px;

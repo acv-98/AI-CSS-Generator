@@ -1,0 +1,8 @@
+  float: left;
+  width: 83%;
+  font-family: "Playfair Display", serif;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  padding: 0;
+  margin: -5px 0 0 0;

@@ -1,0 +1,10 @@
+	background:url(../images/box-holder-bottom-footer.png) no-repeat top left;
+	height:47px;
+	width:319px;
+	float:left;
+	display:block;
+	text-transform:uppercase;
+	color:#fff;
+	text-shadow:0 1px 2px #000000;
+	line-height:57px;
+	overflow:hidden;

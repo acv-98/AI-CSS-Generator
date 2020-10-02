@@ -1,0 +1,6 @@
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: .3em;
+  text-align: center;
+  line-height: 1.5;
+  margin-bottom: 2em;

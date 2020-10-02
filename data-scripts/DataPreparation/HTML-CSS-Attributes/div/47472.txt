@@ -1,0 +1,4 @@
+	float:right;
+	height:50px;
+	padding:40px 20px 0px 0px;
+	background:url(../images/pathborder.png) left top no-repeat;

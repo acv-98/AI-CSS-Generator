@@ -1,0 +1,5 @@
+	border: 1px solid #4e595f;
+    background-color: transparent;
+    border-color: #6cb670;
+    color: #fff;
+        float: none;

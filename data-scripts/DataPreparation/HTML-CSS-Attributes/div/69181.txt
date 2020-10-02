@@ -1,0 +1,3 @@
+	background: #09294c;
+	color: #ffffff;
+	opacity: .5;

@@ -1,0 +1,1 @@
+ color:#36240C; font:11px Trebuchet MS; float:left; margin-left:225px; width:500px; color:#000000; font:11px Trebuchet MS; 

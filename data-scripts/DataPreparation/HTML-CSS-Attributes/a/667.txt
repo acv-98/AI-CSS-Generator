@@ -1,0 +1,14 @@
+  position: absolute;
+  font-size: 20px;
+  color: #000;
+  top: 40%;
+  background-color: #fff;
+  padding: 10px;
+  left: 0;
+  padding-left: 0;
+  -webkit-border-radius: 0px 6px 6px 0px;
+  border-radius: 0px 6px 6px 0px;
+  text-decoration: none;
+  right: 0;
+  padding-right: 0;
+    display: none;

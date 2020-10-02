@@ -1,0 +1,7 @@
+	width:580px;
+	border-bottom: 1px solid #ede4dd;
+	padding-top:30px;
+	padding-bottom:30px;
+	font-weight:normal;
+	font-size:18px;
+	color:#1e0505;

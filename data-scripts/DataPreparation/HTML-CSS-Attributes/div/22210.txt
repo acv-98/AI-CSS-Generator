@@ -1,0 +1,6 @@
+  	padding: 65px;
+	font-size: 26px;
+	line-height: 32px;
+		padding: 40px;
+		font-size: 20px;
+		line-height: 24px;

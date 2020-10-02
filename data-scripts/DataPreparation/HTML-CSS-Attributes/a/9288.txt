@@ -1,0 +1,1 @@
+ background-position:	-144px 0px;		

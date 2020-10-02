@@ -1,0 +1,2 @@
+    font-size: 3.75rem;
+    line-height: inherit;

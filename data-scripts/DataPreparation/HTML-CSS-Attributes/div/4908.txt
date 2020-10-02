@@ -1,0 +1,4 @@
+	margin:0;
+	padding:0;
+	background:#162d3d url(../images/main_bg.gif) repeat left top;
+	width:960px;

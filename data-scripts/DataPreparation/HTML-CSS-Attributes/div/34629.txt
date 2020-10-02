@@ -1,0 +1,21 @@
+    padding: 5px 0 3px;
+    padding-left: 10px !important;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+.yamm .nav,
+.yamm .collapse,
+.yamm .dropup,
+.yamm .dropdown {
+    position: static;
+    z-index: 111;
+    min-width: 180px;
+.header-transparent {
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: #3ac5c8 !important;
+        color: #787878 !important;
+        padding: 0 20px;

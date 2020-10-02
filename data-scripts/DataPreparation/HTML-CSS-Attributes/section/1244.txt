@@ -1,0 +1,13 @@
+  color: #ffffff;
+  background-color: #FFF;
+  background-image: url(../images/parallax05.jpg);
+  padding: 134px 0px 132px;
+  text-align: left;
+  padding-left: 65px;
+  position: relative;
+  content: '\f000';
+  left: 0;
+  top: 10px;
+  font-family: 'FontAwesome';
+  font-size: 60px;
+  line-height: 60px;

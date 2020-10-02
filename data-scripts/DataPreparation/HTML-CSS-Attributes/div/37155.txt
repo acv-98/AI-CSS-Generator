@@ -1,0 +1,7 @@
+	width: 1000px;
+	content: '';
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+	opacity: 0;

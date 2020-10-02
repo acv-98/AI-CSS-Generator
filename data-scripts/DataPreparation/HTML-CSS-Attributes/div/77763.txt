@@ -1,0 +1,6 @@
+margin-bottom: 3em;text-align: center; margin-top: 1em;
+.warning { 
+	display: block; 
+	background: #F5F5F5; 
+	border: 1px solid #DDD; border-left: none; border-right: none; 
+	text-align: center; 

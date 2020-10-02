@@ -1,0 +1,9 @@
+	margin:0;
+	padding:0;
+	list-style:none;
+	display:block;
+	color:#7e7e7e;
+	text-decoration:none;
+	background:url(../images/li_p.gif) no-repeat left center;
+	font-weight:normal;
+	background-image:url(../images/li_a.gif)

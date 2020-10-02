@@ -1,0 +1,5 @@
+	margin:0 0 28px;
+	padding:0;
+	float:none;
+	height:133px;
+	border-bottom:1px solid #2b2b2b;

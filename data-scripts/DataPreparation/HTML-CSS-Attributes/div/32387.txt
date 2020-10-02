@@ -1,0 +1,10 @@
+	background-color: #161616;
+	border: 0px;
+	color: #FFF;
+  border-radius: 0;
+  background: transparent;
+  text-transform: uppercase;
+  padding: 0;
+  text-decoration: none;
+  display: block;
+  width: 100%;

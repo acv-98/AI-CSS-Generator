@@ -1,0 +1,8 @@
+			padding: 5px 10px;
+			border-width: 1px 0;
+			border-style: dotted;
+			border-color: #BCBCBC;
+			margin-top: 10px;
+		
+			color: #666666;
+			text-decoration: none;

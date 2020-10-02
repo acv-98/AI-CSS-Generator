@@ -1,0 +1,4 @@
+ margin-top: 3px; .post .post-info a:link,
+  	color: #1372a8;
+  	border: none;
+  	font-size: .9em;

@@ -1,0 +1,9 @@
+  font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+font-size: 14px;
+letter-spacing: 1px;
+ color:#2ec574;.progress{
+	height: 12px;
+	background-color:#ebeef1;
+	background-image:none;
+	box-shadow:none;

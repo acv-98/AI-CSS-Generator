@@ -1,0 +1,13 @@
+  margin-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: table-cell;
+  vertical-align: top;
+  margin-bottom: 5px;
+  list-style: none;
+	font-size: 24px;
+	width: 40px;
+	height: 25px;
+	line-height: 25px;
+	padding: 0 5px;
+	text-align: center;

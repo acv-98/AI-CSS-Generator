@@ -1,0 +1,11 @@
+	float: right;
+	background-image: url(../img/facebook.png);
+	width: 30px;
+	height: 30px;
+	background-position: 0 -30px;
+	-webkit-transition: background-position .3s ease;
+	   -moz-transition: background-position .3s ease;
+	     -o-transition: background-position .3s ease;
+	        transition: background-position .3s ease;
+	margin-left: 2px;
+        	

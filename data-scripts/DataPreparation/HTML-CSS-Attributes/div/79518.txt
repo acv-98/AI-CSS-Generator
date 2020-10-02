@@ -1,0 +1,24 @@
+	position: relative;
+	display: -webkit-flex;
+	-webkit-flex-direction: column;
+	flex-direction: column;
+	-webkit-align-items: stretch;
+	align-items: stretch;
+	text-align: center;
+	
+	background: #fff;
+	-moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.06);
+	cursor: default;
+	color: #262b38;
+	border-right: 1px solid rgba(139, 144, 157, 0.18);
+	border-left: 1px solid rgba(139, 144, 157, 0.18);
+	-webkit-animation: moveUp 0.4s forwards;
+	animation: moveUp 0.4s forwards;
+	-webkit-animation-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+	animation-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+	-webkit-animation-delay: 0.05s;
+	animation-delay: 0.05s;
+  width: 100%;
+  float: left;
+  clear: both;
+    margin-bottom: 30px;

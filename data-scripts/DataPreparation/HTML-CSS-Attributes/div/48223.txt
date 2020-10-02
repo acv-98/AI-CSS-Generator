@@ -1,0 +1,4 @@
+	letter-spacing: 2px;
+	margin-bottom: 45px;
+	top: 40px;
+	font-size: 18px;

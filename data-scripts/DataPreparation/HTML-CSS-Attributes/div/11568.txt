@@ -1,0 +1,4 @@
+  background: url(../img/border-horiz.gif) repeat-x 0 0;
+  height: 2px;
+  margin: 16px 0 0;
+  margin-bottom: 10px;

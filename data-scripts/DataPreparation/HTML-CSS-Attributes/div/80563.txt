@@ -1,0 +1,8 @@
+		background:url(../images/design/header-title-rg.png) left top no-repeat transparent;
+		width:540px;
+		height:122px;
+		position:absolute;
+		top:-50px;
+		left:230px;
+		margin:auto;
+			display:none;

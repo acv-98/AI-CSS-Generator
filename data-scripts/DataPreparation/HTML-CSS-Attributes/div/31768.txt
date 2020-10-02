@@ -1,0 +1,7 @@
+  height: 860px;
+  display: table;
+  width: 100%;
+    height: inherit;
+    padding: 5em 0;
+    text-align: center;
+  position: relative;

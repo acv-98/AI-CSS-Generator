@@ -1,0 +1,8 @@
+	margin:15px 0;
+	list-style:none;
+	padding:15px 0 15px 50px;
+	background:url("../design/articles.png") 0 10px no-repeat;
+	border:0;
+	font-size:110%;
+	border-bottom:1px solid #DDD;
+	color:#777;

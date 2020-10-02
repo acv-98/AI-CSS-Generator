@@ -1,0 +1,11 @@
+  display: inline;
+  float: left;
+  margin-top: 20px;
+  padding-top: 30px;
+  padding-left: 15px;
+  width: 100%;
+  margin-bottom: 20px;
+  line-height: 24px;
+  content: "\f0da";
+  font-family: fontAwesome;
+  margin-right: 10px;

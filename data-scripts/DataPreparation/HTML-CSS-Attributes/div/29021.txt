@@ -1,0 +1,6 @@
+	margin-top: 50px;
+	font-size: 1.1em;
+    font-family: 'Oxygen', sans-serif;	
+	color: #e74c3c;
+	line-height: 1.7em;
+	margin-bottom: 20px;

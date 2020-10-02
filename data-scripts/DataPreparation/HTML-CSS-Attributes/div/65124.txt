@@ -1,0 +1,10 @@
+	margin-left:auto;
+	margin-right:auto;
+	width:960px
+	padding-left:240px
+	padding-right:240px
+	left:240px
+	height: 240px;
+	overflow: hidden;
+	background: url(../images/footer_seperator.jpg) repeat-x;
+	background-position: 0px 30px;

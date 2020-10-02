@@ -1,0 +1,8 @@
+    margin-left: 0;
+    list-style: none!important;
+    padding: 7px 0;
+    line-height: 185%;
+    border-bottom: 1px solid rgb(240, 240, 240);
+    margin-right: 8px;
+    width: 13px;
+    color: #25CBF5;

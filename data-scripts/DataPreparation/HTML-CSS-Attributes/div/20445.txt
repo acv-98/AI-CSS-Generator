@@ -1,0 +1,2 @@
+    max-width: 178px;
+    max-height: 178px;

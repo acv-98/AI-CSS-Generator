@@ -1,0 +1,6 @@
+ float: left; 				
+				.pp_nav {
+					clear: right;
+					float: left;
+					margin: 3px 10px 0 0;
+ background: url(../images/socialpack/twitter.png) 50% 50% no-repeat  float: left; font-size: 12px; width: 32px; height: 32px; background: #10A3C3; 

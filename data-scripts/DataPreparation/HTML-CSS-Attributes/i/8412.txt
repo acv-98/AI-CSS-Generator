@@ -1,0 +1,6 @@
+content:"\f17d";	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-image: url(../img/icomoon-social.png);
+	background-repeat: no-repeat;
+	background-position: -192px 0;

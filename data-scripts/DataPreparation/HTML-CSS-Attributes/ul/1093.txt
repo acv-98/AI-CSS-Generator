@@ -1,0 +1,7 @@
+	background:url(../images/separator-left-column-contact.png) no-repeat bottom center;
+	display:block;
+	height:97px;
+	line-height:97px;
+	width:242px;
+	margin:0 auto;
+	background-position:bottom 5px;

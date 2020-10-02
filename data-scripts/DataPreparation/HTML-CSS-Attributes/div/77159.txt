@@ -1,0 +1,4 @@
+	text-align: center;
+	margin-top: 20px;
+	color: #222222;
+	margin-bottom: 15px;

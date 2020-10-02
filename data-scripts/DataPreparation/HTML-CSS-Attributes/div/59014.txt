@@ -1,0 +1,1 @@
+font-size:12px; line-height:10pxfont-size:7px; line-height:10pxmargin-bottom:0margin-top:5pxtext-align:center; margin-top:15pxcolor:#FF1769

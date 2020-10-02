@@ -1,0 +1,8 @@
+	margin: 35px 0;
+	font-size: 18px;
+	font-weight: 600;
+	color: #555;
+	border-bottom: 2px dotted rgb(213, 213, 213);
+	font-style: italic;
+	float: right;
+	margin-top: -26px;

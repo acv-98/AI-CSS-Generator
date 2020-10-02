@@ -1,0 +1,5 @@
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  table-layout: fixed;
+  float: none;

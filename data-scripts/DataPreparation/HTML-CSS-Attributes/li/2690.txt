@@ -1,0 +1,6 @@
+display:block !important;
+html{
+    width: 100% !important;
+    overflow-x: hidden !important;
+  height: auto;
+ background:#000; background:rgba(0,0,0,0.8); position:absolute;  color:#fff;  margin:0 0 0.7em; font-weight: normal; letter-spacing:0;  font-size: 12px;  display:none;  overflow:hidden; 

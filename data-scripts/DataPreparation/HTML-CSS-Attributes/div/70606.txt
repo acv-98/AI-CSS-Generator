@@ -1,0 +1,7 @@
+    padding-left: 20px;
+    color: #fff;
+    margin-top: 0;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: .75em;
+        margin-bottom: 20px;

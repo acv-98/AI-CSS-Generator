@@ -1,0 +1,18 @@
+    opacity: 0;
+    display: none;
+	max-height:230px;
+    color: #FFFFFF;
+    font-size: 30px;
+    margin: 0 0 30px;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: top;
+    height: auto;
+    width: 100%;
+	
+    background-color: #FFFFFF;
+    border-radius: 4px 4px 0 0;
+    box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1);
+    position: relative;
+    transition: top 0.5s ease 0s;
+ .navbar-brand 

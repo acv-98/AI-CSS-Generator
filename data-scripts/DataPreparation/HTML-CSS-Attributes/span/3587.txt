@@ -1,0 +1,1 @@
+display:block; padding-left:22px; background:url(../images/icon_news.gif) 0 2px no-repeat; font:12px/14px Arial, sans-serif; color:#f5ad69; font-weight:bold; margin-bottom:10px

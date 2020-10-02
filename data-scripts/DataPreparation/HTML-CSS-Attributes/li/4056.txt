@@ -1,0 +1,3 @@
+	text-decoration:none;
+	color:#df4b49;
+	font-weight:bold;

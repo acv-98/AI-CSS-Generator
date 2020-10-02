@@ -1,0 +1,14 @@
+    margin-bottom: 50px;
+    color: #fff;
+    font-size: 36px;
+    padding-bottom: 30px;
+    position: relative;
+    text-transform: uppercase;
+    border-bottom: 1px solid #009ee3;
+    content: "";
+    display: block;
+    left: 45%;
+    bottom: 0;
+    width: 115px;
+        font-size: 25px;
+        left: 30%;

@@ -1,0 +1,14 @@
+  transition: -webkit-transform 0.2s ease;
+  position: absolute;
+  font-size: 60px;
+  top: 20px;
+  left: -80px;
+  opacity: 0;
+  -webkit-transition: opacity 0.15s linear;
+          transition: opacity 0.15s linear;
+  -webkit-transform: translate(0, -25%);
+      -ms-transform: translate(0, -25%);
+          transform: translate(0, -25%);
+     -moz-transition: -moz-transform 0.3s ease-out;
+       -o-transition: -o-transform 0.3s ease-out;
+  filter: alpha(opacity=0);

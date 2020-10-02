@@ -1,0 +1,15 @@
+		display:block;
+		padding:0;
+		margin-bottom:5px;
+		position:relative;
+		float:left;
+		font-size:18px;
+		font-weight:600;
+		background-color:#f4f3f3;
+		line-height:18px;
+		z-index:10;
+		height: 1px;
+		left: 0;
+		margin-top:18px;
+		width: 100%;
+z-index:202;

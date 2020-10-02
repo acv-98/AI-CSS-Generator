@@ -1,0 +1,5 @@
+	background:url(../images/quot1.png) 0 0 no-repeat;
+	padding-left:20px;
+	font-style:italic
+	display:inline-block;
+	margin-top:1px;

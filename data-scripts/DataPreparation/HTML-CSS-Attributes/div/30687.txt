@@ -1,0 +1,14 @@
+  text-align: center;
+  margin: 0px -15px;
+  padding: 120px 45px;
+  margin-top: 45px;
+  margin-bottom: 20px;
+  font-size: 22px;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  line-height: 74px;
+  background-color: transparent;

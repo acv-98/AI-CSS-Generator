@@ -1,0 +1,7 @@
+    padding: 0;
+    width: 220px;
+    float: left;
+    height: auto;
+    position: relative;
+    right: 10px;
+        padding-right: 0;

@@ -1,0 +1,7 @@
+ margin: 0 auto; 
+.grid {
+	position: relative;
+	margin: -1.5rem auto;
+	list-style: none;
+	text-align: center;	
+ width: 300px;  float: left; 

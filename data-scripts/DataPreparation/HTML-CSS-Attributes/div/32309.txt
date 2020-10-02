@@ -1,0 +1,17 @@
+padding:5px 3px;	display:block;
+	padding:5px 8px;
+	text-decoration:none;
+	width:100%;
+	float:left;
+	text-align:center;
+	margin:0px;
+	list-style:none;
+	font-family: 'HelveticaLTStdRoman',Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	border:1px solid #000;
+    background: #000;
+    filter: progid:DXImageTransform.Microsoft.Gradient(StartColorStr='#3f3f3f', EndColorStr='#000', GradientType=0);
+	color:#fff;
+	text-shadow:none !important;
+	background: #7c7c7c;
+	border-radius:4px;

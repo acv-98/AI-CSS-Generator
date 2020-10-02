@@ -1,0 +1,14 @@
+  margin-top: 25px;
+  border-bottom: 1px solid #d1d1d2;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  font-size: 14px;
+  color: #737272;
+  font-family: 'Open Sans', sans-serif;
+  margin-right: 25px;
+  width: 236px;
+  float: right;
+    width: 200px;
+    height: auto;
+    float: none;

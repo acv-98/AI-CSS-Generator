@@ -1,0 +1,8 @@
+	list-style:none;
+	border-bottom:1px dotted #e8d0d2;
+	padding-bottom:7px;
+	margin-bottom:15px;
+	float:left;
+	width:76px;
+	color:#413f3f;
+	line-height:18px;

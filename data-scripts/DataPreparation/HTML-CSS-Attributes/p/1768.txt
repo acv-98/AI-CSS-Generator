@@ -1,0 +1,12 @@
+	margin:0;
+	padding:24px 20px;
+	font-size:11px;
+	line-height:16px;
+	color:#6e6e6e;
+	text-align:left;
+	display:block;
+	float:left;
+	width:38px;
+	text-decoration:none;
+	background:url(../images/page_p.jpg) no-repeat left top;
+	border:none;

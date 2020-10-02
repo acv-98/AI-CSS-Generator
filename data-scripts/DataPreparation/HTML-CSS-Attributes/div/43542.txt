@@ -1,0 +1,1 @@
+    background: url('images/shadows/bg-shadow-boxed.png') repeat-y center top;

@@ -1,0 +1,10 @@
+	width:425px;
+	float:left;
+	padding-top:5px;
+	font-family:Georgia, Serif;
+	;
+	font-style:italic;
+	color:#e7e7e7;
+	font-size:23px;
+	text-align:right;
+	padding-right:20px;

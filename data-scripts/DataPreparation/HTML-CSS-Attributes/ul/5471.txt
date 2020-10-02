@@ -1,0 +1,1 @@
+color:#fff; -webkit-transition:all 0.5s; -moz-transition:all 0.5s; -ms-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5sbackground-color:#fffbackground-color:#ffffont-size:12pxfont-size:11pxfont-size:14pxcolor:#12a3dfcolor:#12a3df

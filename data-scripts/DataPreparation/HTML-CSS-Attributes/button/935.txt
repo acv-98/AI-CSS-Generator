@@ -1,0 +1,2 @@
+  border-radius: 28px;
+margin:0 auto

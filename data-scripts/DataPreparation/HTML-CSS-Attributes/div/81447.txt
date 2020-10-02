@@ -1,0 +1,7 @@
+	padding: 1.87em;
+	background: url(images/img08.jpg) repeat left top;
+	border-radius: 5px;
+	line-height: 180%;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.2em;
+	font-style: italic;

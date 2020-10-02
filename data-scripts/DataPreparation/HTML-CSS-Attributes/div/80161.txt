@@ -1,0 +1,7 @@
+	width:47.7%;
+	color:#000;
+	font-size:1.2em;
+	margin-bottom:5%;
+	line-height:1.8em;
+		font-size: 1em;
+		width:100%;

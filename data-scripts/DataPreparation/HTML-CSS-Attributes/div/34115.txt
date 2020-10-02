@@ -1,0 +1,18 @@
+	font-size: 34px;
+	text-transform: uppercase;
+	color: #5D5D5D;
+	font-weight: 800;
+	letter-spacing: -0.6px;
+	position: relative;
+	margin-bottom: 20px;
+	padding-bottom: 15px;
+	left: 50%;
+	z-index: 1;
+	width: 40px;
+	height: 2px;
+	content: " ";
+	bottom: -5px;
+	margin-left: -20px;
+	text-align: center;
+	background: #23AD21;
+	line-height: 25px;

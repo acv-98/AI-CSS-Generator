@@ -1,0 +1,4 @@
+        margin-bottom:20px;
+        max-width: 80%;
+    color:#686868;
+    padding-right: 5px;

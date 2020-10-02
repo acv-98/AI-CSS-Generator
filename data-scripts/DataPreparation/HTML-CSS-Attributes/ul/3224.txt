@@ -1,0 +1,24 @@
+float:left;position:relative; .sf-menu>li {
+	float: left;
+	position: relative;
+	font-size: 18px;
+	font-family: 'Signika', sans-serif;
+	color: #fff;
+	line-height: 24px;
+	padding: 38px 13px 6px;
+	display: block;
+	z-index: 999;
+	left: 0;
+transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+	right: 0;
+	height: 100%;
+	top: -100%;
+	background-color: #3f9fc9;
+	width: 141px;
+	padding-top: 28px;
+	padding-bottom: 23px;
+	padding-left: 18px;
+	margin-bottom: 3px;
+	text-transform: uppercase;

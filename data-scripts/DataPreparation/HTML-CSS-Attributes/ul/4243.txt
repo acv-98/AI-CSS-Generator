@@ -1,0 +1,16 @@
+	background-color: #00cfef;
+	border: 1px solid #00cfef;
+	color: #00cfef;
+	box-shadow: 0 12px 19px rgba(255, 255, 255, 0.1) inset, 0 1px 7px rgba(0, 0, 0, 0.2);
+	font-size: 22px;
+    border-radius: 6px;
+    display: block;
+    height: 45px;
+    width: 45px;
+	padding-top: 12px;
+	text-align: center;
+	-webkit-transition: all 0.5s ease 0s;
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+	transition: all 0.5s ease 0s;
+    margin: 10px 6px;

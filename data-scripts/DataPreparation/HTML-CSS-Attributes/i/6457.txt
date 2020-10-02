@@ -1,0 +1,8 @@
+  -webkit-animation-name: fadeIn;
+          animation-name: fadeIn;
+  font-size: 42px;
+  padding-bottom: 22px;
+  margin-right: 14px;
+  margin-top: 32px;
+  margin-bottom: 22px;
+  padding-right: 10px;

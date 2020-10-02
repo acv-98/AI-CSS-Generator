@@ -1,0 +1,13 @@
+	opacity:0;
+	font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+font-size: 14px;
+letter-spacing: 1px;
+text-transform:uppercase;
+margin-bottom:0px;
+		opacity:1;
+		-webkit-transition: opacity .4s .5s;
+		-moz-transition: opacity .4s .5s;
+		-ms-transition: opacity .4s .5s;
+		-o-transition: opacity .4s .5s;
+		transition: opacity .3s .5s;

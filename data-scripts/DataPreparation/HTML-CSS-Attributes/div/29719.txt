@@ -1,0 +1,2 @@
+    float: left;
+font-family:'fontello';src:url('../fonts/fontello.eot?32480171');src:url('../fonts/fontello.eot?32480171#iefix') format('embedded-opentype'),url('../fonts/fontello.woff?32480171') format('woff'),url('../fonts/fontello.ttf?32480171') format('truetype'),url('../fonts/fontello.svg?32480171#fontello') format('svg');font-weight:normal;font-style:normal

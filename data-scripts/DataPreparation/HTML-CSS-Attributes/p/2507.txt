@@ -1,0 +1,2 @@
+	display:block;
+	clear: both;

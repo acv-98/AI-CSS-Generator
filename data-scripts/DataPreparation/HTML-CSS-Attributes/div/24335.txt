@@ -1,0 +1,7 @@
+  border: none;
+  background: #f0f0f0;
+  color: #505050;
+  border-top: none;
+  padding-top: 22px;
+  padding-left: 32px;
+  padding-bottom: 22px;

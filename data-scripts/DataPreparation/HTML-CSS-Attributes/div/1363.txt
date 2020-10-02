@@ -1,0 +1,8 @@
+    color: #f65aa7;
+    font-size: 12px;
+margin: 5px 5px;
+    margin: 5px 5px;
+    
+    display: flex;
+        display: grid;
+        margin: 3px 0; 

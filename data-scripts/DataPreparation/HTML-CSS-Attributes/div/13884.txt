@@ -1,0 +1,10 @@
+outline: none;.slides,
+.flex-control-nav,
+margin: 0; padding: 0; margin-right: 26px;max-width: 100%; display: block; position: relative; -webkit-border-radius: 5px; -moz-border-radius: 5px; zoom: 1;zoom: 1;position: relative;		display:inline-block;
+		overflow:hidden;
+		position:relative;
+		margin-right: -.25em;
+		
+		width:33.3%;
+		max-width: 1000px;
+    margin-right: 0 !important;

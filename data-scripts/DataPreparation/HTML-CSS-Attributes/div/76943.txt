@@ -1,0 +1,9 @@
+    top: 12px;
+    font-size: 20px;
+    color: #061e37;
+    text-shadow: none;
+    font-weight: bold;
+    margin-bottom: 0;
+    max-width: 370px;
+    margin-right: auto;
+    margin-left: auto;

@@ -1,0 +1,10 @@
+  background-size:cover;
+  color: #ffffff;
+  font-size: 30px;
+  line-height: 50px;
+  margin-bottom: 20px;
+  text-shadow: none;
+  text-transform: uppercase;
+  margin-top: 0;
+    font-size: 20px;
+    line-height: 31px;

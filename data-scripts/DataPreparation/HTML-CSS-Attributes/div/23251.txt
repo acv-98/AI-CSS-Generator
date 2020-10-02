@@ -1,0 +1,18 @@
+	width: 100%;
+	height:224px;
+	background:url(img/bkg_bottom_content.png) bottom repeat-x;
+	overflow:hidden;
+	margin:auto;
+	padding: 20px 0 0 120px;
+	position:relative;
+	font-size:21px;
+	margin-bottom: 20px;
+	display:block;
+	font-weight:bold;
+	float:left;
+	list-style: none;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	color:#FFF;
+	text-decoration: none;
+	line-height: 15px;

@@ -1,0 +1,7 @@
+     background: #d8302f;
+     border: none;
+     color: #fff;
+     text-transform: uppercase;
+     font-weight: 600;
+     font-size: 16px;
+     transition:ease all 0.5s;

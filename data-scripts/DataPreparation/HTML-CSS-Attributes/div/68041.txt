@@ -1,0 +1,1 @@
+	background:url('images/more-t.gif') no-repeat 0 top;

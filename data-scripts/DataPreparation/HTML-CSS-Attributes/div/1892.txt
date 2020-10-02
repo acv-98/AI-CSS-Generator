@@ -1,0 +1,4 @@
+  overflow: hidden;
+    height: 380px;
+  padding: 2em;
+    padding: 0;

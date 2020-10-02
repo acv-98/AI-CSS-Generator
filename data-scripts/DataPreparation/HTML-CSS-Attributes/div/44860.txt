@@ -1,0 +1,7 @@
+	margin: 40px 0px;
+	clear: both;
+	width: 960px;
+	overflow: hidden;
+	margin-top: 20px;
+	margin-right: 26px;
+	display: none;

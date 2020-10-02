@@ -1,0 +1,16 @@
+	border-top-color: #a5d549;
+	display: inline;
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding: 0 150px;
+	margin-top: 50px;
+	border-color: #fff;
+	box-shadow: 0 2px 3px 0 rgba(0,0,0,0.06);
+	color: #333;
+	background-color: #fff;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	margin-right: 5px;
+		padding: 0;

@@ -1,0 +1,9 @@
+			border-top: none;
+			font-size: 13px;
+			text-transform: uppercase;
+			padding: 20px 0;
+			display: block;
+			border-bottom: dashed 1px #4E566C;
+    border-top: solid 1px #4E566C;
+    padding-top: 25px;
+    font-size: 13px;

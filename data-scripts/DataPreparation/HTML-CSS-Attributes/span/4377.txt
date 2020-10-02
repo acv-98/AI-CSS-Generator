@@ -1,0 +1,18 @@
+  width: 80px;
+  height: 80px;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  position: relative;
+  border: 2px solid #4fd2c2;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  vertical-align: middle;
+  font-size: 50px;
+  color: #4fd2c2;
+  background: #4fd2c2;

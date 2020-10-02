@@ -1,0 +1,14 @@
+	z-index: 10;
+	-webkit-transition: -webkit-transform 0.4s;
+	-moz-transition: -moz-transform 0.4s;
+	transition: transform 0.4s;
+	-webkit-transform: translateY(-90px);
+	-moz-transform: translateY(-90px);
+	-ms-transform: translateY(-90px);
+	transform: translateY(-90px);
+	height: 90px;
+	width: 100%;
+	top: auto;
+	bottom: 0;
+	position: absolute;
+	right: 20px;

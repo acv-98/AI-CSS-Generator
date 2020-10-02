@@ -1,0 +1,7 @@
+	background: #e84c3d;
+	border: none;
+	margin-left: 10px;
+	color:#fff;
+	transition:.6s;
+	background-color: #ff1802;
+	text-decoration: none;

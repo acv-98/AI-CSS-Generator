@@ -1,0 +1,2 @@
+ padding: 28px 0 34px;  float: left; display: inline;  margin-right: 0 !important;  padding-bottom: 10px; margin-left: 5px; text-transform: uppercase; font-weight: normal;  height: 26px;  padding: 5px 0 0 5px; 
+ width: 240px; margin-right: 120px;  width: 310px; margin-right: 20px;  padding-top: 0;  width: 630px;  margin-left: 0;  padding-left: 0; 

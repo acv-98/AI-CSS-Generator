@@ -1,0 +1,22 @@
+    width: 80px;
+    height: 55px;
+    background: #fff;
+    padding: 7px 0;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: normal;
+	line-height: 20px;
+    color: var(--pricingTable-yellow);
+    text-align: center;
+    position: absolute;
+    top: 30px;
+    right: 20px;
+    z-index: 1;
+    content: "";
+    left: 50%;
+    transform: translateX(-50%) scaleY(0.5) rotate(45deg);
+    bottom: -28px;
+ color: var(--pricingTable-purple); .pricingTable.purple .price-value{
+    border-left-color: var(--pricingTable-purple);
+    border-right-color: var(--pricingTable-purple);
+ color: var(--pricingTable-blue); .pricingTable.blue .price-value{

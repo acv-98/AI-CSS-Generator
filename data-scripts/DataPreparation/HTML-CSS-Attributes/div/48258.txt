@@ -1,0 +1,16 @@
+		font-size: 1em;
+		padding: 12px 25px;
+	  margin: 1% 2% 0 0;
+	  float: left;
+	color: #fff;
+	font-weight: 300;
+	background: #2B985C;
+	margin-top: 2%;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;

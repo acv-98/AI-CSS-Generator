@@ -1,0 +1,2 @@
+ width: 50%;    margin-top: 217px;
+        margin-top: 183px;

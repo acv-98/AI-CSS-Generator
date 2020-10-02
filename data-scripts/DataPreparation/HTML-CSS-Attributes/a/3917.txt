@@ -1,0 +1,14 @@
+	background:#4ba2dc;
+	line-height:40px;
+	color:#fff;
+	padding:8px 20px;
+	margin-left:-5px;
+	border-radius:0;
+	display:inline-block;
+	text-transform:none;
+	font-weight:300;
+	min-width:190px;
+	font-size:20px;
+	text-shadow:none;
+	letter-spacing:1px;
+	text-decoration: none;

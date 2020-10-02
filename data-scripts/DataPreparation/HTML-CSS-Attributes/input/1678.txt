@@ -1,0 +1,6 @@
+	float:left;
+	display:inline;
+	width:29px;
+	height:21px;
+	background:url(images/search-field-bg.gif) no-repeat right 0;
+	cursor:pointer;

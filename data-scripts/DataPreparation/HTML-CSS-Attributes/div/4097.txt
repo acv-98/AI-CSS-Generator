@@ -1,0 +1,11 @@
+  bottom: -15px;
+  left: 50%;
+  position: absolute;
+  margin-left: -110px;
+  width: 220px;
+  background:#E8CE0E;
+  color: #fff;
+  font-size: 14px;
+  font-weight: normal;
+  border-radius: 3px;
+  padding: 5px 15px;

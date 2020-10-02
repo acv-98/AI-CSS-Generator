@@ -1,0 +1,4 @@
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 18px;
+  letter-spacing: 1px;

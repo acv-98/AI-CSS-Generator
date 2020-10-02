@@ -1,0 +1,2 @@
+  width: 50px;
+  margin-bottom: 0 !important;

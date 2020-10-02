@@ -1,0 +1,10 @@
+	max-width: 1050px;  max-width: 1250px; .tm-section-5-inner { 
+	padding: 80px 5%;
+ padding: 60px 5% 40px; 	padding: 60px 5% 20px; .tm-section-4 { 
+ max-width: 620px; .tm-section-3-title { 
+	font-weight: 300;
+	margin-bottom: 2rem; 
+	line-height: 1.8; 
+	padding: 90px 5% 100px;	 padding: 80px 5% 110px;  padding: 100px 0 60px; 		padding-left: 15px;
+		padding-right: 15px;
+ padding: 60px 5%; 

@@ -1,0 +1,9 @@
+	margin:0;
+	padding:0;
+	float:left;
+	width:620px;
+	font-size:30px;
+	line-height:1.2em;
+	border:none;
+	color:#6d6d6d;
+	text-decoration:underline;

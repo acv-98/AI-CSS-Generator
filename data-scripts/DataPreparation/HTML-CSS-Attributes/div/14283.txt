@@ -1,0 +1,5 @@
+	position:absolute;
+	left:116px;
+	top:77px;
+	font:24px/1.2em Arial, Helvetica, sans-serif;
+	color:#fff;

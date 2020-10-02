@@ -1,0 +1,2 @@
+background:url(images/right-bot-corner1.gif) no-repeat right bottom; 
+background:url(images/right-bot-corner.gif) no-repeat right bottom; background:url(images/right-bot-corner2.gif) no-repeat right bottom; 

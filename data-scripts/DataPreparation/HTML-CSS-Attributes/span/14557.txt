@@ -1,0 +1,2 @@
+	color:#ffea00;
+	text-transform:uppercase;

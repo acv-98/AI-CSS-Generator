@@ -1,0 +1,4 @@
+padding:1px 4px 2px;font-size:10.998px;font-weight:bold;line-height:13px;color:#ffffff;vertical-align:middle;white-space:nowrap;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background-color:#999999;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;color:#ffffff;text-decoration:none;background-color:#b94a48;background-color:#953b39;background-color:#f89406;background-color:#c67605;background-color:#468847;background-color:#356635;background-color:#3a87ad;background-color:#2d6987;background-color:#333333;background-color:#1a1a1a;
+.ls-inner {
+	position: relative;
+height:13px******************* reset.css ******************************************

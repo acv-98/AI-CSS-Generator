@@ -1,0 +1,4 @@
+	font-style: italic;
+	height: 185px;
+	font-weight: 300;
+		height: 118px;

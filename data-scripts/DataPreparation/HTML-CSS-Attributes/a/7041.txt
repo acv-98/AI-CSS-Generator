@@ -1,0 +1,5 @@
+  border: 3px solid #fff;
+  background-color: transparent;
+  color: #199EB8;
+  position: relative;
+  top: 13px;

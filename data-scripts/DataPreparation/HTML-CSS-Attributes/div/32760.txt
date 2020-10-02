@@ -1,0 +1,3 @@
+	background-image: url(assets/images/team-member1.png);
+	  background-position: center center;
+	  background-size: 100% auto;

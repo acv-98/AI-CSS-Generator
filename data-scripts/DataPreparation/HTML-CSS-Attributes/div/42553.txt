@@ -1,0 +1,7 @@
+	text-align: left;
+	font-size: 12px;
+	font-weight: bold
+	float: left;
+	margin-right: 15px;
+	vertical-align: middle;
+	color: #767676

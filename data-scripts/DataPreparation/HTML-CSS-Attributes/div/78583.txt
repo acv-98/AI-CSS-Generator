@@ -1,0 +1,13 @@
+	padding:0 0 40px 0;
+	display:block;
+	font-weight:normal;
+	float:left;
+	color:#333;
+	letter-spacing:-1px;
+	font-size:12px;
+	line-height:18px;
+	width:180px;
+	margin:0 40px 0 0;
+	text-transform:uppercase;
+	font-family: 'Oswald', sans-serif;
+	overflow:hidden;

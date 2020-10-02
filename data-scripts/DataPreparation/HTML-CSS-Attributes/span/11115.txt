@@ -1,0 +1,1 @@
+	background: url('../img/flexible-hours.png') no-repeat left 7px;

@@ -1,0 +1,2 @@
+	padding-left:18px;
+	background:url("../design/comment.gif") 0 50% no-repeat;

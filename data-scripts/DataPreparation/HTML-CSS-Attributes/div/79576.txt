@@ -1,0 +1,12 @@
+    margin: 10px 30px 0 0;
+    min-width: 130px;
+    background-color: #ffffff;
+    margin-top: 10px;
+    color: #b9b9b9;
+    text-transform: capitalize;
+    font-style: normal;
+    padding-right: 5px;
+    margin-bottom: 0;
+        float: none;
+        margin: 0 0 30px !important;
+        min-width: 100px;

@@ -1,0 +1,6 @@
+	font-size:11px;
+	color:#21201f;
+	float:left;
+	padding-bottom: 19px;
+	padding-top:0px;
+	text-decoration:none;

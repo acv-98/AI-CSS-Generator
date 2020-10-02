@@ -1,0 +1,10 @@
+	display: inline-block;
+	height: 19px;
+	width: 19px;
+	background: url(../images/socIcons.png) -516px 0 no-repeat;
+	margin-top: 15px;
+	margin-left: 0px;
+	border: 2px solid #fdfdfc;
+	border-radius: 50px;
+	box-shadow: none;
+	cursor:pointer;

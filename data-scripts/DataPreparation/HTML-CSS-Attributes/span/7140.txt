@@ -1,0 +1,7 @@
+	-webkit-text-shadow:none;
+	-moz-text-shadow:none;
+	text-shadow:none;
+	text-decoration:none;
+    background: #333;
+    color: #fff;
+    font-weight: bold;

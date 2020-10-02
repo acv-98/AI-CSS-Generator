@@ -1,0 +1,13 @@
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+  background-image: none;
+	text-transform: uppercase;
+	color: #555;
+	background-color: transparent;
+	border-color: #777;
+	padding: 14px 20px;
+	margin: 0;
+	font-size: 16px;
+	border-radius: 0;
+	margin-top: 20px;

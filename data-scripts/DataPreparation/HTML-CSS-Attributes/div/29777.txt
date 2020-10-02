@@ -1,0 +1,5 @@
+		font-size: 16px;
+		line-height: 25px;
+	margin: 40px 0px;
+	font-family: 'open_sanslight';
+	color:#000000;

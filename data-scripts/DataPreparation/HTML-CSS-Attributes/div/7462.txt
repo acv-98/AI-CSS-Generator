@@ -1,0 +1,2 @@
+ width:360px; margin:0 auto; color:#ffffff; font-size:45px; font-weight: normal; padding-top:70px; padding-bottom:40px;
+MENU CLASSES

@@ -1,0 +1,8 @@
+	float: right;
+	width: 57%;
+	font-family: 'nexa_boldregular';
+	position: relative;
+		width: 59%;
+		float: none;
+		position: absolute;
+		top: 18px;

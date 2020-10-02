@@ -1,0 +1,5 @@
+	display:block;
+	font-size:44px;
+	line-height:2em;
+	color:#d66901;
+	font-style:normal;

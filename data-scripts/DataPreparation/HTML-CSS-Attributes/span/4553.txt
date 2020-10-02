@@ -1,0 +1,2 @@
+ color:#fff; font-weight: bold; border:0; background:transparent; width:100%; 
+ width:362px; height:166px; background:url(images/textarea.jpg); display:block; padding:14px 14px 0 14px; margin-bottom:15px;  height:156px; 

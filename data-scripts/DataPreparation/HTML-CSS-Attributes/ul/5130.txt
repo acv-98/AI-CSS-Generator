@@ -1,0 +1,12 @@
+  clear: both;
+  margin: 30px auto;
+  padding: 0;
+  display: inline-block;
+  list-style: outside none none;
+  background-color: hsl(42, 93%, 51%);
+  color: hsl(0, 0%, 100%);
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 400;
+  margin-right: 5px;
+  text-decoration: none;

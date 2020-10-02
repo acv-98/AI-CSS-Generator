@@ -1,0 +1,1 @@
+ width:39px; height:39px; float:left; padding-right:20px;

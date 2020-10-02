@@ -1,0 +1,4 @@
+	padding-right: 20px;
+	margin-left: 20px;
+	padding-bottom: 2px;
+	background: url(more.png) right no-repeat;

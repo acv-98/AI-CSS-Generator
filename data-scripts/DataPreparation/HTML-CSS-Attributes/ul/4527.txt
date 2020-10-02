@@ -1,0 +1,17 @@
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+ float: none;  margin-left: 0; .cd-slider-nav a,
+.navbar-nav .nav-link {
+	color: white;
+    display: table-cell;
+    font-weight: 400;
+    font-size: 1.4em;
+    width: 130px;
+    height: 40px;
+ background-color: #455471; .cd-slider-nav a, 
+ height: 50px; 		background: transparent;
+		display: -ms-flexbox;
+		height: 80px;
+		font-size: 1.2em;
+		width: 160px;

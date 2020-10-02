@@ -1,0 +1,5 @@
+  background-color: #dceaf4;
+  margin: 0 auto;
+  width: 70%;
+  float: left;
+  margin-left: 2.5%;

@@ -1,0 +1,4 @@
+  height: 620px;
+    height: inherit;
+    padding: 3em 0;
+  display: none;

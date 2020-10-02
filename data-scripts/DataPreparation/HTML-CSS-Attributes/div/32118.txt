@@ -1,0 +1,5 @@
+	margin-left:0;
+	list-style:none;
+	font-family: 'FontAwesome';
+	content: "\f00c";
+	margin-right:10px;

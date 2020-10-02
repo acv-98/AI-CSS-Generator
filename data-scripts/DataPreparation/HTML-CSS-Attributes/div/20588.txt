@@ -1,0 +1,8 @@
+	margin-bottom: 70px;
+	font-size: 38px;
+	text-transform: uppercase;
+	display: block;
+	height: 1px;
+	width: 80px;
+	background: #333;
+	margin-top: 10px;

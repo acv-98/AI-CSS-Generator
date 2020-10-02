@@ -1,0 +1,3 @@
+ background:url(../images/button.png) no-repeat; width:80px; height:30px; text-align:center; margin-top:20px; background:url(../images/button-hover.png) no-repeat; line-height:30px; color:#ffffff; text-decoration:none; color:#ffffff;HEADER CLASSES
+background:url(../images/button.png) no-repeat; color:#ffffff; text-transform:uppercase; font-family: 'Rokkitt', serif;  border: none;margin-left:100px;margin-top:20px; font-size:18px; border:none; background:url(../images/button.png) no-repeat; width:80px; height:30px; text-align:center; margin-top:30px; font-family: 'Rokkitt', serif; font-size:17px; color:#fff; padding-right:10px;PORTFOLIO CLASSES
+ float:left;

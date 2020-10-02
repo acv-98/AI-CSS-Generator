@@ -1,0 +1,1 @@
+width:175px; float:left; border-right:1px solid #e2e2e2;float:right; font-family: 'Tienne', serif; font-size:14px; color:#e5703d; text-transform:uppercase; padding-right:27px;padding-bottom:11px; font-weight:normal;float:left; font-family:'Tienne', serif; font-size:20px; color:#333333; padding-bottom:12px; font-weight:normal;

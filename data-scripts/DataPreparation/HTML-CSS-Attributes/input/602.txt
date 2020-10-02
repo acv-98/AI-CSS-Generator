@@ -1,0 +1,4 @@
+	background:#fff;
+	border:0;
+	font-weight:bold;
+	font-size:.94em;

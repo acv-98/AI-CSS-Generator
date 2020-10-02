@@ -1,0 +1,9 @@
+  background-color: transparent;
+  color: #fff;
+  font-size: 34px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+	background-color: transparent;
+  padding: 10px 20px;
+    text-align: center;

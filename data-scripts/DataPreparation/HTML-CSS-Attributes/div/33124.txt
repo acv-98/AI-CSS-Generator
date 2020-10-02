@@ -1,0 +1,21 @@
+font-size: 20px !important; line-height: 26px !important;font-size:14px !important; line-height: 20px !important; padding: 3px 6px !important; bottom: 25% !important; top:20% !important;position: absolute !important;    position: static;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 15px;
+  background: #333333;
+  line-height: 20px;
+  color: #ffffff;
+  margin: 0 0 5px;
+  margin-bottom: 0;
+background: none; bottom: 40%; padding: 0;.banner .carousel-caption  h1{
+    text-transform: uppercase;
+    background-color:#d40924;
+    margin:0; 
+    font-size: 28px;
+    line-height: 32px;
+    display: inline-block;
+    padding: 5px 10px;
+    font-family: 'open_sansregular';
+                 text-transform: uppercase; 
+                 background: #100a04; display: inline-block;

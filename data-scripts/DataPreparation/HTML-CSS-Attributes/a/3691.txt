@@ -1,0 +1,4 @@
+	background-color: #F0394C;
+	border: none;
+	padding: 15px 20px;
+	outline: none;

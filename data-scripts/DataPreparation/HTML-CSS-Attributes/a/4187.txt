@@ -1,0 +1,15 @@
+	font-family: Arial;
+	border: 5px solid #FFFFFF;
+	color: #FFFFFF;
+	display: block;
+	font-size: 20px;
+	font-weight: normal;
+	height: 47px;
+	line-height: 47px;
+	margin: 30px auto 0;
+	padding: 0;
+	text-align: center;
+	text-transform: uppercase;
+	width: 230px;
+	background-color: #ffffff;
+	float: left;

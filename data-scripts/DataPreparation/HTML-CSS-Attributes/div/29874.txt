@@ -1,0 +1,15 @@
+	background-image:none;
+ 	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/overlay.png', sizingMethod='image');
+	padding:18px 0 0 0;
+	list-style:none;
+	float:left;
+	width:303px;
+	padding-right:15px;
+	min-height:85px;
+	height:auto !important;
+	padding-top:3px;
+	position:relative;
+	top:6px;
+	left:6px;
+	display:none;
+	cursor:pointer;

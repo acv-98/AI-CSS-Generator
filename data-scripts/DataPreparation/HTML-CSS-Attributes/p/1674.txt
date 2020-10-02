@@ -1,0 +1,1 @@
+width:166px; margin-left:4px; padding-left:19px; background:url(../images/star.gif) 0 0 no-repeat; margin-bottom:17px

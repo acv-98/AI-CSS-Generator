@@ -1,0 +1,1 @@
+ background:url(../images/bg1.jpg); border-bottom:#fff solid 1px; margin:0 auto;

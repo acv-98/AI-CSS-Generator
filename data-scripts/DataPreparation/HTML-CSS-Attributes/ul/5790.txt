@@ -1,0 +1,5 @@
+    font-size: 20px;
+    color: #17063c;
+    padding-left: 22px;
+    background: url(../images/marker.png) 0 9px no-repeat;
+    margin-top: 28px;

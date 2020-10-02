@@ -1,0 +1,6 @@
+	position:relative;
+	float: right;
+	margin-top: 33px;
+		width: 100%;
+		background:#252E30;
+		margin: 6px 0 10px;

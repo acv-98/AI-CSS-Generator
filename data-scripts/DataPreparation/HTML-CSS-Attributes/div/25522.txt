@@ -1,0 +1,17 @@
+  width:300px;
+  margin-bottom:20px;
+  margin-top:40px;
+  float:left;
+  height:350px;
+  position:relative;
+  border:8px solid #ebebeb;
+  background: url(../img/icons/responsive.png) #f3f3f3 no-repeat center center;
+  -moz-border-radius:174px;
+  -webkit-border-radius:174px;
+  border-radius: 174px;
+  cursor:pointer;
+    -webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;

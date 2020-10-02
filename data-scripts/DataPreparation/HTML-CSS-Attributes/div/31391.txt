@@ -1,0 +1,6 @@
+	color: #4D606E;
+	font-size: 0.85em;
+	line-height: 1.8em;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-top: 12%;

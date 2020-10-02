@@ -1,0 +1,4 @@
+	border-bottom:#d6d6d6 1px solid;
+	padding-bottom:5px;
+	text-align:center;
+	display:inline-block;

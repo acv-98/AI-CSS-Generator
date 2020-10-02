@@ -1,0 +1,1 @@
+position:relative; display:block; padding:45px 5pxcolor:#fff; font-size:40px; display:inline-blockbackground-color:#d083cf

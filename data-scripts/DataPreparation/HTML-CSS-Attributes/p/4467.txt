@@ -1,0 +1,14 @@
+	display: block;
+	width: 174px;
+	height: 50px;
+	margin-top: 20px;
+	background: url(images/img06.jpg) no-repeat left top;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Abel', sans-serif;
+	color: #FFFFFF;
+	line-height: 50px;
+	letter-spacing: -1px;
+	text-shadow: -1px -1px 0px #1E6BA6;
+	text-decoration: none;
+	font-size: 16pt;

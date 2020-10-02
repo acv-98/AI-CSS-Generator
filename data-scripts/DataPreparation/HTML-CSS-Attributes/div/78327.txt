@@ -1,0 +1,10 @@
+  margin-top: 1em;
+  position: relative;
+  padding-bottom: 20px;
+  display: block;
+  left: 0;
+  bottom: 0;
+  width: 40px;
+  height: 3px;
+  background: #ccc;
+    margin-top: 0em;

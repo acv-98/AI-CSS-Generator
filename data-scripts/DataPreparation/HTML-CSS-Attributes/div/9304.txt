@@ -1,0 +1,4 @@
+        width: 65%;
+    position: relative;
+    right: 0;
+    top: 0px;

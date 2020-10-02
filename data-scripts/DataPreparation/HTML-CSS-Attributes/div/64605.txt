@@ -1,0 +1,4 @@
+	background:url(../images/banner-bg.jpg) repeat 13px 0;
+	border-top:1px solid #2e2823;
+	border-bottom:1px solid #2e2823;
+	padding:25px 0;

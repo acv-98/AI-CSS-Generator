@@ -1,0 +1,8 @@
+	float: left;
+	list-style: none;
+	font-size: 1.8em;	
+	float: none; 	.navbar-brand {
+		display: block;
+		float: left;
+		font-size: 2em;
+ margin-left: 0; 	.navbar-toggler {

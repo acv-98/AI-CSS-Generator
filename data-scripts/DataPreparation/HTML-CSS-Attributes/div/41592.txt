@@ -1,0 +1,7 @@
+	text-transform: uppercase;
+	padding-left: 12px;
+	padding-top: 80px;
+	float: left;
+	color: #565252;
+	font-size: 12px;
+	line-height: 14px;

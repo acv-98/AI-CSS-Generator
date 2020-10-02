@@ -1,0 +1,10 @@
+	border: 5px solid #fff;
+	border-radius: 50%;
+	clip: rect(0, 100px, 200px, 0);
+	height: 185px;
+	position: absolute;
+	width: 185px;
+	margin: 8px;
+  border-color: #3498db;
+		height: 145px;
+		width: 144px;

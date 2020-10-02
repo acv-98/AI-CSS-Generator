@@ -1,0 +1,1 @@
+ position:absolute; right:0; top:0; width:50%; height:285px; background:url(images/tail-top-right.gif) repeat-x right top;

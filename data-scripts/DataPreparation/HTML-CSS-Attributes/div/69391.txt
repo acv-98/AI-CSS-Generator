@@ -1,0 +1,17 @@
+        max-width: 483px;
+        width: 100%;
+        float: none;
+        padding: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
+    background: #01d262 none repeat scroll 0 0;
+    height: 600px;
+    text-align: center;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    margin-top: 45px;

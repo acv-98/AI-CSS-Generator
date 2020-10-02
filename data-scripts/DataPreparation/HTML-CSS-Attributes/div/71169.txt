@@ -1,0 +1,13 @@
+    background: #fff;
+    padding: 01;
+    box-shadow: none;
+    border: none;
+    position: relative;
+    padding-bottom: 30px;
+    font-size: 14px;
+        margin: 0;
+    border-bottom: 1px solid #ededed;
+    background-color: #ffffff;
+    color: #ffffff;
+    margin-bottom: 0;
+    opacity: 1;

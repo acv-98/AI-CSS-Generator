@@ -1,0 +1,7 @@
+	margin: 25px 0 15px;
+	text-align:center;
+	font-size: 13px;
+	font-weight: bold;
+	padding: 2px 0 0 24px;
+	opacity:.7;
+	background: url("images/post_meta.png") no-repeat scroll 0 -102px transparent;

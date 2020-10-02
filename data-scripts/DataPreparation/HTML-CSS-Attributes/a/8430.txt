@@ -1,0 +1,10 @@
+	display:block;
+	width:80px;
+	height:400px;
+	text-indent:-9999em;
+	position:absolute;
+	z-index:99;
+	top:50%;
+	margin-top:-200px;
+	background:url(../images/slider-next.png) 0 0 no-repeat;
+	right:0;

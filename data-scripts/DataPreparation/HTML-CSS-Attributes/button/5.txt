@@ -1,0 +1,16 @@
+  color: inherit;
+  border: none;
+  background: none;
+  outline: none;
+  font-weight: bold;
+  margin-top: auto;
+  padding: 18px 48px;
+  opacity: 0;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+  transition: transform 0.3s, opacity 0.3s;
+  -webkit-transform: translate3d(0, -15px, 0);
+  transform: translate3d(0, -15px, 0);
+    font-size: 13px;

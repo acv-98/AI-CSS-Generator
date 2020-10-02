@@ -1,0 +1,11 @@
+    background: #fff;
+    padding: 0 0 15px 0;
+    margin: 30px 0px;
+    list-style: none;
+    text-align: center;
+  
+color: #000;
+font-size: 16px;
+border-bottom:1px dotted #e1e1e1;
+line-height: 35px;
+font-weight: 600;

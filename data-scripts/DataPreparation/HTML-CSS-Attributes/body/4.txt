@@ -1,0 +1,12 @@
+  color: #444444;
+  display: block;
+  margin-bottom: 100px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  float: left;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 5px;
+  background: url(../img/arrow-right.png) no-repeat 0px 0px;
+  padding-left: 17px;

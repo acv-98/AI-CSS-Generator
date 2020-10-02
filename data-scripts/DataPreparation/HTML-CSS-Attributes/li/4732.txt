@@ -1,0 +1,2 @@
+	background-position:0 -200px;
+	margin-right:0;

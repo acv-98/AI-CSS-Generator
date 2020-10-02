@@ -1,0 +1,10 @@
+    border: 1px solid #00cfef;
+    color: #00cfef;
+    float: left;
+    margin: 0 5px 5px 0;
+    padding: 10px 22px;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    transition: all .5s ease;

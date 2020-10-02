@@ -1,0 +1,4 @@
+	width:528px;
+	height:212px;
+	padding:10px;
+	background:url(../images/textbox_back.png) no-repeat;

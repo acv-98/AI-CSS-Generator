@@ -1,0 +1,4 @@
+	float:right;
+	text-align:right;
+	line-height:1.7em;
+	margin-bottom:7px;

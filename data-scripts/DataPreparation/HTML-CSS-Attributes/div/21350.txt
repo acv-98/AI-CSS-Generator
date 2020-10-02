@@ -1,0 +1,4 @@
+  display: none;
+  padding-left: .625rem;
+  margin: 0 .9375rem;
+  background: #13b1cd;

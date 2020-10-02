@@ -1,0 +1,6 @@
+background-position:-48px 0;background-position:-48px -24px;
+Template Name: Professional Web2
+Coded By: Design Coder - http://www.design-coder.com/
+Design By: http://psd.tutsplus.com/tutorials/interface-tutorials/create-a-professional-web-2-0-layout/
+Licence: <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported License</a>
+background-position:-144px -1px;

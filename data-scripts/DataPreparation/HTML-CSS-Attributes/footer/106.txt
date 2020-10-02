@@ -1,0 +1,14 @@
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #27353B;
+  font-size: 30px;
+  color: #fff;
+  font-family: Roboto-Light;
+  font-weight: bold;
+  margin-bottom: 40px;
+  display: inline-block;
+  padding-right: 30px;
+  padding-left: 30px;
+  position: relative;
+  top: 3px;
+  margin-top: 50px;

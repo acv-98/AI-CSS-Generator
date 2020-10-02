@@ -1,0 +1,9 @@
+	padding-top:6%;	
+	width: 100%;
+	position: relative;	
+  margin-bottom: 20px;
+    margin-bottom: 10px;
+    max-width: 50%;
+    height: auto;
+    text-align: center;
+    display: none;

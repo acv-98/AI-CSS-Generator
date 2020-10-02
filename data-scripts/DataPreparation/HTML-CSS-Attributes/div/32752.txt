@@ -1,0 +1,17 @@
+	display: inline;
+	float: left;
+	padding-left: 85px;
+	padding-top: 20px;
+	width: 100%;
+	text-align: left;
+	padding-bottom: 47px;
+	height: 2px;
+	margin-bottom: 35px;
+	color: #535353;
+	font-family: "Raleway",sans-serif;
+	  padding-bottom: 10px;
+	  font-size: 28px;
+	  margin-bottom: 15px;	 
+	  margin-top: 35px;
+	  padding-left: 0;  
+	  width: 60px;

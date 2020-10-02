@@ -1,0 +1,7 @@
+    max-width: 70%;
+    font-size: 2.375rem;
+    margin: 10px auto;
+    font-family: 'latoheavy_italic';
+    line-height: 45px;
+    color:#fff;
+    margin-bottom:50px;

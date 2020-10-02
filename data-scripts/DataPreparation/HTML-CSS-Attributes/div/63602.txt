@@ -1,0 +1,12 @@
+	width: 384px;
+	height: 230px;
+	float: left;
+	background-image: url(images/middle-left-bg.jpg);
+	background-repeat: no-repeat;
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-right: 80px;
+	color: #FFFFFF;
+	margin-left: 2px;
+	font-size: 14px;
+	font-weight: normal;

@@ -1,0 +1,4 @@
+	position: static;
+	float: left;
+	width: 340px;
+	padding-right: 30px;

@@ -1,0 +1,5 @@
+display: none!important;	.navbar-nav>li {
+        float: none;
+        padding-left: 30px;
+        overflow: hidden;
+display:block !important;

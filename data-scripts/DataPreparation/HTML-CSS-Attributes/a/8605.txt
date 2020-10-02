@@ -1,0 +1,5 @@
+display: inline-block;
+font-weight: bold;
+margin: 10px 0 10px 5px;
+background: none repeat scroll 0 0 #999;.single_post_meta{border-top: 2px dotted #999999;
+padding: 10px 0;

@@ -1,0 +1,11 @@
+  position: relative;
+  left: 12.5rem;
+  bottom: -1rem;
+  z-index: -1;
+  font-size: 9.375rem;
+  font-family: Playfair Display, serif;
+  color: rgba(245, 248, 249, 0.8);
+  content: "\0026";
+  display: inline-block;
+  border-bottom: 0.0625rem solid rgba(255, 255, 255, 0.3);
+  margin: .3125rem 0;

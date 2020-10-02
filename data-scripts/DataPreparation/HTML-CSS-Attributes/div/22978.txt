@@ -1,0 +1,10 @@
+  color: #78ADC9;
+  display: inline;
+  float: left;  
+  width: 100%;
+  font-size: 18px;
+  margin-right: 15px;
+  margin-top: 5px;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

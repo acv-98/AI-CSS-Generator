@@ -1,0 +1,4 @@
+	color:#808080;
+	float:left;
+	width:51px;
+	font-weight:normal;

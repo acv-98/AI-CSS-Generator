@@ -1,0 +1,16 @@
+	margin:0 13px 0 0;
+	background:url(images/box-bg.gif) no-repeat 0 0;
+	width:298px;
+	height:281px;
+	font-size:16px;
+	line-height:47px;
+	color:#f8f8f8;
+	padding:2px 0 0 24px;
+	position:relative;
+	font-family:Tahoma, Arial, sans-serif;
+	list-style:none;
+	border-bottom:1px dotted #6a5353;
+	text-decoration:none;
+	display:block;
+	left:25px;
+	bottom:30px;

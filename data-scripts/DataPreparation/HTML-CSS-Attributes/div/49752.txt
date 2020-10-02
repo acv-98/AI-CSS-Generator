@@ -1,0 +1,8 @@
+  border-color: #faebcc;
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border-top-color: #faebcc;
+  border-bottom-color: #faebcc;
+  background-image: -webkit-linear-gradient(top, #fcf8e3 0%, #faf2cc 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffcf8e3', endColorstr='#fffaf2cc', GradientType=0);

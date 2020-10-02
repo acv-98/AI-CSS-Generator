@@ -1,0 +1,9 @@
+	height: 41px;
+	text-align: right;
+	line-height: 65px;
+	font-family: Myriad Pro;
+	font-size: 13px;
+	display: block;
+	float: left;
+	color: #2792c3;
+	margin: 0 0 0 65px;

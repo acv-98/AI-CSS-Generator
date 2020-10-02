@@ -1,0 +1,4 @@
+	margin-top: 32px;
+	padding-right:0;
+.aboutUs {
+	text-align:center;

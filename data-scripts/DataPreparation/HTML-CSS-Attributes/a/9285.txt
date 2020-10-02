@@ -1,0 +1,8 @@
+ background-position:	0px 0px;		 background-position:	-432px 0px;		
+		.icon64
+		{
+			display: inline-block;
+			width: 64px;
+			height: 64px;
+			background-image: url('images/icons64.png');
+			text-indent: -9999em;

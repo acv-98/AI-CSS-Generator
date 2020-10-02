@@ -1,0 +1,7 @@
+ background-color: #d7f4fc; 
+.tm-bg-blue-1,
+.tm-bg-blue-2,
+.tm-bg-blue-3,
+.tm-color-blue {
+	color: #006699;
+ background-color: #dbfafd; 

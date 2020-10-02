@@ -1,0 +1,8 @@
+	display: inline;
+	float: left;
+	width: 100%;
+	font-size: 24px;
+	padding-left: 0;
+	margin-top: 15px;
+	margin-right: 10px;
+		margin-top: 50px;

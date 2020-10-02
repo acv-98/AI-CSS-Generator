@@ -1,0 +1,3 @@
+  float: right;
+  line-height: 18px;
+  text-decoration: underline;

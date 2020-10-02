@@ -1,0 +1,6 @@
+	color:#a83715;
+	font-size:30px;
+	line-height:36px;
+	letter-spacing:-1px;
+	float:left;
+	width:75px;

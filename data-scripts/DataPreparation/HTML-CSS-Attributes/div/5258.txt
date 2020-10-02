@@ -1,0 +1,11 @@
+	position:relative;
+	float:left;
+	width:315px;
+	height:100%;
+	text-align:center;
+	top: 5px;
+	left:0px;
+	right: 5px;
+	bottom: 5px;
+	overflow: hidden;
+	background-image:url(../images/pic10.jpg);

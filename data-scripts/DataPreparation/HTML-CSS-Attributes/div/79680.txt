@@ -1,0 +1,6 @@
+	clear: both;
+	width: 720px;
+	padding-right: 10px;
+	padding-top: 60px;
+	text-align: left;
+	font-family: 'Droid Serif', Verdana, Arial, sans-serif;

@@ -1,0 +1,8 @@
+	margin-top:45px;
+	overflow:hidden;
+	margin-bottom:45px;
+	text-align:center;
+	font-family:Georgia;
+	font-size:22px;
+	color:#444444;
+	font-weight:normal;

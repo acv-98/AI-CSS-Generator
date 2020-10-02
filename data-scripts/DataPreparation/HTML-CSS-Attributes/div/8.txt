@@ -1,0 +1,11 @@
+	display:inline;
+	float:left;
+	margin-left:10px;
+	margin-right:10px
+	width:460px
+	font-size: 12px;
+	height: 76px;
+	padding: 10px 0 0 30px;
+	line-height: 24px;
+	font-style: italic;
+	color: #0cb0ca;

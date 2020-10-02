@@ -1,0 +1,10 @@
+    position: absolute;
+    pointer-events: none;
+    background-image: url(../img/base/shadow-bottom.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    height: 32px;
+    width: 100%;
+    bottom: 0;
+    z-index: 99; 
+    border-bottom: 1px solid #d2d3d4;

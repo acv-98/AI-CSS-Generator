@@ -1,0 +1,5 @@
+	width:950px;
+	background-image:url(../images/sivo_block3.jpg);
+	background-repeat:no-repeat;
+	background-position:bottom;
+	padding-bottom:20px;

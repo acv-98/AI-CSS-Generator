@@ -1,0 +1,2 @@
+	text-shadow:#dcf2f4 0 1px;
+	font-size:13px;

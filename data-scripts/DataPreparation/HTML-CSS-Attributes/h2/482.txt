@@ -1,0 +1,2 @@
+	font:italic normal normal 18px/30px 'Georgia', serif;
+	padding-bottom:45px;

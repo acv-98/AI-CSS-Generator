@@ -1,0 +1,9 @@
+  margin-top: 0;
+  margin-bottom: 5px;
+  color: #c1a35f;
+  font-size: 16px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

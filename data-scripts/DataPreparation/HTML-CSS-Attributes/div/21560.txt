@@ -1,0 +1,14 @@
+    display: none;
+  margin-left: 20px;
+  color: #e6e4e4;
+  line-height: 40px;
+  position: relative;
+  font-size: 12px;
+  font-family: 'SocialicoRegular';
+  height: 40px;
+  vertical-align: middle;
+  margin-top: -10px;
+  z-index: 1000;
+    position: absolute;
+    top: 0;
+    left: 0;

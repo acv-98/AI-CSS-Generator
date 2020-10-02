@@ -1,0 +1,5 @@
+  color: #ffffff;
+  background-color: #d9534f;
+  border-color: #d43f3a;
+  background-image: none;
+background: rgb(242, 24, 97) !important;

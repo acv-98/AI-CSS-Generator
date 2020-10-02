@@ -1,0 +1,10 @@
+  margin-right: -15px;
+  margin-left: -15px;
+	outline:1px solid #f00;
+.logo{
+	margin-top: 60px;
+	font-family: 'Roboto', 'sans-serif';
+	font-size:30px;
+	font-weight:700;
+	text-transform:uppercase;
+	color:#fff;

@@ -1,0 +1,2 @@
+    background: transparent url(../images/icon-standard.png) no-repeat left 5px;
+    padding: 0 0 5px 18px;

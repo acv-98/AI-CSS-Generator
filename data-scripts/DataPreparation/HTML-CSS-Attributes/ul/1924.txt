@@ -1,0 +1,16 @@
+	padding:100px 0;
+	margin-bottom:80px;
+	list-style:none;
+	content: ' ';
+	display:table;
+	clear:both;
+	width:33.333%;
+	float:left;
+	border:solid 1px #C0C0C0;
+	margin-left:-1px;
+	margin-top:-1px;
+	position:relative;
+	z-index:1;
+	opacity:.4;
+	border-color:#202020;
+		width:50%;

@@ -1,0 +1,4 @@
+    padding-top: 31px;
+    margin-bottom: 39px;
+    margin-top: 7px;
+    padding-bottom: 49px;

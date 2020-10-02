@@ -1,0 +1,2 @@
+ width: 45px; height: 45px; 
+margin: 3px 5px 3px 0;  margin-right: 0;  width: 45px; height: 45px;  margin-right: 0; margin: 3px 5px 3px 0; width: 62px; height: 62px; border: 1px solid #DDDDDD; margin: 3px 5px 3px 0; padding: 2px;  margin: 3px 4px 3px 0; 

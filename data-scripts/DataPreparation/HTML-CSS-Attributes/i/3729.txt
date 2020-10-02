@@ -1,0 +1,2 @@
+margin-top:14px;margin:0;
+margin:0; padding:0; list-style:none;display:inline-block; float:left; margin:0 2px 0 0; padding:0; line-height:normal;margin-right:0;display:inline-block; width:30px; height:30px; line-height:30px; font-size:14px; text-align:center;color:inherit; background-color:transparent;color:#EA4C89;color:#3B5998;color:#DB4A39;color:#0E76A8;color:#C8232C;color:#EE802F;color:#00ACEE;margin:0 0 15px 0; text-align:center;display:inline-block; float:none; margin:0 2px 0 0;

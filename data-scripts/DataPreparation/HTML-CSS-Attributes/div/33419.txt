@@ -1,0 +1,12 @@
+top: 70% !important;    
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 15px;
+  background: #333333;
+  line-height: 20px;
+  color: #ffffff;
+  margin: 0 0 5px;
+  margin-bottom: 0;
+ background: none;opacity: 0;

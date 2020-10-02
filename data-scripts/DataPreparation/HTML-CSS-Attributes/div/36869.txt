@@ -1,0 +1,2 @@
+padding:3px;
+color:#CC9900; font-size:12px; text-decoration:underline; padding:0 0 0 8pxtext-decoration:none

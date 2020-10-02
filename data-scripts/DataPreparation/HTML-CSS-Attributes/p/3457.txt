@@ -1,0 +1,3 @@
+margin-bottom: 15px;
+padding: 10px 0;
+font-family: georgia;color: #000;font-family: georgia;margin:0px 5px;display:inline-blockcolor: #000;

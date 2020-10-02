@@ -1,0 +1,4 @@
+	padding:100px 0;
+	padding-top:75px;
+	text-align:center;
+	display:block;

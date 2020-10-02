@@ -1,0 +1,6 @@
+	width:960px;
+	margin:0 auto;
+	margin-top:60px;
+	padding-bottom:60px;
+	border-bottom:1px solid #868471;
+	overflow:hidden;

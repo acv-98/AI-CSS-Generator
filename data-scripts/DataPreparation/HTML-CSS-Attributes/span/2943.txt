@@ -1,0 +1,6 @@
+ display: none; 
+ width: 127px;     table.shop_table tfoot .cart-subtotal th,
+    table.shop_table tfoot .shipping th,
+    table.shop_table tfoot .total th {
+        width: 27%;
+    background-image: url("../images/icons/for_button/cart.png");

@@ -1,0 +1,5 @@
+    background-color: transparent; 
+    border-color: transparent; 
+    transition:.6s;
+    margin: 20px auto;
+    color:#e84c3d;

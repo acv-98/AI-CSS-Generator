@@ -1,0 +1,4 @@
+height:13px
+Slider elastic 
+              
+ background-position:0 -24px; color:#3e3c3c; 

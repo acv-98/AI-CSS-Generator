@@ -1,0 +1,7 @@
+										display:block;
+										width:70px;
+										margin:0 0 5px 0;
+										padding:2px 0px;
+										color:#00919f; 
+										font:normal bold 10px/12px Tahoma, Arial, Helvetica, sans-serif;
+										letter-spacing:normal !important;

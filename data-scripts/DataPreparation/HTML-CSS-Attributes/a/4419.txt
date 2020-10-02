@@ -1,0 +1,6 @@
+	background:url(../images/prev-btn.gif) no-repeat 0 0;
+	color:#958878;
+	display:inline-block;
+	height:17px;
+	line-height:17px;
+	padding-left:20px;

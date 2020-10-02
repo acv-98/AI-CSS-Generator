@@ -1,0 +1,15 @@
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 15px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 0;
+  list-style: none;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+  width: 30px;
+  float: left;
+  position: relative;
+  margin-top: 4px;

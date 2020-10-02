@@ -1,0 +1,10 @@
+	position:absolute;
+	top:-27px;
+	left:0;
+	font-weight:bold;
+	font-size:13px;
+	line-height:27px;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	color:#5b4c5c;
+	display:block;

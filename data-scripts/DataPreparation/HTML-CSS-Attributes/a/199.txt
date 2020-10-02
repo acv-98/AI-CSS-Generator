@@ -1,0 +1,3 @@
+	color:#fff;
+	background:#c32300;
+	background-position:left top;

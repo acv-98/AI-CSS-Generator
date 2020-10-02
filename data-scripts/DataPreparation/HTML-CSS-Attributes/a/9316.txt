@@ -1,0 +1,2 @@
+display:inline-block; padding:8px 18px 10px; text-transform:uppercase; border:1px solid;
+color:#FFFFFF; background-color:#EA5616; border-color:#EA5616;color:inherit; background-color:transparent; border-color:inherit;

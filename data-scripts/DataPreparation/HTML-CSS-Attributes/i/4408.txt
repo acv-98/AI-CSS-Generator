@@ -1,0 +1,11 @@
+  font-size: 5em;
+  border-width: 5px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
+font-size:5em;	text-align: center;
+	font-size: 65px !important;
+	width: 120px !important;
+	height: 120px !important;
+	line-height: 120px !important;
+	border-bottom-width: 3px !important;

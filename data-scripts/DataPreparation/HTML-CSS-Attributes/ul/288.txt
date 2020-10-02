@@ -1,0 +1,25 @@
+	text-align: center;
+float:left;position:relative; .sf-menu>li {
+	float: left;
+	position: relative;
+	padding: 15px 0 14px;
+	margin-left:59px;
+	border-color: #a92c11;
+	font-size: 24px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #000;
+	font-weight: 300px;
+	line-height: 24px;
+	z-index: 999;
+	top:57px;
+	left: -10px;
+	width: 116px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	background: url(../images/sub_bg.png) 0 bottom repeat-x #e0e36a;
+	display: block;
+	right: 0;
+	content: '';
+	height: 3px;
+	margin-bottom: 4px;
+		padding-left: 14px;

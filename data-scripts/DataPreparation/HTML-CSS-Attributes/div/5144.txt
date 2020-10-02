@@ -1,0 +1,6 @@
+        margin-bottom: 20px
+    line-height: 1.125rem;
+    color:#ab987a;
+    font-size: 0.8125rem;
+    padding-bottom: 2px;
+    display: inline-block;

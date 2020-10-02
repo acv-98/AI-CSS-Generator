@@ -1,0 +1,13 @@
+    padding: 50px 20px;
+    border-left: 1px solid #4e595f;
+    border-top: 1px solid #4e595f;
+    margin-bottom: 40px;
+	
+	-webkit-box-shadow:2px 2px 5px rgba(44, 44, 44, .3), 13px 13px 0 rgba(256, 256, 256, .7);
+	   -moz-box-shadow:2px 2px 5px rgba(44, 44, 44, .3), 13px 13px 0 rgba(256, 256, 256, .7);
+			box-shadow:2px 2px 5px rgba(44, 44, 44, .3), 13px 13px 0 rgba(256, 256, 256, .7);
+	text-transform: uppercase;
+        margin: 0 auto 40px;
+        width: 310px;
+        position: relative;
+        left: -8px;

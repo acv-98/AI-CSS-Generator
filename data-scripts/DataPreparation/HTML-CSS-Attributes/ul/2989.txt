@@ -1,0 +1,1 @@
+padding:38px 0 6px 0;line-height:19px; width:100%; overflow:hidden; margin-bottom:14px; background:url("../images/line_ver1.gif") 56px 0 repeat-y;background:url("../images/box1.jpg") 0 0 no-repeat; float:left; font:20px "Trebuchet MS",Arial,Helvetica,sans-serif; color:#f2f2f2; font-weight:bold; line-height:41px; width:41px; text-align:center; margin-right:35px;

@@ -1,0 +1,15 @@
+	height:49px;
+	background:url(images/footer.gif) center top repeat-x;
+	position:relative;
+	z-index:5;
+	font-size:10px;
+	padding-top:25px;
+	line-height:10px;
+	width:316px;
+	top:-165px;
+	right:0;
+	text-indent:-4000px;
+	color:#525151;
+	text-decoration:none;
+	margin:0;
+	float:left;

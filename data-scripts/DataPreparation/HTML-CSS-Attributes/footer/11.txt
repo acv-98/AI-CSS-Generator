@@ -1,0 +1,7 @@
+    margin-top: 30px;
+    font-size:1.8975rem;
+    margin-bottom:0px;
+	font-family: 'latobold';
+	
+    color:#282828;
+    border:3px solid #f9d423;

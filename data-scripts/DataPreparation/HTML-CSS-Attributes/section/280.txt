@@ -1,0 +1,6 @@
+  display: table;
+  height: 100vh;
+  padding-bottom: 0;
+  padding-top: 0;
+  table-layout: fixed;
+    padding-bottom: 0;

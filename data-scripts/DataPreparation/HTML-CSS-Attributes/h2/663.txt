@@ -1,0 +1,16 @@
+    margin-bottom: 36px;
+    color: #fff;
+    display: block;
+    position: relative;
+    padding-bottom: 12px;
+    content: "";
+    left: 0;
+    top: 100%;
+    z-index: -2;
+    width: 60px;
+    height: 3px;
+    background-color: #ffbc13;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 1 !important;

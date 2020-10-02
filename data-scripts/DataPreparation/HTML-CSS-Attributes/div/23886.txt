@@ -1,0 +1,5 @@
+	padding-bottom: 25px;
+    color: #B2B3B7;
+    font-size: 20px;
+    margin: 0 10px;
+	color: #000;

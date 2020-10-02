@@ -1,0 +1,8 @@
+    margin-right: 34.5px;
+    background-color: #57727e;
+    padding: 10.5px;
+    border-radius: 50%;
+    font-size: 20px;
+    width: 45px;
+    height: 45px;
+    text-align: center;

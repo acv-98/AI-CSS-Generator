@@ -1,0 +1,7 @@
+  padding-bottom: 4.2rem;
+  position: relative;
+  display: inline-block;
+  height: 1px;
+  width: 200px;
+  background-color: rgba(242, 242, 242, 0.1);
+  text-align: center;

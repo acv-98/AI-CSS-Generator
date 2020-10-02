@@ -1,0 +1,1 @@
+ background: #fff; border:1px solid #aaa; padding: 5px; left:7px; position:absolute; top:7px; 

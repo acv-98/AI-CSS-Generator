@@ -1,0 +1,17 @@
+  top: 0;
+  border-width: 0 0 1px;
+  background-color: #fff;
+	padding: 5px 12px;
+	margin: 0;
+	border-radius: 3px;
+	color: #111;
+	line-height: 24px;
+	display: inline-block;
+	text-transform:;
+	font-weight:500;
+	font-size:18px;
+	font-family:'Roboto';
+	background: #0BA9F9;	
+  font-size: 36px;
+  line-height: 50px;
+  color: #fff;

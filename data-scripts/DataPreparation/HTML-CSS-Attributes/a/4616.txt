@@ -1,0 +1,2 @@
+  font-weight: bold;
+  color: #2b542c;

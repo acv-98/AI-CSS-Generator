@@ -1,0 +1,6 @@
+    width: 528px;
+    margin-bottom: 40px;
+    padding-right: 24px;
+    margin-left: 20px;
+    margin-right: 0px;
+  float: left;

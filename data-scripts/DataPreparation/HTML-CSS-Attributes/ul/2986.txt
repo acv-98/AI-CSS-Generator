@@ -1,0 +1,3 @@
+	list-style:none;
+	background:url(../img/list/check-white.png) no-repeat 0 3px;
+	padding-left:26px;

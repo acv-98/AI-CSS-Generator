@@ -1,0 +1,8 @@
+  margin-top: 60px;
+  display: block;
+  cursor: pointer;
+  color: #fff;
+  font-size: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  left: 0.5px;

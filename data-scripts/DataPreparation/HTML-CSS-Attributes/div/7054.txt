@@ -1,0 +1,11 @@
+	width:300px;
+	float:right;
+	font-size:25px;
+	color:#41403b;
+	padding-bottom:20px;
+	display:block;
+	background:url(../images/arrow.gif) no-repeat;
+	padding-left:40px;
+    color:#bc0000;
+	line-height:20px;
+	text-align:left;

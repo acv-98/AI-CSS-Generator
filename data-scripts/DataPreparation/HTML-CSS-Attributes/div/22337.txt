@@ -1,0 +1,9 @@
+	height: 11px;
+	background: url(../img/shadow-main.png) no-repeat top center;
+	margin-bottom: 70px;
+  background: url(../img/shadow-main-tablet.png) no-repeat top center ; 	
+	.featured figure{
+		width: 344px;
+		margin-left: 24px;
+  background: url(../img/shadow-main-mobile-por.png) no-repeat top center  ; 	.featured figure{ 
+  background: url(../img/shadow-main-mobile-lan.png) no-repeat top center  ; 

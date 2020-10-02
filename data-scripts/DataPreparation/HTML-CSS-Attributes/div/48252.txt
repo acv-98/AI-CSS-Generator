@@ -1,0 +1,2 @@
+    left: 10px;
+    background: url(../images/button-previous.png) no-repeat;

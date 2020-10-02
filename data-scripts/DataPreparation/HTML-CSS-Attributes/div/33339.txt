@@ -1,0 +1,3 @@
+display: none !important;padding-bottom: 0 !important;  
+display: none !important;padding: 30px 0 !important;padding-top: 40px; padding-bottom: 45px; text-align: center;display: inline-block;  font-family: 'source_sans_prolight'; margin-bottom: 0;color: #c85b5f; background: none; background-image: none;background: none; background-image: none; box-shadow: none;    .menu .navbar .nav > li > a {color: #716a72; font-size: 16px; text-transform: uppercase; padding-right: 75px; 
+color: #c85b5f;

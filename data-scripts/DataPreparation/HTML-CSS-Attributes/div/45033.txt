@@ -1,0 +1,7 @@
+.masonery_area .single-blog .post-thumb{
+  height: auto;
+  margin-top: 5px;
+  font-size: 20px;
+  border-top:0;
+  padding-top:0;
+    display: table-cell;

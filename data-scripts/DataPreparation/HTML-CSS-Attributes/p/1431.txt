@@ -1,0 +1,6 @@
+ margin-top: 0  content: '\0000a0-\0000a0';  content: ''; 
+.section.blog .post.sticky {
+    border: none !important;
+    margin-top: 13px;
+    padding: 0px;
+ margin-right: 7px;  content: ""; @media (min-width: 1200px) {

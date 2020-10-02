@@ -1,0 +1,6 @@
+ font-size: 54px; 
+#tweets #twitter {
+   margin: 24px auto;
+   padding: 0;
+   width: 90%;
+ font-size: 54px; 

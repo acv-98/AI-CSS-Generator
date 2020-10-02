@@ -1,0 +1,5 @@
+ max-width: 370px; .grid {
+    display: flex;
+    flex-wrap: wrap;
+        margin-left: auto;
+        margin-right: 0;

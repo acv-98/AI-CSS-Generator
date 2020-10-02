@@ -1,0 +1,11 @@
+      outline:none;
+      margin:0;
+      padding:0;
+      display:none;
+      -webkit-backface-visibility:hidden;
+      background:transparent;
+      position:relative;
+      zoom:1;
+      opacity:1.0;
+      right:-13px;
+      left:-13px;

@@ -1,0 +1,6 @@
+	width:100%;
+	overflow:hidden;
+	line-height:1.714em;
+	color:#fff;
+	padding-right:43px !important;
+	float:left;

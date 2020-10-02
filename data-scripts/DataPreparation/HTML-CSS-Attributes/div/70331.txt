@@ -1,0 +1,2 @@
+ margin:0; padding:0; margin:0 auto; padding:0 40px; width:890px;
+ background:#4f5452 url(images/fbg_bg.jpg) repeat-x top; padding:24px 40px; color:#fff; color:#fff; padding:4px; border:1px solid #cfd2d4; background-color:#fff; margin:0; float:left; padding:0 16px 0 0; width:266px; padding:0 16px; width:300px; padding:0 0 0 16px; width:260px; margin:8px; margin:8px 16px 4px 0; float:left;

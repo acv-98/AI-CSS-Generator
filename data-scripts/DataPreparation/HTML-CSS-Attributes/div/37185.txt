@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	background:url(images/main_bg.jpg) repeat-y center;
+	width:923px;
+	color:#9a9a9a;
+	line-height:normal;
+	text-decoration:underline;
+	float:left;

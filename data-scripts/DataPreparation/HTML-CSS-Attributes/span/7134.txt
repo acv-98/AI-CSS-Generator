@@ -1,0 +1,3 @@
+color: #abb09e;
+font-size: 200px;
+line-height: 160px;

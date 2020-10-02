@@ -1,0 +1,2 @@
+ overflow:hidden;.featured-box.magic{
+	background:url(../img/magic.png) left top no-repeat;

@@ -1,0 +1,6 @@
+	float:right;
+	color:#ffffff;
+	font-size:0.9em;
+	font-weight:normal;
+	text-decoration:none;
+	margin-right:24px;

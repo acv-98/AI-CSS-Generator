@@ -1,0 +1,6 @@
+    height: 88px;
+    width: 88px;
+    background: url(../img/teamsprite.png) no-repeat;
+    background-position:  -88px 0px;
+    margin: -55px auto;
+    position: relative;

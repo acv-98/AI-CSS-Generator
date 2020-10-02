@@ -1,0 +1,8 @@
+  -webkit-animation-name: lightSpeedIn;
+  animation-name: lightSpeedIn;
+  -webkit-animation-timing-function: ease-out;
+  animation-timing-function: ease-out;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+    display: none;

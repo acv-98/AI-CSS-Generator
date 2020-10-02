@@ -1,0 +1,9 @@
+  color: #fff;
+  text-transform: capitalize;
+  text-shadow: 2px 2px #aaa;
+  margin-bottom: 20px;
+    color: #fff;
+    font-size: 18px;
+    height: 100%;
+ font-size: 18px;   .contact-content p {
+    padding: 15px 0;

@@ -1,0 +1,1 @@
+background: url("images/social.png") no-repeat scroll -120px 0 rgba(0, 0, 0, 0);

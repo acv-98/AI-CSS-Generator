@@ -1,0 +1,2 @@
+text-decoration:none; color:#ffffff; font-family: 'Tienne', serif; font-size:11px; background:#FF6600; width:90px; height:24px; line-height:24px; text-align:center; text-transform:uppercase; display:block; font-weight:normal;text-decoration:none; background:#333333;HEADER CLASSES
+ padding-top:26px;font-style:normal; text-decoration:none; margin-top:8px;

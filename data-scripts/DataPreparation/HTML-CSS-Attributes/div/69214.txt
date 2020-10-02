@@ -1,0 +1,7 @@
+
+.furniture-left h3 {
+	font-size: 11px;
+	color: #333333;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-bottom: 25px;

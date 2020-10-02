@@ -1,0 +1,5 @@
+text-align:center
+@media (min-width: 768px) {
+  .marketing {
+    padding-left: 0;
+    padding-right: 0;

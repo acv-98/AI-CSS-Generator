@@ -1,0 +1,3 @@
+	background: #f4f9fd;
+	padding: 20px 0px;
+	position: relative;

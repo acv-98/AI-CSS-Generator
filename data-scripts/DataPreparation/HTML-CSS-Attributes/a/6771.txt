@@ -1,0 +1,9 @@
+	position:absolute;
+	top:242px;
+	left:49px;
+	display:block;
+	width:61px;
+	height:70px;
+	background:url(../images/prev.png) 0 0 no-repeat;
+	z-index:99;
+	background-position:0 bottom;

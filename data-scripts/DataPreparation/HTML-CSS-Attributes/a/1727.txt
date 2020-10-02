@@ -1,0 +1,10 @@
+	display:inline-block;
+	width:60px;
+	height:60px;
+	background:#fff;
+	position:absolute;
+	margin-left:-30px;
+	top:-35px;
+	border-radius:50%;
+	color:#cc580c;
+	line-height:70px;

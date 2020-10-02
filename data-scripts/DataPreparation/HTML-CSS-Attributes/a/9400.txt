@@ -1,0 +1,6 @@
+    font-weight: 700;
+    font-size: 15px;
+    content: "\f107";
+    vertical-align: middle;
+    padding-left: 5px;
+    font-family: "Flaticon";

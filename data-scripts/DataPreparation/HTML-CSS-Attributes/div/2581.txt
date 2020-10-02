@@ -1,0 +1,7 @@
+	text-transform:uppercase;
+	font-size:22px;
+	font-family:"montserratbold";
+	margin-bottom:0;
+	color:#fa5c65;
+	font-weight:bold;
+	

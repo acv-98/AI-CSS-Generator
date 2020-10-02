@@ -1,0 +1,18 @@
+    font-family: "Damion",cursive;
+    transition: background .3s ease-in-out;
+    -webkit-transition: background .3s ease-in-out;
+    -o-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    background: #9068be none repeat scroll 0 0;
+    color: #fff;
+    display: inline-block;
+    font-size: 30px;
+    margin-top: 25px;
+    padding: 17px 45px;
+    box-shadow: 0 0 10px -5px #044c54;
+    -moz-box-shadow: 0 0 10px -5px #044c54;
+    -webkit-box-shadow: 0 0 10px -5px #044c54;
+        margin-top: 10px;
+        padding: 10px 20px;
+        font-size: 25px;
+        line-height: 18px;

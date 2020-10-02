@@ -1,0 +1,6 @@
+ max-width: 1530px; 
+.tm-header-gallery {
+	display: -ms-flexbox;
+	-ms-flex-wrap: wrap;
+	    -webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;

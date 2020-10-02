@@ -1,0 +1,7 @@
+  line-height: 21px;
+  min-height: 21px;
+  font-family: 'Droid Sans', Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  padding-right: 10px;
+  color: #000;
+  margin-top: 20px;

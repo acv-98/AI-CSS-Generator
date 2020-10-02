@@ -1,0 +1,5 @@
+	width: 940px;
+		width: 712px;
+	background: url(../img/footer.png) repeat-x top center;
+	margin: 0 auto; 
+	position: relative;

@@ -1,0 +1,6 @@
+	float:left;
+	background:url(images/search-submit.gif);
+	border:0;
+	cursor:pointer;
+	width:18px;
+	height:18px;

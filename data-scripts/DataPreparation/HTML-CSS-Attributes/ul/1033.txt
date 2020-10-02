@@ -1,0 +1,27 @@
+display:block 
+  #search input {
+    width: 200px;
+		display:none;	
+max-width: 100%;width:100%
+max-width: 100%; display: block;content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;height: 1%;display: block;.slides:after {
+	content: ".";
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+zoom: 1;position: relative;	width:20%;
+	overflow:hidden;
+	position:relative;
+	font-family: 'Dorsa', sans-serif;
+	color:#fff;
+	font-size:100px;
+	top:50%;
+	left:50%;
+	margin:-50px 0 0 -10px;
+	opacity:1;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	list-style: none outside none;
+	max-width: 770px;

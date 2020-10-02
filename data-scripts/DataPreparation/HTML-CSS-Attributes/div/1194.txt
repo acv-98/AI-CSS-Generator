@@ -1,0 +1,10 @@
+    background: hsla(255, 100%, 60%, 0.4);
+    left: 15px;
+    position: absolute;
+    top: -70px;
+    width: auto;
+        top: -90px;
+        width: 320px;
+        left: auto;
+        position: relative;
+        float: right;

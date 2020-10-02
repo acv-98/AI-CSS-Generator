@@ -1,0 +1,6 @@
+background-image:none;   background: #11ABB0;
+   color: #fff !important;
+ color: #11ABB0; #intro {
+   overflow: hidden;
+      color: #11ABB0 !important;
+      background: none;

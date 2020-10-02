@@ -1,0 +1,10 @@
+  float: right;
+  font-size: 1.2em;
+  padding-right: 18px;
+  color: #000000 !important;
+  -webkit-transition: -webkit-transform 0.35s;
+  transition: transform 0.35s;
+  -webkit-transform: translate3d(0,200%,0);
+  transform: translate3d(0,200%,0);
+  -webkit-transition-delay: 0.2s;
+  transition-delay: 0.2s;

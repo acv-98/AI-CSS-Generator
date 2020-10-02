@@ -1,0 +1,4 @@
+    overflow: hidden;
+    font-weight: 700;
+    font-size:2.250rem;
+    color:#648cff;

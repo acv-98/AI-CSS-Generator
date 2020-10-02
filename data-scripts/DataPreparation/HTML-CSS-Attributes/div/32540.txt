@@ -1,0 +1,17 @@
+    -webkit-transform:translate(0, -25%);
+    -ms-transform:translate(0, -25%);
+    -o-transform:translate(0, -25%);
+    transform:translate(0, -25%);
+    -webkit-transition:-webkit-transform 0.3s ease-out;
+    -o-transition:-o-transform 0.3s ease-out;
+    transition:transform 0.3s ease-out
+    position:relative;
+    width:auto;
+    margin:10px
+        width:600px;
+        margin:30px auto
+	width: 80%;
+    -moz-transform: scale(0.1);
+    top: 100px;
+    opacity: 0;
+    -moz-transition: all 0.3s;

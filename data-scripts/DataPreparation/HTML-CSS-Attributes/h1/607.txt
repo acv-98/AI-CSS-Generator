@@ -1,0 +1,9 @@
+  font-size: 70px;
+  color: #fff;
+  line-height: 1;
+    font-size: 50px;
+position:relative;font-family:Hind,sans-serif@font-face {
+  font-family: 'simple-line-icons';
+  src: url('../fonts/Simple-Line-Icons.eot?v=2.3.2');
+  font-weight: normal;
+  font-style: normal;

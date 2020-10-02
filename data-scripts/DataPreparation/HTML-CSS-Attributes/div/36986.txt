@@ -1,0 +1,6 @@
+    font-size: 12px;
+    margin-top: 10px;
+	font-size:30px;
+	color:#909090;
+	text-transform:uppercase;
+	font-family: 'oswaldregular';

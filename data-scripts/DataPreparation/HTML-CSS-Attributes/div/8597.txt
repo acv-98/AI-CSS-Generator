@@ -1,0 +1,2 @@
+	width: 300px;
+	margin: 80px auto;

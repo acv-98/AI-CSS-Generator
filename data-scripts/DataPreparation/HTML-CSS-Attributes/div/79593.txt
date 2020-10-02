@@ -1,0 +1,8 @@
+    border: 1px solid #eee;
+    padding: 30px 30px;
+    margin: 0 0 5px;
+    font-weight: 700;
+    font-size: 18px;
+    display: block;
+    font-style: italic;
+    padding-bottom: 0;

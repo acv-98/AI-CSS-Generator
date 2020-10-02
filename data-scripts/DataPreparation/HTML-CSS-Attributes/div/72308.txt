@@ -1,0 +1,10 @@
+background-image: url("./images/bg8.jpg");	.grid_contact_area {
+		display: grid;
+		width: 100vw;
+		height: 60vh;
+		border-top: 20px solid #dcd06f;
+		border-bottom: 20px solid #5e7a96;
+		grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  		grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  		background-image: url("./images/background3.jpg");
+  		background-size: cover;

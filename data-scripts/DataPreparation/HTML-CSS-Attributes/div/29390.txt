@@ -1,0 +1,7 @@
+	behavior:url("../js/PIE.htc");
+	position:relative
+	display:inline-block;
+	background:url(../images/button-box-tail.gif) repeat-x 0 0;
+	border-radius:6px;
+	padding:5px 6px 0 6px;
+	margin:0 0 -16px 0;

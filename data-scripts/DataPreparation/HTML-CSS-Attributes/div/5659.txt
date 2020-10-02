@@ -1,0 +1,5 @@
+		float: right;
+		padding: 5px 20px;
+	font-size: 14px;
+	color: #ffffff;
+	border: 2px solid #ffffff;

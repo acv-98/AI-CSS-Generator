@@ -1,0 +1,3 @@
+	overflow: hidden;
+	padding-bottom: 50px;
+	padding-left: 1px;

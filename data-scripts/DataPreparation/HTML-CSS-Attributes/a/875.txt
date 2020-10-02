@@ -1,0 +1,11 @@
+	height: 25px;
+	width: 25px;
+	display: table;
+	color: #777;
+	font-size: 18px;
+	border: 1px solid #fff!important;
+	cursor: pointer;
+	border-radius: 50%;
+	transition: 1s;
+	margin: 0 10px;
+color:#f5bc04

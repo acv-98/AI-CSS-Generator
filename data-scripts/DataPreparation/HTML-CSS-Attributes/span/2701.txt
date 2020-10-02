@@ -1,0 +1,12 @@
+	display:none;
+	width:33px;
+	height:33px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin:-13px 0 0 -33px;
+	background-image:url(../img/zoom.png);
+	background-position:0 -33px;
+	background-repeat:no-repeat;
+	z-index:2;
+	text-indent:-9999px;

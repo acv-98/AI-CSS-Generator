@@ -1,0 +1,13 @@
+      background: #3BDBD8 !important;
+      z-index: 890;
+      color: #fff;
+      font-size: 24px;
+      margin: 0;
+      outline: none;
+      opacity: 1;
+      position: absolute;
+      right: 0;
+      text-shadow: none;
+      top: 0;
+      width: 28px;
+      height: 28px;

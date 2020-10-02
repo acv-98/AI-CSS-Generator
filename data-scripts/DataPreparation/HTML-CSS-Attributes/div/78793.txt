@@ -1,0 +1,1 @@
+background:#fff no-repeat; padding:25px 0 0; width:960px; float:left; border-top:1px solid #CCC; margin-top:30px;margin:0;color:#ccc;color:#999; text-decoration:none;

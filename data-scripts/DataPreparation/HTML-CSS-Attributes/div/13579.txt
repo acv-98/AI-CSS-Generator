@@ -1,0 +1,8 @@
+ margin-top: 20px;
+ margin-bottom: 30px .section.blog .post {
+    border-left: 5px solid #d18f1d !important;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    clear: left;
+    text-align: center;
+    overflow: auto;

@@ -1,0 +1,6 @@
+	display:block;
+	font-size:37px;
+	line-height:1.2em;
+	color:#2ab5ba;
+	letter-spacing:-1px;
+	margin-top:-12px;

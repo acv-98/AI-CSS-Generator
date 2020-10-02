@@ -1,0 +1,7 @@
+	padding-left:4px;
+	float:none;
+	font-weight:normal;
+	text-decoration:none;
+	color:#3f3f3f;
+	margin:0;
+	border:1px solid #dedede;

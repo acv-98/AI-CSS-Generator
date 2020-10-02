@@ -1,0 +1,2 @@
+	background:#a5e5fe;
+	padding:5%;

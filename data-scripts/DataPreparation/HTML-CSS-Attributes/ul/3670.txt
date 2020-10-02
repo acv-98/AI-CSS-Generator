@@ -1,0 +1,9 @@
+	background: url("../images/icons/message/info.png") no-repeat scroll 15px center #E6EBF0;
+	border: 1px solid #89BECD;
+	color: #277DCE;
+	position: relative;
+	font-size: 12px;
+	font-weight: normal;
+	top: 2px;
+	display: block;
+	text-shadow: none;

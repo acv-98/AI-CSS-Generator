@@ -1,0 +1,12 @@
+	background:url(../images/input_bg.gif) top repeat-x;
+	border:1px solid #fff;
+	font:14px Arial, Helvetica, sans-serif;
+	height:16px;
+	padding:5px 10px;
+	color:#aaa;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	width:213px;

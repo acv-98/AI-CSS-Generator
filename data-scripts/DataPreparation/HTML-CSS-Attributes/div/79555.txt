@@ -1,0 +1,12 @@
+    min-width: 260px;
+    margin-bottom: 0;
+    height: 48px;
+    border-radius: 0;
+    font-size: 14px;
+    box-shadow: none !important;
+    background: transparent;
+    display: block;
+    max-width: 280px;
+    margin-top: 40px;
+    padding-left: 23px;
+    padding-right: 23px;

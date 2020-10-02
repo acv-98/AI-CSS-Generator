@@ -1,0 +1,1 @@
+ background: url(images/slider-top.png) no-repeat 0 0; position: absolute; top: -14px; left: 17px; width: 905px; height: 31px; z-index: 100; 

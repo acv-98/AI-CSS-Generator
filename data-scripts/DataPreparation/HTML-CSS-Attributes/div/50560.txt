@@ -1,0 +1,5 @@
+	background:url(images/box-bottom.gif) left bottom no-repeat;
+	padding:28px 0 5px 20px;
+	width:288px;
+	min-height:180px;
+	position:relative;

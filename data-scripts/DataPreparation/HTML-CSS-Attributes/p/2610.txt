@@ -1,0 +1,17 @@
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.4;
+    font-size: 21px;
+    color: #fff;
+.normalhead {
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    font-weight: 600;
+    font-family: Trebuchet MS;
+    line-height: 1.6;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-style: italic;
+    margin-top: 10px;
+        font-size: 15px !important;

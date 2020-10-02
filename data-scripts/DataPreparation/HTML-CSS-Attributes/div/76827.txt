@@ -1,0 +1,9 @@
+	position:absolute;
+	bottom:6px;
+	right:0;
+	list-style:none;
+	float:left;
+	display:inline;
+	padding-left:11px;
+	color:#939393;
+	font-size:11px;

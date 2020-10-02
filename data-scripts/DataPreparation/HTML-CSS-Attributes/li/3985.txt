@@ -1,0 +1,4 @@
+	border:none;
+	width:300px;
+	float:left;
+	text-align:right;

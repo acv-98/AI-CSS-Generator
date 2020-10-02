@@ -1,0 +1,1 @@
+list-style-type:none; margin:0; padding:0; margin:0; width:75px;float:left; margin:0 3px;display:block; width:8px; height:8px; overflow:hidden; background-image:url("../design/pagination.gif"); background-position:0 0; background-repeat:no-repeat;display:none;background-position:0 -8px;position:absolute; bottom:0; left:425px;

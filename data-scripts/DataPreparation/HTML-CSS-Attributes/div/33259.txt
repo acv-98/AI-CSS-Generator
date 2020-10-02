@@ -1,0 +1,8 @@
+background: #2bbbdf;
+.featured-accordion .accordion-group [class^="fw-icon-"] {
+color: #fff;
+padding: 18px;
+font-size: 15px;
+font-weight: normal;
+line-height: 10px;
+border-radius: 3px 0 0px 3px;

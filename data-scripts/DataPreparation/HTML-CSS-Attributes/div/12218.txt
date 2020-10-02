@@ -1,0 +1,38 @@
+   position: fixed;
+	height: 100%;
+	width: 100%;
+	background: #000;
+	z-index: 100;
+	display: none;
+	top: 0;
+	left: 0;
+   visibility: hidden;
+	margin-left: -300px;
+   width: 600px;
+	max-width: 600px;
+	position: absolute;
+	padding: 0;
+	-moz-box-shadow: 0 0 10px rgba(0,0,0,.4);
+	-webkit-box-shadow: 0 0 10px rgba(0,0,0,.4);
+	-box-shadow: 0 0 10px rgba(0,0,0,.4);
+ padding: 18px 36px; .reveal-modal .description-box h4 {
+   font: 15px/24px montserrat-bold, sans-serif;
+	margin-bottom: 18px;
+   color: #111;
+	font: 13px/24px opensans-regular, sans-serif;
+   margin-bottom: 18px;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   display: block;
+   margin-right: 8px;
+   padding: 18px 36px;
+   background: #111;
+   text-align: left;
+	text-transform: uppercase;
+   cursor: pointer;
+	color: #00CCCC;  margin-left: 28px; #journal {
+   background-color: #0f9095;
+   padding-top: 156px;
+   padding-bottom: 120px;
+   	margin-left: -42%;
+		width: 84%;

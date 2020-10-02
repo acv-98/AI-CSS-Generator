@@ -1,0 +1,9 @@
+	color: #a5d549;
+	border: 1px solid #ccc;
+	font-size: 30px;
+	display: inline-block;
+	width: 85px;
+	height: 85px;
+	line-height: 85px;
+	border-radius: 50%;
+	margin-bottom: 20px;

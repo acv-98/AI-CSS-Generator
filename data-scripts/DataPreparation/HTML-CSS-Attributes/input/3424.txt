@@ -1,0 +1,7 @@
+	width:252px;
+	height:18px;
+	border:1px solid #d7d8d8;
+	background:url(../images/bg_input.gif) top repeat-x #edeeee;
+	padding:2px 5px;
+	color:#000;
+	font:14px Arial, Helvetica, sans-serif

@@ -1,0 +1,11 @@
+				.home .about h3 {
+					font-size: 48px;
+					line-height: 50px;
+ color: #333; .post-header h2,
+#content .post-header h2 a,
+.text h2, #content .text h2 a,
+ text-align: center; #content .badge:hover,
+#content .tags-list a:hover,
+#content .text h3 a:hover,
+#content .pagination a:hover,
+#content a.back-to-top:hover,

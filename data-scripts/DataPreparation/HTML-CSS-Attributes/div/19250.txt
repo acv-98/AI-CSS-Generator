@@ -1,0 +1,17 @@
+  height: 600px;
+  background-color: #555;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+    height: inherit;
+    padding: 4em 0;
+  color: #fff;
+  font-size: 50px;
+  font-weight: 400;
+  margin-bottom: 10px;
+    font-size: 30px;
+  border-bottom: 2px solid rgba(255, 87, 34, 0.2);

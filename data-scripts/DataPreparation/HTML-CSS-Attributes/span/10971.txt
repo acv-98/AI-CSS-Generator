@@ -1,0 +1,12 @@
+  float: left;
+  display: inline-block;
+  color: #c0c1c1;
+  font-size: 15px;
+  -webkit-transition: all 0.5s ease 0s;
+  -ms-transition: all 0.5s ease 0s;
+  -o-transition: all 0.5s ease 0s;
+  transition: all 0.5s ease 0s;  
+  border-radius: 50%;
+  height: 40px;
+  margin-right: 15px;
+  width: 40px;

@@ -1,0 +1,6 @@
+ padding: 6px 
+.sidebar_nav ul li {
+	display: block;
+	background: url(../images/sidebar_seperator.png) bottom repeat-x;
+ margin-left: 10px; background:none; font-size: 1em;  margin-left: 10px; background: none  margin-bottom: 20px;  display: block; .sidebar_nav a:hover {
+	color: #000;

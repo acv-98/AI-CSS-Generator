@@ -1,0 +1,9 @@
+	background:transparent;
+	border-radius:20px;
+	color:#fff;
+	padding:10px 30px;
+	margin-top:10px;
+	font-family: 'night_still_comesregular';
+	font-size:18px;
+	transition:.3s ease-in-out;
+	border-color: #fff;

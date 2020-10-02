@@ -1,0 +1,14 @@
+    margin-bottom:20px;
+    font-size:16px;
+    font-family: 'robotoregular';
+    font-weight:500;
+    text-transform:uppercase;
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 65%;
+    color:#82ca9c;
+    display:inline-block;
+    background:#82ca9c;
+	border:0px;
+	background-color: rgba(0, 173, 62, 0.75);

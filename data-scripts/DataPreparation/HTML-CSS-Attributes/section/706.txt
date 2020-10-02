@@ -1,0 +1,10 @@
+		display: none;
+		width: 85%;
+		margin: 15% auto 0;
+  position: relative;
+    position: absolute;
+    width: 916px;
+    height: 540px;
+    background: url("../img/macbook-pro.png") no-repeat center center;
+    top: 114px;
+    z-index: 4;

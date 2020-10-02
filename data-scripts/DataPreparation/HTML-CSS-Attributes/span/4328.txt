@@ -1,0 +1,2 @@
+    background: transparent url(../images/icon-quote.png) no-repeat left 7px;
+    padding: 0 0 7px 17px;

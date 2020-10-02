@@ -1,0 +1,3 @@
+  height: 300px;
+  background-color: #bbd8e9;
+  width: 20%;

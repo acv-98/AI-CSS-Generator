@@ -1,0 +1,25 @@
+-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both
+ * Bootstrap v4.1.0 (https://getbootstrap.com/)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  Flashy - jQuery Lightbox & Popup Plugin
+  @name flashy.css
+  @description jQuery plugin for creating responsive lightboxes & popups with focus on performance and effects
+  @author Max Lavretiev
+  @site http://www.avirtum.com
+  @copyright (c) Max Lavretiev
+  	Flaticon icon font: Flaticon
+  	Creation date: 10/07/2018 06:45
+@font-face {
+font-family: "Flaticon";
+	src: url("../fonts/Flaticon.eot");
+	url("../fonts/Flaticon.woff") format("woff"),
+	url("../fonts/Flaticon.ttf") format("truetype"),
+	url("../fonts/Flaticon.svg#Flaticon") format("svg");
+	font-weight: normal;
+	font-style: normal;
+-webkit-tap-highlight-color:transparent;position:relative.pogoSlider-dir-btn:focus,
+.pogoSlider-nav-btn:focus {
+	outline: 0
+  -webkit-animation-name: fadeIn;

@@ -1,0 +1,1 @@
+background-image:url("img/black/icon-linkedin.png");background-image:url("img/blue/icon-linkedin.png");background-image:url("img/green/icon-linkedin.png");background-image:url("img/pink/icon-linkedin.png");background-image:url("img/purple/icon-linkedin.png");background-image:url("img/red/icon-linkedin.png");

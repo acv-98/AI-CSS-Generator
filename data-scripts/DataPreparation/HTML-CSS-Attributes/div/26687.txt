@@ -1,0 +1,1 @@
+ background: url(images/slider-holder.png) repeat 0 0; border-top: 1px solid #568993; width: 900px; height: 380px; padding: 9px; position: relative; bottom: -30px;  background: url(images/slider-shadow.png) no-repeat 0 0; width: 920px; height: 37px; position: absolute; bottom: -37px; left: 0; font-size: 0; line-height: 0; text-indent: -4000px; 

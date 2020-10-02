@@ -1,0 +1,18 @@
+	background-color:#b8b8b8;
+	color: #000000;
+	text-shadow: none;
+	text-decoration: none;
+	min-width: 408px;
+	min-height: 3px;
+	background-position: initial initial;
+	background-repeat: initial initial;
+	border-width: 0px;
+	border-color: #000000;
+	border-style: none;
+font-size:0px;
+line-height:0;
+		z-index:1;
+		display:block;
+		padding:100px 0;
+		position:relative;
+		background-color:#f7f7f7;

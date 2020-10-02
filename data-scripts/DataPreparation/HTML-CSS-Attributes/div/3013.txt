@@ -1,0 +1,7 @@
+	padding-top: 70px;
+	cursor: default !important;
+	float: left;
+	text-align: center;
+	margin: 0 13px;
+	display: block;
+	width: 1030px;

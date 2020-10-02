@@ -1,0 +1,3 @@
+  background: -webkit-linear-gradient(top right, #52D681, #1FDEDB);
+  color: rgba(255, 255, 255, 0.7);
+  border: none !important;

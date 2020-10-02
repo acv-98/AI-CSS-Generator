@@ -1,0 +1,9 @@
+	color: #fff;
+	font-size: 35px;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 0;
+	width: 120px;
+	line-height: 18px;
+		width: 145px;
+		margin-top: -10px;
+		font-size: 25px;

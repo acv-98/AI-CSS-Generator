@@ -1,0 +1,2 @@
+	color:#fff;
+	background:#eb7c3f url(images/menu_a.gif) repeat-x center top;

@@ -1,0 +1,7 @@
+        margin-bottom: 20px;
+max-width: 100%;.productimg:hover {
+    opacity: .8;
+    -webkit-transition: .5s ease-out;
+    -moz-transition: .5s ease-out;
+    -o-transition: .5s ease-out;
+    transition: .5s ease-out;

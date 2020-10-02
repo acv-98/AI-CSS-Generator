@@ -1,0 +1,15 @@
+    position:relative;
+    display:block;
+    width: 130px;
+    height: 130px;
+    background-color: #dedede;
+    box-shadow: none;
+    border: 10px solid #dcdbdb;
+    border-radius: 50%;
+    padding: 0px;
+    margin: 0px auto;
+    padding-right: 0;
+    padding-bottom: 0;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 40px;

@@ -1,0 +1,6 @@
+	width:22px;
+	height:22px;
+	background:url(../img/testimonials_arrow.png) no-repeat left top;
+	float:left;
+	margin:0 8px 0 0;
+	display:block;

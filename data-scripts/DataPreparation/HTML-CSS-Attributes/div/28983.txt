@@ -1,0 +1,5 @@
+	border-bottom: 2px solid #4f4d47;
+	display: block;
+	width: 14px;
+	margin: auto;
+	margin-bottom: 20px;

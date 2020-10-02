@@ -1,0 +1,3 @@
+ color: black; .tm-section-title-small { 
+	font-size: 2rem;
+	margin-bottom: 4rem; 

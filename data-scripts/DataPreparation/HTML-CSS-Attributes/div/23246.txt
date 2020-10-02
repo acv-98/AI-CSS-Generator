@@ -1,0 +1,5 @@
+	background:url(../img/black/box_right_middle.png);
+	width: 661px;
+	overflow:hidden;
+	margin: 0 0 30px;
+	font-weight:bold;

@@ -1,0 +1,6 @@
+  margin-bottom: 20px; margin: 30px 0 ul.cat li a {
+    background: inherit;
+    border: 1px solid;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: inherit;

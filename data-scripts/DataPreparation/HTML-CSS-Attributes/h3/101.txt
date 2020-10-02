@@ -1,0 +1,7 @@
+  font-size: 24px;
+  font-weight: 300;
+  color: #222;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  line-height: 24px;
+  display: block;

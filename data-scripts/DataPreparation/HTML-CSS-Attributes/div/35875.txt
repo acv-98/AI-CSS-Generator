@@ -1,0 +1,2 @@
+    background: url(../img/joinbg.jpg) no-repeat top center;
+    background-size: cover;

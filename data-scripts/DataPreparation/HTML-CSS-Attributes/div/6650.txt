@@ -1,0 +1,9 @@
+		 margin-left:0px;
+.single_home_left p{
+	font-size:14px;
+	margin-top:20%;
+	margin-left:20px;
+	font-family: 'open_sanslight';
+	color:#fff;
+	display:block;
+	margin-bottom:10px;

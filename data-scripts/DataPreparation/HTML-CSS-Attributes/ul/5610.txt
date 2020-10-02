@@ -1,0 +1,13 @@
+    list-style: none;
+    padding: 2px;
+    margin: 0;
+    padding-left: 0px;
+    content: " ";
+    display: table;
+    clear: both;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0.6px;
+    margin-left: 0px;
+    border-radius: 4px;
+    cursor: default;

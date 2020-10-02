@@ -1,0 +1,6 @@
+	margin-bottom:60px;
+	font-size:16px;
+	font-weight:normal;
+	text-transform:uppercase;
+  background-color: #00bcd4;
+  line-height: 27px;

@@ -1,0 +1,10 @@
+	background:#a5d8eb;
+	padding: 4%;
+	margin-bottom:8%;
+	list-style: none;
+	color: #FFF;
+	font-size: 2em;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	border-bottom: 1px solid #B9DEEC;
+	padding-bottom:10px;

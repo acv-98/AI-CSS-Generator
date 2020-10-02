@@ -1,0 +1,6 @@
+    clear: both;
+    display: block;
+    width: 100%;
+    height: auto;
+    position: relative;
+clear:both;display:block;width:100%;height:auto;position:relative

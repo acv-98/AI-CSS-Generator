@@ -1,0 +1,10 @@
+	padding-top:5px
+	float:left;
+	width:275px;
+	text-align:center;
+	height:243px
+	font-weight:bold;
+	display:block
+	margin-bottom:10px
+	position:absolute;
+	overflow:hidden

@@ -1,0 +1,4 @@
+	background: #000;
+	background-position: -86px 0;
+  color: #be9e21;
+  background-color: transparent;

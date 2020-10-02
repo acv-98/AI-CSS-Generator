@@ -1,0 +1,10 @@
+  font-size: .84em;
+  color: #aaaaaa;
+  margin-bottom: 30px;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  opacity: 1;
+  visibility: visible;
+  font-weight: normal;
+  display: inline-block;

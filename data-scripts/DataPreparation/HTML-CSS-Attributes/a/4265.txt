@@ -1,0 +1,2 @@
+color: #c85b5f;color: #fff; text-decoration: none;
+    Menu styles stars here

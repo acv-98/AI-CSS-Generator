@@ -1,0 +1,10 @@
+		background:url(../images/design/footer-background-stitch.png) top left repeat-x transparent;
+		width:100%;
+		height:3px;
+		top:3px;
+		position:absolute;
+background:url(../images/design/footer-top-stitch-768.png); width:768px;		.footer .first { 
+			width:190px;
+			padding-right:10px;
+display:none;		.footer .content {
+			background:url(../images/design/footer-bg-480.png) top left repeat-y transparent;

@@ -1,0 +1,3 @@
+	border:1px solid #ff5d06;
+	display:block;
+	float:left;

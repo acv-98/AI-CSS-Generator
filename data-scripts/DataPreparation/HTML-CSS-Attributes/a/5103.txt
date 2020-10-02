@@ -1,0 +1,9 @@
+	position:absolute;
+	bottom:6px;
+	right:442px;
+	z-index:111;
+	display:inline-block;
+	width:33px;
+	height:33px;
+	background:url(../images/next.png) 0 0 no-repeat;
+	background-position:0 bottom;

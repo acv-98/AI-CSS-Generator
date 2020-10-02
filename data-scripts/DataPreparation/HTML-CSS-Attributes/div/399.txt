@@ -1,0 +1,1 @@
+ float: left; width: 270px; background: #fff; padding: 15px !important; padding: 15px 15px 2px; margin: 0 30px 35px 0; text-align: justify; border-top: 1px dotted #ddd;  margin-right: 0;  margin: 0 0 15px; 

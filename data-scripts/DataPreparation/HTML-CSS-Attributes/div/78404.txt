@@ -1,0 +1,2 @@
+display:none !important;width:55%;margin-left:0;
+ margin-bottom:30px; position:relative;  min-height:96px; margin-bottom:0px;position:absolute;left:0;top:0;background:url("images/shadows-blog/60.png") no-repeat scroll center 93px transparentmargin-left:110px;height:50px; display:block; margin-bottom:-4px;padding:0; margin:0; font-size:0.95em;

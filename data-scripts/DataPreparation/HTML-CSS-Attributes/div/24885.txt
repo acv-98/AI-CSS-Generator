@@ -1,0 +1,3 @@
+  color: #da1212;
+  font-size: 28px;
+    font-size: 28px;

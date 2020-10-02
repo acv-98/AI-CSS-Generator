@@ -1,0 +1,8 @@
+        width: 100%;
+        background-color: #023D69;
+        max-height: 0;
+        transition: max-height 0.3s;
+        overflow: hidden;
+        display: block;
+        padding: 10px 0px;
+        float:left;

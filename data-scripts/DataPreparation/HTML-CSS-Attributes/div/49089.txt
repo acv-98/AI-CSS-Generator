@@ -1,0 +1,6 @@
+    padding: 12%;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 10px;
+    color: #ffffff;
+		margin-bottom: 20px;

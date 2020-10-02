@@ -1,0 +1,15 @@
+	color: #8dc63f
+		font-size: 50px;
+		line-height: 62px;
+    display: table;
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+	font-family: 'nautilus_pompiliusregular';
+    letter-spacing: 2.7px;
+    position: relative;
+    line-height: 100px;
+	padding-bottom: 0px;
+	padding-top:100px;
+	margin:0px;

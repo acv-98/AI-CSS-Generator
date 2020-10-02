@@ -1,0 +1,3 @@
+	padding:0;
+	height:36px;
+	background:url(images/content_bgbot.jpg) no-repeat bottom right;

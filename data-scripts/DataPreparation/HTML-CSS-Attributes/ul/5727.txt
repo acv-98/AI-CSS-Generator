@@ -1,0 +1,15 @@
+  display: block;
+  -webkit-animation: fadeInUp 400ms;
+  -moz-animation: fadeInUp 400ms;
+  -ms-animation: fadeInUp 400ms;
+  -o-animation: fadeInUp 400ms;
+  animation: fadeInUp 400ms;
+  padding: 10px 20px 0 ;
+  padding-bottom: 20px;
+  color: #fff;
+    color: #FDB45E;
+	margin-left: -30px;
+	background: transparent;
+	padding-bottom:0;
+  box-shadow: none;
+	display: inline-block;

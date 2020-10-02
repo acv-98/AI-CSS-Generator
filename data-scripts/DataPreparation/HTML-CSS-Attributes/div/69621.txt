@@ -1,0 +1,4 @@
+	min-height:89px;
+	height:auto !important;
+	background:url(../images/footer-right.gif) no-repeat right top;
+	text-align:center;

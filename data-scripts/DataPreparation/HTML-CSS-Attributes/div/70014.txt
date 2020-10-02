@@ -1,0 +1,1 @@
+	background:url(../images/company_repeat.jpg) 0 0 repeat-y;

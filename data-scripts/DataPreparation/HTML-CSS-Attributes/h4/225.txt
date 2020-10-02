@@ -1,0 +1,4 @@
+  display: inline-block;
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 10px;

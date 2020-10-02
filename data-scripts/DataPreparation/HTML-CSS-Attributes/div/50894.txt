@@ -1,0 +1,5 @@
+	width:960px;
+	margin:0 auto;
+	position:relative;
+	background:url('images/intro-bg.gif') no-repeat 0 0;
+	padding-left:43px;

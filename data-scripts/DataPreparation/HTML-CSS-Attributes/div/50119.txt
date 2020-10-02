@@ -1,0 +1,5 @@
+    font-size:0;
+    line-height:0;
+    height:0;
+    display:block;
+    clear:both;

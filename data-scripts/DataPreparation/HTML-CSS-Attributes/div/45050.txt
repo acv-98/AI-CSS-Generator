@@ -1,0 +1,13 @@
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  background: #fafafa;
+  text-align: center;
+  font-size: 48px;
+  height: 48px;
+  line-height: 48px;
+  color: #dbb075;
+  margin-left: -24px;
+  margin-top: -24px;

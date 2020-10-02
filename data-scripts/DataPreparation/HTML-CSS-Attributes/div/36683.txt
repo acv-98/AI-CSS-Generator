@@ -1,0 +1,4 @@
+ text-align: center
+		contant close
+	6) Gallery Start
+ padding-top: 45px; padding-top: 45px; padding-top: 45px;

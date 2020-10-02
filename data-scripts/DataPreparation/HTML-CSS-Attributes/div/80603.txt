@@ -1,0 +1,5 @@
+		background:url(../images/design/footer-grain.png) top left repeat transparent;
+		padding-top:15px;
+		position:relative;
+		width:100%;
+		z-index:2;

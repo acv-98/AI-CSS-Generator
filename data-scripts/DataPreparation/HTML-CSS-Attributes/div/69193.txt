@@ -1,0 +1,8 @@
+	padding: 50px 45px;
+	background: #fff;
+	height: 66px;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: 400;
+	color: #607086;
+	line-height: 1.5;

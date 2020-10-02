@@ -1,0 +1,5 @@
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #333;
+	font-size: 14px;
+	text-decoration: underline;

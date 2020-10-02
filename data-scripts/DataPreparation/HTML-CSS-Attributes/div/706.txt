@@ -1,0 +1,1 @@
+padding:54px 0 0 36pxpadding:27px 128px 0 49px;color:#fff

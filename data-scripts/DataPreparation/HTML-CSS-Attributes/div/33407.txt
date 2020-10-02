@@ -1,0 +1,1 @@
+margin: 0 -20px !important; background: #d3b483; border-radius: 3px 3px 0 0; overflow: hidden; font-family: 'fjalla_oneregular';

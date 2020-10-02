@@ -1,0 +1,3 @@
+	background-image: url(../images/icon-gallery.png);
+	width: 16px;
+	background-position: center bottom;

@@ -1,0 +1,6 @@
+border: 1px solid #adadad;
+color: #000000;
+background: #ffffff 0 0 no-repeat;
+text-shadow: 1px 1px 0 rgba(255,255,255,0.8);
+-webkit-box-shadow: 0 0 12px #cccccc;
+-moz-box-shadow: 0 0 12px #cccccc;

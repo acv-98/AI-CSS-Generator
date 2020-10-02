@@ -1,0 +1,6 @@
+	font-size:28px;
+	float:right;
+	color:#334F60;
+	font-weight:bold;
+	font-style:italic;
+	font-family:Georgia,Times,serif;

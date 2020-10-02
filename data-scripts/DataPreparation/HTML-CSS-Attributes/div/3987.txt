@@ -1,0 +1,3 @@
+	background: url(../images/hor_separator.png) 0 bottom no-repeat;
+	height: 40px;
+margin-top: 13px;

@@ -1,0 +1,3 @@
+	color: #fff;
+	background-color: #999999;
+	background-image: url('../img/knobs-icons/Knob Grey.png');

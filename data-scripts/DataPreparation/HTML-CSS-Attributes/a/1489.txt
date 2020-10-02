@@ -1,0 +1,7 @@
+    font-size: 30px;
+    line-height: 35px;
+    padding: 13px 42px 17px;
+    position: absolute;
+    right: 0;
+    top: 26px;
+    margin-top: 22px;

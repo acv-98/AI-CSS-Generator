@@ -1,0 +1,2 @@
+font-size: 16px !important;line-height: 22px !important;padding-bottom: 15px !important;font-size: 16px !important;line-height: 22px !important;color: #716a72; font-family: 'source_sans_proregular'; font-size: 19px; line-height: 24px; text-decoration: underline; padding-bottom: 22px;	
+padding: 20px 0; margin-right: 15px; margin-bottom: 4px;float: left; margin-right: 20px; font-size: 28px;

@@ -1,0 +1,14 @@
+	margin-top:-25px;
+	line-height:1.538em;
+	padding-top:20px;
+	color:#d730f8;
+	display:block;
+	padding-bottom:5px;
+	position:relative;
+	top:5px;
+	width:100%;
+	overflow:hidden;
+	vertical-align:top;
+	float:left;
+	margin-right:25px;
+	text-decoration:none;

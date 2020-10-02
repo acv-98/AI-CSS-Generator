@@ -1,0 +1,10 @@
+    display: block;
+    margin-right: 0;
+	font-size: 30px;
+	color: #000;
+	text-align: center;
+	margin: 0 0 30px;
+	width: 100%;
+	height: auto;
+	display: table;
+	margin-right: 20px;

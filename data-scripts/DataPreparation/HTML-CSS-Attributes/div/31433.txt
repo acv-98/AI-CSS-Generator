@@ -1,0 +1,8 @@
+ background-color: #FEFEFE !important; margin:9px 0 !important; 
+.navbar .nav>.active>a,.navbar .nav>.active>a:hover,.navbar .nav>.active>a:focus {
+	background:#4ba2dc;	
+	background-color:#fff;
+	padding-bottom:30px;
+	position:relative;
+	text-align:center;
+	color:#666;

@@ -1,0 +1,10 @@
+    margin-right: 25px;
+    font-size: 40px;
+    color:#ffcb0f;
+    text-transform: inherit;
+    line-height: 18px;
+    margin-bottom: 18px;
+    text-align: justify;
+        margin-right: 50px;
+        font-size: 26px;
+        margin-top: 70px;

@@ -1,0 +1,5 @@
+    display: inline-block;
+    color: #323a45;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-left: 5px

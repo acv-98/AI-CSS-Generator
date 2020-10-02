@@ -1,0 +1,11 @@
+	display:block;
+	height:32px;
+	overflow:hidden;
+	width:120px;
+	margin-top:15px;
+	margin-bottom:5px;
+	background-image:url(../images/readmore.png);
+	background-repeat:no-repeat;
+	background-position:0 0;
+	float:right;
+	margin-right:10px;

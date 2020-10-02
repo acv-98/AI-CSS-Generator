@@ -1,0 +1,8 @@
+  padding-top: 9px;
+  display: block;
+  border-radius: 500px;
+  float: left;
+  margin-right: 20px;
+  margin-top: 5px;
+  margin-bottom: 28px;
+  color: #ffffff;

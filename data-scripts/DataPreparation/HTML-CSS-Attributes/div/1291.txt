@@ -1,0 +1,6 @@
+	font-family: "muli-regular", sans-serif;
+	font-size: 1.4rem;
+	line-height: 3rem;
+	display: block;
+	color: #888888;
+	margin: 0 5px;

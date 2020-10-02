@@ -1,0 +1,11 @@
+    border-radius: 40px;
+    color: #dadee6;
+    background-color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    margin: 5px 3px;
+    padding: 0;
+    width: 40px;

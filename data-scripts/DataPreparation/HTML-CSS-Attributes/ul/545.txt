@@ -1,0 +1,6 @@
+	background:#00BFF0;
+	color: #FFF;
+	border-radius:3px;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	-o-border-radius:3px;

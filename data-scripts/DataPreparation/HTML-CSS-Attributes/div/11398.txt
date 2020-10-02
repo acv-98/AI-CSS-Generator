@@ -1,0 +1,16 @@
+	margin:0;
+	width:120px;
+	border:0;
+	list-style:none;
+	padding:0;
+	border-top:1px dashed #9e3637;
+	border-bottom:1px solid #FFF;
+	padding-bottom:15px;
+	text-transform:uppercase;
+	margin-top:10px;
+	color:#C1C1C1;
+	font-family:arial;
+	font-size:14px;
+	line-height:28px;
+	outline:none;
+	text-decoration:none;

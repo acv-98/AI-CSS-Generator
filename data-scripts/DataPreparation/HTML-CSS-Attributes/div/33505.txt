@@ -1,0 +1,7 @@
+padding: 40px 0; overflow: hidden; text-align: center; color: #ebebeb; font-size: 16px; line-height: 26px;font-family: 'source_sans_proregular';font-size: 16px;font-family: 'source_sans_proregular'; color: #ebebeb;color: #ed3237; text-decoration:none;
+    .blur{
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;

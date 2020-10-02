@@ -1,0 +1,2 @@
+background-position: 0 -26px; cursor: default;
+ color: #47565d;  color: #14647d; text-shadow: rgba(255,255,255,0.5) 1px 0px 1px; text-decoration: none; border: 1px solid #36b0d9; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; background: url(images/nav-active.png) repeat-x 0 0; 

@@ -1,0 +1,12 @@
+  margin-bottom: 60px;
+  text-align: center;
+  font-size: 32px;
+  font-family: 'Roboto', Arial, sans-serif;
+  text-transform: uppercase;
+  color: #00a0dc;
+  border-bottom: 2px solid #ddd;
+  display: inline-block;
+  padding-bottom: 10px;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  line-height: 1.8;

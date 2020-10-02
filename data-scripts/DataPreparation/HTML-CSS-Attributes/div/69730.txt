@@ -1,0 +1,12 @@
+	background: #fff;
+	position: relative;
+	box-shadow: 0 2px 0 0 #e3e4e7;
+	border: 1px solid #f1f1f1;
+	border-radius: 2px;
+	-webkit-transition: all .15s ease;
+	-moz-transition: all .15s ease;
+	-o-transition: all .15s ease;
+	transition: all .15s ease;
+	height: 100%;
+	-webkit-box-shadow: 0 0 5px 1px rgba(60,144,190,.13);
+	-moz-box-shadow: 0 0 5px 1px rgba(60,144,190,.13);

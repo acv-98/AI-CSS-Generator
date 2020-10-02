@@ -1,0 +1,10 @@
+  margin: 0 0 50px 0;
+  padding: 0;
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #888f94;
+  margin-bottom: 24px;
+  display: block;
+  margin-top: 10px;

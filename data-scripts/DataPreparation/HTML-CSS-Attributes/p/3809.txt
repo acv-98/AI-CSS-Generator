@@ -1,0 +1,10 @@
+	background: #F3F3F3;
+	height: 25px;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 0 10px 0 10px;
+	text-align: right;
+	color: #000;
+	margin-bottom: 30px;
+	border-bottom: dotted 1px #DEDEDE;
+	border-top: dotted 1px #DEDEDE;

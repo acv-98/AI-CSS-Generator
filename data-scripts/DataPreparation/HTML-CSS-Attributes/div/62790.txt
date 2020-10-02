@@ -1,0 +1,12 @@
+padding-bottom:85px;
+#toTop {
+  display: none;
+  width: 49px;
+  height: 48px;
+  overflow: hidden;
+  background: url(../images/totop.png) 0 0 no-repeat;
+  position: fixed;
+  margin-right: -600px !important;
+  right: 50%;
+  bottom: 80px;
+  z-index: 999;

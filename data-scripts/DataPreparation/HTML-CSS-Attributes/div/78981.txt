@@ -1,0 +1,7 @@
+  font-size: 28px;
+  font-style: normal;
+  margin-bottom: 21px;
+  position: relative;
+  top: 1px;
+  line-height: 36px;
+  font-weight: normal;

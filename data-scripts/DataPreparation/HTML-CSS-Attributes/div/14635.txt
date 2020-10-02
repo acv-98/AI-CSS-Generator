@@ -1,0 +1,5 @@
+  	margin:0 auto;
+	padding:0px;
+	width:850px;
+	color:#FFFFFF;
+	text-decoration:none;

@@ -1,0 +1,14 @@
+border:1px solid #1d1d1d; background:#2b2b2b; color:#fff;border-top:1px solid #525252;
+*  CSS3                                                                                                    
+#header nav li.active a, #header nav li a:hover, #intro, a.button {
+    background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #2b2b2b), color-stop(100%, #131313)); 
+border:1px solid #1295d8; background:#19bee7; color:#fff;border-top:1px solid #32ffff;border:1px solid #99cc00; background:#c1e000; color:#fff;border-top:1px solid #ffff00;border:1px solid #ff9900; background:#ffc200; color:#fff;border-top:1px solid #ffff00;border:1px solid #9e1bc9; background:#c526df; color:#fff;border-top:1px solid #ff4cff;border:1px solid #d81240; background:#e81959; color:#fff;border-top:1px solid #ff32b4;margin-bottom:30px; text-align:center; background:url("img/double-border.png") repeat-x 0 50%;background:#ededed; padding:0 20px; display:inline-block;display:inline-block; height:45px; line-height:45px; text-decoration:none; cursor:pointer;display:inline-block; padding:0 40px; font-size:1.2em; font-weight:400; height:45px;background:#666; border-color:#666;border-color:#999;	-webkit-box-shadow:0 8px 6px -6px #000;
+	-moz-box-shadow:0 8px 6px -6px #000;
+	-ms-box-shadow:0 8px 6px -6px #000;
+	-o-box-shadow:0 8px 6px -6px #000;
+	box-shadow:0 4px 4px -4px #000;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	border-radius:50px;
+	background:#666;
+	border-color:#666;

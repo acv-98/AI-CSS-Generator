@@ -1,0 +1,14 @@
+  color: #a5d549;
+  border-color: #a5d549;
+  display: inline;
+  float: left;
+  width: 100%;
+  text-align: right;
+  font-size: 14px;
+  margin-right: 5px;
+  min-width: 30px;
+  padding: 5px;
+  text-decoration: none;
+  outline: none;
+    text-align: center;
+    margin-top: 20px;

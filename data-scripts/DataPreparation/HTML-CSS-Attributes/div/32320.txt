@@ -1,0 +1,8 @@
+width:100%; border-left:0px; border-right:0px; margin-left:0px; margin-right:0px;	background-color:white;
+	width:31.1%;
+	height:100%;
+	float:left;
+	margin:15px 1%;
+	border:1px solid #d5d5d5;
+	text-align:center;
+	position:relative;

@@ -1,0 +1,14 @@
+	background:url(../images/nivo/assets/crop-bottom-960.png) bottom left no-repeat transparent;
+	width:100%;
+	bottom:0;
+	min-height:13px;
+	z-index:430;
+	display:block;
+	position:absolute;
+background:url(../images/nivo/assets/crop-bottom-768.png) bottom left no-repeat transparent;	.nivo-caption {
+		left:220px;
+		bottom:5%;
+		height:105px;
+		width: 510px;
+		padding:12px;
+background:url(../images/nivo/assets/crop-bottom-480.png) bottom left no-repeat transparent;background:url(../images/nivo/assets/crop-bottom-360.png) bottom left no-repeat transparent;

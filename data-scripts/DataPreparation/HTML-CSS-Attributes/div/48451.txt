@@ -1,0 +1,5 @@
+    padding:0;
+    border:1.5px solid #ffc038;
+    color:#b3b3b3;
+    font-size:27px;
+    border-bottom:1.5px solid #ffd06c;

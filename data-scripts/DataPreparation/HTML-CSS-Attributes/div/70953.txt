@@ -1,0 +1,11 @@
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:18px;
+  font-size: 36px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-align:center;
+   text-align:center;

@@ -1,0 +1,1 @@
+ background:url(../images/fax.png) no-repeat left top; padding-left:30px;.footer h4{ color:#989898; font-size:18px;font-family: 'playfair_displayregular';  margin: 0;

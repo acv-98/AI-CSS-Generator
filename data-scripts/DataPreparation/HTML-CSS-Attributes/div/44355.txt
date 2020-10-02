@@ -1,0 +1,9 @@
+	background: url("images/scroll_button.png") no-repeat;
+	height: 33px;
+	left: -39px;
+	padding: 0 10px;
+	position: absolute;
+	top: -8px;
+	width: 33px;
+	opacity:0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=00)";

@@ -1,0 +1,2 @@
+	display:block;
+	color:#f00058;

@@ -1,0 +1,8 @@
+        margin:20px auto;
+    height: 1px;
+    width: 170px;
+    background: #eeeeee;
+    position: relative;
+    left:0;
+    bottom:0;
+    content:"";

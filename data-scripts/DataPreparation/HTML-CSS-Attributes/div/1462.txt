@@ -1,0 +1,10 @@
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Open Sans';
+    color: #777777;
+text-transform: uppercase;
+        text-align: center;
+    text-transform: uppercase;

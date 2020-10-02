@@ -1,0 +1,16 @@
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 55px;
+    text-transform: uppercase;
+   color: #f65aa7;
+   font-family: 'Open Sans';
+   font-size: 12px;
+   font-weight: 600;
+    color: #232323;
+    font-family: 'Roboto Slab', serif;
+    font-size: 28px;
+        padding: 20px 0!important;
+      
+        padding-left: 25px;
+        padding-right: 25px;
+    margin-top: 10px;

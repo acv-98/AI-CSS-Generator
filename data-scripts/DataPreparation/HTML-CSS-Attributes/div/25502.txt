@@ -1,0 +1,6 @@
+  overflow: hidden;
+  display: block;
+  height: 100%;
+  max-width: none;
+  min-width: 100%;
+  width: auto;

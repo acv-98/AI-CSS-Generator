@@ -1,0 +1,3 @@
+	font:bold 12px verdana, Arial, Helvetica, sans-serif;
+	color:#7f9D07;
+	text-transform:uppercase;

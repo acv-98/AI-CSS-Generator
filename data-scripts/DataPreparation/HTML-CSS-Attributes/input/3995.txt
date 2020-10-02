@@ -1,0 +1,5 @@
+	color:#fff;
+	padding:7px 10px;
+	border:0;
+	font-weight:bold;
+	background:#777;

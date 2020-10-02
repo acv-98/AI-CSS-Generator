@@ -1,0 +1,14 @@
+    background-color: rgba(41, 39, 34, 0.75);
+    width: 100%;
+    height: auto;
+.no-padding {
+    padding: 0 !important;
+    margin:0 !important;
+    overflow: hidden;
+.video .icon h3{
+    color:#fff;
+    margin-top:30px;
+    margin-bottom: 0px;
+.main_team_area{
+    background-size: cover;
+    position: relative;

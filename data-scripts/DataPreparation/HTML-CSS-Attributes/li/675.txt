@@ -1,0 +1,2 @@
+background: url(../img/icons/social/github.png) no-repeat;	background: url(../img/icons/social2/github.png) no-repeat 0 0;
+	background-color: #7292a2;

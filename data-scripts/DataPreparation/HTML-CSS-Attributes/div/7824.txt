@@ -1,0 +1,11 @@
+  position: relative;
+  background: #fff;
+  padding: 60px;
+  margin-top: 40px;
+  font-size: 16px;
+  font-style: italic;
+  border-radius: 5px;
+  display: inline-block;
+  left: -9px;
+  top: -8px;
+  right: -9px;

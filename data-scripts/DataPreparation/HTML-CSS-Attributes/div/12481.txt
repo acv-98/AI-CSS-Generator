@@ -1,0 +1,3 @@
+-webkit-animation-duration:1000ms;animation-duration:1000ms;-webkit-animation-fill-mode:both;animation-fill-mode:both
+  background: #e6e6e6;
+  border: 2px solid #118DF0;

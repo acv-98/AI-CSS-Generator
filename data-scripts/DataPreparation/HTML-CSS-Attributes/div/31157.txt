@@ -1,0 +1,13 @@
+	top:162px;
+	position:absolute;
+	z-index:1
+	display:none
+	bottom:47px;
+	left:432px
+	float:left;
+	padding-right:4px
+	width:16px;
+	height:16px;
+	text-indent:-9999px;
+	background:url(../images/buttons.png) right 0 no-repeat
+	background-position:left

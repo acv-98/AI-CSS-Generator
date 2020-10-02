@@ -1,0 +1,31 @@
+    background-color: rgba(43, 44, 48, 0.8);
+    position: absolute;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+	
+	opacity: 0;
+	filter: alpha(opacity=0);
+	-webkit-transition: all 600ms ease-out 0s;	
+	   -moz-transition: all 600ms ease-out 0s;
+		 -o-transition: all 600ms ease-out 0s;
+		    transition: all 600ms ease-out 0s;
+		  
+	-webkit-transform: rotateY(180deg) scale(0.5,0.5);
+	   -moz-transform: rotateY(180deg) scale(0.5,0.5);
+		-ms-transform: rotateY(180deg) scale(0.5,0.5);
+		 -o-transform: rotateY(180deg) scale(0.5,0.5);
+			transform: rotateY(180deg) scale(0.5,0.5);	
+    cursor: pointer;
+		    transform: rotateY(0deg) scale(1,1);
+    display: inline-block;
+    margin-right: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 35px;
+        top: 85px;
+        margin: 0 5px;

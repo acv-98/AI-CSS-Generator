@@ -1,0 +1,19 @@
+	display: -ms-flexbox;
+ background-color: rgba(255,255,255,0.9); .tm-nav {
+	-ms-flex-wrap: wrap;
+	    -webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 1.4rem;
+	padding: 0;
+	max-width: 100%;
+	float: left;
+	text-align: center;
+	list-style: none;
+		-ms-flex-wrap: nowrap;
+		    -webkit-flex-wrap: nowrap;
+		        flex-wrap: nowrap;
+		margin-top: 40px;
+		margin-bottom: 30px;
+ padding: 20px 40px;     	margin-bottom: 60px;

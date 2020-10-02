@@ -1,0 +1,6 @@
+	margin:0 auto;
+	width:920px;
+	padding:16px 20px;
+	color:#fff;
+	background:#8ebbfc url(../images/line.gif) repeat-x left bottom;
+	border-top:3px solid #bad4f4;

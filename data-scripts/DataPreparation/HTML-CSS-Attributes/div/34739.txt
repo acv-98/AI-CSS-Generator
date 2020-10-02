@@ -1,0 +1,8 @@
+    padding: 60px 0;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    font-weight: 300;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 45px;

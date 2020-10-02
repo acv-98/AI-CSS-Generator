@@ -1,0 +1,4 @@
+  -webkit-animation-name: fadeIn;
+          animation-name: fadeIn;
+  color: #f2545f;
+  font-size: 48px;

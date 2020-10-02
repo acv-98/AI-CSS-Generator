@@ -1,0 +1,7 @@
+ color:#c7ad21;
+.search{ 
+width:242px; 
+float:left;
+border:1px solid #363637;
+padding:9px 9px 11px 9px;
+margin-top:25px;

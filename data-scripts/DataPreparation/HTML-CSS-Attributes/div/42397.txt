@@ -1,0 +1,3 @@
+ padding-left: 50px; 	.tm-media-text-container-left { 
+		padding-left: 0; 
+		padding-right: 50px;

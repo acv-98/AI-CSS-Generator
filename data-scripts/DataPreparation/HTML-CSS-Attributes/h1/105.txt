@@ -1,0 +1,1 @@
+ background:url(../images/heading-bdr.png) repeat-x left top; display:inline-block;  padding: 28px 0 14px; font-size:44px; color:#515355; margin:0; background:url(../images/heading-bdr.png) repeat-x left top; display:inline-block;  padding: 28px 0 14px; font-size:44px; color:#515355; margin:0; padding-bottom:24px !important; float:left; padding-top:22px;width:100%;

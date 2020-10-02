@@ -1,0 +1,6 @@
+	margin-top: 0;
+	margin-bottom: 40px;
+	color: #fff;
+	
+  font-size: 14px;
+  color: #8a8d94;

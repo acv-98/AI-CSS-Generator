@@ -1,0 +1,1 @@
+float:rightpadding-top:38pxfont-size:21px;line-height:1.2em;float:left;margin-left:1pxdisplay:block;color:#fff;text-decoration:nonedisplay:blockdisplay:block;font-style:normal;font-weight:normal;padding:5px 29px 5px 29pxbackground-color:#af3300background:url(images/nav-act-left.gif) no-repeat left topbackground:url(images/nav-act-right.gif) no-repeat right top

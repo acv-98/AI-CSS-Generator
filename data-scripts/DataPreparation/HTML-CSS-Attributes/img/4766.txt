@@ -1,0 +1,4 @@
+	 	max-height: 250px;
+  max-height: 420px;
+  top: auto;
+  bottom: 28px;

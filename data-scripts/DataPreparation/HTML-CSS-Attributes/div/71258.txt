@@ -1,0 +1,5 @@
+ position:relative; z-index:1; color:#fff;.footer_item {
+    margin-top: 75px;
+    background: #1a1c27 none repeat scroll 0 0;
+    padding: 28px 0 18px;
+    color: #ffcb0f;

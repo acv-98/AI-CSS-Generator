@@ -1,0 +1,15 @@
+	margin-bottom:15px;
+	font:normal 12px "Trebuchet MS", Arial, Helvetica, sans-serif!important;
+	color:#8b7f6c;
+	display:block;
+	text-shadow:#fff 1px 1px 1px;
+	text-decoration:none;
+	background:#f5eee2;
+	padding-top:10px;
+	padding-bottom:10px;
+	height:12px;
+	line-height:18px;
+	list-style:square;
+	font-family:Vollkorn;
+	border:solid 1px #ac9f87;
+	white-space:pre!important;

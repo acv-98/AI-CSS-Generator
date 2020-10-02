@@ -1,0 +1,12 @@
+	margin: 20px 0px 20px 0px;
+	padding: 7px 20px 7px 20px;
+	background: #CEC3A0;
+	border-radius: 5px;
+	line-height: normal;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px #8A8B71;
+	font-family: 'Abel', sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;

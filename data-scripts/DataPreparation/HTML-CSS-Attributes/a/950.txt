@@ -1,0 +1,6 @@
+  border-width: 0;
+  border-bottom-width: 3px;
+  border-radius: 3px;
+  background: #BE1414;
+  border-color: #A00303;
+  margin-top: 10px;

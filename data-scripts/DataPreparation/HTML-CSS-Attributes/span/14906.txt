@@ -1,0 +1,10 @@
+  width: 20px;
+  height: 20px;
+  font-family: serif;
+  line-height: 1;
+  content: '\203a';
+    width: 30px;
+    height: 30px;
+    margin-top: -10px;
+    font-size: 30px;
+    margin-right: -10px;

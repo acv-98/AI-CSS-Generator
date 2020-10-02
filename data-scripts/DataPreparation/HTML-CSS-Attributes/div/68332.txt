@@ -1,0 +1,4 @@
+  text-align: left;
+  font-size: 48px;
+  line-height: 58px;
+  margin-top: 50px;

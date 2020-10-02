@@ -1,0 +1,6 @@
+background:none;background:url('images/shadow.png') center 10px no-repeat;position:absolute;bottom:0;width:100%;height:10px;left:0;background:url('images/shadow-slider.png') no-repeat top center;z-index:10;width:100%;height:10px;background:url('images/sections-shadow.png');position:absolute;z-index:1;left:-10px;padding-right:10px;top:0bottom:-10px;position:absolute;top:0;left:0;height:5px;width:100%;
+   
+width:100%;height:10px;background:url('images/sections-shadow.png') no-repeat top center;position:absolute;bottom:-10px;z-index:1;left:-10px;padding-right:10px;.cufon-delicious .home-sections .section .section-content h1, 
+.cufon-delicious .home-sections .section .section-content h2, 
+margin:0 auto;width:60px;height:8px;background:url('images/shadows-blog/60.png');background:none;opacity:0.34;filter:alpha(opacity:34);.home-sections .testimonials li.active img, .home-sections .testimonials li.active .shadow-thumb,
+opacity:1;filter:alpha(opacity:100);

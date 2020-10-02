@@ -1,0 +1,12 @@
+	background-color: #f3826f;
+	padding: 20px 30px;
+	font-size: 11px;
+	text-transform: uppercase;
+	color: #fff;
+	letter-spacing: 1px;
+	border: none;
+	width: auto;
+	height: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: 700;

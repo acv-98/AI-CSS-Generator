@@ -1,0 +1,17 @@
+	background-image: url(../img/blue/sprites.png);
+ background: url(../img/komodo-icons/posterous_32.png); 	width: 100%;
+	margin-bottom: 30px;
+	overflow: hidden;
+	display: block;
+	float: left;
+	height: 88px;
+	padding-left: 10px;
+	color: #ffffff;
+	font-size: 40px;
+	margin-top: 5px;
+	text-indent: 22px;
+	position: relative;
+	left: 10px;
+#posts .post .post-title-1{
+	line-height: 1.5em;
+	margin-left: 90px;

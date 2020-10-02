@@ -1,0 +1,2 @@
+font:10px/14px Tahoma, sans-serif; background:url(../images/bullet.gif) 0 4px no-repeat; padding-left:15px;color:#22454d; text-decoration:none;color:#22454d; text-decoration:underline;
+margin:0 0 0 108pxmargin:0 0 0 10px; float:left; width:100pxmargin:0 0 0 190px; 

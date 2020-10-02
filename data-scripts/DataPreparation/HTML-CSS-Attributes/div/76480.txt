@@ -1,0 +1,5 @@
+	margin:0 auto;
+	padding:32px 40px 24px;
+	width:890px;
+	background:url(images/footer_bg.gif) repeat-x top;
+	color:#fff;

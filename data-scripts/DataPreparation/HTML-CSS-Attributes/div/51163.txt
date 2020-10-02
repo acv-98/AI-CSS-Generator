@@ -1,0 +1,12 @@
+    overflow: hidden;
+    margin-top: 43px;
+    margin-bottom: 10px;
+    padding-top: 1px;
+    border: 1px solid #d4cece;
+    border-right-width: 2px;
+        overflow: visible;
+         margin-top: 40px !important;
+        width: 100% !important;
+        float: none !important;
+        margin-right: 0 !important;
+        margin-bottom: 20px !important;

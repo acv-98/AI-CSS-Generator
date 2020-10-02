@@ -1,0 +1,5 @@
+.device .main_device_area .main_device_content .single_device{
+    position: relative;
+    right: 80px;
+    bottom: -70px;
+    z-index: 99;

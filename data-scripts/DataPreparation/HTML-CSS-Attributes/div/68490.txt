@@ -1,0 +1,10 @@
+		text-align: center;
+		float: none;
+	display: inline-block;
+	padding: 5px 20px;
+	font-size: 18px;
+	border: 1px solid #ffffff;
+	color: #ffffff;
+	background-color: #AD1457;
+	line-height: 25px;
+	font-weight: 500;

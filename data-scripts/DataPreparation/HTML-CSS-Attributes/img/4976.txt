@@ -1,0 +1,6 @@
+    height: 75px;
+    left: 72px;
+    position: absolute;
+    top: 125px;
+    transform: rotate(180deg);
+    width: 75px;

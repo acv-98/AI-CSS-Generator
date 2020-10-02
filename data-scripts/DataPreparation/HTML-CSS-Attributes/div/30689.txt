@@ -1,0 +1,7 @@
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  line-height: 74px;
+  background-color: transparent;
+  border-radius: 50%;

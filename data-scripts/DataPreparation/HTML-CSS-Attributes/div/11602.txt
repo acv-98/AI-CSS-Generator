@@ -1,0 +1,10 @@
+	background:#e1e1e1;
+	position:relative;
+	padding:24px 16px 25px 24px;
+	width:190px;
+	color:#b5b5b5;
+	height:22px;
+	bottom:-22px;
+	left:94px;
+	margin-left:20px;
+	text-align:right;

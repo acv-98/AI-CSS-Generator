@@ -1,0 +1,9 @@
+	clear: both;
+	display: block;
+	float: right;
+	padding: 0px 0 2px 12px;
+	background: url(images/read_more.png) center left no-repeat;
+	color: #2670c3;
+	font-weight: normal;
+	font-size: 12px;
+	text-decoration: none;

@@ -1,0 +1,16 @@
+	float: left;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+	display: block;
+	background-color: #fff;
+	width: 100%;
+	position: relative;
+	opacity: 0.9;
+	padding: 6px;
+	vertical-align: top;
+	box-sizing: border-box;
+ width: 100%;	 width: 33%; box-shadow: none; width: 33%; box-shadow: none;	margin-bottom: 30px;  margin-bottom: 0; 	width: 100%; 	
+	.cards { 
+		-webkit-box-pack: center; 
+		-webkit-justify-content: center; 
+		    -ms-flex-pack: center; 
+		        justify-content: center;

@@ -1,0 +1,2 @@
+  color: #dab074;
+  margin-right: 5px;

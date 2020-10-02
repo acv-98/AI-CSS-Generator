@@ -1,0 +1,1 @@
+clear:both; padding:20px 0 0 0;float:left;width:270px;color:#30c3ff;

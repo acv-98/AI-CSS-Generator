@@ -1,0 +1,5 @@
+	float:left;
+	width:260px;
+	height:auto;
+	margin:0 auto;
+	padding-top:20px;

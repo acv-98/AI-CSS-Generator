@@ -1,0 +1,16 @@
+    font-size: 38px;
+  background: url(../images/video.jpg) no-repeat center center;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  width: 100%;
+	color:#fff;
+	margin-top: 60px;
+	border: 2px solid white;
+    padding: 15px 40px;
+    color: #fff;
+    border-radius: 5px;
+	font-size:40px;
+	font-family: 'latolight';
+	

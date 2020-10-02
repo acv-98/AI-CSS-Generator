@@ -1,0 +1,7 @@
+	border-color: #ddd;
+	color: #333333;
+	background-color: #f5f5f5;
+	border-top-color: #ddd;
+	border-bottom-color: #ddd;
+	padding: 0;
+	border-radius: 0;

@@ -1,0 +1,12 @@
+		width: 225px;
+		background-size: contain;
+     display: block;
+     height: 600px;
+     position: relative;
+     top: 0px;
+     left: 0px;
+     width: 300px;
+     margin: auto;
+     overflow: hidden
+    background: url(images/phonebg_1.png) center top no-repeat;
+     background-position-x: 0px;

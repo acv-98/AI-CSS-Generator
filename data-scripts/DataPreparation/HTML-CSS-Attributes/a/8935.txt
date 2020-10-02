@@ -1,0 +1,1 @@
+right:0right:0; padding:20px 70px 20px 140px; -webkit-transform:translateY(-50%) translateX(100%) scale(0.75); transform:translateY(-50%) translateX(100%) scale(0.75)left:20pxpadding:20px 40px 20px 140px

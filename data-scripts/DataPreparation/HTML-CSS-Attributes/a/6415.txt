@@ -1,0 +1,6 @@
+	background:url(images/rss.gif) no-repeat 0 0;
+	width:31px;
+	height:48px;
+	position:absolute;
+	right:-45px;
+	top:27px;

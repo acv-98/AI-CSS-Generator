@@ -1,0 +1,4 @@
+	background-color: #051b34;
+	height: 50%;
+	position: absolute;
+	width: 100%;

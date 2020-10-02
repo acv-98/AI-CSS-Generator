@@ -1,0 +1,16 @@
+  padding: 8px 15px;
+  margin-bottom: 20px;
+  list-style: none;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  display: inline-block;
+  color: #ccc;
+  content: "/\00a0";
+	padding:30px;
+	
+	color:#6D9C91;
+	text-transform:uppercase;
+	text-align:center;
+	font-size:20px;
+	margin-top:30px;
+	margin-bottom:30px;

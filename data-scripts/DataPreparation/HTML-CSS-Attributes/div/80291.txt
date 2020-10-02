@@ -1,0 +1,2 @@
+	background:url(../images/tail-bg-nav.png);
+	padding:6px 0 11px

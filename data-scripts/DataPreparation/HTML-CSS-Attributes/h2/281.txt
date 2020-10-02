@@ -1,0 +1,1 @@
+	background: url(images/about.png) top left no-repeat;

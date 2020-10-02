@@ -1,0 +1,7 @@
+  margin-top: 40px;
+  padding-right: 22px;
+  color: #f48e5c;
+  font-size: 30px;
+  margin-bottom: 0;
+  font-weight: 300;
+    margin-top: 10px;

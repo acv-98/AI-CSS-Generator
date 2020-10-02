@@ -1,0 +1,16 @@
+    color: #5FCF80;
+    background-color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+	padding: 0px;
+	margin: 10px 5px;
+    outline: none;
+    font-family: 'Dosis', sans-serif !important;
+    text-transform: uppercase;
+    padding: 0px;
+    height: inherit;
+    margin: 20px 0px;
+	font-weight: 100 !important;
+    margin-bottom: 0px;
+        margin-left: 10px;
+        text-align: center;

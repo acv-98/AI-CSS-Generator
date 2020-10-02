@@ -1,0 +1,4 @@
+	border-top: 1px solid rgba(255, 255, 255, 0.0431373);
+	margin: 20px auto 40px auto;
+	float: none;
+ border: 0px; margin-top: 0px; 

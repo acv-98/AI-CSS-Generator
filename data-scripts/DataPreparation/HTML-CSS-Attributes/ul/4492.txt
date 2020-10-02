@@ -1,0 +1,11 @@
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #B3A9A9;
+    margin-left: 60px;
+    margin-right: 60px;
+    color: #777777;
+    height: 350px;
+    overflow-y: scroll;

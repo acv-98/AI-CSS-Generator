@@ -1,0 +1,5 @@
+    margin-bottom: 20px;
+    max-width: 62.5em;
+    padding-top: 15px;
+    border-bottom: 1px solid;
+    padding-bottom: 20px;

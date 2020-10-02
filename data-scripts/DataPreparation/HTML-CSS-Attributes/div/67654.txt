@@ -1,0 +1,3 @@
+	width:552px;
+	float:left;
+	line-height:1.54em;

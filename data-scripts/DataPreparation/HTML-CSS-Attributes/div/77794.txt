@@ -1,0 +1,1 @@
+ float: left; width: 260px; margin-right: 75px;  border: 1px solid #ccc; padding: 3px; margin-bottom: 10px; 

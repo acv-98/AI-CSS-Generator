@@ -1,0 +1,9 @@
+	display:inline;
+	float:left;
+	margin-left:10px;
+	margin-right:10px
+	width:460px
+	text-indent: -10000px;
+	height: 36px;
+	background: url(../images/logo_menu_bg.png) no-repeat;
+	background-position: -264px -11px;

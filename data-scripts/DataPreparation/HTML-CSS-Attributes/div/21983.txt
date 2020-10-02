@@ -1,0 +1,9 @@
+	margin-top:0;
+	font-size:34px;
+	line-height:1.4em;
+	margin-bottom:20px;
+	font-weight:300;
+	color:rgba(0,0,0,.4);
+	padding-top:50px;
+		padding-bottom:50px;
+		padding-top:0;

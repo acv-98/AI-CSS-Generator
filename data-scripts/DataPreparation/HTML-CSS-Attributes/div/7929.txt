@@ -1,0 +1,2 @@
+ position: relative; width: 700px; margin-top: 27px;  position: absolute; bottom: 0; right: 0; background: #fff; padding: 5px 30px 5px 20px; font-size: 30px; margin-bottom:0;  border: none; padding: 0; 
+ border: 1px solid #C9CACB; border-width: 1px 0; float: left; padding: 10px 0; margin: 0 20px 10px 0; width: 180px  line-height: 1em; font-size: 11px; text-transform: uppercase; margin-left: 0  font-size: 18px; padding-right: 5px; text-transform: none  margin-left: 200px; 

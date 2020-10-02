@@ -1,0 +1,8 @@
+  padding-left: 61px !important;
+  line-height: 45px;
+  width: 45px;
+  font-size: 1.8em;
+  height: 45px;
+  padding-right: 0;
+  border-width: 5px 5px 0;
+  border-bottom-width: 0;

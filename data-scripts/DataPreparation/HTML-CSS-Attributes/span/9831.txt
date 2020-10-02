@@ -1,0 +1,6 @@
+	bottom: 0px;
+	position: absolute;
+	right: 15px;
+	font-weight:bold;
+	color:#2387D9;
+	text-decoration:underline;

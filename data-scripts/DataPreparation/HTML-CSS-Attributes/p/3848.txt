@@ -1,0 +1,5 @@
+font-weight: 100;
+font-size: 1.5em;
+line-height: 1.5em;
+color: #878787;
+margin-bottom:80px;

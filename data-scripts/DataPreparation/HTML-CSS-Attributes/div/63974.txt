@@ -1,0 +1,5 @@
+  width: 940px;
+  *width: 99.94680851063829%;
+  float: none;
+  margin-left: 0;
+width:940px;width:100%;*width:99.94680851063829%;width:926px;float:none;width:924px;margin-left:0;

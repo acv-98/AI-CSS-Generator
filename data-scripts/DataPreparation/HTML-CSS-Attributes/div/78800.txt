@@ -1,0 +1,11 @@
+    display: block;
+    margin-left: auto;
+  padding: 95px 0px 70px 0px;
+    width: 81px;
+    height: 81px;
+    position: absolute;
+    left: -220px;
+    top: -150px;
+    font-size: 270px;
+    z-index: -1;
+font-family:"Playfair Display SC",serif;color:#333

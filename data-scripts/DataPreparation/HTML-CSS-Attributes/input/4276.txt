@@ -1,0 +1,6 @@
+	background: url(../images/sprites-buttons.gif) no-repeat 0 -218px;
+	border: 0;
+	float: left;
+	height: 29px;
+	margin-left: 12px;
+	width: 100px;

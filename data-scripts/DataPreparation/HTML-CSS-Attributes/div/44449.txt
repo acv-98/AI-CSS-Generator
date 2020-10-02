@@ -1,0 +1,10 @@
+	margin:0 auto;
+	padding:25px 0;
+	width:920px;
+	color:#fff;
+	font:normal 12px Arial, Helvetica, sans-serif;
+	border-top:1px solid #000;
+	background:url(images/footer_bg.gif);
+	line-height:normal;
+	text-decoration:underline;
+	float:left;

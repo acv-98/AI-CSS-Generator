@@ -1,0 +1,6 @@
+	display: block;
+	float: left;
+	color: #fff;
+	height: 55px;
+	line-height: 55px;
+	margin: 20px 0 0 15px;

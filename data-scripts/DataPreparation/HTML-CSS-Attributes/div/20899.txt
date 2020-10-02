@@ -1,0 +1,4 @@
+	width: 300px;
+	padding: 10px 0px 0px 0px;
+	float: left;
+	font-size: 12px;

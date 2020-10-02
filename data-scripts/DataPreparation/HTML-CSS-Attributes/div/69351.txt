@@ -1,0 +1,10 @@
+	font-size: 13px;
+	padding-top: 10px;
+	background-color: transparent;
+	margin: 0px;
+	border: none;
+	margin-bottom: 15px;
+	font-weight: 400;
+	color: #353334;
+	border-bottom: 2px solid transparent;
+	border-radius: 0px;

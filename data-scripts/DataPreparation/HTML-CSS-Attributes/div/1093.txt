@@ -1,0 +1,11 @@
+        font-size: 1.1875rem;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin-right: 2px;
+.single_top_widget_right_socail .socail_area a{
+    transition: .5s;
+    color:#fff;
+    background: #2E3192;
+    text-align: center;
+    border-radius: 50%;

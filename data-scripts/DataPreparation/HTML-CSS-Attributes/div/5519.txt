@@ -1,0 +1,11 @@
+  font-size: 160px;
+  font-weight: bold;
+  color: #b3b3b3;
+  padding: 0 0 20px;
+  background: none repeat scroll 0 0 #dedede;
+  border: 1px solid #e6e6e6;
+  border-radius: 5px;
+  box-shadow: 0 0 3px #EEEEEE;
+  width: 360px;
+  margin: 0 auto 30px;
+  height: 33px;

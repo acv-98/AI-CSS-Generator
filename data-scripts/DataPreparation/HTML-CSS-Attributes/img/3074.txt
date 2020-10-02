@@ -1,0 +1,1 @@
+float:right; border:4px solid #fff;	margin:0px 0px 10px 20px;

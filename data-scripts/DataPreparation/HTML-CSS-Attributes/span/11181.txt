@@ -1,0 +1,11 @@
+  color: #ffffff;
+  background-color: #a264e7;
+  border-color: #62309a;
+  background-image: none;
+  text-shadow: 0 -1px 0 gba(0, 0, 0, 0.2);
+  border-bottom-color: rgba(0, 0, 0, 0.4);
+  border-top-color: rgba(0, 0, 0, 0.4);
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+margin:0 auto  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5b73a3', endColorstr='#ff374561', GradientType=0);
+  *background-color: #374561;

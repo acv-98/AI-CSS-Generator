@@ -1,0 +1,5 @@
+		position: fixed; 
+		height: 100%;
+ width: 30%; 	.tm-right-column {
+		float: right;
+		width: 70%;

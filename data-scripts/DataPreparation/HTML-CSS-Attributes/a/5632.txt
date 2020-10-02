@@ -1,0 +1,12 @@
+  width: 100%;
+  float: left;
+  margin-bottom: 1px;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  display: -webkit-box;
+  padding: 6px 20px;
+  background: #F78536;
+  font-size: 18px;
+  color: #fff;
+  font-weight: 300;

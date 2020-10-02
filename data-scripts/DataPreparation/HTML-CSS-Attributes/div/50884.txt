@@ -1,0 +1,6 @@
+	width:960px;
+	margin:0 auto;
+	background:url('images/header-shell-bg.gif') no-repeat center 0;
+	position:relative;
+	height:87px;
+	padding-left:60px;

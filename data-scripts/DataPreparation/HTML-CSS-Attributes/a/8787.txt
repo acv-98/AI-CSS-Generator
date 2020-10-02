@@ -1,0 +1,1 @@
+ padding:2px 4px; color:#fff; background-color:#c69c6d; text-decoration:none;

@@ -1,0 +1,12 @@
+	position:relative;
+	padding-top: 40px;
+	text-align: right;
+	cursor: pointer;
+	margin: 0;
+	text-transform: uppercase;
+	margin-left: 30px;
+	display: inline-block;
+	width: 13px;
+	color: #fd9220;
+	font: bold 14px/20px 'Open Sans Condensed', sans-serif;
+	margin-top: 33px;

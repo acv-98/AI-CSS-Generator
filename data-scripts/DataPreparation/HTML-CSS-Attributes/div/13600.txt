@@ -1,0 +1,12 @@
+    position: absolute;
+    padding: 4px;
+    width: 100%;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    transition: opacity .5s ease-in-out;
+    -moz-transition: opacity .5s ease-in-out;
+    -webkit-transition: opacity .5s ease-in-out;
+    margin-left: -3px;
+    margin-top: -3px;
+ padding: 0px;  padding: 0px; 

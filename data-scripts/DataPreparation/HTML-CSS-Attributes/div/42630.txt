@@ -1,0 +1,12 @@
+	background-image: url(../images/infobubble.png);
+	height: 21px;
+	width: 281px;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 20px;
+	margin-top: 12px;
+	float: left;

@@ -1,0 +1,9 @@
+		background:url(../images/design/frb-960.png) center top no-repeat transparent;
+		width:559px;
+		height:186px;
+		left:230px;
+		top:20px;
+		position:absolute;
+		margin:auto;
+display:none;width:480px;width:320px;		.one-third.column .border img {
+			max-width:288px;

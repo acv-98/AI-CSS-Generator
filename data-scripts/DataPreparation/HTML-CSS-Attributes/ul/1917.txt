@@ -1,0 +1,13 @@
+	padding:22px 0 0 41px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		display:inline;
+			display:block;
+			font-size:18px;
+			float:left;
+			padding:5px 62px 5px 62px;
+			color:#fff;
+			text-decoration:none;
+			text-transform:uppercase;
+			background:url(images/divider.gif) no-repeat left top;
+			padding-left:0;
+			padding-right:0;

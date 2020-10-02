@@ -1,0 +1,16 @@
+  padding: 25px 0px;
+  display: block;
+  margin-bottom: 40%;
+  background-color: #ffa500;
+  color: #fff;
+  position: relative;
+  margin-top: -70%;
+	background-color: #fafafa;
+	padding-bottom: 40px;
+  text-align: center;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 26px;
+		font-size: 12px;
+		padding: 1px 0px;
+		line-height: 15px;

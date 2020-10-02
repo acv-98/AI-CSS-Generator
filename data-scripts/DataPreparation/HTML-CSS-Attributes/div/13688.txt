@@ -1,0 +1,14 @@
+ border-color: #dfdcdc;  font-size: 16px; font-family: 'Open Sans', sans-serif; color: #3E3E3E; font-style: normal; font-weight: 400;  font-size: 12px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;     border-bottom: 1px solid #CFCFCF;
+    margin-bottom: 10px;
+    padding-bottom: 16px;
+    color: #3E3E3E;
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+    vertical-align: middle;
+    border-left: 1px solid #CFCFCF;
+    margin-top: 0;
+ margin-left: 0px; .section.rounded .services-row h4, .section.rounded .services-row p,
+.section.square .services-row h4, .section.square .services-row p {
+    text-align: center;
+ font-weight: 400; font-size: 16px;  vertical-align: baseline; line-height: 20px; 

@@ -1,0 +1,2 @@
+	background:url(../images/button2.png) left top no-repeat
+	background-position:left bottom

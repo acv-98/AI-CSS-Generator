@@ -1,0 +1,14 @@
+	color:#647884;
+	font-style:italic;
+	font-weight:bold;
+	font-size:11px;
+	float:left;
+	margin-right:10px;
+	margin-top:2px;
+	border-bottom:5px solid #bccfdb;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	padding-left:3px;

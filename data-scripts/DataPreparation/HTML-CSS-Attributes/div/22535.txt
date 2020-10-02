@@ -1,0 +1,9 @@
+.blog .main_blog_content .single_blog{
+    margin-left:10px;
+    margin-bottom:30px;
+    position: relative;
+    width:100%;
+    height: 100%;
+.blog .main_blog_content .single_blog .single_blog_content .single_blog_bottom_content a{
+    margin-right:15px;
+    color:#999999;

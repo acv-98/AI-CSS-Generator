@@ -1,0 +1,14 @@
+  margin-top: 90px;
+  float: right;
+  position: relative;
+  width: 280px;
+  height: 280px;
+  border-radius: 150px;
+  background-image: url("../img/hero_photo.jpg");
+  background-size: cover;
+    margin-top: 110px;
+    width: 220px;
+    height: 220px;
+    float: left;
+    display: block;
+    margin-right: 60px;

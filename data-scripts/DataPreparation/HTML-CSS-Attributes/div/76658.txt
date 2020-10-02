@@ -1,0 +1,16 @@
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  color: #555;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin-top: 30px;
+  display: inline-block;
+  float: none;
+    font-size: 20px;
+    width: auto;

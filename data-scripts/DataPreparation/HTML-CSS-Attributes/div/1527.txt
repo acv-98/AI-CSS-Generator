@@ -1,0 +1,6 @@
+	text-align:center;
+	color: #858585;
+	font-size: 0.96em;
+	line-height: 1.5em;
+	margin:0 0.2em;
+	text-decoration:none;

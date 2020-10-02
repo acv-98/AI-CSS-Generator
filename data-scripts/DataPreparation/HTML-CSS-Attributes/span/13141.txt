@@ -1,0 +1,4 @@
+	content: "\e66a";
+  display: block;
+  width: 22px;
+  height: 2px;

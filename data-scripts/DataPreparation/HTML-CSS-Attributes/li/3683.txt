@@ -1,0 +1,2 @@
+  color: #D2691E;
+  background-color: transparent;

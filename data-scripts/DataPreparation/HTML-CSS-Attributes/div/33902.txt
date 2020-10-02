@@ -1,0 +1,9 @@
+color: #454749;
+position: absolute;
+right: 5px;
+font-family: serif;
+font-size: 36px;
+font-weight: normal;
+font-style: normal;
+width: 300px;
+margin-top: -20px;

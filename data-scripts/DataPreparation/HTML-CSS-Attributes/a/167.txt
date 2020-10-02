@@ -1,0 +1,7 @@
+	display:inline-block;
+	width:7px;
+	height:7px;
+	text-indent:-5000px;
+	background:url(../images/marker.gif) right 0px no-repeat;
+	cursor:pointer;
+	margin-top:7px

@@ -1,0 +1,13 @@
+	position:relative;
+	height:130px !important;
+	top:45px;
+	left:20px;
+	margin:0;
+	display:block;
+	right:20px;
+	font-size:120%;
+	float:left;
+	padding:55px 10px 10px 10px;
+	text-decoration:none;
+	background:url("../design/transparent.png");
+	color:#FFF;

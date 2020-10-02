@@ -1,0 +1,5 @@
+	width:950px;float:left;
+	padding:35px 0px 40px 0px;
+	text-align:justify;
+	float:left;
+	margin-left:28px;

@@ -1,0 +1,4 @@
+   display: inline-block;
+ display: inline-block; .post .post-thumb {
+   margin: 6px 0 18px 0;
+   width: 100%;

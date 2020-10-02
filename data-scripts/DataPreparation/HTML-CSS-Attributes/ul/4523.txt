@@ -1,0 +1,8 @@
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    color: #9f9f9f;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 20px;

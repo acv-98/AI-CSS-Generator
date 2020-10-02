@@ -1,0 +1,9 @@
+		background: #2D343E;
+		top: 25px;
+		display: block;
+		position: absolute;
+		right: 20px;
+		color: #FFF;
+		border-bottom-color: #2D343E;
+        top: 25px;
+    display: none;

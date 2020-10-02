@@ -1,0 +1,1 @@
+ background: url(../images/link.gif) no-repeat center left; padding-left: 13px; font-size: 10px; 

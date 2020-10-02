@@ -1,0 +1,4 @@
+	background-position:left bottom
+	color:#6e3bb9;
+	padding:15px 0 27px 0
+	display:block

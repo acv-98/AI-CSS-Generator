@@ -1,0 +1,12 @@
+	margin-bottom:20px;
+	overflow:hidden;
+	float:left;
+	height:auto;
+	padding-bottom:0;
+	width:214px;
+	margin-left:0;
+ *margin-bottom:20px;
+	background:url(../images/frame-accesories-image.jpg) no-repeat top left;
+	margin-right:15px;
+	display:block;
+	border:1px solid #FFFFFF;

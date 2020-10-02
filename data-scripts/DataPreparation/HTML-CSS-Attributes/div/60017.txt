@@ -1,0 +1,2 @@
+top:expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+'px'); 
+width:100%;height:110px;position:fixed;background:url('../images/bg/top-bg.png') top center;top:0px;left:0px;z-index:1;

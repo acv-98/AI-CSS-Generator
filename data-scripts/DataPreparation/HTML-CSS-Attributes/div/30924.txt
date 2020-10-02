@@ -1,0 +1,21 @@
+	font-size:20px;
+	line-height:1.2em;
+	color:#fff;
+	padding:43px 0 0 45px;
+	letter-spacing:-1px;
+	float:left;
+	width:340px;
+	position:relative
+	display:block;
+	margin-top:-4px
+	padding-left:5px;
+	padding-bottom:0px
+	margin-bottom:-10px
+	top:295px;
+	left:49px;
+	background:url(../images/button_1.png) 0 0 no-repeat;
+	height:56px;
+	text-align:center;
+	text-transform:uppercase;
+	text-decoration:none
+	overflow:hidden

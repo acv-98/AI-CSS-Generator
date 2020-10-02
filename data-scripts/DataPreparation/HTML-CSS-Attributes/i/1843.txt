@@ -1,0 +1,11 @@
+    font-size: 18px;
+    width: 18px;
+    line-height: 18px;
+    text-align: center;
+    display: inline-block;
+    background: #2dcc70;
+    padding: 10px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    color: #fff

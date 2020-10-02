@@ -1,0 +1,1 @@
+position:absolute;width:960px;width:768px;width:440px;width:100%;position:relative;

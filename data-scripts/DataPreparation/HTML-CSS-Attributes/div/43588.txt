@@ -1,0 +1,5 @@
+ width: 36%; 
+float:none; width:auto; margin-top:20px;  width:auto !important; float:none;  width: 100%; 	float: right;
+	width: 39%;
+	line-height: 2em;
+	margin-top: 0;

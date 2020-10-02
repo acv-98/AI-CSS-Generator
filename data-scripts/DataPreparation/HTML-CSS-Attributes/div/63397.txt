@@ -1,0 +1,25 @@
+  width: 150px;
+  height: 150px;
+  float: left;
+  max-height: 95px;
+  line-height: 65px;
+  display: inline-block;
+  padding: 15px 0;
+  text-decoration: none;
+  max-width: 100%;
+  vertical-align: middle;
+  transition-duration: 400ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+    display: none;
+    transition-duration: 400ms;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+position:relative;font-family:Hind,sans-serif.mfp-bg {
+  top: 0;
+  left: 0;
+  z-index: 1042;
+  overflow: hidden;
+  position: fixed;
+  background: #0b0b0b;
+  opacity: 0.8;

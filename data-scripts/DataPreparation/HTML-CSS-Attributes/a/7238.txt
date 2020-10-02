@@ -1,0 +1,3 @@
+	color:#fff;
+	background-image:url(images/navigation-active.gif);
+	text-decoration:none;

@@ -1,0 +1,4 @@
+	background:url(../images/navigation.gif) no-repeat;
+	position: relative;
+	z-index: 9;
+	color:#4e311f;

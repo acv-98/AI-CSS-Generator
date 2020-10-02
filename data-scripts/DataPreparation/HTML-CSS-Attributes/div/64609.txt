@@ -1,0 +1,9 @@
+	float:right;
+	padding:11px 0 3px 0;
+	position:absolute;
+	margin-left: -980px;
+	margin-top: 132px;
+	width:22px;
+	height:22px;
+	margin-right:8px;
+	background:url("../images/portfolio_prev.png") no-repeat top;

@@ -1,0 +1,2 @@
+	border-bottom:#dddddd 1px solid;
+	padding-bottom:15px;

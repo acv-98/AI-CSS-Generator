@@ -1,0 +1,16 @@
+	margin:0 auto;
+	position:relative;
+	width:1000px;
+	padding:14px 0 19px 0;
+	font-size:.875em;
+	line-height:normal;
+	white-space:nowrap;
+	text-indent:inherit;
+	color:#fff;
+	font-weight:normal;
+	border:none;
+	text-decoration:underline;
+	background-color:transparent;
+	float:left;
+	margin-left:55px;
+	margin-right:55px;

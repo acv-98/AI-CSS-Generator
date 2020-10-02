@@ -1,0 +1,14 @@
+    float: none;
+    margin-left: 0;
+  padding-right: 15px;
+  padding-left: 0;
+  border-right: 5px solid #cbcbcb;
+  border-left: 0;
+  text-align: right;
+  content: '';
+  right: 0;
+  left: auto;
+  margin-right: 0;
+  -webkit-border-radius: 6px 0 6px 6px;
+     -moz-border-radius: 6px 0 6px 6px;
+          border-radius: 6px 0 6px 6px;

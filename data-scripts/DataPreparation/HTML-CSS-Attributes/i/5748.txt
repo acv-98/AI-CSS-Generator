@@ -1,0 +1,3 @@
+  content: "\f095";
+    color: #2bbcf7;
+    margin-left: 4px;

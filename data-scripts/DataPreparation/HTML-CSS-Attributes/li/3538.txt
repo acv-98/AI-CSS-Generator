@@ -1,0 +1,4 @@
+	color: white;
+	background-color:#646464;	
+	border-radius:4px; 
+	padding: 3px 20px;

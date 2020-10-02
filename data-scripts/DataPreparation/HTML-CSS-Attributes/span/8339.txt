@@ -1,0 +1,2 @@
+    color: #ff6260;
+	min-width: 0;

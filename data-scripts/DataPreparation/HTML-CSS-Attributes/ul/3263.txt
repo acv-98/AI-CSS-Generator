@@ -1,0 +1,9 @@
+	padding:19px 0 19px 19px;
+	overflow:hidden;
+	width:210px;
+	float:left;
+	padding-right:12px;
+	padding-bottom:7px;
+	font-weight:bold;
+	color:#318ea2;
+	background:url(../images/marker_1.gif) no-repeat;

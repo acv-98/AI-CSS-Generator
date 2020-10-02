@@ -1,0 +1,11 @@
+	position: relative;
+	height: 40px;
+	top: -40px;
+	padding: 10px 25px;
+	background-color: rgba(0,0,0,0.5);
+	color: #fff;
+	text-align: left;
+	margin:0px;
+	font-size: 15px;
+	font-weight: 300;
+	line-height: 20px;

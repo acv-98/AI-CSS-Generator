@@ -1,0 +1,11 @@
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    padding: 0;
+    position: relative;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 99;

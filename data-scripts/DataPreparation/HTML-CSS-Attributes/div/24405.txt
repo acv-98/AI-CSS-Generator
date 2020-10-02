@@ -1,0 +1,16 @@
+    overflow: auto;
+    white-space: normal!important;
+  min-height: .01%;
+  overflow-x: auto;
+    width: 100%;
+    margin-bottom: 15px;
+    overflow-y: hidden;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    border: 1px solid #ddd;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;

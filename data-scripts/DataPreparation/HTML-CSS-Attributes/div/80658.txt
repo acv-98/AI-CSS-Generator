@@ -1,0 +1,13 @@
+width:100%;margin:7px 0 45px;background:url(../images/design/drops/buoy-trans.png);background:url(../images/design/drops/cart-trans.png);background:url(../images/design/drops/client-trans.png);background:url(../images/design/drops/gear-trans.png);background:url(../images/design/drops/globe-trans.png);background:url(../images/design/drops/iphone-trans.png);background:url(../images/design/drops/lab-trans.png);background:url(../images/design/drops/pushpin-trans.png);background:url(../images/design/drops/tags-trans.png);background:url(../images/design/drops/tools-trans.png);background:url(../images/design/drops/trophy-trans.png);background:url(../images/design/drops/truck-trans.png);background:url(../images/design/drops/tv-trans.png);background:url(../images/design/drops/umbrella-trans.png);background:url(../images/design/drops/virus-trans.png);	.block-icons .icon .symbol {
+		width:39px;
+		height:39px;
+		float:left;
+		margin-right:15px;
+		background-color:#f4f3f3;
+		background-repeat:no-repeat;	
+		transition: all 0.3s ease 0s;		
+		font-size:15px;
+		font-weight:600;
+		line-height:27px;
+		font-family:"Open Sans";
+margin:0;padding:0 0 0 54px;

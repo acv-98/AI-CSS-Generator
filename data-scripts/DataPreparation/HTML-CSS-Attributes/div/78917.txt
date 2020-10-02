@@ -1,0 +1,5 @@
+   padding-left: 70px;
+   margin-bottom: 1.5em;
+   background: url('../images/quote.png') no-repeat;
+   min-height: 8em;
+      padding-right: 70px;

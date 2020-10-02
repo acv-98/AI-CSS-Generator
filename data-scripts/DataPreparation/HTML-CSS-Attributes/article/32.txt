@@ -1,0 +1,1 @@
+  background: url(../img/icon-format-quote.png) no-repeat 0px 0px;

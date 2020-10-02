@@ -1,0 +1,13 @@
+	text-align: center;	
+	margin-bottom: 12px;
+	font-size: 60px;
+	color: #0F3C17; 
+   font: 30px/36px 'montserrat-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+   padding: 0 15%;
+	padding: 0 3%;
+ font-size: 55px; 	#about .section-header h1,
+ font-size: 50px; 	#call-to-action h2 {
+		font: 24px/30px 'montserrat-bold', sans-serif;
+		padding: 0;

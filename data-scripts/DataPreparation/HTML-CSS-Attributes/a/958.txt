@@ -1,0 +1,8 @@
+	display:block;
+	width:84px;
+	height:37px;
+	line-height:37px;
+	background:url(../images/button-bg.png) no-repeat;
+	color:#fff;
+	text-decoration:none;
+	padding-left:50px;

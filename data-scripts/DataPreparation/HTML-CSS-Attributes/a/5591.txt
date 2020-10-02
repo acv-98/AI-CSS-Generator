@@ -1,0 +1,2 @@
+	background: url("images/post_meta.png") no-repeat scroll 0 -159px transparent;
+	padding: 0 0 0 22px;

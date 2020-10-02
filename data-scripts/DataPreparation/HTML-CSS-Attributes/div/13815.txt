@@ -1,0 +1,16 @@
+    float: left;
+    width: 100%;
+    margin: 0;
+    border-radius: 0;
+    padding: 8px 15px;
+    font-weight: 400;
+    font-size: 13px;
+    box-shadow: none;
+    color: #333;
+    height: 44px;
+	box-shadow:none;
+    margin-right: 2%;
+    background: linear-gradient(to right, #1d86df 0%, #39b49a 100%);
+    margin-top: 15px;
+    margin-bottom: 5px;
+    transition: ease all 1s;

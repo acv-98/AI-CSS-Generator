@@ -1,0 +1,1 @@
+float:left; display:block;float:left; margin:0; padding-left:8px; height:36px; overflow:hidden; background:url("../design/box-04-title-l.gif") 0 0 no-repeat; font-weight:bold; text-transform:uppercase; font-size:100%;float:left; display:block; padding:9px 15px 9px 7px; background:url("../design/box-04-title-r.gif") 100% 0 no-repeat;color:#fff;

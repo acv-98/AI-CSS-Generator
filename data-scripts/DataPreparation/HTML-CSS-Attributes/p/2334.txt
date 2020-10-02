@@ -1,0 +1,8 @@
+  margin-bottom: 20px;
+  font-size: 16.099999999999998px;
+  font-weight: 200;
+  line-height: 1.4;
+    font-size: 21px;
+  border-left: 1px solid #ddd;
+  padding-left: 30px;
+  margin-top: 10px;

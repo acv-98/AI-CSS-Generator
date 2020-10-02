@@ -1,0 +1,3 @@
+	border-bottom:3px solid #A9A693;
+	border-left:3px solid #A9A693;
+	color:#626262;

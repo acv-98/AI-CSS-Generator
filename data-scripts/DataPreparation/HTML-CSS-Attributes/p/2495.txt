@@ -1,0 +1,13 @@
+    box-shadow: inset 40em 0 0 0 #425BB5;
+    padding-bottom: 1.2em;
+    -moz-transition: box-shadow 0.5s ease-in 0.1s;
+    -o-transition: box-shadow 0.5s ease-in 0.1s;
+    -webkit-transition: box-shadow 0.5s ease-in;
+    -webkit-transition-delay: 0.1s;
+    transition: box-shadow 0.5s ease-in 0.1s;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: black;
+    display: inline-block;
+    margin-bottom: 1.2em;

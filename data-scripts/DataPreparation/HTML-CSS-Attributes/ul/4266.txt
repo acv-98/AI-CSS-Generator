@@ -1,0 +1,13 @@
+  padding: 0;
+  margin: 0;
+  color: #4e4e4e;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  -o-transition: all 1s;
+  -ms-transition: all 1s;
+  transition: all 1s;
+  list-style: none;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 17px;

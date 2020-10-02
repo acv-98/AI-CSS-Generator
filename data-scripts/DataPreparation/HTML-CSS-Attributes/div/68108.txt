@@ -1,0 +1,7 @@
+						 									margin:0;
+															padding:0;
+						 											margin:0 13px 0 0;		
+																	border:5px solid #1d1a1c;	
+						 											 margin:0;
+																	 padding:5px 65px 5px 20px;
+																	 font-style:normal;

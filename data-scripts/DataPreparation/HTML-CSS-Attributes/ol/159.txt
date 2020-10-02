@@ -1,0 +1,25 @@
+	margin: 12px 12px 12px 20px;
+	padding: 0;
+   background: #FAFAFA;
+   border-top: 1px solid #EAECEE;
+	list-style: none;
+	border: 1px solid #EAECEE;
+   border-width: 0 1px 1px 1px;
+	overflow: hidden;
+  color: #227bad;
+	width: 99%;
+	float: right;
+	display: inline;
+	font-style: normal;
+	font-weight: bold;
+	font-size: .8em;
+	clear: both;
+	background-color: #227bad;
+	color: #fff;
+ margin:0; padding: 0; .commentlist li ul.children li.depth-2,
+.commentlist li ul.children li.depth-3 {
+	margin-left: 40px;
+	border-style: solid;
+	border-color: #E1E6E8;
+	border-width: 1px 0 0 1px;
+   border-color: #E2E4E7;

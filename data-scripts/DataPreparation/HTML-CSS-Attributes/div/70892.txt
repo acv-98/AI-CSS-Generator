@@ -1,0 +1,3 @@
+    -webkit-transform: rotate(330deg);
+        -ms-transform: rotate(330deg);
+    -webkit-animation-delay: -0.1s;

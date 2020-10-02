@@ -1,0 +1,2 @@
+  padding: 9px;
+  color: #333333;

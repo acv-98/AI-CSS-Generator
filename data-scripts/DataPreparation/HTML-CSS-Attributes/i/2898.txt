@@ -1,0 +1,6 @@
+  padding: .2em .25em .15em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
+  background: none repeat scroll 0 0 #FFFFFF;
+  border-color: #ebebeb !important;
+  padding-right: 0;

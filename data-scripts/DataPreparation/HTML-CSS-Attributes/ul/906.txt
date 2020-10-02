@@ -1,0 +1,17 @@
+	behavior: url("../js/PIE.htc");
+	position:relative;
+	text-decoration:none;
+	padding:30px 10px 0 0;
+	float:right;
+	background:url(../images/menu-spacer.gif) 0 4px no-repeat;
+	display:inline-block;
+	font-size:18px;
+	line-height:2em;
+	letter-spacing:-1px;
+	color:#000;
+	text-transform:uppercase;
+	border-radius:6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	background-position:0 0;
+	background-color:#fff;

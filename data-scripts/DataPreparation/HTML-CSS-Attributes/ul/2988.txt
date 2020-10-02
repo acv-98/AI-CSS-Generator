@@ -1,0 +1,1 @@
+line-height:30px;padding-left:10px; background:url("../images/marker_3.gif") 0 5px no-repeat;

@@ -1,0 +1,13 @@
+  position: relative;
+  z-index: 200;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  display: table;
+  content: " ";
+  clear: both;
+    max-width: 960px;
+    padding-left: 20px;
+    padding-right: 20px;

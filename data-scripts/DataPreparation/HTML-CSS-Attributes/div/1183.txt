@@ -1,0 +1,7 @@
+width: 1200px;    .coaches_content {
+        margin-left: 15px;
+width: 970px;    h1 {
+        font-size: 80px;
+width: 750px;    .navbar-header img {
+        width: 100px;
+width: 100%;

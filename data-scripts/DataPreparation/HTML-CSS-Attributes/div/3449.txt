@@ -1,0 +1,6 @@
+ margin-right: 40px; 
+#site_title_bar_wrapper {
+	width: 100%;
+	height: 130px;
+	margin: 0 auto;	
+	background: url(images/site_title_bg_wrapper.jpg) no-repeat center top;

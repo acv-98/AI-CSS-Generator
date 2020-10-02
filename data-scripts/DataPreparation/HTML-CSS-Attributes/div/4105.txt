@@ -1,0 +1,1 @@
+background-image:url("../design/image-01.jpg");padding-right:20px;

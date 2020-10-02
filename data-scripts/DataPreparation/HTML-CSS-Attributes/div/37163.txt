@@ -1,0 +1,5 @@
+	float:left;
+	font-size: 13px;
+	margin-left: 10px;
+	font-family: "SortsMillGoudyItalic";
+	color: #a4a4a4;

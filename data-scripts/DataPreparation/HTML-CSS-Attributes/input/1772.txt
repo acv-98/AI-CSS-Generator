@@ -1,0 +1,7 @@
+	line-height: 19px;
+	background: #fff;
+	border: 1px solid #dedede;
+	padding: 10px;
+	color: #606060;
+	width: 75%;
+	height: 20px;

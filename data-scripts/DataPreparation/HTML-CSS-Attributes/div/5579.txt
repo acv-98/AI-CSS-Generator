@@ -1,0 +1,9 @@
+    width: auto;
+    margin-right: 0px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  list-style-image: url(../img/bullets/check.png);
+  line-height: 1.5em;
+  color: #fff;
+  text-shadow:0 1px 0 #ffffff;
+  font-weight:bold;

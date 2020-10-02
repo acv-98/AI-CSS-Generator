@@ -1,0 +1,10 @@
+	width: 100%;
+	overflow: hidden;
+	vertical-align: top;
+	line-height: 21px;
+	padding:2px 0;
+	color: #222;
+	background: url(../images/pic-2.gif) repeat-x 0% 17px;
+	display: block;
+	float: right;
+	text-decoration: none;

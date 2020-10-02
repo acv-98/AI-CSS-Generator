@@ -1,0 +1,2 @@
+filter:progid:DXImageTransform.Microsoft.Alpha(opacity=46);filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);
+display:block;display:inline-block; float:right; margin-left:13px;display:block;opacity:0.46;opacity:1;

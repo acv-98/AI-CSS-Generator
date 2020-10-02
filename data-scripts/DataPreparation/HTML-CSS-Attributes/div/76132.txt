@@ -1,0 +1,4 @@
+  width: 80%;
+  float: right;
+  margin-top: 0;
+  font-size: 18px;

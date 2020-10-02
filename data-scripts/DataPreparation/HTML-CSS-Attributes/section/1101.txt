@@ -1,0 +1,5 @@
+	background:url(../images/featuresbg.jpg) no-repeat top center;
+	background-size:cover;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 100px 100px 300px 100px;
+    color: #fff;

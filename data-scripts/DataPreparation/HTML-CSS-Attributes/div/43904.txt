@@ -1,0 +1,8 @@
+		float:left;		
+	list-style:none;	
+	margin-left:0;
+	padding-left:0;
+	display:inline;
+	margin-right:20px
+	color:#505458;
+	opacity:0.6

@@ -1,0 +1,9 @@
+	position:absolute;
+	bottom:-25px;
+	left:84px;
+	z-index:111;
+	display:inline-block;
+	width:23px;
+	height:13px;
+	background:url(../images/gallery-button-2.gif) 0 0 no-repeat;
+	background-position:right 0;

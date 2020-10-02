@@ -1,0 +1,5 @@
+	background:url("../images/buttons.gif");
+	background-position: 0 -180px;
+	background-repeat:repeat-x;
+	height:40px;
+	width:100px;

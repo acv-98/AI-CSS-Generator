@@ -1,0 +1,1 @@
+ margin:0; width:960px; background:url(images/body_bottom_bg.gif) bottom no-repeat; padding:10px 0px;

@@ -1,0 +1,7 @@
+	color: #EDF6FF;
+	font-size:0.95em;
+	font-style:italic;
+	text-transform:uppercase;
+	margin-bottom: 20px;
+	font-weight: 300;
+	margin-top:3em;

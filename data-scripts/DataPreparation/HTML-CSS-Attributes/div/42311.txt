@@ -1,0 +1,1 @@
+ position:absolute;left: 0px;top: 0px;width: 100%;overflow: hidden;height:528px;

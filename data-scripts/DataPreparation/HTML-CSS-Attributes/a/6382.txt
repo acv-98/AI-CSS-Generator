@@ -1,0 +1,1 @@
+	background:#282828 url(images/nav-arrow.gif) no-repeat center bottom;

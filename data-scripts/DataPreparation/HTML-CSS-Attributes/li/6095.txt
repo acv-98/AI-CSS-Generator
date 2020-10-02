@@ -1,0 +1,12 @@
+		margin-bottom:-2px;
+margin-right:0;	.circles .columns .icon {
+		position:relative;
+		width:100%;
+		padding-top:22px;
+		border:1px solid #eaeaea;
+		background-color:#fdfdfd;
+		box-sizing:border-box;
+		-moz-box-sizing: border-box;
+		border-radius:100% 100% 100% 100%;
+		z-index:10000;
+		transition: all 0.13s cubic-bezier(0.75,0.16,0.98,0.48) 0s;

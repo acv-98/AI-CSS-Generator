@@ -1,0 +1,4 @@
+  padding-bottom: 40px;
+  width: 100%;
+  background: #1a1b1e;
+  margin-bottom: 0;

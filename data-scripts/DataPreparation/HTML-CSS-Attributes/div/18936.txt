@@ -1,0 +1,14 @@
+	margin:0 auto;
+	overflow:hidden;
+	padding:80px 0 50px;
+	width:960px;
+	text-indent:10px;
+	float:left;
+	font-size:16px;
+	line-height:24px;
+	text-align:justify;
+	text-shadow:1px 1px 0 #fff;
+	color:#5A7F7F;
+	border:1px solid #fff;
+	background:url(../images/border-dashed.gif) repeat-x left bottom;
+	list-style:none;

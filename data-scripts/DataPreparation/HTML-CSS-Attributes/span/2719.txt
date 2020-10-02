@@ -1,0 +1,3 @@
+ display:block;position: relative;border: 1px solid #d5d5d5;background:#FFFFFF;padding:1px;border: 1px solid #E8663C;box-shadow:0 0 5px #E8663C;.portfolio-area li{float: left;
+margin: 0 3px 20px 0;
+overflow: hidden;

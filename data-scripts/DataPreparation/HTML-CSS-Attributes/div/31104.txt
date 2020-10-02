@@ -1,0 +1,8 @@
+float: right; width:300px
+#footer { font-size: .8em;
+		  width: 960px;
+		  margin: auto;
+		  padding: 30px 20px 50px; 
+		  clear: both; 
+		  color: #b2b5b9;
+		  background: #1e1e1e;

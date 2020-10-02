@@ -1,0 +1,4 @@
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;

@@ -1,0 +1,7 @@
+	background-color: white;
+	width: 50%;
+	height: 126px;
+	position: absolute;
+	top: -10px;
+	left: -15px;
+	z-index: -1;

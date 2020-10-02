@@ -1,0 +1,10 @@
+	margin-bottom: 21px;
+ color: #444; 	text-decoration: none;
+	font-style: normal;
+	text-align: center;
+	display: block;
+	
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;

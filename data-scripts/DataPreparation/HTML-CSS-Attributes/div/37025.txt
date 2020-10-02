@@ -1,0 +1,16 @@
+	margin-top: 10%;
+	width:100%;
+	position:relative;
+	outline: none;
+	padding: 12px 15px;
+	color: #202020;
+	background: #FFF;
+	border: none;
+	line-height: 1.5em;
+	font-size: 0.8125em;
+	cursor: pointer;
+	font-weight: 800;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	 margin-top:0;

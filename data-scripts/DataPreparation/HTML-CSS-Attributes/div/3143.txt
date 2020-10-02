@@ -1,0 +1,12 @@
+    padding: 90px 30px;
+    position: relative;
+    overflow: hidden;
+    display: block;
+    background-color: #ffffff;
+    margin-bottom: 45px;
+    font-size: 28px;
+    font-weight: 600;
+    max-width: 800px;
+    color: #aeaeae;
+    border: 1px solid #aeaeae;
+    border-radius: 100%;

@@ -1,0 +1,7 @@
+  margin: -1px -1px 0;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 270px;
+  border: 0;
+  height: auto;

@@ -1,0 +1,15 @@
+  border-color: #a5d549;
+  border-radius: 50%;
+  color: #c0c0c0;
+  font-size: 12px;
+  height: 20px;
+  line-height: 17px;
+  position: absolute;
+  right: 0;
+  top: 30%;
+  width: 20px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

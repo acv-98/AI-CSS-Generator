@@ -1,0 +1,1 @@
+ background:url(../images/tp_bk1.jpg) no-repeat left; width:1004px; height:319px; float:left;background:url(../images/tp_bk2.jpg) no-repeat right; 

@@ -1,0 +1,7 @@
+    text-align: left;
+    padding: 10px 25px;
+    border-left: solid 1px #dbe1e7;
+    color: #737c85;
+    font-size: 21px;
+    padding-top: 40px;
+    word-spacing: 2px;

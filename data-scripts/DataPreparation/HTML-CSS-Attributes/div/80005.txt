@@ -1,0 +1,13 @@
+    padding-bottom: 30px;
+    -webkit-transition: all .0s ease;
+    -moz-transition: all .0s ease;
+    -ms-transition: all .0s ease;
+    -o-transition: all .0s ease;
+    transition: all .0s ease;
+    -moz-transform: scale(1.0) rotate(0deg);
+    -webkit-transform: scale(1.0) rotate(0deg);
+    -o-transform: scale(1.0) rotate(0deg);
+    -ms-transform: scale(1.0) rotate(0deg);
+    transform: scale(1.0) rotate(0deg);
+    overflow: hidden;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);

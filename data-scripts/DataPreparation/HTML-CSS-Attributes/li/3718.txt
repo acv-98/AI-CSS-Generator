@@ -1,0 +1,7 @@
+  background: #869791;
+    width: 9px;
+    height: 9px;
+    margin: 0;
+    background-color: #000;
+    border: 0;
+	border-radius:100%;

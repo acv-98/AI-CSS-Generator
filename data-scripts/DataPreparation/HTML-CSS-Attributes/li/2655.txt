@@ -1,0 +1,6 @@
+background: #51a6d3;background: #71c6f3;
+.carousel-inner > .item {
+  margin-left:0;
+  padding-left: 0;
+  width: 100%;
+  height: auto;

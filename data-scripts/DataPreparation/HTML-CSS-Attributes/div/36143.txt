@@ -1,0 +1,7 @@
+  margin-left: -20px;
+  margin-right: -20px;
+  content: " ";
+  display: table;
+  clear: both;
+  padding-bottom: 7em;
+    padding-bottom: 2em;

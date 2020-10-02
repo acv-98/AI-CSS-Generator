@@ -1,0 +1,11 @@
+	height:151px;
+	padding:0 0 0 22px;
+	background:url(images/footer-bor.gif) no-repeat right 20px;
+	width:252px;
+	margin:0 25px 0 0;
+	font-size:15px;
+	line-height:18px;
+	color:#fff;
+	text-transform:uppercase;
+	border-bottom:1px solid #fdc461;
+	text-decoration:underline;

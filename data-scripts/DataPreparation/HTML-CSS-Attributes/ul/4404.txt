@@ -1,0 +1,10 @@
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	list-style: none;
+	font-weight: bold;
+	color: #5E5E5E;
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: .80em;
+	background: #000000;
+	text-decoration: none;

@@ -1,0 +1,2 @@
+
+padding-left: 0;padding-right: 12px; background: url('../img/arrow.gif') no-repeat 100% 55%;

@@ -1,0 +1,8 @@
+	width: 960px;
+	margin: 0 auto 0 auto;
+	margin-bottom: 18px;
+	padding-bottom: 18px;
+	margin-left: 10px;
+	border-bottom: 1px #ccc dashed;
+	font-size: 40px;
+	color: #1f1f1f;

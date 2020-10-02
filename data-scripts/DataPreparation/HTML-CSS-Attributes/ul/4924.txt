@@ -1,0 +1,5 @@
+	float:left;
+	line-height:1.54em;
+	width:190px;
+	color:#b2da42;
+	margin:0;

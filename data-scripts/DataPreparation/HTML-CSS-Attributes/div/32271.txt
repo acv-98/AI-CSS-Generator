@@ -1,0 +1,5 @@
+width:100%;padding:10px 0% 10px 0%;width:100%;padding:10px 0% 10px 0%;	width:63%;
+	padding:10px 3% 10px 0%;
+	float:left;
+	text-align:left;
+	color:#7E7E7E;

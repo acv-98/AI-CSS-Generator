@@ -1,0 +1,10 @@
+  padding-left: 20px
+  color: #363432;
+  font-size: 20px;
+  margin-bottom: 0;
+  font-weight: normal;
+  font-family: 'Roboto', sans-serif;
+  float: left;
+  margin-right: 45px;
+  background: inherit;
+  border-radius: 50%;

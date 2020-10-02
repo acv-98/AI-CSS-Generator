@@ -1,0 +1,8 @@
+   width: 83.33333%;
+   float: right;
+   font: 16px/30px opensans-bold, sans-serif;
+   margin-bottom: 6px;
+ padding-left: 18px;       width: 100%;
+      float: none;
+      padding-left: 0;
+      text-align: center;

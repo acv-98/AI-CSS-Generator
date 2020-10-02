@@ -1,0 +1,7 @@
+	float:left;
+	margin:0 0 16px;
+	font-size:12px;
+	font-weight:normal;
+	text-transform:none;
+	color:#0087c7;
+	text-decoration:none;

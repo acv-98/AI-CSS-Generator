@@ -1,0 +1,17 @@
+	background-color: #00aeda;
+	position: relative;
+	text-align: center;
+	border: 0;
+	margin: 0;
+	padding: 100px 15%;
+	color: #fff;
+	font: 23px "Merriweather";
+	font-weight: 300;
+	display: block;
+	font-size: 13px;
+	font-style: normal;
+	letter-spacing: 2px;
+	margin-top: 30px;
+	text-transform: uppercase;
+ padding: 20px 5% 0;
+ font-size: 12px;

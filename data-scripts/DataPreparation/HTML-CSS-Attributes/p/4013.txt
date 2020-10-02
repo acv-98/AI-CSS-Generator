@@ -1,0 +1,2 @@
+	color:#0188b9;
+	font:italic 14px/18px Georgia, "Times New Roman", Times, serif;

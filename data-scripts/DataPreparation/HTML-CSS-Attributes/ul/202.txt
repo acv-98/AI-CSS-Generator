@@ -1,0 +1,10 @@
+  display: none;
+  max-width: 100%;
+  content: ".";
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+  zoom: 1;
+  position: relative;
+	background-image: url(../img/social/slideshare.png);

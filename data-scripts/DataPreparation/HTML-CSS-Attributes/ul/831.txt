@@ -1,0 +1,6 @@
+	padding-bottom:4px;
+	color:#5c5c5c;
+	text-decoration:none;
+	-moz-transition:all 0.3s ease-out;
+	-o-transition:all 0.3s ease-out;
+	-webkit-transition:all 0.3s ease-out;

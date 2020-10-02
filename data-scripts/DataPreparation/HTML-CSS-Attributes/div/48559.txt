@@ -1,0 +1,8 @@
+	font-family: 'Great Vibes', cursive;
+	font-size:36px;
+	line-height:45px;
+	color:#131313;
+	text-shadow:#a7a7a7 0 0 5px;
+	display:inline-block;
+	font-weight:normal;
+	margin-top:-34px;

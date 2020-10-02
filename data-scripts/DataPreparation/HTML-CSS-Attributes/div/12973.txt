@@ -1,0 +1,8 @@
+	clear:both;
+	border-top:1px solid #ddd;
+	margin:0 0 30px;
+	position:relative;
+	padding:0 8px;
+	font-size:.74em;
+	background:#fff;
+	float:left;

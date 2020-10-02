@@ -1,0 +1,10 @@
+    padding: 10px 70px;
+    outline: inherit;
+    color: #ffffff;
+    background-color: #f56363;
+    border-color: #f56363;
+    border-radius: 0;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 24px;
+	margin:40px 0 70px 0;

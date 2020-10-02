@@ -1,0 +1,8 @@
+	behavior: url("../js/PIE.htc");
+	position:relative;
+	width:100%;
+	padding-bottom:24px;
+	background:url(../images/box-tail.gif) left top repeat-x #222;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;

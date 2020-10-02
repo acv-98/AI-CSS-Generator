@@ -1,0 +1,14 @@
+	border-top:1px dashed #000;
+	padding-top:6px;
+	margin-top:28px;
+	float:left;
+	display:inline;
+	font-size:11px;
+	color:#494949;
+	width:23px;
+	height:23px;
+	background:url(images/ico-social.gif) no-repeat 0 0;
+	margin-right:4px;
+	line-height:0;
+	text-indent:-4000px;
+	background-position:0 0;

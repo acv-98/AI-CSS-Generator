@@ -1,0 +1,4 @@
+	width:170px;
+	margin-right:65px;
+ float:left;.fleft { 
+	float:left;

@@ -1,0 +1,7 @@
+  padding-top: 16px;
+  padding-bottom: 32px;
+  background: #fff;
+  position: relative;
+  bottom: -50px;
+    padding: 62px 20px 42px 32px;
+    font-size: 12px;

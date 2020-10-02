@@ -1,0 +1,8 @@
+	float:left;
+	margin:0 0 0 36px;
+	width:183px;
+	height:205px;
+	text-align:center;
+	color:#eee;
+	padding:0 15px;
+	margin-top:45px;

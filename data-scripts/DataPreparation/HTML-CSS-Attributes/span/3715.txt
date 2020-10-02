@@ -1,0 +1,2 @@
+	content: "\e601";
+left: 33%!important;

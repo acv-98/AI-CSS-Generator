@@ -1,0 +1,1 @@
+display:inline; float:left; width:100%; margin-bottom:15pxbackground-color:#fff; border:medium none; height:50px; padding:10px; width:100%cursor:pointer; padding:10px 5px

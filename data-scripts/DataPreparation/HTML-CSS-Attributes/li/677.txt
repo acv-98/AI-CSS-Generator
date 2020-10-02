@@ -1,0 +1,2 @@
+	background: url(../img/icons/social2/gowalla.png) no-repeat 0 0;
+	background-color: #ff920d;

@@ -1,0 +1,2 @@
+	background:url(../images/footercontainer.jpg) left top repeat-x;
+	

@@ -1,0 +1,4 @@
+ padding: 30px 40px;  padding: 20px 25px; 
+	.tm-search-form .tm-form-element {
+		width: 100%;
+		max-width: 100%;

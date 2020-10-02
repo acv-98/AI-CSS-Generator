@@ -1,0 +1,10 @@
+        width: 25%;
+        margin: 10px auto;
+.main_offer_area .main_offer_content{
+    overflow: hidden;
+    font-size: 2rem;
+    color: #fff;
+    background: #ec4848;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;

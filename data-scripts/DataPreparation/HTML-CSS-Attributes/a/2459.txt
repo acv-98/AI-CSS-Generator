@@ -1,0 +1,1 @@
+	background: #26c8aa !important;

@@ -1,0 +1,2 @@
+ color: #999  color: #000 
+line-height:25px;margin-top:20px;border-top:1px solid #dcdbdb;padding:10px 0 10px 36px;background:url('images/icons/article.png') left 15px no-repeat

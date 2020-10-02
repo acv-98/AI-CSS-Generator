@@ -1,0 +1,14 @@
+	background: url(../images/dropcap.png) no-repeat scroll left center transparent;
+    display: block;
+    float: left;
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    padding-right: 5px;
+    position: relative;
+    text-align: center;
+    text-shadow: -1px 0 0 #1E1E1E;
+    top: 6px;
+    width: 40px;
+	font-weight:normal;
+	top:0px;

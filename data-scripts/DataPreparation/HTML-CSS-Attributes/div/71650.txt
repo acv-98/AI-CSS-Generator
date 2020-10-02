@@ -1,0 +1,1 @@
+border: none;padding: 0;padding: 9px;color: #404040;padding-left: 0;padding-right: 0;

@@ -1,0 +1,7 @@
+	width:630px;
+	height:292px;
+	position:relative;
+	float:left;
+	bottom:20px;
+	left:20px;
+	background:url('images/transparent-bg.png');

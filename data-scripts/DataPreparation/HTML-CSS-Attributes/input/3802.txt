@@ -1,0 +1,5 @@
+background: url(../images/smallShadows.png) no-repeat center 134px ;background:none;  width: 140px;
+  *width: 14.840425531914894%;
+  float: none;
+  margin-left: 0;
+width:140px;width:14.893617021276595%;*width:14.840425531914894%;width:126px;float:none;width:124px;margin-left:0;

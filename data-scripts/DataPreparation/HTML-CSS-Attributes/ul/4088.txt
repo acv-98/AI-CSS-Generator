@@ -1,0 +1,9 @@
+	padding-top:12px
+	font-size:26px;
+	line-height:34px;
+	letter-spacing:-1px
+	color:#fff;
+	text-decoration:none;
+	padding-left:39px;
+	background:url(../images/marker_4.png) 2px 12px no-repeat;
+	display:inline-block

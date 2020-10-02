@@ -1,0 +1,6 @@
+	width: 75%;
+	float: none;
+	margin:0 auto 10px auto;	
+	display: block;
+	margin-top:10px;
+		width: 45%;

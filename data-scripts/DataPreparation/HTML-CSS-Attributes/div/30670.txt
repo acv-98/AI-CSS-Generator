@@ -1,0 +1,9 @@
+    width:270px;
+    margin: 10px;
+	position:relative;
+	left:50%;
+	top: 35%;
+    margin-left: -80px;
+	color:#fff;
+	border-color:#fff;
+	opacity:0;

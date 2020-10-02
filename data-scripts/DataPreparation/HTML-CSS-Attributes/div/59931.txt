@@ -1,0 +1,16 @@
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #e5e5e7;
+    margin: 55px 0 87px;
+    overflow: hidden;
+    position: relative;
+    padding: 0 30px 24px 40px;
+    padding-top: 19px;
+    color: #2a2929;
+    font-size: 46px;
+    line-height: 48px;
+    margin-bottom: 9px;
+    top: -1px;
+    float: left;
+    margin-right: 17px;
+    margin-top: -10px;
+    width: 100%;

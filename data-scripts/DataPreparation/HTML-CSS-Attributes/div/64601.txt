@@ -1,0 +1,15 @@
+	font-size:12px;
+	padding:5px 0 0 10px;
+	cursor:pointer;
+	height:25px;
+	background: #FBFBFB;
+	border: 1px solid #EFEFEF;
+	font-weight:bold;
+	color:#595959;
+	line-height:22px;
+	border-top:0px;
+	margin:0;
+	width:18px;
+	position:absolute;
+	right: 4px;
+	top: 10px;

@@ -1,0 +1,5 @@
+    width: 245px;
+    float: left;
+    max-width: 48%;
+    margin-left: 15px;
+    margin-top: 50px;

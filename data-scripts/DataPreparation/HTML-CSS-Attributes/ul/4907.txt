@@ -1,0 +1,14 @@
+  display: inline-block;
+  color: #fff;
+  border: none;
+  border-radius: 0;
+  padding: 10px 28px 13px;
+  font-size: 18px;
+  margin-right: 10px;
+  background: #8883bc;
+  -webkit-transition: .2s all;
+  -o-transition: .2s all;
+  transition: .2s all;
+    width: 100%;
+    margin-bottom: 5px;
+    display: block;

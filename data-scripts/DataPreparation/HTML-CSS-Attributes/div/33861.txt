@@ -1,0 +1,4 @@
+  *zoom: 1;
+  display: table;
+  content: "";
+  clear: both;

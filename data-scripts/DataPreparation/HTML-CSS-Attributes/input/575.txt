@@ -1,0 +1,13 @@
+	padding: 6px 30px;
+	border-color:#fff;
+	color:#fff;
+	-webkit-box-shadow:none;
+	   -moz-box-shadow:none;
+	    -ms-box-shadow:none;
+	     -o-box-shadow:none;
+	        box-shadow:none;
+   color: #ffffff;
+	height:60px;
+	padding-right:75px;
+	border-top:0px solid transparent;
+	padding-top: 20px;

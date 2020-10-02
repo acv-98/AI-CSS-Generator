@@ -1,0 +1,14 @@
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  overflow: hidden;
+  vertical-align: top;
+  content: '';
+  right: 0;
+  width: 2px;
+  height: 100%;
+  background-color: #aebcb9;

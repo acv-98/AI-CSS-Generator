@@ -1,0 +1,30 @@
+	opacity: 1;
+	filter: alpha(opacity = 100);
+	margin-left: 0;
+	
+	float: right;
+	padding: 15px;
+	width: 150px;
+	text-align: center;
+	border: none;
+	color: #fff;
+	font-size: 1.2em;
+	margin-bottom: 20px;
+	margin-top: 5px;
+	font-family: 'Source Sans Pro', sans-serif;
+	cursor: pointer;
+	-webkit-transition: opacity .25s ease;
+	   -moz-transition: opacity .25s ease;
+	    -ms-transition: opacity .25s ease;
+	     -o-transition: opacity .25s ease;
+	        transition: opacity .25s ease;
+	padding-top: 30px;
+			margin-left: 0;
+			float: none;
+			padding: 15px;
+			width: 748px;
+			margin-top: 10px;
+			cursor: pointer;
+			opacity: 1;
+			
+			padding-top: 30px;

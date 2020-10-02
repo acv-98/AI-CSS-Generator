@@ -1,0 +1,1 @@
+position:relative; float:left; width:450px; padding: 10px; border:1px solid #aaa; background: url(../img/article_bg.png)  -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; 

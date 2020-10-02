@@ -1,0 +1,2 @@
+ margin-left: 80px; 
+ margin-left: 70px;  margin-left: 70px;  margin-left: 0;  margin-left: 80px;  margin-left: 70px;  margin-left: 70px;  margin-left: 0; 

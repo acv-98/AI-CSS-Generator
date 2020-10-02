@@ -1,0 +1,7 @@
+  float: left;
+  width: 10%;
+  display: block;
+  margin-top: 5px;
+  color: #7ac143;
+  font-size: 70px;
+    font-size: 40px;

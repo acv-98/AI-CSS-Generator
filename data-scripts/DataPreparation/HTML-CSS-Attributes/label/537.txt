@@ -1,0 +1,2 @@
+  cursor: pointer;
+  margin-top: 18px;

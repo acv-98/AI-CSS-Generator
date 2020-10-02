@@ -1,0 +1,4 @@
+    color: #ffffff;
+    background-color: #f56363;
+    border-color: #f56363;
+    transition: .5s;	

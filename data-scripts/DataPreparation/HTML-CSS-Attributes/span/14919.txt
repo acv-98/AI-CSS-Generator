@@ -1,0 +1,10 @@
+  color: #f00;
+  font-size: 11px;
+  line-height: 1.27em;
+  display: none;
+  overflow: hidden;
+  padding: 2px 4px 0px 0;  
+  text-transform: none;
+  position: absolute;
+  bottom: 28px;
+  left: 223px;

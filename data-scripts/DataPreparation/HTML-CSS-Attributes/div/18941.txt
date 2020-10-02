@@ -1,0 +1,16 @@
+	float:left;
+	margin:0;
+	overflow:visible;
+	padding:0 10px;
+	width:220px;
+	color:#5a7f7f;
+	font-size:14px;
+	text-transform:uppercase;
+	background:url(../images/frames.gif) no-repeat -306px -371px;
+	display:block;
+	height:19px;
+	line-height:19px;
+	text-align:center;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #204d4d;
+	border:1px solid #fff;

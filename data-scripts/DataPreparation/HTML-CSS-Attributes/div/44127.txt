@@ -1,0 +1,12 @@
+	    margin: 34px 0px 0px 0px;
+      margin: 0;
+      padding: 0px 0;
+      float: left;
+      opacity: 0.1;
+      font-size: 12px;
+      position: absolute;
+      display: block;
+      text-align: center;
+      bottom: 55%;
+      width: 100%;
+      margin-top: 20px;

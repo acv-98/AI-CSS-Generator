@@ -1,0 +1,10 @@
+	background:url(../images/footer-nav-tail.gif) repeat-x left top;
+	width:100%;
+	overflow:hidden;
+	padding:15px 0 16px 0;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	line-height:1em;
+	border-right:1px solid #fff;
+	color:#fff;

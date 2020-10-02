@@ -1,0 +1,10 @@
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+  color: #0C9CEE;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;

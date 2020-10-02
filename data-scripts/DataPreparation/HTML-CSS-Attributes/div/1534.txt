@@ -1,0 +1,10 @@
+  background-color: #fff;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 20px;
+  margin-top: 0;
+  display: inline-block;
+  color: #999;
+  margin-right: 10px;
+  font-size: 12px;

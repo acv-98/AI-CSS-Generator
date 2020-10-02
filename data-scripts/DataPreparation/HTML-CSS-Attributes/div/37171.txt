@@ -1,0 +1,10 @@
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:right;
+	background:url(images/menu_line.jpg) repeat-x top;
+	display:block;
+	color:#878989;
+	text-decoration:none;
+	font-size:13px;
+	line-height:16px;

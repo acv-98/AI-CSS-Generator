@@ -1,0 +1,4 @@
+  float: left;
+  margin-bottom: 15px;
+  text-align: center;
+  width: 100%;

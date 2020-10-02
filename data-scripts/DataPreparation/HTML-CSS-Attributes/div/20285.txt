@@ -1,0 +1,2 @@
+width:112px; height:112pxwidth:100%; height:100%font-family:"Oswald",sans-serifborder:1px solid lightGrey; padding:2px.header_bottom_left.header_bottom_left.header_top_left.catgimg_container
+color:#ffa500

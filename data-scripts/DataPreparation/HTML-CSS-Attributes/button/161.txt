@@ -1,0 +1,10 @@
+  font-size: 1.5rem;
+  display: block;
+  letter-spacing: .2rem;
+  height: 6rem;
+  line-height: 6rem;
+  padding: 0 3rem;
+  width: 100%;
+  background: #f9a828;
+  color: #000000;
+  margin-top: .6rem;

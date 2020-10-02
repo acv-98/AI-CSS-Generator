@@ -1,0 +1,2 @@
+  left: -50px;
+  background-image: url(../images/aboutus/left.png);

@@ -1,0 +1,54 @@
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  z-index: 2;
+  text-align: center;
+  height: 55px;
+  display: inline-block;
+  clear: both;
+  content: "";
+  float: left;
+  color: #2c343b;
+  padding-top: 35px;
+  font-size: 1rem;
+  font-weight: 700;
+  top: 8px;
+  left: 50%;
+  right: auto;
+  background-color: rgba(0, 1, 1, 0.5);
+  background-position: 0 0;
+    height: 80px;
+    width: 95px;
+    padding-top: 48px;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    top: 18px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	z-index: 1002;
+	background: none;
+ width: 100%; .cd-slider-nav .navbar-nav {
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+	width: auto;	
+	font-size: 2.5rem;
+	padding-top: 0;
+	padding-bottom: 0;
+	-ms-flex-align: center;
+	    align-items: center;
+	-ms-flex-pack: center;
+	    justify-content: center;
+ text-transform: capitalize; 	color: #ffffff;
+	background-color: #38b6e6;
+			
+ background-color: rgba(255,255,255,0.7); .cd-slider-nav a, 
+		background: transparent;
+		display: -ms-flexbox;
+		width: auto;
+		height: auto;
+ top: 0;  padding: 0;  font-size: 3.5rem; 	.cd-full-width .container-fluid {
+		padding-left: 0;
+		padding-right: 0;

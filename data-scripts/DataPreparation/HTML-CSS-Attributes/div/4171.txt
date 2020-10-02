@@ -1,0 +1,21 @@
+	margin-top: 60px;
+	
+	color: #fff;
+	background: #e84c3d;
+	border: 2px solid #e84c3d;
+    border: 2px solid #ddd;
+    width: 115px;
+    height: 115px;
+    display: inline-block;
+    text-align: center;
+    padding: 6px;
+    border-radius: 50%;	
+	transition:.6s;
+    font-size: 45px;
+    color: #e84c3d;
+    background: #ddd;
+    line-height: 100px;
+	font-family:'Roboto';
+	font-weight:300;
+	line-height: 25px;
+	font-size:18px;

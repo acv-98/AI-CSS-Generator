@@ -1,0 +1,14 @@
+        line-height: 50px;
+    font-size: 1.875rem;
+    background: #835FA8;
+    border: 0px solid #bd9e6f;
+    color: #fff;
+    padding: 0px;
+    margin-left: -4px;
+    border-radius: 0px 0px 0px 0px;
+    height: 60px;
+    outline: none;
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+	cursor:pointer;

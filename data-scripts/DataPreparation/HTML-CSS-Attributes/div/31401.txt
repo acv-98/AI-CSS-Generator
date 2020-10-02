@@ -1,0 +1,7 @@
+	color:#ccc;
+	font-size:0.85em;
+	line-height:1.8em;
+	font-weight: 600;
+	margin-bottom: 5px;
+	cursor:pointer;
+	text-decoration:underline;

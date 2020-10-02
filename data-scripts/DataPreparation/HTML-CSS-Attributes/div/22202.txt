@@ -1,0 +1,18 @@
+  border: 2px solid #444;
+  padding: 20px 20px 40px 20px;
+  margin-top: 60px;
+  border-bottom: 2px solid #444;
+  margin-bottom: 20px;
+  font-family: 'Raleway', sans-serif;
+  display: block;
+  background: transparent;
+  border-radius: 0px;
+  color: #000;
+  font-weight: bold;
+  width: 140px;
+  height: 50px;
+  transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+  border-color: transparent;

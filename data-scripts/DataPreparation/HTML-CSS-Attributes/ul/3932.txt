@@ -1,0 +1,11 @@
+    top: 50%;
+    position: absolute;
+    margin-top: -25px;
+    margin-left: -25px;
+		display: none;
+		margin-top: 20px;
+    border: 1px solid #666;
+    border-radius: 0 100px 100px;
+    margin-right: 8px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;

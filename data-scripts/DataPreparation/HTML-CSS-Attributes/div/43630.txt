@@ -1,0 +1,44 @@
+ border-color: #cfcfcf;  border-color: #cfcfcf;  width: 36%; 
+ width: 100%; max-width: 97%;  max-width: 100%;  width: auto;  width:48% !important; margin-right:4% !important; height:auto;  margin-right:0 !important;  max-width:100%; width:auto; height:auto; display:block;  width:auto !important;  float:none; width:auto; float:none; width:auto; margin-top:20px;  width:auto !important; float:none;  width:30% !important; margin-right:4% !important; height:auto;  margin-right:0 !important;  width: 100%; 	margin-top: 20px
+	float: left;
+	margin-bottom: 0;
+	width: 39%;
+	line-height: 2em;
+	clear: none;
+	font-size: 22px;
+	font-weight: normal;
+	text-decoration: none
+	display: block;
+	position: relative;
+	border: 1px solid #CFCFCF;
+	padding: 5px;
+	height: 100%;
+	overflow: auto;
+	text-align: center;
+	background: #f3f3f3;
+	color: #605f5f;
+	border-width: 1px 0;
+	padding-right: 5px;
+	text-transform: none;
+	font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif;
+	padding-top: 20px;
+	left: 0;
+	top: 0;
+	opacity: .7;
+	bottom: 20%;
+	max-width: 770px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #CFCFCF;
+    background-color: #f8f4f4;
+    border-left: 8px solid #CFCFCF;
+    color: #6d6a6a;
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    margin-bottom: 5px;
+    padding-left: 6px;
+ color: #6d6a6a; .widget_nav_menu ul li a:hover, .widget_pages ul li a:hover, .widget_categories ul li a:hover, .sidebar .portfolio-categories ul li:hover, .widget_archive ul li a:hover, .almost-all-categories ul li:hover, .widget_links ul li a:hover,
+.widget_nav_menu ul li.current_page_item > a, .widget_pages ul li.current_page_item > a, .widget_categories ul li.current_page_item > a, .almost-all-categories ul li.current-cat {
+    border-color: #949292;   
+ color: #0f0f0f; .widget_nav_menu ul li .sub-menu, .widget_pages ul li .children, .widget_categories ul li .children, .portfolio-categories ul li .children {
+    margin-left: 20px;

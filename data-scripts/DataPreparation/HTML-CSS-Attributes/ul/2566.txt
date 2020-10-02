@@ -1,0 +1,6 @@
+	float:right;
+	display:inline-block;
+	width:16px;
+	height:16px;
+	padding:0 2px;
+	opacity:0.5;

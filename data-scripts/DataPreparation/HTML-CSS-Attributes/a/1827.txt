@@ -1,0 +1,6 @@
+  background: #29c5f6;
+  color: #fff;
+  border-radius: 50%;
+  padding: 8px 9px;
+  font-size: 20px;
+  line-height: 1;

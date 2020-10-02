@@ -1,0 +1,9 @@
+	margin: auto;
+	margin-top: 31px;
+	width: 950px;
+	font-size: 13px;
+	color: #727272;
+	text-align: left;
+	line-height: 23px;
+	float: left;
+	margin-left: 25px;

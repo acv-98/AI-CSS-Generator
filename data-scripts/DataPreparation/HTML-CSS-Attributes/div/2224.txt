@@ -1,0 +1,6 @@
+	display:none !important;
+	color:#666;
+	font-size:15px;
+	margin-left:15px;
+	padding:5px;
+	margin-right:10px;

@@ -1,0 +1,11 @@
+    width:100%;
+    overflow:hidden;
+    text-align:center;
+    background:#ffc038;
+    border-radius:2px;
+    height:35px;
+    color:#fff;
+    transition:.5s;
+    padding-top:11px;
+    font-size:15px;
+    margin-top:10px;

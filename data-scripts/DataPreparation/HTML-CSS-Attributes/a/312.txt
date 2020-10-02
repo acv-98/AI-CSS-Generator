@@ -1,0 +1,4 @@
+background:url(../images/prettyPhoto/default/loader.gif) center center no-repeatbackground:url(../images/prettyPhoto/dark_rounded/loader.gif) center center no-repeatbackground:url(../images/prettyPhoto/dark_square/loader.gif) center center no-repeatbackground:url(../images/prettyPhoto/facebook/loader.gif) center center no-repeatbackground:url(../images/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;display:block;height:33px;width:50pxbackground:url(../images/prettyPhoto/light_rounded/loader.gif) center center no-repeat	background: #000000;
+	display: block;
+	color: #ffffff !important;
+	padding: 5px 15px;

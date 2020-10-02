@@ -1,0 +1,9 @@
+	margin:0;
+	padding:0;
+	background:url(images/main_bg.gif) repeat center center;
+	width:890px;
+	color:#9f5555;
+	text-decoration:none;
+	font-weight:normal;
+	border:1px solid #78b2cb;
+	float:left;

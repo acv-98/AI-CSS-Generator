@@ -1,0 +1,2 @@
+ #footer .recent-posts .hentry .text p  
+@media (max-width: 767px) {                                  

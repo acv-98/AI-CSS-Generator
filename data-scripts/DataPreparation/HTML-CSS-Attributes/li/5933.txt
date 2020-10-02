@@ -1,0 +1,5 @@
+      color: #00c6d7;
+  cursor: default;
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-bottom-color: transparent;

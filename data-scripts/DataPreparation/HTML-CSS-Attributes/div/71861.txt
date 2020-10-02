@@ -1,0 +1,7 @@
+  width:455px;
+  overflow:hidden;
+  height:auto;
+  float:left;
+  letter-spacing:1px;
+  margin-bottom:30px;
+  padding-left:60px;

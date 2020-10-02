@@ -1,0 +1,49 @@
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  display: block;
+  width: 20px;
+  margin-top: 3px;
+  margin-right: 5px;
+  font-size: 12px;
+  height: auto;
+  -webkit-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  padding-left: 5px;
+  background: #1d1d1d;
+  color: rgba(255, 255, 255, 0.4);
+  border-left: 3px solid transparent;
+  border-left-color: #fff;
+-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.05);box-shadow:0 1px 1px rgba(0,0,0,0.05) * Skin: Blue
+ * ----------
+.skin-blue .main-header .navbar {
+  background-color: #3c8dbc;
+background-color:#3c8dbc * -----------
+.skin-green .main-header .navbar {
+background-color:#00a65a * ------------
+.skin-purple .main-header .navbar {
+background-color:#605ca8 * ---------
+.skin-red .main-header .navbar {
+background-color:#dd4b39.skin-yellow .main-header .navbar {
+background-color:#f39c12 * Slider for Bootstrap
+ *
+ * Copyright 2012 Stefan Petre
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+.slider {
+    display: block;
+    vertical-align: middle;
+    position: relative;
+background-color:#3c8dbc.icheckbox_square,
+.iradio_square {
+    *display: inline;
+    margin: 0;
+    padding: 0;
+    width: 22px;
+    height: 22px;
+    background: url(square.png) no-repeat;
+    border: none;
+    cursor: pointer;

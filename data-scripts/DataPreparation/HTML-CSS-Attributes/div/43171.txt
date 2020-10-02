@@ -1,0 +1,8 @@
+    margin-bottom:90px;
+    color:#413d4b;
+    font-family: 'playfair_displayregular';
+    max-width: 80%;
+    padding-bottom: 90px;
+    display: inline-block;
+    float:left;
+    font-size:1.375rem;

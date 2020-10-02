@@ -1,0 +1,5 @@
+	height: 100vh;
+	display: table;
+	text-align: center;
+	width: 100%;
+	vertical-align: middle;

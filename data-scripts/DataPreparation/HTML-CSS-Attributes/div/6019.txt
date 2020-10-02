@@ -1,0 +1,7 @@
+  color: #fff;
+  float: left;
+  font-size: 15px;
+  margin-right: 5px;
+  display: none !important;
+    font-size: 13px;
+    margin-top: 3px;

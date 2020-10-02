@@ -1,0 +1,3 @@
+	background:url(../images/search.gif) no-repeat;
+	width:247px;
+	height:29px;

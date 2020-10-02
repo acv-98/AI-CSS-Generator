@@ -1,0 +1,14 @@
+	color:#0D112F;
+	font-size:14px;
+	font-weight:bold;
+	padding:15px 15px 0 15px;
+	width:323px;
+	height:286px;
+	margin:10px 0;
+	overflow:hidden;
+	position:relative;
+	top:0;
+	left:0;
+	border:0;
+	cursor:pointer;
+	text-decoration:underline;

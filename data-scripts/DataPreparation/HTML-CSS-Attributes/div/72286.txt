@@ -1,0 +1,1 @@
+ display: inline;  display: flex; height: 100px; justify-content: space-between; flex-direction: column; height: 45vh!important;height: 30vh; width: auto; margin-left: auto; margin-right: auto;height: auto!important;

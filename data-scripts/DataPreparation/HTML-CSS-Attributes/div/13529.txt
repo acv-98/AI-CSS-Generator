@@ -1,0 +1,13 @@
+    background:url('../images/slider/logo-slider-line.png') center bottom no-repeat;
+    border-top:1px solid #e0e0e0;
+    padding:40px 0px;
+    margin: 0;
+    list-style: none;
+    display: block;
+    float: left;
+ filter:gray;  filter:none; .logos-slider .list_carousel.responsive {
+    width: auto;
+    margin-left: 0;
+    vertical-align: middle;
+        margin: 0 5px;
+        width: 150px;

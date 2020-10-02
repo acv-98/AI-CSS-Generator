@@ -1,0 +1,1 @@
+margin:0 auto 25px; width:300pxmargin-bottom:10px; width:100%margin:0 auto 25px; width:100%margin:0 auto 25px; width:300pxwidth:300px; margin-bottom:25pxfont-size:16px; font-weight:boldcolor:#FFA439; padding-right:5px; font-size:14pxdisplay:block; margin-bottom:5pxcolor:#FFA439; text-decoration:underline

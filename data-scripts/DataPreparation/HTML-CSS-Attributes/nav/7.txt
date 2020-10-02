@@ -1,0 +1,6 @@
+        border-color: transparent;
+        background: rgba(230, 125, 68, 0.68);
+    background-color: transparent; 
+    transition:.6s;
+    margin: 15px auto;
+    color:#a2ca28;

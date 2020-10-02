@@ -1,0 +1,7 @@
+    display: none;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  bottom: 58px;
+  left: -10px;
+  background: url(../img/slider-left.png) no-repeat;

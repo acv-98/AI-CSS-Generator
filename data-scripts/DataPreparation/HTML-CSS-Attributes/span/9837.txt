@@ -1,0 +1,3 @@
+	background: url("images/post_meta.png") no-repeat 0 -54px;
+	float: right;
+	padding: 2px 0 0 21px;

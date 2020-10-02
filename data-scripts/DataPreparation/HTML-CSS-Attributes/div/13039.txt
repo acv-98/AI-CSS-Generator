@@ -1,0 +1,10 @@
+	margin:0 auto;
+	padding:0;
+	width:930px;
+	float:left;
+	height:259px;
+	background:url(images/header_text_bg.gif) top no-repeat;
+	font:bold 30px Arial, Helvetica, sans-serif;
+	color:#daff54;
+	border-bottom:1px solid #b1d600;
+	line-height:1.6em;

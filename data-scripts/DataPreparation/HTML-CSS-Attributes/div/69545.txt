@@ -1,0 +1,10 @@
+  color: hsl(0, 0%, 100%);
+  font-size: 14px;
+  font-weight: 300;
+  margin: 0;
+  background: #d7232d none repeat scroll 0 0;
+  left: -30px;
+  padding: 5px 35px;
+  position: absolute;
+  top: 10px;
+  transform: rotate(-43deg);

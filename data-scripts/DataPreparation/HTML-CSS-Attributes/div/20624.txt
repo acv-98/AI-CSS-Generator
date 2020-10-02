@@ -1,0 +1,4 @@
+    font: bold 72px/72px 'Economica', sans-serif;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    color: #fff;

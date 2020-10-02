@@ -1,0 +1,4 @@
+	width:139px;
+	height:6px;
+	display:block;
+	background:url(images/dd-b.png) no-repeat 0 0;

@@ -1,0 +1,8 @@
+	width:92px;
+	height:31px;
+	background:url(../images/click_bg.jpg) 0 0 no-repeat;
+	font:bold 12px/31px Tahome, Arial, Helvetica, sans-serif;
+	color:#303025;
+	text-decoration:none;
+	text-align:center;
+	display:block;

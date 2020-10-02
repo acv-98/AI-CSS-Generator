@@ -1,0 +1,4 @@
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	line-height: 1.45;
+	font-weight: 300;

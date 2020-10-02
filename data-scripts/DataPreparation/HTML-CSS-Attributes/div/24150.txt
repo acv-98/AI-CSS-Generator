@@ -1,0 +1,4 @@
+  margin-bottom: 50px;
+  font-size: 60px;
+  display: block;
+  color: #F03861;

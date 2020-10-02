@@ -1,0 +1,7 @@
+	text-align: left;
+	margin-left: 85px;
+	color: #47474C;
+	font-size: 17px;
+	font-weight: 700;
+	margin-top: 7px;
+	line-height: 21px;

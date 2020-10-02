@@ -1,0 +1,7 @@
+	position: absolute; 
+	left: 254px; 
+	z-index: 9999;
+ left: 214px;  left: 254px;  left: 254px; @media (min-width: 980px) and (max-width: 1199px) {
+ left: 214px;  left: 160px; 	
+ display: none;     top: 0;
+    bottom: -10px;

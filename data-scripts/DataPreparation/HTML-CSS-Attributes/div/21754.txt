@@ -1,0 +1,6 @@
+	margin-top: 25px;
+  width: 20%;
+    font-size: 39px;
+    color: #5FCF80;
+    margin-top: 7px;
+        margin-bottom: 30px;

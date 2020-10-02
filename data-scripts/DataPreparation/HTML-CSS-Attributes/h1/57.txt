@@ -1,0 +1,8 @@
+  font-family: "Unica One", sans-serif;
+  text-transform: uppercase;
+  border-bottom: 2px solid #2e2e2e;
+  font-size: 30px;
+  line-height: 40px;
+  display: inline-block;
+  font-weight: 300 !important;
+  color: #7b7b7b;

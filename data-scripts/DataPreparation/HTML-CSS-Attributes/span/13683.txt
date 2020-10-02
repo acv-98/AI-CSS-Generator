@@ -1,0 +1,13 @@
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 3px;
+  border: 1px solid #8c8c8c;
+  position: relative;
+  background: #fff;
+  padding: 20px 20px 15px;
+  content: "";
+  display: block;
+  width: 33px;
+  height: 28px;
+  bottom: -28px;
+  right: 30px;

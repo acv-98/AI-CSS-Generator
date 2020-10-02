@@ -1,0 +1,15 @@
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  font-size: 30px;
+  margin-right: 5px;
+  line-height: 30px;
+  -webkit-transition: -webkit-transform linear 0.3s;
+  -moz-transition: -moz-transform linear 0.3s;
+  -o-transition: -o-transform linear 0.3s;
+  transition: transform linear 0.3s;
+  -webkit-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);

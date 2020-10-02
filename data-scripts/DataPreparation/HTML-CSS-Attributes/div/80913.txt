@@ -1,0 +1,5 @@
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	color: #888;
+	margin-bottom: 10px;

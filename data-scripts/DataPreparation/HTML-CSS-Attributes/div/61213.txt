@@ -1,0 +1,20 @@
+	display: inline;
+	float: left;
+	width: 100%;
+	margin-top: 35px;
+	margin-bottom: 35px;
+	background-color: #0091ea;
+	border-radius: 50%;
+	color: #fff;
+	font-size: 18px;
+	height: 48px;
+	text-align: center;
+	line-height: 48px;
+	margin-right: 20px;
+	
+	text-transform: uppercase;
+		margin-right: 0;
+		width: 78%;
+		margin-left: 15px;
+		margin-top: 20px;
+		margin-bottom: 20px;

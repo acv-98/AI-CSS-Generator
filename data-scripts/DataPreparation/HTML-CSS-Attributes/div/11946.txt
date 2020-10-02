@@ -1,0 +1,17 @@
+	width:150px;
+	height:150px;
+	display:table;
+	border:1px solid #fff;
+	margin:50px auto;
+	-webkit-border-radius:15px;
+	   -moz-border-radius:15px;
+	    -ms-border-radius:15px;
+	     -o-border-radius:15px;
+	        border-radius:15px;
+	
+	-webkit-transform:rotate(45deg);
+	   -moz-transform:rotate(45deg);
+	    -ms-transform:rotate(45deg);
+	     -o-transform:rotate(45deg);
+	        transform:rotate(45deg);
+	text-align:center;

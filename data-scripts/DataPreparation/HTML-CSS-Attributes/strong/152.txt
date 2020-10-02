@@ -1,0 +1,3 @@
+	text-transform:uppercase;
+	color:#ec8f23;
+	font-weight:normal;

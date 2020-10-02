@@ -1,0 +1,7 @@
+    padding-bottom: 0;
+    margin-bottom: 25px;
+    list-style: none
+    font-family: FontAwesome;
+    content: "\f105";
+    padding-right: 0.5rem;
+    color: #111111;

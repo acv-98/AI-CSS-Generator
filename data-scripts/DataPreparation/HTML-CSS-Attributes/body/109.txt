@@ -1,0 +1,9 @@
+  padding: 120px 0 70px;
+  margin-bottom: 64px;
+  border: 1px solid #000;
+  border-top: none;
+  padding-top: 5px;
+  background: #474747;
+  color: #ffffff;
+  line-height: 52px;
+  margin-top: 0;

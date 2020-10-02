@@ -1,0 +1,5 @@
+position:relative;padding-top:6px
+	text-align:right
+	padding-top:38px;
+	color:#80637f;
+	font:24px/30px Economica,sans-serif

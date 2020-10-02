@@ -1,0 +1,3 @@
+	display: inline;
+	font-size: 10px;
+	line-height: 28px;

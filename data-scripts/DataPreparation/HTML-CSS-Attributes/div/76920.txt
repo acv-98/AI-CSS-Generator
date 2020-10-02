@@ -1,0 +1,7 @@
+        margin-left: 0;
+    height: 595px;
+    overflow: hidden;
+    padding: 90px 0;
+    position: relative;
+    color: #fff;
+    font-size: 40px;

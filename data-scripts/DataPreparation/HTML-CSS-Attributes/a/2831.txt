@@ -1,0 +1,8 @@
+	border: 0;
+	display: block;
+	float: none;
+	margin: 0 0 20px;
+	width: 100%;
+	border-right: 2px solid #1a1a1a;
+	padding: 0;
+	opacity: 1;

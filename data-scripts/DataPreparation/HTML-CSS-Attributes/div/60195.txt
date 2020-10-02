@@ -1,0 +1,2 @@
+	height:28px;
+	padding:4px 8px 0 18px;

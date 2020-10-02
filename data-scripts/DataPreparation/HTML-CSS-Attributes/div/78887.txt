@@ -1,0 +1,4 @@
+	width:100%;
+	height:152px;
+	float:left;
+	background:url(../images/footerbg.jpg) 0 0 repeat-x;

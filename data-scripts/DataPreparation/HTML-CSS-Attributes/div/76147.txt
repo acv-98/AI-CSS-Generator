@@ -1,0 +1,12 @@
+  float: left;
+  padding: 20px;
+  margin: 0 0 20px 0;
+  font-weight: 400;
+  font-size: 20px;
+  color: #444;
+  position: relative;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  width: 30px;
+  background: #2185d5;

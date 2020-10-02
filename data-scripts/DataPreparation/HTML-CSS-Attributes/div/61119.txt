@@ -1,0 +1,2 @@
+ padding-bottom:0
+ padding-bottom:20px; margin-top:0 color:#404040;font-weight:800; padding-bottom:24px; display:blockborder-top:2px solid #dedede; padding-top:15pxborder-bottom:2px solid #dedede; padding-bottom:34px; margin-bottom:52px

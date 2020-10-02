@@ -1,0 +1,4 @@
+	background:url(../images/art.png) 0 0 no-repeat;
+	width:320px;
+	height:159px;
+	margin:0 0 0 -30px;

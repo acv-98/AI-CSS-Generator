@@ -1,0 +1,6 @@
+	padding-bottom: 39px;
+	border-bottom: 1px solid #fff;
+	font: 36px/44px 'Dosis', sans-serif;
+	margin: 0 35px 18px;
+	padding-top: 57px;
+	text-transform: uppercase;

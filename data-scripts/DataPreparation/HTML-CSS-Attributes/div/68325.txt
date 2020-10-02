@@ -1,0 +1,11 @@
+  margin-top: 43px;
+  position: relative;
+  text-align: center;
+  content: '';
+  height: 1px;
+  top: 10px;
+  left: 0;
+  right: 50%;
+  margin-right: 67px;
+  margin-left: 3px;
+  background: #6c6860;

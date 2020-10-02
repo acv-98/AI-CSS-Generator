@@ -1,0 +1,13 @@
+	width: 98.3%;
+	font-size: 1em;
+	margin: 10px 0;
+	border: 1px solid #E1E2E2;
+	color:#555;
+	font-family: 'Lato', sans-serif;
+	outline: none;
+	margin-bottom: 25px;
+	height: 150px;
+	padding: 20px 9px;
+		width: 97.8%;
+		padding:9px;
+		font-size:0.8125em;

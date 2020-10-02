@@ -1,0 +1,10 @@
+	margin:0;
+	padding:0;
+	list-style:none;
+	color:#fff;
+	width:220px;
+	background:url(../images/line.gif) repeat-x left bottom;
+	font-weight:bold;
+	padding-left:16px;
+	text-decoration:none;
+	background-image:url(../images/li_a.gif);

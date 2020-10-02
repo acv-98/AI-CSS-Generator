@@ -1,0 +1,4 @@
+		padding:32px;
+		height:300px;
+		margin:10px !important;
+		background:url(demos/aboutbox1.png) no-repeat left center;

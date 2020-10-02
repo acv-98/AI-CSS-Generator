@@ -1,0 +1,4 @@
+ margin-top: 7px; #contact-form .text {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 3px;

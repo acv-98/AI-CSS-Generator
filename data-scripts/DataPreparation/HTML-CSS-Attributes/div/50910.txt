@@ -1,0 +1,2 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slide3-info-bg.png', sizingMethod='scale');

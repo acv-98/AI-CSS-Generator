@@ -1,0 +1,6 @@
+		background-color: #dfdede;
+		height: 1px;
+		left: 0;
+		position: absolute;
+		top: 50%;
+		width: 20px;

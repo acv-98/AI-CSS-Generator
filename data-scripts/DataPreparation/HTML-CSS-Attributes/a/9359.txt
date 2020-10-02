@@ -1,0 +1,5 @@
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+      color: #454545;
+      font-weight: 600;

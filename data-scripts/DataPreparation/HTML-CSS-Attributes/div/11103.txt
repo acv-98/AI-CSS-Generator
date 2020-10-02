@@ -1,0 +1,2 @@
+border-bottom: 1px solid #dedbdb;
+padding-top:54px;

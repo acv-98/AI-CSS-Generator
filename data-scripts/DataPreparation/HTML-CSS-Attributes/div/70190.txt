@@ -1,0 +1,9 @@
+float: none;
+margin-left: 82px;
+text-align: center;
+width: 46%;
+display: block;
+margin-top: 5px;
+padding: 3px;
+border-radius: 5px;
+background:#ddd;

@@ -1,0 +1,11 @@
+        float: none;
+        margin-top: 70px;
+        margin-left: 0;
+        padding: 10px;
+        font-size: 10px;
+footer.footer .footer_last_menu ul {
+    display: inline;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    color: #fff;
+    text-decoration: none;

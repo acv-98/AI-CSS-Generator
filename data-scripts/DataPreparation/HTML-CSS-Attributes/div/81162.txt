@@ -1,0 +1,10 @@
+  text-align: left;
+text-align: center;	#itemsWorkTwo .box .hover-text i.fa {
+	    top: 0%;
+ padding: 15% 0 #tf-home.app .owl-theme .owl-controls .owl-page span {
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+    background: #ffffff !important;
+    border: 2px solid transparent;
+    opacity: 1;

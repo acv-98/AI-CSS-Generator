@@ -1,0 +1,1 @@
+ margin-left:70px;font:italic 14px Georgia, "Times New Roman", Times, serif; color:#666; padding-left:15px!important; border-left: solid 5px #333!important; margin:0!important;

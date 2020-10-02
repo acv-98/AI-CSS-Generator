@@ -1,0 +1,3 @@
+    margin-right: 23px;
+	-moz-animation: leftSpring 0.3s;
+	-webkit-animation: leftSpring 0.3s;

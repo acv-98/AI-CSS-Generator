@@ -1,0 +1,5 @@
+	height:15px;
+	background:url(../images/border-bot.gif) repeat-x left top;
+	font-size:0;
+	line-height:0;
+	width:100%;

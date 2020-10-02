@@ -1,0 +1,1 @@
+padding-bottom:10px; padding-top:10px; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5scolor:#09cbackground-color:#09c; color:#fff

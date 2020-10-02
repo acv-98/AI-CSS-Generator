@@ -1,0 +1,14 @@
+		top: 0!important;
+    position: relative;
+    z-index: 4;
+    top: 55%;
+    opacity: 0;
+    height: 100%;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    background-repeat: repeat;
+    background-position: center center;
+    width: 100%;
+    background-image: url('../img/base/video-overlay-1.png');
+    background-color: #1488C9;

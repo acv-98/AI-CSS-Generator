@@ -1,0 +1,12 @@
+	display:none;
+	overflow:visible !important;
+	height:484px;
+	position:relative;
+	background:none !important;
+	color:#c4b44d;
+	font-size:14px;
+	text-decoration:underline;
+	text-transform:uppercase;
+	font-family: 'Open Sans', sans-serif;
+	bottom:79px;
+	left:38px;

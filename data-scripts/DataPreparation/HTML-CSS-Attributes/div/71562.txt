@@ -1,0 +1,7 @@
+  padding: 40px 30px;
+  background: #fff;
+  border-radius: 4px;
+  margin: 0 0 40px;
+  font-size: 20px;
+  margin-right: 20px;
+    padding: 40px 10px 40px 30px;

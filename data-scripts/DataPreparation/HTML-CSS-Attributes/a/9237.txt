@@ -1,0 +1,1 @@
+background:url('images/zoom.png') no-repeat;bottom:0;height:20px;position:absolute;right:20px;text-indent:-9999px;width:20px;

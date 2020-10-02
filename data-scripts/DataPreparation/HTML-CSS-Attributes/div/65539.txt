@@ -1,0 +1,6 @@
+.main_choose_area .main_choose_content .single_choose_content h1{
+    font-size:3.125rem;
+    color:#503392;
+    line-height: 2rem;
+    margin:40px 0px;
+    width:60%;

@@ -1,0 +1,7 @@
+	display:block;
+	font-size:29px;
+	line-height:1.2em;
+	padding:29px 65px 0 30px;
+	letter-spacing:-2px;
+	background:url(../images/pic-1.png) 0 32px no-repeat;
+	float:right;

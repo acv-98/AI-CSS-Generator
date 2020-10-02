@@ -1,0 +1,4 @@
+  margin-top: 33px;
+  color: #ec9e9e;
+  padding-top: 33px;
+  margin-bottom: 5px;

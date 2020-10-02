@@ -1,0 +1,10 @@
+	height: 23px;
+	width: 23px;
+	display: block;
+	float: left;
+	background: #39579D url('../images/icon1.png') no-repeat 16px 9px;
+	border-right: 1px solid #EBEBEB;
+	padding: 0 8px 0 0;
+	margin: 0 10px 0 0;
+	background-position: -35px 4px;
+	opacity:0.8;

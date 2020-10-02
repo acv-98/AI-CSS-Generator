@@ -1,0 +1,5 @@
+	font-family:Georgia, Serif;
+	font-size:14px;
+	color:#08657f;
+	background:url('images/button-small.gif') no-repeat 0 center;
+	padding-left:7px;

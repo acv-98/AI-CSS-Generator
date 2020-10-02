@@ -1,0 +1,5 @@
+	padding-top:70px;
+	width:320px;
+	float:left;
+	text-align:center;
+	margin-top:14px;

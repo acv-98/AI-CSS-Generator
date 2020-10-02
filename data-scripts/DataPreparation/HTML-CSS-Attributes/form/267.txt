@@ -1,0 +1,11 @@
+	background-color: #fff;
+	border:1px solid #dedede;
+	color: #4d4d4d;
+	width: 245px;
+	padding: 5px 10px;
+	height: 24px;
+	font-size: 13px;
+	font-family: 'CharisSILItalic';
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;

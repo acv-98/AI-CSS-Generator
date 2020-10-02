@@ -1,0 +1,2 @@
+ padding-top:20px; height:100px; width:100px
+ padding-top:20px; height:100px; width:100px text-align:center; color:#FFF; font-weight:800; font-size:14px; line-height:18px; text-transform:uppercase; display:block; background-color:#fb5353; width:130px; height:130px; position:absolute; left:0; top:0; padding-top:41px; z-index:50 font-size:50px; line-height:35px; display:block

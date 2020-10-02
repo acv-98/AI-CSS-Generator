@@ -1,0 +1,14 @@
+  bottom: 0;
+  left: 5px;
+  margin-bottom: -5px;
+  border-width: 5px 5px 0;
+  border-top-color: #000;
+	float: right;
+	content: "\f041";
+	font-family: 'FontAwesome';
+	font-size: 16px;
+	color: #01b1d7;
+	margin-right: 10px;
+	font-weight: 700;
+	margin-left: 5px;
+	font-style: italic;

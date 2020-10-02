@@ -1,0 +1,4 @@
+	display:block;
+	float:left;
+	clear:both;
+	margin:10px 0

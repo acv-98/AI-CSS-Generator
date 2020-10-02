@@ -1,0 +1,1 @@
+clear:both; background:url(images/footer_border.gif) no-repeat center top; padding:15px 0 0 0;float:left;width:1000px;float:left;

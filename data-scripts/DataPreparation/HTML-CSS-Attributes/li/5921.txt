@@ -1,0 +1,1 @@
+float:left; height:30px; width:1px; background: url(../images/b_lineico.gif) 0 0 repeat-y; padding-left:0

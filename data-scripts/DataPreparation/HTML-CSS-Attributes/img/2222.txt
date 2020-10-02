@@ -1,0 +1,6 @@
+	width:290px;
+	position:relative;
+	z-index:4;
+	margin-left:-85px;
+	margin-right:-80px;
+		width:50%;

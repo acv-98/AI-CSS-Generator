@@ -1,0 +1,1 @@
+ border: solid 1px #ff9408; height: 2px; width: 252px; margin: auto;  border: solid 1px #ff9408; height: 2px; width: 252px; margin: auto;  border: solid 1px #ff9408; height: 2px; width: 252px; margin: auto;  border: solid 1px #ff9408; height: 2px; width: 252px; margin: auto; 

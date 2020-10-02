@@ -1,0 +1,4 @@
+  min-height: 130px;
+background: url("images/header_bottom_bg.png") repeat scroll 0 0 #000;min-height:210px;.header_left{color: #bbbbbb;
+font-family: Georgia;
+.logo{margin-top: 50px;

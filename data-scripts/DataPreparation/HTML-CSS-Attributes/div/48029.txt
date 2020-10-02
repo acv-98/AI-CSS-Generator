@@ -1,0 +1,17 @@
+  display: -webkit-box;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+    width: 100%;
+  padding: 40px;
+  text-transform: uppercase;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.4);
+  letter-spacing: 2px;
+  margin-bottom: 50px;
+  float: left;
+  padding-left: 50px;

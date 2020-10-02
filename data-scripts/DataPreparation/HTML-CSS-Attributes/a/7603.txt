@@ -1,0 +1,14 @@
+ background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/button-lrn-more.png', sizingMethod='image'); 
+	Default Styles
+	display: block;
+	height: 28px;
+	width: 113px;
+	text-align: center;
+	background: url(images/button-lrn-more.png) no-repeat 0 0; 
+	color: #5d5d5d;
+	font-size: 13px;
+	line-height: 28px;
+	margin: 7px auto; 
+	padding-left: 15px;
+	text-decoration: underline; 
+ text-decoration: none; 

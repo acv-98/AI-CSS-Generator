@@ -1,0 +1,11 @@
+  background-color: #f0eef3;
+  height: 100%;
+  position: relative;
+  margin: 0 auto;
+  -moz-box-shadow: 0 0px 40px rgba(0, 0, 0, 0.35);
+  -webkit-box-shadow: 0 0px 40px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 0px 40px rgba(0, 0, 0, 0.35);
+  border-radius: 8px;
+  width: 1080px;
+width:100% !important;.hornav-block, #footermenu {
+    border-radius: 0;

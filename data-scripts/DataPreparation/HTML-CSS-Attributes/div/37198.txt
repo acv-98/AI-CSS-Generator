@@ -1,0 +1,14 @@
+    font-size: 14px;
+    margin-top: 90px;
+display: block;.home-content .input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 65%;
+    margin-bottom: 0;
+    height: 60px;
+    color:#82ca9c;
+    display:inline-block;
+    background:#82ca9c;
+	border: 0px;
+	background-color: rgba(0, 173, 62, 0.75);

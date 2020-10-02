@@ -1,0 +1,9 @@
+  border: 5px solid #7B6C63;
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+  background: none;
+  color: #7f8c8d;
+	color: #fff;
+	font-size: 0.8755em;
+	margin-top: 8%;

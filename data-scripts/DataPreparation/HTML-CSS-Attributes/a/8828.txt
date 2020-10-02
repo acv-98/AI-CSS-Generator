@@ -1,0 +1,7 @@
+	color: #ffffff;
+	background: url(images/menu_btn__hover_right.png) no-repeat right top;
+	position: absolute;
+	width: 8px;
+	height: 49px;
+	left: -8px;
+	top: 0;

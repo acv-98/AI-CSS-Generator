@@ -1,0 +1,6 @@
+	display:inline-block;
+	width:40px;
+	height:40px;
+	border:2px solid #746c75;
+	color:#817a82;
+	line-height:35px;

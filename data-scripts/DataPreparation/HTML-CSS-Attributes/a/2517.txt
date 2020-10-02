@@ -1,0 +1,5 @@
+  color: #fff;
+  background: #b99769;
+  border-width: 0.0625rem;
+  border-style: solid;
+  border-color: #b99769;

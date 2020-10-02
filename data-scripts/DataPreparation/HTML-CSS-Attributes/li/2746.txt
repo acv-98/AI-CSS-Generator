@@ -1,0 +1,15 @@
+	float: left;
+	width: 25%;
+	height: auto;
+	margin: 0;	
+	text-indent: initial;
+	border-radius: 0;
+	background: none;
+	text-align: left;
+	border-color: #fff;
+	color: #fff;
+	content: "";
+	position: absolute;
+	left: 0;
+	top: -2px;
+		border-color: transparent;

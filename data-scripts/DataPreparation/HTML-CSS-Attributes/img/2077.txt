@@ -1,0 +1,12 @@
+	margin: 0 auto; 
+ padding: 0; .tm-news-container {
+	background-color: white;
+	display: -webkit-flex;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	padding-left: 3%;
+	padding-right: 3%;	

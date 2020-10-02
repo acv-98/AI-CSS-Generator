@@ -1,0 +1,12 @@
+clear:both; width:auto; float:none;    background: url("images/input_pattern.png") repeat-x scroll 0 0 #F3F0F0;
+    border: 1px solid #D5D4D4;
+    cursor: pointer;
+    display: block;
+    font-size: 9px;
+    height: 30px;
+    letter-spacing: 1px;
+    padding: 0 4px;
+    text-transform: uppercase;
+    margin:0;
+    
+ background: url("images/input_pattern_hover.png") repeat-x scroll 0 0 #fff;  color:#ddd;  float:left;  float:right;  margin:0 auto; 

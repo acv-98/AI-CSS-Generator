@@ -1,0 +1,11 @@
+	position:absolute;
+	left:60px;
+	top:0;
+	width:200px;
+	display:inline;
+	text-indent:-9999em;
+	float:left;
+	height:350px;
+	background-repeat:no-repeat;
+	background-position:0 0;
+	background-image:url(../images/m1.jpg);

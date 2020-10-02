@@ -1,0 +1,15 @@
+  position: relative;
+  max-width: 100%;
+  top: 0;
+  background: transparent;
+  opacity: 0.9;
+  width: 100%;
+  border-radius: 0;
+  margin-bottom: 0;
+   -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+  -webkit-transition-duration: 1s;
+  -moz-transition-duration: 1s;
+  -ms-transition-duration: 1s;
+  -o-transition-duration: 1s;
+  transition-duration: 1s;

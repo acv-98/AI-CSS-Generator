@@ -1,0 +1,10 @@
+    font-size: 38px;
+	color:#fff;
+	margin-top: 60px;
+	border: 2px solid white;
+    padding: 15px 40px;
+    color: #fff;
+    border-radius: 5px;
+	font-size:40px;
+	font-family: 'latolight';
+	

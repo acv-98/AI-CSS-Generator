@@ -1,0 +1,8 @@
+	margin-left:27px;
+	float:left;
+	width:282px;
+	height:190px;
+	-webkit-box-shadow:0 0 10px #aaa;
+	-moz-box-shadow:0 0 10px #aaa;
+	box-shadow:0 0 10px #aaa;
+	margin-bottom:0;

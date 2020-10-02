@@ -1,0 +1,14 @@
+    font-size: 40px;
+    font-weight:700;
+    margin-bottom: 30px;
+    color: #fff;
+    margin-top: 90px;
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 65%;
+    height: 60px;
+    display:inline-block;
+    background:#82ca9c;
+	border: 0px;
+	background-color: rgba(0, 173, 62, 0.75);

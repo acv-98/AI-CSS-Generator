@@ -1,0 +1,5 @@
+	background:url(../images/bg.jpg) 0 0 repeat;
+	position:relative;
+	width:100%;
+	z-index:999;
+	padding-bottom:1px;

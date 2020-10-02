@@ -1,0 +1,15 @@
+		background: url(../images/design/button-cut.png) no-repeat scroll top right #404040;
+		display: block;
+		float: left;
+		text-decoration:none !important;
+		height: 36px;
+		padding-right: 8px; 
+		margin-bottom:5px;
+		line-height: 26px;
+		font-weight:bold;
+		font-size:12px;
+		color:#ffffff;
+		font-family:Helvetica,arial,freesans,clean,sans-serif;
+		border:none !important;
+		font-style:normal;
+background-position:bottom right;background-position:bottom left;

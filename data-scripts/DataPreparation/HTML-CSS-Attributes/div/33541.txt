@@ -1,0 +1,4 @@
+	background:url(images/end-bracket.gif) no-repeat 0px 38px;
+	float: right;
+	height: 135px;
+	width: 30px;

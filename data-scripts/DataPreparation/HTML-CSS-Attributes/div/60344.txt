@@ -1,0 +1,18 @@
+		font-size: 12px;
+    background-color: transparent;
+    border-radius: 0;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    position: fixed;
+    top: 0; left: 0; right: 0; z-index: 300;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+	height:80px;
+	color:#666;
+    font-size: 14px;
+    line-height: 22px;
+    color: #fff;
+    border-bottom: 3px solid transparent;
+	text-transform:uppercase;

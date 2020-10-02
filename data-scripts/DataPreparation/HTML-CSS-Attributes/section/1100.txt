@@ -1,0 +1,18 @@
+		padding: 130px 100px 200px 100px;
+    background: url(../images/aboutbg.jpg) no-repeat 100% 100%;
+    background-size: cover; 
+	position:relative;	
+		
+    width: 100%;
+    padding: 130px 100px 321px 100px;
+	margin-top:30px;
+	font-size:24px;
+	color:#999999;
+	max-width:55%;
+.about_bottom_content h4{
+	font-family: 'coolveticaregular';
+	margin-bottom:40px;
+	margin-left: 20px;
+.features{
+	background:url(../images/featuresbg.jpg) no-repeat top center;
+	background-size:cover;

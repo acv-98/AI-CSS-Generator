@@ -1,0 +1,6 @@
+        margin-right: -170px;
+        overflow: hidden;
+        display: none;
+    float: right;
+    margin-top: -390px;
+    margin-left: -105px;

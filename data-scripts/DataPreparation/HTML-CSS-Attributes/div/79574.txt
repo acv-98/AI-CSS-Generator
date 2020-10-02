@@ -1,0 +1,6 @@
+    padding: 3rem 2rem;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;

@@ -1,0 +1,8 @@
+
+img {
+   max-width: 100%;
+   height: auto;
+   float: left;
+   text-align: left;
+      float: none;
+      text-align: center;

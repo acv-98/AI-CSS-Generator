@@ -1,0 +1,2 @@
+float:left;margin-left:29px;margin-left:0;
+display:block; float:left;display:block; float:left; border:1px solid #e7e8ea;border-color:#d1d1d1;margin:30px 0 30px;

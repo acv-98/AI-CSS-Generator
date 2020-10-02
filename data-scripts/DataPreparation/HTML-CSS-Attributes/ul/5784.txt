@@ -1,0 +1,31 @@
+  position: relative;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  min-height: 20px;
+  padding-left: 20px;
+  font-weight: normal;
+  cursor: pointer;
+  margin-left: -20px;
+  vertical-align: middle;
+  color: #3c763d;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    vertical-align: middle;
+    padding-left: 0;
+    position: relative;
+    margin-left: 0;
+  padding-top: 7px;
+    content: "\f00c";
+    font-family: "FontAwesome";
+    font-size: 16px;
+    left: 0;
+    padding-right: 10px;
+    top: 2px;
+    list-style: none;
+.authorbox,
+blockquote {
+    border: 0;
+    font-style: italic;
+    background-color: #f6f6f6;

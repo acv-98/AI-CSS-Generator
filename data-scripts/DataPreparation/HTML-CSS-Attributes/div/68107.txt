@@ -1,0 +1,8 @@
+	margin: 10px 20px;
+	padding: 0 20px;
+ list-style: disc;   font-weight: bold;
+  color: #6f892c;
+  padding-left: 20px; 
+ margin: 10px 20px; 		 
+acronym {cursor:help;
+margin:20px 20px 50px 20px;margin-bottom:10px;margin-bottom:15px;#featured-post img {float:left;

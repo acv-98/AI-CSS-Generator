@@ -1,0 +1,27 @@
+	z-index: 990;
+	text-align: center;
+	position: relative;
+float:left;position:relative; .sf-menu>li {
+	display: inline-block;
+	float: none;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 36px;
+	margin-left: 116px;
+  float: none;
+  position: static;
+	color: #e06091;
+	content: '';
+	width: 7px;
+	background: url(../images/arrows.png) right 0 no-repeat;
+	height: 5px;
+	right: -10px;
+	left: auto !important;
+	bottom: 5px;
+	pointer-events: none;
+	padding-top: 12px;
+	top: 104px;
+	padding-bottom: 14px;
+	background-color: #4d4d4d;
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 0;

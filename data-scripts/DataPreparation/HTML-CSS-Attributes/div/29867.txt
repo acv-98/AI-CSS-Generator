@@ -1,0 +1,8 @@
+	width:940px;
+	margin:0 auto;
+	position:relative;
+	padding:0 10px;
+	background:#1b557a url(images/header.gif) center top repeat-x;
+	height:92px;
+	padding-top:28px;
+	padding-bottom:4px;

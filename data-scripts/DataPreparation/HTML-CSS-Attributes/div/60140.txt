@@ -1,0 +1,4 @@
+	width: 435px;
+	float: right;
+	padding: 0 0 7px 0;
+	margin-top: -3px;

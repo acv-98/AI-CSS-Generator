@@ -1,0 +1,2 @@
+ overflow:hidden; margin:25px auto 30px auto; width:960px; float:left; width:660px; list-style:none; float:left; width:88px; text-align:center; line-height:40px; margin-right:10px; text-decoration:none; font-size:15px; font-weight:bold; text-transform:uppercase; text-align:center; display:block; color:#ffed71; color:#ffffff;  background:url(../images/menu-btn.png) no-repeat; background:url(../images/menu-btn.png) no-repeat; color:#ffed71; width:88px; height:40px; color:#ffffff;
+SOCIAL MEDIA CLASSES

@@ -1,0 +1,9 @@
+  padding-right: 12px;
+  padding-left: 12px;
+  border-width: 5px 5px 0;
+  border-bottom-width: 0;
+  line-height: 38px;
+  height: 38px;
+  width: 38px;
+  font-size: 22px;
+  vertical-align: top;

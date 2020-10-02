@@ -1,0 +1,10 @@
+ color: #C5F9D0; 
+.navbar-toggler {
+	background: rgba(0,0,0,0.5);
+    border: none;
+    border-radius: 0;
+    color: white;
+    display: block;
+    padding: 0.6rem 1rem;    
+    margin-left: auto;
+    margin-right: 0;

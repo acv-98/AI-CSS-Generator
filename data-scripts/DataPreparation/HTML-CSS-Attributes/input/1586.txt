@@ -1,0 +1,6 @@
+width:263px;
+height:29px;
+border:1px solid #949494;
+float:left;
+margin:10px 0px 0px 18px;
+background:#F4F4F4;

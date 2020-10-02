@@ -1,0 +1,5 @@
+	background-color:#ffd4e9;
+	color:#ac366a;
+	border-color:#a2205c;
+	width:900px;
+	margin:0 0 24px;

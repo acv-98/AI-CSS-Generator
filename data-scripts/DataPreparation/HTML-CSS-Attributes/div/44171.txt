@@ -1,0 +1,5 @@
+	    padding-bottom: 20px;
+        text-align: center;
+        padding-left: 30%;
+	    text-align: left;
+	    color: #fff;

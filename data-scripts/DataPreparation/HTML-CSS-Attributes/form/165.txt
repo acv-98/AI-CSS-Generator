@@ -1,0 +1,12 @@
+	float:left;
+	width:270px;
+	padding-left:25px;
+	display:block;
+	color:#fff;
+	background:#5C5F62;
+	margin:10px 0;
+	height:95px;
+	border:none;
+	cursor:pointer;
+	position:relative;
+	margin-bottom:-5px;

@@ -1,0 +1,18 @@
+	width: 50px;
+	padding: 5px 0px;
+	font-weight: bold;
+	line-height: 15px;
+	position: absolute;
+	z-index: 999;
+	top: -10px;
+	left: 20px;
+	background-color: rgba(139, 0, 0, 0.8);
+	color: white;
+	box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.5); 
+	display: inline-block; 
+	margin: 0px;
+	padding-bottom: 5px;
+	content: '';
+	border-right: 10px solid #5e0808;
+	border-bottom: 0px solid transparent;
+	border-top: 10px solid transparent; 

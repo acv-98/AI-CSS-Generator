@@ -1,0 +1,7 @@
+  background: none;
+  padding: 0;
+  font-size: 12px;
+  padding-right: 15px;
+  color: #dab074;
+  margin-left: 35px;
+  

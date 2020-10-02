@@ -1,0 +1,9 @@
+	width: 305px;
+	margin-right: 10px;
+	background: #F0F0F0;
+	margin-bottom: 15px;
+	border: solid 1px #E5E5E5;
+	float: left;
+	font-size: 12px;
+	padding: 5px 5px 5px 5px;
+	line-height: 18px;

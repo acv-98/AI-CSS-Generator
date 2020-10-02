@@ -1,0 +1,6 @@
+ margin-bottom: 50px; 
+.tm-content-boxes-row {
+	padding-top: 40px;	
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;

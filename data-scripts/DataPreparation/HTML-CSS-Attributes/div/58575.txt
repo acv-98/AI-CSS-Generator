@@ -1,0 +1,11 @@
+	float: right;
+	width: 38%;
+	text-align: right;
+	margin-right: 1.8em;
+	display:inline-block;
+	height:23px;
+		margin-right: 1em;
+		float:none;
+		width:100%;
+		margin-top:1em;
+		text-align:left;

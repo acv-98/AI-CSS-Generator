@@ -1,0 +1,5 @@
+ float:  right; 
+#wrapper_outter {
+	width: 100%;
+	margin: 0 auto;
+	background: url(images/body_top.jpg) top center no-repeat;

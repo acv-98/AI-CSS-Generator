@@ -1,0 +1,4 @@
+	color:#fff;
+	background: #DABB3A;
+  display: inline-block;
+  color: #fff;

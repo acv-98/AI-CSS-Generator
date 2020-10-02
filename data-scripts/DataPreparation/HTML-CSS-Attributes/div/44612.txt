@@ -1,0 +1,9 @@
+	overflow: hidden;
+	position: relative;
+	display: block;
+	bottom: 0px;
+	left: 10px;
+	width: 430px;
+	padding: 10px 10px 0px 10px;
+	font-size: 26px;
+	background: white;

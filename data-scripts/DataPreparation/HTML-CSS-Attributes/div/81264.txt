@@ -1,0 +1,7 @@
+	height:120px;
+	overflow:hidden;
+	text-align:center;
+	margin:0;
+	font-size:305%;
+	line-height:1.1;
+	color:#FFF;

@@ -1,0 +1,15 @@
+	padding:26px 0 35px;
+	position:relative;
+	color:#000;
+	text-decoration:underline;
+	padding-bottom:15px;
+	font-size:13px;
+	padding-left:12px;
+	padding-right:16px;
+	width:385px;
+	float:left;
+	display:inline;
+	height:57px;
+	background:url(images/left-abs-ico.gif) no-repeat 0 0;
+	top:60px;
+	right:-36px;

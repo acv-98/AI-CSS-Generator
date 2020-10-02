@@ -1,0 +1,11 @@
+	margin:0 auto;
+	padding:0;
+	width:1026px;
+	background:url(images/header_bg_center.gif) top center;
+	height:330px;
+	float:left;
+	font:bold 24px Arial, Helvetica, sans-serif;
+	color:#fcfdfe;
+	line-height:1.7em;
+	font-weight:bold;
+	text-decoration:underline;

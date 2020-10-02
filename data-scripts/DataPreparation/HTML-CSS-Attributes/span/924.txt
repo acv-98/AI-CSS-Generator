@@ -1,0 +1,4 @@
+	color:#00BFF0;
+	font-size:0.85em;
+	text-transform:uppercase;
+	vertical-align: -webkit-baseline-middle;

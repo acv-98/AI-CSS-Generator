@@ -1,0 +1,3 @@
+  float: none;
+  text-align: center;
+color:#fff;color: #ffd500;

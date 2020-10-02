@@ -1,0 +1,8 @@
+height: 107px !important;	width: 50%;
+	height: 220px;
+	background: url(../images/dot.png);
+	float: left;
+	position: relative;
+	border-radius: 0 0 0 5px;
+	transition:all 1s;
+	

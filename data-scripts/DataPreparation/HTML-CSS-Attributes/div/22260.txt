@@ -1,0 +1,6 @@
+	background:#68A4C4;
+	padding: 20px 0;
+	text-align: center;
+	color: #fff;
+	font-weight: 700;
+	text-decoration: none;

@@ -1,0 +1,14 @@
+  background: #effea9 url('../images/icons/tick_contact.png') no-repeat 15px center;
+  border: 1px solid #d7ee6e;
+  color: #839607;
+  margin: 0 auto 30px;
+  padding: 10px 15px 10px 55px;
+background:url("images/icons/message/check.png") no-repeat 15px center #ebfab6;border:1px solid #bbcc5b;color:#599847; background-image:url('images/icons/success.png');  padding:10px 15px 10px 55px; border:1px solid; margin:0 auto 30px; background:no-repeat 15px center; width:400px;  background-color:#effea9; border-color:#d7ee6e; color:#839607; background-image:url('images/icons/tick_contact.png');  border-radius:8px; -moz-border-radius:8px; -webkit-border-radius:8px; .hentry .features-tab-container {
+    background: #fff url(images/bg-features-tab.png) repeat-y left top;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+    -moz-border-radius: 5px;    
+    -webkit-border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    width: 700px;

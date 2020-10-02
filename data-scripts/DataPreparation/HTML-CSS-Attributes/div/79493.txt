@@ -1,0 +1,8 @@
+  margin-bottom: 30px;
+    text-align: left;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: "Source Sans Pro", Arial, sans-serif;
+  color: #fff;

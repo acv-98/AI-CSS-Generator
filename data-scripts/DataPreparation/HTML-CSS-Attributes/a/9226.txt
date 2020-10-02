@@ -1,0 +1,4 @@
+height:13px
+Slider elastic 
+              
+ background:url('images/icons/socials/facebook.png') no-repeat 

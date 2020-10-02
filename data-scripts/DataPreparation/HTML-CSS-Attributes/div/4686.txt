@@ -1,0 +1,9 @@
+	float:right;
+	width:260px;
+	margin:0;
+	padding:0;
+	list-style:none;
+	background:url(images/ul_li.gif) 10px 7px no-repeat;
+	font:normal 14px Arial, Helvetica, sans-serif;
+	color:#464646;
+	text-decoration:none;

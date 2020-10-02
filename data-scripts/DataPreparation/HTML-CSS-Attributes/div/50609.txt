@@ -1,0 +1,16 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/semi-transparent.png', sizingMethod='scale');
+	position:absolute;
+	top:1px;
+	right:1px;
+	height:317px;
+	width:230px;
+	padding:34px 20px 0 25px;
+	color:#dfd5d5;
+	line-height:18px;
+	padding-bottom:18px;
+	text-align:justify;
+	padding-right:4px;
+	float:left;
+	border:1px solid #434340;
+	padding-left:7px;

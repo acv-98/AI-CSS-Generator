@@ -1,0 +1,3 @@
+position:absolute; top:50%; right:0; display:block; border:1px solid #fff; width:20px; height:20px; margin-top:-10px; background:url("img/remove.png") no-repeat 50%; text-indent:-9999px;background-color:#f7f7f7; border-color:#ccc;	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;

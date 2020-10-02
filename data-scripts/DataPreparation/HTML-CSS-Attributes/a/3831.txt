@@ -1,0 +1,3 @@
+  font-size: 25px;
+  line-height: 56px;
+  padding-left: 1px;

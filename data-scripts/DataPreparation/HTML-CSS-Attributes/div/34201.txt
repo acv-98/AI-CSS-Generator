@@ -1,0 +1,6 @@
+	width: 507px;
+	float: left;
+	height: 441px;
+	border: 15px solid #8f686e;
+	overflow: hidden;
+	margin-top: 4px;

@@ -1,0 +1,2 @@
+	background: url(../images/arrow-icon1-r.png) no-repeat 0px 0px;
+	left: -20px;

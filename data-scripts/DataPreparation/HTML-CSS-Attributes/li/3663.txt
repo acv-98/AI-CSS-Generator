@@ -1,0 +1,6 @@
+ background: url(../img/icon-email.png) no-repeat top left 
+#posts-list,
+#post-content{
+	position: relative;
+	width: 580px;
+	float: left;

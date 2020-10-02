@@ -1,0 +1,4 @@
+	background:url(../images/small-arrow.gif) no-repeat 0 50%;
+	padding-left:23px;
+	font-weight:bold;
+	text-transform:uppercase;

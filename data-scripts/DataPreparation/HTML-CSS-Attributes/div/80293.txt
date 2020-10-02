@@ -1,0 +1,6 @@
+behavior:url(../js/PIE.htc);position:relativemargin:0 auto;background:url(../images/tail-cont.png);
+     padding:38px 0;
+	 border-radius:13px;
+	-moz-border-radius:13px;
+	-webkit-border-radius:13px;	
+	min-height: 565px;

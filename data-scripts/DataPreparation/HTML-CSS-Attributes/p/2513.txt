@@ -1,0 +1,12 @@
+  background: #e0d9c4;
+  margin: 0 0 0 43px;
+  padding: 0 12px;
+  font-size: 110%;
+  font-style: italic;
+  border: 1px solid #f2efe5;
+  min-height: 38px;
+  color: #75695e;
+  height: auto !important;
+  line-height: 100%;
+  margin-top: 10px;
+  display: block;

@@ -1,0 +1,8 @@
+        font-size: 13px;
+        margin-right: 6px;
+    padding:0;
+    list-style: none;
+    display: inline-block;
+    line-height: 1;
+    content: "/";
+    padding-left: 1rem;

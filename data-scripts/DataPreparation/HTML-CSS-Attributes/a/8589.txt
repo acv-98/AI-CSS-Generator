@@ -1,0 +1,7 @@
+	border-radius: 6px;
+	color: black;
+	padding: 10px 40px;
+	background-color: #cc9900;
+ padding: 10px 25px;  padding: 10px 35px; 	#tmNavbar {
+		background: white; 
+		border-radius: 6px;

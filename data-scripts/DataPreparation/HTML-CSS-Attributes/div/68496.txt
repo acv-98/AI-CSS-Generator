@@ -1,0 +1,8 @@
+        right: 0% !important;
+        left: 0%;
+		width: 500px;
+		display: none;
+    width: 700px;
+    position: absolute;
+    z-index: 2;
+    bottom: -32%;

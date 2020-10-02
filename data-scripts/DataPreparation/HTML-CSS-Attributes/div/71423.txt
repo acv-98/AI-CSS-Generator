@@ -1,0 +1,16 @@
+height: auto;
+white-space: inherit;
+	border: 1px solid #ffffff;
+	border-radius: 0;
+	padding: 10px 30px;
+	height: 100px;
+	color: inherit;
+	outline: thin dotted transparent;
+	outline-offset: -2px;
+	position: relative;
+	margin: 0 auto;
+nav#menu span.fa.fa-bars{
+	font-size: 30px;
+	left: 120px;
+	cursor: pointer;
+	z-index: 1;

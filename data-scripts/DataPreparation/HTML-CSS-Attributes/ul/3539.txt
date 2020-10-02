@@ -1,0 +1,8 @@
+	margin-top:-18px;
+	width:100%;
+	overflow:hidden;
+	vertical-align:top;
+	line-height:1.429em;
+	padding-top:18px;
+	float:left;
+	margin-right:22px;

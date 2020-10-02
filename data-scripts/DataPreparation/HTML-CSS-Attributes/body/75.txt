@@ -1,0 +1,4 @@
+	overflow: hidden;
+	min-height: 1000px;
+	padding: 0px 0px 50px 0px;
+	background: #FFFFFF url(images/img02.png) repeat-x left top;

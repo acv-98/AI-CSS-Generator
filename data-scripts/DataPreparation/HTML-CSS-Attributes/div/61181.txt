@@ -1,0 +1,15 @@
+	background-color: #f6f6f6;
+	display: inline;
+	float: left;
+	width: 100%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+.mu-single-team-content {
+	padding: 15px 33px;
+	font-size: 18px;
+	color: #323232;
+		width: 26%;
+		padding: 10px 10px;
+		margin-bottom: 0;
+		font-size: 12px;
+		text-align: center;

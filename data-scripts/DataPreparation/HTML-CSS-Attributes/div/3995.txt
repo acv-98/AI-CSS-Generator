@@ -1,0 +1,15 @@
+	padding-top: 6px;
+	color: #848383;
+		 -moz-box-sizing: border-box;
+ -webkit-box-sizing: border-box;
+ -o-box-sizing: border-box;
+ box-sizing: border-box;
+ display: block;
+ margin-bottom: 42px;
+	width: 100%;
+	height: 282px;
+	max-width: 100%;
+	float: left;
+	margin-right: 80px;
+	line-height: 20px;
+	margin-bottom: 2px;

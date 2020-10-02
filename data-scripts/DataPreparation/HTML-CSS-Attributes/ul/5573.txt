@@ -1,0 +1,5 @@
+		padding-bottom: 24px;
+		margin-bottom: 8px;
+		display: inline-block;
+		float: none;
+		margin-top: 0px;

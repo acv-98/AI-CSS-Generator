@@ -1,0 +1,5 @@
+	list-style:none;
+	padding-bottom:11px;
+	background:url(images/blogroll-border.gif) center bottom no-repeat;
+	margin-bottom:10px;
+	line-height:15px;

@@ -1,0 +1,16 @@
+    border:1px solid #000;
+    margin:3px;
+        padding:12px;
+        color:#fff;
+        line-height:25px;
+   
+  background-color: #000;
+  text-align: center;
+  padding-bottom:30px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-o-box-sizing: border-box;
+		width: 100%;		
+        opacity:.2;
+		float:left;
+		overflow:hidden;

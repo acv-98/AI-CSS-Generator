@@ -1,0 +1,8 @@
+    position: relative;
+    z-index: 1;
+    margin-bottom: 25px;
+    color: #fff;
+    padding: 0;
+    list-style: none;
+    letter-spacing: 1px;
+    text-decoration: none;

@@ -1,0 +1,6 @@
+     margin-top: 30px;
+     float: left;
+     width: 100%;
+     padding: 8px 15px;
+     border: solid #ccc 1px;
+     margin-bottom: 25px;

@@ -1,0 +1,3 @@
+	display: block;
+	background: rgba(248, 98, 130, 0.8);
+	color: #000000;

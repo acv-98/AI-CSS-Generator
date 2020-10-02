@@ -1,0 +1,3 @@
+  margin-left: 0;
+margin-left: -15px;.single_more_works{background: none repeat scroll 0 0 #222;
+margin-bottom: 15px;

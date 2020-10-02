@@ -1,0 +1,9 @@
+	position:absolute;
+	right:57px;
+	top:31px;
+	float:left;
+	font-size:.857em;
+	background:url(../images/divider.gif) repeat-y right top;
+	padding-right:25px;
+	margin-right:25px;
+	text-decoration:none;

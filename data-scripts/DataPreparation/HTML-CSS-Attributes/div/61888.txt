@@ -1,0 +1,8 @@
+  padding-left: 30px;
+  color: #fff;
+  margin-bottom: 10px;
+    padding-left: 15px;
+  list-style: none;
+  text-transform: uppercase;
+  font-size: 13px !important;
+  font-family: "Montserrat", sans-serif;

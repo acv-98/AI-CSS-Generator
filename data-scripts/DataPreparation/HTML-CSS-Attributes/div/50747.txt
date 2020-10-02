@@ -1,0 +1,11 @@
+	float:right;
+	display:inline;
+	width:231px;
+	padding:10px 14px 0 0;
+	background:url('images/search-field.gif') no-repeat 0 0;
+	height:32px;
+	border:0;
+	cursor:pointer;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;

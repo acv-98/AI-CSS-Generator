@@ -1,0 +1,6 @@
+    background: none;
+    width: 232px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;

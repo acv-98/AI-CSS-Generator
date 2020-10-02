@@ -1,0 +1,6 @@
+	background:url(../images/navigation.gif) no-repeat left 0;
+	margin:0 0 0 3px;
+	float:left;
+	height:58px;
+	text-align:center;
+	background-color:#20202c;

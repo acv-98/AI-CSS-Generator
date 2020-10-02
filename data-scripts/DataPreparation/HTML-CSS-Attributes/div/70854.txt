@@ -1,0 +1,8 @@
+	padding:0;
+	margin:0;
+	background:url(../images/hbg_bg.jpg) no-repeat center 112px;
+	float:right;
+	width:680px;
+	margin-bottom:0;
+	border:1px solid #fdf4d9;
+	color:#585757;

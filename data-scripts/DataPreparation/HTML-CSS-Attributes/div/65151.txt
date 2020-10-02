@@ -1,0 +1,4 @@
+	height: 47px;
+	line-height: 47px;
+	background: transparent;
+	color: #b5b5b5;

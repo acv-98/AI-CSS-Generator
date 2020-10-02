@@ -1,0 +1,5 @@
+	width:950px;
+	background:url(../images/bg-page.jpg) repeat-y;
+	margin:0 auto;
+	padding:34px 0 0;
+	overflow:hidden;

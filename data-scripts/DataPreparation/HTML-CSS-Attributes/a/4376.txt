@@ -1,0 +1,4 @@
+        padding: 15px 50px;
+    border: 2.5px solid #fff;
+    color: #fff;
+    border-radius: 0;

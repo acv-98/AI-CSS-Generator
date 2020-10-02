@@ -1,0 +1,12 @@
+	background: url(../images/bg-button.gif) 0 140px;
+	color: #fff;
+	display: inline-block;
+	font-size: 18px;
+	height: 40px;
+	letter-spacing: 5px;
+	line-height: 40px;
+	margin-left: 5px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	width: 100px;

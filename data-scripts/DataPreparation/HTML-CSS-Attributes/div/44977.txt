@@ -1,0 +1,15 @@
+  position: absolute;
+  top: 20px;
+  right: 0;
+  z-index: 1;
+  color: #dbb075;
+  cursor: pointer;
+  padding-left: 10px;
+  height: 40px;
+  font-size: 18px;
+  font-weight: 300;
+  outline: none;
+  border: 1px solid #dbb075;
+  margin-top: 20px;
+  border-radius: 4px;
+    top: -40px;

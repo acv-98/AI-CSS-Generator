@@ -1,0 +1,18 @@
+background:none repeat scroll 0 0 #999;.aside-nav > ul > li.active-item > a:link, .aside-nav > ul > li.active-item > a:visited {
+  background:none repeat scroll 0 0 #999;
+  color:#fff;
+  transition:background 0.20s linear 0s;
+  -o-transition:background 0.20s linear 0s;
+  -ms-transition:background 0.20s linear 0s;
+  -moz-transition:background 0.20s linear 0s;
+  -webkit-transition:background 0.20s linear 0s;
+  content:"\f006";
+  display:inline-block;
+  font-family:"mfg";
+  font-size:0.6em;
+  margin:0 0.625em 0 -1.25em;
+  width:0.625em;
+	background: none repeat scroll 0 0 #00283a;
+	border-top: 2px solid #92c500;
+	color: #92c500;
+	position: relative;

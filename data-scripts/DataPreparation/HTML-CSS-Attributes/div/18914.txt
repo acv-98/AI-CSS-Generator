@@ -1,0 +1,1 @@
+float:left;width:971px; background:url(../images/top_curve_1.gif) no-repeat 0 0

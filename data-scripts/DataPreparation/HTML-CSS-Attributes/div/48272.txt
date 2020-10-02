@@ -1,0 +1,8 @@
+	border: 1px solid #fff;
+	width: 360px;
+	height: 284px;
+	text-align: center;
+	margin: 21px auto;
+		width: 338px;
+		height: 267px;
+		margin: 17px auto;

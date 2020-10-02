@@ -1,0 +1,6 @@
+	text-transform:none;
+	font-style:italic;
+	display:inline-block;
+	margin-top: 20px;
+	border: 1px solid;
+	padding: 20px;

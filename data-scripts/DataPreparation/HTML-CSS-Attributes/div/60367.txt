@@ -1,0 +1,6 @@
+		margin-bottom: 10px;
+	overflow:hidden;
+	font-size:35px;
+	color:#FF3366;
+	float:left;
+	width: 35px;

@@ -1,0 +1,40 @@
+ bottom: 0;  float: right;  float: left; 
+#yoxview_popupWrap
+{
+	position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+    z-index: 100;
+ position: absolute; top: 0; left: 0; #yoxview div.yoxview_mediaPanel
+{ 
+	background: #191919; 
+	width: 100%; 
+	height: 100% 
+ outline: none; outline: none;#yoxview .yoxview_notification
+	top: 50%; 
+	left: 50%; 
+	margin-top: -30px;
+	margin-left: -30px;
+	z-index: 4;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+	background-image: url(images/sprites.png);
+	background-repeat: no-repeat;
+	display: none;
+ color: #a7d557; text-decoration: none; outline: none;  color: #d5eeaa #yoxview_infoPanel a.yoxviewInfoLink
+	float: right;
+	margin-right: 5px;
+ opacity: 1 #yoxview #yoxview_helpPanel
+	color: White;
+	padding: 20px;
+	padding-top: 10px;
+	cursor: pointer;
+ font-size: 10pt;  top: 0; width: 50%;  width: 100%; height: 100%; position: absolute;  border: none; background: #333; .yoxview-thumbnails a
+ margin-bottom: 1em;  margin-bottom: 0; padding: 0; font-size: 1.2em; font-weight: bold; font-family: Arial, Sans-Serif; font-size: 10pt; cursor: -moz-zoom-in  cursor: -moz-zoom-out .yoxview_top_menu #yoxview_infoPanel
+	bottom: auto;
+ opacity: 0.8; .yoxview_top_menu a.yoxview_nextBtn
+	background-position: right top;
+	right : 0;

@@ -1,0 +1,1 @@
+background:url("../images/topnav_a.png") top left no-repeat;background:url("../images/topnav_a_span.png") top right no-repeat;

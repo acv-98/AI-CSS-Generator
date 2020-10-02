@@ -1,0 +1,8 @@
+	width:100%;
+	overflow:hidden;
+	padding-bottom:40px;
+	font-style:normal;
+	line-height:1.429em;
+	float:left;
+	color:#008cc4;
+	margin:0;

@@ -1,0 +1,1 @@
+background: #232323;border: 1px solid #454547;padding: 10px 5px;border-radius: 4px;width: 210px;color: #e0e0e0;font-style: italic;margin-bottom: 10px

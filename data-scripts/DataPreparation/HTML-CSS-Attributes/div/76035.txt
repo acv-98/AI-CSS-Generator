@@ -1,0 +1,2 @@
+	padding: 7% 0;
+	background: #F8BC3A;

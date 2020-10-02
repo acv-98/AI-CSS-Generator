@@ -1,0 +1,5 @@
+ background-color: rgba(211,150,14,0.8); 
+.footer {
+	color: white;
+	font-size: 12px;
+	padding-right: 0;

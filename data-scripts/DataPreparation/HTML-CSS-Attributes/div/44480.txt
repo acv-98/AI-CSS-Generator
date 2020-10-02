@@ -1,0 +1,6 @@
+  width: 100% !important;
+  min-width: 780px;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: block;
+  height: 190px;

@@ -1,0 +1,5 @@
+	   margin:0px auto;
+	   text-align:center;
+		color: #FFF;
+		margin: 0 15px 0px 0px;
+		font-size: 65px;

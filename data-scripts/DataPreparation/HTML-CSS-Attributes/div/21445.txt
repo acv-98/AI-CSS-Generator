@@ -1,0 +1,2 @@
+	background:url(images/bottom-bottom.gif) left bottom no-repeat;
+	padding:4px 14px 14px 14px;

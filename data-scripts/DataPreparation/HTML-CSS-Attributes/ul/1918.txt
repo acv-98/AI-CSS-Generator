@@ -1,0 +1,9 @@
+	background:none;
+	padding:0;
+	width:100%;
+	overflow:hidden;
+	padding-bottom:22px;
+		float:left;
+		margin-right:20px;
+		margin-bottom:12px;
+		color:#fa9a87;

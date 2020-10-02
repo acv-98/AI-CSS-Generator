@@ -1,0 +1,11 @@
+	margin: 10px 20px; padding: 0;
+	width: 560px;	
+	float: left;
+	display: block;
+	padding: 5px 7px;
+	border: 1px solid #E7871C;
+	background-color: #E27304; 
+	text-transform: lowercase;
+	text-decoration: none;	
+	font-weight: bold;
+	color: #fff;		

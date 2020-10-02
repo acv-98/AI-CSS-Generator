@@ -1,0 +1,7 @@
+	background:url(../img/black/box_right_top.png);
+	width: 661px;
+	overflow:hidden;
+	float: left;
+	height:9px;
+	margin: 0 0 30px;
+	font-weight:bold;

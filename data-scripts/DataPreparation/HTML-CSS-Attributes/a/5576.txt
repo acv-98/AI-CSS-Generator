@@ -1,0 +1,15 @@
+	font-size: 0;
+	line-height: 0;
+	text-align: right;
+	padding-top: 23px;
+	margin-top: 0 !important;
+	cursor: pointer;
+	margin-left: 27px;
+	padding-right: 0;
+		padding-bottom: 0;  
+    margin-top: 73px;
+    color: #fff;
+    display: inline-block;
+    padding: 22px 62px 24px;
+    background-color: #3da9b6;
+    font: bold 30px/40px 'Dosis', sans-serif;

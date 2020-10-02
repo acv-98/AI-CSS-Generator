@@ -1,0 +1,16 @@
+    -webkit-border-radius: .5em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+  	
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding: 1em ;
+      background-image: url(../img/bird.png);
+      background-repeat: no-repeat;
+      background-position: 6px 19px;
+      padding-left: 40px;
+      padding-right: .5em;
+      float: left;
+        vertical-align: middle;

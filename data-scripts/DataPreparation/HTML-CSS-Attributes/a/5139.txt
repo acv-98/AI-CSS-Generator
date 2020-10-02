@@ -1,0 +1,2 @@
+	background: url(../images/icon.gif) no-repeat 10px -123px;
+	line-height: 30px;

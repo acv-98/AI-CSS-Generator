@@ -1,0 +1,1 @@
+ background: url(../img/social-icons/circular/virb_32.png);  background: url(../img/social-icons/rounded/virb_32.png); 

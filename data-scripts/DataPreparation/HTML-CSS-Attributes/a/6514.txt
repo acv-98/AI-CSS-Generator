@@ -1,0 +1,4 @@
+	color:#ff8a00;
+	margin-left:10px;
+	font-size:.8em;
+	text-decoration:underline;

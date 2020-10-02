@@ -1,0 +1,3 @@
+	font-size:0.8125em;
+	line-height:1.8em;
+	color: #1E1E24;

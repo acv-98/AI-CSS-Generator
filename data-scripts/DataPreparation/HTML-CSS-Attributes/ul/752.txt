@@ -1,0 +1,4 @@
+margin-left:-20px;list-style:none;*zoom:1;clear:both;margin-left:0;float:left;margin-bottom:20px;margin-left:20px;.visible-print
+    margin: 0
+    text-align: center;
+    margin-bottom: 0

@@ -1,0 +1,3 @@
+   display: inline-block;
+   font: 15px/24px notosans-bold, sans-serif;
+   color: #313131;

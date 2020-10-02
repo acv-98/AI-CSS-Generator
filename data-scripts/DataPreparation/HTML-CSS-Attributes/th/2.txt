@@ -1,0 +1,5 @@
+	font-size: 2rem;
+	font-weight: 300;
+ font-size: 1.6rem; 	.tm-plan-table-header, 
+	.tm-plan-table-cell	{
+	    padding: 1rem 1.5rem;

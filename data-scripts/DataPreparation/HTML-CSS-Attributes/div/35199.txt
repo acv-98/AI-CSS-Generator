@@ -1,0 +1,2 @@
+ border:solid 1px #dedede; position:relative; height:114px; overflow:hidden;  list-style-type: none; height:94px; position:relative; overflow:hidden; width:805px; float:left; width:94px; height:94px; border-right:dashed 1px #ccc; padding:0 10px; border-right:0; 
+ width:804px; height:94px; position:relative; overflow:hidden; top:10px; left:70px; width:804px; height:94px; position:relative; overflow:hidden; 

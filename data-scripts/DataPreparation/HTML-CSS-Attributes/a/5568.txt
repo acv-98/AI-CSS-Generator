@@ -1,0 +1,9 @@
+    margin-bottom: 61px;
+    display: inline-block;
+    background: url(../images/totop.png) 0 0 no-repeat;
+    width: 82px;
+    height: 82px;
+    transition: 0s ease;
+    -o-transition: 0s ease;
+    -webkit-transition: 0s ease;
+    background-position: right 0;

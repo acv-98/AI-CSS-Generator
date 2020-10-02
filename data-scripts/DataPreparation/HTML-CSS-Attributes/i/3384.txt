@@ -1,0 +1,4 @@
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0d2;');
+  content: "\f0d2";
+	background: #d84848;
+	color: #fff;

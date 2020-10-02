@@ -1,0 +1,5 @@
+padding: 48px 28px 60px;height: 160px;padding: 20px 34px 60px;height: 200px;
+.logo {
+  float: none !important;
+  width: 74%;
+height: 200px;background: none repeat scroll 0 0 #35A1FB;height: 108px;

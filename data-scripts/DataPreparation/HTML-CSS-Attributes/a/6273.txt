@@ -1,0 +1,8 @@
+	background:url(images/prev-next.gif) no-repeat 0 0;
+	width:18px;
+	height:27px;
+	position:absolute;
+	top:141px;
+	z-index:100;
+	background-position:0 -27px;
+	right:17px;

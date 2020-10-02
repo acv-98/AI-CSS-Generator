@@ -1,0 +1,13 @@
+    margin: 8px;
+    position: relative;
+    border: 3px solid #00cb86;
+    transition: all 0.5s ease 0s;
+    border-color: #12557f;
+    content: "";
+    width: 100%;
+    height: 0;
+    background: #00cb86;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    transform-origin: 0 0 0;

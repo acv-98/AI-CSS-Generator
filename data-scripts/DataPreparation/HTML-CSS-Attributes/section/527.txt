@@ -1,0 +1,1 @@
+ background: #009bb9 url(images/slider-section.png) repeat-x center 0; min-height: 399px; 

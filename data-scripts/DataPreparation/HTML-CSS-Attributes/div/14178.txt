@@ -1,0 +1,8 @@
+	display: inline-block;
+	padding: 10px 15px 5px 5px;
+    background:  url(images/more_button.png) bottom right no-repeat;
+	text-align: center;
+	color: #026181;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;

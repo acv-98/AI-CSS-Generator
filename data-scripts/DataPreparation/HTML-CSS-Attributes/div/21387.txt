@@ -1,0 +1,4 @@
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 -1.25rem 3.125rem 0 rgba(34, 35, 36, 0.05);
+    margin-top: -.4375rem;

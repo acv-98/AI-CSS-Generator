@@ -1,0 +1,16 @@
+  	padding: 0 4%;
+   text-align: center;
+   font: 20px/36px 'montserrat-bold', sans-serif;
+   color: #333;
+   text-transform: uppercase;
+   letter-spacing: 1.5px;
+   margin-bottom: 12px;
+ font: 18px/30px 'montserrat-bold', sans-serif;  padding: 0 30px;    #nav-wrap {
+      font: 11px 'montserrat-regular', sans-serif;
+      background: transparent !important;
+      letter-spacing: 1.5px;  
+      color: #515968;
+      
+      position: absolute;
+      top: 0;
+      right: 0;

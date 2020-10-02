@@ -1,0 +1,6 @@
+	clear:both;
+	padding:0;
+	margin:10px 0;
+	height:1px;
+	border-bottom:1px dashed #a1a1a1;
+	list-style:none;

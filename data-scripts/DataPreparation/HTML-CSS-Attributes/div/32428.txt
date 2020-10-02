@@ -1,0 +1,4 @@
+width:100%;width:100%;	.row{
+		width:100%;
+		background:#eaeaea;
+		padding:2.857em 0;

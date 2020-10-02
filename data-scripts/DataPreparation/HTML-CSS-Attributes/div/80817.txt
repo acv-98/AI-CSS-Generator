@@ -1,0 +1,8 @@
+	color: #485460;
+	font-size: 0.8725em;
+	margin: 0em 1em;
+	vertical-align: middle;
+	border: 1px solid #fff;
+	width: 30px;
+	height: 30px;
+		float: none;

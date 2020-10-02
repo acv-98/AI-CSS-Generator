@@ -1,0 +1,1 @@
+margin-bottom: 20px !important; float: none !important;display: inline-block;text-transform: uppercase; float: left;color: #fff;font-size: 30px;line-height: 36px;font-family: 'fjalla_oneregular'; margin: 0;

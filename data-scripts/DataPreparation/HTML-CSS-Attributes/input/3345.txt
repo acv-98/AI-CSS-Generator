@@ -1,0 +1,11 @@
+  text-transform: uppercase;
+  background: white;
+  color: #2c2c2c;
+  font-weight: 700;
+  padding: 14px 17px;
+  -webkit-transition: all 200ms ease-in-out;
+  -moz-transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out;
+  border-color: #f69730;
+  margin-left: 152px;
+    margin-left: 0;

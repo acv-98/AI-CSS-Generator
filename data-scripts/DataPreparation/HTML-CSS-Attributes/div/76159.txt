@@ -1,0 +1,5 @@
+	background:url(images/hbox2.jpg) repeat-y;
+	padding: 0 10px 0 10px;
+	padding-bottom:5px;
+	color:#656f42;
+	text-shadow:#dde4c4 1px 1px 1px;

@@ -1,0 +1,4 @@
+	width: 300px;
+	padding-right: 0;
+	right: 0;
+		width: 60%;

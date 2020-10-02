@@ -1,0 +1,5 @@
+  margin-top: 17px;
+  color: #cdd2d6;
+  display: block;
+  margin-bottom: 10px;
+  text-align: center;

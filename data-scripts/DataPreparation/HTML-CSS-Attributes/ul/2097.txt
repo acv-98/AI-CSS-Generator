@@ -1,0 +1,17 @@
+	max-width: 100%;
+	list-style: none;
+	margin: 30px -7px;
+	padding: 0;
+	display: block;
+	float: left;
+	width: 33%;
+	opacity: 0;
+	outline: none;
+	border: none;
+	-webkit-transform: translateY(200px);
+	-moz-transform: translateY(200px);
+	transform: translateY(200px);
+	-webkit-animation: moveUp 0.65s ease forwards;
+	-moz-animation: moveUp 0.65s ease forwards;
+	animation: moveUp 0.65s ease forwards;
+		width: 50%;

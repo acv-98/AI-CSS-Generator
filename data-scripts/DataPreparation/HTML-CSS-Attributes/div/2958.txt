@@ -1,0 +1,3 @@
+border-left: 1px solid #BABABA;
+border-right:1px solid #BABABA; 
+border-bottom: 1px solid #BABABA;

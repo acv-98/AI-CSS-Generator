@@ -1,0 +1,6 @@
+  position:absolute;
+  width:56px;
+  height:92px;
+  background:url(../img/ribbon-right.png) no-repeat;
+  top:-18px;
+  right:-56px;

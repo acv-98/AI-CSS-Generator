@@ -1,0 +1,11 @@
+	text-align:center;
+	width:220px;
+	height:70px;
+	display: inline-block;
+	background: url(../images/btn.png) no-repeat 0px 0px;
+	font-size:1em;
+	font-weight:500;
+	line-height:4em;
+	color: #ffb500;
+	text-transform: uppercase;
+	background-size: 100%;

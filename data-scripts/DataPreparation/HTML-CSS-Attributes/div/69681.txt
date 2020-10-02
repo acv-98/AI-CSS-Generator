@@ -1,0 +1,4 @@
+    position: relative;
+	border: 8px solid #a8cf45;	
+    width: 100%;
+	position: relative;

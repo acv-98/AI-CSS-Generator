@@ -1,0 +1,13 @@
+ position: relative; .navbar-container {
+	background-color: #cc9900; 
+	font-size: 1em;
+	position: absolute; 
+	display: -webkit-flex;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding: 40px;
+    z-index: 1000;

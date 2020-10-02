@@ -1,0 +1,12 @@
+	position: relative;
+	padding-bottom: 2.1rem;
+	content: "";
+	display: block;
+	width: 80px;
+	height: 1px;
+	background: rgba(249, 218, 79, 0.5);
+	bottom: 0;
+	left: 50%;
+	margin-left: -40px;
+	font-size: 6rem;
+	color: #f9da4f;

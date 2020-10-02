@@ -1,0 +1,9 @@
+  width: 90px;
+  text-align: center;
+  padding: 10px;
+  background: #fff;
+  display: block;
+  color: #333;
+  font-size: 30px;
+  letter-spacing: 2px;
+  text-transform: uppercase;

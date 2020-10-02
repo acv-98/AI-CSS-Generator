@@ -1,0 +1,8 @@
+	background:url(../images/progbar.png) repeat-x;
+	position:absolute;
+	height:5px;
+	left:0;
+	top:0;
+	overflow:hidden;
+	cursor:pointer;
+	display:block;

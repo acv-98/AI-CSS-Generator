@@ -1,0 +1,4 @@
+ padding-top: 45px; 
+ padding: 2px 0; 		.message h2 {
+			font-size: 36px;
+			line-height: 40px;

@@ -1,0 +1,6 @@
+	width:7px;
+	text-indent:-9999px;
+	position:absolute;
+	background-image:url(../images/icon_next.gif);
+	background-repeat:no-repeat;
+	right:50px

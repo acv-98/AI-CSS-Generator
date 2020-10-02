@@ -1,0 +1,13 @@
+	overflow:hidden;
+	background:url(../images/bg-contact-form.png) no-repeat;
+	width:860px;
+	margin:22px auto 1px;
+	padding:30px 11px 20px 37px;
+	float:left;
+	font:30px/32px 'ProximaNovaRgBold', Arial, Helvetica, sans-serif;
+	color:#2b8ecd;
+	text-shadow: 1px 1px 0 #fff;
+	border:none;
+	height: 33px;
+	cursor:pointer;
+cursor:pointer;

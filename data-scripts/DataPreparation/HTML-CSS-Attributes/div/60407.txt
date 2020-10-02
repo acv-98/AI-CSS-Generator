@@ -1,0 +1,21 @@
+	background: #1F1F1F;   
+	padding-top: 48px;
+   padding-bottom: 18px;   
+	width: 33.33333%;  float: left; #location .contacts h3 {
+   font: 14px/24px 'montserrat-bold', sans-serif;
+   color: #fff;
+   text-transform: uppercase;
+   letter-spacing: 1.5px;   
+   margin-bottom: 6px;
+   line-height: 30px;
+   font-family: 'montserrat-regular', sans-serif;
+   font-size: 14px;
+	margin-right: 8px; #map {
+   display: block;
+	height: 486px;
+   width: 100%;
+   background-color: #F6F4EF;
+ width: 50%;  clear: both;  padding-top: 54px; 	#location .contacts .row .columns { 
+		text-align: center;
+		width: 100%; 
+		float: none;

@@ -1,0 +1,2 @@
+float:none;margin-right:0 !important; width:auto;overflow:hidden;border-radius:7px !important; -moz-border-radius:7px !important; -webkit-border-radius:7px !important;border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;
+ position: relative; float: left; width:67.2%;  display:block; float:left; padding-bottom:14px; border:1px solid #dad5d5; padding:3px; margin-bottom:1em;  width:55px; height:55px; margin:0; display:block; 

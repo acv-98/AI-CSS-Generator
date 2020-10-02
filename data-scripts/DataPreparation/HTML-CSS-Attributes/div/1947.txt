@@ -1,0 +1,15 @@
+	background-color: rgba(31, 54, 70, 0.9);
+	position: absolute;
+	bottom: 0;
+	right: 0px;
+	left: 0px;
+	height: 80px;
+	overflow: hidden;
+	color: #fff;
+	padding-left: 20px;
+	font-size: 19px;
+	font-weight: 700;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;

@@ -1,0 +1,16 @@
+	behavior: url("../js/PIE.htc");
+	position:relative;
+	cursor:pointer;
+	text-decoration:none;
+	display:inline-block;
+	padding:5px 15px 6px;
+	font-size:13px;
+	line-height:1.23em;
+	font-weight:bold;
+	color:#000;
+	background:url(../images/button-tail.gif) 0 0 repeat-x #fb4400;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	text-align:right;
+	margin-left:15px;

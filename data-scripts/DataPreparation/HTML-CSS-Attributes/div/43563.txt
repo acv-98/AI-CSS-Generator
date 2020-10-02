@@ -1,0 +1,5 @@
+ border-color: #cfcfcf; 	float: left;
+	margin: 25px 10px 0 15px;
+	max-width: 85px;
+	border: 1px solid #CFCFCF;
+	padding: 3px;

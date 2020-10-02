@@ -1,0 +1,9 @@
+	display: block;
+	margin-bottom: 7px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #665d4e;
+	text-indent: 15px;
+	font-size: 14px;
+	line-height: 1.5em;
+	color: #665d4e;
+	text-decoration: none;

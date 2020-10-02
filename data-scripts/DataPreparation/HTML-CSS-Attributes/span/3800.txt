@@ -1,0 +1,6 @@
+  top: 5px;
+  color: #000;
+  left: 10px;
+  text-shadow: -1px 1px 1px #d1d1d1;
+  z-index: 100;
+ font-size:13px; 

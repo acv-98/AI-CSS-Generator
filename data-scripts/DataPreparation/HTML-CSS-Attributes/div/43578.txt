@@ -1,0 +1,5 @@
+ float:none; width:100%; text-align:left; margin-bottom:20px; 
+body{
+    -webkit-text-size-adjust: none;
+ float: right; width: 49%; margin-left: 1%; text-align: right;#copyright .inner div p:first-child {
+    margin-top: 0px;

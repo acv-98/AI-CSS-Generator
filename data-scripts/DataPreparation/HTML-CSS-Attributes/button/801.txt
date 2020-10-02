@@ -1,0 +1,7 @@
+    color: #ffffff;
+    background-color: #464646;
+    border:0;
+    padding:10px 20px;
+    margin-top: 15px;
+    padding-left:7px;
+    border-color: transparent;

@@ -1,0 +1,15 @@
+	position:absolute;
+	left:162px;
+	top:465px;
+	width:940px;
+	background:#000;
+	overflow:hidden;
+	padding:10px 0 0px 0;
+	float:left;
+	font-size:50px;
+	line-height:60px;
+	color:#fff;
+	font-weight:normal;
+	letter-spacing:-3px;
+	display:block;
+	margin-top:-1px;

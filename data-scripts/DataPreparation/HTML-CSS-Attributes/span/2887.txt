@@ -1,0 +1,9 @@
+	float:left;
+	width:72px;
+	height:50px;
+	background:url(../images/date.gif) 0 0 no-repeat;
+	margin-right:14px;
+	font-size:34px;
+	line-height:1.2em;
+	padding-top:22px;
+	text-align:center

@@ -1,0 +1,8 @@
+	background: url(../images/bg-navigation.png) no-repeat;
+	background-position: 0 -62px;
+	clear: both;
+	color: #a77600;
+	font-size: 12px;
+	margin: 0;
+	padding: 18px 0 17px;
+	text-align: center;

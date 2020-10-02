@@ -1,0 +1,14 @@
+	position:relative;
+	overflow:hidden;
+	margin: 0 auto;
+	height: 625px;
+	
+	z-index:2;
+	left: 50%;
+	margin-left: -800px;
+	width: 1600px;
+	color: #fff;
+	font-size: 14px;
+	line-height: 20px;
+	right: 0;
+	top: 402px;

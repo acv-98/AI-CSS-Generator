@@ -1,0 +1,3 @@
+	display: block;
+	font: bolder 16px "Trebuchet MS", Verdana, Arial, sans-serif;
+	margin-bottom: 8px;

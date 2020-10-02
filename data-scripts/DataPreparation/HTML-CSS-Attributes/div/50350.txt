@@ -1,0 +1,10 @@
+	padding-left:10px;
+	width:265px;
+	float:left;
+	margin-right:58px;
+	height:122px;
+	background:url(images/product-img.gif) no-repeat 0 0;
+	margin-bottom:18px;
+	border:1px solid #cfcfcf;
+	font-size:15px;
+	color:#222;

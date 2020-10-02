@@ -1,0 +1,16 @@
+  display: table-cell;
+  float: left;
+  width: 80px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  max-width: 100% !important;
+  padding-left: 20px;
+  border-left: none;
+  margin: 0;
+  font-style: 16px;
+  color: #666666;
+  margin-top: 20px;
+  font-size: 12px;
+  font-weight: 700;

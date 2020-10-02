@@ -1,0 +1,7 @@
+	color:#00a9ff;
+	font-size:80px;
+	line-height:1.2em;
+	display:block;
+	text-transform:uppercase;
+	letter-spacing:-4px;
+	margin:-12px 0 13px -5px

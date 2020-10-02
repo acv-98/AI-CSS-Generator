@@ -1,0 +1,13 @@
+	background-color: transparent;
+	padding: 10px 0;
+	margin-bottom: 0;
+	text-transform: uppercase;
+	z-index: 1000;	
+	width: 100%;
+	top: 0;
+	position: fixed;
+	opacity: 0;
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;

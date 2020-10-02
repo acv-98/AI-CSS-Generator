@@ -1,0 +1,1 @@
+background:url("../images/top.jpg") top center no-repeat #2d213c;

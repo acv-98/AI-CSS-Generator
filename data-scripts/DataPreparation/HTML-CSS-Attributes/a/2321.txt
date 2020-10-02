@@ -1,0 +1,3 @@
+	text-decoration:none;
+	visibility:visible;
+	left:0;

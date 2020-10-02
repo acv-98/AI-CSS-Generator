@@ -1,0 +1,5 @@
+	float:left;
+	width:614px;
+	margin:0;
+	padding:0 25px;
+	background:url(images/l_bg.gif) top center no-repeat;

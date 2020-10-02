@@ -1,0 +1,3 @@
+	border:1px solid #eee;
+	color:#fff;
+	background:0;

@@ -1,0 +1,7 @@
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px 12px;
+    color: #FFFFFF;
+    background: #23B687;

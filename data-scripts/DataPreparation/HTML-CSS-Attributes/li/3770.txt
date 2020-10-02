@@ -1,0 +1,5 @@
+    padding-left: 27px;
+    background: url(../images/marker.png) 0 5px no-repeat;
+    text-decoration: underline;
+    margin-top: 12px;
+    color: #4cb6c5;

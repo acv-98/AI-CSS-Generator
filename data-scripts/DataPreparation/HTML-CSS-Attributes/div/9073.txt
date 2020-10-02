@@ -1,0 +1,12 @@
+	-webkit-transition: all ease 1s;
+	-moz-transition: all ease 1s;
+	-o-transition: all ease 1s;
+	-ms-transition: all ease 1s;
+	transition: all ease 1s;
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 2;
+ opacity: 0; color: #FFF; text-shadow: 1px 1px 0 #000; position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%);.banner:hover .phrase-1 {
+	opacity: 0;

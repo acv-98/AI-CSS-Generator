@@ -1,0 +1,8 @@
+	background:url(../images/dot.png);
+	float:right;
+	position:relative;
+	width:65px;
+	height:63px;
+	margin:-180px 0 0;
+	z-index:100;
+	padding:19px 25px;

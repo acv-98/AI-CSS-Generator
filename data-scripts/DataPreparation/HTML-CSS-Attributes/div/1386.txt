@@ -1,0 +1,7 @@
+    font-family: 'Open Sans';
+    font-size: 13px;
+    color: #777777;
+    text-decoration: none;
+    margin-right: 15px;
+float: right;
+    float: right;

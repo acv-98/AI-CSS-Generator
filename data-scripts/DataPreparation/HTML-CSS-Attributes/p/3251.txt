@@ -1,0 +1,4 @@
+	margin-top: 0px;
+	margin-bottom: 10px;
+	font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif;
+	font-size: 15px;

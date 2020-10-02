@@ -1,0 +1,5 @@
+	background-image: url(../img/overlay_light_diagonal.png);
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-repeat: repeat;

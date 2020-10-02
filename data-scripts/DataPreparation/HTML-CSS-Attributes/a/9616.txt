@@ -1,0 +1,13 @@
+	display: inline;
+	float: left;
+	text-align: center;
+	width: 100%;
+	font-size: 35px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	background: #fff;
+	padding: 5px 20px;
+	margin-bottom: 30px;
+		width: 150px;
+		margin-bottom: 10px;
+		font-size: 30px;

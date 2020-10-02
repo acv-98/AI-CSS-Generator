@@ -1,0 +1,4 @@
+ margin: 0; padding: 0; border: none; 
+.post_box .header {
+	position: relative;
+	margin-bottom: 10px;

@@ -1,0 +1,1 @@
+border:medium none; border-radius:2px; font-size:13px; font-style:normal; font-weight:bold; height:40px; line-height:40px; min-width:80px; width:100%; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5sbackground-color:#09c; color:#fffbackground-color:#0ebcf6; color:#eee

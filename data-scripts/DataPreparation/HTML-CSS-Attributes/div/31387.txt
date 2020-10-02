@@ -1,0 +1,2 @@
+width:100%; text-align:center; margin:8% 0;display:inline-block; width:60px; height:4px; margin-right:10px; background:#ccc; overflow:hidden; text-indent:-200px;.sliderControl .jcarousel-pagination a active{
+background:#6f9ccb;

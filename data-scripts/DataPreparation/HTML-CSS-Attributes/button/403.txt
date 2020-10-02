@@ -1,0 +1,9 @@
+  padding-left: 30px !important;
+  line-height: 20px;
+  width: 20px;
+  font-size: 1.2em;
+  height: 22px;
+  padding-right: 0;
+  margin-top: 14px;
+  margin-bottom: 14px;
+  top: 0;

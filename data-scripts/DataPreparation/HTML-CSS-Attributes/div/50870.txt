@@ -1,0 +1,6 @@
+	list-style:none;
+	overflow:hidden;
+	position:relative;
+	width:445px;
+	height:230px;
+	float:left;

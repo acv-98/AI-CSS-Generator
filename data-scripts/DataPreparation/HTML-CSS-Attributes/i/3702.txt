@@ -1,0 +1,9 @@
+	padding: 10px;
+    background: none;
+    color: black;
+    font-size: 4rem;
+    margin-right: 15px;
+	font-size: 3rem;
+ margin-right: 15px; 		font-size: 4rem;
+    	padding: 10px;
+		margin-right: 15px;

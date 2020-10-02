@@ -1,0 +1,11 @@
+	margin:0 0 8px;
+	padding:6px 20px;
+	float:right;
+	width:44px;
+	height:36px;
+	font-size:30px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#fff;
+	background:url(../images/comment.gif) no-repeat left top;

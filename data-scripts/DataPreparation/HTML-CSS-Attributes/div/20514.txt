@@ -1,0 +1,10 @@
+	text-align:center;
+	background:#1A1A1A;
+	margin-top:-6px;
+	padding:6% 0;
+	font-family: 'Raleway', sans-serif;
+ 	font-size: 1.1em;
+ 	color:#fff;
+ 	font-weight: 600;
+	line-height: 1.9em;
+		font-size: 1em;

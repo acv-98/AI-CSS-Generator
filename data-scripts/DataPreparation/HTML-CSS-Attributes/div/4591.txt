@@ -1,0 +1,4 @@
+	margin:0 0 12px;
+	padding:8px 16px 8px 24px;
+	background-color:#fff;
+	border:1px solid #dfdede;

@@ -1,0 +1,5 @@
+  background-color: #F2F2F2;
+  max-width: 1140px;
+  width: 100%;
+  padding: 30px;
+  margin-bottom: 10px;

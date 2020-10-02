@@ -1,0 +1,7 @@
+  color: #333;
+  margin: 0 0 0 0;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: -2px;
+    margin: 20px 0 0 0;
+    margin-bottom: 0;

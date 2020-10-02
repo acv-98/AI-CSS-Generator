@@ -1,0 +1,8 @@
+	display: block;
+	clear: left;
+	margin-bottom: 5px;
+	height: 40px;
+	color: #49494b;
+	font-size: 24px;
+	line-height: 1em;
+background:url("../img/sprites.png") no-repeat 0 -815px; padding-left:40px; margin-bottom:10px;color:#49494b; font-size:24px; line-height:0.2em;color:#999; font-size:16px; line-height:0.4em;

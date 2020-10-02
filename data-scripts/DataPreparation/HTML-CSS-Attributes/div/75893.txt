@@ -1,0 +1,5 @@
+	margin:0px 0px 0px 0px;
+	padding:28px 0px 0px 29px;float:left; width:auto;
+.banner {
+	height:198px; 	background:url(../images/banner.jpg) left top no-repeat;
+	float:left;

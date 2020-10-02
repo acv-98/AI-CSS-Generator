@@ -1,0 +1,23 @@
+	color:#fff;
+	background-color:transparent;
+	content:"\2192";
+	display:inline-block;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1;
+	margin-left:10px;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+	
+	-webkit-transition:all .25s;
+	   -moz-transition:all .25s;
+	    -ms-transition:all .25s;
+	     -o-transition:all .25s;
+	        transition:all .25s;
+	padding:5px 15px;
+	padding-left:25px;
+        float: none!important;
+		margin-top: 7.5px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+		float:none !important;

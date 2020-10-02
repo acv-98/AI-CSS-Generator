@@ -1,0 +1,2 @@
+padding-right: 15px;color: #000;background: url('../img/arrow.png') no-repeat 100% 50%
+*  H1 - H4                                                                                                         

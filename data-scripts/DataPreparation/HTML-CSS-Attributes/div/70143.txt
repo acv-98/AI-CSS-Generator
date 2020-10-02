@@ -1,0 +1,1 @@
+width:712px;padding:10px 0px;width:252px;margin:0 auto;width:436px;margin:0 auto;width:1040px;display:block;margin:0 auto;color:#999;font-size:14px;color:#35A1FB;

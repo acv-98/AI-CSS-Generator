@@ -1,0 +1,8 @@
+ color: #FFFFFF; 
+ width: 100%; .tm-white-header-container .tm-text-title {
+	padding: 25px 40px 60px;
+    font-size: 3rem;
+	width: 96%;
+    display: block;
+    margin: -40px auto 0;
+ border: 1px solid white; 

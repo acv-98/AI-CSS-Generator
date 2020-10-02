@@ -1,0 +1,14 @@
+  color: #a5d549;
+  display: block;
+  float: left;
+  margin-left: 10px;
+  width: 55%;
+  font-size: 14px;
+  margin-bottom: 20px;
+  margin-top: 0;
+  letter-spacing: 0.5px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

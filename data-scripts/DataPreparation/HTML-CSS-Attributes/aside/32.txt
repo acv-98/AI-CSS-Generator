@@ -1,0 +1,6 @@
+	width:130px;
+	float:left;
+	display:block;
+	font-size:1.1em!important;
+	line-height:1.4em!important;
+	text-align:right;

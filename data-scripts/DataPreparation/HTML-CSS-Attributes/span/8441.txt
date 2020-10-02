@@ -1,0 +1,2 @@
+    font-size: 108px;
+    letter-spacing: -4px;

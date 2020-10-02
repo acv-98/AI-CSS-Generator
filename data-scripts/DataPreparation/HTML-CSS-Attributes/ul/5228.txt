@@ -1,0 +1,1 @@
+padding: 40px 0 0 0; margin-bottom: -20px;list-style: none; display: inline;cursor: default;float: left; padding-right: 28px; font-size: 12px; color:  #999; font-family: 'Droid Serif', serif; cursor: pointer;color: #ff7378;color: #1fb4dd;

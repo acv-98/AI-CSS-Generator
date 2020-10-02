@@ -1,0 +1,4 @@
+display: block;
+    background-color: #dfdfdf;
+    height: 3px;
+    width: 100%;

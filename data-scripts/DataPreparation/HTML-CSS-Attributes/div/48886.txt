@@ -1,0 +1,9 @@
+	padding-bottom:20px;
+	position:relative;
+	width:66px;
+	height:50px;
+	background:#fff;
+	float:left;
+	display:inline;
+	margin-right:12px;
+	padding-left:20px;

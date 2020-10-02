@@ -1,0 +1,9 @@
+	float:left;
+	border-bottom:1px solid #e5e5e5;
+	width:100%;
+	text-align:left;
+	padding-bottom:30px;
+	clear:both;
+	font-size:22px;
+	color:#e63636;
+	font-weight:normal;

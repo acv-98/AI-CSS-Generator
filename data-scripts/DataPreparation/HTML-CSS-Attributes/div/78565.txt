@@ -1,0 +1,7 @@
+	behavior:url("../js/PIE.htc");
+	position:relative
+	margin:0 auto;
+	width:960px;
+	background:url(../images/main-bg.png);
+	border-radius:4px;
+	padding:0 0 10px 0;

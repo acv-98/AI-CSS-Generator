@@ -1,0 +1,2 @@
+ background: #fff; color: #0E8FAB; padding: 5px 10px; font-weight: bold; font-size: 15px;  color: #0E8FAB 
+ color: orange  color: #3cb371  color: orangered  color: #964c96  color: #333  color: #b8860b  color: #F45B4D  color: #70acab  color: #008782  color: #66cdaa  color: #e59a47  color: #b28eb4  color: #daa520 

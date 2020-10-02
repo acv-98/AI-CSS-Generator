@@ -1,0 +1,11 @@
+    background: #000 none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 25px;
+    color: #fff;
+    display: inline-block;
+    position: relative;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1.8px;
+    padding: 18px 53px 18px 53px;
+    text-transform: uppercase;

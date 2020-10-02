@@ -1,0 +1,9 @@
+	text-align: left;
+	font-weight: 300;
+	display: block;
+	padding: 12px 15px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	margin-right: 5px;
+		font-size: 14px;

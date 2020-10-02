@@ -1,0 +1,6 @@
+	background-color:#FFFFFF;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	height:459px;
+	position:relative;

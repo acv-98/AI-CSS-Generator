@@ -1,0 +1,6 @@
+	float: right;
+	margin-top: 0px;
+	margin-left: 0;
+	background: none;
+	display: inline-block;
+		float: none;

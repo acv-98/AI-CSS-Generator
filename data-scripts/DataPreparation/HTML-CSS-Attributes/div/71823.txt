@@ -1,0 +1,17 @@
+            font-size: 15px;
+            padding: 8px 19px;
+            height: 35px;
+            left: -48px;
+            line-height: 35px;
+            top: 3px;
+            width: 35px;
+            right: -48px;
+    background: #0ceac5 none repeat scroll 0 0;
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    margin: 55px auto;
+    position: relative;
+    text-align: center;
+    border-radius: 30px/30px;
+    text-decoration: none;

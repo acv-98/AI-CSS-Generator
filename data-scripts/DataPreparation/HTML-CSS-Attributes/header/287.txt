@@ -1,0 +1,14 @@
+	
+	color: #fff;
+	margin:0px;
+    height: auto;
+    padding: 1.9em 0 1.6em;
+    pointer-events: auto;
+    text-align: center;
+    color: #173d50;
+    background-color: transparent;
+	border-bottom: 1px solid #09294c;
+    margin-top: 0;
+	font-size: 25px;
+	margin-bottom: 0;
+	line-height: 33px;

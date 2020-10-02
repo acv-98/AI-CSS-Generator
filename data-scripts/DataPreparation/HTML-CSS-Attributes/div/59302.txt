@@ -1,0 +1,8 @@
+	background-color: #00cfef;
+			padding: 0 4px;
+			font-size: 30px;
+	color: #fff;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-top: 20px;

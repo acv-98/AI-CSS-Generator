@@ -1,0 +1,12 @@
+	position:relative;
+	float:left;
+	margin:0;
+	padding:0;
+	list-style:none;
+	display:block;
+	outline:none;
+	border:none;
+	background:url(../images/thumb-bg.png) no-repeat;
+	width:160px;
+	height:106px;
+	background-color:#fff;

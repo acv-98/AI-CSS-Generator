@@ -1,0 +1,13 @@
+	margin: 0;
+	padding: 0;
+	display: block;
+	background: #04a393;
+	color: #FFFFFF;
+	margin-right: 12px;
+	line-height: 60px;
+	font-size: 18px;
+		display: block;
+		width: 300px;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		margin-bottom: 1.8rem;

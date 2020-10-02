@@ -1,0 +1,6 @@
+    font-family: 'gotham_bookregular';
+    margin-right: 5px;
+    margin-left: 20px;
+    line-height: 2rem;
+    color:#404859;
+    font-size:0.5rem;

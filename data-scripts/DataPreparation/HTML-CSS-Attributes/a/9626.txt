@@ -1,0 +1,12 @@
+	display: inline-block;
+	font-size: 14px;
+	position: relative;
+	padding: 0 32px;
+	background-color: #c9c9c9;
+	height: 1px;
+	width: 21px;
+	content: '';
+	top: 50%;
+	left: 0;
+	right: 0;
+  color: #d24ebb;

@@ -1,0 +1,10 @@
+	width: 260px;
+	margin: 50px 30px;
+	margin-bottom: 0px;
+	float: left;
+	font-size: 12px;
+	margin-top: 4px;
+	min-height: 30px;
+	background-image: url(../img/twitterwidgeticon.png);
+	background-repeat: no-repeat;
+	padding-left: 35px;

@@ -1,0 +1,2 @@
+width: 960px; margin: auto; text-align: center; letter-spacing: 18px; padding: 40px 0
+#social_icons {

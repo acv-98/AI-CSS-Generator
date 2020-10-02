@@ -1,0 +1,3 @@
+	width:502px;
+	height:217px;
+	margin:33px 0 0 0;

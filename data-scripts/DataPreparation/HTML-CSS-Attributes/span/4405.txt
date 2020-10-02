@@ -1,0 +1,5 @@
+  display: inline-block;
+  margin-bottom: 15px;
+  position: relative;
+  font-weight: 700;
+  font-size: 15px;

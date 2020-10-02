@@ -1,0 +1,6 @@
+	width:944px;
+	float:left;
+	margin:0px;
+	background:#CCC2A7 url(../images/worzonebg.jpg) left top repeat-y;
+	padding:0px 28px 0px 28px;
+	text-align:justify;

@@ -1,0 +1,6 @@
+  background-color: #ffa500;
+  color: #fff;
+  position: relative;
+  padding: 1px 26px;
+  margin-top: -70%;
+		padding: 1px 0px;

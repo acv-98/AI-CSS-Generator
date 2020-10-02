@@ -1,0 +1,18 @@
+  color: hsl(0, 0%, 100%);
+  font-weight: 400;
+  margin:0 auto;
+  display:inline-block;
+  
+  padding: 40px;
+  text-align: center;
+  background: #02060d none repeat scroll 0 0;
+  border: 2px solid #f6b20e;
+  border-radius: 100%;
+  float: right;
+  width: 40px;
+  text-decoration: none;
+  font-size: 25px;
+  height: 40px;
+  line-height: 36px;
+	color:#F6B20E;	
+  font-size: 15px;  height: 30px;  line-height: 28px;  width: 30px; font-size:13px;

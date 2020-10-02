@@ -1,0 +1,9 @@
+	float:left;
+	width:530px;
+	height:187px;
+	padding:47px 0 21px 32px;
+	overflow:hidden;
+	text-shadow:1px 1px 2px #000;
+	padding-bottom:7px;
+	background:url('images/entry-arrow.gif') no-repeat 0 center;
+	padding-left:20px;

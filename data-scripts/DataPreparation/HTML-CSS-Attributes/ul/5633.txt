@@ -1,0 +1,2 @@
+position:absolute; top:35px; left:505px; width:200pxfloat:left; height:30px; margin-right:12px; padding-left:14px;display:block; font:10px/14px Trebuchet MS, sans-serif; color:#454b55; text-decoration:none; padding-top:10px;text-decoration:underline;
+background:url(../images/ico_1.gif) 0 14px no-repeatbackground:url(../images/ico_2.gif) 0 14px no-repeatbackground:url(../images/ico_3.gif) 0 14px no-repeat; margin-right:0float:left; height:30px; width:1px; background: url(../images/b_lineico.gif) 0 0 repeat-y; padding-left:0

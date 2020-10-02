@@ -1,0 +1,4 @@
+    margin-top: -3px;
+    margin-bottom: 14px;
+    font-size: 18px;
+    color: #2a394e;

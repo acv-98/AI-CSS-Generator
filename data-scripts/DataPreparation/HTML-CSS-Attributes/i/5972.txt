@@ -1,0 +1,12 @@
+  margin: 10px 10px 10px 0;
+  display: inline-block !important;
+  text-align: center !important;
+  color: #fff;
+  width: 18px;
+  height: 18px;
+  padding: 3px;
+  font-size: 12px;
+  line-height: 18px;
+  text-shadow: none;
+  cursor: pointer;
+  background-color: #444;

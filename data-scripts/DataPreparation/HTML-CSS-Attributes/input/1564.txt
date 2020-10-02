@@ -1,0 +1,6 @@
+    font-size: 1.1rem;
+    border-radius: 0;
+    background-color: #353541;
+    color: white;
+    padding: .75rem;
+    border-color: transparent;

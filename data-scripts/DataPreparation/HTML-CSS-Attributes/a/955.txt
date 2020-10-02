@@ -1,0 +1,2 @@
+background:#d1869b; border:#fff solid 1px; padding:7px 23px 7px 23px; color:#fff;BANNER CLASSES
+ color:#d1869b;

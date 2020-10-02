@@ -1,0 +1,3 @@
+	float:right;
+		float: none;
+		margin: 10px 0 0px;

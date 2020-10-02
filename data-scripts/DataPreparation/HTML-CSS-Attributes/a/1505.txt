@@ -1,0 +1,8 @@
+	color: #fff;
+	font-size: 35px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	margin-top: -11px;
+		width: 180px;
+		margin-top: -10px;
+		font-size: 25px;

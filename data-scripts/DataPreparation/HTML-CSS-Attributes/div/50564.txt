@@ -1,0 +1,10 @@
+	position:relative;
+	top:-2px;
+	list-style:none;
+	line-height:18px;
+	border-bottom:1px dotted #dcdcdc;
+	padding:0 0 15px 0;
+	margin-bottom:3px;
+	color:#235e9e;
+	font-size:10px;
+	font-weight:normal;

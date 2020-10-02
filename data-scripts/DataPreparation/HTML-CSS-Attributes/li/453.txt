@@ -1,0 +1,1 @@
+	background:url(../images/menu1.gif) center 35px no-repeat;

@@ -1,0 +1,8 @@
+  padding: 15px;
+  content: " ";
+  display: table;
+  clear: both;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  border-top-color: #ddd;
+  border-bottom-color: #ddd;

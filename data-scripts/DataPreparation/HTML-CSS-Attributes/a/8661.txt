@@ -1,0 +1,3 @@
+				color: #787878;
+background: url(../img/slider-controls-sprite.png) no-repeat;background-position: 0 0;8. Portfolio styles
+color: #1fb4dd;

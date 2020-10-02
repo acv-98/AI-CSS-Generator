@@ -1,0 +1,8 @@
+        font-size: 0.875rem;
+        color: #44484f;
+        line-height: 1.2775rem;
+        padding: 30px 15px 40px 20px;
+        max-width: 90%;
+        margin-left: 10%;
+		min-height: inherit;
+    padding-right: 10px;

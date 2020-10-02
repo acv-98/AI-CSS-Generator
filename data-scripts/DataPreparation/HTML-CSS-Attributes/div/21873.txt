@@ -1,0 +1,3 @@
+ padding: 0; .tm-highlight-text {
+	font-style: italic;
+	color: #338ad9;

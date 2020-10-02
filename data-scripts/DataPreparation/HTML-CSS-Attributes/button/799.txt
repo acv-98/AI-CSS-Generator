@@ -1,0 +1,5 @@
+    border-color:none;
+    background: #464646;
+	border:0;
+		background:#000;
+    background-color: white;

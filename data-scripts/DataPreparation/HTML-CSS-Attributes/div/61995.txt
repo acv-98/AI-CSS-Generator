@@ -1,0 +1,6 @@
+	width: 240px;
+	float: left;
+	margin-left: 20px;
+	font-size: 14px;
+	line-height: 32px;
+	text-align: justify;

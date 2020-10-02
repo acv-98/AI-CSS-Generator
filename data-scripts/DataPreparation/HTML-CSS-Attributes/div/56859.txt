@@ -1,0 +1,12 @@
+	float:left;
+	position:absolute;
+	background:#000;
+	height:80px;
+	width:100%;
+	overflow:hidden;
+	opacity:.85;
+ filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=85);
+	-MS-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	display:inline;
+	top:160px;
+	left:0;

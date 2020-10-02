@@ -1,0 +1,14 @@
+	behavior: url("../js/PIE.htc");
+	position:relative\0/;
+	text-decoration:none;
+	display:inline-block;
+	padding:0px 17px 3px;
+	font-family: 'Adamina', serif;
+	font-size:21px;
+	line-height:1.7em;
+	color:#fff;
+	background:url(../images/button2-tail.gif) 0 0 repeat-x #010101;
+	box-shadow: 0px 2px 3px #888;
+	-moz-box-shadow: 0px 2px 3px #888;
+	-webkit-box-shadow: 0px 2px 3px #888;
+	margin:0 0 3px 3px;

@@ -1,0 +1,16 @@
+margin-top:0;
+margin-bottom:25px
+position:relative;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-position:center;
+background-image:url(../img/bg-cta.jpg);
+padding:250px 0
+z-index:1
+color:#fff;
+max-width:450px;
+font-size:50px
+height:100%;
+background-color:rgba(0,0,0,.5);
+left:0

@@ -1,0 +1,9 @@
+	padding:29px 0 16px 0;
+	background:#f5f5f5;
+	behavior:url(../js/PIE.htc);
+	position:relative;
+	width:100%;
+	overflow:hidden;
+	border-radius:10px 10px 0 0;
+	-moz-border-radius:10px 10px 0 0;
+	-webkit-border-radius:10px 10px 0 0;

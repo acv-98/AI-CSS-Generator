@@ -1,0 +1,1 @@
+ margin:0px; padding:45px 0px; font-family: 'ProximaNovaRegular'; font-size:18px; color:#fff; text-transform:none; margin:15px 0px 0px 0px; padding:15px 35px; content:""; position:absolute; width:10%; height:3px; background:#34b1c4; left:0px; right:0px; bottom:18px; margin:0 auto; text-align:center;

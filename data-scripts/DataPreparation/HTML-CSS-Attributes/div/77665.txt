@@ -1,0 +1,3 @@
+  float:left;
+  position:relative;
+width:50%;width:50%;width:50%;

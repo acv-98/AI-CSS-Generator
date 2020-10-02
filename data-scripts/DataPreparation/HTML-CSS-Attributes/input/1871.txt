@@ -1,0 +1,16 @@
+  background-color: #D2691E;
+	color: #D2691E;
+	border-color: #D2691E;
+  border: 2px solid #fff;
+  color: #fff;
+  margin-top: 30px;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+	background-color: #fff;

@@ -1,0 +1,2 @@
+    border-right: 58px solid #f65aa7!important;
+    border-bottom: 58px solid #f65aa7!important;

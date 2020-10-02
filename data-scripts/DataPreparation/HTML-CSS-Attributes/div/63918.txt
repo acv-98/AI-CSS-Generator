@@ -1,0 +1,1 @@
+ border-color: #fff;  border-color: #fff; 			

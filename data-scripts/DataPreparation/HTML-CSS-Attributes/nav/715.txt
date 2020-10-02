@@ -1,0 +1,29 @@
+ border-color: #00cfef color: #00cfef color: #00cfef color: #00cfef border-top-color: #00cfef
+.navbar-toggle {
+	border: transparent;
+	background-color: #00cfef;
+  	background-color: #00cfef;
+  background-image: -webkit-linear-gradient(top, #3c3c3c 0%, #222 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3c3c3c', endColorstr='#ff222222', GradientType=0);
+  background-repeat: repeat-x;
+  -webkit-box-shadow: inset 0 3px 9px rgba(0, 0, 0, .25);
+          box-shadow: inset 0 3px 9px rgba(0, 0, 0, .25);
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, .25);
+  background-color: #222;
+  border-color: #080808;
+  color: #9d9d9d;
+    border-color: #080808;
+    background-color: #080808;
+    color: #9d9d9d;
+ border-color: #C0A777 color: #C0A777 color: #C0A777 color: #C0A777 border-top-color: #C0A777 border-color: #2BBF6A color: #2BBF6A color: #2BBF6A color: #2BBF6A border-top-color: #2BBF6A border-color: #ec008c color: #ec008c color: #ec008c color: #ec008c border-top-color: #ec008c border-color: #ff6600 color: #ff6600 color: #ff6600 color: #ff6600 border-top-color: #ff6600 border-color: #9b59b6 color: #9b59b6 color: #9b59b6 color: #9b59b6 border-top-color: #9b59b6 border-color: #e21e25 color: #e21e25 color: #e21e25 color: #e21e25 border-top-color: #e21e25			color: #999;
+			background-color: transparent;
+			background-image:none;
+	margin: 0 5px;
+	-webkit-transition: all 0.5s ease 0s;
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+	transition: all 0.5s ease 0s;	
+    background-image: none;
+ background-image: none;  color: #FFFFFF color: #FFFFFF border-top-color: #FFFFFF border-bottom-color: #fff border-bottom-color: #fff.section-title-wrapper {
+	padding: 50px 0;
+ border-color: #ffd600 color: #ffd600 color: #ffd600 color: #ffd600 border-top-color: #ffd600

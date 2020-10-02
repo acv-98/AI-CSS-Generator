@@ -1,0 +1,11 @@
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  display: none;
+  -webkit-transition: 0.6s ease-in-out left;
+          transition: 0.6s ease-in-out left;
+  height: auto;
+  max-width: 100%;
+  line-height: 1;
+  left: 0;
+  top: 0;

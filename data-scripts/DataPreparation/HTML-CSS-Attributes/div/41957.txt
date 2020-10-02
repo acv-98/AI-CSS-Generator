@@ -1,0 +1,18 @@
+margin-bottom:15pxheight:30px;padding:5px 10px;font-size:12px;line-height:1.5;border-radius:3pxheight:46px;padding:10px 16px;font-size:18px;line-height:1.33;border-radius:6pxdisplay:block;margin-top:5px;margin-bottom:10px;color:#737373min-height:27pxclear:both.form-horizontal .form-group-sm .control-label.navbar-form .form-grouptop:0  position: relative;
+  padding-right: 2.5em;
+  top: 5px;
+  right: 20px;
+  border: none;
+  moz-border-radius: 50%;
+  webkit-border-radius: 50%;
+  border-radius: 50%;
+  color: #ccc;
+  width: 40px;
+  height: 40px;
+  background: #ebebeb;
+  opacity: 0;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  margin-right: -15px;

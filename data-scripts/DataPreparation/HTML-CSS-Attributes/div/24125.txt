@@ -1,0 +1,9 @@
+  text-align: right;
+  right: 15px;
+  padding-left: 0;
+  padding-right: 140px;
+    text-align: left;
+    right: 0;
+    left: 15px;
+    padding-left: 140px;
+    padding-right: 0;

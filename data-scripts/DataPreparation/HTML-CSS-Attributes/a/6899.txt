@@ -1,0 +1,9 @@
+  vertical-align: middle;
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 22px;
+  margin-left: 50px;
+  -webkit-transition: color 100ms ease;
+  transition: color 100ms ease;
+  cursor: pointer;
+  overflow: hidden;

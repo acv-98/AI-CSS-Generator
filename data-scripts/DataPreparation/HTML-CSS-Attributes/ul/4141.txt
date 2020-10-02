@@ -1,0 +1,7 @@
+	margin:0;
+	padding:0;
+	list-style:none;
+	color:#929292;
+	width:220px;
+	text-decoration:none;
+	margin-left:-16px;

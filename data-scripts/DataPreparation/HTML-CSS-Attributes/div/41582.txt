@@ -1,0 +1,11 @@
+	border: 0;
+	position: static;
+	float: left;
+	padding-top: 13px;
+	background-color: #ec0606;
+	z-index: 999;
+	min-width: 211px;
+	border-right: 2px solid #fff;
+	border-bottom: 2px solid #fff;
+	padding-left: 17px;
+	padding-bottom: 20px;

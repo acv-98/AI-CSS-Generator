@@ -1,0 +1,18 @@
+	background-image: url(assets/images/video-img.jpg);
+	display: inline;
+	float: left;
+	text-align: center;
+	position: relative;
+	width: 100%;
+	padding: 195px 0;
+	background-size: cover;
+	background-color: #0091ea;
+	content: '';
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	height: 100%;
+	opacity: 0.84;
+	z-index: 10;
+		padding: 120px 0;

@@ -1,0 +1,1 @@
+text-decoration: none; background: url(images/pagination-active.png) repeat 0 0; color: #1cfc11;  .pagination ul li.laquo a ,

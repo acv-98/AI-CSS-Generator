@@ -1,0 +1,2 @@
+background-color: #404040;padding: 5px 0;color: #fff;margin: 0;margin: 0;padding: 0;color: #fff;color: #fff;text-decoration: none;color: #005FA6;transition-property: all;transition-duration: 0.3s;transition-timing-function: linear;
+text-align: center;

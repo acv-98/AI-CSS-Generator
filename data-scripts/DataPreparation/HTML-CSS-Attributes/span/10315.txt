@@ -1,0 +1,13 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/unvisible-arrow2.png', sizingMethod='image');
+	width:4px;
+	height:18px;
+	position:absolute;
+	left:-4px;
+	top:3px;
+	background-repeat:no-repeat;
+	background-position:0 0;
+	display:inline;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;

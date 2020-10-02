@@ -1,0 +1,2 @@
+font-size: 14px !important;padding: 4px 6px !important;padding: 0 15px; background: #ebebeb; display: inline-block; margin: 0 auto;.more-btn .btn{color: #ebebeb; font-size: 16px; background: #ed3237;font-family: 'source_sans_probold';
+background: #373435; color: #ebebeb; 

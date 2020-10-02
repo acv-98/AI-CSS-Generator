@@ -1,0 +1,4 @@
+    line-height: 1.5rem;
+    width:70%;
+    position: relative;
+    bottom:-60px;

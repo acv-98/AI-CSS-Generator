@@ -1,0 +1,9 @@
+position:absolute; left:0; top:0; display:inline-block; height:100px; width:100px; background:url(../images/f.png) no-repeat center center #3b5998; z-index:2
+.go-top {
+bottom: 8px;
+right: 30px;
+padding: 0px 10px 5px;
+color: #999;
+text-decoration: none;
+font-size: 30px;
+line-height: 34px;

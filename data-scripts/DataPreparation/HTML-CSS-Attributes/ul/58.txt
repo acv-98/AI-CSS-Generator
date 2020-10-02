@@ -1,0 +1,2 @@
+transition:all .5s ease-in-out;
+margin:0; padding:0; list-style:none;display:inline-block; margin:0 2px 0 0; padding:0; line-height:normal;margin-right:0;display:inline-block; width:30px; height:30px; line-height:30px; border-radius:5px; font-size:16px; text-align:center;color:inherit; background-color:#3C3C3C;color:#FFFFFF;background-color:#3B5998;background-color:#DB4A39;background-color:#3F729B;background-color:#0E76A8;background-color:#34526F;background-color:#00ACEE;

@@ -1,0 +1,8 @@
+	margin-bottom: 20px;
+	margin-right: 10px;
+	border: 1px solid #e1e1e1;
+	height: 25px;
+	width: 230px;
+	padding: 0 6px;
+	font-family: 'open sans', arial, sans-serif;
+	cursor: pointer;

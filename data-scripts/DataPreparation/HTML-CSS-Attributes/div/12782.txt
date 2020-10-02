@@ -1,0 +1,5 @@
+	position: relative;
+	z-index:1;
+	width:620px;
+	margin-right:48px;
+	float:left;

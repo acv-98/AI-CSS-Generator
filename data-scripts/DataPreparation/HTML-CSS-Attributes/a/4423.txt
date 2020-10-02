@@ -1,0 +1,13 @@
+	margin-right:3px;
+	background:url(../images/shadow-left.gif) no-repeat right -3px;
+	color:#f8fff8;
+	display:block;
+	float:right;
+	font-family:'MarkerFeltNormal';
+	font-size:20px;
+	height:55px;
+	line-height:36px;
+	margin-top:-5px;
+	padding-right:8px;
+	text-align:center;
+	text-decoration:none;

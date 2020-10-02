@@ -1,0 +1,1 @@
+float:left; display:inline; width:50%.navbar-collapse

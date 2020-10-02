@@ -1,0 +1,11 @@
+  width: 220px;
+  *width: 23.351063829787233%;
+  float: none;
+  margin-left: 0;
+    width: 270px;
+    *width: 23.023731587561375%;
+ width: 73.9% !important;  width: 79% !important;  width: 73.9% !important;  width: 66% !important;     clear: left;
+ margin-bottom: 30px  width: 270px; .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 220px; #ie8 .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 220px;     .sidebar-no .section.blog .sticky .the-content.span5,
+ width: 166px; 

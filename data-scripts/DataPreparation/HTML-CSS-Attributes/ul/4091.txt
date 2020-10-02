@@ -1,0 +1,8 @@
+ margin: 20px 0; padding: 0; list-style: none;  background: url(../images/footer_list.png) no-repeat scroll 0 3px; margin: 0 0 10px; padding: 0 0 3px 15px; 	line-height: 1em;  color: #8e8e8e; text-decoration: underline; font-weight: normal;  text-decoration: none; 
+#footer {
+	clear: both;
+	width: 1024px;
+	margin: 0 auto;
+	padding: 10px 0;
+	color: #999999;
+	text-align: center;

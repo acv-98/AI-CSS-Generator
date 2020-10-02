@@ -1,0 +1,2 @@
+	height:98px;
+	float:left;

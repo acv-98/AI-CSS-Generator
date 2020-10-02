@@ -1,0 +1,3 @@
+margin-bottom:15px;text-align: center;display: inline-block;margin-right: 3px;.pagination ul li a{background: none repeat scroll 0 0 #e7e7e7;
+color: #999;
+background:#464646;color:#fff;.sidebar_container{background: none repeat scroll 0 0 #fff;

@@ -1,0 +1,7 @@
+  padding-right: 10px;
+  float: left !important;
+  margin-right: .3em;
+    margin-top: 10px;
+    float: none !important;
+    text-align: center;
+    display: block;

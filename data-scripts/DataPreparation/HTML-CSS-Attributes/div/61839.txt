@@ -1,0 +1,9 @@
+  margin-top: 0em;
+  padding-left: 30px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  line-height: 26px;
+  margin-bottom: 0;
+  display: table-cell;

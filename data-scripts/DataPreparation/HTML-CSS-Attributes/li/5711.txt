@@ -1,0 +1,4 @@
+    overflow: hidden;
+    position: static !important;
+    background: url(images/menubg.jpg) repeat-y center center #ffffff !important;
+    margin-top: 0px !important;

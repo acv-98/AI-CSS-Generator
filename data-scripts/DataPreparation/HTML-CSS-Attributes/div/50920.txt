@@ -1,0 +1,2 @@
+	background:url(images/footer-inner.jpg) no-repeat center 0;
+	height:87px;

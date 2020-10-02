@@ -1,0 +1,6 @@
+	float:left
+	width:230px;
+	padding-left:38px
+	margin-left:20px;
+	background:url(../images/line_hor1.gif) 0 60px repeat-x
+	padding-right:15px

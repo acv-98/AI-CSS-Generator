@@ -1,0 +1,4 @@
+	height: 80px;
+	text-align: center;
+	display: inline-block;
+	width: auto !important;

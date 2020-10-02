@@ -1,0 +1,1 @@
+float:left; display:inline; width:50%; text-align:leftcolor:#fff; font-size:13px; margin-top:5px.logo_area

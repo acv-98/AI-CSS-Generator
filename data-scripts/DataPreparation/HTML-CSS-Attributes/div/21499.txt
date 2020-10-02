@@ -1,0 +1,2 @@
+	background-color: #2f383d;
+	padding: 20px;

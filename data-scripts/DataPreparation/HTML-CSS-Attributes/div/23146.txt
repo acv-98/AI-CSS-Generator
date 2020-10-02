@@ -1,0 +1,14 @@
+  border-radius: 0;
+  overflow: hidden;
+  margin-bottom: 50px;
+  padding-bottom: 25px;
+  margin-top: 0;
+  font-size: 30px;
+  color: #858586;
+.blog .blog-item .blog-content p {
+  background: #f5f5f5;
+  border-top: 1px solid #fff;
+  display: block;
+  text-align: left;
+  margin-left: 3px;
+  font-weight: 300;

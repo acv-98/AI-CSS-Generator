@@ -1,0 +1,6 @@
+	text-align:right;
+	padding:5px 0 0 0;
+	display:inline-block;
+	width:27px;
+	height:24px;
+	background:#585858;

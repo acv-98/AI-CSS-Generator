@@ -1,0 +1,1 @@
+ background:url(images/submit-bg.gif) left top repeat-x; width:66px; height:20px; color:#fff; cursor:pointer; border:none;

@@ -1,0 +1,14 @@
+    width: 205px;
+    height: 125px;
+    background: #fff;
+    position: relative;
+    left: 50%;
+    margin-left: -100px;
+    content: "";
+    top: -42px;
+    border-left: 102px solid transparent;
+    border-right: 104px solid transparent;
+    border-bottom: 42px solid #fff;
+    bottom: -42px;
+    border-top: 42px solid #fff;
+    z-index: 10;

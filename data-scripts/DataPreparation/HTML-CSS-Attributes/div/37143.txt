@@ -1,0 +1,4 @@
+	background:transparent url(../images/line.png) repeat-x top;
+	text-align: center;
+	padding: 20px 0 0 0;
+	height: 60px;

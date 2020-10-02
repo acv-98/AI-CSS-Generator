@@ -1,0 +1,7 @@
+	width:100%;
+	float:left;
+	padding:0px 0px 20px 0px;
+	text-align:center;
+	font-family:'HelveticaLTStdRoman',Arial, sans-serif;
+	color:#7e7e7e;
+	font-size:12pt;

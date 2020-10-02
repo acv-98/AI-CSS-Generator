@@ -1,0 +1,8 @@
+  border-top: 1px solid #ECECEC;
+  margin: 0 10px;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 0.8em;
+  white-space: nowrap;
+  width: 80px;
+  margin-bottom: 5px;

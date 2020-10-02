@@ -1,0 +1,7 @@
+	filter:alpha(opacity=70);
+	background:#110e0e;
+	float:right;
+	margin:54px 50px 0 0;
+	display:inline-block;
+	margin-left:6px;
+	opacity:.7;

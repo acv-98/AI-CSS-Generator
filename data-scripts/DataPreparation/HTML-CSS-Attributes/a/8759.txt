@@ -1,0 +1,3 @@
+ background: #852406;  background: #C9302C; .feature-content {
+    background: #F2F2F2;
+    padding-bottom: 40px;

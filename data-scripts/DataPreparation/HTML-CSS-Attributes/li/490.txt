@@ -1,0 +1,7 @@
+  background: #6b7175;
+  padding: 7.5px 15px;
+  margin: 15px -15px -15px -15px;
+  color: rgba(255, 255, 255, 0.8);
+  content: " ";
+  display: table;
+  clear: both;

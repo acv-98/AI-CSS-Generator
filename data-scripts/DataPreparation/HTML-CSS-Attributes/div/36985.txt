@@ -1,0 +1,7 @@
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 1px;
+    width: 30px;
+    background: #d1d1d1;
+	margin:20px 0;

@@ -1,0 +1,11 @@
+	position: relative;
+	margin-bottom: 4.2rem;
+	padding-bottom: 1.5rem;
+	display: block;
+	background-color: #001835;
+	width: 120px;
+	height: 3px;
+	content: '\0020';
+	left: 50%;
+	bottom: 0;
+	margin-left: -60px;

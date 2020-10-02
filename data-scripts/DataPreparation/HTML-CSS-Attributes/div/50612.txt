@@ -1,0 +1,12 @@
+	height:24px;
+	background:url(images/intro-shadow.jpg) left top no-repeat;
+	padding-top:36px;
+	list-style:none;
+	margin-left:420px;
+	float:left;
+	width:19px;
+	display:block;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	text-decoration:none;

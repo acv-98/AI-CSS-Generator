@@ -1,0 +1,5 @@
+ margin-top: 18px;  text-align: center; #call-to-action h2 {
+   font: 28px/36px 'montserrat-bold', sans-serif;
+   color: #EBEEEE;
+   margin-bottom: 12px;
+ font: 14px/24px 'montserrat-bold', sans-serif; 

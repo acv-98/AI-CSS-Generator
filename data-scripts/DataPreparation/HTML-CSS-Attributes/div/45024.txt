@@ -1,0 +1,9 @@
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: block;
+  width: 33.33%;
+  float: left;
+  transition: border-radius 300ms ease-in;
+  -webkit-transition: border-radius 300ms ease-in;
+  border-radius: 60px;

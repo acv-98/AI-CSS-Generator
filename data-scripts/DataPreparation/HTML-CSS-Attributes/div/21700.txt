@@ -1,0 +1,2 @@
+width:100%;clear:both;width:100%;clear:both;  width: 45.052083333333336%;
+float:left;margin-right:3%;width:48.5%;width:auto;width:auto;

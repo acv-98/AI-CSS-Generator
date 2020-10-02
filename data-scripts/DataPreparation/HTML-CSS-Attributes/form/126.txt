@@ -1,0 +1,9 @@
+    position: relative;
+    padding: 0;
+    width: 100%;
+    margin: 0;
+    line-height: auto;
+    list-style: none;
+    margin-bottom: 20px
+    display: none
+    border: 1px solid #6a3333

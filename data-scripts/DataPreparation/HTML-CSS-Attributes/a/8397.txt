@@ -1,0 +1,2 @@
+	float: right
+	color: #a36e82;

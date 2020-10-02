@@ -1,0 +1,7 @@
+width:505px;
+float:left;
+font-size:21px;
+	font-weight:bold;
+	color:#7C150A;
+margin:0px;
+padding:0px 27px 11px 24px;

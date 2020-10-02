@@ -1,0 +1,10 @@
+  color: #fff;
+  top: 42%;
+  visibility: hidden;  
+  font-size: 50px !important;
+  left: -1%;
+  position: absolute;
+  text-align: center;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

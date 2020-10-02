@@ -1,0 +1,13 @@
+	background:#261b0d url(../images/rausch.png) repeat;
+	padding:20px 0px;
+	color:#f9efe3;
+	text-shadow:none;
+	font-size:12px;
+	border-bottom:none;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	cursor:pointer;
+	padding-left:5px;

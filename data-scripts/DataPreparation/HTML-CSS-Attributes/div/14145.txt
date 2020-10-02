@@ -1,0 +1,15 @@
+  padding-bottom: 2px;
+  margin-bottom: 16px;
+  color: #ffffff;
+  top: -5px;
+  position: relative;
+  left: 50%;
+  margin-left: -67px;
+  font-size: 30px;
+  line-height: 52px;
+  font-weight: normal;
+  content: '';
+  background-color: #5c627c;
+  width: 135px;
+  height: 3px;
+  bottom: 0;

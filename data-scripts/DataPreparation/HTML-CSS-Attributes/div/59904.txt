@@ -1,0 +1,17 @@
+	z-index: 999;
+	position: relative;
+	background: url(../images/menu_bg.png) 0 0 repeat-x #d8d8db;
+	padding: 12px 0 11px;
+	font-family: 'Marvel', sans-serif;
+		float: none !important;
+		padding: 20px 10px 25px !important;
+		clear: both;
+		min-height: 0px;
+  		border: none;
+  	border: none !important;
+		font:12px/15px Arial, Helvetica, sans-serif;
+		text-transform:uppercase;
+		color:#927c67;
+		margin: 0 auto;
+		padding-left: 0 !important;
+		

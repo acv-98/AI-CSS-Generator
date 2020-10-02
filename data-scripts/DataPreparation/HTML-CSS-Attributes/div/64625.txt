@@ -1,0 +1,18 @@
+	background:#url("../images/featured_bg.png") no-repeat top center;
+	text-align:center;
+	margin:5px 0 35px 0;
+	padding:0;
+	margin-bottom:10px;
+	padding-top:0;
+	margin-top:0;
+	position:relative;
+	z-index:10;
+	border:1px solid #D8C0A8;
+	border-radius:0px 0px 5px 5px;
+	height:28px;
+	color:#FFF;
+	font-size:14px;
+	font-weight:normal;
+	font-family:'Lato', sans-serif;
+	padding-bottom:5px;
+ margin:40px 0 20px 0;

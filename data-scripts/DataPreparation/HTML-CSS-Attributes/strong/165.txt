@@ -1,0 +1,12 @@
+	behavior:url("../js/PIE.htc");
+	position:relative
+	background:url(../images/numb-1.gif) 0 0 repeat-x #00a9ff
+	display:inline-block;
+	padding:3px 7px 6px;
+	font-size:40px;
+	line-height:1.2em;
+	letter-spacing:-2px;
+	color:#fefefe;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px

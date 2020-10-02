@@ -1,0 +1,16 @@
+ margin-right: 0px;  padding: 30px 36px;  padding: 16px 36px; 
+	
+ padding: 16px 20px;   margin-right: 0px;  padding: 30px 20px;  width: 100%; float: none;  float: none; float: none; width: 100%; border-bottom: solid 1px #365374;  padding: 10px 21px; background: none; border-bottom: none;  border-bottom: none;  width: 100%; float: none;  float: none; float: none; width: 100%; border-bottom: solid 1px #365374;  padding: 10px; background: none; border-bottom: none;  background: #ff9000; border-bottom: none;  border-bottom: none; 		height: 60px;
+		border-bottom: none;
+		background: none;
+ float: right; width: 68.18%; margin-right: 11px;  list-style: none; margin: 0px; float: right;  float: left; padding: 0px;  margin: 0px; height: 105px; position: relative; transition: all 0.3s ease;  padding: 42px 41px 36px 41px; font-size: 16px; color: #fff; font-family: 'Open Sans', sans-serif; font-weight: 400; text-decoration: none; display: block; -webkit-transition: all 0.3s ease; transition: all 0.3s ease; .Navigation li span { 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#38577a', endColorstr='#2c445e', GradientType=0 );
+	width: 100%;
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -10;
+	opacity: 0;
+	transition: all 0.5s ease;
+ padding: 16px 41px;  height: 60px; 

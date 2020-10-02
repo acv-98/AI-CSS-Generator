@@ -1,0 +1,7 @@
+	color:#656f42!important;
+	text-decoration:none;
+	margin-bottom:10px;
+	padding:10px;
+	padding-bottom:5px;
+	border-bottom:solid 1px #b0bb88;
+	font-size:28px;

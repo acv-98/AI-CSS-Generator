@@ -1,0 +1,7 @@
+	margin:0 auto;
+	width:940px;
+	overflow:hidden;
+	font-size:.875em;
+	padding-bottom:176px;
+	height:194px;
+	position:relative;

@@ -1,0 +1,10 @@
+	font-size:1.2em;
+	line-height:1.8em;
+	border-bottom:1px solid #ccc;
+	font-weight:700;
+	margin:0;
+	padding-top:5px;
+	padding-right:0;
+	padding-bottom:5px;
+	padding-left:10px;
+	font-style:italic;

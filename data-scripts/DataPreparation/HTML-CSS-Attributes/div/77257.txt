@@ -1,0 +1,9 @@
+	padding: 25px 25px 30px 25px;
+	background: #ddd;
+	-moz-border-radius: 0 0 4px 4px;
+	-webkit-border-radius: 0 0 4px 4px;
+	border-radius: 0 0 4px 4px;
+	text-align: left;
+	height: 100px;
+	width: 100%;
+	border-color: #19b9e7;

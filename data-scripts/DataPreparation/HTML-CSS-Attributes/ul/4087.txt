@@ -1,0 +1,7 @@
+	margin-right:0;
+	display:inline-block;
+	float:none
+	margin-left:72px
+	padding-bottom:10px
+	line-height:30px
+	margin-top:5px

@@ -1,0 +1,6 @@
+	background:url(images/head-h-l.gif) no-repeat 0 0;
+	width:21px;
+	height:72px;
+	position:absolute;
+	top:0;
+	left:-21px;

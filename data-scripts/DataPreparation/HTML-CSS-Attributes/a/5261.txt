@@ -1,0 +1,9 @@
+	background: url("../images/button.gif");
+	background-position: 0 0;
+	width:8px;
+	height:11px;
+	display:inline-block;
+	cursor:pointer;
+	margin-left:5px;
+	text-decoration:none;
+	overflow:hidden;

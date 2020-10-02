@@ -1,0 +1,3 @@
+	padding:8px 0 24px;
+	background:url(images/content_bg.jpg) repeat-y center center;
+	border:1px solid #bcb99c;

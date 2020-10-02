@@ -1,0 +1,15 @@
+	position: relative;
+	padding: 20px;
+	float: left;
+	margin-right: 15px;
+	display: block;
+	width: 64px;
+	height: 64px;
+	border-radius: 50%;
+	overflow: hidden;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-style: italic;
+	margin-top: 10px;
+	font-weight: 600;
+	color: #666;

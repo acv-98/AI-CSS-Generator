@@ -1,0 +1,4 @@
+  background: #564960;
+  width: 100%;
+  display: inline-block;
+  color: #ffffff;

@@ -1,0 +1,6 @@
+	border:1px solid #cccccc;
+	float:left;
+	border-radius:6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px
+	background:url(../images/bg_input.gif) bottom repeat-x #fff;

@@ -1,0 +1,10 @@
+      background: url(../img/header.jpg) no-repeat center center;
+padding: 0;
+-webkit-background-size: cover;
+-moz-background-size:cover;
+color:#fff;
+        background-color:rgba(20, 152, 152, 0.9);
+        min-height:170px;
+        padding-top:100px;
+        font-weight:900;
+        padding-left:100px;

@@ -1,0 +1,5 @@
+  -webkit-animation-name: slideInDown;
+  animation-name: slideInDown;
+    min-height:200px;
+    padding:100px 20px 100px 20px;
+    line-height:30px;

@@ -1,0 +1,8 @@
+    text-align: center;
+    width:170px;
+    margin:0 auto;
+    margin-top:40px;
+    font-size:1.125rem;
+    color:#616161;
+    font-style: italic;
+    margin-bottom:15px;

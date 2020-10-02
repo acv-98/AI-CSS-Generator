@@ -1,0 +1,6 @@
+	float:left;
+	width:40px;
+	height:57px;
+	background:url('images/button5.png') no-repeat 0 bottom;
+	padding-left:10px;
+	padding-top:3px;

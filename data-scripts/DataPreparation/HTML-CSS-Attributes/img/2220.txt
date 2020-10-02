@@ -1,0 +1,5 @@
+ max-width: 250px; 
+.tm-tab-content-text {
+	margin-left: 0;
+	margin-top: 30px;
+	width: 100%;

@@ -1,0 +1,3 @@
+float:right;@media screen and (max-width:768px) {
+  	float: none;
+  float: none;

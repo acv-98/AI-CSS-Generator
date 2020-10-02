@@ -1,0 +1,10 @@
+	border-bottom: 1px solid #a5d549;
+	padding-right: 15px;
+	font-size: 22px;
+	font-weight: 500;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;

@@ -1,0 +1,6 @@
+  color: #78ADC9;
+  background-color: #78ADC9;
+  font-size: 14px;
+  font-weight: bold;
+  margin-right: 5px;
+margin-bottom: 5px;margin-right: 5px;

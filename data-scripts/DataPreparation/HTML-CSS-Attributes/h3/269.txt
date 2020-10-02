@@ -1,0 +1,1 @@
+ background-repeat:no-repeat; background-position:0 2px; padding:6px 0 8px 30px; background-image:url(images/ico1.gif); background-image:url(images/ico2.gif); background-image:url(images/ico3.gif); background-image:url(images/ico4.gif);

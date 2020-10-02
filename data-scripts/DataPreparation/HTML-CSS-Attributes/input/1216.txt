@@ -1,0 +1,9 @@
+  background: transparent;
+  border: 2px solid #ffffff;
+  border-radius: 0px;
+  color: #ffffff;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #f0f0f0;
+  box-shadow: none;
+  transition: all 0.4s ease-in-out;
+  border-bottom-color: #999;

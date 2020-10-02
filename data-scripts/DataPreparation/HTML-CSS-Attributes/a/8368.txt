@@ -1,0 +1,10 @@
+background-position: 1px -15px; cursor: default; 
+@font-face {
+    font-family: 'museo';
+    src: url('fonts/museo300-regular-webfont-webfont.eot');
+         url('fonts/museo300-regular-webfont-webfont.woff') format('woff'),
+         url('fonts/museo300-regular-webfont-webfont.ttf') format('truetype'),
+         url('fonts/museo300-regular-webfont-webfont.svg#webfontuploaded_file') format('svg');
+    font-weight: normal;
+    font-style: normal;
+ background: url(images/star.png) no-repeat 0 0; margin-left: 4px; float: left; width: 20px; height: 20px;   

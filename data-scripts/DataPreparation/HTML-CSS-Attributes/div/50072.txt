@@ -1,0 +1,5 @@
+	border-right: none 0px;
+	padding-right:0px;
+	margin: 0px 0px 70px 0px;
+	margin-right: 0px;
+	background: none;

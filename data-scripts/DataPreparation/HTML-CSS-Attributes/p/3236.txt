@@ -1,0 +1,2 @@
+	padding-left: 36px;
+	background-image: url('../images/icons/author.png');

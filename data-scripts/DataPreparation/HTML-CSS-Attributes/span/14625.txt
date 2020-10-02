@@ -1,0 +1,8 @@
+	display:block;
+	color:#0043e4;
+	font-size:60px;
+	line-height:72px;
+	letter-spacing:-1px;
+	margin:0 0 -20px 0;
+	font-family: 'Alex Brush', cursive;
+	text-transform:capitalize;

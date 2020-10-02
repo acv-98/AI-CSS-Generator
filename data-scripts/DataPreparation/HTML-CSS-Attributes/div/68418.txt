@@ -1,0 +1,17 @@
+    text-transform: uppercase;
+    color: #8a2828;
+    font-size: 1.4em;
+    font-weight: normals;
+    line-height: 1.5em;    
+    margin-bottom: 20px;
+   background: #ede5e5;
+    padding-top:40px;
+    padding-bottom: 40px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.2);
+    text-align: center;
+    background: #f7f7f7;
+    border: 12px solid #fff;
+      line-height: 2em;
+      margin-bottom: 20px;
+      padding-top: 20px;
+      padding-bottom: 0;

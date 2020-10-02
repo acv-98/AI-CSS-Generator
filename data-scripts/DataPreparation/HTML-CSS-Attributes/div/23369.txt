@@ -1,0 +1,9 @@
+	content: "\f201";
+	font-family: 'FontAwesome';
+	font-size: 45px;
+	padding: 65px 30px 0 0;
+	float: left;
+	color: #01b1d7;
+		margin-top: 40px;
+		font-size: 30px;
+		padding: 20px 20px 0 0;

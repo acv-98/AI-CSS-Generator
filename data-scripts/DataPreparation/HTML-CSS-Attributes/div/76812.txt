@@ -1,0 +1,1 @@
+width:70px;height:38px;border:1px solid #aaaaaa;float:left;margin-right:5px;width:70px;height:38px;border:1px solid #ffffff;float:left;margin-right:5px;

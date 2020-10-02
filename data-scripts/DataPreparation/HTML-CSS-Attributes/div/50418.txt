@@ -1,0 +1,18 @@
+	padding:37px 0 20px 40px;
+	list-style-type:none;
+	float:left;
+	display:inline;
+	width:270px;
+	min-height:300px;
+	margin-right:38px;
+	background:no-repeat 0 11px;
+	line-height:26px;
+	padding-left:10px;
+	font-size:18px;
+	color:#000;
+	font-weight:normal;
+	padding-bottom:10px;
+	margin-bottom:6px;
+	border-bottom:solid 1px #e5e5e5;
+	padding-top:8px;
+	height:32px;

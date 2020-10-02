@@ -1,0 +1,11 @@
+	width:0;
+	height:0;
+	left:50%;
+	top:50%;
+	transition: all 500ms;
+	-webkit-transition: all 500ms;
+	opacity:0.8;
+	display:block;
+	position:absolute;
+	background:#0099FF;
+	z-index:5;

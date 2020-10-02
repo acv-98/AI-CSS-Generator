@@ -1,0 +1,2 @@
+	background: url(../images/bg-menu-selected-right.gif) no-repeat right top;
+	color: #f2ffff;

@@ -1,0 +1,48 @@
+-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both
+ * Bootstrap v4.1.0 (https://getbootstrap.com/)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  	Flaticon icon font: Flaticon
+  	Creation date: 10/07/2018 06:45
+@font-face {
+font-family: "Flaticon";
+	src: url("../fonts/Flaticon.eot");
+	url("../fonts/Flaticon.woff") format("woff"),
+	url("../fonts/Flaticon.ttf") format("truetype"),
+	url("../fonts/Flaticon.svg#Flaticon") format("svg");
+	font-weight: normal;
+	font-style: normal;
+	padding: 70px 0px;
+	background: url(../images/ptn-bg.jpg);
+	position: relative;
+    position: absolute;
+    top: 0;
+    left: 0;
+    visibility: hidden;
+    width: 100%;
+    height: 100%;
+    content: '';
+    -webkit-transition: .3s;
+    transition: .3s;
+    opacity: 0;
+    background-color: #535c68;
+	background-color: #890025;
+	text-align: center;
+	bottom: 15px;
+	left: 15px;
+	width: auto;
+	z-index: 7;
+	opacity: 0;
+	visibility: hidden;
+	right: 15px;
+	margin: 0 auto;
+	-webkit-transition: all 0.25s ease-in-out;
+	-moz-transition: all 0.25s ease-in-out;
+	-ms-transition: all 0.25s ease-in-out;
+	-o-transition: all 0.25s ease-in-out;
+	transition: all 0.25s ease-in-out;
+	font-family: 'Engagement', cursive;
+	font-size: 24px;
+	color: #ffffff;
+  -webkit-animation-name: fadeIn;

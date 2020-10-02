@@ -1,0 +1,6 @@
+	width:920px;
+	margin:0 auto;
+	overflow:auto;
+	height:60px;
+	background:url(images/bg_domsearch.png) no-repeat top;
+	padding:10px 25px 15px 15px;

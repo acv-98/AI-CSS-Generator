@@ -1,0 +1,4 @@
+	display:table;
+	margin:0 auto 0 auto;
+	width:auto;
+	position:relative;

@@ -1,0 +1,12 @@
+	background-color: #fff;
+	border:1px solid #dedede;
+	width: 380px;
+	height: 140px;
+	resize: none;
+	color: #4d4d4d;
+	font-family: 'PTSansRegular';
+	font-size: 13px;
+	padding: 5px 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;

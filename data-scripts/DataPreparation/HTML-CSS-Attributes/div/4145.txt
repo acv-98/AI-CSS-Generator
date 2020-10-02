@@ -1,0 +1,1 @@
+background:url(images/left-bot-corner.gif) no-repeat left bottom;

@@ -1,0 +1,5 @@
+	border: none;
+	padding-top: 12px;
+	background: #eb5424;
+	border-color: transparent;
+	background-color: transparent;

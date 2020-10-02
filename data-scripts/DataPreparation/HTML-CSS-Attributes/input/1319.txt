@@ -1,0 +1,11 @@
+ color: #727272;
+ font-weight: 300;
+	background-color: #fff;
+	border: 1px solid #fff;
+	box-shadow: none;
+	height: 50px;
+	font-weight: 300;
+	border-color: #fff;
+	outline: 0;
+	margin-bottom: .75em;
+	padding: .75em 12px;

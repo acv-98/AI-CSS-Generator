@@ -1,0 +1,19 @@
+	position:relative;
+	overflow: hidden;
+	background: #fff;
+	height: 578px;
+	margin: 0 auto;
+	
+	z-index:2;
+	left: 50%;
+	margin-left: -626px;
+	width: 1252px;
+	top: -1px;
+	bottom: 0;
+	padding-left: 42px;
+	padding-right: 56px;
+	font: normal 30px/36px Arial, Helvetica, sans-serif;
+	color: #fff;	
+	padding-top: 193px;
+	font-style: normal;
+	font-size: 24px;

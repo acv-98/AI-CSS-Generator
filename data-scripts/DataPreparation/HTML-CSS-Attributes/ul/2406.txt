@@ -1,0 +1,23 @@
+font-family:inherit;font-size:inherit;line-height:inherit
+ *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+	 General styles
+body {
+	background-color: white;
+	background-image: url(../img/bg.jpg);
+	background-position: left top;
+	background-repeat: repeat;
+	-webkit-font-smoothing: antialiased;
+    text-transform: capitalize;
+    font-weight: 400;
+	color: #898989;
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1.1em;
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    line-height: normal;
+    display: table;
+    float: none;
+    margin: 0 auto;
+    table-layout: fixed;
+    color: #4f4d47;

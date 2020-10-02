@@ -1,0 +1,3 @@
+	float:right;
+	border:4px solid #b0a48b;
+	margin:0px 0px 10px 20px;

@@ -1,0 +1,2 @@
+width:100%;padding:10px 0% 10px 0%;	float:right !important;
+	padding:10px 0% 10px 3%;

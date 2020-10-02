@@ -1,0 +1,13 @@
+	font: 16px Contra;
+	line-height:22px;
+	margin-bottom:16px;
+	color:#656f42;
+	text-decoration:none;
+	padding:10px;
+	background:#bec993;
+	font-size:12px;
+	list-style:square;
+	display:block;
+	width:98%;
+	font-family: Comfortaa;
+	border:dashed 1px #c3d092;

@@ -1,0 +1,4 @@
+	float:right;
+	width: 270px;
+	height: 620px;
+	position:relative;

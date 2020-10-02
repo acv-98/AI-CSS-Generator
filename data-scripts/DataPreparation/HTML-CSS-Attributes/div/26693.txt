@@ -1,0 +1,1 @@
+ padding-bottom: 36px;  width: 215px; float: left;  padding-left: 20px;  background: url(images/bg-img.png) repeat 0 0; padding: 9px 0 10px; border-top: 1px solid #6e6e6e; margin-bottom: 8px;  line-height: 19px; padding-bottom: 14px;  color: #fff;  line-height: 18px; 

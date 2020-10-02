@@ -1,0 +1,3 @@
+    clear: both;
+    height: 57px;
+        height: 0;

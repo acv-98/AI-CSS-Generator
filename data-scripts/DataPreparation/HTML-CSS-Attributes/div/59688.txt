@@ -1,0 +1,5 @@
+  margin-left: -25px;
+margin-left: -15px;.single_more_themes{margin-left: 15px;
+width: 220px;
+background: #FFD500;
+color: #fff;

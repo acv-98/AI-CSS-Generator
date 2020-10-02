@@ -1,0 +1,6 @@
+	position: relative;
+	float: left;
+	width: 280px;
+	padding-bottom: 12px;
+	background: url(images/footer_box_middle.jpg) repeat-y;
+	margin-bottom: 10px;

@@ -1,0 +1,4 @@
+	width:100%;
+	padding:0;
+	border-bottom:1px solid #fff;
+	background:url(../images/menu-row-tail.gif) center top repeat-x #e6e6e6;

@@ -1,0 +1,11 @@
+	font-family: 'Droid Sans', Verdana, Arial, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	color: #E095B4;
+	float: right;
+	margin-right: 0px;
+	margin-top: 0px;
+	position: absolute;
+	bottom: 20px;
+	left: 160px;
+	padding-top: 20px;

@@ -1,0 +1,4 @@
+	background-image: url(../images/post_footer_comment.jpg);
+	height: 138px;
+	width: 477px;
+	padding: 0px 60px;

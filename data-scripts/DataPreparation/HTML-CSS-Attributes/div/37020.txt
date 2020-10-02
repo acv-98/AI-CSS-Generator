@@ -1,0 +1,16 @@
+	float:left;
+	color:#fff;
+	font-size:0.85em;
+	text-transform:uppercase;
+	font-weight:600;
+	text-decoration:none;
+    border: none;
+	cursor: pointer;
+	padding:8px 15px; 
+	display: inline-block;
+	outline: none;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	background: #000;
+	margin:10px 0 0;

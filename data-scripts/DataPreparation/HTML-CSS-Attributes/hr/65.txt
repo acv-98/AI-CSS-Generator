@@ -1,0 +1,3 @@
+  visibility: hidden !important;
+    margin: 2rem 0;
+    border: 0;

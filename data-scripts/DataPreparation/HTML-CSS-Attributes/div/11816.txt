@@ -1,0 +1,5 @@
+	color: #a5d549;
+	font-size: 35px;
+	font-weight: 700;
+	margin-top: 10px;
+	margin-bottom: 10px;

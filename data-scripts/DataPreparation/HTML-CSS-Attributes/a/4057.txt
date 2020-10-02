@@ -1,0 +1,3 @@
+font-size:12pt;font-size:12pt;	color:#d25809;
+	font-family: 'BebasNeueRegular',Arial, Helvetica, sans-serif;
+	font-size:15pt;

@@ -1,0 +1,15 @@
+	background:url(images/slide-more.gif) no-repeat 0 0;
+	width:107px;
+	height:35px;
+	font-size:13px;
+	line-height:35px;
+	color:#000;
+	text-align:center;
+	display:block;
+	position:absolute;
+	bottom:32px;
+	left:33px;
+	text-decoration:none;
+	font-weight:bold;
+	padding:0 0 0 5px;
+	margin:0 0 0 auto;

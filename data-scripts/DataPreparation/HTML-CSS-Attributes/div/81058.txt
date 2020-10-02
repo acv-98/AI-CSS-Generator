@@ -1,0 +1,17 @@
+  *zoom: 1;
+  display: table;
+  line-height: 0;
+  content: "";
+  clear: both;
+	border-left: 2px solid #e96b56;
+		color:#e96b56;
+	border-right: 2px solid #e96b56;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	margin-bottom: 30px;
+	-moz-box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.04);
+	-webkit-box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.04);
+	background-color: #FFF;
+	box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.04);
+	padding: 15px;

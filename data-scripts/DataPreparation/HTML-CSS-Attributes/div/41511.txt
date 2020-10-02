@@ -1,0 +1,13 @@
+  color: #3498db;
+  display: inline;
+  float: left;
+  width: 100%;
+  text-align: center;
+  margin-top: 10px;
+  padding: 0 0 25px;
+  font-size: 16px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

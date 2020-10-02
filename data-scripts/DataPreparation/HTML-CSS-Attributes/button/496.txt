@@ -1,0 +1,4 @@
+ background-color: #006599; 
+.tm-btn-gray {
+    background-color: #494752;
+    color: white;

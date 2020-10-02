@@ -1,0 +1,9 @@
+	float: right; 
+	display: inline; 
+	background: url(images/latest-news-actions.gif) no-repeat 0 bottom;
+	line-height: 12px;
+	padding-left: 15px; 
+	color: #c24426; 
+	text-decoration: underline; 
+	margin:  10px 5px 5px 5px; 
+ text-decoration: none; 	Other News

@@ -1,0 +1,13 @@
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(226, 226, 226);
+    display: block;
+-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;outline:0 * Nivo Lightbox Default Theme v1.0
+ * http://dev7studios.com/nivo-lightbox
+ *
+ * Copyright 2013, Dev7studios
+ * Free to use and abuse under the MIT license.
+ 
+.nivo-lightbox-theme-default.nivo-lightbox-overlay { 
+	background: #666;

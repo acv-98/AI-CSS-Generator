@@ -1,0 +1,8 @@
+	float:right;
+	margin-right:7px;
+	background:url(../images/search_input.gif) no-repeat;
+	width:177px;
+	font:14px Arial, Helvetica, sans-serif;
+	color:#363636;
+	height:17px;
+	padding:6px;

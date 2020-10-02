@@ -1,0 +1,10 @@
+    background: none !important;
+    -webkit-filter: progid:none !important;
+            filter: progid:none !important;
+    opacity: 1;
+      max-width: 900px;
+      margin-right: auto;
+      margin-left: auto;
+        max-width: 600px
+      top: 41%;
+      height: 20%;

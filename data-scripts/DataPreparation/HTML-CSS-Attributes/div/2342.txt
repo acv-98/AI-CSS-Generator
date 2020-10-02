@@ -1,0 +1,9 @@
+    border-color: #3197d6;
+        margin: 1.5rem 0;
+    display: table;
+    font-size: 18px;
+    line-height: 1;
+    padding: 0 0 0.5rem;
+    position: relative;
+    margin-bottom: 3rem;
+    list-style: none;

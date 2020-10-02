@@ -1,0 +1,18 @@
+    display: inline-block;
+    padding: 12px 18px 12px;
+    margin: 4px auto 0;
+    background: #8299cd;
+    border: 2px solid #8299cd;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    z-index: 1;
+    position: relative;
+    transition: all 0.3s ease 0s;
+ background: #e45050; .pricingTable.yellow .price-value{
+    border-color: #e45050;
+ border-color: #e45050; .pricingTable.yellow .pricingTable-signup:hover{
+ background: #db5c87; .pricingTable.purple .price-value{
+ border-color: #db5c87; .pricingTable.purple .pricingTable-signup:hover{

@@ -1,0 +1,18 @@
+  width: 100%;
+  text-align: center;
+  padding: 30px;
+  background: rgba(0, 0, 0, 0.05);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+  margin-bottom: 40px;
+  position: relative;
+  color: #EA9215;
+  display: block;
+  list-style: none;
+  font-size: 16px;
+  line-height: 50px;
+  top: -0.9em;
+  padding-right: 10px;
+  text-transform: uppercase;

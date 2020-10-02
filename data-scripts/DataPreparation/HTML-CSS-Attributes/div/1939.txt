@@ -1,0 +1,8 @@
+	margin: 0 auto;
+	background-repeat: no-repeat;
+	display: inline-block;
+	width: 64px;
+	height: 64px;
+	text-align: center;
+	background-image: url(../img/service-icon-01.png);
+	transition: all 0.5s;

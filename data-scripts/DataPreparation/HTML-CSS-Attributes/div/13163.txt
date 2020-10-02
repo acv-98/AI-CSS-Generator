@@ -1,0 +1,13 @@
+	float:right;
+	width:440px;
+	color:#7e7e7e;
+	display:block;
+	margin:0 0 12px;
+	padding:0 0 0 12px;
+	font-size:16px;
+	line-height:20px;
+	font-weight:normal;
+	text-transform:none;
+	text-decoration:none;
+	text-align:center;
+	background:url(../images/li_a.gif) no-repeat left center;

@@ -1,0 +1,5 @@
+      vertical-align:middle;
+      margin:0 auto;
+      text-align:center;
+      max-height:375px;
+      overflow: hidden;

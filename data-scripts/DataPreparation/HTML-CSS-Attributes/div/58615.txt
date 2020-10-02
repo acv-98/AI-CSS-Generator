@@ -1,0 +1,18 @@
+	background:#F3F3F3;
+	padding:1em;
+	font-weight: 400;
+	color: #3D3E41;
+	margin-bottom: 0.5em;
+	text-align: center;
+	line-height: 1.5em;
+	font-size: 1.3em;
+	display: inline-block;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	letter-spacing: 0.1em;
+		padding: 0.8em 1.5em;
+		font-size: 0.875em;
+		text-align: center;
+		margin:1em 0;

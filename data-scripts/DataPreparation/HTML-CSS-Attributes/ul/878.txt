@@ -1,0 +1,1 @@
+width:100%;overflow:hidden;vertical-align:topfloat:left;margin-right:21pxtext-decoration:nonetext-decoration:underlinepadding-bottom:20pxpadding:0 0 0 20px;background:url(images/button.gif) no-repeat left 4px;line-height:1.57em

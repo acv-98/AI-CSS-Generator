@@ -1,0 +1,10 @@
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	display: inline-block;
+	border-radius: 100%;
+	text-align: center;
+	color: #fff;
+	font-size: 30px;
+	margin-top: 15px;
+	background: #1abac8;

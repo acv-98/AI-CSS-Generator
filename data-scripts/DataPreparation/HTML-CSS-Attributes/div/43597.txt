@@ -1,0 +1,2 @@
+ border-color: #cfcfcf;  width:auto; float:none; position:static; margin:0; margin-top:20px;
+ display: none; margin-bottom: 10px; position:relative; overflow:hidden;  position:absolute; top:5px; left:0;  width: auto; height: 176px; padding: 5px; border: 1px solid #CFCFCF;   margin-left:190px; min-height:193px;  color: #ac670c; margin: 5px 0 10px; 

@@ -1,0 +1,1 @@
+ background: url(../img/social-icons/circular/xing_32.png);  background: url(../img/social-icons/rounded/xing_32.png); 

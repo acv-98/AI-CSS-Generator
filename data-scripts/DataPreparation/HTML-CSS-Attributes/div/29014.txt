@@ -1,0 +1,6 @@
+	padding-top: 25px;
+	color: #2f2f2f;
+    color: #e74c3c;
+	font-weight: 400;
+	text-transform: none;
+	font-size: 1em;

@@ -1,0 +1,5 @@
+	border-right: 1px solid #CCC;
+	margin-right: 4%;
+	padding-right: 3%;
+	float: left;
+	width: 15.5%;

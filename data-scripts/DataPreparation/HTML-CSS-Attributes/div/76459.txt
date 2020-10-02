@@ -1,0 +1,1 @@
+display:inline; float:left; margin-top:16px; width:100%border-bottom:1px solid #e3e3e3; padding-bottom:5pxfont-size:25pxmargin-right:10px; min-height:120px; width:31%margin-right:0pxmargin-right:8pxmargin-right:0px; width:100%color:#12a3df

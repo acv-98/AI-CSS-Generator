@@ -1,0 +1,12 @@
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    line-height: 44px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-shadow: 0 1px 7px rgba(0,0,0,.2);
+    margin-top: 20px;
+ font-size: 36px;     .timer .days-wrapper,
+    .timer .hours-wrapper,
+    .timer .minutes-wrapper,

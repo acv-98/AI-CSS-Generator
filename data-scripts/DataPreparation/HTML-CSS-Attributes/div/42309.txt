@@ -1,0 +1,2 @@
+
+ overflow:hidden; padding-top:81px margin:0 auto; display:block; border-radius:100%; width:98px; height:98px; border:2px solid #6bb551; text-align:center; line-height:98px; color:#6bb551; font-size:40pxcolor:#6bb551 background-color:#6bb551; color:#FFF color:#FFF text-transform:uppercase; font-size:15px; line-height:16px; font-weight:700; color:#000; padding-top:26px line-height:27px; font-weight:500; padding-top:5px; color:#5e5e64

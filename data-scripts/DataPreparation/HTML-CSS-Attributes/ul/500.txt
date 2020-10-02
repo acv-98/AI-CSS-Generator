@@ -1,0 +1,9 @@
+	border:4px solid #E1E1E1;
+	margin:12px 0;
+	overflow:hidden;
+	background:url("../images/tick.png") no-repeat 10px 9px #FFFFFF;
+	border-bottom:1px solid #EDEDED;
+	color:#868686;
+	font-size:12px;
+	list-style:none outside none;
+	padding:10px 0 10px 37px;

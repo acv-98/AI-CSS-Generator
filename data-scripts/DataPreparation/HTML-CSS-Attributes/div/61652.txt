@@ -1,0 +1,10 @@
+  padding: 15px;
+  display: table;
+  content: " ";
+  clear: both;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  border-top-color: #dddddd;
+  border-bottom-color: #dddddd;
+    height: 350px;
+    overflow-y: scroll;

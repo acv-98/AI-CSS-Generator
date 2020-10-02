@@ -1,0 +1,5 @@
+  color: #919191;
+  margin-top:40px;
+  width:100%;
+  font-size:15px;
+  text-align:center;

@@ -1,0 +1,3 @@
+    opacity:0;
+    -webkit-animation-name: rotateInDownLeft; 
+    animation-name: rotateInDownLeft; 

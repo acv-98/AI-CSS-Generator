@@ -1,0 +1,5 @@
+	display:block;
+	font-size:19px;
+	line-height:1.2em;
+	color:#ed1e24;
+	margin-bottom:10px;

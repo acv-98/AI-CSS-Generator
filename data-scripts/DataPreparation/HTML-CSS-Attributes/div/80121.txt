@@ -1,0 +1,7 @@
+	float:left;
+	width: 13.5%;
+	margin-top:-1.5%;
+		width: 16.5%;
+		text-align: center;
+		float: none;
+		margin: 0 auto;

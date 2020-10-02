@@ -1,0 +1,2 @@
+	overflow: hidden;
+	margin: -15px -30px 4px;

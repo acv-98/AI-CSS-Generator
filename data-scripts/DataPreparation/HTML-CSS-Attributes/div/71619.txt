@@ -1,0 +1,8 @@
+	position: relative;
+	width: 251px;
+	height: 105px;
+	padding: 7px;
+	margin-bottom: 10px;
+	background: url(images/ot.png) no-repeat;
+	top: 0;
+	left: 0;

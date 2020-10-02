@@ -1,0 +1,1 @@
+ float:right; width:219px; height:240px; 

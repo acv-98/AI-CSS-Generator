@@ -1,0 +1,3 @@
+	background:url(../images/sub-pages-bg.jpg) center 0 no-repeat #fff;
+	min-height:122px;
+	margin-bottom:38px;

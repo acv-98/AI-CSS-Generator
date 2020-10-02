@@ -1,0 +1,10 @@
+	width:100%;
+	overflow:hidden;
+	margin-top:-10px;
+	float:left;
+	vertical-align:top;
+	line-height:1.83em;
+	padding-top:10px;
+	margin-right:78px;
+	color:#000;
+	text-decoration:none;

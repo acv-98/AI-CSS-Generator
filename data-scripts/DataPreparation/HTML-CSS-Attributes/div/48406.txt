@@ -1,0 +1,8 @@
+  position: relative;
+  margin-bottom: 70px;
+  left: 0;
+  top: 0;
+  font-size: 54px;
+  color: #1fb5f6;
+  padding-left: 75px;
+  background: #50c5f8;

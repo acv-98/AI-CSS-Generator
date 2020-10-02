@@ -1,0 +1,1 @@
+color:#DFD8D8; background-color:#5F120A; border-top:1px solid #9C2F23; border-bottom:1px solid #7C7B7B;

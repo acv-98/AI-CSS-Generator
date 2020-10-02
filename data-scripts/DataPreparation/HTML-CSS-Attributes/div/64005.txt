@@ -1,0 +1,7 @@
+  text-align: center;
+  padding-bottom: 30px;
+  top: 29px;
+  display: block;
+  position: relative;
+  z-index: 20;
+  margin-bottom: 15px;

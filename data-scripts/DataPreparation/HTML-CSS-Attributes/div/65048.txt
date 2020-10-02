@@ -1,0 +1,4 @@
+	background: url(../images/slider_highlight.jpg) no-repeat;
+	height: 380px;
+	display: block;
+	background-position: center top;

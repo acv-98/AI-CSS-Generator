@@ -1,0 +1,2 @@
+border-bottom:none;RIGHT CLASSES
+ border-bottom:none;

@@ -1,0 +1,4 @@
+	padding-top:6px;
+	background:url(images/link-bg.gif) no-repeat 1px 4px;
+	padding-left:15px;
+	font-weight:bold;

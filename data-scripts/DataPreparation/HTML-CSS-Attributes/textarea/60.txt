@@ -1,0 +1,15 @@
+	width: 340px;
+	height: 30px; 
+	background: #ededed; 
+	border: none; 
+	outline: none; 
+	margin:10px 0; 
+	color: #888; 
+	font-size: 12px; 
+	line-height: 30px; 
+	padding-left: 10px;
+width: 690px; height: 120px; min-width: 690px; max-width: 690px; line-height: 18px; padding-top: 8px;color: #f1f1f1;	background: #444;.comment-btn{
+	float: right;
+	background-repeat: no-repeat;
+	margin-right: -5px;
+	overflow: hidden;

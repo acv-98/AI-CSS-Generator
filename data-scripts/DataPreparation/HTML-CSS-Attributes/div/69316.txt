@@ -1,0 +1,14 @@
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+    overflow-x: visible;
+	padding: 17px 34px 30px;
+	min-height: 190px;
+	color: #fff;
+	text-align: left;
+	font-size: 14px;
+	line-height: 27px;
+	font-weight: 300;
+	margin-top: 15px;
+	background-color: #1e96ff;
+	border-radius: 3px;
+	border-color: #0077e0;

@@ -1,0 +1,8 @@
+	text-align: center;
+width: 100%; display: block;content: "\0020"; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;height: 1%;display: block; zoom: 1; width: 100%; display: block;.mobileSlider {
+	left: 270px;
+    margin: 0 0 60px;
+    max-width: 208px;
+    position: relative;
+    top: 80px;
+ zoom: 1; 

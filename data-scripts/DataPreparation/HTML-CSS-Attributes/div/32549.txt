@@ -1,0 +1,15 @@
+		padding: 15px 2% 0 2%;
+		font-size:18px;
+		width: 100%;
+    width: 50%;
+    height: 100%;
+    float: right;
+    text-align: center;
+    padding: 65px 2% 0 2%;
+	color: #ccc;
+    line-height: 20px;
+    color: #000;
+	font-weight:500;
+    margin-bottom: 20px;
+    border-top: 1px solid #eaeaea;
+    border-bottom: 1px solid #eaeaea;

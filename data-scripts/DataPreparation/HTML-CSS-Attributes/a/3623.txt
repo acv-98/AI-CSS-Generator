@@ -1,0 +1,1 @@
+color:#fff;background-color:#205081;border-color:rgba(0,0,0,0.2)background-image:nonebackground-color:#205081;border-color:rgba(0,0,0,0.2)color:#205081;background-color:#fff

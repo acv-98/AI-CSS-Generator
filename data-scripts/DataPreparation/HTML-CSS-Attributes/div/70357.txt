@@ -1,0 +1,10 @@
+    margin-top: 0px;
+    background-color: transparent;
+    height: 80px;
+    border-bottom: 1px solid #ddd;
+    transition: all 0.3s;
+    border-color: transparent; 
+    color: #000000;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    font-size: 0.875rem;

@@ -1,0 +1,12 @@
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	line-height: 0em;
+	background: url(../img/bg/patterns/obl-1x1.png);
+	overflow: hidden;
+	width: 282px;
+	height: 150px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;

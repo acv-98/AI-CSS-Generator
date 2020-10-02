@@ -1,0 +1,18 @@
+    text-align: center;
+    padding: 150px 0 50px;
+    position: relative;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: #fff;
+        text-align: left;
+        padding: 0;
+        height: 100vh;
+        max-width: none;
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 35px;

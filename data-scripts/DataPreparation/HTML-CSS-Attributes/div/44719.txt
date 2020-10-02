@@ -1,0 +1,6 @@
+  width: 40%;
+  float: left;
+  padding: 6px 20px;
+  background: #F78536;
+  font-size: 18px;
+  color: #fff;

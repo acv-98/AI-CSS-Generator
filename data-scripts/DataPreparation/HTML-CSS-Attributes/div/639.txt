@@ -1,0 +1,1 @@
+	background: url(images/twitter_icon.png) right bottom no-repeat;

@@ -1,0 +1,5 @@
+    font-family: 'Kaushan Script', cursive;
+    font-size:60px;
+    line-height: 60px;
+    font-weight: 300;
+    letter-spacing: 5px;

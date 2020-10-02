@@ -1,0 +1,4 @@
+width: 90%; margin: 5em auto; max-width: 1100px; min-width: 300px; 
+.grid-wrap {
+  overflow: hidden;
+min-width: 780px;width: 960px;

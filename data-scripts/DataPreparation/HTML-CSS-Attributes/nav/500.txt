@@ -1,0 +1,14 @@
+	text-align: left;
+	display: block;
+	line-height: 50px;
+	padding: 5px 0px;
+	margin: 0px 4px;
+	color: #aaa;
+	font-size: 15px;
+	text-shadow: 1px 1px 1px #fff;
+	border: 1px solid #fff;
+	box-shadow: 0px 1px 1px rgba(0,0,0,0.3);
+	background: #fff;
+ float:none; font-size:13px; padding:0px 0px; width:100%; text-align:center; text-transform:uppercase;	#contents{
+	width: 95%;
+ float:none; font-size:13px; padding:0px 0px; width:100%; text-align:center; text-transform:uppercase;

@@ -1,0 +1,6 @@
+  position: absolute;
+  top: 41%;
+  background: none repeat scroll 0 0 #FE980F;
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 4px 10px;

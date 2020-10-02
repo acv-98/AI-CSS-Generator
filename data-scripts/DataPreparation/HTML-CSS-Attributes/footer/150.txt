@@ -1,0 +1,16 @@
+    -webkit-clip-path: polygon(0 17%, 100% 0%, 100% 100%, 0 100%);
+            clip-path: polygon(0 17%, 100% 0%, 100% 100%, 0 100%);
+    height: 650px;
+    position: relative;
+        height: auto;
+        -webkit-clip-path: polygon(0 9%, 100% 0%, 100% 100%, 0 100%);
+                clip-path: polygon(0 9%, 100% 0%, 100% 100%, 0 100%);
+      content: '';
+      position: absolute;
+      width: 100%;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      background-color: #001F37;
+      z-index: -1;

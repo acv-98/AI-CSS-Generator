@@ -1,0 +1,11 @@
+  margin-bottom: 30px;
+  margin-top: 50px;
+  position: relative;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;
+    margin-top: 0px;
+    float: none;
+  font-size: 200px;
+  color: #FCC72C;
+    font-size: 100px;

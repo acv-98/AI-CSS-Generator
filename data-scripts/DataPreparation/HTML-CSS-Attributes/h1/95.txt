@@ -1,0 +1,7 @@
+		font-size: 24px;
+		margin-left: 33px;
+		margin-right: 33px;
+	border-bottom: 1px solid #ccc;
+	color: #444;
+	padding-bottom: 20px;
+	margin-bottom: 32px;

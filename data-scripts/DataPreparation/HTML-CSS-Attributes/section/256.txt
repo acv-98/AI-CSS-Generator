@@ -1,0 +1,13 @@
+    background: #ffffff;
+    margin-bottom:30px;
+    margin-top:20px;
+    display: inline-block;
+    width:100%;
+.othersservice .single_othersservice .single_othersservice_icon h4 i{
+    color:#444;
+    font-size:2rem;
+    height:65px;
+    line-height: 65px;
+    text-align: center;  
+    margin-right: 10px;
+    transition: 0.6s; 

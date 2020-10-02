@@ -1,0 +1,1 @@
+ margin:0; padding:0; padding-left:20px; float:left; width:auto; list-style:none; padding-top:14px; margin:0 4px; float:left; display:block; margin:0; padding:20px 24px; color:#fff; text-decoration:none; color:#00b2e8; background:url(images/menu_a.gif) no-repeat center top;

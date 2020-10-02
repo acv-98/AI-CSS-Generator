@@ -1,0 +1,5 @@
+	padding:0 32px;
+	float:none;
+	width:auto;
+	height:114px;
+	background:#6593d0;

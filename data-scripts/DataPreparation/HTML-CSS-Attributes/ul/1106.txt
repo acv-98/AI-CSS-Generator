@@ -1,0 +1,6 @@
+   font: 13px/30px opensans-semibold, sans-serif;
+   margin: 0;
+   padding: 0;
+   display: inline;
+   margin-right: 15px;
+ color: #11ABB0;  color: #A0A6AB;  color: #5B6167;       text-align: center;

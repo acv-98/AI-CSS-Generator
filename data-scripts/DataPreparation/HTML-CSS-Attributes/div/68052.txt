@@ -1,0 +1,17 @@
+	height:46px;
+	width:960px;
+	margin:0 auto;
+	position:relative;
+	background-color:#dcdcdc;
+	display:inline-block;
+	list-style:none;
+	border-radius:3px;
+	padding:0;
+	bottom:-80px;
+	float:left;
+	margin-right:10px;
+	color:#363636;
+	font-size:14px;
+	line-height:20px;
+	font-weight:bold;
+	text-decoration:none;

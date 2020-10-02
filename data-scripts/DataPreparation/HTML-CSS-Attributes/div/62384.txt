@@ -1,0 +1,13 @@
+    margin-right:0px;
+    background: #202020;
+    width:70px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    color:#e74c3c;
+    position: relative;
+    z-index: 9;
+    border:5px solid rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+    font-size: 1.875rem;
+    font-family: 'source_sans_proregular';

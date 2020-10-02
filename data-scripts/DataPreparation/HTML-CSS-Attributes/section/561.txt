@@ -1,0 +1,9 @@
+	padding:15px;
+	font-size:1.2em;
+	display:block;
+	font-weight:bold;
+	color:#555;
+	height:25px;
+	line-height:25px;
+	border:solid 1px #ccc;
+	width:90%;

@@ -1,0 +1,3 @@
+color:#fff;	#greenHeader
+	{width:946px;
+	margin-top:20px;

@@ -1,0 +1,15 @@
+    margin-top: -2px;
+    position: relative;
+    font-size: 16px;
+    line-height: 18px;
+    padding-left: 45px;
+    left: 0;
+    top: 3px;
+    content: '';
+    font-family: 'FontAwesome';
+    display: block;
+    color: #fff;
+    width: 33px;
+    text-align: center;
+    height: 32px;
+    background-color: #60bf93;

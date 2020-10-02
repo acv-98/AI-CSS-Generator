@@ -1,0 +1,2 @@
+	color: #453D2D;
+	background: #b28f44 url(../img/tab-bg.png) repeat-x;

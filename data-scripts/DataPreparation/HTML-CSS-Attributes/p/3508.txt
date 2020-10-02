@@ -1,0 +1,11 @@
+	display: block;
+	overflow: hidden;
+	color: #665d4e;
+	margin-bottom: 18px;
+	float: left;
+	font-size: 36px;
+	padding-right: 15px;
+	margin-right: 15px;
+	border-right: 1px solid #665d4e;
+	line-height: 1.5em;
+	margin-top: 18px;

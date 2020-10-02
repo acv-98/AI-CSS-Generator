@@ -1,0 +1,4 @@
+	margin:0 auto;
+	padding:0;
+	width:960px;
+	background:url(../images/header_bg.jpg) no-repeat center top;

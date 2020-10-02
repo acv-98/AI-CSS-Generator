@@ -1,0 +1,1 @@
+display:inline-block; background:#936; color:#fff; font:bold 0.8em "Trebuchet MS", Arial, Helvetica, sans-serif; padding:2px; border:none;display:inline-block; background:#936; color:#fff; font:bold 0.8em "Trebuchet MS", Arial, Helvetica, sans-serif; padding:2px; border:none;

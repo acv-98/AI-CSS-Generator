@@ -1,0 +1,18 @@
+	float: left;
+	width: 100%;
+	padding-left: 15px;
+	line-height: 1.8;
+	margin-top: 25px;
+	margin-bottom: 30px;
+	background-color: #363636;
+	color: #fff;
+	font-weight: bold;
+	border: none;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+ background-color: #777; .desc2 button {
+ background-color: #DD426A; .desc2 ul {
+	text-transform: uppercase;
+		font-size:14px;
+		display:block;
+	display: block;	 font-size: 12px; 	

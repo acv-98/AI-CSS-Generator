@@ -1,0 +1,9 @@
+	width:960px;
+	margin:0 auto;
+	position:relative;
+	z-index:50;
+	height:200px;
+	background:url('images/header.jpg') no-repeat 0 0;
+	left:0;
+	padding-top:7px;
+	padding-bottom:20px;

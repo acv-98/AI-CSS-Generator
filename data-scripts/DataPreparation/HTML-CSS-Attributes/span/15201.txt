@@ -1,0 +1,4 @@
+ color: #333333 button.btn.btn-default {
+    padding: 11px 15px;
+    color: #ffffff;
+    background: #FFCC33;

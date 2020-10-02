@@ -1,0 +1,1 @@
+height:117px;width:100%;overflow:hiddenpadding:24px 0 0 26pxpadding:27px 15px 0 0

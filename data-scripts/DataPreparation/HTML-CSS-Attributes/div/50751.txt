@@ -1,0 +1,15 @@
+	width:279px;
+	float:left;
+	padding-right:28px;
+	background:#fff;
+	margin-right:0;
+	position:relative;
+	border-top:1px solid #f5eaeb;
+	padding-top:5px;
+	height:152px;
+	overflow:hidden;
+	display:inline;
+	margin-top:4px;
+	line-height:18px;
+	color:#716969;
+	text-decoration:underline;

@@ -1,0 +1,4 @@
+    max-height:330px;
+    overflow:auto;
+        border:3px double #e1e1e1;
+        float:left;

@@ -1,0 +1,1 @@
+font:11px/14px Arial, sans-serif; color:#f2c4b7; text-decoration:underline; color:#f2c4b7; text-decoration:none;

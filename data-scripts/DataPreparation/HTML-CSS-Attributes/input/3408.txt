@@ -1,0 +1,3 @@
+	border:0;
+	margin-right:8px;
+	padding:0;

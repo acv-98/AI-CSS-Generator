@@ -1,0 +1,4 @@
+    display: inline-block;
+    border: 0;
+    color: #999999;
+    margin-right: 0;

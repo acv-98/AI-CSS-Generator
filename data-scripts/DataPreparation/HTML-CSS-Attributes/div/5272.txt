@@ -1,0 +1,18 @@
+	width:65%;
+	background:#e25050;
+	font-family: 'Open Sans', sans-serif;
+	display: inline-block;
+	border: none;
+	color: #FFF;
+	outline: none;
+	font-size: 0.8125em;
+	-webkit-appearance: none;
+	text-transform: uppercase;
+	padding: 5px 13px 10px;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	text-decoration: none;
+		width: 29%;

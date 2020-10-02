@@ -1,0 +1,5 @@
+	padding:10px 25px;
+	background:url(images/graybgtop.gif) center bottom no-repeat;
+	margin-bottom:15px;
+	font:bold 1.8em 'TeXGyreAdventor', Arial, sans-serif;
+	color:#d35537;

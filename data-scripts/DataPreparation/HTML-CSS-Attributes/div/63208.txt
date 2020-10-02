@@ -1,0 +1,4 @@
+	min-height:470px;
+	padding-bottom:6px;
+	width:100%;
+	overflow:hidden

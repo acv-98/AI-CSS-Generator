@@ -1,0 +1,17 @@
+  margin-bottom: 30px;
+  float: left;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  max-width: 100%;
+  display: block;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  color: #b3b3b3;
+  padding: 30px;
+  background: #fff;
+  line-height: 1.5;
+  opacity: .9;
+  text-decoration: none !important;

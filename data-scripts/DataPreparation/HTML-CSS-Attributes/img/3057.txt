@@ -1,0 +1,2 @@
+	border:4px solid #dbdada;
+	margin:10px 10px 10px 0;

@@ -1,0 +1,3 @@
+	color: #919295;
+	font-size: 0.875em;
+	line-height: 1.5em;

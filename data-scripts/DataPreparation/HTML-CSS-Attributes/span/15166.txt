@@ -1,0 +1,15 @@
+	-o-transition-duration: 1s;
+	-moz-transition-duration: 1s;
+	-webkit-transition: -webkit-transform 1s;
+	background:url(../images/view.png) center center no-repeat #EB6841;
+	cursor: pointer;
+	height: 244px;
+	width: 387px;
+	display:block;
+	position: absolute;
+	z-index: 10;
+	opacity: 0;
+	-ms-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+		height: 215px;
+		width: 345px;

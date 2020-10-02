@@ -1,0 +1,12 @@
+ font-size:12px; line-height:18px; 	padding:0 0 0 0;
+	margin-bottom:25px;
+	font-size:14px;
+	line-height:22px;
+	width:60px;
+	float:left;
+	display:block;
+	font-family: 'FontAwesome';
+	color:#777777;
+	font-style:normal;
+ overflow:hidden;.featured-box.magic{
+	background:url(../img/magic.png) left top no-repeat;

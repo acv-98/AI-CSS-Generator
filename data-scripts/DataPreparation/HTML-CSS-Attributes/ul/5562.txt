@@ -1,0 +1,35 @@
+    padding: 0;
+    margin: 0;
+    list-style: none;
+ display: inline-block; .box .icon li a{
+    display: block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+    color: #fff;
+    margin-right: 11px;
+    position: relative;
+    transform: rotate(-45deg);
+    transition: all 0.4s ease-in-out;
+ background: #432382;  display: block;  transform: rotate(45deg); .box .icon li a span:before,
+    content: "";
+    background: #fff;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+ transition-delay: 0.2s;     cursor: pointer;
+    z-index: 1;
+    text-align: center;
+    background-color: #f2f3f5;
+    margin-top: 0;
+    vertical-align: middle;
+    padding-bottom: 5px;
+    margin-bottom: 0;
+    padding-left: 95px;
+    text-transform: none;
+    font-weight: 600;
+    font-family: FontAwesome;
+    margin-left: 5px;
+    border: 0 !important;

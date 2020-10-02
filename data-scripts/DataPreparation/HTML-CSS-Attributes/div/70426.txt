@@ -1,0 +1,12 @@
+        font-size: 16px;
+    position: absolute;
+    right: 4%;
+    border: 0 !important;
+    border-left: 1px solid #555555 !important;
+    color: #555555 !important;
+    background-color: transparent !important;
+    height: 54px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 100%;
+    opacity: 1;

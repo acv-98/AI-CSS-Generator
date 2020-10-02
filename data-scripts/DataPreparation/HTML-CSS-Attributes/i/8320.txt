@@ -1,0 +1,5 @@
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+		clear: both;
+		margin-top: 5px;

@@ -1,0 +1,1 @@
+padding:25px 30px 25px 30pxpadding:25px 25px 20px 30pxpadding:26px 20px 40px 30pxborder:0;color:#f00;float:left;width:50%!important;margin:-100px 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px

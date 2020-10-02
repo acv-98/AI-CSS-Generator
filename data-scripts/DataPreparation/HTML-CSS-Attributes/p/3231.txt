@@ -1,0 +1,8 @@
+	background:url(../images/bg-copyright.gif) no-repeat top center;
+	color:#c48aa0;
+	display:block;
+	height:60px;
+	line-height:60px;
+	margin:0;
+	text-align:center;
+	text-decoration:none;

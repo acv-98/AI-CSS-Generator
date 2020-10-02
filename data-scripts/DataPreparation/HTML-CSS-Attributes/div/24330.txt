@@ -1,0 +1,2 @@
+    background: #ffffff;
+    padding-bottom: 22px;

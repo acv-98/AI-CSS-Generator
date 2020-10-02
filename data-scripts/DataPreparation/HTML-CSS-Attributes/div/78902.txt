@@ -1,0 +1,8 @@
+    font-size: .75em;
+    color: #fff;
+   border-right:1px solid #011021;
+   border-left:1px solid #1a78e7;
+   padding-left: 50px;
+   padding-right: 50px;
+      padding-left: 10px;
+      padding-right: 10px;

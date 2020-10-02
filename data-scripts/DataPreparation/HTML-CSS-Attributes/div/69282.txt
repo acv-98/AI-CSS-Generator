@@ -1,0 +1,14 @@
+
+.form-sh input {
+	background: none;
+	border: none;
+	border-bottom: 1px solid #ffffff;
+	width: 100%;
+	min-height: 55px;
+	color: #fff;
+	font-size: 22px;
+	font-weight: 300;
+	clear: both;
+	margin: 0px;
+	text-align: center;
+	padding-top: 30px;

@@ -1,0 +1,17 @@
+	position: absolute;
+	right: 35px;
+	top: 18px;
+	display: inline-block;
+	font-size: 17px;
+	color: #000000;
+		right: 40px;
+		top: 12px;
+		z-index: 601;
+		display: block;
+		width: 40px;
+		height: 40px;
+		position: absolute;
+		font-size: 21px;
+		margin-top: 5px;
+		line-height: 3rem;
+		text-align: left;

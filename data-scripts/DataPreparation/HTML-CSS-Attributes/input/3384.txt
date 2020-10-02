@@ -1,0 +1,10 @@
+  background-color: #f2dede;
+  border-color: #eed3d7;
+  color: #fff;
+    background-repeat: repeat-x;
+    border-bottom: 1px solid #d9534f;
+    background-image: linear-gradient(to bottom, #d9534f 0%, #c9302c 100%);
+  border-right: 1px solid #a02622;
+  -webkit-box-shadow: 1px 0px 0px #e27c79;
+          box-shadow: 1px 0px 0px #e27c79;
+margin:0 auto    background-color: #d9534f !important;

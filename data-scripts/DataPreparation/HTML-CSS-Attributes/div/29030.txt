@@ -1,0 +1,10 @@
+    font-size: 48px;
+    text-transform:uppercase;
+    color:#fff;
+    font-weight:900;
+    font-family: "Raleway Webfont";
+    letter-spacing:12px;
+    border-top:2px solid #ecf0f2;
+    border-bottom:2px solid #ecf0f2;
+    padding:20px 0;
+    margin-top:20px;

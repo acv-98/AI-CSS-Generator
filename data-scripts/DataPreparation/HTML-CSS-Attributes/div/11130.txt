@@ -1,0 +1,3 @@
+	padding:  0 19px 49px;
+		border: 1px solid #dedbdb;
+		border-top: 0;

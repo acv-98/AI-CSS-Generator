@@ -1,0 +1,5 @@
+		background-color: #e4e6e5;
+		height: 5px;
+		margin: 0 auto;
+		width: 33%;
+		color: #4e4e4e;

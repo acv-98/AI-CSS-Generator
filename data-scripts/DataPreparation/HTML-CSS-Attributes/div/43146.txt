@@ -1,0 +1,16 @@
+z-index:1;
+position:relative;
+height:272px;
+border-top:#000 10px solid;
+padding-bottom:0;
+font-size:18px;
+line-height:24px;
+text-align:right;
+margin-bottom:16px;
+text-transform:uppercase;
+letter-spacing:4px;
+font-weight:normal;
+width:75%;
+left:25%;
+margin-left:16px;
+font-style:italic;

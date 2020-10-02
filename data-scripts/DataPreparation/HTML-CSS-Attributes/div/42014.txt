@@ -1,0 +1,1 @@
+position:absolute;right:113px;top:52pxfloat:left;padding:6px 17px 6px 15px;background:url(images/divider1.gif) repeat-y right topbackground:none;padding-right:0

@@ -1,0 +1,6 @@
+	margin: 0 auto;
+	max-width: 1190px;
+	padding: 0;
+ padding: 20px 20px 0; 	.cd-full-width .container-fluid.tm-page-width {
+		padding-left: 30px;
+		padding-right: 30px;

@@ -1,0 +1,14 @@
+  border-bottom: 3px solid #a5d549;  
+  color: #a5d549;
+  background-color: #fff;
+  display: inline;
+  float: left;
+  margin-bottom: 30px;
+  padding-bottom: 15px;
+  width: 100%;
+  padding-left: 0px;
+  line-height: 25px;
+  font-size: 15px;
+  border-left: none;
+  margin-right: 5px;
+  margin-top: 40px;

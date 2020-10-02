@@ -1,0 +1,8 @@
+	font-size:12px;
+	font-style:italic;
+	color: #543d1f;
+	background:none;
+	border-top:1px dotted #dcdcdc;
+	border-bottom:1px dotted #dcdcdc;
+	padding:5px 0 5px 0;
+	font-weight:bold;

@@ -1,0 +1,15 @@
+ font: normal normal 300 18px/2em 'Fira Sans';    border: 0px;
+    background-color: transparent;
+    border-bottom: 3px solid #233842;
+    border-radius: 0px;
+    height: 45px;
+    border-bottom-color: #c0c0c0;
+    box-shadow: none;
+    transition: .5s;
+ background-color: transparent;form button.form-control:hover,
+ min-height: 120px;form .input-group-addon { 
+    vertical-align: top;
+    color: white;
+ border-bottom: 3px solid #fff;color: #fff;#templatemo_contact form input.form-control:focus,
+#templatemo_contact form button.form-control:focus,
+ border-bottom-color: #275267; min-height: 120px;

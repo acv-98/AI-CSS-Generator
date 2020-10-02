@@ -1,0 +1,3 @@
+	position:relative;
+	background:url(../images/header_bg.png) 0 0 repeat-x #742432;
+	z-index:999;

@@ -1,0 +1,4 @@
+	margin:0;
+	padding:0;
+	background:#7baf30 url(images/header_bg.gif) repeat-x top;
+	width:970px;

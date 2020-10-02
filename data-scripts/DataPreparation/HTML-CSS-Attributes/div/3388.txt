@@ -1,0 +1,4 @@
+float:left;
+border:1px solid #F2D7F0;
+width:268px;
+margin-top:10px;

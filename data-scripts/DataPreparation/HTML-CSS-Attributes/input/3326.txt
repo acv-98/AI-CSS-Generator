@@ -1,0 +1,1 @@
+width:80px;font-size:1.0em;margin:2em 0;color:#fbfaf5;background-color:#a6a18b;padding:10px;font-size:1.1em;border:none;padding:0;margin:0;width:120px;font-weight:bold;font-size:0.95em;margin:0.5em 0 0.5em 100px;color:#5c5c5c;background-color:#d2d0d1;padding:10px;border:none;font-family:"georgia";

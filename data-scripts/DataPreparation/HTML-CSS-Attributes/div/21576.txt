@@ -1,0 +1,6 @@
+  margin-right: 0;
+  width: 314px;
+  padding: 3px 10px;
+ margin-right:0; border-right:0;     margin-right: 0;
+    margin-left: 20px;
+    width: 334px;

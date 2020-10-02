@@ -1,0 +1,7 @@
+    position: absolute;
+    top: 50px;
+    left: 67px;
+    opacity: 0;
+ 
+    transition: 5ms;
+    margin: 5% auto;

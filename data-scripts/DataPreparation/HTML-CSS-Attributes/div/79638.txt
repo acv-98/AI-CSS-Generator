@@ -1,0 +1,7 @@
+	-moz-box-shadow: 0px 0px 5px #999;
+	-webkit-box-shadow: 0px 0px 5px #999;
+	box-shadow: 0px 0px 5px #999;
+	padding-top: 25px;
+	width: 720px;
+	padding-bottom: 50px;
+	text-align: justify;

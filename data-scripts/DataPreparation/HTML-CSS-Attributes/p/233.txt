@@ -1,0 +1,5 @@
+float:left;
+font:11px/15px Tahoma;
+width:560px;
+margin:10px 0 0 28px;
+display:inline;

@@ -1,0 +1,15 @@
+    background:#fff;
+    color:#3a3a3a;
+    font-size:20px;
+    font-weight:500;
+    border-radius:0;
+    padding:10px 30px;
+    text-transform:uppercase;
+    margin:25px 20px 40px 0px;
+    transition:.5s;
+    float:right;
+    box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -webkit-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -moz-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -ms-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
+    -o-box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);

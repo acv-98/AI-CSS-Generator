@@ -1,0 +1,5 @@
+	padding-right: 0px;
+background-image:url(../images/dropdownbottom.png);
+background-repeat: no-repeat;
+background-color: inherit;
+background-position:bottom;

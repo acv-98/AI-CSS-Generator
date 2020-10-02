@@ -1,0 +1,4 @@
+	max-width:340px;
+	margin:auto;
+		margin-top:80px;
+		margin-bottom:30px;

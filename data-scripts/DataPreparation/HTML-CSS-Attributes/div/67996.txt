@@ -1,0 +1,11 @@
+    border: 0px;
+    background-color: transparent;
+    border-bottom: 3px solid #233842;
+    vertical-align: top;
+    border-radius: 0;
+    color: white;
+ padding-top: 10px;color: #000; border-bottom: 3px solid #fff; color: #fff;#templatemo_contact .social {
+    margin: 0px auto 40px auto;
+    text-align: center;
+    max-width: 500px;
+    width: 100%;

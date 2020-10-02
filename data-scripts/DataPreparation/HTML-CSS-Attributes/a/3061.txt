@@ -1,0 +1,3 @@
+	color:#fff !important;
+	background-image: url(../images/nav_button_bg.jpg) !important;
+	background-position: bottom left !important;

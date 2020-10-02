@@ -1,0 +1,5 @@
+	margin-top: 5.4rem;
+	max-width: 1020px;
+	padding: 0 30px;
+		max-width: 650px;
+		padding: 0 20px;

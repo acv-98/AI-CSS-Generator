@@ -1,0 +1,10 @@
+	position:absolute;
+	top:0;
+	width:14px;
+	height:11px;
+	display:block;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;
+	cursor:move;
+	left:169px;

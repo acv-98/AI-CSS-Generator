@@ -1,0 +1,5 @@
+	font-size: 40px;
+	color: #fff;
+	text-transform: uppercase;
+			font-size: 30px !important;
+			margin-bottom: 50px !important; 

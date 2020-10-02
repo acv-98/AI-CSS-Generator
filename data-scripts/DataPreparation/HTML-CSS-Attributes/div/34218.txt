@@ -1,0 +1,12 @@
+    position: relative;
+    margin-top: 60px;
+    color: #535353;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+	border-bottom: 1px dotted #ccc
+    content: url(../img/separator.png);
+    top: -40px;
+    left: 1px;

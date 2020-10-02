@@ -1,0 +1,16 @@
+  padding: 10px 0;
+  outline: 0;
+  font-size: 0;
+  line-height: 1;
+  height: 20px;
+  display: block;
+  text-align: center;
+  color: #fefefe;
+  text-decoration: none;
+  content: "\f067";
+  font-family: 'FontAwesome';
+  font-weight: normal;
+  font-style: normal;
+  min-height: 40px;
+  max-height: 40000px;
+  overflow: hidden;

@@ -1,0 +1,6 @@
+padding:5px;border:1px solid #d8d7d7;float:left;margin:25px 10px 0 0;width:110px;border:1px solid #d7d7d7;margin:0 0 0 16px; padding: 2pxmargin:1px 0 1px 120px;padding:20px 20px 10px 20px;border-left:1px solid #d8d7d7;min-height:145px;position:relative;margin:0 0 15px 120px;width:422px;padding:20px;-moz-border-radius:15px;-webkit-border-radius:15px;float:right;font-size:150%;color:#bebcbd;float:left;margin:0 0 0px 0;margin:0 0 30px 0 !important;padding:0;list-style-type:none!important;margin-left:6.5em;margin:20px 0 0 0;
+.bypostauthor .comment-container, .bypostauthor .comment-container .children,.bypostauthor .children .bypostauthor .comment-container,
+.bypostauthor .children .bypostauthor .children .comment-container,.bypostauthor .children .bypostauthor .children .bypostauthor .comment-container,
+.bypostauthor .children .bypostauthor .children .bypostauthor .children .bypostauthor .comment-container,
+.bypostauthor .children .bypostauthor .children .bypostauthor .children .bypostauthor .children .bypostauthor .comment-container  
+color:#8c0106;margin:20px 0 0 0;border:1px solid #ccc; padding:3pxheight:38px;height:155px;width:305px;width:310px; color:#777777; float:right; margin-right:20px; width:3em; 

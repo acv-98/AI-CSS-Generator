@@ -1,0 +1,6 @@
+    padding-left: 50%;
+    padding-top: 7%;
+    margin-bottom: 10%;
+    max-width: 1349px;
+ 
+    height:60%;

@@ -1,0 +1,7 @@
+	padding: 0 0 20px 0;
+	display: block;
+	overflow: hidden;
+	line-height: 20px;
+	list-style: none;
+	background: transparent url(style/images/check.png) no-repeat left 0px;
+	padding-left: 30px;

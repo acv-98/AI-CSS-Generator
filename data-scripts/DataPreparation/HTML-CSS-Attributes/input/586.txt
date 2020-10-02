@@ -1,0 +1,5 @@
+  border: 0;
+  outline: 0;
+  padding: 12px;
+  color: #fff;
+  background: #2a80b9;

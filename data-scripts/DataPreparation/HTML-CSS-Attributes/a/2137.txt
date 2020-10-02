@@ -1,0 +1,13 @@
+	float:none;
+	background:url(../images/icons.gif) no-repeat left -171px;
+	color:#fff;
+	font-size:12px;
+	display:block;
+	height:20px;
+	line-height:20px;
+	margin:10px 142px 0 0;
+	padding:0;
+	text-align:center;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #204d4d;
+	width:68px;

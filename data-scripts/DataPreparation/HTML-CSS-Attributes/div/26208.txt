@@ -1,0 +1,13 @@
+  display: block;
+  float: left;
+  width: 100%;
+  margin-bottom: 10px;
+  font-family: "Montserrat", arial, sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: #ccc;
+  border: 2px solid #9a9fa5;
+  padding: 7px 10px 7px 12px;
+  text-transform: uppercase;
+  border-color: #fff;
+  text-decoration: none;

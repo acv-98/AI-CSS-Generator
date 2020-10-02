@@ -1,0 +1,7 @@
+  background-color: #fff;
+  padding: 20px 0 10px;
+  text-decoration: underline;
+  color: #028fcc;
+	color: #f27935;
+		text-align: center;
+		float: none !important;

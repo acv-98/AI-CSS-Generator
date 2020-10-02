@@ -1,0 +1,8 @@
+	text-align:center;
+	margin:auto;
+	width:auto;
+	margin-top:30%;
+	transition:0.2s;
+	font-size:18px;
+	line-height:30px;
+	text-transform:uppercase;

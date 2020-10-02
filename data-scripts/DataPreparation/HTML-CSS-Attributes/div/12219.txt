@@ -1,0 +1,10 @@
+ padding: 18px 36px; .reveal-modal .description-box h4 {
+   font: 15px/24px montserrat-bold, sans-serif;
+	margin-bottom: 18px;
+   color: #111;
+	font: 13px/24px opensans-regular, sans-serif;
+   margin-bottom: 18px;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   display: block;
+   margin-right: 8px;

@@ -1,0 +1,1 @@
+width:100%; float:nonewidth:100%; float:nonewidth:100%; float:nonepadding:10px; width:650px; margin-top:20pxborder-bottom:2px solid #FFA439; font-size:28px; font-weight:bold; padding-bottom:15px; text-align:center; margin-bottom:0pxmargin:0; padding:0; list-style:noneborder-bottom:1px solid #dddborder-bottom:none

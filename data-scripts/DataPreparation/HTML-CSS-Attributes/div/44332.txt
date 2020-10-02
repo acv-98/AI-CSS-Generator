@@ -1,0 +1,9 @@
+	color: #2387D9;
+	font-size: 24px;
+	margin-bottom: 20px;
+	text-align: center;
+	border-bottom: 1px solid;
+	display: inline-block;
+	font-weight: bold;
+	line-height: 22px;
+	list-style: disc inside;

@@ -1,0 +1,35 @@
+        left: 0%;
+        position: absolute;
+        top: 0;
+        background-color: #ffffff !important;
+		margin-bottom: 30px;
+		display: inline-block;
+        margin-top: 30px;
+		clear: both;
+		margin-top: 10px;
+		width: 100%;
+    color: #cd1713 !important;
+    background-position: 100px;
+    box-shadow: 0 0 0 2px #076799;
+    border-radius: 0 !important;
+    width: 700px;
+    z-index: 2;
+    bottom: -12%;
+    padding: 15em 0 11em;
+    padding-top: 30px;
+    font-size: 58px;
+    font-weight: bold;
+    vertical-align: middle;
+    text-transform: uppercase;
+    display: block;
+    border-bottom: 1px dashed #f44336;
+    margin-bottom: 0;
+    max-width: 100px;
+    padding-bottom: 0 !important;
+body.politics_version .message-box h2,
+body.politics_version .section-title h3 {
+	font-size: 20px;
+	font-weight: 600;
+    right: 0;
+    text-align: center;
+    border-color: #151515;

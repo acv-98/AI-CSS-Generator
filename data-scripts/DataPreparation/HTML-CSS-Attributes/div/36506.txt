@@ -1,0 +1,2 @@
+	padding: 1.87em;
+	background: #FFFFFF url(images/img02.png) repeat;

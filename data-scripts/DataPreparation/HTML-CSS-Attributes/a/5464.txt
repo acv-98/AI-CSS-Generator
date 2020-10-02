@@ -1,0 +1,2 @@
+	background: url("../images/icons/play.png") no-repeat scroll center center #000000;
+ background:#000 url('images/icons/play.png') center no-repeat 

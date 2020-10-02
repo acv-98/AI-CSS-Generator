@@ -1,0 +1,2 @@
+	border: none !important;
+	background-position: 0 101% !important;

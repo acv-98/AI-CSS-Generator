@@ -1,0 +1,10 @@
+		  background: #00bcd4 none repeat scroll 0 0;
+		  border: 1px solid #00bcd4;
+		  color: #fff;
+		  font-size: 16px;
+		  font-weight: 600;
+			background: #6d6d6d none repeat scroll 0 0;
+			border: 1px solid #6d6d6d;
+			color: #fff;
+			font-size: 16px;
+			font-weight: 600;

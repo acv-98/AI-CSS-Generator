@@ -1,0 +1,5 @@
+	font-family: 'BebasNeueRegular',Arial, Helvetica, sans-serif;
+	font-size:16pt;
+	padding:0px 30px;
+	background-image: url(../images/usericon-big.jpg);
+	background-repeat: no-repeat;

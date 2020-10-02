@@ -1,0 +1,13 @@
+		width:40%;
+		border-color:#dddddd;
+		color:#3C3B3B;
+		text-transform:uppercase;
+		font-weight:700;
+		font-size: 24px;
+		display: inline-block;
+		padding: 0 0 25px;
+		letter-spacing:1px;
+		margin-top:0;
+		padding-top:0;	
+		margin-bottom:0;
+		padding-bottom:5px;

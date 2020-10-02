@@ -1,0 +1,6 @@
+	background: #127b9b;
+	margin:0;
+	text-align:right;
+	padding:20px;
+	margin-top:20px;
+	margin-bottom:10px;

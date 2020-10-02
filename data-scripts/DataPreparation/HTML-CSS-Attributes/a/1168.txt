@@ -1,0 +1,18 @@
+	position: relative;
+	width: 94px;
+	height: 95px;
+	display: block;
+	text-indent: -9999px;
+	overflow: hidden;
+	z-index: 1;
+	cursor: pointer;
+	float: left;
+	margin-right: 14px;
+	margin-bottom: 18px;
+	margin-left: 14px;
+	top: 0;
+	right: 0;
+	background-image: url(../images/basics/links/link-oneandahalf.png);
+		cursor: pointer;
+	left: 4px;
+	background-position: 0 -95px;

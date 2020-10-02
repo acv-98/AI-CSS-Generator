@@ -1,0 +1,9 @@
+	border:1px solid #fff;
+	background:url(../images/bg_input.gif) top repeat-x #e7e7e7;
+	position:relative;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	float:left;
+	height:20px;
+	overflow:hidden

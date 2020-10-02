@@ -1,0 +1,3 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-nav-active.png', sizingMethod='image');
+	float:left;

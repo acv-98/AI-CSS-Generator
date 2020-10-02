@@ -1,0 +1,5 @@
+		position:relative;
+		margin:auto;
+display:inline-block;margin:0;position:relative;top:7px;	.body .blog {
+		max-width:678px;
+		margin-bottom:41px;

@@ -1,0 +1,5 @@
+	background: none repeat scroll 0 0 #FFFFFF;
+	padding: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 10px;

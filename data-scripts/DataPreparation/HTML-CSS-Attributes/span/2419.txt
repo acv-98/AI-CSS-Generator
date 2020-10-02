@@ -1,0 +1,8 @@
+	display: inline-block;
+	border-radius: 500px;
+	width: 4px;
+	height: 4px;
+	margin: 0 8px;
+	background-color: #fff;
+	position: relative;
+	top: 24px;

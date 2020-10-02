@@ -1,0 +1,7 @@
+    padding-left: 28px;
+    font-size: 14px;
+    background: url(../images/marker.png) 0 8px no-repeat;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-top: 10px;
+    background-image: url(../images/marker1.png);

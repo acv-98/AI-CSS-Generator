@@ -1,0 +1,10 @@
+	text-align: center;
+	opacity: 0.4;
+	z-index: 5;
+	-webkit-transition: opacity 0.4s;
+	-moz-transition: opacity 0.4s;
+	-ms-transition: opacity 0.4s;
+	-o-transition: opacity 0.4s;
+	transition: opacity 0.4s;
+	margin: 0px 20px;
+	cursor: pointer;

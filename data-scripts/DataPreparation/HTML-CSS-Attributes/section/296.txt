@@ -1,0 +1,9 @@
+        padding-top: 140px;
+        padding-bottom: 200px;
+        font-size:24px;
+    background: url(../images/home-bg.jpg) no-repeat top center;
+    background-size: cover;
+    position: relative;
+    width:100%;
+    font-weight: 400;
+    margin-left:-10px;

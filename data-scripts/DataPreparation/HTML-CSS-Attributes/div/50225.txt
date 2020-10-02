@@ -1,0 +1,5 @@
+	font-size:18px;
+	color:#000;
+	font-weight:normal;
+	margin-bottom:21px;
+	line-height:12px;

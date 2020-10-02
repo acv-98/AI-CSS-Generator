@@ -1,0 +1,4 @@
+.top
+    width: 100%;
+    margin-bottom: 2px;
+    display: inline-block;

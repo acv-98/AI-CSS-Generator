@@ -1,0 +1,1 @@
+width:712pxwidth:252pxwidth:436pxwidth:1150px; display:block; margin:0 auto

@@ -1,0 +1,6 @@
+  display: block;
+  padding-bottom: 0px;
+  margin-bottom: 40px;
+  padding-left: 60px;
+  color: #555555;
+  text-decoration: none;

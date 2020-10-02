@@ -1,0 +1,1 @@
+margin: 0 -20px !important; padding: 0 20px !important;background: #2d6e84; position: relative; text-align: center;

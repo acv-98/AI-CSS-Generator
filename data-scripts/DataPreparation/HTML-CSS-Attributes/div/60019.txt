@@ -1,0 +1,7 @@
+margin-left:auto;margin-right:auto;width:960px;
+ Blueprint CSS Framework 0.7.1
+ http://blueprintcss.googlecode.com
+   * Copyright (c) 2007-2008. See LICENSE for more info.
+   * See README for instructions on how to use Blueprint.
+   * For credits and origins, see AUTHORS.
+   * This is a compressed file. See the sources in the 'src' directory.

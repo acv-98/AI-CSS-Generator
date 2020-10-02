@@ -1,0 +1,1 @@
+ color:#243960; font-style:italic; font-family: "open_sansregular"; color:#000; font-style:normal; font-family: "open_sansregular";

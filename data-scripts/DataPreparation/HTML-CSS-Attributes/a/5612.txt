@@ -1,0 +1,5 @@
+    font-size:0.75rem;
+    border-left:1px solid #ddd;
+    line-height: 2rem;
+    display: inline-block;
+    padding: 5px 20px;

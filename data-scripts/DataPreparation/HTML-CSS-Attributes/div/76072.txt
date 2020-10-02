@@ -1,0 +1,6 @@
+	padding: 0em 0 0em 0;
+	font-size: 2em;
+	color: #333;
+	font-family: 'Noto Sans', sans-serif;
+		font-size: 1.3em;
+		padding: 3% 0;

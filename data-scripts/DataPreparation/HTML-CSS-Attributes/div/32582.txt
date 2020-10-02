@@ -1,0 +1,4 @@
+    -webkit-transform: translate3d(0, 0, 0);
+    clear: left;
+    overflow: hidden;
+    height: 0;

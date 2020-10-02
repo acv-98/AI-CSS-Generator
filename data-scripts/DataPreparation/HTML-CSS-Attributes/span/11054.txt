@@ -1,0 +1,2 @@
+	display:block;
+	font:normal 0.77em "Trebuchet MS", Arial, Helvetica, sans-serif!important;

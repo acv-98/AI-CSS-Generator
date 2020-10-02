@@ -1,0 +1,1 @@
+display:inline; float:left; height:100%; overflow:hidden; padding:10px; width:86%color:#798992; display:block; font-size:14px; text-transform:uppercasecolor:#2f2f2f; display:block; font-size:18px.header_bottom_left.header_bottom_left.header_top_left.header_top_left.catgimg_container

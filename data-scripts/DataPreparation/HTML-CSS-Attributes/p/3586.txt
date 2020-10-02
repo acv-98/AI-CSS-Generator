@@ -1,0 +1,7 @@
+	line-height:14px;
+	color:#585f63;
+	font-weight:bold;
+	text-align:right;
+	padding:0 10px 0 0;
+	display:block;
+	font-style:italic;

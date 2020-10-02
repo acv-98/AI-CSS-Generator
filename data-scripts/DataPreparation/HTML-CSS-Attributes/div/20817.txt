@@ -1,0 +1,16 @@
+ margin-left: 3px; margin-right: 3px; 
+	padding-top: 20px;
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	margin-right: 6px;
+	margin-bottom: 10px;
+	background: #666;
+	-moz-border-radius: 50%; -webkit-border-radius: 50%; border-radius: 50%;
+    font-size: 32px;
+    color: #ddd;
+    line-height: 40px;
+    text-align: center;
+ background: #777; color: #eee;  vertical-align: middle; .footer-copyright {
+	margin-top: 25px;
+	border-top: 1px dotted #777;

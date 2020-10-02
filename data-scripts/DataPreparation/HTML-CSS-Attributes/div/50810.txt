@@ -1,0 +1,9 @@
+	width:960px;
+	margin:0 auto;
+	position:relative;
+	background:url(images/header-shell.jpg) center top no-repeat;
+	height:82px;
+	z-index:10;
+	padding-left:24px;
+	padding-top:25px;
+	line-height:10px;

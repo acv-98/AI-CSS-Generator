@@ -1,0 +1,11 @@
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	display:block;
+	float:left;
+	width:30px;
+	text-align:center;
+	font:bold 14px/1em Arial, Helvetica, sans-serif;
+	color:#959595;
+	background:url(images/comment_bg.gif) no-repeat left top;
+	border:1px solid #dedede;

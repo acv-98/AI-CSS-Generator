@@ -1,0 +1,2 @@
+ margin:0; padding:0; margin:0 auto; padding:24px 40px; width:890px;
+ background-color:#d1b28f; padding:2px 4px; color:#c69c6d; background-color:#fff; text-decoration:none; color:#fff; background-color:#fff; border:1px solid #fff; margin:0; float:left; color:#fff; padding:0 16px 0 0; width:240px; padding:0 16px; width:280px; padding:0 0 0 16px; width:300px; margin:4px; margin:8px 16px 0 0; float:left; float:left; color:#fff;

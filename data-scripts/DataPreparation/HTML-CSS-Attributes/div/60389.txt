@@ -1,0 +1,3 @@
+padding: 60px 0px 100px 0px;
+#subscribe .subscribe_heading_text h1{ 
+	color:#fff;

@@ -1,0 +1,5 @@
+  height: 500px;
+    height: inherit !important;
+    padding: 3em 0;
+  display: table;
+  width: 100%;

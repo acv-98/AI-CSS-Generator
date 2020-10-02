@@ -1,0 +1,7 @@
+    color: #000000;
+    font-weight: 600;
+    margin-top: 15px;
+    padding: 3rem 2rem;
+    display: block;
+    position: relative;
+    font-size: 18px;

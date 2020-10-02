@@ -1,0 +1,1 @@
+border-radius:0px; margin-bottom:20pxwidth:100px; height:35px; border:1px solid #ccc; text-transform:uppercase; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5scolor:#fffbackground-color:#12a3df; border-color:#12a3df

@@ -1,0 +1,7 @@
+	background:url(../images/line.png) 0 0 no-repeat;
+	width:950px;
+	height:18px;
+	position:absolute;
+	top:-9px;
+	left:0;
+	z-index:111;

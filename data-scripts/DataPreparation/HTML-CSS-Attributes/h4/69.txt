@@ -1,0 +1,9 @@
+		font-size: 3em;
+		margin-left: 8%;
+ font-size:2em;      #fwslider .slide_content_wrap {
+		max-width: 1280px;
+ font-size:1.8em; 	line-height: 1.6em;
+ font-size: 1em;margin-left: 3%;      #fwslider .description { 
+     	font-size: 0.8em;
+     	padding: 0px 0 0.3em;
+     	margin-left: 10%;

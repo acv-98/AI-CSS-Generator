@@ -1,0 +1,7 @@
+	margin-top: 25px;
+	padding-top: 25px;
+	border-top: 1px dotted #777;
+ color: #ddd;  color: #eee; .footer-bottom {
+	padding-bottom: 25px;
+	background: #3d3d3d;
+	text-align: center;

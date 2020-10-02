@@ -1,0 +1,2 @@
+padding: 10px 0
+border-bottom: 1px dotted #CCC; padding: 3px 5px; letter-spacing: 2px    Footer Links (Vertical)

@@ -1,0 +1,7 @@
+	margin-top: 40px;
+	display: inline-block;
+	margin-right: 20px;
+	font-size: 26px;
+	padding: 4px;
+	color: #777;
+	transition: all 0.3s;

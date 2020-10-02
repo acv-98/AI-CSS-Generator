@@ -1,0 +1,1 @@
+width:39%float:left; font-weight:bold; width:40%

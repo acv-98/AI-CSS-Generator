@@ -1,0 +1,7 @@
+	position:relative;
+	width:100%;
+	z-index:999;
+	height:174px;
+	background:url(../images/banner.jpg) center 0 no-repeat;
+	padding-top:59px;
+	margin-top:0 !important;

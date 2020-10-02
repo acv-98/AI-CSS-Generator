@@ -1,0 +1,9 @@
+.top
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: 400;
+    padding: 80px 40px;
+    display: inline-block;
+    text-transform: uppercase;

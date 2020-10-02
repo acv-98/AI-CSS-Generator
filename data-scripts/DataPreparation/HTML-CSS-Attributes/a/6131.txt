@@ -1,0 +1,9 @@
+	color:#94adb7;
+	text-decoration:underline;
+	font-family: 'Muli', sans-serif;
+	font-size:14px;
+	line-height:18px;
+	text-transform:uppercase;
+	display:inline-block;
+	font-weight:300;
+	float:right;

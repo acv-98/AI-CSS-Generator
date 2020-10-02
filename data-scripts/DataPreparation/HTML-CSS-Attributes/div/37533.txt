@@ -1,0 +1,16 @@
+    padding-top: 0;
+    margin-bottom: 19px;
+    font-weight: normal;
+    overflow: hidden;
+    position: relative;
+    margin-top: -2px;
+	display: block;
+	width: 100%;
+    border: 2px solid #ffe388;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+	height: 258px;
+	max-width: 100%;
+	min-width: 0;

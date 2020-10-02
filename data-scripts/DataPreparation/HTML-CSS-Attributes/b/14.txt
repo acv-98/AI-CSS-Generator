@@ -1,0 +1,13 @@
+    border-top-color: #000 !important;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: 2px;
+  vertical-align: middle;
+  border-right: 4px solid transparent;
+  border-bottom: 0 dotted;
+  border-left: 4px solid transparent;
+  content: "";
+  border-bottom-color: #333333;
+  border-width: 5px 5px 0;
+  border-bottom-width: 0;

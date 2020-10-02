@@ -1,0 +1,1 @@
+position:relative; z-index:100; display:block; padding:11px 10px; color:#fff; font-size:35px; -webkit-transition:border-width 0.3s 0.15s; transition:border-width 0.3s 0.15sborder-top-width:40px; border-bottom-width:40px; -webkit-transition-delay:0s; transition-delay:0sborder:0px solid #12a3df; background:#12a3df

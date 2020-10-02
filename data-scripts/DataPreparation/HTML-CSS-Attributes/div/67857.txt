@@ -1,0 +1,18 @@
+  padding: 5px 0;
+  margin-top: -3px;
+  bottom: 0;
+  left: 50%;
+  margin-left: -5px;
+  border-top-color: #000000;
+  border-width: 5px 5px 0;
+  right: 5px;
+  border-bottom-width: 0;
+  content: " ";
+background:#fff; padding:0  .header {
+z-index: 999;
+position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #E9E9E9;
+	z-index:9999;
+padding: 0;

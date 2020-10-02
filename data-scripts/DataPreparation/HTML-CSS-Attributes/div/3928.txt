@@ -1,0 +1,1 @@
+	background: #f6f6f6 url(../img/icons/social_big/flickr_grey.png) no-repeat;

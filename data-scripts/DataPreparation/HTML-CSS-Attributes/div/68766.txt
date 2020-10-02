@@ -1,0 +1,2 @@
+	background:url(../images/bg_bot.jpg) bottom repeat-x;
+	height:99px;

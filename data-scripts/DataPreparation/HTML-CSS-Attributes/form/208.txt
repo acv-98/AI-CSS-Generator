@@ -1,0 +1,15 @@
+    line-height: 35px;
+    color: #777;
+    font-size: 12px;
+    margin-top: 30px;
+    width: 360px;
+    float: left;
+    height: 35px;
+    padding-left: 15px;
+    border: 1px solid #abadb3;
+    padding-top: 15px;
+    font-family: Tahoma, Verdana, Arial;
+    text-align: center;
+    text-decoration: none;
+    background-color: #404852;
+    cursor: pointer;

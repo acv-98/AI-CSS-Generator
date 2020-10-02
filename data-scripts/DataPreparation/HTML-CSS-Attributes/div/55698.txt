@@ -1,0 +1,6 @@
+ width:242px; float:left; padding-top:9px;
+input.search_eng{ 
+height:14px;
+background:#323232;
+color:#fff;
+border:1px solid #666666;

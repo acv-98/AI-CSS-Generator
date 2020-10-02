@@ -1,0 +1,4 @@
+			padding: 2px 0 2px 18px;
+			background: url(images/date.gif) no-repeat 0 0;
+			color: #666666;
+			float: right;

@@ -1,0 +1,9 @@
+  max-width: 1024px;
+  margin-top: 3rem;
+  color: #FFFFFF;
+  z-index: 600;
+  position: relative;
+  margin-bottom: 5.4rem;
+  font-size: 1.4rem;
+    max-width: 600px;
+    text-align: center;

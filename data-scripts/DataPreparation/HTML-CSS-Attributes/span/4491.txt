@@ -1,0 +1,1 @@
+background: #222222;height: 2px;width: 15px;position: absolute;right: 33px;top: 38px;opacity: 1;transition: opacity 0.5s;z-index:90;opacity:0

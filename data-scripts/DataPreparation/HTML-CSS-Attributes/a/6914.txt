@@ -1,0 +1,12 @@
+	background-color: white;
+	-webkit-transition: background-color 0.1s ease-out, color 0.1s ease-out;
+	-moz-transition: background-color 0.1s ease-out, color 0.1s ease-out;
+	-o-transition: background-color 0.1s ease-out, color 0.1s ease-out;
+	transition: background-color 0.1s ease-out, color 0.1s ease-out;
+	padding: 4px 20px;
+	color: black !important;
+	font-size: 11px;
+	font-weight: 600;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+	cursor: pointer;

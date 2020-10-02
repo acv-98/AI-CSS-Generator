@@ -1,0 +1,14 @@
+	position: absolute;
+	opacity: 0;
+	left: 110%;
+	text-align: center;
+	width: 40%;
+	top: 50px;
+	height: 350px;
+	line-height: 350px;
+	-webkit-animation: fromRightAnim4 0.6s ease-in 0.8s both;
+	-moz-animation: fromRightAnim4 0.6s ease-in 0.8s both;
+	-o-animation: fromRightAnim4 0.6s ease-in 0.8s both;
+	-ms-animation: fromRightAnim4 0.6s ease-in 0.8s both;
+	animation: fromRightAnim4 0.6s ease-in 0.8s both;
+		display: none;

@@ -1,0 +1,9 @@
+        margin-left:-90px;
+        left: 50%;
+        top: 50%;
+        z-index: 1;
+    content: "";
+    position: absolute;
+    width: 180px;
+    height: 1px;
+    background-color: #ee997b;

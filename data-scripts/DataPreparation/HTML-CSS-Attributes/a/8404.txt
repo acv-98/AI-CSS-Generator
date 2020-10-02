@@ -1,0 +1,1 @@
+margin-top:14px;float:left;display:block;width:83px;height:72px;background:url(images/support.jpg) no-repeat 0px 0px;text-indent:-1000px; background-position: 0px -70px;

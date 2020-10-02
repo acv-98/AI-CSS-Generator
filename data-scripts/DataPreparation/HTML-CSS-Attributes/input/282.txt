@@ -1,0 +1,4 @@
+ font-family: 'Oswald', sans-serif; font-size:14px; text-transform: uppercase; text-decoration:none; color:#104f94; color:#fff;
+ background:url(../images/button2.png) no-repeat; width:80px; height:30px; text-align:center; line-height:30px; margin-top:30px; margin-bottom:70px;HEADESECTION 
+ background:url(../images/button.png) no-repeat; width:170px; height:50px; text-align:center; line-height:50px; margin-top:50px; margin-bottom:116px; background:url(../images/button-hover.png) no-repeat; width:170px; height:50px; text-align:center; line-height:50px; margin-top:50px; margin-bottom:116px;font-family: 'Oswald', sans-serif; font-size:20px; text-transform: uppercase; text-decoration:none; color:#ffc01d; color:#104f94;PAGE CONTENT SECTION 
+background: url(../images/submit-btn.png) no-repeat; color:#ffffff; text-transform:uppercase; font-family:'Oswald', sans-serif;border: none; margin-left:100px; margin-top:20px; width:100px; height:40px; color:#043e7f;

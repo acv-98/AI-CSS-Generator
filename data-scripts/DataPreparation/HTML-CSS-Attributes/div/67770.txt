@@ -1,0 +1,7 @@
+  *zoom: 1;
+  display: table;
+  content: "";
+  line-height: 0;
+  clear: both;
+  border-color: transparent;
+*zoom:1;clear:both;

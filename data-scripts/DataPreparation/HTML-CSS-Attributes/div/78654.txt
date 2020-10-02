@@ -1,0 +1,8 @@
+    opacity: 0;
+    transition-property: opacity;
+    left: 0;
+    z-index: 1;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, 0) 100%);
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);

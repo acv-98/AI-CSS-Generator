@@ -1,0 +1,1 @@
+text-align: center !important;text-align: right;   Menu styles starts here

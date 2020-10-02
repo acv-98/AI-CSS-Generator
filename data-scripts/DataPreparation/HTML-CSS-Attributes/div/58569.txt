@@ -1,0 +1,15 @@
+	float:left;
+	width:48%;
+	margin-right:4%;
+	color: #3D3E41;
+	font-family: 'Open Sans', sans-serif;
+	padding: 1.1em;
+	font-size: 0.875em;
+	border: none;
+	outline: none;
+	margin-bottom: 1em;
+		-webkit-appearance:none;
+		resize:none;
+		float: none;
+		width: 100%;
+		margin-right: 0%;

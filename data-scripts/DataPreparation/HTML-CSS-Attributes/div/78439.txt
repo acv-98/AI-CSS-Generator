@@ -1,0 +1,2 @@
+background:url('images/icons/bullet/arrow.png') no-repeat center left;background:url("images/icons/message/arrow.png") no-repeat 15px center #ebfab6;border:1px solid #bbcc5b;color:#599847; display:none; 
+ background-image:url('images/icons/for_button/arrow.png')  background-image:url('images/icons/for_button/arrow-left.png') 

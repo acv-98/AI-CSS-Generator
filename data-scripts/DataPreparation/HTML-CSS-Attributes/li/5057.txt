@@ -1,0 +1,7 @@
+  background: #869791;
+    border:0;
+    width: 45px;
+    color: #fff;
+    background-color: transparent;
+    border-top: 3px solid #4bcaff;
+    height: 8px;

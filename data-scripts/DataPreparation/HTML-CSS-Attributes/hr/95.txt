@@ -1,0 +1,10 @@
+  font-weight: normal;
+  line-height: 1;
+  color: #777;
+  font-size: 65%;
+  display: block;
+  content: '\2014 \00A0';
+  max-width: 100px;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: white;

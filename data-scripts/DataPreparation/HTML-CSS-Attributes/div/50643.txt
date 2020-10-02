@@ -1,0 +1,8 @@
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/slider-shadow.png', sizingMethod='crop');
+	width:994px;
+	height:18px;
+	position:absolute;
+	left:-5px;
+	bottom:-5px;
+	z-index:13;

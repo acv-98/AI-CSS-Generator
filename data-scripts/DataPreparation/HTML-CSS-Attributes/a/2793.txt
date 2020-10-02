@@ -1,0 +1,4 @@
+  margin-top: 8.3%;
+  position: absolute;
+  right: -6%;
+margin-top: 13.5%;margin-top: 24.5%;right: -8.5%;margin-top: 30.5%;margin-top: 70%;margin-top: 77%;

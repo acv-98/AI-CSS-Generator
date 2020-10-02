@@ -1,0 +1,7 @@
+	padding: 0em 0em 2em 0em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	line-height: 120%;
+	font-size: 1em;
+	font-weight: 300;
+	color: #7D7D7D;

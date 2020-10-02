@@ -1,0 +1,9 @@
+	display:inline-block;
+	padding:0 !important;
+	position:relative;
+	z-index:99;
+	background: url(../images/logo.png) no-repeat 0 0;
+	height:65px;
+	width:204px;
+	overflow:hidden;
+	text-indent:-99em;

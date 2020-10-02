@@ -1,0 +1,9 @@
+	float: none;
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 20px;
+		float: left;
+		width: 280px;
+		height: 511px;
+		position: fixed;
+		top: 20px;

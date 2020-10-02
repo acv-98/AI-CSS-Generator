@@ -1,0 +1,1 @@
+width:1066px; position:absolute; left:50%; margin-left:-533px;

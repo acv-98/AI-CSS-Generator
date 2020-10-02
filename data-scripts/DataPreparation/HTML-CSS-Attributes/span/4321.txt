@@ -1,0 +1,7 @@
+color:#ff9000
+.number {
+	float:right;
+	color:#fff;
+	font-family:Times, Georgia, Serif;
+	font-size:30px;
+	line-height:30px;

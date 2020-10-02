@@ -1,0 +1,6 @@
+            bottom: -110px;
+            height: 275px;
+            display: none;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;

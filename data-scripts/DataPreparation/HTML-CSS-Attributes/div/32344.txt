@@ -1,0 +1,12 @@
+	width:94%;
+	float:left;
+	padding:3%;
+	color:#807f7f;
+	font-family: 'HelveticaLTStdRoman',Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border: 1px solid #DDD;
+	cursor:pointer;
+	background-color: #E6E6E6;
+	background-image:url(../images/toggles.png);
+	background-repeat: no-repeat;
+	background-position: right -55px;

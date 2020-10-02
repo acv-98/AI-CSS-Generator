@@ -1,0 +1,6 @@
+  padding: 8px 0px;
+  margin: 0 0 20px;
+  list-style: none;
+  background-color: #fff;
+  border: none;
+  border-bottom: 1px solid #e3e3e3;

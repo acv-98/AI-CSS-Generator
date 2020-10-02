@@ -1,0 +1,10 @@
+	border-bottom: solid 1px #39352e;
+	padding-bottom: 0px;
+	float:left;
+	padding-top:13px;
+	font-size: 10px;
+	line-height: 16px;
+	color: #70695b;
+	padding-right:33px;
+	width:239px;
+	text-decoration:none;

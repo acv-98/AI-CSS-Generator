@@ -1,0 +1,7 @@
+	float: left;
+	width: auto !important;
+	margin-right: 32px;
+	margin-bottom: 0px;
+	margin-top: 4px;
+    margin-top: 5px;
+    margin-right: 16px;

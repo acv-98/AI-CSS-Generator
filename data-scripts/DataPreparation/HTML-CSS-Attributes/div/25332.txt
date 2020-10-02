@@ -1,0 +1,9 @@
+    display: block;
+    font-size: 11px;
+    color: #797979 !important
+    padding: 0;
+    list-style: none;
+    margin-bottom: 15px;
+    background: transparent url(../images/line.png) repeat-x center top;
+    padding-top: 15px !important;
+    margin-top: 14px;

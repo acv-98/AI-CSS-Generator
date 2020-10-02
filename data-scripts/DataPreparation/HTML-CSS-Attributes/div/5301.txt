@@ -1,0 +1,5 @@
+	color:#00BFF0;
+	font-size: 1em;
+	font-weight: 100;
+	text-transform: uppercase;
+	margin:0;

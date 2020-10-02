@@ -1,0 +1,12 @@
+    background-color: #ffffff;
+	padding: 50px;
+	margin-bottom: 30px;
+	border-left: 4px solid #4c9cef;
+    margin-left: -15px;
+    padding-left: 10px;
+    color: #ffa500;
+    border-bottom: 5px solid #4c9cef;
+    border-bottom-right-radius: 100%;
+	background-color: transparent !important;
+		 font-size: 15px;
+		border-bottom: 3px solid #4c9cef;

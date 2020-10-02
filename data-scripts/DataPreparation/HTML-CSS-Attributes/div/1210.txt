@@ -1,0 +1,11 @@
+    background: rgba(0, 0, 0, 0) url("../images/footer_img.png") no-repeat scroll 0 40px;
+    height: 465px;
+    margin-top: 50px;
+    color: #303030;
+    float: right;
+    width: 335px;
+        height: 400px;
+        background-size: contain;
+        width: 300px;
+        background-position: 0 0;
+        padding: 16px;

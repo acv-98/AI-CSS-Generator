@@ -1,0 +1,1 @@
+padding:51px 0 0 60pxpadding:27px 62px 0 0;position:relative;z-index:10display:blockdisplay:block;padding:24px 0 0 85px

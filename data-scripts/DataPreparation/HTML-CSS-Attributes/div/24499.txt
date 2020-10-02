@@ -1,0 +1,6 @@
+  border-radius: 4px;
+  padding: 0;
+  background: #fff;
+  position: relative;
+  margin: 10px auto 30px auto;
+  width: 290px;

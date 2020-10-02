@@ -1,0 +1,14 @@
+  position: relative;
+  height: 2px;
+  width: 40px;
+  background: white;
+  content: "";
+  top: -10px;
+  left: 0;
+  will-change: transform;
+  -webkit-transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+    -webkit-transform: scale(0.8);
+            transform: scale(0.8);

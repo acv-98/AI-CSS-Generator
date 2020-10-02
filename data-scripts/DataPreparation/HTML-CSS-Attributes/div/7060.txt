@@ -1,0 +1,2 @@
+ width:970px; margin:0 auto; overflow:hidden; width:175px; float:right; list-style:none;float:left; padding-right:15px;float:left; padding-right:0px;MENU  CLASSES
+background:#1c263c;

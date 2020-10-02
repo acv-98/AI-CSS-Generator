@@ -1,0 +1,4 @@
+	padding-left: 20px;
+ background: url(../img/icon-address.png) no-repeat top left   background: url(../img/icon-phone.png) no-repeat top left background: url(../img/icon-mobile.png) no-repeat top left  background: url(../img/icon-email.png) no-repeat top left .floated-content,
+.fullwidth-content{
+	

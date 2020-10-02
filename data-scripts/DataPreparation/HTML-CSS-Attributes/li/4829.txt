@@ -1,0 +1,5 @@
+	color:#7eb9c4;
+	border-bottom:3px solid #FF8A00;
+	text-decoration:none;
+	padding-right:20px;
+	margin:auto 0;

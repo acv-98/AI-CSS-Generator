@@ -1,0 +1,1 @@
+ width:100%; background:#eef0f1; margin:0px; padding:50px 0px; color:#454545; margin-bottom:25px; content:""; position:absolute; width:10%; height:3px; background:#454545; left:0px; right:0px; bottom:18px; margin:0 auto; text-align:center;

@@ -1,0 +1,1 @@
+ margin-top: -70px; padding: 25px 0 25px 25px; background: #000; font-size: 18px; width: 955px; height: 18px; opacity:0.70; filter:alpha(opacity=70); color: #fff; 

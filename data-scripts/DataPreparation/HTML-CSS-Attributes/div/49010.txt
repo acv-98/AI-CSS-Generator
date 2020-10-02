@@ -1,0 +1,7 @@
+        text-align: center;
+    margin-bottom:100px;
+    font-size: 36px;
+    font-family: 'lorabold';
+    color: #ffffff;
+    text-transform: uppercase;
+    transition: .3s ease-in-out;

@@ -1,0 +1,8 @@
+    margin-top: 20px;
+    position: relative;
+    float: left;
+    background-color: #000;
+    transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    opacity: 0.4;

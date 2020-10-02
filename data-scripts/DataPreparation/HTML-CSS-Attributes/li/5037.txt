@@ -1,0 +1,9 @@
+	font-weight:bold;
+ z-index:-10;  display:inline; 	Supersized - Fullscreen Slideshow jQuery Plugin
+	Version : 3.2.6
+	Site	: www.buildinternet.com/project/supersized
+	
+	Theme 	: Shutter 1.1
+	Author	: Sam Dunn
+	Company : One Mighty Roar (www.onemightyroar.com)
+	License : MIT License / GPL License

@@ -1,0 +1,28 @@
+	margin-bottom: 15px;
+	margin-right: 0px;
+	background: none;
+	border: none;
+	border-bottom: 1px solid #ffffff;
+	width: 100%;
+	min-height: 55px;
+	color: #fff;
+	font-size: 22px;
+	font-weight: 300;
+	opacity: 1;
+	background-color: transparent;
+	border-radius: 0px;
+	outline: none !important;
+	line-height: 38px;
+	border-color: #0077e0;
+	padding: 0px;
+	position: relative;
+	box-sizing: border-box;
+	padding-left: 30px;
+	font-family: 'Raleway', sans-serif;
+	padding-right: 140px;
+	right: 5px;
+	top: 4px;
+.form-email-box h3 {
+	padding-bottom: 15px;
+	margin-top: 3px;
+	max-width: 420px;

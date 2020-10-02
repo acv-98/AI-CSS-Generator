@@ -1,0 +1,5 @@
+ margin-right: 0; 
+ul.navbar-nav {
+	font-size: 15px;
+	color: #fff;
+	text-transform: uppercase;

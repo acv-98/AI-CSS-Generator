@@ -1,0 +1,4 @@
+		margin-top: 20px;
+	height: 145px;
+.standard footer{
+    padding: .9em;

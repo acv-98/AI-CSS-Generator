@@ -1,0 +1,5 @@
+    position: static;
+    left: auto;
+    right: 0;
+        margin-top: 0;
+     color: #d33b33;

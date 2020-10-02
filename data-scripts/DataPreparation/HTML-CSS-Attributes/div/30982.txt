@@ -1,0 +1,10 @@
+    margin-top: 40px;
+    padding: 0 0 10px 0;
+    border-bottom: 1px dotted #aaa;
+    font-size: 36px;
+    font-weight: 400;
+    color: #2d2d2d;
+    margin-left: 50px;
+    margin-right: 40px;
+    line-height: 32px;
+ margin-left: 50px; margin-right: 50px;  margin-left: 50px; margin-right: 50px;  margin-left: 50px; margin-right: 50px;  margin-left: 50px; margin-right: 50px;  margin-left: 50px; margin-right: 50px;  margin-left: 50px; margin-right: 50px; 

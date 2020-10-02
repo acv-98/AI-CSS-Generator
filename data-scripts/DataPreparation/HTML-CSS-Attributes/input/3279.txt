@@ -1,0 +1,12 @@
+  border: 1px solid #25c9da; 
+  border-radius: 0px;
+  display: inline;
+  font-size: 15px;	
+  float: left;
+  margin-bottom: 20px;
+  padding: 10px 12px;
+  -webkit-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  -ms-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;  
+  width: 100%;  

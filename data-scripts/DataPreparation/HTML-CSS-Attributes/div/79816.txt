@@ -1,0 +1,1 @@
+position:relative; float:left; width:450px; padding: 10px; border-bottom:1px solid #aaa; 

@@ -1,0 +1,1 @@
+margin-bottom:30px; text-align:center; background:url("img/double-border.png") repeat-x 0 50%;

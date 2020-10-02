@@ -1,0 +1,8 @@
+  width: 170px;
+  height: 123px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-size: cover;
+    height: 448px;
+    width: 100%;

@@ -1,0 +1,7 @@
+float:left;
+margin:14px 0 0 15px;
+display:inline;
+background:url(../images/tp_tile2.gif) repeat-x;
+width:622px;
+height:34px;
+border:1px solid #C7244B;

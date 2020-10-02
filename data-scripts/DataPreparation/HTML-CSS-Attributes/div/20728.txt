@@ -1,0 +1,3 @@
+	background:url(images/quotes_bottom.jpg) no-repeat bottom right;
+	padding:0 20px 0 0;
+	font-style:italic;

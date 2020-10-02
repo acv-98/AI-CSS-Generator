@@ -1,0 +1,4 @@
+  padding: 9px 0 0;
+    vertical-align: top;
+    max-width: 100%;
+color:#4099ffcolor:#3b5998color:#ea4c89color:#c92228	.footer-holder ul a:hover {

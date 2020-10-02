@@ -1,0 +1,1 @@
+float:none;margin-right:0 !important; width:auto;overflow:hidden; position: relative; float: left; width:67.2%; 

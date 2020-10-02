@@ -1,0 +1,1 @@
+margin-left:80pxfont-size:7px; padding:0 6pxmargin-left:140px; margin-top:10pxpadding:1px 11pxmargin-left:152px; margin-top:10pxmargin-left:210pxmargin:0; padding:0; list-style:nonefloat:leftcolor:#FFF; display:block; font-size:20px; padding:10px 20pxcolor:#FF1769

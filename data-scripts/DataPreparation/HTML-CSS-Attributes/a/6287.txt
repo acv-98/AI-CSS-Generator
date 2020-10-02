@@ -1,0 +1,3 @@
+	background:url(images/navigation-hover.gif) repeat-x 0 0;
+	text-decoration:none;
+	margin-top:0;

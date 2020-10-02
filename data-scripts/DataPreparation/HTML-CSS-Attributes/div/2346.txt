@@ -1,0 +1,4 @@
+  width: 100% !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0;
+    display: block;

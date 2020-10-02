@@ -1,0 +1,4 @@
+	width: 120px;
+	margin-right: 10px;
+		width: 75px;
+		margin-right: 5px;

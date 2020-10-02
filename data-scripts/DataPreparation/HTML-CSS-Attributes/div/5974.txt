@@ -1,0 +1,25 @@
+ overflow: hidden; .tm-about-box-2-img,
+.tm-about-box-2-text {
+	float: left;
+	margin-left: 40px;
+	max-width: 440px;
+	width: 100%;
+	text-transform: uppercase;
+	text-align: left;
+	margin-bottom: 30px;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	padding-top: 10px;
+	padding-bottom: 10px;
+		max-width: 280px;
+		height: auto;
+ max-width: 360px; 	.flex-caption {	
+		padding: 25px; 
+ max-width: 100%;  max-width: 340px; 	.tm-testimonials-box {
+	    max-width: 340px;
+	    width: 100%;
+	    margin: 30px auto 0;
+	    float: none;
+	    height: auto;
+		float: none;
+ margin: 30px auto; 

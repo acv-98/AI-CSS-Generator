@@ -1,0 +1,9 @@
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -o-transform: scale(1.05);
+  transform: scale(1.05);
+  color: #fff;
+  background-color: #52b6ec;
+  border-bottom-color: #52b6ec;
+  margin: 0;

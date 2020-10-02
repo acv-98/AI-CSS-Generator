@@ -1,0 +1,8 @@
+  display: none;
+  margin-bottom: 10px;
+   background: #e8e7de;
+  font-size: 14px;
+  line-height: 16px;
+  position: relative;
+  border: 1px solid #d1cfbd;
+  padding: 10px;

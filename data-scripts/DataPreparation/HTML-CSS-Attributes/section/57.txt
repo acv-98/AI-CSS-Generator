@@ -1,0 +1,4 @@
+	display:inline-block;
+	background:#e2d3c1 url(../images/rausch.png) repeat;
+	padding:5px;
+	color:#543d1f;

@@ -1,0 +1,10 @@
+.main_service_area .signle_service_left h2{
+    font-size: 7.964375rem;
+    line-height: 10rem;
+    color: #e1e1e1;
+    max-width: 60%;   
+.main_service_area .single_service_right .single_service{
+    overflow: hidden; 
+    margin-bottom: 45px;
+    width:15%;
+    float: left;

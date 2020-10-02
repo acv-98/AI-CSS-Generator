@@ -1,0 +1,10 @@
+  margin-bottom: 3em;
+  position: relative;
+  top: 20%;
+  left: 0;
+  font-size: 60px;
+  padding-left: 6em;
+  text-transform: uppercase;
+  color: #a980cd;
+  letter-spacing: 1px;
+  font-weight: bold;

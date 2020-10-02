@@ -1,0 +1,4 @@
+		background-image: url("../images/works/thumb-shadow.png");
+		padding-bottom: 8px;
+		width: 220px;
+ height: 145px;  margin: 0 22px 22px 0; 

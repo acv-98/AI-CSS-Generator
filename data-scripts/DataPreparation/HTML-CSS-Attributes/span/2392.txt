@@ -1,0 +1,9 @@
+	padding:0 21px 0 0;
+	display:inline-block;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:49px;
+	line-height:71px;
+	text-transform:uppercase;
+	letter-spacing:-3px;
+	color:#ff9601;
+	background:url(../images/pic-2.gif) right 0 repeat-y

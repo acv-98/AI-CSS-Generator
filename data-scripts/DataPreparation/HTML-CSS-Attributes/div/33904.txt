@@ -1,0 +1,12 @@
+width: 200px;
+color: #454749;
+font-size: 24px;
+font-family: Georgia, "Times New Roman", Times, serif;
+padding-top: 20px;
+float: left;
+clear: both;
+margin: 0px;
+margin-top: -20px;
+list-style-position: inside;
+list-style-type: none;
+font-style: normal;

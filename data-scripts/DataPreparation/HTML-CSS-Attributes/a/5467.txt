@@ -1,0 +1,1 @@
+	background: #000 url('../images/icons/project.png') center no-repeat

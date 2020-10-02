@@ -1,0 +1,1 @@
+  background: url('../images/gallery-bg.jpg') no-repeat;

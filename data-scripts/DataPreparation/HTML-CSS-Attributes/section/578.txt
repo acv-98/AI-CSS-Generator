@@ -1,0 +1,3 @@
+.feature_photo{
+    position: relative;
+    width:100%;

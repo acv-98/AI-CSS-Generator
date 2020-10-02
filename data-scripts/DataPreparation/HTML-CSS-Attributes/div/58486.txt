@@ -1,0 +1,8 @@
+	margin:0;
+	padding:0;
+	width:970px;
+	float:left;
+	text-align:left;
+	font:normal 24px Arial, Helvetica, sans-serif;
+	color:#fafafa;
+	line-height:1.8em;

@@ -1,0 +1,5 @@
+	float:left;
+	display:inline;
+	width:381px;
+	padding:54px 0 0 77px;
+	z-index:2;

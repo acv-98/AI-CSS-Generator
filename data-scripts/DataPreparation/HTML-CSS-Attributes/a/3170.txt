@@ -1,0 +1,7 @@
+	color: #D5888E;
+	
+	padding-right: 10px;
+	background: url(../images/amrker_2.png) right 5px no-repeat;
+	font-size: 14px;
+	display: inline-block;
+	margin-top: 8px;

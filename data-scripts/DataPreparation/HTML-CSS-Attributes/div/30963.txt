@@ -1,0 +1,5 @@
+	width:285px;
+	margin:25px 0 0 0;
+	padding:0 0 15px 25px;
+	background:url(images/quotes_top.gif) no-repeat top left;
+	font-style:italic;

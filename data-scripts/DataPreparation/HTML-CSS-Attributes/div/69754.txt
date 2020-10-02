@@ -1,0 +1,16 @@
+	padding: 0 15px 30px;
+	text-align: center;
+	background-color: #f6f7ea;
+	border-radius: 500px;
+	margin-top: -65px;
+	padding-top: 24px;
+	margin-bottom: 26px;
+	font: 24px/20px 'Open Sans', sans-serif;
+	position: relative;
+	display: inline-block;
+	content: '';
+	right: -27px;
+	width: 16px;
+	height: 8px;
+	padding-right: 20px;
+	top: 7px;

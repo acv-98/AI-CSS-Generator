@@ -1,0 +1,3 @@
+	clear: both;
+	width: 590px; 
+	margin-bottom: 40px;

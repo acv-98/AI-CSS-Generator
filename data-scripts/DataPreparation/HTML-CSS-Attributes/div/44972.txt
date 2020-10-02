@@ -1,0 +1,7 @@
+  padding: 0 10px;
+  padding-right: 0;
+  font-size: 18px;
+  color: #d3d3d3;
+  background: none;
+    float: left !important;
+    padding-left: 0;

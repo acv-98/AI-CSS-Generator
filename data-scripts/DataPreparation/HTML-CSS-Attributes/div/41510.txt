@@ -1,0 +1,18 @@
+  border-color: #3498db;
+  display: inline;
+  float: left;
+  width: 100%;
+  padding: 25px 20px;
+  text-align: center;
+  margin-bottom: 15px;
+  border-right: 1px solid #ccc;
+  margin-left: 0;
+  background-color: #F8F8F8;
+  margin-top: 20px;
+  letter-spacing: 0.5px;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 24px;
+  list-style: outside none disc;
+    padding: 0 5px;
+    border-right: none;

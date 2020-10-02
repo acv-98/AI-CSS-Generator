@@ -1,0 +1,1 @@
+background-image:url('../images/slider-caption-bg.png');bottom:0;display:none;left:0;padding:15px 32px;position:absolute;right:0;text-align:left; font-size:1em; margin:0; padding:0; color:#FFFFFF; 

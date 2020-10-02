@@ -1,0 +1,27 @@
+    right: 0;
+    left: auto;
+    float: right !important;
+    margin-right: -15px;
+    border: 0;
+    color: #ffffff !important;
+    border-radius: 500px;
+    margin-left: 30px;
+    margin-top: 6px;
+    text-transform: capitalize;
+    border-top: 0 !important;
+    padding: 10px 30px 10px 20px;
+    padding-right: 5px;
+    font-size: 12px;
+    vertical-align: unset;
+    padding-left: 10px !important;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+.yamm .nav,
+.yamm .collapse,
+.yamm .dropup,
+.yamm .dropdown {
+    position: static;
+    z-index: 111;

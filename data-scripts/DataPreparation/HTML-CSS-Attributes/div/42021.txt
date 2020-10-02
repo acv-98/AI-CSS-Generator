@@ -1,0 +1,1 @@
+background:url(images/box-top.gif) no-repeat left topbackground:url(images/box1-top.gif) no-repeat left topbackground:url(images/box2-top.gif) no-repeat left topbackground:url(images/box3-top.gif) no-repeat left topbackground:url(images/form-box-top.gif) no-repeat left top

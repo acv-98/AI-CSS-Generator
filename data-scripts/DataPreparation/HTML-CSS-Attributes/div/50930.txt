@@ -1,0 +1,4 @@
+	padding-right:0;
+	border-bottom:1px dotted #dcdcdc;
+	font-size:10px;
+	color:#4372a5;

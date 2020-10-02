@@ -1,0 +1,14 @@
+    border: 6px solid #fff !important;
+    border-radius: 500px;
+    color: #fff;
+    display: block;
+    height: 95px;
+    left: 0;
+    line-height: 84px;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: -50px;
+    font-size: 34px;
+    width: 95px;

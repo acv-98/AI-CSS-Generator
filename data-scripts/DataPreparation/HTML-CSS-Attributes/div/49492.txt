@@ -1,0 +1,11 @@
+float: none;
+width: 100%;
+  margin-bottom: 0;
+  line-height: 14px;
+  margin-top: 10px;
+  font-size: 10px;
+  width: 264px;
+width: 397px;margin-bottom: 0;color: #444444;font-size: 12px;color: #e47600;.latest_post_title span{color: #aaaaaa;
+display: block;
+font-family: georgia;
+color: #aaaaaa;color: #000;color: #555555;

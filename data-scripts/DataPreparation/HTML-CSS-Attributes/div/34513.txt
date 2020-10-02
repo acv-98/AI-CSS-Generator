@@ -1,0 +1,7 @@
+			position: absolute;
+			bottom: -392px;
+			left: 41%;
+			right: auto;
+			transform: translateX(-50%);
+    position: absolute;
+    bottom: -365px;

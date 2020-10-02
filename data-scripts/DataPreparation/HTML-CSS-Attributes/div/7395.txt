@@ -1,0 +1,1 @@
+ background:url(../images/search-bg.jpg) repeat-x center; width:260px; padding:18px 20px 25px 20px; margin-bottom:22px; overflow:hidden; font-size:20px; padding-bottom:18px; float:left; float:left;

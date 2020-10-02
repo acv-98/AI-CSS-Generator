@@ -1,0 +1,16 @@
+		margin-left: 24px;
+		width: 160px;
+	overflow: hidden;
+	padding-bottom: 70px;
+	display: block;
+	float: left;
+	margin-bottom: 21px;
+	font-weight: bold;
+	font-size: 13px;
+	color: #444;
+	text-decoration: none;
+	
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;

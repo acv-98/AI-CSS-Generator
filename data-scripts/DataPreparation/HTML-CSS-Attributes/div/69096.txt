@@ -1,0 +1,10 @@
+ font-size: 22px; font-family: 'Shadows Into Light', sans-serif; color: #AB5705; font-style: normal; font-weight: 400;  font-size: 13px; font-family: 'Maven Pro', sans-serif; color: #1C1C1C; font-style: normal; font-weight: 400;     float: right;
+    height: 20px;
+    text-align: right;
+    clear: both;
+    display: block;
+    background: none repeat scroll 0 0 #FFFFFF;
+    font-size: 1.4em;
+    margin: 0;
+    padding-left: 10px;
+    color: #1C1C1C;

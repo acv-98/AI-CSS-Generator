@@ -1,0 +1,5 @@
+    background: url(../images/overlay.png) repeat-y 100% 100%;
+    color: #fff;
+    padding: 190px 100px 300px 100px;
+    width: 100%;
+    background-size: contain;	

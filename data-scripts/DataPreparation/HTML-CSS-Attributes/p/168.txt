@@ -1,0 +1,9 @@
+	display: inline-block; 
+	width: 100%;
+	font-size: 1em;
+	line-height: 1.8; 
+	color: #000002;
+    font-size: 1.6em;
+    font-weight: 400;
+ padding: 35px 30px; .cd-hero-slider h2.tm-contact-info {
+ font-size: 1.8em;  padding: 30px 40px;  padding: 30px;  font-size: 1em; 

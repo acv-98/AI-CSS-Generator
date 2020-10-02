@@ -1,0 +1,5 @@
+	display: none;
+	float: right;
+.help-box {
+	margin: 10px 0px;
+	border-right: 1px solid #dcdcdc;

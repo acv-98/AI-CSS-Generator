@@ -1,0 +1,11 @@
+	height: 130px;
+	padding-top: 5px;
+	background: none;
+	width: 164px;
+	margin-right: 20px;
+	display: block;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	z-index: 100;

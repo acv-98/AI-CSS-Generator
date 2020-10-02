@@ -1,0 +1,4 @@
+  font-size: 28px;
+  float: left;
+  width: 20%;
+  color: #58ca7e;

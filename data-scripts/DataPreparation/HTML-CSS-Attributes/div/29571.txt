@@ -1,0 +1,8 @@
+  position: relative;
+  content: '';
+  display: block;
+  clear: both;
+  width: 25%;
+    width: 33.333%;
+  float: left;
+  max-width: 100%;

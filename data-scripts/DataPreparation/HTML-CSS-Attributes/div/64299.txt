@@ -1,0 +1,1 @@
+ background: url(images/slide-cnt-c.png) repeat-y 0 0; padding: 0px 33px 14px 46px; position: relative; height: 100%;  float: left; position: relative; margin-top: -30px;  

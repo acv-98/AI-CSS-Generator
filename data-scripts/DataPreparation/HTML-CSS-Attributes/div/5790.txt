@@ -1,0 +1,4 @@
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+	padding: 30px 0;

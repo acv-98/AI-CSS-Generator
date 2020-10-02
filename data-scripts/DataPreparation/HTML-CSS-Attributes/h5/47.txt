@@ -1,0 +1,1 @@
+	color: #ecf0f1;

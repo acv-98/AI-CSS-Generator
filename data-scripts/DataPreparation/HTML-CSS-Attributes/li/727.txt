@@ -1,0 +1,13 @@
+  border-bottom: 2px solid #e6e6e6;
+  padding-bottom: 30px;
+  margin-bottom: 35px;
+  list-style: none;
+  font-size: 18px;
+  color: #b3b3b3;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 100%;
+  position: relative;
+  top: -15px;
+  background: #417630;
+  border-color: #417630;

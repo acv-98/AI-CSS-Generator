@@ -1,0 +1,17 @@
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  z-index: 15;
+  width: 60%;
+  padding-left: 0;
+  margin-left: -30%;
+  text-align: center;
+  list-style: none;
+  display: inline-block;
+  height: 10px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #000 \9;
+  border: 1px solid #fff;
+  border-radius: 10px;
+    bottom: 20px;

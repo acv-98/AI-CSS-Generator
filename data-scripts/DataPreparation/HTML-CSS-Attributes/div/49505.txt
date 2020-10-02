@@ -1,0 +1,6 @@
+margin: 20px 0;.related_post > h2{background: url("images/title_bg.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+color: #444444;
+font-family: georgia !important;
+font-size: 18px;
+font-style: italic;
+line-height: 22px;

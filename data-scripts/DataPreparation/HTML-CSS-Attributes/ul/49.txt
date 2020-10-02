@@ -1,0 +1,2 @@
+position:absolute;left:0;top:128px;z-index:2float:left;text-transform:uppercase;font-size:1.17em;background:url(images/divider1.gif) repeat-y right top;line-height:1.08emcolor:#515151;text-decoration:none;display:block;width:200px;padding:4px 0 3px 0;text-align:center.site-nav li a:hover,
+color:#a24f00background:none

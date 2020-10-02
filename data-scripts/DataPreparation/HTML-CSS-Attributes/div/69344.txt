@@ -1,0 +1,11 @@
+	display: none;
+	min-height: 160px;
+	position: relative;
+	width: 100%;
+	content: "";
+	background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#000000', GradientType=0);
+	height: 180px;
+	bottom: 0px;
+	left: 0px;
+	opacity: 0.5;

@@ -1,0 +1,4 @@
+  border-bottom: 1px solid hsl(0, 0%, 80%);
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding-bottom: 20px;

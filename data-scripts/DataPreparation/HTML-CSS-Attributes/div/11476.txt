@@ -1,0 +1,2 @@
+	max-width: 740px;
+	color: rgba(255, 255, 255, 0.3);

@@ -1,0 +1,2 @@
+display: none !important;display: none !important;background: #f76e5d;  text-align: center;display: inline-block; margin-bottom: 0; height: 90px; background: none; background-image: none; border: none; box-shadow: none; color: #fff; background: #ee5d4b; background: none; box-shadow: none; background: #ee5d4b; color: #fff;  transition:all 1s;border-right: 1px solid #f88172; transition: all 1s;  .menu .navbar .nav > li > a {color: #fff; padding: 34px; font-size: 17px; line-height: 27px; text-transform: uppercase;
+ background: #ee5d4b; color: #fff;

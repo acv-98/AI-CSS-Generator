@@ -1,0 +1,18 @@
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  content: "\2a";
+  z-index: 5;
+  left: 50%;
+  right: 50%;
+  font-size: 24px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  text-align: center;
+  word-wrap: break-word;

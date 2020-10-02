@@ -1,0 +1,2 @@
+padding: 30px !important;padding-bottom: 0 !important;padding-right: 0 !important; margin-bottom: 30px !important; overflow: hidden;text-align: center; padding: 60px 30px;margin: 0; text-transform: uppercase; color: #3f4b51;  font-family: 'source_sans_proregular'; color: #8d8c8c; 
+ padding-bottom: 40px; text-align: center; background: url(../img/dot.jpg) no-repeat 50% 75%; padding-top: 20px; text-align: center;display: inline-block; padding-right: 30px;color: #2abde9; padding-top: 20px;color: #8d8c8c;

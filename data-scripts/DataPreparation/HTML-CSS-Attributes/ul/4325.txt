@@ -1,0 +1,13 @@
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: inline-block;
+    line-height: 24px;
+    content: "\2022";
+    padding-left: 6px;
+    padding-right: 10px;
+    color: #1B6728;
+ text-align: center;  content: none;    footer .copyright li { 
+   	margin: 0; 
+   	display: block;
+   	line-height: 27px;

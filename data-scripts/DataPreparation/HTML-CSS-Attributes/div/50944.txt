@@ -1,0 +1,4 @@
+	height:90px;
+	background:url(images/header.gif) repeat-x 0 0;
+	padding-bottom:20px;
+	width:941px;

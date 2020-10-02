@@ -1,0 +1,8 @@
+    top: 1px;
+    height: 12px;
+    background-color: #9be3ec;
+    position: relative;
+    display: block;
+    left: 0;
+    bottom: 0;
+    width: 0%;

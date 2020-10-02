@@ -1,0 +1,20 @@
+		background: url(../images/design/button-cut.png) no-repeat scroll top right #404040;
+		display: block;
+		float: left;
+		text-decoration:none !important;
+		height: 36px;
+		padding-right: 8px; 
+		margin-bottom:5px;
+		line-height: 26px;
+		font-weight:bold;
+		font-size:12px;
+		color:#ffffff;
+		font-family:Helvetica,arial,freesans,clean,sans-serif;
+background-color:#279fcc;	
+background-position:bottom right;background-position:bottom left;padding-right:14px !important;padding-left:22px;	.footer .input-wrapper {
+		width:100%;
+		position:relative;
+		margin-top:8px;
+		-webkit-box-shadow: inset 1px 1px 3px 1px #c3c2c2;
+        box-shadow: inset 1px 1px 3px 1px #c3c2c2;
+		font-style:italic;

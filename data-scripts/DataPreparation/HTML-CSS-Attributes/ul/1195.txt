@@ -1,0 +1,14 @@
+	display: block;
+	overflow: hidden;
+	margin-bottom: 30px;
+	float: left;
+	margin-right: 10px;
+	background: url(../img/tag.png) no-repeat top left;
+	border-right: 1px solid #cc912d;	
+	height: 100%
+	width: 100%;
+	margin-left: 20px;
+	font-size: 12px;
+	line-height: 23px; 
+	text-decoration: none;
+	color: #996633;

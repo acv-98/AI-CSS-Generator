@@ -1,0 +1,8 @@
+	list-style:none;
+	padding-top:2px;
+	background:url(images/li-border.gif) left bottom repeat-x;
+	padding-bottom:8px;
+	margin-bottom:7px;
+	padding-left:14px;
+	color:#035787;
+	text-decoration:none;

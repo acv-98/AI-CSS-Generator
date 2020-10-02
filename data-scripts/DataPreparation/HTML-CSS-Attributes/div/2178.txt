@@ -1,0 +1,6 @@
+  outline: none;
+  display: none;
+  max-width: 100%;
+  background: #888888;
+  position: relative;
+  zoom: 1;

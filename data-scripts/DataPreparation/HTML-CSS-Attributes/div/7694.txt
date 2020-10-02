@@ -1,0 +1,12 @@
+	margin: 0 0 10px 0;
+	background: #1eb858;
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	border-radius: 50%;
+	font-size: 34px;
+	color: #FFFFFF;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 13px;

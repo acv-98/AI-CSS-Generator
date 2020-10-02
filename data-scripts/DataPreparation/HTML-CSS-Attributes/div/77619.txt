@@ -1,0 +1,7 @@
+width:505px;
+float:left;
+margin:0px;
+font-size:21px;
+font-weight:bold;
+color:#7B3903;
+padding:0px 27px 11px 24px;

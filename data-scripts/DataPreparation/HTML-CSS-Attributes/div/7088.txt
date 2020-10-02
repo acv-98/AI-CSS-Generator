@@ -1,0 +1,2 @@
+ float:left; width:458px;
+BOX CLASSES

@@ -1,0 +1,6 @@
+  width: 80%;
+  color: hsl(0, 0%, 100%);
+  font-weight: 400;
+  line-height: 65px;
+  font-size: 31px;  line-height: 40px;  text-align: center;  width: 100%;  margin-top: 40px;	
+  font-size: 50px;  line-height: 60px;  text-align: center;  width: 100%;  margin-top: 40px;  width: 94%;

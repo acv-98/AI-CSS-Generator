@@ -1,0 +1,2 @@
+margin:0; padding:0; list-style:none;display:inline-block; margin:8px 5px 0 0; padding:0; line-height:normal;margin-right:0;display:inline-block; width:36px; height:36px; line-height:36px; font-size:18px; text-align:center;
+color:#050505; background-color:#0F84AA;color:#FFFFFF;background-color:#EA4C89;background-color:#3B5998;background-color:#DB4A39;background-color:#0E76A8;background-color:#00ACEE;background-color:#4E658E;

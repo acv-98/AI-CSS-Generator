@@ -1,0 +1,7 @@
+	width: 45.5%;
+	float: left;
+	color: #FFF;
+	font-size:0.9em;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+	line-height:1.5em;

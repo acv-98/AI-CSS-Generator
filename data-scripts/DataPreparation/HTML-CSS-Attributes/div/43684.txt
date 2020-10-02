@@ -1,0 +1,8 @@
+ border-color: #cfcfcf;  border-color: #cfcfcf;     background-color: #f8f4f4;
+    border-left: 8px solid #CFCFCF;
+    color: #6d6a6a;
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    margin-bottom: 5px;
+    padding-left: 6px;

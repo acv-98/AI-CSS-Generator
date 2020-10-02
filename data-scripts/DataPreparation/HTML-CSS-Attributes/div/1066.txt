@@ -1,0 +1,4 @@
+    color:#e3e9ea;
+    font-size:1.875rem;
+    padding: 20px 0px;
+    display: inline-block;

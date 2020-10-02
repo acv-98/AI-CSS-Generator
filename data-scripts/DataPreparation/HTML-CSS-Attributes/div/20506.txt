@@ -1,0 +1,10 @@
+  clip: rect(auto, auto, auto, auto);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+  border-color: #fff;
+	color: #fff;
+	font-size: 0.8755em;
+	margin-top: 8%;

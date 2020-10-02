@@ -1,0 +1,2 @@
+padding: 10px; background: #fff; border-top: 1px solid #e2e2e2; border-left: 1px solid #e2e2e2; border-right: 1px solid #e2e2e2
+border-bottom: 1px solid #e2e2e2; margin-bottom: 15px

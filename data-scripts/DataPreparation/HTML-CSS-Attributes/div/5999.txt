@@ -1,0 +1,6 @@
+ float: left; .tm-home-box-3-info {
+    height: 225px;
+    max-width: 305px;
+    float: right;
+    border: 1px solid #CCC;
+	border-left: none;

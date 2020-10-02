@@ -1,0 +1,7 @@
+	color: #A5A5A2;
+	float: right;
+	font-family: 'Open Sans';
+	font-size: 14px;
+	font-style: normal;
+	line-height: 2;
+	margin-right: 5px;

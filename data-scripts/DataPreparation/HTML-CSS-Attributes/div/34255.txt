@@ -1,0 +1,7 @@
+  color: #fff;
+  margin-bottom: 5em;
+  font-size: 50px;
+  line-height: 1.5;
+  font-weight: 300;
+  position: relative;
+    font-size: 26px;

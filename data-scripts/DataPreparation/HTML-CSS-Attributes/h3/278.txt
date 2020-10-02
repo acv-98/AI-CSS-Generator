@@ -1,0 +1,1 @@
+ height:46px; background:url(images/tab.gif) no-repeat 0 0; width:202px; padding:0 10px; line-height:46px; margin-bottom:15px;

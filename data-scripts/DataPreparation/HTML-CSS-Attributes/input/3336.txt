@@ -1,0 +1,16 @@
+	background-color: #4d87ab;
+	color: #fff;
+	-webkit-transition:all 200ms ease-in;
+	-o-transition:all 200ms ease-in;
+	-moz-transition:all 200ms ease-in;
+	border: none;
+	height: 27px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-family: 'CharisSILItalic';
+	font-size: 14px;
+	padding: 0 20px 1px 20px;
+	cursor: pointer;
+	margin-left: 80px;
+padding: 0 20px 2px 20px;padding: 0 20px 2px 20px;

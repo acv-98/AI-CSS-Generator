@@ -1,0 +1,6 @@
+	margin:0;
+	position:relative;
+	top:5px;
+	width:263px;
+	background:url(../images/box1-bot.jpg) no-repeat left bottom;
+	padding:34px 22px 28px 29px;

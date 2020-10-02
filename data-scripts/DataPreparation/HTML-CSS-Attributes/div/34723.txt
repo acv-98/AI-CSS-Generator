@@ -1,0 +1,9 @@
+    background-image: url(upload/about.jpg);
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: 700px auto;
+    overflow: hidden;
+    width: 100%;
+    min-height: 367px;
+    height: 100%;
+    position: relative;

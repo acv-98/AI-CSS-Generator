@@ -1,0 +1,5 @@
+	color: #70E5E5;
+	border: 2px solid #70E5E5;
+	background-color: rgba(0, 0, 0, 0.01);
+	box-shadow: 0 0 0 4px #70E5E5;
+		margin:30px 0px;

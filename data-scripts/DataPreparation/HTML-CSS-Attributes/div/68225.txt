@@ -1,0 +1,11 @@
+	width:426px;
+	height:264px;
+	float:left;
+	display:inline;
+	padding-bottom:5px;
+	line-height:19px;
+	position:absolute;
+	top:0;
+	right:0;
+	background:url(images/mark-featured.png) no-repeat 0 0;
+	z-index:10;

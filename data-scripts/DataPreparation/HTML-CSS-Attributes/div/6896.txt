@@ -1,0 +1,1 @@
+ width:420px; float:left; margin-top:40px; padding-bottom:40px; background:#523141; border:#603d47 solid 1px; padding:20px 0px 12px 20px; margin-bottom:30px; color:#937a81;SERVICES CLASSES

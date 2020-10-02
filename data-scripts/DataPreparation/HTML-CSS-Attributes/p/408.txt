@@ -1,0 +1,3 @@
+	color: #c3c3c3;
+	padding: 10px 25px;
+	text-transform: uppercase;

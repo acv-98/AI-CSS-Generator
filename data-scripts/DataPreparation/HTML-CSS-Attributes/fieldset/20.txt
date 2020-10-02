@@ -1,0 +1,17 @@
+	border: none;
+   width: 250px; height: 40px;
+   padding: 0; margin: 0;
+   background: url(../images/search.gif) no-repeat;
+  	border: none;
+  	float: left;
+ 	padding: 0; margin: 0;
+  	padding: 0; margin: 0;
+ display: none; .search input.tbox {
+  	color: #7d8285;
+  	font-weight: bold;
+  	margin: 15px 0 10px 10px;
+  	background: transparent;
+  	width: 200px;
+  	height: 40px;
+  	cursor: pointer;
+  	text-indent: -9999px;

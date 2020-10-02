@@ -1,0 +1,4 @@
+	height: 386px;
+	text-align: center;
+	color: #fff;
+		height: 270px;

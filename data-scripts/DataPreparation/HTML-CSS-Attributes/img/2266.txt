@@ -1,0 +1,9 @@
+	width: 89px;
+	height:88px;
+	position:absolute;
+	right:0;
+	top:0;
+	background:url(img/new_img.png);
+	z-index:100;
+	display: inline;
+	margin: 0 10px 0;

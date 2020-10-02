@@ -1,0 +1,9 @@
+width:220px;
+float:right;
+margin:0px;
+padding:11px 70px 7px 0px;
+font-weight:bold;
+display:inline;
+border-right:1px solid #ffffff;
+	color:#cab3a1;
+	text-decoration:none;

@@ -1,0 +1,4 @@
+  margin-bottom: 10px;
+  content: " ";
+  display: table;
+  clear: both;

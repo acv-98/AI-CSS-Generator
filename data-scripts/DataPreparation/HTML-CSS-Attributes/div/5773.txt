@@ -1,0 +1,6 @@
+		padding-left: 0px;
+	padding-bottom: 40px;
+	color: #6f7678;
+	font-size: 1.25em;
+	font-weight: 700;
+	text-transform: uppercase;

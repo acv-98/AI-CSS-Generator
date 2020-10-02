@@ -1,0 +1,27 @@
+	background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 640px;
+ background-image: url(../img/image-01.jpg);  background-image: url(../img/image-02.jpg);  background-image: url(../img/image-03.jpg);  background-image: url(../img/image-04.jpg);  background-image: url(../img/image-05.jpg); .navbar-toggler {
+    background-color: rgba(0,0,0,0.3);
+    background-image: url(../img/tm-navbar.png);
+    border-radius: 0;
+    color: rgb(255,255,255);
+    display: block;
+    margin: 0 auto;     
+	color: #fdff73;
+	font-size: 1.8rem;
+	margin-bottom: 40px;	
+ font-size: 2.2rem; .tm-nav {
+	display: -ms-flexbox;
+    -ms-flex-pack: center;
+        -webkit-justify-content: center;
+            justify-content: center;
+	position: fixed;
+    width: 100%;  
+    transition: all 0.3s ease;  
+    z-index: 1000;
+	padding-top: 80px; 
+	padding-bottom: 80px;
+ position: relative; .tm-copyright-div {
+    bottom: 0;

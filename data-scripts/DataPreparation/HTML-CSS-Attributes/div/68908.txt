@@ -1,0 +1,15 @@
+    position: absolute;
+    top: 80px;
+    width: 85%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+        position: static;
+ margin-top: -110px;     .tm-fa-icon {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        padding: 10px;
+        padding-left: 0;
+        padding-right: 0;

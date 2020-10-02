@@ -1,0 +1,12 @@
+
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	line-height: 1;
+	color: #495057;
+	opacity: 0.75;
+	background-color: #fff;
+	background-image: none;
+	background-clip: padding-box;
+	border: 1px solid #ced4da;
+	border-radius: 0rem;
+	transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;

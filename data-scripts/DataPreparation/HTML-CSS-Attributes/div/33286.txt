@@ -1,0 +1,2 @@
+padding: 30px !important;   
+padding-bottom: 5px !important;padding: 60px 30px;background: #f7f7f7;display: inline-block;padding-bottom: 20px;

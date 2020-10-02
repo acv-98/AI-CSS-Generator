@@ -1,0 +1,7 @@
+	margin-top:-7px
+	overflow:hidden;
+	background:url(../images/price_bg.gif) 0 -6px repeat-x
+	float:left;
+	color:#220000;
+	padding-left:12px
+	text-decoration:none;

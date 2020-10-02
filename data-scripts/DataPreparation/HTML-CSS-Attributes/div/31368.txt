@@ -1,0 +1,14 @@
+	border-top:5px solid #373645;
+	border-bottom:5px solid #6e9bca;
+	padding:1% 0;
+	list-style:none;
+	display:inline-block;
+	float:right;
+	text-transform: uppercase;
+	color: #373645;
+	font-weight: bold;
+	font-size: 2.4em;
+	margin-bottom: 0;
+	padding-right: 15%;
+   font-size: 0.95em;
+	margin-top: 5px;

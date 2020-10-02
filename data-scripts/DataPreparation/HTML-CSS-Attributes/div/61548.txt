@@ -1,0 +1,3 @@
+  font-size: 36px;
+  margin: 0 0 10px 0;
+  border-bottom: 1px dotted #828282;  

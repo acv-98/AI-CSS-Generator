@@ -1,0 +1,13 @@
+	list-style: none;
+	display: block;
+	margin: 0;
+	padding-left: 0;
+	font-size: 4.2rem;
+	line-height: 4.2rem;
+	color: #FFFFFF;
+	border-right: 1px solid rgba(255, 255, 255, 0.02);
+	border-left: 1px solid rgba(255, 255, 255, 0.02);
+		font-size: 3.6rem;
+		line-height: 3.6rem;
+		padding: 3.9rem 3rem 4.2rem;
+		border: none !important;

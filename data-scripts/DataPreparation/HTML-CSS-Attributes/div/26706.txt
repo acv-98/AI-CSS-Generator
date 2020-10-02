@@ -1,0 +1,3 @@
+	background-image: url(../images/sidebar_header.jpg);
+	height: 84px;
+	width: 340px;

@@ -1,0 +1,7 @@
+	background:none;
+	padding:0;
+text-shadow: none;
+color:#0000FF;
+	border-bottom: 1px solid rgba(240, 240, 240, 1) !important;
+	
+	outline:0;

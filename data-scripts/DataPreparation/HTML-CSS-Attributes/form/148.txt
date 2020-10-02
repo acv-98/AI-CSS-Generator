@@ -1,0 +1,6 @@
+	width: 21%;
+	padding: 8px 0 0 0;
+	margin: 0 0 0 3%;
+   width: 77%;
+   padding:0; 
+   margin:0

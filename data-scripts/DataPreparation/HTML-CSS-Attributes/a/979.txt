@@ -1,0 +1,4 @@
+ background:url(../images/menu-btn.png) no-repeat; color:#ffed71; width:88px; height:40px; color:#ffffff;
+SOCIAL MEDIA CLASSES
+ text-decoration:underline;CONTACT FORM CLASSS
+ color:#ffffff;

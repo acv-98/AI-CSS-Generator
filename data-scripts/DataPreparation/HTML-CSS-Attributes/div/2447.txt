@@ -1,0 +1,5 @@
+	float:right;
+	text-transform:uppercase;
+outline: none;.slides,
+.testi-control-nav,
+margin: 0; padding: 0;width: 100%; display: block;margin: 0; position: relative;  zoom: 1;width:100%;opacity: 1;opacity: 1;opacity: 1;

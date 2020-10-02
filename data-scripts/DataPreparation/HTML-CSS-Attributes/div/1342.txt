@@ -1,0 +1,6 @@
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 19px;
+	height: 64px;
+	background-image: url(images/nav-left.gif);

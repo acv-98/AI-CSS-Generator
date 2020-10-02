@@ -1,0 +1,2 @@
+ color: #D77002 !important;  color: #000 !important;  padding: 0; margin-top: 0px; color: #828080; 
+ margin-bottom:0; list-style-type:none;margin:0;padding:0;background:url('images/bg/twitter-bg.png') no-repeat 0 center;margin:0;line-height:20px;min-height:20px;border-bottom:1px dotted #ccc;padding:15px 0 15px 40px;

@@ -1,0 +1,4 @@
+	width: 470px;
+	float: left;
+	padding-right: 25px;
+	background: transparent url(../images/line-v.png) repeat-y right;

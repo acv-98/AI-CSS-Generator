@@ -1,0 +1,9 @@
+	float:right;
+	width:410px;
+	color:#3f3f3f;
+	display:block;
+	padding:0 0 0 10px;
+	font-weight:bold;
+	text-decoration:none;
+	background:url(../images/readme.gif) no-repeat left center;
+	border-bottom:1px solid #3f3f3f;

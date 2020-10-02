@@ -1,0 +1,2 @@
+ padding: 4px 5px; cursor: pointer; 
+ float: right; display: inline; width: 64px; height: 30px; border: 0; background: url(images/button-subscribe.gif) no-repeat 0 0; 

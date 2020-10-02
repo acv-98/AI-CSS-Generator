@@ -1,0 +1,2 @@
+ display: block; background: url(../img/up.png) no-repeat center; width: 25px; height: 18px; text-align: center; margin: 0 auto; .part ul{
+ display: block; border: 0; text-indent: -999em; overflow: hidden; background-color: transparent; background-repeat: no-repeat; text-align: left; direction: ltr;  display: none; 

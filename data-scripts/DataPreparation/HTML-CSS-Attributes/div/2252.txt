@@ -1,0 +1,4 @@
+    text-align: right;
+    margin: 80px 0px;
+    color: #fff;
+    overflow: hidden;

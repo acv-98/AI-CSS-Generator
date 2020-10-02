@@ -1,0 +1,6 @@
+    width: 1050px;
+    margin: 0 auto 57px;
+    padding-top: 53px;
+    background-color: #fff;
+        width: auto;
+        margin: 0 0 57px;

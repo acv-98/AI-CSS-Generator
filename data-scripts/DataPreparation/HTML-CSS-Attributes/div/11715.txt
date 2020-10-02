@@ -1,0 +1,4 @@
+	padding-top: 50px;
+	color: #2f2f2f;
+	font-weight: 700;
+	background: #34495e;

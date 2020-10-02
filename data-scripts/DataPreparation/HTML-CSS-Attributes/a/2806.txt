@@ -1,0 +1,13 @@
+	font-size: 2.5rem;
+	padding-top: 0;
+	padding-bottom: 0;
+	display: -ms-flexbox;
+	-ms-flex-align: center;
+	    align-items: center;
+	-ms-flex-pack: center;
+	    justify-content: center;
+	width: auto;
+ font-size: 3.5rem; 	.tm-brand-icon { 
+		font-size: 4rem;
+    	padding: 10px;
+		margin-right: 15px;

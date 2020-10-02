@@ -1,0 +1,4 @@
+  padding: 82px;
+  border-right: 4px solid #000000;
+    border-right: 0;
+    padding: 42px;

@@ -1,0 +1,7 @@
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    margin-top: 18px;
+ color: #888; .coming-soon {
+    color: #fff;
+ padding-bottom: 7px; text-align: center; 

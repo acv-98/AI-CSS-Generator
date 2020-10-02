@@ -1,0 +1,13 @@
+	background:#e1e8ed;
+	box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1), 1px -1px 0px #efefef;
+	border-bottom:3px solid transparent;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	padding:10px;
+	width: 30.66%;
+	margin-right: 4%;
+	margin-bottom: 10px;
+	float: left;

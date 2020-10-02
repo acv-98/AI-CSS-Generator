@@ -1,0 +1,4 @@
+	background: #00aeef;
+	padding: 20px;
+	color: #ffffff;
+	font-size: 18px;

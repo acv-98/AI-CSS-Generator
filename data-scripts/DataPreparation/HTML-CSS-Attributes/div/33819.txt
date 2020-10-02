@@ -1,0 +1,7 @@
+      margin-bottom: 50px;
+      display: block;
+      float: none;
+      margin-top: 10px;
+      color: #fff;
+      font-size: 15px;
+        color: #8392A4;

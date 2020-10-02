@@ -1,0 +1,3 @@
+	border: 1px solid #ffffff;
+	margin-top: 3px;
+	margin-bottom: 5px;

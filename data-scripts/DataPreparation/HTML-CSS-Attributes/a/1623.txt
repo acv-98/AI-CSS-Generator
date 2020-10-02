@@ -1,0 +1,9 @@
+	background-image:none;
+	display:none;
+	text-shadow:none;
+	color:#CACACA;
+	font-size:2.3em;
+	margin-top:30px;
+	left:0px;
+	right:0px;
+		display:none;

@@ -1,0 +1,15 @@
+	position:relative;
+	border-bottom:1px solid #c0c0c0;
+	padding-bottom:18px;
+	margin-bottom:22px;
+	width:100%;
+	display:block;
+	background:#090909;
+	text-transform:uppercase;
+	font:bold 15px/44px Arial, Helvetica, sans-serif;
+	color:#999898;
+	top:290px;
+	left:35px;
+	overflow:hidden;
+	float:right;
+	padding-right:16px;

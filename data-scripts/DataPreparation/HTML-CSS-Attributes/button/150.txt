@@ -1,0 +1,4 @@
+    border: none;
+    padding-top: 10px;
+    background-color: transparent;
+    border-color: transparent;

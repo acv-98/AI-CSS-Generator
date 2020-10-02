@@ -1,0 +1,4 @@
+  margin-top: 10px;
+  display: -moz-inline-stack;
+  zoom: 1;
+  *display: inline;

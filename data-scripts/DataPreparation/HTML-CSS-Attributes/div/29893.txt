@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	float:right;
+	width:300px;
+	background:url(images/h2_bgs.gif) repeat-x center;
+	color:#fff;
+	padding-left:8px;
+	border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	-webkit-border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	-webkit-border-top-right-radius:8px;

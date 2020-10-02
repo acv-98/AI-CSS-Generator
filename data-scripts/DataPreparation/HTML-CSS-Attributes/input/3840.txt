@@ -1,0 +1,10 @@
+	float:left;
+	display:inline;
+	border:1px solid #dfdfd3;
+	color:#bfbfae;
+	font-family:"Times New Roman", Arial, sans-serif;
+	text-transform:uppercase;
+	width:130px;
+	height:15px;
+	padding:2px 4px 3px;
+	background:#fff;

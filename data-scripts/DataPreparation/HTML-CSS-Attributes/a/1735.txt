@@ -1,0 +1,13 @@
+	color: white;
+	background: #ee5057;	
+ padding: 50px 35px; .tm-top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0;
+    z-index: 10000;
+    transition: all 0.2s ease-in-out;
+    height: 119px;
+    background: white;
+ padding: 30px 35px; 	    padding: 12px 15px;

@@ -1,0 +1,1 @@
+margin: 0 -20px !important; padding: 30px 20px !important;margin-top: 40px; font-family: 'open_sanslight'; background: url(../img/body-bg.jpg) repeat; padding-top: 50px; padding-bottom: 65px; overflow: hidden;

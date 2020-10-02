@@ -1,0 +1,15 @@
+	margin: -10px auto 0;
+	overflow: hidden;
+	width: 50px;
+	background:url("../images/sprite.png") no-repeat scroll 0 0 transparent;
+	display:block;
+	float:left;
+	height:21px;
+	text-indent:-999999px;
+	background-position: -159px -75px;
+	left:0;
+	margin-top:-44px;
+	position:absolute;
+	top:50%;
+	z-index:15;
+	right:0;

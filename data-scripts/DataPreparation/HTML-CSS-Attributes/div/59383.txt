@@ -1,0 +1,10 @@
+	width: 25%;
+	margin-bottom: 0;
+	padding: 0;
+	display:none;
+	float:left;
+	overflow:hidden;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    width: 100.1%;

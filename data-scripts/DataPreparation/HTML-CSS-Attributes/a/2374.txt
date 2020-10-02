@@ -1,0 +1,1 @@
+background-color:#436fc9background-color:#3967c6; display:block; float:left; font-size:16px; height:32px; line-height:33px; margin-right:10px; padding-top:0; text-align:center; width:32px

@@ -1,0 +1,5 @@
+bottom:0px;
+right:0px;
+height:80px;
+width:80px;
+background:url(../images/resize.png) repeat scroll 0% 0% transparent;

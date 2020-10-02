@@ -1,0 +1,1 @@
+visibility:hidden; clear:both; margin-bottom:20px

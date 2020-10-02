@@ -1,0 +1,7 @@
+	height: 31px;
+	position: relative;
+	overflow: hidden;
+	padding-left: 67px;
+	z-index: 999;
+	float: right;
+	padding-top: 6px;

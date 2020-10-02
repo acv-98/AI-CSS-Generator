@@ -1,0 +1,12 @@
+  color: #fff;
+  background-color: #81c141;
+  border-color: #74af39;
+  background-image: none;
+  padding: 8px 20px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  border-radius: 30px;
+  box-shadow: none;
+  outline: none;

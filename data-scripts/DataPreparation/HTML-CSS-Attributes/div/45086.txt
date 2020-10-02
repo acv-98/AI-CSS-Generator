@@ -1,0 +1,5 @@
+ content: " "; display: table;  clear: both; 
+body {
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	color: #aaa;
+	background: #fff;

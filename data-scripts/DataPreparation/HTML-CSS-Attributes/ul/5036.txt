@@ -1,0 +1,5 @@
+ list-style: none; width: 700px; position: relative; padding:0; background: none; background-color: #f2f2f2; padding: 10px; margin-bottom: 20px; list-style: none; margin: 0; margin: 0 0 10px 0; margin-left: 25px;
+.toggle {
+	width: 100%;
+	padding-bottom: 20px;
+	clear:both;

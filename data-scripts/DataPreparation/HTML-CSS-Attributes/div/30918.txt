@@ -1,0 +1,9 @@
+	background:url(../images/newsletter_input.png) 0 0 no-repeat;
+	min-height:43px
+	float:left;
+	border-left:1px solid #bfbfbf;
+	border-top:1px solid #bfbfbf;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	position:relative

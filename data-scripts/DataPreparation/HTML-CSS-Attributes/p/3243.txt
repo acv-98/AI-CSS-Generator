@@ -1,0 +1,5 @@
+ width: 100.8% !important; 
+    margin-right: 0;
+    width: 102% !important;
+	border-bottom: none;
+	width: 100%;

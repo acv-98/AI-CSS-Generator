@@ -1,0 +1,18 @@
+    right: auto;
+  position: relative;
+  left: 50%;
+  display: block;
+  margin-bottom: 100px;
+  float: left;
+  color: #6b3b25;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  font-size: 12px;
+  line-height: 41px;
+  width: 112px;
+  text-decoration: none;
+  text-align: center;
+  margin-right: 20px;
+  background: url(../img/pagination.png) no-repeat 0px 0px;

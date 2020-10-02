@@ -1,0 +1,6 @@
+        border-color: #e7e7e7;
+        margin-top: 53px;
+        background: #ff0000;
+    background-color: transparent; 
+    transition: all .3s;
+    color:#000000;

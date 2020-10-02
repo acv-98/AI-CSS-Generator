@@ -1,0 +1,4 @@
+  background: url('../img/bg-banner02.jpg') no-repeat fixed;
+  background-size: cover;
+  min-height: 650px;
+  position: relative;

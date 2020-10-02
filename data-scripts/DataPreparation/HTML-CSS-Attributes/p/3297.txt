@@ -1,0 +1,7 @@
+	margin:0;
+	padding:6px 12px;
+	text-transform:none;
+	background:#fff url(../images/readmore.gif) repeat-x left center;
+	color:#7e7c7c;
+	text-decoration:none;
+	font-weight:normal;

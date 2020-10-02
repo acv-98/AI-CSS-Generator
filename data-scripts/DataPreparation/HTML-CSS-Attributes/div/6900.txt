@@ -1,0 +1,5 @@
+	width:100%;
+	height:auto;
+	margin:0 auto;
+	text-align:left;
+	background:url(../images/top-bg.png) repeat-x;

@@ -1,0 +1,14 @@
+	position:absolute;
+	top:0;
+	left:0;
+	width:920px;
+	display:none;
+	height:390px;
+	overflow:hidden;
+	bottom:75px;
+	margin:0;
+	font-size:110%;
+	line-height:1.4;
+	font-weight:bold;
+	right:40px;
+	color:#FFF;

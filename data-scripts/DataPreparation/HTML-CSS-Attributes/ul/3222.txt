@@ -1,0 +1,6 @@
+	list-style:none;
+	margin:0;
+	padding:8px 0;
+	padding-bottom:6px;
+	color:#80a6ba;
+	text-decoration:none;

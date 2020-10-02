@@ -1,0 +1,9 @@
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+    float: left;
+    width: 25%;
+			margin: 0 auto 20px;
+			width: 50%;
+			float: left;

@@ -1,0 +1,14 @@
+  margin-top: 26px;
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  padding-left: 120px;
+  padding-right: 120px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  text-align: center;
+    padding-left: 0;
+    padding-right: 0;
+    display: block;
+    margin-top: 30px;

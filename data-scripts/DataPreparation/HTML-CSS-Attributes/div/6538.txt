@@ -1,0 +1,2 @@
+	background:url(../images/line.png) 0 0 repeat-x;
+	height:5px;

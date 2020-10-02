@@ -1,0 +1,4 @@
+width:1000px; height:68px; float:left;
+width:890px; float:left; padding:15px 0px 0px 30px;color:#fff; float:left; padding:0px 0px 0px 0px; font-weight:bold; text-decoration:none; color:#ffffff;text-decoration:none; list-style-type:none; sdisplay:inline; margin:0px; padding:0px 0px 0px 0px;  text-decoration:underline; list-style-type:none; color:#cececf; display:inline; margin:0px; padding:0px 10px 0px 10px; border-right:1px solid #ffffff;  color:#89a554;.insidebanner {
+	height:332px;
+	background:url(../images/insidebanner.jpg) left top no-repeat;

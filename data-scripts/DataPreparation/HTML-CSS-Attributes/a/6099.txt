@@ -1,0 +1,12 @@
+	margin-right:auto;
+	text-decoration:none;
+	font-size:0.7em;
+	color:#000;
+	background-image:url(../images/scrol_up.png);
+	background-repeat:no-repeat;
+	background-position:left top;
+	text-align:center;
+	width:90px;
+	margin-left:auto;
+	display:block;
+	font-weight:700;

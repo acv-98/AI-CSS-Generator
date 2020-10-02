@@ -1,0 +1,5 @@
+  border: 2px solid #a5d549;  
+  background-color: #ffffff;
+  margin-top: -65px;
+  position: relative;
+	width: 100%;

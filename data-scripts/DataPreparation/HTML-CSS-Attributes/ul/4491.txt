@@ -1,0 +1,23 @@
+  border-bottom: 1px solid #dddddd;
+  float: left;
+  margin-bottom: -1px;
+  margin-right: 2px;
+  line-height: 1.428571429;
+  border-radius: 4px 4px 0 0;
+  border-color: #eeeeee #eeeeee #dddddd;
+  color: #555555;
+  cursor: default;
+  background-color: #ffffff;
+  border-bottom-color: transparent;
+  width: 100%;
+  text-align: center;
+    display: table-cell;
+    width: 1%;
+    margin-bottom: 0;
+    border-bottom: 1px solid #dddddd;
+    border-radius: 4px 4px 0 0;
+    border-bottom-color: #ffffff;
+  margin-top: -1px;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+margin:0 auto

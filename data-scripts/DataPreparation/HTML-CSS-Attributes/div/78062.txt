@@ -1,0 +1,7 @@
+	display:inline;
+	float:left;
+	margin-left:10px;
+	margin-right:10px
+	width:700px
+	padding: 0 78px 0 78px;
+	color: #f3ff00;

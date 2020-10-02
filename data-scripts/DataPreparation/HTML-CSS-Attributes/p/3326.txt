@@ -1,0 +1,4 @@
+	display: block;
+	float: right;
+	color: #999999;
+	font-style: italic;

@@ -1,0 +1,6 @@
+  color: #a5d549;
+	color: #444;
+  font-size: 35px;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;

@@ -1,0 +1,1 @@
+ background:url(images/top_bg2.gif) top repeat-x; margin:0; padding:0; height:23px

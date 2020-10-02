@@ -1,0 +1,11 @@
+  text-align: center;
+  padding-top: 40px;
+  color: #444444;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  font-size: 14px;
+  display: block;
+  margin-left: 80px;
+  margin-right: 80px;
+    margin: 0px 0px 22px 0px;

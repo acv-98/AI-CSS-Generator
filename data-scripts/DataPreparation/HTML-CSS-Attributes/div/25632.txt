@@ -1,0 +1,15 @@
+	padding: 15px;
+	background: #ffffff;
+	margin-bottom: 30px;
+	border-radius: 50px 50px 0px 50px;
+	position: relative;
+	transition: all 0.3s ease-in-out 0s;
+	font-size: 22px;
+	font-weight: 600;
+	z-index: 1;
+	width: 0px;
+	height: 0px;
+	content: "";
+	right: 0px;
+	bottom: 0px;
+	color: #ffffff;

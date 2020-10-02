@@ -1,0 +1,1 @@
+ color:#fff; border-bottom:3px solid #e8ad09; color:#979797; background:url('images/tabs_1.gif') no-repeat center center; 

@@ -1,0 +1,12 @@
+    z-index: 101;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    text-align: center;
+    padding: 20px;
+    color: #FEFBFC;
+    font-weight: normal;
+    font-size: 34px;
+font-family:'fontello';src:url('../fonts/fontello.eot?32480171');src:url('../fonts/fontello.eot?32480171#iefix') format('embedded-opentype'),url('../fonts/fontello.woff?32480171') format('woff'),url('../fonts/fontello.ttf?32480171') format('truetype'),url('../fonts/fontello.svg?32480171#fontello') format('svg');font-weight:normal;font-style:normal

@@ -1,0 +1,1 @@
+font:12px/14px Arial, sans-serif; color:#319ec9; font-weight:normal; display:block; margin-bottom:4px

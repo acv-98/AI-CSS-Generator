@@ -1,0 +1,1 @@
+width:auto; height:42px; padding:0 23px; float:left; color:inherit; background:#252525color:#31a1ff; background:#272727

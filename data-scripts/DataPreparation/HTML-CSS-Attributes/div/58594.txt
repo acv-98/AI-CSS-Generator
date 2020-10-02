@@ -1,0 +1,15 @@
+	font-size: 4em;
+	color: #fff;
+	font-family: 'rochesterregular';
+	text-align:center;
+	margin-bottom:2em;
+	background: #6DAAFF;
+	font-weight: 100;
+	padding: 0.8em 2em;
+	display: inline-block;
+	margin-top: 1em;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	letter-spacing: 0.1em;

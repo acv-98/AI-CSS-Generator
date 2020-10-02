@@ -1,0 +1,13 @@
+	width: 16px;
+	background: url(../images/prevnext.png) 0 0 no-repeat;
+	height: 27px;
+	left: 0px;
+	top: 81px;
+	position: absolute;
+	display: block;
+	z-index: 999;
+	right: 256px;
+	transition: 0s ease;
+	-o-transition: 0s ease;
+	-webkit-transition: 0s ease;
+	background-position: 0 bottom;

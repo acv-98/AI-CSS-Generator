@@ -1,0 +1,10 @@
+	background-color: #f2745f;
+	text-align: center;
+	padding: 60px 0px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	font-size: 22px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	color: #fff;

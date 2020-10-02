@@ -1,0 +1,20 @@
+    display:block;
+    width:22px;
+    height:2px;
+    border-radius:1px
+    margin-top:4px
+    background-color:#888
+	background-color: #8dc63f;
+		background-color: #e75b1e;
+		width: 35px;
+		position: relative;
+		transition: all 250ms ease-in-out;
+		-webkit-transition: all 250ms ease-in-out;
+		-moz-transition: all 250ms ease-in-out;
+		-ms-transition: all 250ms ease-in-out;
+		top: 1px;
+		margin-top: 7px;
+		transform: rotate(45deg);
+		-webkit-transform: rotate(45deg);
+		-moz-transform: rotate(45deg);
+		-ms-transform: rotate(45deg);

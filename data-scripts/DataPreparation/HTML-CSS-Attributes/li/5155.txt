@@ -1,0 +1,1 @@
+ color: #fff;background: url('../img/nav-start.jpg') no-repeatbackground: url('../img/nav-end.jpg') no-repeat 100% 0

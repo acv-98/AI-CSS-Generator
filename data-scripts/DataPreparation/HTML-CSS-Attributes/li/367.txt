@@ -1,0 +1,2 @@
+width:19px; height:19px; display:block; background:url(../images/bullet_m.jpg) 0 0 no-repeat;
+width:174px; padding-left:36px; background:url(../images/bullet.gif) 16px 3px no-repeat; font:12px/12px Trebuchet MS, sans-serif; color:#e34d09; font-weight:bold; padding-bottom:5px;width:230px; padding-left:38px; background:url(../images/bullet.gif) 18px 4px no-repeat; padding-bottom:10px 

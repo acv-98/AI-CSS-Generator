@@ -1,0 +1,8 @@
+	text-align:right;
+	background:#fff;
+	border:1px solid #aea7a7;
+	width:958px;
+	height:319px;
+	position:relative;
+	bottom:0;
+	right:0;

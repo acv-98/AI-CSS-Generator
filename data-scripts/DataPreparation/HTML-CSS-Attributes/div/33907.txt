@@ -1,0 +1,12 @@
+	margin-bottom: 0;
+	padding:20px 0;
+	background: #f2f2f2;
+	border-bottom: 1px solid #ddd;
+	list-style: none;
+	padding-left: 0;
+		float:left;
+	display: inline;
+	font-weight: 600;
+	text-decoration: none;
+	outline: 0;
+	color: #fff;

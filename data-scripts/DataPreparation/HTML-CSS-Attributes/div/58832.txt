@@ -1,0 +1,18 @@
+  padding: 5em;
+  background: rgba(83, 157, 219, 0.9);
+  -webkit-box-shadow: 0px 10px 30px -13px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 10px 30px -13px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 10px 30px -13px rgba(0, 0, 0, 0.75);
+    padding: 0;
+    background: none;
+    -webkit-box-shadow: 0px 10px 30px -13px transparent;
+    -moz-box-shadow: 0px 10px 30px -13px transparent;
+    box-shadow: 0px 10px 30px -13px transparent;
+  color: #fff;
+  font-size: 40px;
+  line-height: 54px;
+  margin-bottom: 0;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+    font-size: 30px;

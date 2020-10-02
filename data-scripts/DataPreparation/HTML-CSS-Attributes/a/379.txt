@@ -1,0 +1,1 @@
+	background: url("jplayer-black-and-yellow.png") -10px -68px no-repeat;

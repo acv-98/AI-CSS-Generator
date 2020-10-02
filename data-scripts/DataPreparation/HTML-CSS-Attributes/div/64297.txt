@@ -1,0 +1,1 @@
+ width: 588px; position: absolute; top: 48px; right: 43px;  font-size: 30px; line-height: 23px; color: #fff; font-weight: bold; text-shadow: rgba(0,0,0,0.8) 0 1px 2px; padding-bottom: 18px;  color: #fff; font-size: 12px; font-weight: bold; line-height: 25px; 

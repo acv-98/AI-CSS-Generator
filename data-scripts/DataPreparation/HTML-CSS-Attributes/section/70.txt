@@ -1,0 +1,5 @@
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.60);
+    width: 100%;
+    padding: 250px 0px;
+    text-align: center;

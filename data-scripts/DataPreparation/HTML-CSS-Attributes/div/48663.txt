@@ -1,0 +1,14 @@
+  margin-bottom: 15px;
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+  margin-left: -25px;
+  margin-right: -25px;
+  content: " ";
+  clear: both;
+    padding-top: 14.3px;

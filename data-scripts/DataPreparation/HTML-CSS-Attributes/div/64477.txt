@@ -1,0 +1,6 @@
+	position:relative;
+	padding:0;
+	float:none;
+	width:auto;
+	height:88px;
+	z-index:1001;

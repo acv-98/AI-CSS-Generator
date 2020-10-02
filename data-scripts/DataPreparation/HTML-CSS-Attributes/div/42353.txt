@@ -1,0 +1,9 @@
+  width: 100%;
+  position: relative;
+  color: #ffffff;
+  height: 100%;
+  background-color: #c21500;
+  padding-top: 30%;
+  opacity: 0.9;
+    margin-top: 20px;
+    margin-bottom: 20px;

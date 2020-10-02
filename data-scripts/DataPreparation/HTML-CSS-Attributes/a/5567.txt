@@ -1,0 +1,4 @@
+    display: inline-block;
+    margin-top: 16px;
+    font: 24px/26px 'Dosis', sans-serif;
+    color: #3b3a3a;

@@ -1,0 +1,12 @@
+  border: 2px white solid;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  white-space: nowrap;
+  font-weight: 600;
+    padding: 1em;
+    width: 70%;
+    margin-top: 1.5em;
+  background-color: #fff;
+  color: #7a7f82;

@@ -1,0 +1,14 @@
+	width: 8.2rem;
+	height: 8.2rem;
+	margin: 0 auto 1.2rem auto;
+	display: block;
+	border-radius: 50%;
+	vertical-align: middle;
+	text-align: center;
+	font-family: "raleway-heavy", sans-serif;
+	font-size: 1.5rem;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin-bottom: 3rem;
+	color: #252525;
+	line-height: 2.1rem;

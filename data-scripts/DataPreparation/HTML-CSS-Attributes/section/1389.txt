@@ -1,0 +1,24 @@
+    background: url("../../assets/images/video-background.png") top center no-repeat;
+    background-size: cover;
+    font-size: 18px;
+    color: #fff;
+    
+    border:0;
+    background-color: transparent;
+    outline: none;
+      background: #3BDBD8 !important;
+      z-index: 890;
+      color: #fff;
+      font-size: 24px;
+      margin: 0;
+      outline: none;
+      opacity: 1;
+      position: absolute;
+      right: 0;
+      text-shadow: none;
+      top: 0;
+      width: 28px;
+      height: 28px;
+      padding: 0;
+      max-height: none;
+      overflow: hidden;

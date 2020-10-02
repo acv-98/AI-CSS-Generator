@@ -1,0 +1,13 @@
+    height: 40px;
+    display: inline-block;
+    line-height: 42px;
+    width: 40px;
+    border-radius: 500px;
+    color:#ffffff !important;
+    margin:0 5px;
+    background-color: rgba(255,255,255,0.1);
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;

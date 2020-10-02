@@ -1,0 +1,3 @@
+  float: right;
+  background: #f3e4c8 url(../img/arrow-right.png) no-repeat right 12px;
+  padding-right: 20px;

@@ -1,0 +1,13 @@
+		padding: 5px 0 15px;
+		width: 280px;
+		float: left;
+		color: #A23D00;
+		font-size: 1.4em;
+		border-bottom: 1px dashed #9EC0DA;
+		padding-bottom: 5px;
+		margin-bottom: 10px;
+		list-style-type: none;
+			line-height: 1.4em;
+			padding: 3px 0 3px 20px;
+			background: url(images/bullet.gif) no-repeat 0 3px;
+			color: #333333;

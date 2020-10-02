@@ -1,0 +1,5 @@
+    font-size: 35px;
+	font-size:60px;
+	font-family: 'nexa_lightregular';
+	letter-spacing:1px;
+	color:#f1f1f1;

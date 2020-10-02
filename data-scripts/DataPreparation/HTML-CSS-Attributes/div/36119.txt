@@ -1,0 +1,8 @@
+    width: 290px;
+    float: right;
+    font-size: 12px;
+    color: #000;
+    font-weight: bold!important;
+    height: 20px;
+    display: block;
+    margin: 10px 10px 0 0;

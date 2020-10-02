@@ -1,0 +1,1 @@
+ font-size:0; line-height:0;  width:43px; height:46px; text-indent: -4000px; position:absolute; top:165px;  left:0; background:url(images/prev.gif);  left:937px; background:url(images/next.gif); 

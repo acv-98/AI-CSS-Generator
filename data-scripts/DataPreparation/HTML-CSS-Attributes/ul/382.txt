@@ -1,0 +1,16 @@
+	text-decoration:none;
+	float:right;
+	padding:14px 40px 0 0;
+	padding-left:5px;
+	font-family:"Times New Roman", Times, serif;
+	font-style:italic;
+	font-weight:bold;
+	display:block;
+	background:url(../images/bg-slider-pagination.png) right top no-repeat;
+	width:35px;
+	height:35px;
+	font-size:26px;
+	line-height:1.2em;
+	text-align:center;
+	color:#000;
+	background-position:left top;

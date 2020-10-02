@@ -1,0 +1,19 @@
+  width: 45px;
+  height: 45px;
+  border: 1px solid #444;
+-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.05);box-shadow:0 1px 1px rgba(0,0,0,0.05) * Skin: Blue
+ * ----------
+.skin-blue .main-header .navbar {
+  background-color: #3c8dbc;
+background-color:#3c8dbc.icheckbox_square,
+.iradio_square {
+    display: inline-block;
+    *display: inline;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    width: 22px;
+    height: 22px;
+    background: url(square.png) no-repeat;
+    border: none;
+    cursor: pointer;

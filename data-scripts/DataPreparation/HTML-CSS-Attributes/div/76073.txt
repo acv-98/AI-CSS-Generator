@@ -1,0 +1,5 @@
+	padding: 2% 40% 18%;
+	display: block;
+	color: #FFF;
+	padding-top: 6%;
+		padding: 6% 38% 18%;

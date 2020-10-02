@@ -1,0 +1,14 @@
+ border-color: #dfdcdc;  border-color: #cccccc;  font-size: 12px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  color: #6c6d03;  padding: 15px 0 0 0;  width: 100% !important;  height: 130px !important;  height: 55px !important; 
+ list-style: none; margin: 0; padding: 0; clear: both  float: left; list-style: none;.section-portfolio-classic .work-projects a.img {
+    display: block;
+    background: #fff;
+    padding: 4px;
+    border: 1px solid #e3e1e1;
+    opacity: .6;
+    -moz-transition: opacity 1s ease .1s;
+    -webkit-transition: opacity 1s ease .1s;
+    -o-transition: opacity 1s ease .1s;
+    transition: opacity 1s ease .1s;
+ border: 1px solid #bbd140; opacity: 1 .section-portfolio-classic .work-projects  {
+ height: 104px !important;  height: 46px !important;     .section-portfolio-slider,
+ height: 76px !important;  height: 34px !important;  height: 76px !important;  width: 104px !important; margin: 0 10px 0 0; 

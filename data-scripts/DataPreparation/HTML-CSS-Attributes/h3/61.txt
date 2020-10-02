@@ -1,0 +1,1 @@
+    background:url(../images/icon_satisfaction.jpg) 0 0 no-repeat;

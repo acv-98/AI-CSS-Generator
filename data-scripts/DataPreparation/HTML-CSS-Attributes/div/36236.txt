@@ -1,0 +1,10 @@
+		min-height: 78px;
+		margin-left: 80px;
+		margin-right: 20px;
+		margin-bottom: 19px;
+		line-height: 1.0em;
+ color: #888;  #posts-list .feature-image,
+#post-content .feature-image{
+	background: #fff url(../img/plus.png) no-repeat center center;
+	font-family: 'Arvo', Arial, sans-serif;
+	font-size: 13px;

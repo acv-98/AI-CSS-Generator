@@ -1,0 +1,15 @@
+	float: left;
+	display: block;
+	width: 120px;
+	height: 30px;
+	background-image: url(../img/logo.png);
+	margin: 27px 0px 0px 40px;
+	text-align: center;
+	opacity: 0.4;
+	z-index: 5;
+	-webkit-transition: opacity 0.4s;
+	-moz-transition: opacity 0.4s;
+	-ms-transition: opacity 0.4s;
+	-o-transition: opacity 0.4s;
+	transition: opacity 0.4s;
+	cursor: pointer;

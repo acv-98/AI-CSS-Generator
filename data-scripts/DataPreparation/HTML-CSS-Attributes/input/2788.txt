@@ -1,0 +1,9 @@
+	width:18px;
+	height:28px;
+	background:url(images/search-submit.gif);
+	border:0;
+	cursor:pointer;
+	float:left;
+	font-size:0;
+	line-height:0;
+	text-indent:-4000px;

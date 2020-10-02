@@ -1,0 +1,6 @@
+	background-color: #fff;
+	border-style: none none solid none;
+    outline: 0;
+    box-shadow: none;    
+	color: #888;
+	font-size: 15px;

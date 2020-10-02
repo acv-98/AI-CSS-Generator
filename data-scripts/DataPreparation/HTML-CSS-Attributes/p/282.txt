@@ -1,0 +1,5 @@
+	font-size:30px;
+	font-weight:500;
+	color:#e84c3d;
+	margin-top:30px;
+	text-transform:uppercase;

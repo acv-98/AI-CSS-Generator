@@ -1,0 +1,5 @@
+	border-top:5px solid #f9efe3;
+	width: 30.66%;
+	margin-right: 4%;
+	margin-bottom: 10px;
+	float: left;

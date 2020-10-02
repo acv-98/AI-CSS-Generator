@@ -1,0 +1,2 @@
+  content: '\2039';
+    margin-left: -10px;

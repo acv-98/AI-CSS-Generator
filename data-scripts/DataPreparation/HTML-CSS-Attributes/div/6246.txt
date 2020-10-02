@@ -1,0 +1,2 @@
+    background:url(../images/devider.png) 0 0 repeat-x;
+    padding:9px 0 0 0;

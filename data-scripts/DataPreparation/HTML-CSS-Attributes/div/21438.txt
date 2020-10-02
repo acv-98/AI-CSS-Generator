@@ -1,0 +1,8 @@
+	float:left;
+	width:270px;
+	min-height:76px;
+	margin-right:26px;
+	padding:5px 0 10px 0;
+	border:1px solid #d7d7d7;
+	padding-top:1px;
+	padding-left:2px;

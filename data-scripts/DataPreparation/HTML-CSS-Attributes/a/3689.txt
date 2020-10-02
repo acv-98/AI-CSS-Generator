@@ -1,0 +1,15 @@
+	border-radius: 0;
+	outline: none;
+  color: #fff;
+  font-weight: 400;
+  font-size: 18px;
+  padding: 10px 15px;
+  border: 1px solid #fff;
+  border-radius: 0;
+  margin-top: 60px;
+  position: relative;
+  overflow: hidden;
+	color: #F0394C;
+	background:#fff;
+	background-color: #F0394C;
+	padding: 15px 20px;

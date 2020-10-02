@@ -1,0 +1,7 @@
+	content:' ';
+	background-image:url(../images/icons/phone.png) no-repeat center center;
+	width:150px;
+	height:150px;
+	right:0;
+	top:-20px;
+	position:absolute;

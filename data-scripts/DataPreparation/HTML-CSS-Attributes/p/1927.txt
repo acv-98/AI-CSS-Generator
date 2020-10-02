@@ -1,0 +1,1 @@
+ float: right; font-size: 11px; color: #e5e5e5; text-shadow: rgba(0,0,0,0.9) 0px 1px 0px; color: #e5e5e5; background: url(images/list-arr.png) no-repeat 0 4px; padding-left: 9px; margin-left: 15px;  color: #fff; text-decoration: none; 

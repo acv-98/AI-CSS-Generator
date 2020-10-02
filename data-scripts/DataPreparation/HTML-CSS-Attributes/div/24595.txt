@@ -1,0 +1,1 @@
+float:right; width:728px; height:90pxwidth:100%; height:100%.logo_area.add_banner

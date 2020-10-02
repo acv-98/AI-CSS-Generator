@@ -1,0 +1,11 @@
+	background-image: url(../images/11.jpg);
+	margin-bottom: 0;
+	color: #424242;
+	font-weight: 700;
+	border-color: #fff;
+	background-color: #fff;
+	font-size: 32px;
+    width: 320px;
+    margin-bottom: 0;
+    border-color: #fff;
+    color: #fff;

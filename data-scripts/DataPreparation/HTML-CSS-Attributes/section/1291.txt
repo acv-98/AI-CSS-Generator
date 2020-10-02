@@ -1,0 +1,12 @@
+  background: hsl(221, 93%, 6%) url("../images/top_banner.png") no-repeat fixed 0 0 / cover ;
+  position: relative;
+  padding: 60px 0 160px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	height:100%;
+	width:100%;
+	content:"";
+	background:rgba(1, 10, 28, 0.8);	
+  padding: 60px 0 90px;  padding: 60px 0 200px;

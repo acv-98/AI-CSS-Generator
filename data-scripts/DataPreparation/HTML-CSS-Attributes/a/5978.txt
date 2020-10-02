@@ -1,0 +1,5 @@
+  width: 35%;
+  display: table;
+  text-decoration: none;
+    width: 100% !important;
+    text-align: center;

@@ -1,0 +1,5 @@
+  color: #a5d549;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 3px;
+  display: block;

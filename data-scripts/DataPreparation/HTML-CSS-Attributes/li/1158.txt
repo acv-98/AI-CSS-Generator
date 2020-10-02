@@ -1,0 +1,6 @@
+  opacity: 0.5;
+  cursor: default;
+  margin-top: 10px;
+    color: #ffffff;
+    background-color: #f56363;
+    border-color: #f56363;

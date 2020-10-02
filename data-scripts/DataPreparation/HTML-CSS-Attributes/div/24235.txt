@@ -1,0 +1,14 @@
+	margin:0;
+	padding:0;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	height:60px;
+	list-style:none;
+	float:left;
+	display:block;
+	width:140px;
+	font-size:18px;
+	line-height:22px;
+	font-weight:normal;
+	color:#fff;
+	text-decoration:none;
+	text-align:center;

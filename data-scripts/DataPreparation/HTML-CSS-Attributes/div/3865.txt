@@ -1,0 +1,8 @@
+        text-align: center;
+        float: none;
+        margin: 0 auto;
+    font-size: 22px;
+    font-weight: 600;
+    color: #fcbf02;
+    padding: 0 !important;
+    line-height: 1 !important:

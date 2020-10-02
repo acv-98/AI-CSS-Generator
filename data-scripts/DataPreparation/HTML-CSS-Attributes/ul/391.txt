@@ -1,0 +1,16 @@
+	display: inline-block;
+	position: relative;
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin: 0 15px;
+    text-transform: uppercase;
+	font-weight: 500;
+	color: #fd6802;
+    background: #fcbf02;
+    bottom: 8px;
+    content: "";
+    height: 2px;
+    margin-left: -1px;
+    position: absolute;
+    width: 10px;

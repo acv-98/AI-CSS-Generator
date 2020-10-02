@@ -1,0 +1,3 @@
+  color: #000000;
+    color: #acacac;
+    font-size: 0.875rem;

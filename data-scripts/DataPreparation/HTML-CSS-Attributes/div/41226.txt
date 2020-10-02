@@ -1,0 +1,13 @@
+	overflow:hidden;
+	padding:36px 0 32px 0;
+	display:block;
+	width:465px;
+	float:left;
+	font-size:24px;
+	line-height:30px;
+	color:#4d4d4d;
+	text-transform:uppercase;
+	text-align:right;
+	margin-left:20px;
+	margin-top:-6px;
+	font-weight:normal;

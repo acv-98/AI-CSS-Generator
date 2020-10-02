@@ -1,0 +1,9 @@
+  display: none;
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+	-ms-transform: none;
+	-webkit-transform: none;
+	transform: none;
+	width: 30px;

@@ -1,0 +1,21 @@
+ border-color: #CAD0D1;  border-color: #eeeeee;  #footer .recent-posts .hentry .text p  
+@media (max-width: 767px) {                                  
+    margin-top: 20px;
+    line-height: 20px;
+    margin-bottom: 10px;
+    position: relative;
+    margin-left: 70px;
+    min-height: 70px;
+	position: absolute;
+	top: 0;
+	left: 0;
+    float: left;
+    margin-right: 10px;
+    border: 1px solid #CFCFCF;
+    padding: 3px !important;
+    font-size: 12px;
+    color: #AB5705;
+    font-style: normal;
+    text-decoration: none;
+ font-size: 13px; .box-title {
+	margin-bottom: 55px;

@@ -1,0 +1,10 @@
+  font-size: 12px
+  margin-bottom: 107px;
+  margin-top: 55px;
+  font-weight: 700;
+  color: #363432;
+  background:#FE980F;
+  padding: 3px 15px;
+  float: left;
+  border: 1px solid #F7F7F0;
+  width: 100%;

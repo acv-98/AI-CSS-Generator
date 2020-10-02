@@ -1,0 +1,1 @@
+margin-bottom:13pxfloat:left; margin-right:13pxfloat:left; width:114px

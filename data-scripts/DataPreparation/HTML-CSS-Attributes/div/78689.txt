@@ -1,0 +1,2 @@
+display:block;display:table; content:"";clear:both;
+margin-bottom:50px; font-size:1.2rem;

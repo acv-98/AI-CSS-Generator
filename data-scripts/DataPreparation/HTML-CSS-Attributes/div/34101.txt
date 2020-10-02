@@ -1,0 +1,5 @@
+	float:left;
+	background:url(../images/vertical-line.jpg) no-repeat;
+	width:2px;
+	height:333px;
+	margin-top:38px;

@@ -1,0 +1,5 @@
+	float:right;
+	width:560px;
+	margin:0;
+	list-style-type:square;
+	list-style-position:inside;

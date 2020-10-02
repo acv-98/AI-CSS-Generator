@@ -1,0 +1,8 @@
+  float: left;
+  padding: 6em 0;
+  width: 25%;
+  background: rgba(0, 0, 0, 0.2);
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+    width: 100%;

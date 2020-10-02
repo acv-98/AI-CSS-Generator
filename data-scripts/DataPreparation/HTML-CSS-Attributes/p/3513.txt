@@ -1,0 +1,7 @@
+	display: block;
+	font-size: 14px;
+	line-height: 1.5em;
+	margin-bottom: 0.5em;
+	color: #665d4e;
+	float: left;
+	width: 520px;

@@ -1,0 +1,6 @@
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  -webkit-animation: fadeInDown 700ms ease-in-out 200ms both;
+  animation: fadeInDown 700ms ease-in-out 200ms both;
+    width: 350px;

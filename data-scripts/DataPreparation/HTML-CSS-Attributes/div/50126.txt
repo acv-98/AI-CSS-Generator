@@ -1,0 +1,1 @@
+height:29px; border-bottom:solid 1px #dedede; margin-left:-10px; margin-top:-10px; margin-bottom:8pxlist-style-type: none; font-family: georgia, sans-serif; text-transform: uppercase;float: left; border-right:solid 1px #dedede; height:29px; line-height: 29px; padding:0 7pxfloat: left; color:#232323; text-decoration: none;color:#ff0081

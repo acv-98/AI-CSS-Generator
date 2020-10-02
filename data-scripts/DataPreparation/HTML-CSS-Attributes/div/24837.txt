@@ -1,0 +1,1 @@
+height:1px; width:100%; background-color:#fff; color:#fff; opacity:0.1; position:relative; top:30px; z-index:1

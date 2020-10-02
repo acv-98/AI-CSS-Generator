@@ -1,0 +1,9 @@
+		font-size: 16px;
+		line-height: 24px;
+	margin-top: 50px;
+	margin-bottom:30px;
+    font-size: 18px;
+    font-family: 'big_johnregular';
+    line-height: 50px;
+	display:block;
+	

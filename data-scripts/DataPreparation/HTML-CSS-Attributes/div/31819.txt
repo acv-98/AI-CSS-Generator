@@ -1,0 +1,13 @@
+	background:url(../images/img-wrapper-bg.jpg) no-repeat 50% 0 #d92400;
+	border:1px solid #e46b00;
+	width:589px;
+	height:416px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	box-shadow:-2px 8px 5px rgba(0, 0, 0, .6);
+	-moz-box-shadow:-2px 8px 5px rgba(0, 0, 0, .6);
+	-webkit-box-shadow:-2px 8px 5px rgba(0, 0, 0, .6);
+	z-index:10;
+	overflow:hidden;
+	margin:9px 0 0 9px;
