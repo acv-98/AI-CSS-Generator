@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AI-CSS-Generator/static/css/main.f3b3cb8c.chunk.css",
+    "main.js": "/AI-CSS-Generator/static/js/main.4e31d655.chunk.js",
+    "main.js.map": "/AI-CSS-Generator/static/js/main.4e31d655.chunk.js.map",
+    "runtime-main.js": "/AI-CSS-Generator/static/js/runtime-main.94a345bf.js",
+    "runtime-main.js.map": "/AI-CSS-Generator/static/js/runtime-main.94a345bf.js.map",
+    "static/css/2.74189dbb.chunk.css": "/AI-CSS-Generator/static/css/2.74189dbb.chunk.css",
+    "static/js/2.302faa84.chunk.js": "/AI-CSS-Generator/static/js/2.302faa84.chunk.js",
+    "static/js/2.302faa84.chunk.js.map": "/AI-CSS-Generator/static/js/2.302faa84.chunk.js.map",
+    "index.html": "/AI-CSS-Generator/index.html",
+    "precache-manifest.f23b7b9e2f4c1c7026d5e8a850922edd.js": "/AI-CSS-Generator/precache-manifest.f23b7b9e2f4c1c7026d5e8a850922edd.js",
+    "service-worker.js": "/AI-CSS-Generator/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/AI-CSS-Generator/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.f3b3cb8c.chunk.css.map": "/AI-CSS-Generator/static/css/main.f3b3cb8c.chunk.css.map",
+    "static/js/2.302faa84.chunk.js.LICENSE.txt": "/AI-CSS-Generator/static/js/2.302faa84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94a345bf.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.302faa84.chunk.js",
+    "static/css/main.f3b3cb8c.chunk.css",
+    "static/js/main.4e31d655.chunk.js"
+  ]
+}
