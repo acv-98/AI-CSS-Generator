@@ -1,0 +1,9 @@
+  position: relative;
+  top: 3.125rem;
+  left: 60%;
+  width: 80%;
+  height: 0.0625rem;
+  background: rgba(255, 255, 255, 0.2);
+  content: " ";
+  margin-top: -.03125rem;
+    display: none;

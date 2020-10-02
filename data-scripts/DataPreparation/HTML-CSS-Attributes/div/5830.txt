@@ -1,0 +1,8 @@
+	margin: 0 0 7px 0;
+	float:left;
+	width:790px;
+	height:460px;
+	padding:0;
+	list-style:none;
+	filter:alpha(opacity=80);
+	opacity:0.8;

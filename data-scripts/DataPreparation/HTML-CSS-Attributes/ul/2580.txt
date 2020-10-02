@@ -1,0 +1,20 @@
+    direction: rtl;
+    padding-right: 15px;
+    position: relative;
+    content: "\f02b";
+    font-family: 'FontAwesome';
+    top: 0px;
+    right: 0px;
+    color: #e74c3c;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    height: 100%;
+    width: 1px;
+    background: #e74c3c;
+    display: none;
+    padding-left: 15px;
+    left: 0px;
+background:#fff;font-family:Lato,Belgrano,sans-serif;font-size:16px;-webkit-font-smoothing:subpixel-antialiased!important;-moz-font-smoothing:subpixel-antialiased!important;-ms-font-smoothing:subpixel-antialiased!important;-0-font-smoothing:subpixel-antialiased!important;text-rendering:optimizeLegibility!important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-overflow-scrolling:touch;-moz-overflow-scrolling:touch;-ms-overflow-scrolling:touch;-o-overflow-scrolling:touch;overflow-scrolling:touch

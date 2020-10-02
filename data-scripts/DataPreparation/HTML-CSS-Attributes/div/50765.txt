@@ -1,0 +1,9 @@
+	width:278px;
+	height:193px;
+	background:url('images/quote-bg.gif') 0 0 no-repeat;
+	margin-top:12px;
+	color:#646464;
+	font-style:italic;
+	line-height:25px;
+	padding:21px 0 0 59px;
+	overflow:hidden;

@@ -1,0 +1,6 @@
+ border-color: #cfcfcf;  max-width: 100%;  float:left; 	border: 1px solid #CFCFCF;
+	display: block;
+	margin-bottom: 10px;
+	overflow: hidden;
+	padding: 5px;
+	position: relative;

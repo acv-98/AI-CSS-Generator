@@ -1,0 +1,4 @@
+	line-height:22px;
+	padding-left:12px;
+	color:#0f3569;
+	background:url(../images/marker_3.gif) 0 5px no-repeat;

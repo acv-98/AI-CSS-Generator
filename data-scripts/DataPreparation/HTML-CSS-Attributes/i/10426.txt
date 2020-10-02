@@ -1,0 +1,6 @@
+	width: 20px;
+	height: 20px;
+	float:left;
+	background: url(../images/img-sprite.png)  -10px -102px;
+	vertical-align: middle;
+	margin:0px 6px 6px 0px;

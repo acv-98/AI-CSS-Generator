@@ -1,0 +1,4 @@
+ width: 220px; 		.work .gallery {
+			background: url("../images/works/gallery-shadow.png");
+			padding-bottom: 8px;
+			width: 480px;

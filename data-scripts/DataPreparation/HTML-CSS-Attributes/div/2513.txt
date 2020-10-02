@@ -1,0 +1,8 @@
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #41454f;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  opacity: .4;
+  margin-bottom: 20px;

@@ -1,0 +1,15 @@
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 1px solid #eee;
+  padding-left: 0;
+  list-style: none;
+  text-align: center;
+  display: inline;
+  background-color: #fff;
+  border-radius: 15px;
+  text-decoration: none;
+  float: right;
+  color: #999;
+  cursor: not-allowed;
+  content: " ";
+  clear: both;

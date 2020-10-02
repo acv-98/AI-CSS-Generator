@@ -1,0 +1,9 @@
+	width:870px;
+	margin:0 auto;
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+	text-align:left;
+	background:none;

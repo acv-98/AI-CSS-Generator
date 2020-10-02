@@ -1,0 +1,2 @@
+    background: #993333;
+    border-color: #993333;

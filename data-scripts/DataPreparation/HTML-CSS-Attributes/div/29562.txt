@@ -1,0 +1,5 @@
+  font-style: italic;
+  font-size: 24px;
+  color: #323045;
+  line-height: 48px;
+  padding-top: 11px;

@@ -1,0 +1,7 @@
+	display: block;
+	padding: 1em 0;
+	float: left;
+	width: 64px;
+	height: 80px;
+	margin-right: 20px;
+	font-size: 13px;

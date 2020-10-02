@@ -1,0 +1,5 @@
+    padding-right: 10px;
+    font-size: 13px;
+    font-family: 'Roboto Slab', serif;
+    color: #f65aa7;
+        margin-top:20px;

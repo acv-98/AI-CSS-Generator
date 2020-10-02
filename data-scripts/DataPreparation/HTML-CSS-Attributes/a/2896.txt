@@ -1,0 +1,15 @@
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  text-decoration: none;
+  display: block;
+    margin-left: -15px;
+  color: #777;
+  background-color: transparent;
+	font-size: 22px;
+	color: #eee;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 1px;

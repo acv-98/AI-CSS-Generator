@@ -1,0 +1,14 @@
+	float:left;
+	margin-right:20px;
+	color: #74D7E1;
+	display:block;
+	padding: 33px 15px;
+	text-transform: uppercase;
+	font-size: 0.925em;
+	font-weight: 600;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+		margin-right: 9px;
+		display:none;

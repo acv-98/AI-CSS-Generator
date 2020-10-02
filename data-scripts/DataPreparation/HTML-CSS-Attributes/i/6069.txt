@@ -1,0 +1,5 @@
+	height: 34px;
+	width: 40px;
+	float: left;
+	background: url(../images/img-sprite.png)no-repeat -111px -123px;
+	margin-right: 2%;

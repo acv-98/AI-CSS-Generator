@@ -1,0 +1,5 @@
+	font-size:11px;
+	line-height:16px;
+	color:#94b0d2;
+	padding-bottom:2px;
+	float:left;

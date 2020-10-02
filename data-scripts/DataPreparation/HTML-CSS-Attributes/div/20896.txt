@@ -1,0 +1,3 @@
+	border-top: none;
+	padding: 0px;
+	border-left: none;

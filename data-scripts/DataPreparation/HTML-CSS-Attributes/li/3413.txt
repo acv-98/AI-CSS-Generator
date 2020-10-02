@@ -1,0 +1,7 @@
+background-color:#424242;
+	line-height:31px;
+	background-color:#f67c05;
+	background-position:0 20px;
+	border-radius:2px;
+	background-image:url(../images/skills.png);
+	background-repeat:no-repeat;

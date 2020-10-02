@@ -1,0 +1,1 @@
+background: url(../img/shadow.png) no-repeat center;

@@ -1,0 +1,10 @@
+	width:23.0%;
+		width: auto;
+		float: none;
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-left: 20px;
+		padding-right: 20px;
+	margin-bottom: 2%;
+ margin-bottom: 0;
+font-size:1.3em;

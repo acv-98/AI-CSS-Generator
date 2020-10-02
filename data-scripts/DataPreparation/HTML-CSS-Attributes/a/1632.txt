@@ -1,0 +1,18 @@
+	display:inline-block;
+	color:#fff;
+	background:url(../images/button1_bg.gif) 0 0 repeat-x;
+	line-height:40px;
+	text-decoration:none;
+	cursor:pointer
+	padding:0 25px;
+	height:42px
+	background-position:bottom
+	float:right;
+	background-image:url(../images/button2_bg.gif);
+	font:14px Tahoma, Geneva, sans-serif;
+	padding-right:14px;
+	font-weight:normal;
+	width:116px;
+	text-align:center
+	margin-left:8px;
+	margin-top:15px

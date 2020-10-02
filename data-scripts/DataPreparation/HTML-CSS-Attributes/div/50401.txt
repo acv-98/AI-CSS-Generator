@@ -1,0 +1,17 @@
+	width:888px;
+	height:251px;
+	border:5px solid #6ca4c4;
+	position:relative;
+	padding:0 0 45px 0;
+	font-size:28px;
+	line-height:28px;
+	color:#356aa0;
+	background:url(images/btn-more.gif) no-repeat 0 0;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:none;
+	display:block;
+	left:0;
+	bottom:0;
+	border-bottom:1px dotted #6a5353;
+	margin:0 0 10px 0;

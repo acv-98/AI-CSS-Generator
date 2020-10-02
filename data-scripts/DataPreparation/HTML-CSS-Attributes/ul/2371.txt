@@ -1,0 +1,7 @@
+	margin:0;
+	padding:0;
+	list-style:none;
+	display:block;
+	color:#aeaeae;
+	text-decoration:none;
+	background:url(../images/li.gif) no-repeat left center;

@@ -1,0 +1,2 @@
+ position:relative; z-index:1; color:#fff;.footer_item {
+    margin-top: 75px;

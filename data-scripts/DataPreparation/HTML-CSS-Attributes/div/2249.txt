@@ -1,0 +1,4 @@
+	background:url(../images/newstwo.jpg) right center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	

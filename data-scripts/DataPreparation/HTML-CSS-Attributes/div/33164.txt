@@ -1,0 +1,6 @@
+margin: 0 -20px !important; padding: 30px 20px !important; padding-bottom: 0 !important;width: 100% !important;font-size: 34px !important; line-height: 38px !important;font-size: 24px !important; line-height: 30px !important;margin-bottom: 30px !important;font-size: 22px !important; line-height: 28px !important;font-size: 24px !important; line-height: 30px !important;font-size: 20px !important; line-height: 26px !important;font-size: 20px !important; line-height: 26px !important; padding-bottom: 10px !important;display: block;	float: left; width: 100%;
+.grid li {
+	display: block;
+	
+	width: 100%;
+background: #bcbcbc; padding-top: 60px; text-align: center; padding-bottom: 50px; border-bottom: 5px solid #2d6e84;font-size: 44px; color: #2d6e84; text-transform: uppercase;font-size: 34px; color: #2d6e84; font-family: 'source_sans_prolight'; text-align: center;text-align: left;padding-top: 40px; font-size: 24px; color: #2d6e84; font-family: 'fjalla_oneregular'; text-transform: uppercase; padding-bottom: 15px;color: #44535a; font-size: 16px; line-height: 24px; font-family: 'source_sans_proregular';display: inline-block;

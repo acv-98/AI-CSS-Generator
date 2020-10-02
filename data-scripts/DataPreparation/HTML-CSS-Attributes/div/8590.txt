@@ -1,0 +1,11 @@
+	padding-left: 340px;
+	width: 100%;
+	box-sizing: border-box;
+	float: none;
+ padding-left: 0;  padding: 30px; 	.banner-main-home img {
+		display: block;		
+		float: none;
+		margin: 50px auto;
+		padding-top: 50px;
+		padding-left: 0;
+		width: 100%;

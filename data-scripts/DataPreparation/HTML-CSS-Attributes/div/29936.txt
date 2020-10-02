@@ -1,0 +1,15 @@
+	float:left;
+	display:inline;
+	width:284px;
+	height:207px;
+	background:url(images/slider-left-bg.gif) no-repeat 0 0;
+	color:#fff;
+	padding:18px 20px 0 20px;
+	font-size:20px;
+	font-weight:normal;
+	margin-bottom:13px;
+	line-height:18px;
+	font-family:Arial;
+	text-align:center;
+	background-position:0 bottom;
+	text-decoration:none;

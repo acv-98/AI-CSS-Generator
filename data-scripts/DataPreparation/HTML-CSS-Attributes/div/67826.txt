@@ -1,0 +1,10 @@
+	  	position: relative;
+	  	left: 0;
+	  	margin: 0;
+		font-size: 14px;
+  position: absolute;
+  left: 20%;
+  max-width: 560px;
+  width: 100%;
+  text-decoration: underline;
+  line-height: 20px;

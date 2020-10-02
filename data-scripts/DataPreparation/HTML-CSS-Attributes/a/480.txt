@@ -1,0 +1,6 @@
+	position: absolute;
+	top: 0;
+	right: -30px;
+	width: 30px;
+	height: 28px;
+	background:  url(images/menu_right_last.png) top right no-repeat;

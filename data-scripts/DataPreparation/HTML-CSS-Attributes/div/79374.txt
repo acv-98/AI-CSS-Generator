@@ -1,0 +1,6 @@
+	z-index: 999;
+	padding: 0px 0 0;
+	background-color: #e7e6d4;
+	position: relative;
+	padding-left: 73px;
+    font-family: 'Marvel', sans-serif;

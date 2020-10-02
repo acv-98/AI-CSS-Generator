@@ -1,0 +1,17 @@
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 22px;
+        font-size: 14px;
+        line-height: 25px;
+    max-width: 280px;
+    display: block;
+    margin: 10px auto;
+    position: relative;
+    margin-bottom: 60px;
+    padding: 0;
+    content: "";
+    width: 60px;
+    height: 4px;
+    background: #0176fe;
+    border-radius: 0;

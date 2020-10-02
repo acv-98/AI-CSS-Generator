@@ -1,0 +1,12 @@
+  content: "";
+  display: table;
+  clear: both;
+  margin-bottom: 1.65em;
+  float: left;
+  margin-left: 3%;
+  width: 89.7%;
+    width: 100%;
+    float: none;
+    margin-left: 0;
+    margin-bottom: 1.65em;
+-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box

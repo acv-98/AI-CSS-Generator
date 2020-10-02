@@ -1,0 +1,5 @@
+	display: inline-block;
+	margin: 1.2em 0.3em;
+	width:30px;
+	height:30px;
+		margin: 1.2em 0em;

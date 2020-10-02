@@ -1,0 +1,6 @@
+    color: white;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+        position: relative;
+        z-index: 1000;

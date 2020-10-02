@@ -1,0 +1,8 @@
+    font-size: 28px;
+    line-height: 1.1em;
+  color: #444444;
+  display: block;
+  font-family: 'Voltaire', Arial, sans-serif;
+  text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.1);
+  margin-top: 14px;
+  margin-bottom: 21px;

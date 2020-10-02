@@ -1,0 +1,23 @@
+  margin-top: 16px;
+  padding-left: 21px;
+  padding-right: 21px;
+	font-size: 0;
+	line-height: 0;
+	text-align: right;
+	padding-top: 45px;
+	margin: 0;
+	padding-left: 0;
+	padding-right: 0;
+	min-width: 86px;
+	display: inline-block;
+	
+	margin-left: 21px;
+		padding-bottom: 0;  
+    font-size: 14px;
+    line-height: 20px;
+    color: #737272;
+    display: inline-block;
+    background-color: #e5e5e5;
+    padding: 5px 26px 4px;
+    margin-top: 28px;
+    border-radius: 8px;

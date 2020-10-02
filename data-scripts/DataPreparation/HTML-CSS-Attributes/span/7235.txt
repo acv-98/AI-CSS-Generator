@@ -1,0 +1,7 @@
+	background: url(../images/icon-article.png) no-repeat center center;
+	text-indent: -99999px;
+	display: inline-block;
+	width: 11px;
+	line-height: 1;
+	background-image: url(../images/icon-video.png);
+	background-position: center bottom;

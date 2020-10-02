@@ -1,0 +1,3 @@
+	overflow: hidden;
+	height: 5px;
+	background: url(images/divider3-bg.png) repeat-x left top;

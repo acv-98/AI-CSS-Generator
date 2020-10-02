@@ -1,0 +1,8 @@
+     margin: 13px 0;
+     float: left;
+     padding: 10px 0;
+     border-right: none;
+     border-left: none;
+     font-size: 18px;
+     color: #666;
+     width: 100%;

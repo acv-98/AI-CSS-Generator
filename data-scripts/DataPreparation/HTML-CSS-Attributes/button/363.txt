@@ -1,0 +1,11 @@
+        line-height: 22px;
+    background: #95e1d3;
+    border: 0px solid #95e1d3;
+    color: #fff;
+    padding: 5px 10px;
+    margin-left: -4px;
+    border-radius: 0px 4px 4px 0px;
+    height: 34px;
+    outline: none;
+    font-size: 13px;
+    width:35%;

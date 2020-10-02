@@ -1,0 +1,21 @@
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	background: url(../images/hover-list.png) repeat-x;
+	cursor: pointer;
+	height: 50px;
+	margin-bottom: 1px;
+border: 2px solid white; float: left; margin-right: 8pxcolor:#333#footer h4 {font-weight: bold; margin-bottom: 8px; padding: 5px; background: #dfdfdf; color:#666;
+    -moz-border-radius-topleft: 5px;
+	-khtml-border-radius-topleft: 5px;
+	-webkit-border-top-left-radius: 5px;
+    -moz-border-radius-topright: 5px;
+	-khtml-border-radius-topright: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-khtml-border-radius-bottomright: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	-khtml-border-radius-bottomleft: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+border: 2px solid white; float: left; margin-right: 8pxcolor:#333border: 2px solid white; float: left; margin-right: 8pxcolor:#0a6a86

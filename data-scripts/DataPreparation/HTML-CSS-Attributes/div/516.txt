@@ -1,0 +1,12 @@
+	float:left;
+	width:468px;
+	text-align:right;
+	font-family: 'Holtwood One SC', serif;
+	font-weight:bold;
+	color:#b09609;
+	font-size:21px;
+	line-height:26px;
+	letter-spacing:-1px;
+	padding-top:7px;
+	display:block;
+	margin-top:-3px;

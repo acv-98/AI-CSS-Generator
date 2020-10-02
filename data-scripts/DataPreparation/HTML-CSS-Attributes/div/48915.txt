@@ -1,0 +1,7 @@
+	float:left;
+	width:300px;
+	padding-top:46px;
+	padding-left:30px;
+	background-image:url(../images/light.png);
+	background-repeat:no-repeat;
+	background-position:center 4px;

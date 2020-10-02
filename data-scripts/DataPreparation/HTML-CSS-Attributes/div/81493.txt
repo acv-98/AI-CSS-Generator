@@ -1,0 +1,6 @@
+  margin-right: -.9375rem;
+  margin-left: -.9375rem;
+  display: table;
+  clear: both;
+  content: "";
+    margin-bottom:0;

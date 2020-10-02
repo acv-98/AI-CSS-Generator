@@ -1,0 +1,14 @@
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  color: inherit;
+  border-top-width: 0;
+  background-color: #f5f5f5;
+  border-color: #ddd;
+  border-top-color: #ddd;
+  position: absolute;
+  top: 1px;
+  border-right-width: 0px;
+  right: 16px;
+  padding-top: 6px;

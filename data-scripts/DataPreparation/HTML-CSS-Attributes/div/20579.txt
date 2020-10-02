@@ -1,0 +1,4 @@
+    padding-top:10px;
+    margin-bottom:3px;
+    font-size:13px;
+    margin-right:10px;

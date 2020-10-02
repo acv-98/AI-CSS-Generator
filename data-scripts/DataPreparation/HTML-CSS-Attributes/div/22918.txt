@@ -1,0 +1,12 @@
+  background: #fff;
+  border-top: 0;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 1px;
+  border-color: #ddd;
+  border-style: solid;
+  padding: 20px 30px;
+  font-size: 0.9em;
+  width: 100%;
+  line-height: 28px;
+  font-weight: 600;

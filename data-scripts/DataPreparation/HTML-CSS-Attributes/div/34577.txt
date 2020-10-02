@@ -1,0 +1,17 @@
+  bottom: -100%;
+  width: 100%;
+   text-align:center;
+  margin:0 auto;
+  top: 800px;
+  z-index: 6;
+  -webkit-transition-property: bottom top;
+  -moz-transition-property: bottom top;
+  -ms-transition-property: bottom top;
+  -o-transition-property: bottom top;
+  transition-property: bottom top;
+  margin-top:30px;
+  -webkit-transition-duration: 4s;
+  -moz-transition-duration: 4s;
+  -ms-transition-duration: 4s;
+  -o-transition-duration: 4s;
+  transition-duration: 4s;

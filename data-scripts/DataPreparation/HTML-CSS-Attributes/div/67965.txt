@@ -1,0 +1,10 @@
+	margin:0 auto;
+	padding:25px 0 70px 0;
+	width:960px;
+	color:#2a4f5e;
+	font-size:26px;
+	text-align:center;
+	text-transform:uppercase;
+	line-height:24px;
+	overflow:hidden;
+	float:left;

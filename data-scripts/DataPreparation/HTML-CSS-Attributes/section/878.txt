@@ -1,0 +1,16 @@
+ margin-top: 365px; 
+.content {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: 0;
+ max-width: 900px; .content-text {
+	background-color: white;
+	padding: 40px;
+ padding-top: 10px; .content-text-gallery {
+	position: relative;
+	height: auto;
+	min-height: 200px;
+ margin: 0 0 0 auto; 	.content-wrapper { 
+		margin-top: 30px; 
+		margin-bottom: 30px;		
+ position: static;  padding: 30px 25px;  padding: 5px; 

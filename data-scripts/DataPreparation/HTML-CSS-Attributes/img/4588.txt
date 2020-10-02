@@ -1,0 +1,7 @@
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  display: block;
+  overflow: hidden;
+  padding-bottom: 3rem;
+  margin-top: 2rem;

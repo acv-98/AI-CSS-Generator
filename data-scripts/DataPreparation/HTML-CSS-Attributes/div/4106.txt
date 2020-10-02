@@ -1,0 +1,2 @@
+height:180px;height:30px;
+min-height:180px; height:auto;padding:7px; background:url("../design/input.gif") 0 0 no-repeat; font:100%/1 "arial",sans-serif;border:1px solid #afafaf; background-color:#fff;

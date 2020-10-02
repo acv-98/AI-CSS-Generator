@@ -1,0 +1,17 @@
+	bottom: 0;
+	display: block;
+	position: absolute;
+	width: 100%;
+	padding: 10px 20px;
+	color: #fff;
+	background: #000;
+    height: 100%;
+    background: transparent;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    text-shadow: none;
+    left: 0;
+    padding: 0;
+	content: " ";
+	height: 100%;

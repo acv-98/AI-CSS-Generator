@@ -1,0 +1,3 @@
+	padding: 14px 16px 37px 10px;
+	background: url('images/dropdown_icon.png') no-repeat 99% 21px;
+	border-bottom: none;

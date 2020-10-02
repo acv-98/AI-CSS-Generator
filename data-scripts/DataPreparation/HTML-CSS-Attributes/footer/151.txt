@@ -1,0 +1,15 @@
+        float: none;
+        margin-top: 70px;
+        padding: 0;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        font-size: 10px;
+        margin-right: 12px;
+    background: #061e37 none repeat scroll 0 0;
+footer.footer .footer_first_menu ul {
+    display: inline;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    color: #a4a8ac;
+    text-decoration: none;
+footer.footer .footer_last_menu ul {

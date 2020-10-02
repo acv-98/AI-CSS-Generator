@@ -1,0 +1,10 @@
+  display: inline;
+  float: left;
+  padding: 20px 0;
+  width: 100%;
+  font-size: 25px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  height: 60px;
+  border: 1px solid #ccc;
+  color: #ff6600;

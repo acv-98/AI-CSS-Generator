@@ -1,0 +1,9 @@
+	width:214px;
+	height:40px;
+	display:block;
+	position:absolute;
+	color:#669933;
+	background:url("../images/sprite.gif");
+	background-repeat:no-repeat;
+	background-position:200px -228px;
+	text-shadow:#ffffff 2px 0px 1px;

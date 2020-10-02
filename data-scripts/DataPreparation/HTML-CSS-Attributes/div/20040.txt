@@ -1,0 +1,7 @@
+    opacity: 0;
+    -webkit-transition-property: opacity;
+    -moz-transition-property: opacity;
+    -o-transition-property: opacity;
+    transition-property: opacity;
+    left: 0;
+    z-index: 1;

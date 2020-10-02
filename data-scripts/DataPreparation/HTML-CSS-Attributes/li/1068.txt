@@ -1,0 +1,2 @@
+	background: none;
+	color: #FF0077;

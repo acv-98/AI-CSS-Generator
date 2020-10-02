@@ -1,0 +1,12 @@
+	width:auto;
+	height:auto;
+	color:#fff;
+	font-size:18px;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	cursor:pointer;
+	float:right;
+	margin:0;
+	padding:3px 10px;
+	background-color:#F77727;
+	border:none;

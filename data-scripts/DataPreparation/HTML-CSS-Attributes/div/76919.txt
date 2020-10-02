@@ -1,0 +1,10 @@
+        margin: 0 auto;
+        width: 100%;
+        font-size: 25px;
+        line-height: 28px;
+        margin-bottom: 13px;
+    margin-top: 115px;
+    padding-right: 135px;
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;

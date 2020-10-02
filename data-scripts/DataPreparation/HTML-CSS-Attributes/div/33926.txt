@@ -1,0 +1,11 @@
+	margin-bottom: 50px;
+-webkit-border-radius: 0; -moz-border-radius: 0; -o-border-radius: 0; border-radius: 0; -webkit-box-shadow: none; -moz-box-shadow: none; 
+-o-box-shadow: none;
+	font-family: "flexslider-icon"; 
+	font-size: 20px; 
+	display: inline-block; 
+	content: '\f001'; 
+ content: '\f002'; .post-quote blockquote {
+	color:#999;
+	font-style:italic;
+	line-height:1.6em;

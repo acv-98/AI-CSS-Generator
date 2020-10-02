@@ -1,0 +1,14 @@
+    bottom: 140px;
+    right: 40px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    background: #e3d1ad;
+    position: fixed;
+    font-weight: bold;
+    border-radius: 100%;
+    transition:all 500ms .2s;
+    cursor:pointer;
+    transform:scale(1.1);

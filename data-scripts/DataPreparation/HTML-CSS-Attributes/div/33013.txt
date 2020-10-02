@@ -1,0 +1,5 @@
+	padding-left:3.5%;
+ padding-left:0px;
+ margin:auto;
+ margin-top:5%;
+ margin-bottom:5%;

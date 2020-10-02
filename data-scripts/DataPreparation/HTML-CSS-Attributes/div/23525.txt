@@ -1,0 +1,2 @@
+display:table-cell;vertical-align: middle;
+margin-top: 30%;margin-top: 10%;

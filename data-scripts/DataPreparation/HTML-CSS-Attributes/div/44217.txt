@@ -1,0 +1,9 @@
+	font-size: 0;
+	line-height: 0;
+	text-align: right;
+	padding-top: 23px;
+	margin-top: 0 !important;
+	cursor: pointer;
+	margin-left: 27px;
+	padding-right: 0;
+		padding-bottom: 0;  

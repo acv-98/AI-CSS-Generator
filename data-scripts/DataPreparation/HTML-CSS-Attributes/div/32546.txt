@@ -1,0 +1,3 @@
+	background:#FFF;
+	overflow: auto;
+	margin-bottom: 20px;

@@ -1,0 +1,7 @@
+  color: #f6b20e;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0;
+  display: inline-block;
+  list-style: outside none none;
+  padding-right: 20px;

@@ -1,0 +1,9 @@
+	border: 0px;
+	background: none;
+	background-color: none;
+	font-size: 13pt;
+	color: #fff;
+	padding-top: 20px;
+	margin-right: 0px;
+	margin-left: 0px;
+display: block;

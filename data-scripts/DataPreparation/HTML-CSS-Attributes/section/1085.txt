@@ -1,0 +1,17 @@
+	background: url(../img/blog-title-bg2.png);
+	border-top: 1px solid #d0d0d0 !important;
+	border-bottom: 1px solid #d0d0d0 !important;
+	clear: both;
+	position: relative;
+	padding: 20px !important;
+	padding-bottom: 40px !important;
+	margin-bottom: 40px;
+	width: 600px;
+	top: 15px;
+	right: 10px;
+	border-left: 1px solid #d9d9d9;
+	padding-left: 10px;
+	height: 25px;
+	float: right;
+	overflow: hidden;
+	font-size: 25px;

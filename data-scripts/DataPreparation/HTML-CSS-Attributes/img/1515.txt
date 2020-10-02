@@ -1,0 +1,2 @@
+ background: url('../portfolios/libra/images/loading_660.gif') no-repeat center; 
+.section-portfolio-classic .work-thumbnail img.work-loading,

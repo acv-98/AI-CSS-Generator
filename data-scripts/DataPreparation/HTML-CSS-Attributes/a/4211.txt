@@ -1,0 +1,5 @@
+	font-size: 40px;
+	font-weight: bold;
+	margin: 0;
+	line-height: 40px !important;
+	padding-top: 6px;

@@ -1,0 +1,2 @@
+    font-style: italic;
+    color: #d858f0;

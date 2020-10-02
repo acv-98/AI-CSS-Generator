@@ -1,0 +1,14 @@
+	float:left;
+	overflow:hidden;
+	width:auto;
+	color:#e794c6;
+	font-size:14px;
+	font-weight:bold;
+	line-height:28px;
+	margin:0;
+	padding:0;
+	list-style:none;
+	display:block;
+	height:26px;
+	text-indent:-99999em;
+	background:url(../images/icons.gif) no-repeat 0 0;

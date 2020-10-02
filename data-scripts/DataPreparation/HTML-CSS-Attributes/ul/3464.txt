@@ -1,0 +1,15 @@
+     padding: 20px 0px;
+     width: 100%;
+     box-shadow: none;
+     -webkit-box-shadow: none;
+     margin: 0;
+     list-style: none;
+     display: block;
+     color: #222;
+     text-decoration: none;
+     font-size: 17px;
+     line-height: 30px;
+     font-weight: 600;
+     float: left;
+     margin-bottom: 5px !important;
+     text-transform: uppercase;

@@ -1,0 +1,2 @@
+ width:230px; background:#083266; padding:20px 20px 35px 20px; float:left; margin-bottom:25px;margin-bottom:20px; font-size:20px; font-weight:normal;
+CONTACT FORM CLASSS

@@ -1,0 +1,1 @@
+height:100px;text-align:center;border-bottom:1px solid #d2d0d0;margin:0 !important;padding:0 !important;line-height:4em;font-size:13px;font-size:4em;margin:0 !important;line-height:0.4em;text-align:center;padding:0;

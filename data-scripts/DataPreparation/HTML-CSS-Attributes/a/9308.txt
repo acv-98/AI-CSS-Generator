@@ -1,0 +1,1 @@
+   background: url('../images/social-media.png') 0 -2px no-repeat;

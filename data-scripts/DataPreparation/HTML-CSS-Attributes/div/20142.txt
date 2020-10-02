@@ -1,0 +1,4 @@
+    width: 100%;
+    display: block;
+    float: left;
+    margin-right: 10%;

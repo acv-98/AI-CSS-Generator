@@ -1,0 +1,5 @@
+    color: #999;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 400;
+    padding-right: 4px;

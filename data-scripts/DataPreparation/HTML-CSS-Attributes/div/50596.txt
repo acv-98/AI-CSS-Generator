@@ -1,0 +1,6 @@
+	list-style:none;
+	padding-top:5px;
+	border-bottom:1px dashed #e0e0e0;
+	background:url(images/li.gif) 2px 3px no-repeat;
+	color:#8f8f8f;
+	font-size:10px;

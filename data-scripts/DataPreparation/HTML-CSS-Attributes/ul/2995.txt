@@ -1,0 +1,10 @@
+	line-height:35px;
+	padding-left:20px;
+	list-style-type:none;
+	margin:0;
+	overflow:hidden;
+	float:left;
+	color:#5a534d;
+	display:block;
+	font-weight:bold;
+	text-decoration:none;

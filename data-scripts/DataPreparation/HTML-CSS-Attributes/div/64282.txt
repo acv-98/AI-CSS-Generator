@@ -1,0 +1,7 @@
+left:20%;top:-36px;display:none;    position: absolute;
+    top: -60px;
+    left: 20%;
+    min-height: 676px;
+    width: 359px;
+    background: url('../img/iphone-skeleton.png') no-repeat center center;
+    height: 445px;

@@ -1,0 +1,7 @@
+  color: #a5d549; 
+  margin-top: 10px;
+  display: inline-block;
+  height: 25px;
+  width: 40px;
+  margin-left: 15px;
+  font-size: 14px;

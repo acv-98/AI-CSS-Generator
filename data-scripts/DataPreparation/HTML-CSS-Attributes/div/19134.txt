@@ -1,0 +1,27 @@
+	color: #1baab9;
+  background: #1baab9;
+	border:2px solid #1baab9;
+	border-width:5px;
+	padding:0 15px 25px 20px;
+	float:right;
+	width:100%;
+ margin: 0; footer .widget .flickr-badge {
+    width: 100%;
+	margin: 0 2px 5px 0;
+	margin-bottom:30px;
+	list-style:none;
+	margin-left:0;
+	border-bottom:1px dotted #efefef;
+	padding-bottom:5px;
+	padding-left:24px;
+  background-image: url("../img/glyphicons-halflings.png");
+  background-repeat: no-repeat;
+	background-position: -456px -69px;
+	text-decoration:none;
+	overflow:hidden;
+	display:inline-block;
+	text-align:left;
+	font-weight:600;
+	font-size:11px;
+	margin-top:10px;
+		margin-bottom:20px;

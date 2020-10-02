@@ -1,0 +1,6 @@
+    top: 0;
+	position: relative;
+	top: 100px;
+	transition: top 0.3s ease-in-out;
+	color: #fff;
+	margin: 0;

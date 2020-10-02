@@ -1,0 +1,14 @@
+	background:url(images/box-bor.gif) no-repeat right 10px;
+	position:relative;
+	font-family:Georgia, Arial, sans-serif;
+	font-size:13px;
+	line-height:19px;
+	color:#747474;
+	text-transform:uppercase;
+	padding:0 0 5px 0;
+	bottom:0;
+	left:0;
+	margin:5px 5px 0 0;
+	width:320px;
+	min-height:210px;
+	height:auto !important;

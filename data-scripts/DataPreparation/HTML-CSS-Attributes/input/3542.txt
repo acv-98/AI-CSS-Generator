@@ -1,0 +1,8 @@
+	float: right;
+	width: 210px;
+	height: 20px;
+	border: none;	
+	color: #686868;
+	background: url(images/text_field.png) no-repeat;
+	margin: 0 0 5px 0;
+	padding: 4px 7px 0 5px;

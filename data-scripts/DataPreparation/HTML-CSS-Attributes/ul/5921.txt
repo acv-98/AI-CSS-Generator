@@ -1,0 +1,2 @@
+width: 100%; display: block;content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;display: block;height: 1%;
+display: block;margin:0; padding: 0;zoom: 1;background-image:url(../images/icons/sm_icons/round/icon-slideshare.png);

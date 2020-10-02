@@ -1,0 +1,12 @@
+	padding-top: 35px;
+	padding-bottom: 10px;
+	font-family: 'Droid Sans', sans-serif;
+    font-size: 16px;
+    color: #5d5d5d;
+    font-weight: bold;
+    text-align: left;
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 rgba(255,255,255,.7);
+ color: #5d5d5d;  color: #9d426b; .portfolio-box {
+	width: 255px;
+	margin: 40px 15px 0 15px;

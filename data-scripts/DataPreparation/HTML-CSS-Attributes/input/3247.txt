@@ -1,0 +1,16 @@
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: none;
+	outline: none;
+	background: #fff;
+	width: 100%;
+	margin: 0;
+	z-index: 10;
+	padding: 0px 46px 0px 0px;
+	font-family: inherit;
+	font-size: 20px;
+	color: #40A6CF;
+	-webkit-appearance: none;
+	-webkit-border-radius: 0px;
+		font-size: 16px;

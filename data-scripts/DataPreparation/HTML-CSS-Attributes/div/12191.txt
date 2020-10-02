@@ -1,0 +1,11 @@
+   width: 16.66667%;
+   float: left;
+   height: 72px;
+   margin-top: 12px;
+   -moz-border-radius: 100% 100% 100% 100%;
+	-webkit-border-radius: 100% 100% 100% 100%;
+	-khtml-border-radius: 100% 100% 100% 100%;
+	border-radius: 100% 100% 100% 100%;
+      float: none;
+      width: 72px;
+      margin: 0 auto 18px auto;

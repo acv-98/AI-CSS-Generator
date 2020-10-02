@@ -1,0 +1,3 @@
+	background:url(../images/beautiful-girl.jpg) no-repeat top center;
+	display:block;
+	height:524px;

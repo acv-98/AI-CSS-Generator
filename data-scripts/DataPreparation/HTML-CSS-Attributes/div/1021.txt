@@ -1,0 +1,11 @@
+	text-align: left;
+	font-size: 42px;
+	color: #00aeda;
+	font-weight: 400;
+	margin: 10px 0 10px 0;
+	line-height: 1.3;
+	text-decoration: none;
+	display: inline-block;
+	font-family:"Open Sans";
+		font-size: 19px;
+		font-family:"Open Sans";

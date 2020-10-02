@@ -1,0 +1,11 @@
+	border-top:1px solid #e4e9eb;
+	content: " ";
+	display: table;
+	clear: both;
+	-webkit-transform: translateX(0px);
+	-moz-transform: translateX(0px);
+	transform: translateX(0px);
+	opacity: 1;
+	-webkit-transition-delay: 0.2s;
+	-moz-transition-delay: 0.2s;
+	transition-delay: 0.2s;

@@ -1,0 +1,8 @@
+margin-bottom:50px !important;
+--- General sections
+.home-section {
+    padding-top: 120px;
+    padding-bottom: 110px;
+	display:block;
+    position:relative;
+    z-index:120;

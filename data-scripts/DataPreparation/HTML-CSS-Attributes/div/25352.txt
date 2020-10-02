@@ -1,0 +1,10 @@
+		width: 425px;
+		position: relative;
+		top: inherit;
+		right: inherit;
+		margin-top: 20px;
+    width: 630px
+    position: relative;
+    margin-bottom: 20px;
+    right: 0;
+    top: 3px;

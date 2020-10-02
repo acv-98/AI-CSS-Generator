@@ -1,0 +1,9 @@
+ border-color: #cfcfcf;  border-color: #cfcfcf; 	border-right: 0 none;
+	margin-right: 0;
+	background: url("../images/icons/socials/lastfm.png") no-repeat scroll 0 0 transparent;
+	border-bottom: medium none;
+	list-style-type: none;
+	padding: 0;
+	line-height: 20px;
+	min-height: 20px;
+ margin-right:0; padding-right:0 !important; border-right:0;  margin-bottom:0;  margin-top: 13px;  color: #AB5705  color: #000  padding: 0; margin-top: 0px; color: #828080;  line-height: 1.71em; 

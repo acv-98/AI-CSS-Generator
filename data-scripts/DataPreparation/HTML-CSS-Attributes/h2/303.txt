@@ -1,0 +1,5 @@
+  padding-bottom: 167px;
+  letter-spacing: 3.4px;
+    font-size: 48px;
+    line-height: 40px;
+    padding-bottom: 80px;

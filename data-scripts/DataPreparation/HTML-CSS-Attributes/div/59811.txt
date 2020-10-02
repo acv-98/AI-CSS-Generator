@@ -1,0 +1,11 @@
+  padding: 0px 0px;
+  display: inline-block;
+  border-top: 1px solid #dddddd;
+  padding-top: 30px;
+  margin: 10px 0px 40px 0px;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #272727;
+  float: left;

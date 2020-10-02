@@ -1,0 +1,3 @@
+	height:230px;
+	width:100%;
+	overflow:hidden

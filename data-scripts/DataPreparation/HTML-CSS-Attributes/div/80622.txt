@@ -1,0 +1,10 @@
+display:none;	#asyncslider_slides_nav li a {
+		width:9px;
+		height:9px;
+		background:url(../images/async/assets/bullets.png) no-repeat transparent;
+		float:left;
+		margin:0 0 0 2px;
+		position:relative;
+		z-index:1000000000;
+		display:block;
+display:none;display:block;

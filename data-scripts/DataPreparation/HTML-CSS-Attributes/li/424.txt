@@ -1,0 +1,1 @@
+margin-right:0width:89px; background:url(../images/btn_6.jpg) 0 0 no-repeat; width:89px; background:url(../images/btn_6_over.jpg) 0 0 no-repeat;

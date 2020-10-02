@@ -1,0 +1,13 @@
+	font-size: 1.8em;
+	color: #6F6F6F;
+	text-transform: uppercase;
+	margin: 1% 0% 2% 0%;
+	text-align: left;
+	font-weight: 600;
+	line-height: 1.8em;
+	margin-top:2em;
+		margin: 0em 0em;
+		font-size: 1.2em;
+		margin-top: 27px;
+		width:100%;
+		margin-bottom: 0em;

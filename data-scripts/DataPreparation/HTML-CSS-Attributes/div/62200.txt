@@ -1,0 +1,10 @@
+	padding-bottom:30px;
+	padding-left:10px;
+	padding-right:10px;
+	border-radius:6px;
+	background:#f4f4f4;
+	-webkit-transition: color 300ms, background-color 300ms;
+  -moz-transition: color 300ms, background-color 300ms;
+  -o-transition:  color 300ms, background-color 300ms;
+  transition:  color 300ms, background-color 300ms;
+	color: #0BA9F9;

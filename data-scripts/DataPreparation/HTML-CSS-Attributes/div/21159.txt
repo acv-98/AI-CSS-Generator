@@ -1,0 +1,9 @@
+	background-color:#8e4fa7;
+	margin-top:-20px;
+	position:relative;
+	z-index:9999;
+	-webkit-box-shadow:0 2px 20px 0 rgba(0,0,0,0.2);
+	box-shadow:0 2px 20px 0 rgba(0,0,0,0.2);
+	font-size:38px;
+	padding:45px 0;
+		margin-top: 20px;

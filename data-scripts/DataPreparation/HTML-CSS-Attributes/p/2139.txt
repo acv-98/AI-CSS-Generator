@@ -1,0 +1,2 @@
+	color: #AAAAAA;
+	font-weight: bold;

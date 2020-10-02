@@ -1,0 +1,15 @@
+	position: absolute;
+	font-size: 18px;
+	letter-spacing: 1px;
+	color: #FFF;
+	font-weight: 600;
+	background: #f7639a;
+	border: none;
+	top: 5px;
+	right: 5px;
+	bottom: 5px;
+	border-radius: 50px;
+	width: 150px;
+	text-align: center;
+	outline: none;
+	opacity: .8;

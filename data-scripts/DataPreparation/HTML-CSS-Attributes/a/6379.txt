@@ -1,0 +1,13 @@
+	height:31px;
+	float:left;
+	background:url('images/button-small.gif') no-repeat left 0;
+	padding:0 0 0 8px;
+	line-height:31px;
+	color:#727577;
+	font-size:11px;
+	cursor:pointer;
+	text-decoration:none;
+	font-weight:bold;
+	background-position:right 0;
+	font-style:normal;
+	padding-left:10px;

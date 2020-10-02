@@ -1,0 +1,10 @@
+	padding:10px 10px 10px 30px;
+	border:1px solid #6AB3FF;
+	background-color:#A3D0FF;
+	background-image:url(img/info.png);
+	background-repeat:no-repeat;
+	background-position: 8px 11px;
+		background-image:url(img/info.png) !important;
+		background-repeat:no-repeat !important;
+		background-position: 8px 11px !important;
+    display: inline-block;

@@ -1,0 +1,9 @@
+	display:block;
+	float:left;
+	background:url(../images/link1-bg.gif) left top repeat-x;
+	color:#383838;
+	text-decoration:none;
+	text-shadow:1px 1px 0 #eee;
+	padding:8px 15px 8px 15px;
+	font-weight:normal;
+	font-style:normal;

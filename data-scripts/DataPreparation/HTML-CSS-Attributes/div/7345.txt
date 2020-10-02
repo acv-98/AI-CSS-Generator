@@ -1,0 +1,2 @@
+width:1020px; margin:0 auto; overflow:hidden;width:1000px; float:left;font-family:"Trebuchet MS"; font-size:42px; color:#838d9d; text-transform:uppercase; padding-left:20px; padding-top:25px;
+BANNER CLASSES

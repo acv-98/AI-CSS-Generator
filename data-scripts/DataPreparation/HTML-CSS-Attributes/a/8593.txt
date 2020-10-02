@@ -1,0 +1,2 @@
+ background-color: #666666; .tm-btn-gray:hover,
+	background-color: #515050;	

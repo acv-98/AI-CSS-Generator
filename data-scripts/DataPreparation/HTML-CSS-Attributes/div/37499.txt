@@ -1,0 +1,7 @@
+  -ms-flex: 1;
+  flex: 1;
+  font-family: "OpenSans-Regular";
+  font-size: 16px;
+  color: #666666;
+  padding-right: 20px;
+  margin-bottom: 20px !important;

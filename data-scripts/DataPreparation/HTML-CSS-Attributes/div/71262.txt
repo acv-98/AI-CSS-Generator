@@ -1,0 +1,8 @@
+	margin:0px;
+	padding:0px;
+	display:inline;
+	border-right:1px solid #707070;
+	font:10px Tahoma, Arial, Helvetica, sans-serif;
+	color:#707070;
+	text-transform:uppercase;
+	text-decoration:none;

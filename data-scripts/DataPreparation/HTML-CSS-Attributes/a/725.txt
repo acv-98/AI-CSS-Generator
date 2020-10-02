@@ -1,0 +1,6 @@
+	text-decoration:none;
+	display:inline-block;
+	font-size:14px;
+	padding-right:8px;
+	background:right 8px no-repeat;
+	color:#fff;

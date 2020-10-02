@@ -1,0 +1,13 @@
+    color: #888;
+    border-top: 1px solid #DDD;
+    font-size: 14px;
+    margin: 0 0 15px 0;
+    margin-right: 5px;
+    list-style: none;
+    padding: 0;
+    border-bottom: 1px dotted #ccc;
+    float: left;
+    line-height: 18px;
+    font-weight: 200;
+    display: inline-block;
+    max-width: 150px;

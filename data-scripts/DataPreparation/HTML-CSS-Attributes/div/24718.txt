@@ -1,0 +1,4 @@
+	background:url(../images/bg_content.png) repeat;
+	padding:20px 46px 50px 49px;
+	overflow:hidden
+	padding-top:34px;

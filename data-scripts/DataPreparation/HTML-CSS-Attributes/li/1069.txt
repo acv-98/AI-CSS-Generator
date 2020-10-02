@@ -1,0 +1,2 @@
+  color: #00C7FC;
+  border-bottom: 1px solid #00C7FC;

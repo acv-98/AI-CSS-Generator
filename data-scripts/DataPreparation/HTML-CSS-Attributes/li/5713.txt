@@ -1,0 +1,11 @@
+  float: left;
+  display: inline-block;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  color: #636c72;
+  content: "/";
+  text-decoration: underline;
+    color: #a3a5a8 !important;
+    float: none;
+    font-size: 12px;
+    display: inline-block;

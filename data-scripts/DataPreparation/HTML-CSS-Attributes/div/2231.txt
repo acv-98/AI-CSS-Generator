@@ -1,0 +1,9 @@
+font-size: 6rem;
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+    line-height: 6rem;
+    margin:0px 0px 60px 0px;
+	padding:250px 0px 200px 0px;
+	width:70%;
+	margin:0 auto;
+	color:#fff;

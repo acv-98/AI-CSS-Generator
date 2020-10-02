@@ -1,0 +1,11 @@
+	display:block;
+	width:60px;
+	height:60px;
+	overflow:hidden;
+	text-align:center;
+	background:url(../images/time-bg.png) 0 0 no-repeat;
+	float:left;
+	margin:0px 21px 0 0;
+	font-size:9px;
+	line-height:1.2em;
+	color:#fff;

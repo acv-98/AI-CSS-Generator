@@ -1,0 +1,13 @@
+	margin:0;
+	padding:0;
+	background:#fafafa url(../images/fbg_bg.gif) repeat-x left top;
+	border-top:3px solid #e4e4e4;
+	width:960px;
+	color:#7e7c7c;
+	padding-bottom:24px;
+	float:left;
+	list-style:none;
+	display:block;
+	text-decoration:none;
+	line-height:1.8em;
+	font-weight:bold;

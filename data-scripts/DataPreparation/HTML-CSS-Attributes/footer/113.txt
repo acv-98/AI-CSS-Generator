@@ -1,0 +1,9 @@
+		font-size: 18px;
+	padding-top: 50px;
+	padding-bottom: 0px;
+	position: relative;
+	z-index: 1;
+	color: #ffffff;
+	text-transform: uppercase;
+	border-bottom: 1px dashed rgba(207, 166, 113, 0.5);
+	margin-bottom: 10px;

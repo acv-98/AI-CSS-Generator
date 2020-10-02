@@ -1,0 +1,11 @@
+		width: 80px;
+		height: 80px;
+		line-height: 80px;
+		font-size: 38px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	background: #009bb7;
+	position: relative;
+	z-index: 1;
+	color: #ffffff;

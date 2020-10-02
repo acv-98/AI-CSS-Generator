@@ -1,0 +1,7 @@
+	color:#202020;
+	font-size:78px;
+	margin:0;
+	margin-bottom:25px;
+	font-weight:300;
+		text-align:center;
+		padding:100px 0;

@@ -1,0 +1,4 @@
+    width: 46%;
+    display: inline;
+    float: left;
+    margin-left: 2%;

@@ -1,0 +1,12 @@
+    padding: 50px 10px 120px;
+    background: #8299cd;
+    z-index: 1;
+    overflow: hidden;
+    position: relative;
+    content: "";
+    width: 20%;
+    height: 100%;
+    border-radius: 50%;
+    top: 0;
+    left: -50px;
+    right: -50px;

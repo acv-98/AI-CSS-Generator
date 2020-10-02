@@ -1,0 +1,6 @@
+	margin-top:30px;
+	background:#bfd6e4;
+	border-bottom:2px solid #fff;
+	padding:10px;
+	color:#8295a0;
+	margin-bottom:-30px;

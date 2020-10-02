@@ -1,0 +1,18 @@
+  background-color: #555;
+  display: inline;
+  float: left;
+  height: 450px;
+  padding: 50px 30px;
+  width: 40%;
+  color: #fff;
+  margin-bottom: 20px;
+  line-height: 25px;
+  margin-top: 30px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+  text-align: center;
+    padding: 22px;
+    width: 45%;
+    line-height: 25px;
+    height: auto;

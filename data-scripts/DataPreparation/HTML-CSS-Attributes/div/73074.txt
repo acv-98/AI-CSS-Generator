@@ -1,0 +1,4 @@
+	height:312px;
+	background:url(../images/insidebanner.gif) left top no-repeat;
+	border-bottom:1px solid #ffffff;
+	margin:30px 0px 20px 0px;

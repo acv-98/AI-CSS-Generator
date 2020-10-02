@@ -1,0 +1,1 @@
+ color:#36240C; font:11px/17px verdana; float:left; margin-top:6px; width:250px;color:#36240C; text-decoration:none; 

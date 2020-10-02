@@ -1,0 +1,13 @@
+    border: 1px solid transparent;
+    border-radius: 3px;
+    position: relative;
+    content: '';
+    box-sizing: border-box;
+    top: 50%;
+    left: 50%;
+    width: 45px;
+    height: 45px;
+    margin-top: -10px;
+    margin-left: -10px;
+    border-top-color: #ffffff;
+    animation: spinner .9s linear infinite;

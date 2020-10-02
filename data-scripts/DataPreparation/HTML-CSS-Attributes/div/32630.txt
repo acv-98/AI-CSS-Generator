@@ -1,0 +1,2 @@
+ position:absolute; top: 250px; z-index: 30; background: url(images/slider-arr.png) no-repeat 0 0; width: 26px; height: 37px;  left: 10px; background-position:0 0;  right: 10px; background-position: right 0; 
+ background-image:url(images/slider-arr@2x.png); -webkit-background-size: 53px 37px; -moz-background-size: 53px 37px; background-size: 53px 37px; 

@@ -1,0 +1,4 @@
+ min-height: 950px; 
+.tm-white-bg {
+	background-color: white;
+	color: #676362;

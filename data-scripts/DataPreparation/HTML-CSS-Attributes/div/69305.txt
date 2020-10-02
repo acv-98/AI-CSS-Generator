@@ -1,0 +1,6 @@
+
+	6. PRODUCT
+.products {
+	padding: 40px 0px 60px 0px;
+	background: #fff;
+	position: relative;

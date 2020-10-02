@@ -1,0 +1,2 @@
+  background-position: 0 -24px;
+ content: "\f015"; 

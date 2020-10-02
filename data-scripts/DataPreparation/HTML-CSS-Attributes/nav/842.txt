@@ -1,0 +1,18 @@
+	padding: 20px;
+	background:transparent;
+         box-shadow:2px 2px 3px 3px rgba(0,0,0,0.3);
+         color:#fff;
+         -webkit-animation-duration:1s;
+         -moz-animation-duration:1s;
+         -ms-animation-duration:1s;
+                  
+text-transform: uppercase;
+font-size: 1.5em;
+font-weight: 900;
+	
+	color: #dfdfdf;
+	letter-spacing: 1px;
+        font-size:.79em;
+       //text-shadow:1px 0px rgba(0,0,0,0.5);
+       transition:all 1s ease-out;
+         //text-shadow:1px 0px rgba(0,0,0,0.5);

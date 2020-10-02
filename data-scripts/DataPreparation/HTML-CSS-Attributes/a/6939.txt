@@ -1,0 +1,6 @@
+	background-color: #fff;
+	color: #0091ea;
+	float: right;
+		padding: 15px 45px;
+		margin-top: 15px;
+		float: none;

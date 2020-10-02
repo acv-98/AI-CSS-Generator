@@ -1,0 +1,11 @@
+        text-align: center;
+    background: #f4f5f9;
+    width:70px;
+    height: 70px;
+    line-height: 70px;
+    color:#e74c3c;
+    position: relative;
+    z-index: 9;
+    border:5px solid rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+    font-size: 1.875rem;

@@ -1,0 +1,21 @@
+	background-color: white;
+	background-image: url(../images/banner-bg-home.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom right;
+	border-top: 7px solid #10a5cd;
+	min-height: 320px;	
+	overflow-y: auto;
+	float: right;
+	margin: 45px 0px;
+	height: auto;
+	padding-bottom: 80px; 	margin-top: 150px; 	.banner-main-home-text,
+	.banner-main-about-text {
+		width: 43%;
+		display: block;		
+		float: none;
+		margin: 50px auto;
+		padding-top: 50px;
+ overflow-y: auto; 	.banner-main-about img {
+	padding: 20px; 	.banner-main-home-text {
+		padding-right: 25px;

@@ -1,0 +1,4 @@
+	border-radius:0 0 11px 11px;
+	-moz-border-radius:0 0 11px 11px;
+	-webkit-border-radius:0 0 11px 11px;
+	behavior:url(../js/PIE.htc);

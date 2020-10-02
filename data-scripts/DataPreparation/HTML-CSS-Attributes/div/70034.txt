@@ -1,0 +1,3 @@
+	width:100%;
+	margin:0 auto;
+	background: url(../images/latest_divider.jpg) right top repeat-y;

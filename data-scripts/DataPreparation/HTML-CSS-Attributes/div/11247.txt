@@ -1,0 +1,6 @@
+	position:absolute;
+	bottom:-5px;
+	width:59px;
+	height:8px;
+	background:transparent url(../images/small-shadow.png) no-repeat;
+	z-index:-10000;

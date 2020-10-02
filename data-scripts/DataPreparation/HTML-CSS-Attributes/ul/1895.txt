@@ -1,0 +1,2 @@
+background-color:transparent !important;border:none !important;box-shadow:none !important;-moz-box-shadow:none !important;-webkit-box-shadow:none!important;background:url('images/icons/bullet/info.png') no-repeat center left;
+background:url("images/icons/message/info.png") no-repeat 15px center #e6ebf0;border:1px solid #89becd;color:#277dce;

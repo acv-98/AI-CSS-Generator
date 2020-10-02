@@ -1,0 +1,5 @@
+ padding: 0 5px; 	font-size: 0.8rem;	
+	padding: 0.75rem 0.75rem 0.75rem 45px;
+ width: 33.3333%;  width: 25%;  width: 900px; 		width: 33%; 
+		max-width: 215px;
+ width: 98%; max-width: 900px;  width: 50%; 

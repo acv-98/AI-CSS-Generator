@@ -1,0 +1,7 @@
+  width: 100%;
+  border-radius: 0;
+  text-align: left;
+  float: left;
+  display: block;
+  font-size: 20px;
+  color: #000000;

@@ -1,0 +1,5 @@
+		margin-left: 80px;
+    float:left;
+    font-size:13px;
+    color:#fff;
+    padding-right:10px;

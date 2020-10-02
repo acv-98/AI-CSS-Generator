@@ -1,0 +1,11 @@
+ color: #e1d3e4; 
+ color: #7a7e83;  color: #7a7e83;  color: #fbfaf7;  color: #e1d3e4; 	position: absolute;
+	right: 10px;
+	top: 15px;
+	padding-right: 33px;
+	font-size: 11px;
+	line-height: 26px;
+	font-style: italic;
+	color: #797e86;
+	background: url(../img/to-top.png) no-repeat top right;
+	cursor: pointer;

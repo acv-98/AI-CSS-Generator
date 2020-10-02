@@ -1,0 +1,1 @@
+ float:left; width:172px; margin:20px 1.06% 0;  width:97.872%;  width:47.872%;  width:31.206%;  width:22.872%;  width:17.872%; 

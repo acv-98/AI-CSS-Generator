@@ -1,0 +1,1 @@
+ padding:14px 0 0 9px; padding-bottom:28px; padding:37px 40px 20px 40px;

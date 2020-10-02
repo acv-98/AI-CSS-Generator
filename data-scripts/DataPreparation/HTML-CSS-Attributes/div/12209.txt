@@ -1,0 +1,9 @@
+ outline: none; .slides, .flex-control-nav,
+   position: relative;
+   zoom: 1;
+   margin: 0;
+   padding: 0;
+ zoom: 1;  position: relative;  display: none; -webkit-backface-visibility: hidden;  opacity: 1; .flex-direction-nav .flex-disabled {
+   opacity: .3 !important;
+   filter: alpha(opacity=30);
+   cursor: default;

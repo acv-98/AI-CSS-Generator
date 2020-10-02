@@ -1,0 +1,1 @@
+font:bold 29px Kozuka Gothic Pro, Myriad Pro, Arial, Helvetica, sans-serif;color:#92BBEB;padding:0 0px 15px 0px;margin:0px 0px 0px 0px;

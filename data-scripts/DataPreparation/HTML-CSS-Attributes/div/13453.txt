@@ -1,0 +1,2 @@
+    border-right: 0 none;
+    margin-right: 0;

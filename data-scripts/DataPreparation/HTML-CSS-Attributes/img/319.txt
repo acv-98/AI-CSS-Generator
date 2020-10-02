@@ -1,0 +1,3 @@
+        border:3px double #e1e1e1;
+        float:left;
+        margin-right:30px;

@@ -1,0 +1,8 @@
+  font-family: Arial, sans-serif;
+  color: rgba(255, 255, 255, 0.3);
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: .08em;
+  display: block;
+  margin-bottom: 10px;

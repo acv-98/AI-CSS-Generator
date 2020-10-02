@@ -1,0 +1,5 @@
+    background:url(../images/submit_button.png) 0 0 no-repeat;
+    border:0;
+    cursor:pointer;
+    width:33px;
+    height:30px;

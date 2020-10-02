@@ -1,0 +1,3 @@
+	background:#75cdd2;
+	padding:13px 15px;
+	color:#fff;

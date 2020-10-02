@@ -1,0 +1,7 @@
+	float: left;
+	margin-left: 330px;
+	margin-top: 25px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #727272;
+	text-decoration: none;

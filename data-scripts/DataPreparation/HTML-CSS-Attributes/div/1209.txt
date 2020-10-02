@@ -1,0 +1,6 @@
+    height: 450px;
+    position: absolute;
+    width: 50%;
+    background: #fff;
+        height: 380px;
+        width: 100%;

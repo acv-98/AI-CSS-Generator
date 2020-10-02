@@ -1,0 +1,4 @@
+    position: absolute;
+    left: -7px;
+    top: 12px;
+    background-image: url("../images/icons/for_button/arrow-left.png");

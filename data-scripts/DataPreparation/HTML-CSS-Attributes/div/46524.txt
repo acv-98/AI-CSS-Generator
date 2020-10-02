@@ -1,0 +1,5 @@
+	background:url(../images/plazmaboxmid.jpg) left top repeat-y;
+	float:left;
+margin:0px 0 0 0.plazmabottombg {
+	padding:7px 10px 5px 10px;
+	margin:0px;

@@ -1,0 +1,4 @@
+	margin:0 0 32px;
+	padding:0 20px 16px;
+	border:1px solid #ddd;
+	background:#fff url(../images/article_bg.gif) repeat-x left top;

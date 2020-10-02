@@ -1,0 +1,10 @@
+width:300px;
+float:left;
+margin:0px;
+padding:11px 0px 7px 68px;
+sborder:1px solid red;
+font-weight:bold;
+display:inline;
+border-right:1px solid #ffffff;
+	color:#cab3a1;
+	text-decoration:none;

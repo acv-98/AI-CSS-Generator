@@ -1,0 +1,1 @@
+margin: 10px 0 0 15px;border: none;background: #f3f3f3;font-size: 31px;.navbar-toggle 

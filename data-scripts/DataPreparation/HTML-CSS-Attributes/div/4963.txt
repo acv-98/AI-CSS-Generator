@@ -1,0 +1,1 @@
+ position: absolute;left:0px; top:150px; width:920px;font-family: 'Source Sans Pro', sans-serif;text-align:center; font-size:14px; color:#FFFFFF; font-size:30px; color:#FFFFFF; text-align:center; padding:0 200px;

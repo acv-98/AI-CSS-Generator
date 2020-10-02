@@ -1,0 +1,4 @@
+    background: url(../images/mapbg.jpg) no-repeat top center;
+    overflow: hidden;
+    background-size: cover;
+    position:relative;

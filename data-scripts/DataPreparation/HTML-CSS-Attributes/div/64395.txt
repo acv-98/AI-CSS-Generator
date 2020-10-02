@@ -1,0 +1,2 @@
+	background:url(../images/border-right.jpg) right top repeat-y;
+	width:100%;

@@ -1,0 +1,14 @@
+display:none !important;
+display:none !important;H1 {
+	font-family: Verdana;
+	font-style: bold;
+	font-weight: normal;
+	color: #222222;
+	display: block;
+	font-size: 20px;
+	margin-bottom: 10px;
+	line-height: 30;
+	text-align: left;
+	letter-spacing: 0px;
+ list-style:none; clear:both; margin:0 0 30px !important; background:url('images/bg/bg-accordion-slider.png') repeat-x; border:1px solid #e0dcdc; height:285px; overflow:hidden;  float:left; border-right:1px solid #fbfafa; border-left:1px solid #e4e4e4; margin:0; padding:0; display:inline; width:auto;  margin:0; padding:0; display:inline;  border-left:none;  border-right:none;  padding:12px; width:128px; float:left; cursor:pointer; border-left:1px solid #e4e4e4; ul.accordion-slider li:first-child .photo-preview, ul.accordion-slider li:first-child .handle,  
+ border-left:0;  display:none; position:relative;  margin:0; line-height:12px;  margin:0; font-size:14px; color:#4c4c4c; padding-left:0px;float:left;width:0px;height:285px;overflow:hidden;margin:12px 12px 12px 0;margin-top:0; border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px; 

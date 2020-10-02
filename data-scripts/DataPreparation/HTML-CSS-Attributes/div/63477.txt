@@ -1,0 +1,2 @@
+	background:url(images/image.jpg) no-repeat center top;
+	height:189px;

@@ -1,0 +1,12 @@
+		width: 359px;
+		position: relative;
+		text-align: right;
+		z-index: 2;
+margin-top: -58px;	.info-img:after{
+		border: 3px solid #cccccc;
+		content: "";
+		height: 476px;
+		left: 0;
+		top: 0;
+		display: block;
+		margin-left: -80px;

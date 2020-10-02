@@ -1,0 +1,6 @@
+   display: block;
+   margin-bottom: 12px;
+   margin-top: 12px;
+   margin-left: 3px;
+   height: 24px;
+   width: 92px;

@@ -1,0 +1,9 @@
+		margin-bottom:10px;
+	background:#61605f;
+	color:#fff;
+	width:130px;
+	height:130px;
+	border-radius:100%;
+	margin-right:20px;
+	padding-top:20px;
+	font-size:90px;

@@ -1,0 +1,4 @@
+	list-style:none;
+	margin-left:0;
+	display:inline;
+	text-decoration:none;

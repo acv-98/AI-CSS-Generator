@@ -1,0 +1,13 @@
+	overflow: hidden;
+	height: 34px;
+	border-top: 1px solid #eaeaea;
+	border-bottom: 1px solid #eaeaea;
+	padding-left:25px;
+	float: left;
+	line-height: 34px;
+	margin:9px 0 0 10px;
+	background:url("../images/sprite.png") no-repeat scroll -5px -50px transparent;
+	display:block;
+	width:16px;
+	text-indent: -999999px;
+	background-position: -5px -80px;

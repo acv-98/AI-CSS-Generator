@@ -1,0 +1,2 @@
+        margin-bottom: 30px;
+.main_accordion .single_accordion{

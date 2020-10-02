@@ -1,0 +1,10 @@
+   position: absolute;
+   top: 50%;
+   color: #fff;
+   font-size: 40px;
+   margin-top: -25px;
+ right: 5%; #testimonials .text-container {
+   width: 86%;
+      font-size: 30px;
+      margin-top: -25px;
+ font-size: 28px; 

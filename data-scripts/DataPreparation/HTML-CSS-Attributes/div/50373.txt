@@ -1,0 +1,14 @@
+	background:url(images/order-bg.gif) no-repeat 0 0;
+	width:153px;
+	height:269px;
+	margin:0 50px 0 0;
+	position:relative;
+	font-family:"Myriad Pro", Arial, sans-serif;
+	font-size:66px;
+	line-height:66px;
+	color:#fff;
+	letter-spacing:-5px;
+	padding:118px 0 34px 8px;
+	display:block;
+	left:20px;
+	bottom:13px;

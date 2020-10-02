@@ -1,0 +1,8 @@
+	width: 20%;
+	float: left;
+	margin-bottom: 20px;
+	padding-right: 0;
+	-webkit-filter: grayscale(0%);
+	filter: grayscale(0%);
+	opacity: 1;
+			width: 33.33% !important;

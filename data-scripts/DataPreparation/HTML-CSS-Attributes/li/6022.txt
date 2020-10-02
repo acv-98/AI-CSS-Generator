@@ -1,0 +1,21 @@
+  color: #777;
+  text-decoration: none;
+  cursor: not-allowed;
+  background-color: transparent;
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+    color: #ccc;
+    background-color: transparent;
+  border-color: #ddd;
+-webkit-tap-highlight-color:transparent;position:relative * Owl Carousel v2.2.1
+ * Copyright 2013-2017 David Deutsch
+ * Licensed under  ()
+text-align:center;-webkit-tap-highlight-color:transparent.owl-theme-01 .owl-nav [class*="owl-"] {
+    border: 1px solid #eaeaea;
+    border-radius: 0;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0 7px;
+    padding: 6px 15px;
+background-position:0 -96px;cursor:defaultbackground-position:-32px -96px;cursor:defaultbackground-position:0 -87px;cursor:defaultbackground-position:-22px -87px;cursor:default

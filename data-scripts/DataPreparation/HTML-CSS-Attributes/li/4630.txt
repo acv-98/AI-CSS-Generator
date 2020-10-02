@@ -1,0 +1,3 @@
+	text-decoration:none;
+	color:#d76002;
+	background:url(images/menu_li_hover.gif) no-repeat left center;

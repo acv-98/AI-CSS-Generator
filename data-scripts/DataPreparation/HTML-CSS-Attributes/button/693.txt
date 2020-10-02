@@ -1,0 +1,17 @@
+	background:url(../images/search-icon.png) no-repeat;
+	border:none;
+	cursor:pointer;
+	width:18px;
+	height:18px;
+   margin: 0;
+   padding: 0;
+   float: right;
+   position: relative;
+   top: -60px;
+   right: 18px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+   display: block;
+   margin-top: 12px;
+   text-transform: uppercase;
+ 	letter-spacing: 2px;

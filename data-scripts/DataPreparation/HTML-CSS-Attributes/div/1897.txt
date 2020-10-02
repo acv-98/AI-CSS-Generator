@@ -1,0 +1,1 @@
+  background: #ededed url(../img/bg_noise-bg.png) left top repeat;

@@ -1,0 +1,17 @@
+  margin-top: 50px;
+  font-size: 46px;
+  line-height: 50px;
+  color: #f6b20e;
+  padding-bottom: 15px;
+  position: relative;
+  border-bottom: 1px solid hsl(42, 93%, 51%);
+  bottom: 0;
+  content: "";
+  right: -60px;
+  width: 60%;
+  z-index: 1;
+  font-family: fontawesome;
+  top: 38px;
+  font-weight: 300;
+  left: -60px;
+  margin-top: 15px;  text-align: center;  display: none;  display: none;  line-height: 35px;  margin: 0 0 30px;  display: none;  display: none;  line-height: 35px;  margin-top: 15px;  text-align: center;  display: none;  display: none;  line-height: 35px;  margin: 0 0 30px;  display: none;  display: none;  line-height: 35px; margin-top: 20px;

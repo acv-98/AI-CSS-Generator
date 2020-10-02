@@ -1,0 +1,16 @@
+  color: #ffd500; 
+		background-position: top center;
+		float: none;
+		margin: 0 auto;
+		padding: 20px 0 5px 0;
+		text-align: center;
+  width: 100%;
+  height: 320px;
+  float: left;
+  max-width: 270px;
+  background: url(../img/employee-1.jpg) no-repeat;
+  padding:20px 0 0 330px;
+  font-weight: 700;
+  font-size: 16px;
+  margin-top: 0;
+  font-style: italic;

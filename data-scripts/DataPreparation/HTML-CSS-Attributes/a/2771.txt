@@ -1,0 +1,4 @@
+  border: 1px solid #ab0d0d;
+  color: #FFF;
+  background: none repeat scroll 0 0 #DA1111;
+  text-decoration: none;

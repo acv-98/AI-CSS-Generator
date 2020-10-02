@@ -1,0 +1,1 @@
+ height:auto; background:#000 margin:0 auto; width:700px; float:left; float:left; background:url(../images/bg1.jpg) repeat-x center; color:#ffffff; font-size:19px; list-style:none; height:60px; line-height:60px; padding:0px 10px 0px 10px; text-decoration:none; color:#ffffff; text-decoration:none; color:#446396;BANNER CLASSES

@@ -1,0 +1,18 @@
+	background: #000 url(../images/footer_bg.png) repeat-x top center;
+	height: 234px;
+	width: 100%;
+	display: block;
+	overflow: hidden;
+	color: #fff;
+	padding: 20px 0 0 0;
+	font-family: Georgia;
+	font-size: 18px;
+	line-height: 12px;
+	font-weight: normal;
+	list-style-type: none;
+	margin: 0 0 0 35px;
+	border-bottom: 1px solid #47535d;
+	clear: both;
+	font-style: italic;
+	float: left;
+	text-align: center;

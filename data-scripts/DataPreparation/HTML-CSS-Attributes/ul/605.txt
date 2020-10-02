@@ -1,0 +1,2 @@
+  border: 2px solid #b3b3b3;
+  background-color: rgba(0, 0, 0, 0.15) !important;

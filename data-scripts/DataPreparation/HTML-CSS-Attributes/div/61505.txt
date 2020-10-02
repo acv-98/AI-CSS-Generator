@@ -1,0 +1,8 @@
+padding-top: 80px; padding-bottom: 80px;
+.clear {
+	clear: both;
+	display: block;
+	font-size: 0;
+	height: 0;
+	line-height: 0;
+	width:100%;

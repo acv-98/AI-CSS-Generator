@@ -1,0 +1,7 @@
+  font-size: 13px;
+  content: "";
+  height: 1px;
+  display: block;
+  background: #115c9b;
+  width: 150px;
+  margin: 15px auto;

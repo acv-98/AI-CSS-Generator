@@ -1,0 +1,21 @@
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 60px;
+		display: inline-block;
+		width: 60px;
+		text-align: center;
+		text-transform: none;
+		font-weight: normal;
+		font-style: normal;
+		font-variant: normal;
+		font-family: 'ecoicons';
+		line-height: 1;
+		speak: none;
+		-webkit-font-smoothing: antialiased;
+		content: "\e000"
+		overflow: hidden;
+		margin-left: -15px;
+		vertical-align: -2px;
+		background: #eb5d1e;
+		box-shadow: 0 3px white, 0 -6px #eb5d1e, 0 -9px white, 0 -12px #eb5d1e;

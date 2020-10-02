@@ -1,0 +1,14 @@
+  margin-top:70px;
+  width:100%;
+  position:relative;
+  margin-bottom:70px;
+  overflow:hidden;
+  height:225px;
+  float: left;
+  background: #2fa68e;
+  z-index: 2;
+  opacity:0;
+  font-size: 29px;
+  text-align:center;
+  font-weight: bold;
+  color: #FFF;

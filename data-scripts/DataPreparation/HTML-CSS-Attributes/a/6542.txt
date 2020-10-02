@@ -1,0 +1,2 @@
+	background:url("../images/arrow.gif") no-repeat right 50%;
+	padding-right:20px;

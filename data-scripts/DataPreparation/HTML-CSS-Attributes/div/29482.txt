@@ -1,0 +1,1 @@
+float:leftwidth:210px;margin-right:39pxline-height:1.5em;padding-bottom:18pxfont-weight:bold;color:#4e4e4e;text-decoration:nonetext-decoration:underline

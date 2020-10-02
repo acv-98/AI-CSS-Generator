@@ -1,0 +1,4 @@
+position:relative;margin:0;padding:0;	.clients {
+		position:relative;
+		top:-5px;
+		margin-bottom:7px;

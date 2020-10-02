@@ -1,0 +1,12 @@
+  display: block;
+  position: absolute;
+  font-size: 19px;
+  font-weight: 400;
+  left: 50%;
+  bottom: -25px;
+  -webkit-transform: translate(-50%, 0);
+  -ms-transform: translate(-50%, 0);
+  transform: translate(-50%, 0);
+  color: rgba(255, 255, 255, 0.9);
+  width: 200px;
+  text-align: center;

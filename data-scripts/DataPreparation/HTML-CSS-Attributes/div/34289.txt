@@ -1,0 +1,8 @@
+    overflow:hidden;
+    padding:0 2px 0 2px;
+    margin:10px 0 0 0;
+	width:100%;
+display:none;margin:0;.carousel-wrapper ul li{
+    height:100%;
+    float:left;
+    display:block;

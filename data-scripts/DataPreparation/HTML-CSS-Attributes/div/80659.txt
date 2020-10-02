@@ -1,0 +1,1 @@
+background:url(../images/design/drops/lab.png) no-repeat;background:url(../images/design/drops/lab-trans.png);

@@ -1,0 +1,12 @@
+	float: left;
+	width:70.5%;
+	color: #fff;
+	font-size: 0.8125em;
+	line-height: 1.5em;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+	text-decoration: none;
+	margin-bottom: 10px;

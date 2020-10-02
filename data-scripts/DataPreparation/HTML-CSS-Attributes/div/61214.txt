@@ -1,0 +1,13 @@
+	background-color: #0091ea;
+	border-radius: 50%;
+	color: #fff;
+	display: inline;
+	font-size: 18px;
+	float: left;
+	height: 48px;
+	width: 48px;
+	text-align: center;
+	line-height: 48px;
+	margin-right: 20px;
+	
+		margin-right: 0;

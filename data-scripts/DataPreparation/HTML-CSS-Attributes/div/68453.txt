@@ -1,0 +1,4 @@
+	margin:16px 0;
+	font-size:10px;
+.contact-widget .rating .rating-stars .fa {
+	color:#fc0;

@@ -1,0 +1,2 @@
+background:url(../images/triangle.gif) no-repeat center top;
+	.footer,							

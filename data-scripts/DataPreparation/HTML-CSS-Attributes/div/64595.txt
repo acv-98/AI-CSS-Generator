@@ -1,0 +1,9 @@
+	border:1px solid #f2c779;
+	background:#fff8c4;
+	color:#ed7c18;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	padding:8px 10px;
+	line-height:22px;
+	margin-bottom:10px;

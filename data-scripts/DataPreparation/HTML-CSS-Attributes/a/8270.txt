@@ -1,0 +1,1 @@
+ background:none; background:url(images/nav-left-act.gif) no-repeat left top; background:url(images/nav-act.gif) left top repeat-x; background:url(images/nav-left-act.gif) no-repeat left top !important; background:url(images/divider-right-act.gif) no-repeat right 10px;

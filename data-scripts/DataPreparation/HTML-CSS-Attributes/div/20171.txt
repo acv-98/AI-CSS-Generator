@@ -1,0 +1,2 @@
+  float: right;
+  background: url(../img/pagination.png) no-repeat right -59px;

@@ -1,0 +1,6 @@
+ margin:0; padding: 0; .commentlist li ul.children li.depth-2,
+.commentlist li ul.children li.depth-3 {
+	margin-left: 40px;
+	border-style: solid;
+	border-color: #E1E6E8;
+	border-width: 1px 0 0 1px;

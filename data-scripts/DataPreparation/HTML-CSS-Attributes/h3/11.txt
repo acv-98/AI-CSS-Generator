@@ -1,0 +1,9 @@
+  background: #00a8cc;
+  margin-top: 0;
+  position: relative;
+  margin-bottom: 30px;
+  width: 80px;
+  height: 1px;
+  content: '';
+  display: block;
+  bottom: -10px;

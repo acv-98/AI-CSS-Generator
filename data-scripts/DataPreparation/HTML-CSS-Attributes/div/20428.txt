@@ -1,0 +1,4 @@
+        display: none;
+        
+    background: #202242;
+    transition: .6s;

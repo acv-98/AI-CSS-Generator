@@ -1,0 +1,7 @@
+    left: 0;
+    margin-left: -300px;
+    margin-top: 160px;
+    position: absolute;
+    width: 100%;
+    max-width: 600px;  
+   

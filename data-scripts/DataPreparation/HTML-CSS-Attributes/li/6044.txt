@@ -1,0 +1,3 @@
+	border-color:#fff
+	color:#13c5ff;
+	text-decoration:none

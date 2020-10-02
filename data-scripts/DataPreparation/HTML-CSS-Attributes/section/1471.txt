@@ -1,0 +1,14 @@
+    width:80%;
+    margin:30px auto;
+    color:#fff;
+    content: "\f10e";
+    text-align: left;
+    font-family: fontawesome;
+    font-size: 3rem;
+    position: absolute;
+    z-index: -1;
+    padding: 5px;
+    left: 9%;    
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-transform: uppercase;

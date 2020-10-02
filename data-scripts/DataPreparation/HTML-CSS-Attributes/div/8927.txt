@@ -1,0 +1,10 @@
+	clear:both;
+	font:normal 13px Arial, Helvetica, sans-serif;
+	margin:0 auto;
+	text-align:right;
+	padding:10px;
+	margin-left:3px;
+	text-decoration:none;
+	color:#939393;
+	background:#FFF;
+	float:left;

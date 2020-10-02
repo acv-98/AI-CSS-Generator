@@ -1,0 +1,10 @@
+    position: relative;
+    width:100%;
+    color:#353854;
+    display: block;
+    font-size: 6rem;
+    height: 55px;
+    margin-bottom: 20px;
+    right: 0;
+    bottom: -45px;
+    transform: rotate(-180deg);

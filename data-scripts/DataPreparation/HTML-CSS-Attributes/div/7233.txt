@@ -1,0 +1,1 @@
+width:300px; float:left; line-height:120px; font-size:32px; color:#d13f31; font-weight:normal; color:#1a202c;

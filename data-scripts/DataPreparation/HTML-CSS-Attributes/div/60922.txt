@@ -1,0 +1,2 @@
+  position: relative;
+  min-height: 460px;

@@ -1,0 +1,11 @@
+    list-style: none;
+    padding: 25px;
+    margin: 0;
+    text-align: center;
+    content: " ";
+    display: table;
+    clear: both;
+    color: #333333;
+    font-size: 13px;
+    transition: all 0.3s ease-in-out;
+       margin: 2px 3px;

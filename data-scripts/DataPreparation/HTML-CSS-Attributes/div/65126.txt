@@ -1,0 +1,9 @@
+	height: 41px;
+	text-align: right;
+	font-family: Segoe UI;
+	font-size: 11px;
+	line-height: 41px;
+	text-shadow: 0px 1px 1px #000000;
+	filter: dropshadow(color=#000000, offx=0, offy=1);
+	text-decoration: none;
+	color: #5d5d5d;

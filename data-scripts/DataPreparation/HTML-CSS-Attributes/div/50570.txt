@@ -1,0 +1,6 @@
+	width:549px;
+	height:300px;
+	overflow:hidden;
+	position:relative;
+	float:left;
+	display:inline;

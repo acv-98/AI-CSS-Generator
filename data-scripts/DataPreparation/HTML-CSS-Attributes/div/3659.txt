@@ -1,0 +1,14 @@
+  float: left;
+  width: 100%;
+  margin-bottom: 30px;
+  position: relative;
+  text-align: center;
+    width: 10%;
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 40px;
+  color: #ef6249;
+  line-height: 1.8;
+    margin-bottom: 4em;
+  text-transform: uppercase;
+  font-weight: 700;

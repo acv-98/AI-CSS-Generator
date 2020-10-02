@@ -1,0 +1,4 @@
+  margin-bottom: 75px;
+  display: inline-block;
+  opacity: .75;
+    margin-bottom: 35px;

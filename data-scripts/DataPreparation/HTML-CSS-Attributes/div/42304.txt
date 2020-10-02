@@ -1,0 +1,15 @@
+	overflow:hidden;
+	display:inline-block;
+	background:url(../images/date.png) 0 0 no-repeat;
+	width:51px;
+	height:53px;
+	float:left;
+	margin-right:5px;
+	font-weight:normal;
+	color:#000;
+	font-size:40px;
+	line-height:48px;
+	text-align:center;
+	font-family: 'Lato', sans-serif;
+	font-style:italic;
+	margin-top:21px;

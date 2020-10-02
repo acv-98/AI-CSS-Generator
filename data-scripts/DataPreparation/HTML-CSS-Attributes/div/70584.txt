@@ -1,0 +1,12 @@
+-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box
+.lt-ie9 .small-block-grid-2 {
+    list-style: none
+    padding-top: 20px;
+    font-size: .75em;
+    background: #40596c;
+    color: #fff;
+        line-height: 1.2em !important;
+        margin: 0 0 10px 0;
+        display: block;
+        font-size: 1.4em;
+        margin-bottom: 20px;

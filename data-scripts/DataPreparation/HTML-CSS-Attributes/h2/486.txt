@@ -1,0 +1,2 @@
+	padding-right:20px;
+	margin:auto 0;

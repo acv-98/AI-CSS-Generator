@@ -1,0 +1,9 @@
+	float:left;
+	width:230px;
+	padding:40px;
+	font-family:georgia;
+	font-size:14px;
+	font-style:italic;
+	text-shadow:0 1px 1px #000;
+	color:#424242;
+	line-height:20px;

@@ -1,0 +1,2 @@
+ width:300px; float:left; color:#ffc01d; margin-bottom:30px; margin-bottom:30px; color:#85aedb; font-size:14px; background:url(../images/button2.png) no-repeat; width:80px; height:30px; text-align:center; line-height:30px; margin-top:30px; margin-bottom:70px;
+HEADESECTION 

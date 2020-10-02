@@ -1,0 +1,13 @@
+	background:#5C9CC7;
+  height: 0;
+  color: #fff;
+  overflow: hidden;
+  -webkit-transition: all 0.4s ease-out;
+  -moz-transition: all 0.4s ease-out;
+  -o-transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out;
+  list-style: none;
+  margin-top: 30px;
+  margin-left: 0;
+  display: inline;
+  padding: 10px 0;

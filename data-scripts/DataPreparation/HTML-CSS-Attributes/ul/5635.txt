@@ -1,0 +1,2 @@
+position:absolute; top:134px; left:348px; width:263pxheight:18px; margin-bottom:2px;height:18px; display:block; text-indent:-20000px; 
+background:url(../images/topic_1.gif) 0 0 no-repeat; background:url(../images/topic_2.gif) 0 0 no-repeat; background:url(../images/topic_3.gif) 0 0 no-repeat; 

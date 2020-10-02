@@ -1,0 +1,16 @@
+	position:absolute;
+	right:-80px;
+	top:50%;
+	margin-top:-35px;
+	height:70px;
+	width:39px;
+	background:transparent url(../img/prev.png) no-repeat top left;
+	left:0px;
+	text-indent:-9000px;
+	opacity:0.7;
+	cursor:pointer;
+	-moz-transition:all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-transition: all 0.2s ease-in-out;
+	background-image:url(../img/next.png);
+	bottom:0px;

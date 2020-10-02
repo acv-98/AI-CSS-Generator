@@ -1,0 +1,9 @@
+	padding-left: 10px;
+	border-left:5px solid #df9801;
+	font-size: 58px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-transform: uppercase;
+	color: #df9801;
+ top: 7px;	 top: 20px;  font-size: 40px;  font-size: 22px; 	

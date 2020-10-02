@@ -1,0 +1,16 @@
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    padding: 0 0 30px;
+	width: 40%;
+	height: 100%;
+	display: table-cell;
+	color: #333;
+	position: relative;
+	padding: 40px;
+  position: absolute;
+  content: "";
+  right: 3%;
+  height: 80%;
+  background: #ccc;
+  top: 10%;

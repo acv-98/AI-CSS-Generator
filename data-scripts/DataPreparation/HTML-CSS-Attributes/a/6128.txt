@@ -1,0 +1,6 @@
+  border-bottom: none;
+  font-family: "Crimson Text", Arial, sans-serif;
+  font-size: 14px;
+  color: #F73859;
+  text-transform: uppercase;
+  letter-spacing: 2px;

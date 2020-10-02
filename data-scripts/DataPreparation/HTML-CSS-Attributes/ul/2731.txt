@@ -1,0 +1,14 @@
+	
+	display: block;
+	padding: 10px;
+	margin-bottom: 8px;
+	background: #f8f8f8;
+	border: 1px solid #eee;
+	width: 385px;
+	float: left;
+	margin-right: 15px;
+	height: 18px;
+	padding-top: 4px;
+	text-align: center;
+	color: #F3F0DF;
+	text-decoration: none;

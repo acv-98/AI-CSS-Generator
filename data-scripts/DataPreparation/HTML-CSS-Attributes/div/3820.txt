@@ -1,0 +1,11 @@
+        font-size: 14px;
+        line-height: 25px;
+    max-width: 280px;
+    display: block;
+    margin: 10px auto;
+    position: relative;
+    margin-bottom: 60px;
+    color: #999;
+    font-weight: 400;
+    padding: 0;
+    text-transform: none;

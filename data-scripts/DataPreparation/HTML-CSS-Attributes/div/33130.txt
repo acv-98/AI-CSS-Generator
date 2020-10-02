@@ -1,0 +1,3 @@
+padding-bottom: 20px !important;padding:0 20px; padding-top: 20px;    .featured-block .btn{background: #d80112; color: #fff; border-radius: 5px; 
+                                        padding: 10px 15px; font-family: 'open_sansbold'; font-size: 14px; 
+                                        font-weight: normal; text-transform: uppercase; text-shadow: none; letter-spacing: 1px;

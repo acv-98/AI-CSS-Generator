@@ -1,0 +1,3 @@
+	height: 142px;
+	margin: 0 auto;
+	display: block;

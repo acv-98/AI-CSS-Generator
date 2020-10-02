@@ -1,0 +1,21 @@
+    height: 100%;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    float: left;
+color:#cf0f1e; font-family:Economica-Bold; font-size:34px; margin-bottom:30px; margin-left:45px;.sliderwrapper .slides p{color:#454242; font-family:arial; width:530px; line-height:2em; font-weight:bold; font-size:18px;
+float:right; margin-right:150px;.sliderwrapper .slider {
+	position: relative;
+	width: 100%;
+	height: 420px;
+	overflow: hidden;
+	
+	 * Prevent blinking issue
+	 * Not tested. Experimental.
+	-webkit-backface-visibility: hidden;
+	-webkit-transform-style: preserve-3d;
+	 

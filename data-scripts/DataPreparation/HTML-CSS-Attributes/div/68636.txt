@@ -1,0 +1,4 @@
+	cursor:pointer;
+	padding:20px 10px 0 0;
+	text-align:right;
+	margin-left:15px;

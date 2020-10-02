@@ -1,0 +1,4 @@
+  color: #333;
+  margin-bottom: 0;
+  text-decoration: underline;
+  pointer-events: none;

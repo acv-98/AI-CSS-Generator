@@ -1,0 +1,2 @@
+float:left; line-height:130px; margin-top:15px; font-family:Arial; float:right; font-size:16px; font-weight:bold; margin-top:15px; text-decoration:none; color:#313131; list-style:none; float:left; margin:20px; padding:15px;text-decoration:none; color:#313131;.headerwrapper nav ul li:hover{background:#ff5a0b; border-radius:5px; color:#FFF; transition:all 0.5s;
+color:white;

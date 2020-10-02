@@ -1,0 +1,6 @@
+	list-style:none;
+	padding:0 0 8px 13px;
+	margin-bottom:7px;
+	border-bottom:1px dotted #dcdcdc;
+	background:url(images/ul-arrow.gif) left 3px no-repeat;
+	line-height:14px;

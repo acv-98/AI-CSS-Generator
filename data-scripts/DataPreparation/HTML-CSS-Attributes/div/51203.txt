@@ -1,0 +1,6 @@
+	background:#111;
+	padding:35px 30px 40px;
+	text-align:center
+	display:block;
+	letter-spacing:-1px;
+	font-size:26px

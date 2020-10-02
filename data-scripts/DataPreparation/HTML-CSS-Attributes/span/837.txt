@@ -1,0 +1,6 @@
+    display: inline-block;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 65px;
+    vertical-align: top;
+    margin-top: -7px;

@@ -1,0 +1,3 @@
+	float:left;
+	line-height:1.857em;
+	padding-right:41px;

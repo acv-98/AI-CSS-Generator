@@ -1,0 +1,15 @@
+	padding: 20px 20px 100px 20px;
+	max-width: 1300px;
+	margin: 0 auto;
+	list-style: none;
+	text-align: left;
+	position: relative;
+	margin-top:20px;
+	display: block;
+	top: 0;
+	left: 0;
+	background: #000;
+	color: #ed4e6e;
+	font-size:18px;
+	text-transform:uppercase;
+	border-radius: 0;

@@ -1,0 +1,2 @@
+  margin-bottom: 3em;
+  padding-left: 180px;

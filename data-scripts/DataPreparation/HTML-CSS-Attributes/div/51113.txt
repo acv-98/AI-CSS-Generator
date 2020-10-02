@@ -1,0 +1,8 @@
+	width:972px;
+	height:623px;
+	float:left;
+	margin:0px;
+	padding:0px 0px 0px 28px;
+	background: url(../images/header_img.JPG) left top no-repeat;
+	border-bottom:1px solid #E2DDCB;
+	background-color: #DBD5BF;

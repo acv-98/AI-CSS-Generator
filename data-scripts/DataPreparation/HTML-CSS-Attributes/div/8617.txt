@@ -1,0 +1,9 @@
+	background-color: #fff;
+	border-top: 5px solid #19beb6;	
+	width: auto;
+	overflow: hidden;
+ padding: 30px;  padding: 0;  padding: 30px 40px; .gallery_title {
+	border-left: 4px solid #19beb6;
+	padding-left: 20px;
+	margin-bottom: 40px;
+ padding: 15px;  padding: 20px;	

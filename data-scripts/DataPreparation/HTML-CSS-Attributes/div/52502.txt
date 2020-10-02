@@ -1,0 +1,7 @@
+float:left;
+width:430px;
+padding:65px 0px 0px 27px;
+sborder:1px solid red;
+color:#a1c162;
+font-size:17px;
+ color:#fff; color:#d6c696;.header_right{ 

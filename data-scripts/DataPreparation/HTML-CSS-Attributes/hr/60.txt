@@ -1,0 +1,2 @@
+	border-color: #fdc05d;
+	color: #fdc05d;

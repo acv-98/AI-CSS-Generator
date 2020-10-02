@@ -1,0 +1,3 @@
+    width: 80px;
+    color: #363942;
+    border-top: 2px solid #ea9312;

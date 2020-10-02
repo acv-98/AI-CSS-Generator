@@ -1,0 +1,4 @@
+    right: 50px;
+    background-color: #009EE3;
+    border-color: #009EE3;
+    color: #fff;

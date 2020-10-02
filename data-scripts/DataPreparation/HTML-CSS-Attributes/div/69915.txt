@@ -1,0 +1,5 @@
+margin-bottom:25px;color:#898989;width:90%;.popular_post > h2,.single_sidebar > h2{border-bottom: 2px dotted #BABABA;
+font-size: 18px;
+font-weight: bold;
+line-height: 22px;
+display:block;color:#898989;text-decoration:underline;

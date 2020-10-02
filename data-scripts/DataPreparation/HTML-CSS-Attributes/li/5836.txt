@@ -1,0 +1,3 @@
+	color:#f3ebd9;
+	background:url(images/menuactive.gif) center bottom no-repeat;
+	text-shadow:#222 1px 1px 1px;

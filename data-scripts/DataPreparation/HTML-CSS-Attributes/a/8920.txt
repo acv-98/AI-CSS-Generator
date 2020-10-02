@@ -1,0 +1,1 @@
+ color: #2b9208; text-decoration: underline; padding-left: 11px; background: url(images/arr-ico.png) no-repeat 0 5px;  text-decoration: none;  

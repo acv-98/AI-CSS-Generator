@@ -1,0 +1,2 @@
+	margin-bottom:6px;
+	list-style: none;

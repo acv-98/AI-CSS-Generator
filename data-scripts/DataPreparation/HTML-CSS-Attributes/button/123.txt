@@ -1,0 +1,9 @@
+	width: 130px;
+	height: 40px;
+	background-color: #F5D338;
+	border: medium none;
+	color: #5C4905;
+	font-size: 12px;
+	margin: 24px auto;
+	text-transform: uppercase;
+	box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.3);

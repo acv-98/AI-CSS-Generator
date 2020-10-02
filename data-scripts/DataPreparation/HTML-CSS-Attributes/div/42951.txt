@@ -1,0 +1,13 @@
+	position: absolute;
+	top: 0;
+	margin: auto;
+	content: "\f102";
+	font-family: FontAwesome;
+	color: #DDD;
+	font-size: 36px;
+	margin-left: -10px; 
+	width: 3px;
+	bottom: 35px;
+	left: 50%;
+	border-radius: 50px;
+	background-color: #DDD; 

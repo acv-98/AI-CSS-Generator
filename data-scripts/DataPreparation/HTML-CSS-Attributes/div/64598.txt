@@ -1,0 +1,7 @@
+	border:1px solid #EFEFEF;
+	line-height:21px;
+	margin-bottom:20px;
+	margin-top:1px;
+	height:30px;
+	color:#FFF;
+	padding:5px 0 0 19px;

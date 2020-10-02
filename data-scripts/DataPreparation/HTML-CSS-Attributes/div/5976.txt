@@ -1,0 +1,15 @@
+	float: left;
+	margin-left: 40px;
+	max-width: 440px;
+	width: 100%;
+ max-width: 360px; 	.flex-caption {	
+		padding: 25px; 
+		max-width: 500px;
+ max-width: 340px; 	.tm-testimonials-box {
+	    max-width: 340px;
+	    width: 100%;
+	    margin: 30px auto 0;
+	    float: none;
+	    height: auto;
+		float: none;
+ margin: 30px auto; 

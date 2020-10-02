@@ -1,0 +1,13 @@
+	overflow:hidden;
+	float:right;
+	padding:25px 0px 0px 0;
+	display:block;
+	font-size:18px;
+	line-height:24px;
+	color:#636f6f;
+	letter-spacing:-1px;
+	margin:-3px 15px 0 0;
+	text-align:right;
+	width:23px;
+	height:23px;
+	background-color:#ef6f53;

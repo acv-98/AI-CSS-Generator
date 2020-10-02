@@ -1,0 +1,3 @@
+	background: #00626B;
+	color: #FFFFFF;
+	box-shadow: inset 0px -2px 20px 0px rgba(0,0,0,0.2);

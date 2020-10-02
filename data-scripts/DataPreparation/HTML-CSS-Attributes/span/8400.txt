@@ -1,0 +1,8 @@
+  background-color: #3498db;
+  position: relative;
+  content: "";
+  height: 2px;
+  left: 8px;
+  top: 10px;
+  width: 100px;
+  right: 15px;

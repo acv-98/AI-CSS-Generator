@@ -1,0 +1,7 @@
+  overflow: hidden;
+  color: #7f7f7f;
+  display: block;
+  font-weight: normal;
+  width: 80px;
+    float: left;
+    width: 154px;

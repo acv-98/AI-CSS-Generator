@@ -1,0 +1,5 @@
+	font-size: 16px;
+	margin-top:3px;
+    font-family: 'OswaldLight', sans-serif;
+    color: #fff;
+    text-transform: uppercase;

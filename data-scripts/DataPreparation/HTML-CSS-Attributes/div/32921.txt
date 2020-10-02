@@ -1,0 +1,4 @@
+	background:url(../images/footer-line.gif) repeat-x;
+	background-position:right top;
+	width:100%;
+	float:left;

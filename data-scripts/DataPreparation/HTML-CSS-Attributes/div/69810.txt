@@ -1,0 +1,6 @@
+ padding-left: 10px; 
+.tm-footer-link {
+	color: #CCCC66;
+	line-height: 2.8;
+	text-decoration: underline;
+ padding-left: 0; 

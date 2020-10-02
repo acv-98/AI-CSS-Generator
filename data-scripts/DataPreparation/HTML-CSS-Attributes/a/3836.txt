@@ -1,0 +1,3 @@
+color:#D45460;
+float:left;
+font:11px/15px arial;

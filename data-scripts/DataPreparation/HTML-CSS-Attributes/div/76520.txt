@@ -1,0 +1,4 @@
+ text-decoration:none.box2 img
+{
+	padding:2px 0px 0px 20px;
+	float:left;

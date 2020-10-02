@@ -1,0 +1,9 @@
+	float: right;
+	width: 102px;
+	height: 29px;
+	border: none;	
+	color: #cba78f;
+	background: url(images/form_button.png) no-repeat;
+	margin: 0;
+	padding: 0 0 3px 10px;
+	cursor: pointer;

@@ -1,0 +1,3 @@
+	background:url(../images/roundbottom.jpg) left bottom no-repeat;
+	padding:4px;
+	text-align:center;

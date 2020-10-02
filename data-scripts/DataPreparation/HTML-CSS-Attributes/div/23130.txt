@@ -1,0 +1,13 @@
+ margin-bottom: 30px; 
+.cd-full-width {
+	display: -ms-flexbox;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-pack: center;
+        justify-content: center;
+ margin-bottom: 20px; 	.cd-full-width .container-fluid {
+		margin-top: 0;
+		padding-left: 0;
+		padding-right: 0;

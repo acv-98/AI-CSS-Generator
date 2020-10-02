@@ -1,0 +1,4 @@
+    height: 3px;
+    width: 70px;
+    margin:30px auto;
+    background: #8d8d99;

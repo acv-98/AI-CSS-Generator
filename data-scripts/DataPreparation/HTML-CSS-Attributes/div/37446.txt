@@ -1,0 +1,11 @@
+	padding:24px 20px 0 0;
+	float:right;
+	width:auto;
+	margin:0;
+	color:#a9a9a9;
+	font-size:13px;
+	line-height:1.5em;
+	font-weight:bold;
+	text-transform:uppercase;
+	text-decoration:none;
+	border:none;

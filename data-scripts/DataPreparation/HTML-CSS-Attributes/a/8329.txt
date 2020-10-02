@@ -1,0 +1,8 @@
+	width:57px;
+	height:22px;
+	float:left;
+	margin:16px 0 0 18px;
+	background:url('images/details.gif') no-repeat 0 bottom;
+	font-size: 0;
+	line-height: 0;
+	text-indent: -4000px;

@@ -1,0 +1,4 @@
+	margin:0 auto;
+	padding:0;
+	float:left;
+	background:url(images/logo.gif) no-repeat left 28px;

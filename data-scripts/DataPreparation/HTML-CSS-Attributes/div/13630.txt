@@ -1,0 +1,8 @@
+ font-size: 12px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400; 	font-size: 12px;
+	font-weight: 800;
+	text-transform: uppercase;
+    padding: 15px 0px;
+ width: 90%;  width: 100%;  width: auto; #ie8 .features-tab-content div.call-three .newsletter-call3 {	
+	width: 405px;
+	float: none;
+ padding:15px; 

@@ -1,0 +1,8 @@
+    font-weight: 600;
+    padding: 25px 0 25px;
+    margin: 0;
+    line-height: 1;
+    font-size: 28px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;

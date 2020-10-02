@@ -1,0 +1,2 @@
+  font: 400 14px/20px 'Open Sans', sans-serif;
+  padding-top: 22px;

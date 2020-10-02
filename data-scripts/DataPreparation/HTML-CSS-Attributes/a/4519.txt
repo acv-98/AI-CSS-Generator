@@ -1,0 +1,1 @@
+ background:url(images/bul.gif) no-repeat 0 center; padding-left:10px;

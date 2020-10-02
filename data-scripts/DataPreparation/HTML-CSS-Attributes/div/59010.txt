@@ -1,0 +1,1 @@
+background:url("images/black_bg.png") repeat scroll 0 0 rgba(0,0,0,0); border-top:5px solid #FF1769

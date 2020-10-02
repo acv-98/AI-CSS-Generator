@@ -1,0 +1,5 @@
+  text-align: center;
+  top: 40px;
+  display: block;
+  position: relative;
+  z-index: 20;

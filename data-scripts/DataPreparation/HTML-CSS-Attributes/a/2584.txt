@@ -1,0 +1,2 @@
+ width:100% !important; height:338px !important; 
+ background:#000 url('images/icons/play.png') center no-repeat  background:#000 url('images/icons/play.png') center no-repeat  background:#000 url('images/icons/play.png') center no-repeat 

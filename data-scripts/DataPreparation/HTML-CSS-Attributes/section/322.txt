@@ -1,0 +1,11 @@
+    background: url(../images/choose-mokup.png) no-repeat;
+    background-size: cover;
+    width: 600px;
+    height: 365px;
+    margin: 0 auto;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 15px;
+    font-weight: 700;
+    font-size:16px;
+    margin-right:10px;

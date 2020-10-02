@@ -1,0 +1,12 @@
+	width:586px;
+	height:178px;
+	background:url(../images/jplayer-bg.png) no-repeat;
+	position:relative;
+	margin-bottom:28px;
+	left:44px;
+	top:12px;
+	font:24px/1.2em Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-decoration:none;
+	padding-left:16px;
+	padding-right:16px;

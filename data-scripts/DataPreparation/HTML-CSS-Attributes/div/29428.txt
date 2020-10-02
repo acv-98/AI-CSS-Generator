@@ -1,0 +1,7 @@
+	margin: 0 0px 0px 21px !important;
+	cursor: pointer;
+	min-width: 10px;
+	margin-left: 0 !important;
+	background: #fff;
+	padding-bottom: 95px;
+	margin-top: -2px;

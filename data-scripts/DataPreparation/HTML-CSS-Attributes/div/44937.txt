@@ -1,0 +1,4 @@
+color: #565656;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 500;

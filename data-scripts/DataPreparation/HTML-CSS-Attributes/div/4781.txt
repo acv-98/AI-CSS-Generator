@@ -1,0 +1,5 @@
+	margin:0 auto;
+	padding:0;
+	width:970px;
+	background:#fcf6ee url(images/header_bg.gif) top repeat-x;
+	float:right;

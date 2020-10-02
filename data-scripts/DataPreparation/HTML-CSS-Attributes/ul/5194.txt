@@ -1,0 +1,9 @@
+	margin:0;
+	padding:0 0 0 16px;
+	list-style:none;
+	color:#959595;
+	width:220px;
+	text-decoration:none;
+	margin-left:-24px;
+	background:url(images/li.gif) no-repeat left center;
+	font-weight:bold;

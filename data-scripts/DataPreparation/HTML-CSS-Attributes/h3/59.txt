@@ -1,0 +1,6 @@
+	background-color: rgb(96, 104, 116);
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 300;

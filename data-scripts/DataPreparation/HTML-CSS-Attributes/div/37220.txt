@@ -1,0 +1,3 @@
+    font-size:18px;
+    display:block;
+    line-height: 30px;

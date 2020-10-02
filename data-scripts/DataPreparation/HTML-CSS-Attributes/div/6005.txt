@@ -1,0 +1,16 @@
+ overflow: hidden .tm-tours-box-1-link-left { 
+	background-color: #1CA7C8;
+	padding: 20px 30px;
+	float: left;
+	width: 75%;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 18px;
+	display: block;
+	transition: all 0.3s;
+	text-align: center;
+	color: white;
+	height: 60px;
+	width: 65%;	 width: 35%; 		float: none;
+		width: 100%;
+		text-align: center;

@@ -1,0 +1,8 @@
+	margin:0 auto;
+	padding:0 10px 50px 10px;
+	width:940px;
+	overflow:hidden;
+	float:left;
+	background:url(../images/bullet.gif) no-repeat 0 10px;
+	list-style:none;
+	border:1px solid #948b76;

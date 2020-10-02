@@ -1,0 +1,11 @@
+		overflow: hidden;
+		margin: 0em;
+		padding: 0em;
+		list-style: none;
+		border-top: 1px solid #E2E2E2;
+		text-decoration: none;
+		color: #4e4e4e;
+		float: left;
+		margin-right: 1.5em;
+		border-radius: 5px;
+		padding-top: 0;

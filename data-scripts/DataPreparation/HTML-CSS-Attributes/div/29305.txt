@@ -1,0 +1,20 @@
+overflow:hidden;display:inline-block;margin-bottom:5px;vertical-align:middle;text-align:center;border:none;padding:0;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;border:1px solid #ddd;border-color:#a47e3c;border-color:#b94a48;border-color:#468847;
+ * Social Buttons for Bootstrap
+ *
+ * Copyright 2013-2014 Panayiotis Lipiridis
+ * Licensed under the MIT License
+ * https://github.com/lipis/bootstrap-social
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: all .2s ease-in-out;
+       -o-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
+  margin-right: auto;
+  margin-left: auto;
+  border-color: #428bca;
+  color: #333;

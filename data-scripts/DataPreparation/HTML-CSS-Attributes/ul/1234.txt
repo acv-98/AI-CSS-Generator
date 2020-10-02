@@ -1,0 +1,2 @@
+ border-color: #dfdcdc;  border-color: #cccccc;  float: none 
+clear:both;

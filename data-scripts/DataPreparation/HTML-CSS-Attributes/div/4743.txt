@@ -1,0 +1,1 @@
+ width:317px; height:180px; float:left; background:url(images/logo.png) no-repeat left top;

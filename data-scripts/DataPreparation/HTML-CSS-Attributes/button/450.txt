@@ -1,0 +1,9 @@
+	z-index: 1;
+	color: #fff;
+	background-color: #ff5335;
+	border-color: #ff5335;
+ -webkit-transition: all .5s ease-out;
+ transition: all .5s ease-out;
+	padding: 12px 1.5em;
+	outline: none;
+	width: 100%;

@@ -1,0 +1,1 @@
+float:left; display:inline; width:93%; min-height:400pxfont-size:11px; left:15px; padding:8px 12px; position:absolute; top:15px; color:#fff; z-index:10; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s.navbar-collapsebackground-color:#fff; color:#09cbackground:none repeat scroll 0 0 #09c

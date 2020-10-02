@@ -1,0 +1,8 @@
+  margin-left: 2px;
+  top: 50%;
+  left: 0;
+  margin-top: -5px;
+  border-top: 5px solid transparent;
+  border-right: 5px solid #000000;
+  border-bottom: 5px solid transparent;
+  right: 15px;

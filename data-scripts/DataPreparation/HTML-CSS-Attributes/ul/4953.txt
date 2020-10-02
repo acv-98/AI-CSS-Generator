@@ -1,0 +1,3 @@
+  color: #ffd500;
+  min-height: 70px;
+  margin-top: 30px;

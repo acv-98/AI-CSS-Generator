@@ -1,0 +1,6 @@
+    float: left;
+    width: 100%;
+    min-height: 450px;
+    background: yellow;
+	position:relative;
+    height: 550px !important;

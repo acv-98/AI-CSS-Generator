@@ -1,0 +1,6 @@
+	width:284px;
+	height:429px;
+	float:right;
+	background:#232323;
+	color:#fff;
+	padding:16px 0 0 8px;

@@ -1,0 +1,18 @@
+    margin-bottom: 30px;
+      display: inline-block;
+      border-top: 3px solid #1680F8;
+      border-bottom: 3px solid #1680F8;
+      padding: 0px 120px;
+      border-radius: 5px;
+      position: relative;
+        content: "";
+        width: 7px;
+        height: 7px;
+        display: inline-block;
+        border-radius: 50%;
+        position: absolute;
+        right: -17px;
+        top:-4px;
+        background-color: #1680F8;
+      margin-left: 38px;
+        left: -15px;

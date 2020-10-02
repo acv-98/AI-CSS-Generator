@@ -1,0 +1,5 @@
+	background: url(../img/sprites.png) no-repeat -950px -667px;
+	padding-left: 20px;
+	margin-bottom: 5px;
+	height: 46px;
+float:left; margin-left:20px; width:550px;background:url("../img/sprites.png") no-repeat -950px -667px; padding-left:20px; margin-bottom:5px;font-size:24px;color:#999;text-decoration:none;

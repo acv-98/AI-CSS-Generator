@@ -1,0 +1,14 @@
+    line-height: 35px;
+    margin-left: 467px;
+    margin-top: 20px;
+    color: #b4b3b3;
+    width: 190px;
+    height: 35px;
+    padding-left: 15px;
+    border: 1px solid #abadb3;
+    font-size: 14px;
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    background-color: #404852;
+    cursor: pointer;

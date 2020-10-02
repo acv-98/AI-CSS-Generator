@@ -1,0 +1,16 @@
+	margin:0 auto;
+	padding:0px;
+	padding-top:20px;
+	width:100%;
+	position:relative;
+	overflow:hidden;
+	list-style:none;
+	background:#e4e4e4;
+	content:"";
+	left:50%;
+	top:20px;
+	bottom:0px;
+	margin-left:-1px;
+	height:9999px;
+	float:left;
+	display:inline-block;

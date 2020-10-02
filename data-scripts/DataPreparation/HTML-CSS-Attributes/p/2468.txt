@@ -1,0 +1,4 @@
+	background-image:url(../images/home-icon.png);
+	background-repeat: no-repeat;
+	padding:3px 0px 3px 20px;
+	background-position: 0px 0px;

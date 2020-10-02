@@ -1,0 +1,16 @@
+ padding: 50px 35px; 
+.tm-top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0;
+    z-index: 10000;
+    transition: all 0.2s ease-in-out;
+    height: 119px;
+    background: white;
+	height: 79px;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+ padding: 30px 35px;  height: 119px;  height: 65px; 	.tm-top-bar.active .navbar-expand-lg .navbar-nav .nav-link,
+	.tm-top-bar .navbar-expand-lg .navbar-nav .nav-link {
+	    padding: 12px 15px;

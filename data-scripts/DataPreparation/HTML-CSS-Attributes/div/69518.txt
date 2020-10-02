@@ -1,0 +1,19 @@
+  bottom: -35px;
+  position: absolute;
+  right: 240px;
+  background: hsl(42, 93%, 51%) none repeat scroll 0 0;
+  border: medium none;
+border-radius: 0 10px 10px 0;
+  color: hsl(0, 0%, 100%);
+  font-family: roboto slab;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 29px;
+  margin: 10px 0 35px;
+  padding: 13px 40px;
+  border-radius: 15px;  text-align: center;  width: 100%;position: inherit;margin-bottom: 60px;  border-radius: 0 15px 15px 0;  margin: 0;.email_field .form-control {
+  float: none;
+  margin-top: -140px;
+  top: 0;
+  z-index: 1;
+  border-radius: 0 15px 15px 0;  margin: 0;  border-radius: 0 15px 15px 0;  margin: 0;

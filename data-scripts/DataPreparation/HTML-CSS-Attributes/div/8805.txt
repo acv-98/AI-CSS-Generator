@@ -1,0 +1,3 @@
+	width:100%;
+	padding:49px 0 0;
+	background:url(../images/content-tail.gif) center top repeat

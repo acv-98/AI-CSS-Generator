@@ -1,0 +1,1 @@
+display:inline-block; padding-left:25px; margin-right:15px; background:url("img/contact.png") no-repeat 0 50%;

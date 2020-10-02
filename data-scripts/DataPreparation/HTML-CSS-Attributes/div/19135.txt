@@ -1,0 +1,7 @@
+	border:2px solid #1baab9;
+	width:100%;
+ margin: 0; footer .widget .flickr-badge {
+    width: 100%;
+	margin: 0 2px 5px 0;
+    height: 60px;
+    float: left;

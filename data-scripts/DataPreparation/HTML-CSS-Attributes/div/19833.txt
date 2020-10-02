@@ -1,0 +1,12 @@
+  background: #efefef;
+    background: #28262b;
+    color: #fff;
+    display: block;
+    font-size: 0.6875rem;
+    font-weight: 400;
+    height: 3.125rem;
+    line-height: 3.125rem;
+    min-width: 3.125rem;
+    padding: 0 0.75rem;
+    position: absolute;
+    right: 0;

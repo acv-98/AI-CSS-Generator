@@ -1,0 +1,16 @@
+  width: 50%;
+  display: inline-block;
+    width: 100%;
+  padding: 1.7em;
+  background: #fafafa;
+  font-size: 18px;
+  font-weight: 400;
+  color: #000;
+  margin-bottom: 20px;
+  border: 2px solid rgba(0, 0, 0, 0.8) !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  border-radius: 0;

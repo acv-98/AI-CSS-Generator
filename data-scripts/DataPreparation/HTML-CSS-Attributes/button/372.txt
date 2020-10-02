@@ -1,0 +1,6 @@
+  background-color: #fff;
+  color: #000;
+  left: 47.7%;
+  position: absolute;
+  top: -28px;
+left: 45.5%;left: 43%;left: 40.7%;left: 39%;

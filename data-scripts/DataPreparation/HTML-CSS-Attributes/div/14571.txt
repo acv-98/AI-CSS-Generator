@@ -1,0 +1,10 @@
+        margin-top:30px;
+.single_features_text p{
+    margin-bottom: 40px;
+    display: inline-block;
+    font-size:0.875rem;
+    font-family: 'montserratregular';
+    background: transparent;
+    color:#444444;
+    border:1px solid #ddd;
+    padding-top: 0.8em;

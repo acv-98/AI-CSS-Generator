@@ -1,0 +1,5 @@
+	background-color: #a5d549;
+	display: inline;
+	float: left;
+	opacity: 0.8;
+	width: 100%;

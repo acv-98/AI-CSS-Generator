@@ -1,0 +1,3 @@
+	border-bottom:1px solid #ddd;
+	margin:0 0 25px;
+	padding:0 0 10px;

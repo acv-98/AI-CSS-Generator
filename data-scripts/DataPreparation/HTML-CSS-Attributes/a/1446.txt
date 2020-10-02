@@ -1,0 +1,8 @@
+  color: #cccccc;
+  background-color: transparent;
+  border-color: #cccccc;
+  -webkit-transition:0.3s;
+  -moz-transition:0.3s;
+  -o-transition:0.3s;
+  transition:0.3s;
+  background-image: none;

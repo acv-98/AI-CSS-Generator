@@ -1,0 +1,10 @@
+	float:left;
+	padding:0 !important;
+	margin:0 0 0 40px;
+	position:relative;
+	background: url(../images/logo.png) no-repeat 0 0;
+	height:49px;
+	width:203px;
+	overflow:hidden;
+	text-indent:-99em;
+	display:block;

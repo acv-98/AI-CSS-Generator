@@ -1,0 +1,13 @@
+  color: #78ADC9;
+  display: inline;
+  min-height: 300px;
+  float: left;
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  line-height: 28px;
+  margin-bottom: 35px;
+  margin-top: 0px;
+  font-weight: 600;  
+  text-transform: uppercase;
+margin-bottom: 20px; font-size: 20px; font-size: 13px;

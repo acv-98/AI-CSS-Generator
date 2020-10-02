@@ -1,0 +1,4 @@
+	background: url(../images/ie6/bg-page.jpg) no-repeat -1px 0;
+	height:auto;
+	width:960px;
+	margin:0 auto;

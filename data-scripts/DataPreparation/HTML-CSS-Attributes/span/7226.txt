@@ -1,0 +1,5 @@
+	background-color: #333;
+	border: 1px solid #242424;
+	text-decoration: none;
+	opacity: 100;
+	visibility: visible;

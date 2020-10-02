@@ -1,0 +1,8 @@
+  padding-bottom: 40px;
+  padding-top: 4px;
+  margin-left: 20px;
+  list-style: none;
+  color: #808080;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0.5px;

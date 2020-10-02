@@ -1,0 +1,2 @@
+ width: 540px; height: 60px; position: absolute; bottom: 0; right: 0; background: #fff;  position: static; height: auto; padding-top: 1px; 
+ color: #2b2828; font-size: 24px; padding-left: 20px;  color: #2b2828;  color: #000; 

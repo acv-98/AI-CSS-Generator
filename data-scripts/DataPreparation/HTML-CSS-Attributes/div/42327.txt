@@ -1,0 +1,11 @@
+	display: block;
+	width: 90px;
+	height: 30px;
+	padding: 5px 0 0 0;
+	background: url(images/readmore_bg.png) no-repeat;
+	
+	color: #dbd0c1;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;

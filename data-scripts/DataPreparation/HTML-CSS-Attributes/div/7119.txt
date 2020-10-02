@@ -1,0 +1,2 @@
+ float:left; width:650px; margin-left:30px; float:left; border:none; color:#9b9e9a; float:left; width:300px;  color:#c3c3c3; border-bottom:none; padding-bottom:20px; margin-bottom:0px; padding-top:0px; color:#9b9e9a;
+FOOTER-SECTION CLASSES

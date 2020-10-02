@@ -1,0 +1,1 @@
+background:url(images/border-bot.gif) repeat-x left bottombackground:url(images/border-bot.gif) repeat-x left bottom

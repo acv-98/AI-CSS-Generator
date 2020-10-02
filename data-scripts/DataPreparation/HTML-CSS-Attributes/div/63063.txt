@@ -1,0 +1,11 @@
+    padding: 10px;
+	background: #fff;      
+	border: 1px solid #ebeae5;
+	color: #333;
+	width: 202px;
+	float: left;
+	padding-bottom: 20px;
+	position: relative;
+	margin: 15px 15px;
+	font-family: 'oswald';
+	text-transform: uppercase;

@@ -1,0 +1,3 @@
+    width: 67.2%
+    float: left;
+    margin-right: 3.7%;

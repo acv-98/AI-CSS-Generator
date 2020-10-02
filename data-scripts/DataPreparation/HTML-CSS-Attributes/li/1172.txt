@@ -1,0 +1,11 @@
+ border-color: #dfdcdc;  font-size: 12px; font-family: 'Open Sans', sans-serif; color: #676768; font-style: normal; font-weight: 400;  color: #919303;  color: #6C6D03;  margin-right: 0; 
+ background-position: 70px bottom;  background-position: 15px bottom  background-position: 20px bottom;  background-position: 70% bottom  background: none;  margin-left: 0;  padding-left: 0; 	margin-right:3px;	margin-right:0px;	margin-right:0px;	margin-right:0px;	margin-right:0px !important;	margin-right:0px !important;.tp-bullets.simplebullets .bullet:hover,
+    border-right: 0 none;
+    margin-right: 0;
+    background: url("../images/icons/socials/lastfm.png") no-repeat scroll 0 0 transparent;
+    border-bottom: medium none;
+    list-style-type: none;
+    padding: 0;
+    line-height: 20px;
+    min-height: 20px;
+ margin-right:0; padding-right:0; 

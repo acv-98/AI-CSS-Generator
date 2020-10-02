@@ -1,0 +1,12 @@
+    background: #4eb478;	
+	-moz-transition: all 0.2s ease-in-out 0s;
+	-webkit-transition: all 0.2s ease-in-out 0s;
+	-o-transition: all 0.2s ease-in-out 0s;
+	-ms-transition: all 0.2s ease-in-out 0s;
+	transition: all 0.2s ease-in-out 0s;
+	background:#f5f5f5;
+	padding:20px;
+	margin:0;
+	text-align:center;
+	margin-bottom:5px;
+    color:#fff;

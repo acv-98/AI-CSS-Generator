@@ -1,0 +1,36 @@
+    height: auto;
+    margin: auto;
+    position: absolute;
+    top: -20px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    display: -webkit-flex;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+	text-transform: uppercase;
+	color: white;
+	font-size: 74px;
+	font-weight: 600;
+ font-size: 34px; 	background: rgba(252, 221, 68, 0.39) none repeat scroll 0% 0%;
+	border: 1px solid #D2B731;
+	display: inline-block;
+	padding: 18px 40px;
+	margin-top: 30px;
+	transition: all 0.3s ease;
+ font-size: 50px;  font-size: 30px;  font-size: 40px;	 font-size: 24px;  top: 0; 	.tm-banner-link {
+		padding: 12px 30px;
+		margin-top: 10px;
+    	font-size: 30px;
+ font-size: 16px; 	.tm-banner-link { 
+ font-size: 20px;	 font-size: 12px;  padding: 5px 10px; 	.tm-tours-box-1-info-left,
+	.tm-tours-box-1-info-right {
+		float: none;
+		width: 100%;

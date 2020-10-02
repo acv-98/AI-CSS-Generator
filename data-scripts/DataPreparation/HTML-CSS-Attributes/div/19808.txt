@@ -1,0 +1,11 @@
+  display: block;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+    display: block;
+    background: #2e2e2e;
+    color: #fff;
+    font-family: Montserrat;
+    padding: 1.5rem 0;
+    text-align: center;
+    bottom: 0;

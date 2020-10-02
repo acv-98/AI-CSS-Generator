@@ -1,0 +1,4 @@
+ text-align: right; 
+.tm-contact-box-1 {
+	background-color: #F4F4F4;
+	padding: 40px;

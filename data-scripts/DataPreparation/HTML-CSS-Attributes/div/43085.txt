@@ -1,0 +1,12 @@
+	font-size:18px;
+	text-transform:uppercase;
+	margin:0;
+	margin-bottom:30px;
+	margin-top:30px;
+	display:inline-block;
+	*display:inline;
+	*zoom:1;
+	line-height:1em;
+	vertical-align:top;
+	font-weight:bold;
+	letter-spacing:2px;

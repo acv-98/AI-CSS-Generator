@@ -1,0 +1,5 @@
+	float:right;
+	height:36px;
+	width:40px;
+	background:none;
+	cursor:pointer;

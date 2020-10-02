@@ -1,0 +1,8 @@
+	width:298px; height:194px;
+	margin:0px;
+	
+	padding:25px 234px 49px 24px;
+	background-image: url(../images/client_content.gif);
+	background-repeat: repeat-y;
+	background-position: 0px 0px;
+	text-align:justify;
