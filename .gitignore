@@ -2,3 +2,4 @@
 Scripts/WebsiteDownloader/formatted
 front-end/package-lock.json
 gpt2-model
+api/venv
