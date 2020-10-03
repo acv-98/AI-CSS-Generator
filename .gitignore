@@ -1,16 +1,4 @@
 ﻿Scripts/WebsiteDownloader/downloaded_websites
 Scripts/WebsiteDownloader/formatted
-api/venv
-api/__pycache__
 front-end/package-lock.json
-Scripts/DataExploring/venv
-api/.idea
-front-end/.idea
-front-end/package-lock.json
-gpt2-model/.idea
-Scripts/DataExploring/.idea
-Scripts/DataPreparation/.idea
-Scripts/DataPreparation/venv
-Scripts/WebsiteDownloader/.idea
-
 gpt2-model
